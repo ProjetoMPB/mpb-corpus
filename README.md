@@ -60,7 +60,11 @@ For a detailed description of the encoding, see INSERT CITATION.
 - `supplementary-material/r_letters_countermetricity_values.csv`: Contains the numerical values assigned to each r-letter according to their degree of countermetricity, used in the computation of the countermetricity index (CMI).
 
 ## Companion code
-WRITE
+We provide a companion Jupyter Notebook (`exploratory_data_analysis.ipynb`) containing code to reproduce the main analyses presented in this work. The notebook includes:
+- Implementations of the proposed metrics (CIEI, CMI, and MAI)
+- Code to generate and visualize the NF web
+- Scripts to reproduce all figures and tables presented in the paper
+- Utilities to convert our encoding schemes into alternative formats, along with usage examples
 
 ## Spotify playlists
 To facilitate listening and provide musical context for the dataset, we provide curated Spotify playlists corresponding to each composer included in the MPB Corpus. Each playlist contains the musical pieces analyzed in this work, when available on the platform.
