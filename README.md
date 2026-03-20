@@ -58,3 +58,21 @@ For a detailed description of the encoding, see INSERT CITATION.
 - `supplementary-material/lexicon_of_functional_categories.pdf`: A reference document describing the notation and meaning of the functional categories used in the dataset.
 - `supplementary-material/chord_types.pdf` Mapping between the genealogical chord notation to more familiar alphanumeric notation.
 - `supplementary-material/r_letters_countermetricity_values.csv`: Contains the numerical values assigned to each r-letter according to their degree of countermetricity, used in the computation of the countermetricity index (CMI).
+
+## Companion code
+WRITE
+
+## Spotify playlists
+To facilitate listening and provide musical context for the dataset, we provide curated Spotify playlists corresponding to each composer included in the MPB Corpus. Each playlist contains the musical pieces analyzed in this work, when available on the platform.
+
+Links to the playlists are provided below (in order of analysis):
+- [Tom Jobim](https://open.spotify.com/playlist/7HDlN5BRxsGnOwp0NVLBGt)
+- [Ivan Lins](https://open.spotify.com/playlist/5bewWfR5wUDizEZVUJcBQa)
+- [Chico Buarque](https://open.spotify.com/playlist/0BifNmWohJVSSl0HgMnbGk)
+- [Edu Lobo](https://open.spotify.com/playlist/0nvyNKHMzHy83HRIwZymQr)
+- [Caetano Veloso](https://open.spotify.com/playlist/7rIffYGLzaUnPM4dftNkPa)
+- [Djavan](https://open.spotify.com/playlist/4kKc4eHUMrOaWiGwsCj1uM)
+- [João Bosco](https://open.spotify.com/playlist/4UZMRJeXRtLMburXqLwVLy)
+- [Milton Nascimento](https://open.spotify.com/playlist/3JfQIADWnWdsTKNgOi8Iex)
+- [Gilberto Gil](https://open.spotify.com/playlist/37QMF6EuxOneQTLlFgLORg)
+- [Rita Lee](https://open.spotify.com/playlist/5N3gtetTypnsFvI3Sl3bEQ?si=4412bbb41f774d18&nd=1&dlsi=3955ff4a906b4163)
