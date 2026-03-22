@@ -59,9 +59,9 @@ The file "encoding-example.pdf" in this repository (Figure 6 in reference XXX) p
 - Exerpt to be encoded (a)
 - Segment the melody into autonomous units (b)
 - Encode pitch in each segment as c-words (transitions between segments are ignored):
-  * <Apps>, <pPSa>, <PPsp>, and <pAAAa>
+  * `<Apps>`, `<pPSa>`, `<PPsp>`, and `<pAAAa>`
 - Encode rhythm in each segment as r-words (only attack points are considered, durations are ignored):
-  * <tn>, <ul>, <pbee>, and <pgnc>
+  * `<tn>`, `<ul>`, `<pbee>`, and `<pgnc>`
 - Encode harmonic information for each chord: root, bass, type, function, key, mode, and metric position (c)
 - Encode note functions relative to both global (key) and local (chord) contexts (d). NF webs and MAI summarize these relationships (e)
 
