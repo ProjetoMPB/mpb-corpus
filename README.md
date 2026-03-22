@@ -54,6 +54,17 @@ This file contains the following columns:
 
 For a detailed description of the encoding, see INSERT CITATION.
 
+## Encoding example
+The file "encoding-example.pdf" in this repository (Figure 6 in reference XXX) provides an example of how the data is annotated. See the step-by-step process below:
+- Exerpt to be encoded (a)
+- Segment the melody into autonomous units (b)
+- Encode pitch in each segment as c-words (transitions between segments are ignored):
+  * <Apps>, <pPSa>, <PPsp>, and <pAAAa>
+- Encode rhythm in each segment as r-words (only attack points are considered, durations are ignored):
+  * <tn>, <ul>, <pbee>, and <pgnc>
+- Encode harmonic information for each chord: root, bass, type, function, key, mode, and metric position (c)
+- Encode note functions relative to both global (key) and local (chord) contexts (d). NF webs and MAI summarize these relationships (e)
+
 ## Supplementary material
 - `supplementary-material/lexicon_of_functional_categories.pdf`: A reference document describing the notation and meaning of the functional categories used in the dataset.
 - `supplementary-material/chord_types.pdf` Mapping between the genealogical chord notation to more familiar alphanumeric notation.
