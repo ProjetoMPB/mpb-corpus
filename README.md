@@ -93,3 +93,8 @@ Links to the playlists are provided below (in order of analysis):
 - [Milton Nascimento](https://open.spotify.com/playlist/3JfQIADWnWdsTKNgOi8Iex)
 - [Gilberto Gil](https://open.spotify.com/playlist/37QMF6EuxOneQTLlFgLORg)
 - [Rita Lee](https://open.spotify.com/playlist/5N3gtetTypnsFvI3Sl3bEQ?si=4412bbb41f774d18&nd=1&dlsi=3955ff4a906b4163)
+
+## License
+The material in this repository (code, dataset, and supplementary material) is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the material for any purpose, provided that appropriate credit is given to the authors and the source.
+
+This repository contains derived musical representations. No original copyrighted scores or audio files are distributed.
