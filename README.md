@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19222221.svg)](https://doi.org/10.5281/zenodo.19222221)
+
 The MPB Corpus is a dataset of 500 musical pieces from Brazilian Popular Music (MPB), encoded across four musical dimensions: melodic contour, melodic rhythm, harmony, and melody–harmony relationships. It provides a structured and detailed representation of musical information aimed at supporting research in computational musicology, music analysis, and data-driven studies of MPB. Overall, the MPB Corpus enables both qualitative and quantitative investigations, offering a foundation for systematically addressing musicological questions about the genre.
 
 When using the dataset, please read and cite the following article: INSERT CITATION
