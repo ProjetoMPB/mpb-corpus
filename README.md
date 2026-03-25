@@ -55,7 +55,7 @@ This file contains the following columns:
 For a detailed description of the encoding, see INSERT CITATION.
 
 ## Encoding example
-The file "encoding-example.pdf" in this repository (Figure 6 in reference XXX) provides an example of how the data is annotated. See the step-by-step process below:
+The file `encoding-example.pdf` in this repository (Figure 6 in reference XXX) provides an example of how the data is annotated. See the step-by-step process below:
 - Exerpt to be encoded (a)
 - Segment the melody into autonomous units (b)
 - Encode pitch in each segment as c-words (transitions between segments are ignored):
