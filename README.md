@@ -1,0 +1,1 @@
+This branch contains a minimal version of the repository prepared for archival and release. For additional information (including companion code and supplementary material), please refer to the main branch of the repository at: [https://github.com/ProjetoMPB/mpb-corpus](https://github.com/ProjetoMPB/mpb-corpus)
