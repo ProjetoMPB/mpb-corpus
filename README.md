@@ -69,7 +69,7 @@ The file "encoding-example.pdf" in this repository (Figure 6 in reference XXX) p
 - `supplementary-material/lexicon_of_functional_categories.pdf`: A reference document describing the notation and meaning of the functional categories used in the dataset.
 - `supplementary-material/chord_types.pdf`:  Mapping between the genealogical chord notation to more familiar alphanumeric notation.
 - `supplementary-material/full_genealogy.pdf`: Complete genealogy of the 10 protochords, resulting in 161 chord types. Each figure corresponds to the genealogy of a protochord, and each block shows the genealogical notation, the usual alphanumeric chord notation (using C as the root), and the number of notes in that chord.
-- `chord_review_examples.pdf`: Examples of frequent corrections made when annotating harmony.
+- `supplementary-material/chord_review_examples.pdf`: Examples of frequent corrections made when annotating harmony.
 - `supplementary-material/r_letters_countermetricity_values.csv`: Contains the numerical values assigned to each r-letter according to their degree of countermetricity, used in the computation of the countermetricity index (CMI).
 
 ## Companion code
