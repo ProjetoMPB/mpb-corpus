@@ -1,0 +1,1449 @@
+corpus_id,composition_id,composition_name,chord_index,root,bass,chord_type,chord_symbol,functional_category,key,mode,position
+CAETANO,1,A filha da Chiquita Bacana,1,0,0,V0,*,I,0,major,1.0
+CAETANO,1,A filha da Chiquita Bacana,2,5,5,V0,*,IV,0,major,2.0
+CAETANO,1,A filha da Chiquita Bacana,3,0,0,V0,*,I,0,major,3.0
+CAETANO,1,A filha da Chiquita Bacana,4,8,8,V0,*,Np/V,0,major,4.0
+CAETANO,1,A filha da Chiquita Bacana,5,7,7,V0,*,V,0,major,5.0
+CAETANO,1,A filha da Chiquita Bacana,6,8,8,V0,*,Np/V,0,major,6.0
+CAETANO,1,A filha da Chiquita Bacana,7,7,7,V0,*,V,0,major,7.0
+CAETANO,1,A filha da Chiquita Bacana,8,6,6,V0,*,Np/IV,0,major,7.5
+CAETANO,1,A filha da Chiquita Bacana,9,5,5,V0,*,IV,0,major,8.0
+CAETANO,1,A filha da Chiquita Bacana,10,0,0,V0,*,I,0,major,10.0
+CAETANO,1,A filha da Chiquita Bacana,11,5,5,V0,*,IV,0,major,12.0
+CAETANO,1,A filha da Chiquita Bacana,12,0,0,V0,*,I,0,major,14.0
+CAETANO,1,A filha da Chiquita Bacana,13,5,5,V0,*,IV,0,major,16.0
+CAETANO,1,A filha da Chiquita Bacana,14,0,0,V0,*,I,0,major,18.0
+CAETANO,1,A filha da Chiquita Bacana,15,8,8,Y0,*7,SubV/V,0,major,19.0
+CAETANO,1,A filha da Chiquita Bacana,16,7,7,Y0,*7,V,0,major,19.5
+CAETANO,1,A filha da Chiquita Bacana,17,0,0,V0,*,I,0,major,20.0
+CAETANO,1,A filha da Chiquita Bacana,18,4,4,Y0,*7,V/VI,0,major,22.0
+CAETANO,1,A filha da Chiquita Bacana,19,5,5,Y0,*7,IV7,0,major,26.0
+CAETANO,1,A filha da Chiquita Bacana,20,7,7,Y0,*7,V,0,major,30.0
+CAETANO,1,A filha da Chiquita Bacana,21,0,0,V0,*,I,0,major,32.0
+CAETANO,1,A filha da Chiquita Bacana,22,4,4,Y0,*7,V/VI,0,major,34.0
+CAETANO,1,A filha da Chiquita Bacana,23,5,5,V0,*,IV,0,major,39.0
+CAETANO,1,A filha da Chiquita Bacana,24,0,0,V0,*,I,0,major,43.0
+CAETANO,1,A filha da Chiquita Bacana,25,8,8,Y0,*7,SubV/V,0,major,44.0
+CAETANO,1,A filha da Chiquita Bacana,26,7,7,Y0,*7,V,0,major,44.5
+CAETANO,1,A filha da Chiquita Bacana,27,0,0,V0,*,I,0,major,45.0
+CAETANO,2,A outra banda da terra,1,0,0,Z2,*M7.9,I,0,major,1.0
+CAETANO,2,A outra banda da terra,2,5,5,z0,*m7,II__X,0,major,2.0
+CAETANO,2,A outra banda da terra,3,10,10,Y2,*7.9,SubV/VI,0,major,2.5
+CAETANO,2,A outra banda da terra,4,3,3,Z2,*M7.9,bIII7M,0,major,3.0
+CAETANO,2,A outra banda da terra,5,8,8,Z0,*M7,bVI7M,0,major,4.0
+CAETANO,2,A outra banda da terra,6,2,2,y0,*Ø,IIm7(b5),0,major,5.0
+CAETANO,2,A outra banda da terra,7,7,7,Y0,*7,V,0,major,6.0
+CAETANO,2,A outra banda da terra,8,7,7,z0,*m7,II__X,0,major,7.0
+CAETANO,2,A outra banda da terra,9,0,0,Y2.3,*7(b9),V/IV,0,major,8.0
+CAETANO,2,A outra banda da terra,10,5,5,Z0,*M7,IV,0,major,9.0
+CAETANO,2,A outra banda da terra,11,5,5,z1,*m6,IVm7,0,major,10.0
+CAETANO,2,A outra banda da terra,12,4,4,z0,*m7,II__X,0,major,11.0
+CAETANO,2,A outra banda da terra,13,9,9,Y2.3,*7(b9),V/II,0,major,12.0
+CAETANO,2,A outra banda da terra,14,2,2,Y1.1,*4.7.9,V/V,0,major,13.0
+CAETANO,2,A outra banda da terra,15,4,4,Y1.1,*4.7.9,V/VI,0,major,14.0
+CAETANO,2,A outra banda da terra,16,2,2,Y1.1,*4.7.9,V/V,0,major,15.0
+CAETANO,2,A outra banda da terra,17,4,4,Y1.1,*4.7.9,V/VI,0,major,16.0
+CAETANO,2,A outra banda da terra,18,2,2,Y1.1,*4.7.9,V/V,0,major,17.0
+CAETANO,2,A outra banda da terra,19,4,4,Y1.1,*4.7.9,V/VI,0,major,18.0
+CAETANO,2,A outra banda da terra,20,2,2,Y1.1,*4.7.9,V/V,0,major,19.0
+CAETANO,2,A outra banda da terra,21,7,7,W0,*(#5)7,V,0,major,20.0
+CAETANO,2,A outra banda da terra,22,0,0,Z2,*M7.9,I,0,major,21.0
+CAETANO,3,Atras do trio eletrico,1,5,5,V0,*,I,5,major,1.0
+CAETANO,3,Atras do trio eletrico,2,10,10,V0,*,IV,5,major,3.0
+CAETANO,3,Atras do trio eletrico,3,0,0,Y0,*7,V,5,major,4.0
+CAETANO,3,Atras do trio eletrico,4,5,5,V0,*,I,5,major,5.0
+CAETANO,3,Atras do trio eletrico,5,10,10,V0,*,IV,5,major,7.0
+CAETANO,3,Atras do trio eletrico,6,0,0,V0,*,V,5,major,8.0
+CAETANO,3,Atras do trio eletrico,7,10,10,V0,*,IV,5,major,9.0
+CAETANO,3,Atras do trio eletrico,8,0,0,V0,*,V,5,major,10.0
+CAETANO,3,Atras do trio eletrico,9,10,10,V0,*,IV,5,major,11.0
+CAETANO,3,Atras do trio eletrico,10,0,0,V0,*,V,5,major,12.0
+CAETANO,3,Atras do trio eletrico,11,5,5,V0,*,I,5,major,16.0
+CAETANO,3,Atras do trio eletrico,12,0,0,Y0,*7,V,5,major,20.0
+CAETANO,3,Atras do trio eletrico,13,5,5,V0,*,I,5,major,22.0
+CAETANO,3,Atras do trio eletrico,14,5,5,Y0,*7,V/IV,5,major,24.0
+CAETANO,3,Atras do trio eletrico,15,10,10,V0,*,IV,5,major,25.0
+CAETANO,3,Atras do trio eletrico,16,11,11,x0,*°7,V°/V,5,major,26.0
+CAETANO,3,Atras do trio eletrico,17,5,0,V0,*,I,5,major,27.0
+CAETANO,3,Atras do trio eletrico,18,0,0,Y0,*7,V,5,major,28.0
+CAETANO,3,Atras do trio eletrico,19,5,5,V0,*,I,5,major,29.0
+CAETANO,4,Baby,1,9,9,V0,*,I,9,major,1.0
+CAETANO,4,Baby,2,2,2,V0,*,IV,9,major,2.0
+CAETANO,4,Baby,3,9,9,V0,*,I,9,major,3.0
+CAETANO,4,Baby,4,2,2,V0,*,IV,9,major,4.0
+CAETANO,4,Baby,5,9,9,V0,*,I,9,major,5.0
+CAETANO,4,Baby,6,2,2,V0,*,IV,9,major,6.0
+CAETANO,4,Baby,7,9,9,V0,*,I,9,major,7.0
+CAETANO,4,Baby,8,2,2,V0,*,IV,9,major,8.0
+CAETANO,4,Baby,9,9,9,V0,*,I,9,major,9.0
+CAETANO,4,Baby,10,2,2,V0,*,IV,9,major,10.0
+CAETANO,4,Baby,11,6,6,z0,*m7,VI,9,major,11.0
+CAETANO,4,Baby,12,11,11,z0,*m7,II,9,major,12.0
+CAETANO,4,Baby,13,4,4,W0,*(#5)7,V,9,major,13.0
+CAETANO,4,Baby,14,9,9,V0,*,I,9,major,14.0
+CAETANO,4,Baby,15,6,6,z0,*m7,VI,9,major,15.0
+CAETANO,4,Baby,16,11,11,z0,*m7,II,9,major,16.0
+CAETANO,4,Baby,17,4,4,W0,*(#5)7,V,9,major,17.0
+CAETANO,4,Baby,18,9,9,V0,*,I,9,major,18.0
+CAETANO,5,Cajuina,1,0,0,v0,*m,I,0,minor,1.0
+CAETANO,5,Cajuina,2,2,2,y0,*Ø,II,0,minor,2.0
+CAETANO,5,Cajuina,3,7,7,Y0,*7,V,0,minor,3.0
+CAETANO,5,Cajuina,4,0,0,v0,*m,I,0,minor,4.0
+CAETANO,5,Cajuina,5,0,0,Y0,*7,V/IV,0,minor,5.0
+CAETANO,5,Cajuina,6,5,5,v0,*m,IV,0,minor,6.0
+CAETANO,5,Cajuina,7,10,10,Y0,*7,V/III,0,minor,7.0
+CAETANO,5,Cajuina,8,3,3,Z0,*M7,III,0,minor,8.0
+CAETANO,5,Cajuina,9,8,8,V0,*,VI,0,minor,9.0
+CAETANO,5,Cajuina,10,7,7,V0,*,V,0,minor,10.0
+CAETANO,5,Cajuina,11,7,7,Y0,*7,V,0,minor,11.0
+CAETANO,5,Cajuina,12,0,0,Y0,*7,V/IV,0,minor,12.0
+CAETANO,5,Cajuina,13,5,5,v0,*m,IV,0,minor,14.0
+CAETANO,5,Cajuina,14,7,7,Y0,*7,V,0,minor,15.0
+CAETANO,5,Cajuina,15,0,0,v0,*m,I,0,minor,16.0
+CAETANO,6,Cinema Olimpia,1,0,0,V0,*,I,0,major,1.0
+CAETANO,6,Cinema Olimpia,2,5,5,V0,*,IV,0,major,2.0
+CAETANO,6,Cinema Olimpia,3,0,0,V0,*,I,0,major,3.0
+CAETANO,6,Cinema Olimpia,4,5,5,V0,*,IV,0,major,4.0
+CAETANO,6,Cinema Olimpia,5,0,0,V0,*,I,0,major,5.0
+CAETANO,6,Cinema Olimpia,6,5,5,V0,*,IV,0,major,6.0
+CAETANO,6,Cinema Olimpia,7,0,0,V0,*,I,0,major,7.0
+CAETANO,6,Cinema Olimpia,8,5,5,V0,*,IV,0,major,8.0
+CAETANO,6,Cinema Olimpia,9,9,9,z0,*m7,II__X,0,major,9.0
+CAETANO,6,Cinema Olimpia,10,2,2,Y0,*7,V/V,0,major,10.0
+CAETANO,6,Cinema Olimpia,11,9,9,z0,*m7,II__X,0,major,11.0
+CAETANO,6,Cinema Olimpia,12,2,2,Y0,*7,V/V,0,major,12.0
+CAETANO,6,Cinema Olimpia,13,9,9,z0,*m7,II__X,0,major,13.0
+CAETANO,6,Cinema Olimpia,14,2,2,Y0,*7,V/V,0,major,14.0
+CAETANO,6,Cinema Olimpia,15,7,7,V0,*,V,0,major,15.0
+CAETANO,6,Cinema Olimpia,16,7,7,Y0,*7,V,0,major,16.0
+CAETANO,6,Cinema Olimpia,17,0,0,V0,*,I,0,major,17.0
+CAETANO,6,Cinema Olimpia,18,5,5,V0,*,IV,0,major,18.0
+CAETANO,6,Cinema Olimpia,19,10,10,V0,*,bVII7M,0,major,19.0
+CAETANO,6,Cinema Olimpia,20,7,7,Y0,*7,V,0,major,20.0
+CAETANO,6,Cinema Olimpia,21,0,0,V0,*,I,0,major,21.0
+CAETANO,6,Cinema Olimpia,22,5,5,V0,*,IV,0,major,22.0
+CAETANO,6,Cinema Olimpia,23,10,10,V0,*,bVII7M,0,major,23.0
+CAETANO,6,Cinema Olimpia,24,7,7,Y0,*7,V,0,major,24.0
+CAETANO,7,Chuva suor e cerveja,1,2,2,Z1.1,*6.9,I,2,major,1.0
+CAETANO,7,Chuva suor e cerveja,2,9,9,W0,*(#5)7,V,2,major,2.0
+CAETANO,7,Chuva suor e cerveja,3,2,2,Z1.1,*6.9,I,2,major,3.0
+CAETANO,7,Chuva suor e cerveja,4,9,9,W0,*(#5)7,V,2,major,4.0
+CAETANO,7,Chuva suor e cerveja,5,2,2,Z1.1,*6.9,I,2,major,5.0
+CAETANO,7,Chuva suor e cerveja,6,5,5,x0,*°7,bIII°,2,major,6.0
+CAETANO,7,Chuva suor e cerveja,7,4,4,z0,*m7,II,2,major,7.0
+CAETANO,7,Chuva suor e cerveja,8,11,11,Y4.1,*7(b13),V/II,2,major,8.0
+CAETANO,7,Chuva suor e cerveja,9,2,2,z0,*m7,II,2,major,9.0
+CAETANO,7,Chuva suor e cerveja,10,5,5,Y2,*7.9,SubV/II,2,major,10.0
+CAETANO,7,Chuva suor e cerveja,11,4,4,z0,*m7,II,2,major,11.0
+CAETANO,7,Chuva suor e cerveja,12,11,11,Y4.1,*7(b13),V/II,2,major,12.0
+CAETANO,7,Chuva suor e cerveja,13,4,4,z0,*m7,II,2,major,13.0
+CAETANO,7,Chuva suor e cerveja,14,9,9,Y2,*7.9,V,2,major,14.0
+CAETANO,7,Chuva suor e cerveja,15,2,2,Z1.1,*6.9,I,2,major,15.0
+CAETANO,7,Chuva suor e cerveja,16,9,9,W0,*(#5)7,V,2,major,16.0
+CAETANO,7,Chuva suor e cerveja,17,2,2,Z1.1,*6.9,I,2,major,17.0
+CAETANO,7,Chuva suor e cerveja,18,9,9,W0,*(#5)7,V,2,major,18.0
+CAETANO,7,Chuva suor e cerveja,19,2,2,Z1.1,*6.9,I,2,major,19.0
+CAETANO,7,Chuva suor e cerveja,20,9,9,W0,*(#5)7,V,2,major,20.0
+CAETANO,7,Chuva suor e cerveja,21,9,9,z0,*m7,II__X,2,major,21.0
+CAETANO,7,Chuva suor e cerveja,22,2,2,Y2,*7.9,V/IV,2,major,22.0
+CAETANO,7,Chuva suor e cerveja,23,7,7,V0,*,IV,2,major,23.0
+CAETANO,7,Chuva suor e cerveja,24,8,8,x0,*°7,V°/V,2,major,24.0
+CAETANO,7,Chuva suor e cerveja,25,2,9,V0,*,I,2,major,25.0
+CAETANO,7,Chuva suor e cerveja,26,11,11,z0,*m7,VI,2,major,26.0
+CAETANO,7,Chuva suor e cerveja,27,4,4,z0,*m7,II,2,major,27.0
+CAETANO,7,Chuva suor e cerveja,28,9,9,Y2,*7.9,V,2,major,28.0
+CAETANO,7,Chuva suor e cerveja,29,2,2,Z1.1,*6.9,I,2,major,29.0
+CAETANO,7,Chuva suor e cerveja,30,9,9,W0,*(#5)7,V,2,major,30.0
+CAETANO,7,Chuva suor e cerveja,31,2,2,Z1.1,*6.9,I,2,major,31.0
+CAETANO,7,Chuva suor e cerveja,32,5,5,x0,*°7,bIII°,2,major,32.0
+CAETANO,7,Chuva suor e cerveja,33,4,4,z0,*m7,II,2,major,33.0
+CAETANO,7,Chuva suor e cerveja,34,9,9,Y2,*7.9,V,2,major,34.0
+CAETANO,7,Chuva suor e cerveja,35,2,2,Z1.1,*6.9,I,2,major,35.0
+CAETANO,7,Chuva suor e cerveja,36,5,5,x0,*°7,bIII°,2,major,36.0
+CAETANO,7,Chuva suor e cerveja,37,4,4,z0,*m7,II,2,major,37.0
+CAETANO,7,Chuva suor e cerveja,38,9,9,Y2,*7.9,V,2,major,38.0
+CAETANO,7,Chuva suor e cerveja,39,2,2,Z1.1,*6.9,I,2,major,39.0
+CAETANO,8,Coracao vagabundo,1,7,7,z0,*m7,I,7,minor,1.0
+CAETANO,8,Coracao vagabundo,2,9,9,Y0,*7,V/V,7,minor,2.0
+CAETANO,8,Coracao vagabundo,3,9,9,y0,*Ø,II,7,minor,3.0
+CAETANO,8,Coracao vagabundo,4,2,2,Y2.3,*7(b9),V,7,minor,4.0
+CAETANO,8,Coracao vagabundo,5,7,7,z0,*m7,I,7,minor,4.5
+CAETANO,8,Coracao vagabundo,6,7,7,Y2.3,*7(b9),V/IV,7,minor,5.0
+CAETANO,8,Coracao vagabundo,7,7,7,X0,*(b5)7,V/IV,7,minor,6.0
+CAETANO,8,Coracao vagabundo,8,0,0,z2,*m7.9,IV,7,minor,6.5
+CAETANO,8,Coracao vagabundo,9,9,9,Y4,*7.13,V/V,7,minor,7.0
+CAETANO,8,Coracao vagabundo,10,9,9,Y4.1,*7(b13),V/V,7,minor,8.0
+CAETANO,8,Coracao vagabundo,11,9,9,z0,*m7,II,7,minor,8.5
+CAETANO,8,Coracao vagabundo,12,2,2,Y2.3,*7(b9),V,7,minor,9.0
+CAETANO,8,Coracao vagabundo,13,7,7,z0,*m7,I,7,minor,9.5
+CAETANO,8,Coracao vagabundo,14,9,9,Y0,*7,V/V,7,minor,10.0
+CAETANO,8,Coracao vagabundo,15,9,9,y0,*Ø,II,7,minor,11.0
+CAETANO,8,Coracao vagabundo,16,2,2,Y2.3,*7(b9),V,7,minor,11.5
+CAETANO,8,Coracao vagabundo,17,7,7,Y0,*7,V/IV,7,minor,12.0
+CAETANO,8,Coracao vagabundo,18,7,7,Y2.3,*7(b9),V/IV,7,minor,12.5
+CAETANO,8,Coracao vagabundo,19,0,0,z0,*m7,IV,7,minor,13.0
+CAETANO,8,Coracao vagabundo,20,5,5,Y0,*7,V/III,7,minor,13.5
+CAETANO,8,Coracao vagabundo,21,10,10,Y0,*7,V/VI,7,minor,14.0
+CAETANO,8,Coracao vagabundo,22,3,3,Y2,*7.9,SubV/V,7,minor,14.5
+CAETANO,8,Coracao vagabundo,23,4,4,x0,*°7,?,7,minor,15.0
+CAETANO,8,Coracao vagabundo,24,6,3,x0,*°7,V°,7,minor,15.5
+CAETANO,8,Coracao vagabundo,25,7,7,z0,*m7,I,7,minor,16.0
+CAETANO,9,Alegria alegria,1,7,7,V0,*,I,7,major,1.0
+CAETANO,9,Alegria alegria,2,0,0,V0,*,IV,7,major,2.0
+CAETANO,9,Alegria alegria,3,2,2,V0,*,V,7,major,2.5
+CAETANO,9,Alegria alegria,4,7,7,V0,*,I,7,major,3.0
+CAETANO,9,Alegria alegria,5,0,0,V0,*,IV,7,major,4.0
+CAETANO,9,Alegria alegria,6,5,5,V0,*,bVII7M,7,major,5.0
+CAETANO,9,Alegria alegria,7,2,6,V0,*,V,7,major,5.5
+CAETANO,9,Alegria alegria,8,7,7,V0,*,I,7,major,6.0
+CAETANO,9,Alegria alegria,9,0,0,V0,*,IV,7,major,8.0
+CAETANO,9,Alegria alegria,10,2,2,V0,*,V,7,major,8.5
+CAETANO,9,Alegria alegria,11,7,7,V0,*,I,7,major,9.0
+CAETANO,9,Alegria alegria,12,0,0,V0,*,IV,7,major,10.0
+CAETANO,9,Alegria alegria,13,5,5,V0,*,bVII7M,7,major,11.0
+CAETANO,9,Alegria alegria,14,2,6,V0,*,V,7,major,11.5
+CAETANO,9,Alegria alegria,15,7,7,V0,*,I,7,major,12.0
+CAETANO,9,Alegria alegria,16,9,9,Y0,*7,V/V,7,major,17.0
+CAETANO,9,Alegria alegria,17,4,4,v0,*m,VI,7,major,18.0
+CAETANO,9,Alegria alegria,18,9,9,Y0,*7,V/V,7,major,19.0
+CAETANO,9,Alegria alegria,19,4,4,v0,*m,VI,7,major,20.0
+CAETANO,9,Alegria alegria,20,2,6,V0,*,V,7,major,21.0
+CAETANO,9,Alegria alegria,21,5,5,V0,*,IV,0,major,21.5
+CAETANO,9,Alegria alegria,22,0,4,V0,*,I,0,major,22.0
+CAETANO,9,Alegria alegria,23,5,5,V0,*,IV,0,major,23.0
+CAETANO,9,Alegria alegria,24,7,7,V0,*,V,0,major,23.5
+CAETANO,9,Alegria alegria,25,0,0,V0,*,I,0,major,24.0
+CAETANO,9,Alegria alegria,26,5,5,V0,*,IV,0,major,25.0
+CAETANO,9,Alegria alegria,27,10,10,V0,*,bVII7M,0,major,26.0
+CAETANO,9,Alegria alegria,28,7,7,V0,*,I,7,major,27.0
+CAETANO,9,Alegria alegria,29,0,0,V0,*,IV,7,major,28.0
+CAETANO,9,Alegria alegria,30,7,7,V0,*,I,7,major,29.0
+CAETANO,9,Alegria alegria,31,0,0,V0,*,IV,7,major,30.0
+CAETANO,9,Alegria alegria,32,7,7,V0,*,I,7,major,31.0
+CAETANO,9,Alegria alegria,33,0,0,V0,*,IV,7,major,32.0
+CAETANO,9,Alegria alegria,34,7,7,V0,*,I,7,major,33.0
+CAETANO,10,A tua presenca morena,1,2,2,Y2,*7.9,I,2,major,1.0
+CAETANO,10,A tua presenca morena,2,0,0,Y2,*7.9,bVII7,2,major,2.0
+CAETANO,10,A tua presenca morena,3,10,10,Y2,*7.9,SubV/V,2,major,3.0
+CAETANO,10,A tua presenca morena,4,9,9,Y0,*7,V,2,major,4.0
+CAETANO,10,A tua presenca morena,5,2,2,Y2,*7.9,I,2,major,5.0
+CAETANO,10,A tua presenca morena,6,0,0,Y2,*7.9,bVII7,2,major,6.0
+CAETANO,10,A tua presenca morena,7,10,10,Y2,*7.9,SubV/V,2,major,7.0
+CAETANO,10,A tua presenca morena,8,9,9,Y0,*7,V,2,major,8.0
+CAETANO,10,A tua presenca morena,9,2,2,Y2,*7.9,I,2,major,9.0
+CAETANO,10,A tua presenca morena,10,0,0,Y2,*7.9,bVII7,2,major,10.0
+CAETANO,10,A tua presenca morena,11,10,10,Y2,*7.9,SubV/V,2,major,11.0
+CAETANO,10,A tua presenca morena,12,9,9,Y0,*7,V,2,major,12.0
+CAETANO,10,A tua presenca morena,13,2,2,Y2,*7.9,I,2,major,13.0
+CAETANO,10,A tua presenca morena,14,0,0,Y2,*7.9,bVII7,2,major,14.0
+CAETANO,10,A tua presenca morena,15,10,10,Y2,*7.9,SubV/V,2,major,15.0
+CAETANO,10,A tua presenca morena,16,9,9,Y0,*7,V,2,major,16.0
+CAETANO,10,A tua presenca morena,17,2,2,Y2,*7.9,I,2,major,17.0
+CAETANO,10,A tua presenca morena,18,0,0,Y2,*7.9,bVII7,2,major,18.0
+CAETANO,10,A tua presenca morena,19,10,10,Y2,*7.9,SubV/V,2,major,19.0
+CAETANO,10,A tua presenca morena,20,9,9,Y0,*7,V,2,major,20.0
+CAETANO,10,A tua presenca morena,21,2,2,Y2,*7.9,I,2,major,21.0
+CAETANO,10,A tua presenca morena,22,0,0,Y2,*7.9,bVII7,2,major,22.0
+CAETANO,10,A tua presenca morena,23,7,7,V0,*,IV,2,major,23.0
+CAETANO,10,A tua presenca morena,24,11,11,Y0,*7,V/II,2,major,24.0
+CAETANO,10,A tua presenca morena,25,4,4,v0,*m,II,2,major,25.0
+CAETANO,10,A tua presenca morena,26,2,2,Y2,*7.9,I,2,major,26.0
+CAETANO,10,A tua presenca morena,27,0,0,Y2,*7.9,bVII7,2,major,27.0
+CAETANO,10,A tua presenca morena,28,10,10,Y2,*7.9,SubV/V,2,major,28.0
+CAETANO,10,A tua presenca morena,29,9,9,Y0,*7,V,2,major,29.0
+CAETANO,10,A tua presenca morena,30,2,2,V0,*,I,2,major,30.0
+CAETANO,11,Avarandado,1,9,9,Z0,*M7,I,9,major,1.0
+CAETANO,11,Avarandado,2,9,9,Z1,*6,I,9,major,1.5
+CAETANO,11,Avarandado,3,11,11,z0,*m7,II,9,major,2.0
+CAETANO,11,Avarandado,4,4,4,Y2,*7.9,V,9,major,3.0
+CAETANO,11,Avarandado,5,9,9,x0,*°7,I°,9,major,4.0
+CAETANO,11,Avarandado,6,9,9,Z0,*M7,I,9,major,4.5
+CAETANO,11,Avarandado,7,9,9,Z1,*6,I,9,major,5.0
+CAETANO,11,Avarandado,8,3,3,z0,*m7,II__X,9,major,6.0
+CAETANO,11,Avarandado,9,8,8,Y0,*7,V/III,9,major,6.5
+CAETANO,11,Avarandado,10,1,1,z0,*m7,III,9,major,7.0
+CAETANO,11,Avarandado,11,4,4,Y2.3,*7(b9),V,9,major,7.5
+CAETANO,11,Avarandado,12,9,9,Z0,*M7,I,9,major,8.0
+CAETANO,11,Avarandado,13,9,9,z0,*m7,I,9,minor,9.0
+CAETANO,11,Avarandado,14,2,2,Y2,*7.9,V/bVII,9,minor,10.0
+CAETANO,11,Avarandado,15,7,7,Y0,*7,V/III,9,minor,11.0
+CAETANO,11,Avarandado,16,7,7,z1,*m6,bVIIm7,9,minor,12.0
+CAETANO,11,Avarandado,17,5,5,Y2,*7.9,SubV/V,9,minor,13.0
+CAETANO,11,Avarandado,18,10,10,Z0,*M7,bII7M,9,minor,14.0
+CAETANO,11,Avarandado,19,4,4,Y2,*7.9,V,9,minor,14.5
+CAETANO,11,Avarandado,20,9,9,z0,*m7,I,9,minor,15.0
+CAETANO,11,Avarandado,21,11,11,z3,*m7.11,II,9,minor,16.0
+CAETANO,11,Avarandado,22,4,4,Y2.3,*7(b9),V,9,minor,16.5
+CAETANO,11,Avarandado,23,9,9,z0,*m7,I,9,minor,17.0
+CAETANO,11,Avarandado,24,11,11,z3,*m7.11,II,9,minor,18.0
+CAETANO,11,Avarandado,25,4,4,Y2.3,*7(b9),V,9,minor,18.5
+CAETANO,11,Avarandado,26,9,9,Z0,*M7,I,9,major,19.0
+CAETANO,11,Avarandado,27,11,11,z0,*m7,II,9,major,20.0
+CAETANO,11,Avarandado,28,4,4,Y2,*7.9,V,9,major,21.0
+CAETANO,11,Avarandado,29,9,9,z0,*m7,I°,9,major,22.0
+CAETANO,11,Avarandado,30,9,9,Z0,*M7,I,9,major,22.5
+CAETANO,11,Avarandado,31,9,9,Z1,*6,I,9,major,23.0
+CAETANO,11,Avarandado,32,3,3,y0,*Ø,II__X,9,major,24.0
+CAETANO,11,Avarandado,33,8,8,Y4.1,*7(b13),V/III,9,major,24.5
+CAETANO,11,Avarandado,34,1,1,z0,*m7,II__X,9,major,25.0
+CAETANO,11,Avarandado,35,6,6,Y2.3,*7(b9),V/II,9,major,25.5
+CAETANO,11,Avarandado,36,11,11,z0,*m7,II,9,major,26.0
+CAETANO,11,Avarandado,37,4,4,Y2.3,*7(b9),V,9,major,26.5
+CAETANO,11,Avarandado,38,1,1,z0,*m7,II__X,9,major,27.0
+CAETANO,11,Avarandado,39,6,6,Y2.3,*7(b9),V/II,9,major,27.5
+CAETANO,11,Avarandado,40,11,11,z0,*m7,II,9,major,28.0
+CAETANO,11,Avarandado,41,4,4,Y2.3,*7(b9),V,9,major,28.5
+CAETANO,11,Avarandado,42,1,1,z0,*m7,II__X,9,major,29.0
+CAETANO,11,Avarandado,43,6,6,Y2.3,*7(b9),V/II,9,major,29.5
+CAETANO,11,Avarandado,44,11,11,Y2,*7.9,V/V,9,major,30.0
+CAETANO,11,Avarandado,45,4,4,Y2,*7.9,V,9,major,30.5
+CAETANO,11,Avarandado,46,5,5,Z0,*M7,bVI7M,9,major,31.0
+CAETANO,11,Avarandado,47,9,9,Z0,*M7,I,9,major,32.0
+CAETANO,12,Beleza pura,1,0,0,V0,*,I,0,major,1.0
+CAETANO,12,Beleza pura,2,9,9,z0,*m7,VI,0,major,1.5
+CAETANO,12,Beleza pura,3,2,2,z0,*m7,II,0,major,2.0
+CAETANO,12,Beleza pura,4,7,7,Y0,*7,V,0,major,2.5
+CAETANO,12,Beleza pura,5,0,0,V0,*,I,0,major,3.0
+CAETANO,12,Beleza pura,6,9,9,z0,*m7,VI,0,major,3.5
+CAETANO,12,Beleza pura,7,2,2,z0,*m7,II,0,major,4.0
+CAETANO,12,Beleza pura,8,7,7,Y0,*7,V,0,major,4.5
+CAETANO,12,Beleza pura,9,0,0,V0,*,I,0,major,5.0
+CAETANO,12,Beleza pura,10,9,9,z0,*m7,VI,0,major,5.5
+CAETANO,12,Beleza pura,11,2,2,z0,*m7,II,0,major,6.0
+CAETANO,12,Beleza pura,12,7,7,Y0,*7,V,0,major,6.5
+CAETANO,12,Beleza pura,13,0,0,V0,*,I,0,major,7.0
+CAETANO,12,Beleza pura,14,9,9,z0,*m7,VI,0,major,7.5
+CAETANO,12,Beleza pura,15,2,2,z0,*m7,II,0,major,8.0
+CAETANO,12,Beleza pura,16,7,7,Y0,*7,V,0,major,8.5
+CAETANO,12,Beleza pura,17,11,11,z0,*m7,I,11,minor,9.0
+CAETANO,12,Beleza pura,18,4,4,Y0,*7,V,11,minor,10.0
+CAETANO,12,Beleza pura,19,11,11,z0,*m7,I,11,minor,11.0
+CAETANO,12,Beleza pura,20,4,4,Y0,*7,V,11,minor,12.0
+CAETANO,12,Beleza pura,21,11,11,z0,*m7,I,11,minor,13.0
+CAETANO,12,Beleza pura,22,4,4,Y0,*7,V,11,minor,14.0
+CAETANO,12,Beleza pura,23,9,9,Y0,*7,V/II,0,major,15.0
+CAETANO,12,Beleza pura,24,2,2,Y0,*7,V/V,0,major,16.0
+CAETANO,12,Beleza pura,25,7,7,Y0,*7,V,0,major,17.0
+CAETANO,12,Beleza pura,26,0,0,V0,*,I,0,major,18.0
+CAETANO,13,Cavaleiro de Jorge,1,2,2,z2,*m7.9,I,2,minor,1.0
+CAETANO,13,Cavaleiro de Jorge,2,10,10,Z0,*M7,VI,2,minor,2.0
+CAETANO,13,Cavaleiro de Jorge,3,4,4,z3,*m7.11,II,2,minor,3.0
+CAETANO,13,Cavaleiro de Jorge,4,9,9,Y2.3,*7(b9),V,2,minor,4.0
+CAETANO,13,Cavaleiro de Jorge,5,2,2,z2,*m7.9,I,2,minor,5.0
+CAETANO,13,Cavaleiro de Jorge,6,10,10,Z0,*M7,VI,2,minor,6.0
+CAETANO,13,Cavaleiro de Jorge,7,4,4,z3,*m7.11,II,2,minor,7.0
+CAETANO,13,Cavaleiro de Jorge,8,9,9,Y2.3,*7(b9),V,2,minor,8.0
+CAETANO,13,Cavaleiro de Jorge,9,2,2,Y0,*7,V,7,minor,9.0
+CAETANO,13,Cavaleiro de Jorge,10,2,2,Y4.1,*7(b13),V,7,minor,9.5
+CAETANO,13,Cavaleiro de Jorge,11,7,7,v0,*m,I,7,minor,10.0
+CAETANO,13,Cavaleiro de Jorge,12,7,7,z1,*m6,I,7,minor,10.5
+CAETANO,13,Cavaleiro de Jorge,13,5,5,v0,*m,I,5,minor,11.0
+CAETANO,13,Cavaleiro de Jorge,14,5,5,z1,*m6,I,5,minor,11.5
+CAETANO,13,Cavaleiro de Jorge,15,7,7,v0,*m,I,7,minor,12.0
+CAETANO,13,Cavaleiro de Jorge,16,7,7,z1,*m6,I,7,minor,12.5
+CAETANO,13,Cavaleiro de Jorge,17,5,5,v0,*m,I,5,minor,13.0
+CAETANO,13,Cavaleiro de Jorge,18,5,5,z1,*m6,I,5,minor,13.5
+CAETANO,13,Cavaleiro de Jorge,19,4,4,V0,*,I,4,major,14.0
+CAETANO,13,Cavaleiro de Jorge,20,4,4,Z1,*6,I,4,major,14.5
+CAETANO,13,Cavaleiro de Jorge,21,6,6,z0,*m7,II,4,major,15.0
+CAETANO,13,Cavaleiro de Jorge,22,11,11,Y0,*7,V,4,major,15.5
+CAETANO,13,Cavaleiro de Jorge,23,11,11,z0,*m7,II__X,4,major,16.0
+CAETANO,13,Cavaleiro de Jorge,24,4,4,Y0,*7,V/IV,4,major,16.5
+CAETANO,13,Cavaleiro de Jorge,25,9,9,Y1,*4.7,V,2,minor,17.0
+CAETANO,13,Cavaleiro de Jorge,26,9,9,Y0,*7,V,2,minor,17.5
+CAETANO,13,Cavaleiro de Jorge,27,2,2,z2,*m7.9,I,2,minor,18.0
+CAETANO,13,Cavaleiro de Jorge,28,10,10,Z0,*M7,VI,2,minor,19.0
+CAETANO,13,Cavaleiro de Jorge,29,4,4,z3,*m7.11,II,2,minor,20.0
+CAETANO,13,Cavaleiro de Jorge,30,9,9,Y2.3,*7(b9),V,2,minor,21.0
+CAETANO,13,Cavaleiro de Jorge,31,2,2,z2,*m7.9,I,2,minor,22.0
+CAETANO,14,Como dois e dois,1,0,0,V0,*,I,0,major,1.0
+CAETANO,14,Como dois e dois,2,4,4,Y0,*7,V/VI,0,major,2.0
+CAETANO,14,Como dois e dois,3,9,9,z0,*m7,VI,0,major,3.0
+CAETANO,14,Como dois e dois,4,4,4,Y0,*7,V/VI,0,major,4.0
+CAETANO,14,Como dois e dois,5,5,5,V0,*,IV,0,major,5.0
+CAETANO,14,Como dois e dois,6,0,0,V0,*,I,0,major,6.0
+CAETANO,14,Como dois e dois,7,9,9,Y0,*7,V/II,0,major,6.5
+CAETANO,14,Como dois e dois,8,2,2,Y0,*7,V/V,0,major,7.0
+CAETANO,14,Como dois e dois,9,7,7,Y0,*7,V,0,major,8.0
+CAETANO,14,Como dois e dois,10,7,7,W0,*(#5)7,V,0,major,8.5
+CAETANO,14,Como dois e dois,11,0,0,V0,*,I,0,major,9.0
+CAETANO,14,Como dois e dois,12,0,0,Y0,*7,V/IV,0,major,9.5
+CAETANO,14,Como dois e dois,13,5,5,V0,*,IV,0,major,10.0
+CAETANO,14,Como dois e dois,14,6,6,x0,*°7,V°/V,0,major,10.5
+CAETANO,14,Como dois e dois,15,0,7,V0,*,I,0,major,11.0
+CAETANO,14,Como dois e dois,16,0,0,Y0,*7,V/IV,0,major,11.5
+CAETANO,14,Como dois e dois,17,5,5,V0,*,IV,0,major,12.0
+CAETANO,14,Como dois e dois,18,6,6,x0,*°7,V°/V,0,major,12.5
+CAETANO,14,Como dois e dois,19,7,7,Y0,*7,V,0,major,13.0
+CAETANO,14,Como dois e dois,20,0,0,V0,*,I,0,major,14.0
+CAETANO,15,Drama,1,2,2,V0,*,I,2,major,1.0
+CAETANO,15,Drama,2,11,11,Y0,*7,V/II,2,major,1.5
+CAETANO,15,Drama,3,4,4,v0,*m,II,2,major,2.0
+CAETANO,15,Drama,4,6,6,Y0,*7,V/VI,2,major,2.5
+CAETANO,15,Drama,5,11,11,v0,*m,VI,2,major,3.0
+CAETANO,15,Drama,6,11,9,z0,*m7,VI,2,major,3.5
+CAETANO,15,Drama,7,4,4,V0,*,V/V,2,major,4.0
+CAETANO,15,Drama,8,6,6,Y0,*7,V/VI,2,major,4.5
+CAETANO,15,Drama,9,7,7,V0,*,IV,2,major,5.0
+CAETANO,15,Drama,10,8,8,x0,*°7,V°/V,2,major,5.5
+CAETANO,15,Drama,11,2,9,V0,*,I,2,major,6.0
+CAETANO,15,Drama,12,11,11,v0,*m,VI,2,major,6.5
+CAETANO,15,Drama,13,4,4,v0,*m,II,2,major,7.0
+CAETANO,15,Drama,14,9,9,Y0,*7,V,2,major,7.5
+CAETANO,15,Drama,15,2,2,v0,*m,I,2,major,8.0
+CAETANO,15,Drama,16,6,6,Y0,*7,V,11,minor,8.5
+CAETANO,15,Drama,17,11,11,v0,*m,I,11,minor,9.0
+CAETANO,15,Drama,18,6,10,Y0,*7,V,11,minor,10.0
+CAETANO,15,Drama,19,11,9,Y0,*7,V/IV,11,minor,11.0
+CAETANO,15,Drama,20,4,8,Y0,*7,IV7,11,minor,12.0
+CAETANO,15,Drama,21,4,7,v0,*m,IV,11,minor,13.0
+CAETANO,15,Drama,22,6,6,Y0,*7,V,11,minor,14.0
+CAETANO,15,Drama,23,11,11,v0,*m,I,11,minor,15.0
+CAETANO,15,Drama,24,11,9,Y0,*7,V/IV,11,minor,16.0
+CAETANO,15,Drama,25,4,8,Y0,*7,IV7,11,minor,17.0
+CAETANO,15,Drama,26,4,7,v0,*m,IV,11,minor,18.0
+CAETANO,15,Drama,27,6,6,Y0,*7,V,11,minor,18.5
+CAETANO,15,Drama,28,11,11,v0,*m,I,11,minor,19.0
+CAETANO,15,Drama,29,6,10,Y0,*7,V,11,minor,20.0
+CAETANO,15,Drama,30,11,9,Y0,*7,V/IV,11,minor,21.0
+CAETANO,15,Drama,31,4,8,Y0,*7,IV7,11,minor,22.0
+CAETANO,15,Drama,32,4,4,v0,*m,IV,11,minor,23.0
+CAETANO,15,Drama,33,6,6,Y0,*7,V,11,minor,24.0
+CAETANO,15,Drama,34,11,11,Y1.1,*4.7.9,V/IV,11,minor,25.0
+CAETANO,15,Drama,35,11,11,Y0,*7,V/IV,11,minor,25.5
+CAETANO,15,Drama,36,4,4,v0,*m,IV,11,minor,26.0
+CAETANO,15,Drama,37,5,5,x0,*°7,V°/V,11,minor,26.5
+CAETANO,15,Drama,38,11,6,v0,*m,I,11,minor,27.0
+CAETANO,15,Drama,39,7,7,V0,*,VI,11,minor,27.5
+CAETANO,15,Drama,40,1,1,y0,*Ø,II,11,minor,28.0
+CAETANO,15,Drama,41,6,6,Y0,*7,V,11,minor,28.5
+CAETANO,15,Drama,42,11,11,v0,*m,I,11,minor,29.0
+CAETANO,15,Drama,43,4,4,v0,*m,IV,11,minor,30.0
+CAETANO,15,Drama,44,5,5,x0,*°7,V°/V,11,minor,30.5
+CAETANO,15,Drama,45,11,6,v0,*m,I,11,minor,31.0
+CAETANO,15,Drama,46,7,7,V0,*,VI,11,minor,31.5
+CAETANO,15,Drama,47,1,1,y0,*Ø,II,11,minor,32.0
+CAETANO,15,Drama,48,6,6,Y0,*7,V,11,minor,32.5
+CAETANO,15,Drama,49,11,11,v0,*m,I,11,minor,33.0
+CAETANO,16,Luz do sol,1,3,3,Z1.1,*6.9,I,3,major,1.0
+CAETANO,16,Luz do sol,2,10,10,z0,*m7,II__X,3,major,2.0
+CAETANO,16,Luz do sol,3,3,3,Y2,*7.9,V/IV,3,major,2.5
+CAETANO,16,Luz do sol,4,8,8,Z0,*M7,IV,3,major,3.0
+CAETANO,16,Luz do sol,5,8,8,z1,*m6,IVm7,3,major,4.0
+CAETANO,16,Luz do sol,6,7,7,z0,*m7,II__X,3,major,5.0
+CAETANO,16,Luz do sol,7,0,0,Y2,*7.9,V/II,3,major,6.0
+CAETANO,16,Luz do sol,8,11,11,Z0,*M7,bVI7M,3,major,7.0
+CAETANO,16,Luz do sol,9,3,3,Z2,*M7.9,I,3,major,9.0
+CAETANO,16,Luz do sol,10,3,3,Y1.1,*4.7.9,V/IV,3,major,10.0
+CAETANO,16,Luz do sol,11,3,3,Y2,*7.9,V/IV,3,major,10.5
+CAETANO,16,Luz do sol,12,8,8,Z0,*M7,IV,3,major,11.0
+CAETANO,16,Luz do sol,13,8,8,z1,*m6,IVm7,3,major,12.0
+CAETANO,16,Luz do sol,14,3,3,Z2,*M7.9,I,3,major,13.0
+CAETANO,16,Luz do sol,15,3,3,Y1.1,*4.7.9,V/IV,3,major,14.0
+CAETANO,16,Luz do sol,16,3,3,Y2,*7.9,V/IV,3,major,14.5
+CAETANO,16,Luz do sol,17,8,8,Z0,*M7,IV,3,major,15.0
+CAETANO,16,Luz do sol,18,8,8,z1,*m6,IVm7,3,major,16.0
+CAETANO,16,Luz do sol,19,3,3,Z2,*M7.9,I,3,major,17.0
+CAETANO,16,Luz do sol,20,2,2,z3,*m7.11,II__X,3,major,19.0
+CAETANO,16,Luz do sol,21,1,1,Y4,*7.13,SubV/VI,3,major,20.0
+CAETANO,16,Luz do sol,22,0,0,z0,*m7,VI,3,major,21.0
+CAETANO,16,Luz do sol,23,0,0,z1,*m6,VI,3,major,22.0
+CAETANO,16,Luz do sol,24,5,5,z2,*m7.9,II,3,major,23.0
+CAETANO,16,Luz do sol,25,10,10,Y4,*7.13,V,3,major,24.0
+CAETANO,16,Luz do sol,26,3,3,Z2,*M7.9,I,3,major,25.0
+CAETANO,16,Luz do sol,27,9,9,y0,*Ø,II__X,3,major,27.0
+CAETANO,16,Luz do sol,28,8,8,Y3,*7(#11),SubV/III,3,major,28.0
+CAETANO,16,Luz do sol,29,7,7,z0,*m7,II__X,3,major,29.0
+CAETANO,16,Luz do sol,30,0,0,Y2,*7.9,V/II,3,major,30.0
+CAETANO,16,Luz do sol,31,5,5,Y4,*7.13,V/V,3,major,31.0
+CAETANO,16,Luz do sol,32,5,5,z0,*m7,II,3,major,33.0
+CAETANO,16,Luz do sol,33,10,10,Y2,*7.9,V,3,major,33.5
+CAETANO,16,Luz do sol,34,3,3,Z2,*M7.9,I,3,major,34.0
+CAETANO,16,Luz do sol,35,10,10,z0,*m7,II__X,3,major,35.0
+CAETANO,16,Luz do sol,36,3,3,Y2,*7.9,V/IV,3,major,35.5
+CAETANO,16,Luz do sol,37,8,8,Z0,*M7,IV,3,major,36.0
+CAETANO,16,Luz do sol,38,8,8,z1,*m6,IVm7,3,major,37.0
+CAETANO,16,Luz do sol,39,7,7,z0,*m7,II__X,3,major,38.0
+CAETANO,16,Luz do sol,40,0,0,Y2,*7.9,V/II,3,major,39.0
+CAETANO,16,Luz do sol,41,11,11,Z0,*M7,bVI7M,3,major,40.0
+CAETANO,16,Luz do sol,42,3,3,Z2,*M7.9,I,3,major,42.0
+CAETANO,17,Dom de iludir,1,10,10,Z0,*M7,I,10,major,1.0
+CAETANO,17,Dom de iludir,2,8,8,z0,*m7,II__X,10,major,2.0
+CAETANO,17,Dom de iludir,3,1,1,Y2,*7.9,V/bVI,10,major,2.5
+CAETANO,17,Dom de iludir,4,6,6,Z0,*M7,I,6,major,3.0
+CAETANO,17,Dom de iludir,5,10,10,z3,*m7.11,II__X,6,major,4.0
+CAETANO,17,Dom de iludir,6,3,3,Y0,*7,V/II,6,major,4.5
+CAETANO,17,Dom de iludir,7,8,8,w0,*mM7,II,6,major,5.0
+CAETANO,17,Dom de iludir,8,8,8,z0,*m7,II,6,major,5.5
+CAETANO,17,Dom de iludir,9,11,11,z2,*m7.9,II__X,2,major,6.0
+CAETANO,17,Dom de iludir,10,4,4,Y0,*7,V/V,2,major,6.5
+CAETANO,17,Dom de iludir,11,4,4,z0,*m7,II,2,major,7.0
+CAETANO,17,Dom de iludir,12,9,9,Y0,*7,V,2,major,8.0
+CAETANO,17,Dom de iludir,13,3,3,Y2.1,*7.9(#11),SubV,2,major,8.5
+CAETANO,17,Dom de iludir,14,2,2,Z0,*M7,I,2,major,9.0
+CAETANO,17,Dom de iludir,15,0,0,z0,*m7,II,10,major,10.0
+CAETANO,17,Dom de iludir,16,5,5,Y0,*7,V,10,major,10.5
+CAETANO,17,Dom de iludir,17,10,10,Z0,*M7,I,10,major,11.0
+CAETANO,17,Dom de iludir,18,7,7,Y1,*4.7,V/II,10,major,12.0
+CAETANO,17,Dom de iludir,19,7,7,Y0,*7,V/II,10,major,12.5
+CAETANO,17,Dom de iludir,20,0,0,Y2,*7.9,V/V,10,major,13.0
+CAETANO,17,Dom de iludir,21,5,5,Y1.1,*4.7.9,V,10,major,14.0
+CAETANO,17,Dom de iludir,22,5,5,Y0,*7,V,10,major,14.5
+CAETANO,17,Dom de iludir,23,8,8,Y1.1,*4.7.9,bVII7,10,major,15.0
+CAETANO,17,Dom de iludir,24,8,8,Y0,*7,bVII7,10,major,15.5
+CAETANO,17,Dom de iludir,25,10,10,Z0,*M7,I,10,major,16.0
+CAETANO,18,Lua lua lua lua,1,5,5,Z0,*M7,I,5,major,1.0
+CAETANO,18,Lua lua lua lua,2,8,5,x0,*°7,bIII°,5,major,2.0
+CAETANO,18,Lua lua lua lua,3,7,7,z0,*m7,II,5,major,3.0
+CAETANO,18,Lua lua lua lua,4,0,0,Y2,*7.9,V,5,major,4.0
+CAETANO,18,Lua lua lua lua,5,5,5,Z0,*M7,I,5,major,5.0
+CAETANO,18,Lua lua lua lua,6,7,7,z0,*m7,II,5,major,7.0
+CAETANO,18,Lua lua lua lua,7,0,0,Y2,*7.9,V,5,major,9.0
+CAETANO,18,Lua lua lua lua,8,5,5,Z0,*M7,I,5,major,10.0
+CAETANO,18,Lua lua lua lua,9,10,10,z1,*m6,IVm7,5,major,11.0
+CAETANO,18,Lua lua lua lua,10,5,5,Z0,*M7,I,5,major,12.0
+CAETANO,18,Lua lua lua lua,11,8,5,x0,*°7,bIII°,5,major,13.0
+CAETANO,18,Lua lua lua lua,12,7,7,z0,*m7,II,5,major,14.0
+CAETANO,18,Lua lua lua lua,13,0,0,Y2,*7.9,V,5,major,15.0
+CAETANO,18,Lua lua lua lua,14,5,5,Z0,*M7,I,5,major,16.0
+CAETANO,18,Lua lua lua lua,15,8,5,x0,*°7,bIII°,5,major,17.0
+CAETANO,18,Lua lua lua lua,16,7,7,z0,*m7,II,5,major,18.0
+CAETANO,18,Lua lua lua lua,17,0,0,Y2,*7.9,V,5,major,19.0
+CAETANO,18,Lua lua lua lua,18,5,5,Z0,*M7,I,5,major,20.0
+CAETANO,18,Lua lua lua lua,19,8,5,x0,*°7,bIII°,5,major,21.0
+CAETANO,18,Lua lua lua lua,20,5,5,Z0,*M7,I,5,major,22.0
+CAETANO,18,Lua lua lua lua,21,8,5,x0,*°7,bIII°,5,major,23.0
+CAETANO,19,Jeito de corpo,1,4,4,y0,*Ø,II__X,5,major,1.0
+CAETANO,19,Jeito de corpo,2,9,9,Y0,*7,V/VI,5,major,1.5
+CAETANO,19,Jeito de corpo,3,4,4,y0,*Ø,II__X,5,major,2.0
+CAETANO,19,Jeito de corpo,4,9,9,Y0,*7,V/VI,5,major,2.5
+CAETANO,19,Jeito de corpo,5,7,7,z0,*m7,II,5,major,3.0
+CAETANO,19,Jeito de corpo,6,0,0,Y0,*7,V,5,major,3.5
+CAETANO,19,Jeito de corpo,7,5,5,Z0,*M7,I,5,major,4.0
+CAETANO,19,Jeito de corpo,8,4,4,y0,*Ø,II__X,5,major,5.0
+CAETANO,19,Jeito de corpo,9,9,9,Y0,*7,V/VI,5,major,5.5
+CAETANO,19,Jeito de corpo,10,4,4,y0,*Ø,II__X,5,major,6.0
+CAETANO,19,Jeito de corpo,11,9,9,Y0,*7,V/VI,5,major,6.5
+CAETANO,19,Jeito de corpo,12,7,7,z0,*m7,II,5,major,7.0
+CAETANO,19,Jeito de corpo,13,0,0,Y0,*7,V,5,major,7.5
+CAETANO,19,Jeito de corpo,14,5,5,Z0,*M7,I,5,major,8.0
+CAETANO,19,Jeito de corpo,15,5,5,z0,*m7,II,3,major,9.0
+CAETANO,19,Jeito de corpo,16,10,10,Y0,*7,V,3,major,9.5
+CAETANO,19,Jeito de corpo,17,3,3,Z0,*M7,I,3,major,10.0
+CAETANO,19,Jeito de corpo,18,2,2,y0,*Ø,II__X,3,major,11.0
+CAETANO,19,Jeito de corpo,19,7,7,Y4.1,*7(b13),V/VI,3,major,11.5
+CAETANO,19,Jeito de corpo,20,0,0,z0,*m7,VI,3,major,12.0
+CAETANO,19,Jeito de corpo,21,4,4,y0,*Ø,II__X,5,major,13.0
+CAETANO,19,Jeito de corpo,22,9,9,Y0,*7,V/VI,5,major,13.5
+CAETANO,19,Jeito de corpo,23,4,4,y0,*Ø,II__X,5,major,14.0
+CAETANO,19,Jeito de corpo,24,9,9,Y0,*7,V/VI,5,major,14.5
+CAETANO,19,Jeito de corpo,25,7,7,z0,*m7,II,5,major,15.0
+CAETANO,19,Jeito de corpo,26,0,0,Y0,*7,V,5,major,15.5
+CAETANO,19,Jeito de corpo,27,5,5,Z0,*M7,I,5,major,16.0
+CAETANO,19,Jeito de corpo,28,4,4,y0,*Ø,II__X,5,major,17.0
+CAETANO,19,Jeito de corpo,29,9,9,Y0,*7,V/VI,5,major,17.5
+CAETANO,19,Jeito de corpo,30,4,4,y0,*Ø,II__X,5,major,18.0
+CAETANO,19,Jeito de corpo,31,9,9,Y0,*7,V/VI,5,major,18.5
+CAETANO,19,Jeito de corpo,32,7,7,z0,*m7,II,5,major,19.0
+CAETANO,19,Jeito de corpo,33,0,0,Y0,*7,V,5,major,19.5
+CAETANO,19,Jeito de corpo,34,5,5,Z0,*M7,I,5,major,20.0
+CAETANO,19,Jeito de corpo,35,5,5,z0,*m7,II,3,major,21.0
+CAETANO,19,Jeito de corpo,36,10,10,Y0,*7,V,3,major,21.5
+CAETANO,19,Jeito de corpo,37,3,3,Z0,*M7,I,3,major,22.0
+CAETANO,19,Jeito de corpo,38,2,2,y0,*Ø,II__X,3,major,23.0
+CAETANO,19,Jeito de corpo,39,7,7,Y4.1,*7(b13),V/VI,3,major,23.5
+CAETANO,19,Jeito de corpo,40,0,0,z0,*m7,VI,3,major,24.0
+CAETANO,19,Jeito de corpo,41,10,10,z0,*m7,II__X,3,major,25.0
+CAETANO,19,Jeito de corpo,42,3,3,Y0,*7,V/IV,3,major,25.5
+CAETANO,19,Jeito de corpo,43,8,8,Z0,*M7,IV,3,major,26.0
+CAETANO,19,Jeito de corpo,44,8,8,z0,*m7,IVm7,3,major,27.0
+CAETANO,19,Jeito de corpo,45,1,1,Y0,*7,bVII7,3,major,27.5
+CAETANO,19,Jeito de corpo,46,7,7,z0,*m7,II__X,3,major,28.0
+CAETANO,19,Jeito de corpo,47,0,0,Y0,*7,V/II,3,major,28.5
+CAETANO,19,Jeito de corpo,48,5,5,z0,*m7,II,3,major,29.0
+CAETANO,19,Jeito de corpo,49,10,10,Y0,*7,V,3,major,29.5
+CAETANO,19,Jeito de corpo,50,3,3,Z0,*M7,I,3,major,30.0
+CAETANO,20,Eclipse oculto,1,4,4,V0,*,I,4,major,1.0
+CAETANO,20,Eclipse oculto,2,9,9,V0,*,IV,4,major,2.0
+CAETANO,20,Eclipse oculto,3,4,4,V0,*,I,4,major,3.0
+CAETANO,20,Eclipse oculto,4,9,9,V0,*,IV,4,major,4.0
+CAETANO,20,Eclipse oculto,5,4,4,V0,*,I,4,major,5.0
+CAETANO,20,Eclipse oculto,6,11,11,v0,*m,Vm7,4,major,6.0
+CAETANO,20,Eclipse oculto,7,6,6,v0,*m,II,4,major,7.0
+CAETANO,20,Eclipse oculto,8,7,7,V0,*,bIII7M,4,major,8.0
+CAETANO,20,Eclipse oculto,9,6,6,V0,*,?,4,major,9.0
+CAETANO,20,Eclipse oculto,10,5,5,Y0,*7,SubV,4,major,9.5
+CAETANO,20,Eclipse oculto,11,4,4,V0,*,I,4,major,10.0
+CAETANO,20,Eclipse oculto,12,9,9,V0,*,IV,4,major,11.0
+CAETANO,20,Eclipse oculto,13,4,4,V0,*,I,4,major,12.0
+CAETANO,20,Eclipse oculto,14,9,9,V0,*,IV,4,major,13.0
+CAETANO,20,Eclipse oculto,15,4,4,V0,*,I,4,major,14.0
+CAETANO,20,Eclipse oculto,16,9,9,V0,*,IV,4,major,15.0
+CAETANO,20,Eclipse oculto,17,4,4,V0,*,I,4,major,16.0
+CAETANO,20,Eclipse oculto,18,9,9,V0,*,IV,4,major,17.0
+CAETANO,20,Eclipse oculto,19,4,4,V0,*,I,4,major,18.0
+CAETANO,20,Eclipse oculto,20,9,9,V0,*,IV,4,major,19.0
+CAETANO,20,Eclipse oculto,21,6,6,V0,*,?,4,major,20.0
+CAETANO,20,Eclipse oculto,22,5,5,V0,*,SubV,4,major,21.0
+CAETANO,20,Eclipse oculto,23,4,4,V0,*,I,4,major,22.0
+CAETANO,20,Eclipse oculto,24,9,9,V0,*,IV,4,major,23.0
+CAETANO,20,Eclipse oculto,25,4,4,V0,*,I,4,major,24.0
+CAETANO,21,Ele me deu um beijo na boca,1,1,1,z0,*m7,I,1,minor,1.0
+CAETANO,21,Ele me deu um beijo na boca,2,6,6,Y0,*7,V,1,minor,2.0
+CAETANO,21,Ele me deu um beijo na boca,3,1,1,z0,*m7,I,1,minor,3.0
+CAETANO,21,Ele me deu um beijo na boca,4,1,11,z0,*m7,I,1,minor,4.0
+CAETANO,21,Ele me deu um beijo na boca,5,10,10,x0,*°7,V°,1,minor,5.0
+CAETANO,21,Ele me deu um beijo na boca,6,9,9,V0,*,bVI7M,1,minor,6.0
+CAETANO,21,Ele me deu um beijo na boca,7,6,6,Y0,*7,V,1,minor,7.0
+CAETANO,21,Ele me deu um beijo na boca,8,1,1,z0,*m7,I,1,minor,9.0
+CAETANO,21,Ele me deu um beijo na boca,9,1,11,z0,*m7,I,1,minor,10.0
+CAETANO,21,Ele me deu um beijo na boca,10,10,10,x0,*°7,V°,1,minor,11.0
+CAETANO,21,Ele me deu um beijo na boca,11,9,9,V0,*,bVI7M,1,minor,12.0
+CAETANO,21,Ele me deu um beijo na boca,12,6,6,Y0,*7,V,1,minor,13.0
+CAETANO,21,Ele me deu um beijo na boca,13,1,1,z0,*m7,I,1,minor,15.0
+CAETANO,21,Ele me deu um beijo na boca,14,6,6,Y0,*7,V,1,minor,18.0
+CAETANO,21,Ele me deu um beijo na boca,15,1,1,z0,*m7,I,1,minor,19.0
+CAETANO,21,Ele me deu um beijo na boca,16,1,11,z0,*m7,I,1,minor,20.0
+CAETANO,21,Ele me deu um beijo na boca,17,10,10,x0,*°7,V°,1,minor,21.0
+CAETANO,21,Ele me deu um beijo na boca,18,9,9,V0,*,bVI7M,1,minor,22.0
+CAETANO,21,Ele me deu um beijo na boca,19,6,6,Y0,*7,V,1,minor,23.0
+CAETANO,21,Ele me deu um beijo na boca,20,1,1,z0,*m7,I,1,minor,25.0
+CAETANO,21,Ele me deu um beijo na boca,21,6,6,Y0,*7,V,1,minor,28.0
+CAETANO,21,Ele me deu um beijo na boca,22,11,11,Y0,*7,V/III,1,minor,28.5
+CAETANO,21,Ele me deu um beijo na boca,23,4,4,Z0,*M7,III,1,minor,29.0
+CAETANO,21,Ele me deu um beijo na boca,24,3,3,y2,*Ø.11,II,1,minor,31.0
+CAETANO,21,Ele me deu um beijo na boca,25,8,8,Y2.4,*7(#9),V,1,minor,32.0
+CAETANO,21,Ele me deu um beijo na boca,26,1,1,z0,*m7,I,1,minor,33.0
+CAETANO,21,Ele me deu um beijo na boca,27,1,11,z0,*m7,I,1,minor,34.0
+CAETANO,21,Ele me deu um beijo na boca,28,10,10,x0,*°7,V°,1,minor,35.0
+CAETANO,21,Ele me deu um beijo na boca,29,9,9,V0,*,bVI7M,1,minor,36.0
+CAETANO,21,Ele me deu um beijo na boca,30,6,6,Y0,*7,V,1,minor,37.0
+CAETANO,21,Ele me deu um beijo na boca,31,1,1,z0,*m7,I,1,minor,39.0
+CAETANO,22,Esse cara,1,2,2,V0,*,I,2,major,1.0
+CAETANO,22,Esse cara,2,1,1,z0,*m7,II__X,2,major,2.0
+CAETANO,22,Esse cara,3,6,6,Y0,*7,V/VI,2,major,2.5
+CAETANO,22,Esse cara,4,11,11,z0,*m7,VI,2,major,3.0
+CAETANO,22,Esse cara,5,9,9,z2,*m7.9,II__X,2,major,4.0
+CAETANO,22,Esse cara,6,2,2,Y0,*7,V/IV,2,major,4.5
+CAETANO,22,Esse cara,7,7,7,Z0,*M7,IV,2,major,5.0
+CAETANO,22,Esse cara,8,0,0,z0,*m7,II__X,2,major,6.0
+CAETANO,22,Esse cara,9,5,5,Y0,*7,V/bVI,2,major,6.5
+CAETANO,22,Esse cara,10,10,10,Z0,*M7,bVI7M,2,major,7.0
+CAETANO,22,Esse cara,11,11,11,z0,*m7,II__X,2,major,8.0
+CAETANO,22,Esse cara,12,4,4,Y0,*7,V/V,2,major,8.5
+CAETANO,22,Esse cara,13,4,4,z0,*m7,II,2,major,9.0
+CAETANO,22,Esse cara,14,9,9,Y0,*7,V,2,major,10.0
+CAETANO,22,Esse cara,15,9,9,z0,*m7,II__X,2,major,11.0
+CAETANO,22,Esse cara,16,2,2,Y0,*7,V/IV,2,major,13.0
+CAETANO,22,Esse cara,17,7,7,Z0,*M7,IV,2,major,14.0
+CAETANO,22,Esse cara,18,7,7,z0,*m7,II__X,2,major,15.0
+CAETANO,22,Esse cara,19,0,0,Y0,*7,V/bIII,2,major,15.5
+CAETANO,22,Esse cara,20,5,5,Z0,*M7,bIII7M,2,major,16.0
+CAETANO,22,Esse cara,21,6,6,z0,*m7,II__X,2,major,17.0
+CAETANO,22,Esse cara,22,11,11,Y2.3,*7(b9),V/II,2,major,17.5
+CAETANO,22,Esse cara,23,4,4,z0,*m7,II,2,major,18.0
+CAETANO,22,Esse cara,24,3,3,Z0,*M7,bII7M,2,major,19.0
+CAETANO,22,Esse cara,25,2,2,z0,*m7,II,0,major,20.0
+CAETANO,22,Esse cara,26,7,7,Y0,*7,V,0,major,21.0
+CAETANO,22,Esse cara,27,0,0,Z0,*M7,I,0,major,22.0
+CAETANO,22,Esse cara,28,5,5,Y0,*7,V,10,major,23.0
+CAETANO,22,Esse cara,29,10,10,Z0,*M7,I,10,major,24.0
+CAETANO,22,Esse cara,30,4,4,z0,*m7,II,2,major,25.0
+CAETANO,22,Esse cara,31,9,9,Y0,*7,V,2,major,25.5
+CAETANO,22,Esse cara,32,2,2,V0,*,I,2,major,26.0
+CAETANO,23,Gema,1,0,0,Z1.1,*6.9,I,0,major,1.0
+CAETANO,23,Gema,2,2,2,z2,*m7.9,II,0,major,3.0
+CAETANO,23,Gema,3,7,7,Y4,*7.13,V,0,major,5.0
+CAETANO,23,Gema,4,9,9,z0,*m7,VI,0,major,7.0
+CAETANO,23,Gema,5,5,5,z0,*m7,II,3,major,9.0
+CAETANO,23,Gema,6,10,10,Y0,*7,V,3,major,10.0
+CAETANO,23,Gema,7,3,3,Z0,*M7,I,3,major,11.0
+CAETANO,23,Gema,8,3,3,Y2,*7.9,V/IV,3,major,12.0
+CAETANO,23,Gema,9,8,8,Z0,*M7,IV,3,major,13.0
+CAETANO,23,Gema,10,1,1,Z2,*M7.9,bVII7M,3,major,14.0
+CAETANO,23,Gema,11,2,2,z2,*m7.9,II,0,major,15.0
+CAETANO,23,Gema,12,7,7,Y4,*7.13,V,0,major,16.0
+CAETANO,23,Gema,13,0,0,Z1.1,*6.9,I,0,major,17.0
+CAETANO,23,Gema,14,2,2,z2,*m7.9,II,0,major,19.0
+CAETANO,23,Gema,15,7,7,Y4,*7.13,V,0,major,21.0
+CAETANO,23,Gema,16,9,9,z0,*m7,VI,0,major,23.0
+CAETANO,24,Gente,1,0,0,Z1.1,*6.9,I,0,major,1.0
+CAETANO,24,Gente,2,11,11,Y1.1,*4.7.9,V/III,0,major,3.0
+CAETANO,24,Gente,3,4,4,X2.1,*(b5)7(b9),V/VI,0,major,4.0
+CAETANO,24,Gente,4,9,9,z0,*m7,VI,0,major,5.0
+CAETANO,24,Gente,5,7,7,z0,*m7,II__X,0,major,7.0
+CAETANO,24,Gente,6,0,0,Y2,*7.9,V/IV,0,major,8.0
+CAETANO,24,Gente,7,8,8,V0,*,bVI7M,0,major,9.0
+CAETANO,24,Gente,8,0,7,z0,*m7,Im7,0,major,11.0
+CAETANO,24,Gente,9,8,8,V0,*,bVI7M,0,major,13.0
+CAETANO,24,Gente,10,7,7,Y1,*4.7,V,0,major,15.0
+CAETANO,24,Gente,11,7,7,Y0,*7,V,0,major,16.0
+CAETANO,24,Gente,12,0,0,V0,*,I,0,major,17.0
+CAETANO,24,Gente,13,0,0,Y0,*7,V/IV,0,major,18.0
+CAETANO,24,Gente,14,5,5,V0,*,IV,0,major,19.0
+CAETANO,24,Gente,15,6,6,x0,*°7,V°/V,0,major,20.0
+CAETANO,24,Gente,16,0,7,V0,*,I,0,major,21.0
+CAETANO,24,Gente,17,8,8,V0,*,bVI7M,0,major,22.0
+CAETANO,24,Gente,18,0,0,V0,*,I,0,major,23.0
+CAETANO,25,Irene,1,5,5,V0,*,I,5,major,1.0
+CAETANO,25,Irene,2,0,10,Y0,*7,V,5,major,2.0
+CAETANO,25,Irene,3,5,5,V0,*,I,5,major,3.0
+CAETANO,25,Irene,4,10,10,V0,*,IV,5,major,4.0
+CAETANO,25,Irene,5,0,0,Y0,*7,V,5,major,5.0
+CAETANO,25,Irene,6,10,10,V0,*,IV,5,major,6.0
+CAETANO,25,Irene,7,0,0,Y0,*7,V,5,major,7.0
+CAETANO,25,Irene,8,10,10,V0,*,IV,5,major,8.0
+CAETANO,25,Irene,9,0,0,Y0,*7,V,5,major,9.0
+CAETANO,25,Irene,10,5,5,V0,*,I,5,major,10.0
+CAETANO,25,Irene,11,1,1,V0,*,bVI7M,5,major,11.0
+CAETANO,25,Irene,12,10,10,V0,*,IV,5,major,12.0
+CAETANO,25,Irene,13,5,5,V0,*,I,5,major,13.0
+CAETANO,25,Irene,14,0,0,Y0,*7,V,5,major,14.0
+CAETANO,25,Irene,15,10,10,V0,*,IV,5,major,15.0
+CAETANO,25,Irene,16,0,0,Y0,*7,V,5,major,16.0
+CAETANO,25,Irene,17,10,10,V0,*,IV,5,major,17.0
+CAETANO,25,Irene,18,0,0,Y0,*7,V,5,major,18.0
+CAETANO,25,Irene,19,10,10,V0,*,IV,5,major,19.0
+CAETANO,25,Irene,20,0,0,Y0,*7,V,5,major,20.0
+CAETANO,25,Irene,21,10,10,V0,*,IV,5,major,21.0
+CAETANO,25,Irene,22,5,5,V0,*,I,5,major,22.0
+CAETANO,26,London London,1,0,0,V0,*,I,0,major,1.0
+CAETANO,26,London London,2,7,7,Y0,*7,V,0,major,2.0
+CAETANO,26,London London,3,0,0,V0,*,I,0,major,3.0
+CAETANO,26,London London,4,0,0,Y0,*7,V/IV,0,major,4.0
+CAETANO,26,London London,5,5,5,V0,*,IV,0,major,5.0
+CAETANO,26,London London,6,7,7,Y0,*7,V,0,major,6.0
+CAETANO,26,London London,7,0,0,V0,*,I,0,major,7.0
+CAETANO,26,London London,8,0,0,Y0,*7,V/IV,0,major,8.0
+CAETANO,26,London London,9,5,5,V0,*,IV,0,major,9.0
+CAETANO,26,London London,10,7,7,V0,*,V,0,major,10.0
+CAETANO,26,London London,11,7,5,Y0,*7,V,0,major,10.5
+CAETANO,26,London London,12,4,4,z0,*m7,II__X,0,major,11.0
+CAETANO,26,London London,13,9,9,Y0,*7,V/II,0,major,12.0
+CAETANO,26,London London,14,2,2,Y0,*7,V/V,0,major,13.0
+CAETANO,26,London London,15,7,7,Y0,*7,V,0,major,14.0
+CAETANO,26,London London,16,0,0,V0,*,I,0,major,15.0
+CAETANO,26,London London,17,0,0,Y0,*7,V/IV,0,major,15.5
+CAETANO,26,London London,18,5,5,V0,*,IV,0,major,16.0
+CAETANO,26,London London,19,7,7,Y0,*7,V,0,major,17.0
+CAETANO,26,London London,20,5,5,V0,*,IV,0,major,18.0
+CAETANO,26,London London,21,7,7,Y0,*7,V,0,major,18.5
+CAETANO,26,London London,22,0,0,V0,*,I,0,major,19.0
+CAETANO,26,London London,23,0,0,Y0,*7,V/IV,0,major,19.5
+CAETANO,26,London London,24,5,5,V0,*,IV,0,major,20.0
+CAETANO,26,London London,25,7,7,Y0,*7,V,0,major,21.0
+CAETANO,26,London London,26,5,5,V0,*,IV,0,major,22.0
+CAETANO,26,London London,27,7,7,Y0,*7,V,0,major,22.5
+CAETANO,26,London London,28,0,0,V0,*,I,0,major,23.0
+CAETANO,27,Milagres do povo,1,10,10,V0,*,I,10,major,1.0
+CAETANO,27,Milagres do povo,2,5,5,v0,*m,Vm7,10,major,2.0
+CAETANO,27,Milagres do povo,3,0,0,v0,*m,II,10,major,3.0
+CAETANO,27,Milagres do povo,4,7,7,v0,*m,VI,10,major,4.0
+CAETANO,27,Milagres do povo,5,8,8,Z0,*M7,bVII7M,10,major,5.0
+CAETANO,27,Milagres do povo,6,10,10,Y0,*7,I,10,major,6.0
+CAETANO,27,Milagres do povo,7,5,5,v0,*m,Vm7,10,major,7.0
+CAETANO,27,Milagres do povo,8,0,0,v0,*m,II,10,major,8.0
+CAETANO,27,Milagres do povo,9,7,7,v0,*m,VI,10,major,9.0
+CAETANO,27,Milagres do povo,10,8,8,Z0,*M7,bVII7M,10,major,10.0
+CAETANO,27,Milagres do povo,11,10,10,Y0,*7,I,10,major,11.0
+CAETANO,27,Milagres do povo,12,5,5,z0,*m7,Vm7,10,major,12.0
+CAETANO,27,Milagres do povo,13,10,10,Y0,*7,I,10,major,12.5
+CAETANO,27,Milagres do povo,14,0,0,V0,*,I,0,major,13.0
+CAETANO,27,Milagres do povo,15,5,5,V0,*,IV,0,major,14.0
+CAETANO,27,Milagres do povo,16,0,0,V0,*,I,0,major,15.0
+CAETANO,27,Milagres do povo,17,10,10,Z0,*M7,bVII7M,0,major,16.0
+CAETANO,27,Milagres do povo,18,0,0,V0,*,I,0,major,17.0
+CAETANO,27,Milagres do povo,19,5,5,V0,*,IV,0,major,18.0
+CAETANO,27,Milagres do povo,20,0,0,V0,*,I,0,major,19.0
+CAETANO,27,Milagres do povo,21,10,2,Z0,*M7,bVII7M,0,major,20.0
+CAETANO,27,Milagres do povo,22,0,0,V0,*,I,0,major,21.0
+CAETANO,27,Milagres do povo,23,5,5,V0,*,IV,0,major,22.0
+CAETANO,27,Milagres do povo,24,0,0,V0,*,I,0,major,23.0
+CAETANO,27,Milagres do povo,25,10,2,Z0,*M7,bVII7M,0,major,24.0
+CAETANO,27,Milagres do povo,26,0,0,V0,*,I,0,major,25.0
+CAETANO,27,Milagres do povo,27,5,5,V0,*,IV,0,major,26.0
+CAETANO,27,Milagres do povo,28,0,0,V0,*,I,0,major,27.0
+CAETANO,27,Milagres do povo,29,10,2,Z0,*M7,bVII7M,0,major,28.0
+CAETANO,27,Milagres do povo,30,0,0,V0,*,I,0,major,29.0
+CAETANO,27,Milagres do povo,31,5,5,V0,*,IV,0,major,30.0
+CAETANO,27,Milagres do povo,32,0,0,V0,*,I,0,major,31.0
+CAETANO,27,Milagres do povo,33,0,0,v0,*m,II,10,major,35.0
+CAETANO,27,Milagres do povo,34,10,10,V0,*,I,10,major,36.0
+CAETANO,28,Louco por voce,1,7,7,z2,*m7.9,I,7,minor,1.0
+CAETANO,28,Louco por voce,2,2,2,z2,*m7.9,Vm7,7,minor,2.0
+CAETANO,28,Louco por voce,3,4,4,z2,*m7.9,II__X,7,minor,3.0
+CAETANO,28,Louco por voce,4,9,9,Y0,*7,aSubV/III,7,minor,4.0
+CAETANO,28,Louco por voce,5,10,10,Z0,*M7,III,7,minor,5.0
+CAETANO,28,Louco por voce,6,3,3,Z2,*M7.9,VI,7,minor,6.0
+CAETANO,28,Louco por voce,7,9,9,y0,*Ø,II__X,7,minor,7.0
+CAETANO,28,Louco por voce,8,8,8,Y3,*7(#11),SubV,7,minor,8.0
+CAETANO,28,Louco por voce,9,7,7,z2,*m7.9,I,7,minor,9.0
+CAETANO,28,Louco por voce,10,2,2,z2,*m7.9,Vm7,7,minor,10.0
+CAETANO,28,Louco por voce,11,4,4,z2,*m7.9,II__X,7,minor,11.0
+CAETANO,28,Louco por voce,12,5,5,z0,*m7,II__X,7,minor,12.0
+CAETANO,28,Louco por voce,13,10,10,Y2,*7.9,V/VI,7,minor,12.5
+CAETANO,28,Louco por voce,14,3,3,Z2,*M7.9,VI,7,minor,13.0
+CAETANO,28,Louco por voce,15,2,2,z0,*m7,II,0,minor,14.0
+CAETANO,28,Louco por voce,16,7,7,Y0,*7,V,0,minor,14.5
+CAETANO,28,Louco por voce,17,0,0,z0,*m7,I,0,minor,15.0
+CAETANO,28,Louco por voce,18,5,5,Y0,*7,IV7,0,minor,16.0
+CAETANO,28,Louco por voce,19,0,0,z0,*m7,I,0,minor,17.0
+CAETANO,28,Louco por voce,20,5,5,Y0,*7,IV7,0,minor,18.0
+CAETANO,28,Louco por voce,21,0,0,z0,*m7,I,0,minor,19.0
+CAETANO,28,Louco por voce,22,5,5,Y0,*7,IV7,0,minor,20.0
+CAETANO,28,Louco por voce,23,0,0,z0,*m7,I,0,minor,21.0
+CAETANO,28,Louco por voce,24,5,5,Y0,*7,IV7,0,minor,22.0
+CAETANO,28,Louco por voce,25,7,7,z2,*m7.9,I,7,minor,23.0
+CAETANO,29,Lua de Sao Jorge,1,9,9,V0,*,I,9,major,1.0
+CAETANO,29,Lua de Sao Jorge,2,6,6,Y4.1,*7(b13),V/II,9,major,1.5
+CAETANO,29,Lua de Sao Jorge,3,11,11,Y2,*7.9,V/V,9,major,2.0
+CAETANO,29,Lua de Sao Jorge,4,4,4,Y2,*7.9,V,9,major,3.0
+CAETANO,29,Lua de Sao Jorge,5,9,9,V0,*,I,9,major,4.0
+CAETANO,29,Lua de Sao Jorge,6,4,4,Y2,*7.9,V,9,major,4.5
+CAETANO,29,Lua de Sao Jorge,7,9,9,V0,*,I,9,major,5.0
+CAETANO,29,Lua de Sao Jorge,8,6,6,Y4.1,*7(b13),V/II,9,major,5.5
+CAETANO,29,Lua de Sao Jorge,9,11,11,Y2,*7.9,V/V,9,major,6.0
+CAETANO,29,Lua de Sao Jorge,10,4,4,Y2,*7.9,V,9,major,7.0
+CAETANO,29,Lua de Sao Jorge,11,6,6,z0,*m7,VI,9,major,8.0
+CAETANO,29,Lua de Sao Jorge,12,1,1,z0,*m7,III,9,major,8.5
+CAETANO,29,Lua de Sao Jorge,13,2,2,Z0,*M7,IV,9,major,9.0
+CAETANO,29,Lua de Sao Jorge,14,2,2,z1,*m6,IVm7,9,major,9.5
+CAETANO,29,Lua de Sao Jorge,15,1,1,z0,*m7,II__X,9,major,10.0
+CAETANO,29,Lua de Sao Jorge,16,6,6,Y4.1,*7(b13),V/II,9,major,10.5
+CAETANO,29,Lua de Sao Jorge,17,11,11,Y2,*7.9,V/V,9,major,11.0
+CAETANO,29,Lua de Sao Jorge,18,4,4,Y2,*7.9,V,9,major,11.5
+CAETANO,29,Lua de Sao Jorge,19,9,9,V0,*,I,9,major,12.0
+CAETANO,30,Minha voz minha vida,1,2,2,Z1.1,*6.9,I,2,major,1.0
+CAETANO,30,Minha voz minha vida,2,1,1,y0,*Ø,II__X,2,major,2.0
+CAETANO,30,Minha voz minha vida,3,6,6,Y2.3,*7(b9),V/VI,2,major,2.5
+CAETANO,30,Minha voz minha vida,4,11,11,v0,*m,VI,2,major,3.0
+CAETANO,30,Minha voz minha vida,5,11,9,z0,*m7,VI,2,major,3.5
+CAETANO,30,Minha voz minha vida,6,8,8,z3,*m7.11,?,2,major,4.0
+CAETANO,30,Minha voz minha vida,7,7,7,Y3,*7(#11),SubV/III,2,major,4.5
+CAETANO,30,Minha voz minha vida,8,6,6,z0,*m7,II__X,2,major,5.0
+CAETANO,30,Minha voz minha vida,9,11,11,Y2.3,*7(b9),V/II,2,major,5.5
+CAETANO,30,Minha voz minha vida,10,8,8,y0,*Ø,#IVm7(b5),2,major,6.0
+CAETANO,30,Minha voz minha vida,11,4,4,z2,*m7.9,II,2,major,7.0
+CAETANO,30,Minha voz minha vida,12,9,9,Y0,*7,V,2,major,7.5
+CAETANO,30,Minha voz minha vida,13,5,5,Z0,*M7,Np/II,2,major,8.0
+CAETANO,30,Minha voz minha vida,14,4,4,z2,*m7.9,II,2,major,8.5
+CAETANO,30,Minha voz minha vida,15,9,9,Y0,*7,V,2,major,8.75
+CAETANO,30,Minha voz minha vida,16,2,2,Z1.1,*6.9,I,2,major,9.0
+CAETANO,30,Minha voz minha vida,17,1,1,y0,*Ø,II__X,2,major,10.0
+CAETANO,30,Minha voz minha vida,18,6,6,Y2.3,*7(b9),V/VI,2,major,10.5
+CAETANO,30,Minha voz minha vida,19,11,11,v0,*m,VI,2,major,11.0
+CAETANO,30,Minha voz minha vida,20,11,9,z0,*m7,VI,2,major,11.5
+CAETANO,30,Minha voz minha vida,21,8,8,z3,*m7.11,?,2,major,12.0
+CAETANO,30,Minha voz minha vida,22,7,7,Y3,*7(#11),SubV/III,2,major,12.5
+CAETANO,30,Minha voz minha vida,23,6,6,z0,*m7,II__X,2,major,13.0
+CAETANO,30,Minha voz minha vida,24,11,11,Y2.3,*7(b9),V/II,2,major,13.5
+CAETANO,30,Minha voz minha vida,25,8,8,y0,*Ø,#IVm7(b5),2,major,14.0
+CAETANO,30,Minha voz minha vida,26,4,4,z2,*m7.9,II,2,major,15.0
+CAETANO,30,Minha voz minha vida,27,9,9,Y0,*7,V,2,major,15.5
+CAETANO,30,Minha voz minha vida,28,2,2,Z1.1,*6.9,I,2,major,16.0
+CAETANO,30,Minha voz minha vida,29,2,2,W0,*(#5)7,V/IV,2,major,16.5
+CAETANO,30,Minha voz minha vida,30,7,7,Z0,*M7,IV,2,major,17.0
+CAETANO,30,Minha voz minha vida,31,0,0,Y2,*7.9,IV7,2,major,17.5
+CAETANO,30,Minha voz minha vida,32,6,6,z0,*m7,II__X,2,major,18.0
+CAETANO,30,Minha voz minha vida,33,11,11,Y4,*7.13,V/II,2,major,18.5
+CAETANO,30,Minha voz minha vida,34,4,4,Y2,*7.9,V/V,2,major,19.0
+CAETANO,30,Minha voz minha vida,35,4,4,z2,*m7.9,II,2,major,20.0
+CAETANO,30,Minha voz minha vida,36,9,9,W0,*(#5)7,V,2,major,20.5
+CAETANO,30,Minha voz minha vida,37,2,2,Z1.1,*6.9,I,2,major,21.0
+CAETANO,31,Menino do Rio,1,5,5,V0,*,I,5,major,1.0
+CAETANO,31,Menino do Rio,2,8,8,x0,*°7,bIII°,5,major,2.0
+CAETANO,31,Menino do Rio,3,7,7,z0,*m7,II,5,major,3.0
+CAETANO,31,Menino do Rio,4,0,0,Y2,*7.9,V,5,major,3.5
+CAETANO,31,Menino do Rio,5,7,7,z0,*m7,II,5,major,4.0
+CAETANO,31,Menino do Rio,6,0,0,Y2,*7.9,V,5,major,4.5
+CAETANO,31,Menino do Rio,7,0,0,z1,*m6,II__X,5,major,5.0
+CAETANO,31,Menino do Rio,8,5,5,Y0,*7,V/IV,5,major,5.5
+CAETANO,31,Menino do Rio,9,10,10,Z0,*M7,IV,5,major,6.0
+CAETANO,31,Menino do Rio,10,10,10,z1,*m6,IVm7,5,major,6.5
+CAETANO,31,Menino do Rio,11,5,5,V0,*,I,5,major,7.0
+CAETANO,31,Menino do Rio,12,8,8,x0,*°7,bIII°,5,major,8.0
+CAETANO,31,Menino do Rio,13,7,7,z0,*m7,II,5,major,9.0
+CAETANO,31,Menino do Rio,14,0,0,Y2,*7.9,V,5,major,9.5
+CAETANO,31,Menino do Rio,15,5,5,V0,*,I,5,major,10.0
+CAETANO,31,Menino do Rio,16,9,9,z0,*m7,II__X,5,major,11.0
+CAETANO,31,Menino do Rio,17,2,2,Y2.3,*7(b9),V/II,5,major,11.5
+CAETANO,31,Menino do Rio,18,7,7,Y4,*7.13,V/V,5,major,12.0
+CAETANO,31,Menino do Rio,19,7,7,Y4.1,*7(b13),V/V,5,major,12.5
+CAETANO,31,Menino do Rio,20,7,7,z0,*m7,II,5,major,13.0
+CAETANO,31,Menino do Rio,21,0,0,Y2,*7.9,V,5,major,13.5
+CAETANO,31,Menino do Rio,22,5,5,V0,*,I,5,major,14.0
+CAETANO,31,Menino do Rio,23,9,9,z0,*m7,II__X,5,major,15.0
+CAETANO,31,Menino do Rio,24,2,2,Y2.3,*7(b9),V/II,5,major,15.5
+CAETANO,31,Menino do Rio,25,7,7,v0,*m,II,5,major,16.0
+CAETANO,31,Menino do Rio,26,8,8,x0,*°7,V°/III,5,major,16.5
+CAETANO,31,Menino do Rio,27,9,9,v0,*m,II__X,5,major,17.0
+CAETANO,31,Menino do Rio,28,2,2,Y0,*7,V/II,5,major,17.5
+CAETANO,31,Menino do Rio,29,1,1,V0,*,bVI7M,5,major,18.0
+CAETANO,31,Menino do Rio,30,5,5,V0,*,I,5,major,20.0
+CAETANO,31,Menino do Rio,31,8,8,x0,*°7,bIII°,5,major,21.0
+CAETANO,31,Menino do Rio,32,7,7,z0,*m7,II,5,major,22.0
+CAETANO,31,Menino do Rio,33,0,0,Y2,*7.9,V,5,major,22.5
+CAETANO,31,Menino do Rio,34,5,5,V0,*,I,5,major,23.0
+CAETANO,32,No dia em que eu vim-me embora,1,2,2,Y0,*7,I,2,major,1.0
+CAETANO,32,No dia em que eu vim-me embora,2,9,9,z0,*m7,Vm7,2,major,1.5
+CAETANO,32,No dia em que eu vim-me embora,3,2,2,Y0,*7,I,2,major,2.0
+CAETANO,32,No dia em que eu vim-me embora,4,7,7,V0,*,IV,2,major,2.5
+CAETANO,32,No dia em que eu vim-me embora,5,4,4,v0,*m,II,2,major,3.0
+CAETANO,32,No dia em que eu vim-me embora,6,0,0,V0,*,bVII7M,2,major,3.5
+CAETANO,32,No dia em que eu vim-me embora,7,2,2,Y0,*7,V,2,major,3.75
+CAETANO,32,No dia em que eu vim-me embora,8,7,7,V0,*,IV,2,major,4.0
+CAETANO,32,No dia em que eu vim-me embora,9,9,9,Y0,*7,V,2,major,4.5
+CAETANO,32,No dia em que eu vim-me embora,10,2,2,Y0,*7,I,2,major,5.0
+CAETANO,32,No dia em que eu vim-me embora,11,0,0,V0,*,bVII7M,2,major,6.0
+CAETANO,32,No dia em que eu vim-me embora,12,11,11,z0,*m7,VI,2,major,7.0
+CAETANO,32,No dia em que eu vim-me embora,13,9,9,V0,*,V,2,major,9.0
+CAETANO,32,No dia em que eu vim-me embora,14,7,7,V0,*,IV,2,major,10.0
+CAETANO,32,No dia em que eu vim-me embora,15,9,9,V0,*,V,2,major,11.0
+CAETANO,32,No dia em que eu vim-me embora,16,2,2,V0,*,I,2,major,12.0
+CAETANO,32,No dia em que eu vim-me embora,17,9,9,V0,*,V,2,major,13.0
+CAETANO,32,No dia em que eu vim-me embora,18,7,7,V0,*,IV,2,major,14.0
+CAETANO,32,No dia em que eu vim-me embora,19,9,9,V0,*,V,2,major,15.0
+CAETANO,32,No dia em que eu vim-me embora,20,2,2,V0,*,I,2,major,16.0
+CAETANO,32,No dia em que eu vim-me embora,21,9,9,V0,*,V,2,major,17.0
+CAETANO,32,No dia em que eu vim-me embora,22,7,7,V0,*,IV,2,major,18.0
+CAETANO,32,No dia em que eu vim-me embora,23,9,9,V0,*,V,2,major,19.0
+CAETANO,32,No dia em que eu vim-me embora,24,2,2,V0,*,I,2,major,20.0
+CAETANO,33,Massa real,1,9,9,V0,*,I,9,major,1.0
+CAETANO,33,Massa real,2,6,6,Y0,*7,V/II,9,major,6.0
+CAETANO,33,Massa real,3,11,11,z0,*m7,II,9,major,7.0
+CAETANO,33,Massa real,4,7,7,z1,*m6,bVIIm7,9,major,8.0
+CAETANO,33,Massa real,5,11,11,z0,*m7,II,9,major,9.0
+CAETANO,33,Massa real,6,4,4,Y0,*7,V,9,major,10.0
+CAETANO,33,Massa real,7,1,1,Y2.4,*7(#9),V/VI,9,major,11.0
+CAETANO,33,Massa real,8,6,6,Y4.1,*7(b13),V/II,9,major,12.0
+CAETANO,33,Massa real,9,11,11,Y0,*7,V/V,9,major,13.0
+CAETANO,33,Massa real,10,4,4,Y0,*7,V,9,major,14.0
+CAETANO,33,Massa real,11,9,9,V0,*,I,9,major,15.0
+CAETANO,33,Massa real,12,9,9,Y0,*7,V/IV,9,major,16.0
+CAETANO,33,Massa real,13,2,2,V0,*,I,2,major,17.0
+CAETANO,33,Massa real,14,7,7,V0,*,IV,2,major,18.0
+CAETANO,33,Massa real,15,2,2,V0,*,I,2,major,19.0
+CAETANO,33,Massa real,16,4,4,Y0,*7,V/V,2,major,21.0
+CAETANO,33,Massa real,17,9,9,V0,*,V,2,major,23.0
+CAETANO,33,Massa real,18,9,9,Y0,*7,V,2,major,24.0
+CAETANO,33,Massa real,19,2,2,V0,*,I,2,major,25.0
+CAETANO,33,Massa real,20,7,7,V0,*,IV,2,major,26.0
+CAETANO,33,Massa real,21,2,2,V0,*,I,2,major,27.0
+CAETANO,33,Massa real,22,1,1,Y0,*7,V/VI,9,major,29.0
+CAETANO,33,Massa real,23,6,6,Y1,*4.7,V/II,9,major,31.0
+CAETANO,33,Massa real,24,6,6,Y0,*7,V,9,major,32.0
+CAETANO,33,Massa real,25,11,11,V0,*,V/V,9,major,33.0
+CAETANO,33,Massa real,26,11,11,Y0,*7,V/V,9,major,35.0
+CAETANO,33,Massa real,27,4,4,Y0,*7,V,9,major,37.0
+CAETANO,33,Massa real,28,9,9,V0,*,I,9,major,39.0
+CAETANO,33,Massa real,29,6,6,Y0,*7,V/II,9,major,40.0
+CAETANO,33,Massa real,30,11,11,V0,*,V/V,9,major,43.0
+CAETANO,33,Massa real,31,11,11,Y0,*7,V/V,9,major,45.0
+CAETANO,33,Massa real,32,4,4,Y0,*7,V,9,major,47.0
+CAETANO,33,Massa real,33,9,9,V0,*,I,9,major,49.0
+CAETANO,34,Mel,1,7,7,V0,*,I,7,major,1.0
+CAETANO,34,Mel,2,10,10,x0,*°7,bIII°,7,major,2.0
+CAETANO,34,Mel,3,9,9,z0,*m7,II,7,major,3.0
+CAETANO,34,Mel,4,2,2,Y0,*7,V,7,major,4.0
+CAETANO,34,Mel,5,7,7,V0,*,I,7,major,5.0
+CAETANO,34,Mel,6,4,4,Y0,*7,V/II,7,major,6.0
+CAETANO,34,Mel,7,11,11,z3,*m7.11,II__X,7,major,7.0
+CAETANO,34,Mel,8,4,4,Y0,*7,V/II,7,major,8.0
+CAETANO,34,Mel,9,9,9,z0,*m7,II,7,major,9.0
+CAETANO,34,Mel,10,2,2,Y0,*7,V,7,major,10.0
+CAETANO,34,Mel,11,7,7,V0,*,I,7,major,11.0
+CAETANO,34,Mel,12,4,4,Y0,*7,V/II,7,major,12.0
+CAETANO,34,Mel,13,9,9,z0,*m7,II,7,major,13.0
+CAETANO,34,Mel,14,0,0,z1,*m6,IVm7,7,major,14.0
+CAETANO,34,Mel,15,11,11,z0,*m7,III,7,major,15.0
+CAETANO,34,Mel,16,5,5,Y0,*7,SubV/VI,7,major,16.0
+CAETANO,34,Mel,17,4,4,Y0,*7,V/II,7,major,16.5
+CAETANO,34,Mel,18,9,9,Y0,*7,V/V,7,major,17.0
+CAETANO,34,Mel,19,2,2,Y0,*7,V,7,major,18.0
+CAETANO,34,Mel,20,7,7,V0,*,I,7,major,19.0
+CAETANO,34,Mel,21,7,7,Y0,*7,V/IV,7,major,20.0
+CAETANO,34,Mel,22,0,0,V0,*,IV,7,major,21.0
+CAETANO,34,Mel,23,11,11,z0,*m7,II__X,7,major,22.0
+CAETANO,34,Mel,24,4,4,Y0,*7,V/II,7,major,22.5
+CAETANO,34,Mel,25,9,9,z0,*m7,II,7,major,23.0
+CAETANO,34,Mel,26,2,2,Y0,*7,V,7,major,24.0
+CAETANO,34,Mel,27,7,7,V0,*,I,7,major,25.0
+CAETANO,34,Mel,28,7,7,Y0,*7,V/IV,7,major,26.0
+CAETANO,34,Mel,29,0,0,V0,*,IV,7,major,27.0
+CAETANO,34,Mel,30,11,11,z0,*m7,II__X,7,major,28.0
+CAETANO,34,Mel,31,4,4,Y0,*7,V/II,7,major,28.5
+CAETANO,34,Mel,32,9,9,z0,*m7,II,7,major,29.0
+CAETANO,34,Mel,33,2,2,Y0,*7,V,7,major,30.0
+CAETANO,34,Mel,34,7,7,V0,*,I,7,major,31.0
+CAETANO,34,Mel,35,6,6,z0,*m7,II__X,7,major,32.0
+CAETANO,34,Mel,36,11,11,Y0,*7,V/VI,7,major,32.5
+CAETANO,34,Mel,37,4,4,v0,*m,VI,7,major,33.0
+CAETANO,34,Mel,38,2,2,z0,*m7,II__X,7,major,34.0
+CAETANO,34,Mel,39,7,7,Y0,*7,V/IV,7,major,34.5
+CAETANO,34,Mel,40,0,0,V0,*,IV,7,major,35.0
+CAETANO,34,Mel,41,11,11,z0,*m7,II__X,7,major,36.0
+CAETANO,34,Mel,42,4,4,Y0,*7,V/II,7,major,36.5
+CAETANO,34,Mel,43,9,9,z0,*m7,II,7,major,37.0
+CAETANO,34,Mel,44,2,2,Y0,*7,V,7,major,38.0
+CAETANO,34,Mel,45,9,9,z0,*m7,II,7,major,39.0
+CAETANO,34,Mel,46,2,2,Y0,*7,V,7,major,40.0
+CAETANO,34,Mel,47,11,11,z0,*m7,II__X,7,major,41.0
+CAETANO,34,Mel,48,4,4,Y0,*7,V/II,7,major,42.0
+CAETANO,34,Mel,49,9,9,z0,*m7,II,7,major,43.0
+CAETANO,34,Mel,50,2,2,Y0,*7,V,7,major,44.0
+CAETANO,34,Mel,51,9,9,z0,*m7,II,7,major,45.0
+CAETANO,34,Mel,52,2,2,Y0,*7,V,7,major,46.0
+CAETANO,34,Mel,53,11,11,z0,*m7,II__X,7,major,47.0
+CAETANO,34,Mel,54,4,4,Y0,*7,V,7,major,48.0
+CAETANO,34,Mel,55,11,11,z0,*m7,II__X,7,major,49.0
+CAETANO,34,Mel,56,4,4,Y0,*7,V,7,major,50.0
+CAETANO,34,Mel,57,9,9,z0,*m7,II,7,major,51.0
+CAETANO,34,Mel,58,2,2,Y0,*7,V,7,major,52.0
+CAETANO,34,Mel,59,9,9,z0,*m7,II,7,major,53.0
+CAETANO,34,Mel,60,2,2,Y0,*7,V,7,major,54.0
+CAETANO,34,Mel,61,7,7,V0,*,I,7,major,55.0
+CAETANO,35,Meu bem meu mal,1,2,2,Z1.1,*6.9,I,2,major,1.0
+CAETANO,35,Meu bem meu mal,2,1,1,y0,*Ø,II__X,2,major,2.0
+CAETANO,35,Meu bem meu mal,3,6,6,Y4.1,*7(b13),V/VI,2,major,2.5
+CAETANO,35,Meu bem meu mal,4,11,11,z2,*m7.9,II__X,2,major,3.0
+CAETANO,35,Meu bem meu mal,5,4,4,Y0,*7,V/V,2,major,3.5
+CAETANO,35,Meu bem meu mal,6,9,9,z0,*m7,II__X,2,major,4.0
+CAETANO,35,Meu bem meu mal,7,2,2,Y2,*7.9,V/IV,2,major,4.5
+CAETANO,35,Meu bem meu mal,8,7,7,Z0,*M7,IV,2,major,5.0
+CAETANO,35,Meu bem meu mal,9,0,0,Y2,*7.9,bVII7,2,major,6.0
+CAETANO,35,Meu bem meu mal,10,2,2,Z1.1,*6.9,I,2,major,7.0
+CAETANO,35,Meu bem meu mal,11,1,1,y0,*Ø,II__X,2,major,8.0
+CAETANO,35,Meu bem meu mal,12,6,6,Y4.1,*7(b13),V/VI,2,major,8.5
+CAETANO,35,Meu bem meu mal,13,11,11,z2,*m7.9,II__X,2,major,9.0
+CAETANO,35,Meu bem meu mal,14,4,4,Y0,*7,V/V,2,major,9.5
+CAETANO,35,Meu bem meu mal,15,9,9,z0,*m7,II__X,2,major,10.0
+CAETANO,35,Meu bem meu mal,16,8,8,Y3,*7(#11),SubV/IV,2,major,10.5
+CAETANO,35,Meu bem meu mal,17,7,7,Z0,*M7,IV,2,major,11.0
+CAETANO,35,Meu bem meu mal,18,0,0,Y2,*7.9,bVII7,2,major,12.0
+CAETANO,35,Meu bem meu mal,19,6,6,y0,*Ø,II__X,2,major,13.0
+CAETANO,35,Meu bem meu mal,20,11,11,Y2.3,*7(b9),V/II,2,major,14.0
+CAETANO,35,Meu bem meu mal,21,4,4,Y2,*7.9,V/V,2,major,15.0
+CAETANO,35,Meu bem meu mal,22,9,9,Y2,*7.9,V,2,major,16.0
+CAETANO,35,Meu bem meu mal,23,9,7,Y0,*7,V,2,major,16.5
+CAETANO,35,Meu bem meu mal,24,6,6,y0,*Ø,II__X,2,major,17.0
+CAETANO,35,Meu bem meu mal,25,11,11,Y2.3,*7(b9),V/II,2,major,18.0
+CAETANO,35,Meu bem meu mal,26,4,4,w2,*mM711,II,2,major,19.0
+CAETANO,35,Meu bem meu mal,27,4,4,z2,*m7.9,II,2,major,20.0
+CAETANO,35,Meu bem meu mal,28,7,7,z1,*m6,IVm7,2,major,21.0
+CAETANO,35,Meu bem meu mal,29,6,6,z0,*m7,II__X,2,major,22.0
+CAETANO,35,Meu bem meu mal,30,11,11,Y2,*7.9,V/II,2,major,23.0
+CAETANO,35,Meu bem meu mal,31,11,11,Y2.4,*7(#9),V/II,2,major,24.0
+CAETANO,35,Meu bem meu mal,32,4,4,z0,*m7,II,2,major,25.0
+CAETANO,35,Meu bem meu mal,33,9,9,Y0,*7,V,2,major,27.0
+CAETANO,35,Meu bem meu mal,34,2,2,Z1.1,*6.9,I,2,major,28.0
+CAETANO,35,Meu bem meu mal,35,8,8,Y3,*7(#11),SubV/IV,2,major,28.5
+CAETANO,35,Meu bem meu mal,36,7,7,Z1.1,*6.9,IV,2,major,29.0
+CAETANO,35,Meu bem meu mal,37,9,9,W2.1,*(#5)7(b9),V,2,major,30.0
+CAETANO,35,Meu bem meu mal,38,2,2,Z1.1,*6.9,I,2,major,31.0
+CAETANO,35,Meu bem meu mal,39,11,11,Y1.1,*4.7.9,V/II,2,major,32.0
+CAETANO,35,Meu bem meu mal,40,11,11,Y2.3,*7(b9),V/II,2,major,33.0
+CAETANO,35,Meu bem meu mal,41,4,4,z2,*m7.9,II,2,major,34.0
+CAETANO,35,Meu bem meu mal,42,9,9,X0,*(b5)7,V,2,major,35.0
+CAETANO,35,Meu bem meu mal,43,2,2,Z1.1,*6.9,I,2,major,36.0
+CAETANO,35,Meu bem meu mal,44,0,0,Y1.1,*4.7.9,SubV/VI,2,major,36.5
+CAETANO,35,Meu bem meu mal,45,11,11,Y2.3,*7(b9),V/II,2,major,37.0
+CAETANO,35,Meu bem meu mal,46,9,9,Y1.1,*4.7.9,V,2,major,38.0
+CAETANO,35,Meu bem meu mal,47,9,9,W2.1,*(#5)7(b9),V,2,major,39.0
+CAETANO,35,Meu bem meu mal,48,2,2,Z1.1,*6.9,I,2,major,40.0
+CAETANO,35,Meu bem meu mal,49,11,11,Y2.3,*7(b9),V/II,2,major,40.5
+CAETANO,35,Meu bem meu mal,50,9,9,Y1.1,*4.7.9,V,2,major,41.0
+CAETANO,35,Meu bem meu mal,51,9,9,W2.1,*(#5)7(b9),V,2,major,42.0
+CAETANO,35,Meu bem meu mal,52,2,2,Z1.1,*6.9,I,2,major,43.0
+CAETANO,36,Muito,1,7,7,V0,*,I,7,major,1.0
+CAETANO,36,Muito,2,5,5,Z0,*M7,Np/VI,7,major,2.0
+CAETANO,36,Muito,3,4,4,v0,*m,VI,7,major,3.0
+CAETANO,36,Muito,4,3,3,Z0,*M7,bVI7M,7,major,4.0
+CAETANO,36,Muito,5,0,0,V0,*,IV,7,major,5.0
+CAETANO,36,Muito,6,3,3,Z0,*M7,bVI7M,7,major,6.0
+CAETANO,36,Muito,7,5,5,V0,*,bVII7M,7,major,6.5
+CAETANO,36,Muito,8,10,10,V0,*,bIII7M,7,major,7.0
+CAETANO,36,Muito,9,9,9,y0,*Ø,IIm7(b5),7,major,8.0
+CAETANO,36,Muito,10,2,2,Y0,*7,V,7,major,8.5
+CAETANO,36,Muito,11,7,7,Z0,*M7,I,7,major,9.0
+CAETANO,36,Muito,12,5,5,Z0,*M7,Np/VI,7,major,10.0
+CAETANO,36,Muito,13,4,4,v0,*m,VI,7,major,11.0
+CAETANO,36,Muito,14,3,3,Z0,*M7,bVI7M,7,major,12.0
+CAETANO,36,Muito,15,0,0,V0,*,IV,7,major,13.0
+CAETANO,36,Muito,16,3,3,Z0,*M7,bVI7M,7,major,14.0
+CAETANO,36,Muito,17,5,5,V0,*,bVII7M,7,major,14.5
+CAETANO,36,Muito,18,10,10,V0,*,bIII7M,7,major,15.0
+CAETANO,36,Muito,19,9,9,y0,*Ø,IIm7(b5),7,major,16.0
+CAETANO,36,Muito,20,2,2,Y0,*7,V,7,major,16.5
+CAETANO,36,Muito,21,7,7,Z0,*M7,I,7,major,17.0
+CAETANO,36,Muito,22,5,5,Z0,*M7,bVII7M,7,major,18.0
+CAETANO,36,Muito,23,11,11,y0,*Ø,II__X,7,major,19.0
+CAETANO,36,Muito,24,4,4,Y0,*7,V/II,7,major,20.0
+CAETANO,36,Muito,25,1,1,y0,*Ø,#IVm7(b5),7,major,21.0
+CAETANO,36,Muito,26,0,0,Z0,*M7,IV,7,major,22.0
+CAETANO,36,Muito,27,11,11,y0,*Ø,II__X,7,major,23.0
+CAETANO,36,Muito,28,4,4,Y0,*7,V/II,7,major,24.0
+CAETANO,36,Muito,29,9,9,Y4,*7.13,V/V,7,major,25.0
+CAETANO,36,Muito,30,9,9,Y4.1,*7(b13),V/V,7,major,25.5
+CAETANO,36,Muito,31,2,2,Y2,*7.9,V,7,major,26.0
+CAETANO,36,Muito,32,2,2,Y2.3,*7(b9),V,7,major,26.5
+CAETANO,36,Muito,33,7,7,V0,*,I,7,major,27.0
+CAETANO,37,Nao identificado,1,2,2,V0,*,I,2,major,1.0
+CAETANO,37,Nao identificado,2,7,7,V0,*,IV,2,major,2.0
+CAETANO,37,Nao identificado,3,11,11,v0,*m,VI,2,major,3.0
+CAETANO,37,Nao identificado,4,4,4,v0,*m,II,2,major,4.0
+CAETANO,37,Nao identificado,5,9,9,Y0,*7,V,2,major,5.0
+CAETANO,37,Nao identificado,6,2,2,V0,*,I,2,major,6.0
+CAETANO,37,Nao identificado,7,7,7,V0,*,IV,2,major,7.0
+CAETANO,37,Nao identificado,8,2,2,V0,*,I,2,major,8.0
+CAETANO,37,Nao identificado,9,7,7,V0,*,IV,2,major,9.0
+CAETANO,37,Nao identificado,10,2,2,V0,*,I,2,major,10.0
+CAETANO,37,Nao identificado,11,7,7,V0,*,IV,2,major,11.0
+CAETANO,37,Nao identificado,12,11,11,v0,*m,VI,2,major,12.0
+CAETANO,37,Nao identificado,13,4,4,v0,*m,II,2,major,13.0
+CAETANO,37,Nao identificado,14,9,9,Y1,*4.7,V,2,major,14.0
+CAETANO,37,Nao identificado,15,9,9,Y0,*7,V,2,major,14.5
+CAETANO,37,Nao identificado,16,2,2,V0,*,I,2,major,15.0
+CAETANO,37,Nao identificado,17,7,7,W0,*(#5)7,V,0,major,16.0
+CAETANO,37,Nao identificado,18,0,0,Z0,*M7,I,0,major,17.0
+CAETANO,37,Nao identificado,19,7,7,W0,*(#5)7,V,0,major,18.0
+CAETANO,37,Nao identificado,20,0,0,Z0,*M7,I,0,major,19.0
+CAETANO,37,Nao identificado,21,7,7,W0,*(#5)7,V,0,major,20.0
+CAETANO,37,Nao identificado,22,0,0,Z0,*M7,I,0,major,21.0
+CAETANO,37,Nao identificado,23,7,7,W0,*(#5)7,V,0,major,22.0
+CAETANO,37,Nao identificado,24,0,0,Z0,*M7,I,0,major,23.0
+CAETANO,37,Nao identificado,25,2,2,V0,*,I,2,major,24.0
+CAETANO,38,Nosso estranho amor,1,4,4,V0,*,I,4,major,1.0
+CAETANO,38,Nosso estranho amor,2,9,9,V0,*,IV,4,major,2.0
+CAETANO,38,Nosso estranho amor,3,6,6,Y0,*7,V/V,4,major,3.0
+CAETANO,38,Nosso estranho amor,4,11,11,Y0,*7,V,4,major,4.0
+CAETANO,38,Nosso estranho amor,5,4,4,V0,*,I,4,major,5.0
+CAETANO,38,Nosso estranho amor,6,9,9,V0,*,IV,4,major,6.0
+CAETANO,38,Nosso estranho amor,7,6,6,Y0,*7,V/V,4,major,7.0
+CAETANO,38,Nosso estranho amor,8,11,11,Y0,*7,V,4,major,8.0
+CAETANO,38,Nosso estranho amor,9,1,1,v0,*m,VI,4,major,9.0
+CAETANO,38,Nosso estranho amor,10,8,8,v0,*m,III,4,major,9.5
+CAETANO,38,Nosso estranho amor,11,3,3,v0,*m,VIIm7,4,major,10.0
+CAETANO,38,Nosso estranho amor,12,4,4,V0,*,I,4,major,10.5
+CAETANO,38,Nosso estranho amor,13,9,9,V0,*,IV,4,major,11.0
+CAETANO,38,Nosso estranho amor,14,9,9,z1,*m6,IVm7,4,major,11.5
+CAETANO,38,Nosso estranho amor,15,8,8,z0,*m7,II__X,4,major,12.0
+CAETANO,38,Nosso estranho amor,16,1,1,Y2.3,*7(b9),V/II,4,major,12.25
+CAETANO,38,Nosso estranho amor,17,6,6,Y0,*7,V/V,4,major,12.5
+CAETANO,38,Nosso estranho amor,18,11,11,Y0,*7,V,4,major,12.75
+CAETANO,38,Nosso estranho amor,19,1,1,v0,*m,VI,4,major,13.0
+CAETANO,38,Nosso estranho amor,20,8,8,v0,*m,III,4,major,13.5
+CAETANO,38,Nosso estranho amor,21,3,3,v0,*m,VIIm7,4,major,14.0
+CAETANO,38,Nosso estranho amor,22,4,4,V0,*,I,4,major,14.5
+CAETANO,38,Nosso estranho amor,23,9,9,V0,*,IV,4,major,15.0
+CAETANO,38,Nosso estranho amor,24,9,9,z1,*m6,IVm7,4,major,15.5
+CAETANO,38,Nosso estranho amor,25,8,8,z0,*m7,II__X,4,major,16.0
+CAETANO,38,Nosso estranho amor,26,1,1,Y2.3,*7(b9),V/II,4,major,16.25
+CAETANO,38,Nosso estranho amor,27,6,6,Y0,*7,V/V,4,major,16.5
+CAETANO,38,Nosso estranho amor,28,11,11,Y0,*7,V,4,major,16.75
+CAETANO,38,Nosso estranho amor,29,4,4,V0,*,I,4,major,17.0
+CAETANO,39,Odara,1,9,9,z0,*m7,IV,4,minor,1.0
+CAETANO,39,Odara,2,2,2,Y0,*7,bVII7,4,minor,2.0
+CAETANO,39,Odara,3,4,4,z0,*m7,I,4,minor,3.0
+CAETANO,39,Odara,4,9,9,z0,*m7,IV,4,minor,5.0
+CAETANO,39,Odara,5,2,2,Y0,*7,bVII7,4,minor,6.0
+CAETANO,39,Odara,6,4,4,z0,*m7,I,4,minor,7.0
+CAETANO,39,Odara,7,9,9,z0,*m7,IV,4,minor,9.0
+CAETANO,39,Odara,8,2,2,Y0,*7,SubV/VI,4,major,10.0
+CAETANO,39,Odara,9,1,1,z0,*m7,VI,4,major,11.0
+CAETANO,39,Odara,10,0,0,Z0,*M7,bVI7M,4,major,12.0
+CAETANO,39,Odara,11,11,11,z2,*m7.9,II__X,4,major,13.0
+CAETANO,39,Odara,12,4,4,Y2,*7.9,V/IV,4,major,14.0
+CAETANO,39,Odara,13,9,9,z0,*m7,IV,4,minor,15.0
+CAETANO,39,Odara,14,2,2,Y0,*7,bVII7,4,minor,16.0
+CAETANO,39,Odara,15,4,4,z0,*m7,I,4,minor,17.0
+CAETANO,40,O leaozinho,1,0,0,V0,*,I,0,major,1.0
+CAETANO,40,O leaozinho,2,7,7,Y0,*7,V,0,major,2.0
+CAETANO,40,O leaozinho,3,9,9,v0,*m,VI,0,major,3.0
+CAETANO,40,O leaozinho,4,4,4,v0,*m,III,0,major,4.0
+CAETANO,40,O leaozinho,5,5,5,V0,*,IV,0,major,5.0
+CAETANO,40,O leaozinho,6,10,10,V0,*,bVII7M,0,major,6.0
+CAETANO,40,O leaozinho,7,0,0,V0,*,I,0,major,7.0
+CAETANO,40,O leaozinho,8,9,9,v0,*m,I,9,minor,9.0
+CAETANO,40,O leaozinho,9,9,9,w0,*mM7,I,9,minor,10.0
+CAETANO,40,O leaozinho,10,9,9,z0,*m7,I,9,minor,11.0
+CAETANO,40,O leaozinho,11,9,9,z1,*m6,I,9,minor,12.0
+CAETANO,40,O leaozinho,12,5,5,V0,*,VI,9,minor,13.0
+CAETANO,40,O leaozinho,13,9,4,v0,*m,I,9,minor,14.0
+CAETANO,40,O leaozinho,14,2,2,z0,*m7,II,0,major,15.0
+CAETANO,40,O leaozinho,15,7,7,Y0,*7,V,0,major,16.0
+CAETANO,40,O leaozinho,16,0,0,V0,*,I,0,major,17.0
+CAETANO,41,O quereres,1,0,0,V0,*,I,0,major,1.0
+CAETANO,41,O quereres,2,2,6,Y0,*7,V/V,0,major,2.0
+CAETANO,41,O quereres,3,0,0,V0,*,I,0,major,3.0
+CAETANO,41,O quereres,4,2,6,Y0,*7,V/V,0,major,4.0
+CAETANO,41,O quereres,5,9,9,v0,*m,VI,0,major,5.0
+CAETANO,41,O quereres,6,9,9,x0,*°7,?,0,major,6.0
+CAETANO,41,O quereres,7,9,9,v0,*m,VI,0,major,7.0
+CAETANO,41,O quereres,8,5,5,V0,*,IV,0,major,8.0
+CAETANO,41,O quereres,9,5,5,z1,*m6,IVm7,0,major,8.5
+CAETANO,41,O quereres,10,0,0,V0,*,I,0,major,9.0
+CAETANO,41,O quereres,11,9,9,z0,*m7,II__X,0,major,10.0
+CAETANO,41,O quereres,12,2,2,Y1,*4.7,V/V,0,major,11.0
+CAETANO,41,O quereres,13,9,9,z0,*m7,II__X,0,major,12.0
+CAETANO,41,O quereres,14,2,2,Y1,*4.7,V/V,0,major,13.0
+CAETANO,41,O quereres,15,5,5,V0,*,IV,0,major,13.5
+CAETANO,41,O quereres,16,0,0,V0,*,I,0,major,14.0
+CAETANO,42,Os argonautas,1,11,11,v0,*m,I,11,minor,1.0
+CAETANO,42,Os argonautas,2,2,2,x0,*°7,bIII°,11,minor,1.5
+CAETANO,42,Os argonautas,3,1,1,y0,*Ø,II,11,minor,2.0
+CAETANO,42,Os argonautas,4,6,6,Y0,*7,V,11,minor,2.5
+CAETANO,42,Os argonautas,5,11,11,v0,*m,I,11,minor,3.0
+CAETANO,42,Os argonautas,6,2,2,x0,*°7,bIII°,11,minor,3.5
+CAETANO,42,Os argonautas,7,1,1,y0,*Ø,II,11,minor,4.0
+CAETANO,42,Os argonautas,8,6,6,Y0,*7,V,11,minor,4.5
+CAETANO,42,Os argonautas,9,7,7,V0,*,VI,11,minor,5.0
+CAETANO,42,Os argonautas,10,9,9,Y0,*7,V/III,11,minor,6.0
+CAETANO,42,Os argonautas,11,2,2,V0,*,III,11,minor,7.0
+CAETANO,42,Os argonautas,12,1,1,y0,*Ø,II,11,minor,8.0
+CAETANO,42,Os argonautas,13,6,6,Y0,*7,V,11,minor,8.5
+CAETANO,42,Os argonautas,14,11,11,v0,*m,I,11,minor,9.0
+CAETANO,42,Os argonautas,15,2,2,x0,*°7,bIII°,11,minor,9.5
+CAETANO,42,Os argonautas,16,1,1,y0,*Ø,II,11,minor,10.0
+CAETANO,42,Os argonautas,17,6,6,Y0,*7,V,11,minor,10.5
+CAETANO,42,Os argonautas,18,11,11,v0,*m,I,11,minor,11.0
+CAETANO,42,Os argonautas,19,7,7,V0,*,VI,11,minor,13.0
+CAETANO,42,Os argonautas,20,9,9,Y0,*7,V/III,11,minor,14.0
+CAETANO,42,Os argonautas,21,11,11,V0,*,I,11,major,15.0
+CAETANO,42,Os argonautas,22,3,3,v0,*m,III,11,major,16.0
+CAETANO,42,Os argonautas,23,1,1,Y0,*7,V/V,11,major,17.0
+CAETANO,42,Os argonautas,24,6,6,Y0,*7,V,11,major,18.0
+CAETANO,42,Os argonautas,25,11,11,V0,*,I,11,major,19.0
+CAETANO,42,Os argonautas,26,3,3,v0,*m,III,11,major,20.0
+CAETANO,42,Os argonautas,27,1,1,Y0,*7,V/V,11,major,21.0
+CAETANO,42,Os argonautas,28,6,6,Y0,*7,V,11,major,22.0
+CAETANO,42,Os argonautas,29,11,11,v0,*m,I,11,minor,23.0
+CAETANO,43,Quero ir a Cuba,1,0,0,V0,*,I,0,major,1.0
+CAETANO,43,Quero ir a Cuba,2,4,4,v0,*m,III,0,major,1.5
+CAETANO,43,Quero ir a Cuba,3,2,2,z0,*m7,II,0,major,2.0
+CAETANO,43,Quero ir a Cuba,4,7,7,Y0,*7,V,0,major,2.5
+CAETANO,43,Quero ir a Cuba,5,0,0,V0,*,I,0,major,3.0
+CAETANO,43,Quero ir a Cuba,6,4,4,v0,*m,III,0,major,3.5
+CAETANO,43,Quero ir a Cuba,7,2,2,z0,*m7,II,0,major,4.0
+CAETANO,43,Quero ir a Cuba,8,7,7,Y0,*7,V,0,major,4.5
+CAETANO,43,Quero ir a Cuba,9,0,0,V0,*,I,0,major,5.0
+CAETANO,43,Quero ir a Cuba,10,4,4,v0,*m,III,0,major,5.5
+CAETANO,43,Quero ir a Cuba,11,2,2,z0,*m7,II,0,major,6.0
+CAETANO,43,Quero ir a Cuba,12,7,7,Y0,*7,V,0,major,6.5
+CAETANO,43,Quero ir a Cuba,13,0,0,V0,*,I,0,major,7.0
+CAETANO,43,Quero ir a Cuba,14,4,4,v0,*m,III,0,major,7.5
+CAETANO,43,Quero ir a Cuba,15,2,2,z0,*m7,II,0,major,8.0
+CAETANO,43,Quero ir a Cuba,16,7,7,Y0,*7,V,0,major,8.5
+CAETANO,43,Quero ir a Cuba,17,0,0,V0,*,I,0,major,9.0
+CAETANO,43,Quero ir a Cuba,18,4,4,v0,*m,III,0,major,9.5
+CAETANO,43,Quero ir a Cuba,19,2,2,z0,*m7,II,0,major,10.0
+CAETANO,43,Quero ir a Cuba,20,7,7,Y0,*7,V,0,major,10.5
+CAETANO,43,Quero ir a Cuba,21,0,0,V0,*,I,0,major,11.0
+CAETANO,43,Quero ir a Cuba,22,4,4,v0,*m,III,0,major,11.5
+CAETANO,43,Quero ir a Cuba,23,2,2,z0,*m7,II,0,major,12.0
+CAETANO,43,Quero ir a Cuba,24,7,7,Y0,*7,V,0,major,12.5
+CAETANO,43,Quero ir a Cuba,25,4,4,v0,*m,II__X,0,major,13.0
+CAETANO,43,Quero ir a Cuba,26,9,9,Y0,*7,V/II,0,major,13.5
+CAETANO,43,Quero ir a Cuba,27,5,5,v0,*m,II__X,0,major,14.0
+CAETANO,43,Quero ir a Cuba,28,10,10,Y0,*7,SubV/VI,0,major,14.5
+CAETANO,43,Quero ir a Cuba,29,4,4,v0,*m,III,0,major,15.0
+CAETANO,43,Quero ir a Cuba,30,4,4,Y0,*7,V,9,minor,15.5
+CAETANO,43,Quero ir a Cuba,31,9,9,v0,*m,I,9,minor,16.0
+CAETANO,43,Quero ir a Cuba,32,4,4,Y0,*7,V,9,minor,17.0
+CAETANO,43,Quero ir a Cuba,33,9,9,v0,*m,I,9,minor,18.0
+CAETANO,43,Quero ir a Cuba,34,4,4,Y0,*7,V,9,minor,19.0
+CAETANO,43,Quero ir a Cuba,35,9,9,v0,*m,I,9,minor,20.0
+CAETANO,43,Quero ir a Cuba,36,4,4,Y0,*7,V,9,minor,21.0
+CAETANO,43,Quero ir a Cuba,37,9,9,v0,*m,I,9,minor,22.0
+CAETANO,43,Quero ir a Cuba,38,4,4,Y0,*7,V,9,minor,23.0
+CAETANO,43,Quero ir a Cuba,39,9,9,v0,*m,I,9,minor,24.0
+CAETANO,43,Quero ir a Cuba,40,4,4,Y0,*7,V,9,minor,25.0
+CAETANO,43,Quero ir a Cuba,41,9,9,v0,*m,I,9,minor,26.0
+CAETANO,43,Quero ir a Cuba,42,4,4,Y0,*7,V,9,minor,27.0
+CAETANO,43,Quero ir a Cuba,43,9,9,v0,*m,I,9,minor,28.0
+CAETANO,43,Quero ir a Cuba,44,7,7,Y0,*7,V,0,major,29.0
+CAETANO,43,Quero ir a Cuba,45,0,0,V0,*,I,0,major,30.0
+CAETANO,43,Quero ir a Cuba,46,4,4,v0,*m,III,0,major,30.5
+CAETANO,43,Quero ir a Cuba,47,2,2,z0,*m7,II,0,major,31.0
+CAETANO,43,Quero ir a Cuba,48,7,7,Y0,*7,V,0,major,31.5
+CAETANO,43,Quero ir a Cuba,49,0,0,V0,*,I,0,major,32.0
+CAETANO,44,Outras palavras,1,0,0,z0,*m7,II,10,major,1.0
+CAETANO,44,Outras palavras,2,5,5,Y0,*7,V,10,major,1.5
+CAETANO,44,Outras palavras,3,0,0,z0,*m7,II,10,major,2.0
+CAETANO,44,Outras palavras,4,5,5,Y0,*7,V,10,major,2.5
+CAETANO,44,Outras palavras,5,0,0,z0,*m7,II,10,major,3.0
+CAETANO,44,Outras palavras,6,5,5,Y0,*7,V,10,major,3.5
+CAETANO,44,Outras palavras,7,0,0,z0,*m7,II,10,major,4.0
+CAETANO,44,Outras palavras,8,5,5,Y0,*7,V,10,major,4.5
+CAETANO,44,Outras palavras,9,0,0,z0,*m7,II,10,major,5.0
+CAETANO,44,Outras palavras,10,5,5,Y0,*7,V,10,major,5.5
+CAETANO,44,Outras palavras,11,0,0,z0,*m7,II,10,major,6.0
+CAETANO,44,Outras palavras,12,5,5,Y0,*7,V,10,major,6.5
+CAETANO,44,Outras palavras,13,0,0,z0,*m7,II,10,major,7.0
+CAETANO,44,Outras palavras,14,5,5,Y0,*7,V,10,major,7.5
+CAETANO,44,Outras palavras,15,7,7,z2,*m7.9,II,5,major,8.0
+CAETANO,44,Outras palavras,16,2,2,z2,*m7.9,VI,5,major,8.5
+CAETANO,44,Outras palavras,17,7,7,z2,*m7.9,II,5,major,9.0
+CAETANO,44,Outras palavras,18,2,2,z2,*m7.9,VI,5,major,9.5
+CAETANO,44,Outras palavras,19,7,7,z2,*m7.9,II,5,major,10.0
+CAETANO,44,Outras palavras,20,0,0,z0,*m7,II__X,5,major,10.5
+CAETANO,44,Outras palavras,21,5,5,Y0,*7,V/IV,5,major,10.75
+CAETANO,44,Outras palavras,22,1,1,Z0,*M7,bVI7M,5,major,11.0
+CAETANO,44,Outras palavras,23,7,7,z0,*m7,II,5,major,11.5
+CAETANO,44,Outras palavras,24,0,0,Y2,*7.9,V,5,major,11.75
+CAETANO,44,Outras palavras,25,5,5,Z0,*M7,I,5,major,12.0
+CAETANO,44,Outras palavras,26,1,1,Z0,*M7,bVI7M,5,major,13.0
+CAETANO,44,Outras palavras,27,7,7,z0,*m7,II,5,major,13.5
+CAETANO,44,Outras palavras,28,0,0,Y2,*7.9,V,5,major,13.75
+CAETANO,44,Outras palavras,29,2,2,z2,*m7.9,VI,5,major,14.0
+CAETANO,44,Outras palavras,30,1,1,Z0,*M7,bVI7M,5,major,15.0
+CAETANO,44,Outras palavras,31,7,7,z0,*m7,II,5,major,15.5
+CAETANO,44,Outras palavras,32,0,0,Y2,*7.9,V,5,major,15.75
+CAETANO,44,Outras palavras,33,5,5,Z0,*M7,I,5,major,16.0
+CAETANO,44,Outras palavras,34,1,1,Z0,*M7,bVI7M,5,major,17.0
+CAETANO,44,Outras palavras,35,7,7,z0,*m7,II,5,major,17.5
+CAETANO,44,Outras palavras,36,0,0,Y2,*7.9,V,5,major,17.75
+CAETANO,44,Outras palavras,37,10,10,Z0,*M7,I,10,major,18.0
+CAETANO,45,Pecado original,1,9,9,z0,*m7,I,9,minor,1.0
+CAETANO,45,Pecado original,2,11,11,z3,*m7.11,II,9,minor,2.0
+CAETANO,45,Pecado original,3,10,10,Y3,*7(#11),SubV,9,minor,2.5
+CAETANO,45,Pecado original,4,9,9,z0,*m7,I,9,minor,3.0
+CAETANO,45,Pecado original,5,8,8,Y0,*7,SubV/V,0,major,4.0
+CAETANO,45,Pecado original,6,7,7,z3,*m7.11,II__X,0,major,5.0
+CAETANO,45,Pecado original,7,6,6,Y3,*7(#11),SubV/IV,0,major,6.0
+CAETANO,45,Pecado original,8,5,5,Z0,*M7,IV,0,major,7.0
+CAETANO,45,Pecado original,9,5,5,z1,*m6,IVm7,0,major,8.0
+CAETANO,45,Pecado original,10,4,4,z0,*m7,II__X,0,major,9.0
+CAETANO,45,Pecado original,11,3,3,Y2,*7.9,SubV/II,0,major,10.0
+CAETANO,45,Pecado original,12,2,2,z2,*m7.9,II,0,major,11.0
+CAETANO,45,Pecado original,13,7,7,Y4,*7.13,V,0,major,12.0
+CAETANO,45,Pecado original,14,7,7,Y4.1,*7(b13),V,0,major,12.5
+CAETANO,45,Pecado original,15,0,0,Z0,*M7,I,0,major,13.0
+CAETANO,45,Pecado original,16,6,6,y0,*Ø,II__X,0,major,14.0
+CAETANO,45,Pecado original,17,11,11,Y2.3,*7(b9),V/III,0,major,14.5
+CAETANO,45,Pecado original,18,4,4,Z0,*M7,I,4,major,15.0
+CAETANO,45,Pecado original,19,5,5,Z0,*M7,bII7M,4,major,17.0
+CAETANO,45,Pecado original,20,6,6,z0,*m7,II,4,major,19.0
+CAETANO,45,Pecado original,21,11,11,Y2,*7.9,V,4,major,20.0
+CAETANO,45,Pecado original,22,11,11,z2,*m7.9,II,9,minor,21.0
+CAETANO,45,Pecado original,23,4,4,Y4.1,*7(b13),V,9,minor,22.0
+CAETANO,45,Pecado original,24,9,9,z0,*m7,I,9,minor,23.0
+CAETANO,46,Rapte-me camaleoa,1,9,9,V0,*,I,9,major,1.0
+CAETANO,46,Rapte-me camaleoa,2,7,7,V0,*,bVII7M,9,major,3.0
+CAETANO,46,Rapte-me camaleoa,3,6,6,z0,*m7,II__X,9,major,4.0
+CAETANO,46,Rapte-me camaleoa,4,11,11,Y2,*7.9,V/V,9,major,5.0
+CAETANO,46,Rapte-me camaleoa,5,6,6,z0,*m7,II__X,9,major,6.0
+CAETANO,46,Rapte-me camaleoa,6,11,11,Y2,*7.9,V/V,9,major,7.0
+CAETANO,46,Rapte-me camaleoa,7,6,6,z0,*m7,II__X,9,major,8.0
+CAETANO,46,Rapte-me camaleoa,8,11,11,Y2,*7.9,V/V,9,major,9.0
+CAETANO,46,Rapte-me camaleoa,9,4,4,V0,*,V,9,major,10.0
+CAETANO,46,Rapte-me camaleoa,10,2,2,V0,*,IV,9,major,11.0
+CAETANO,46,Rapte-me camaleoa,11,4,4,V0,*,V,9,major,12.0
+CAETANO,46,Rapte-me camaleoa,12,2,2,V0,*,IV,9,major,13.0
+CAETANO,46,Rapte-me camaleoa,13,4,4,V0,*,V,9,major,14.0
+CAETANO,46,Rapte-me camaleoa,14,2,2,V0,*,IV,9,major,15.0
+CAETANO,46,Rapte-me camaleoa,15,4,4,V0,*,V,9,major,16.0
+CAETANO,46,Rapte-me camaleoa,16,2,2,V0,*,IV,9,major,17.0
+CAETANO,46,Rapte-me camaleoa,17,9,9,V0,*,I,9,major,18.0
+CAETANO,46,Rapte-me camaleoa,18,7,7,V0,*,bVII7M,9,major,19.0
+CAETANO,46,Rapte-me camaleoa,19,9,9,V0,*,I,9,major,20.0
+CAETANO,47,Podres poderes,1,9,9,V0,*,I,9,major,1.0
+CAETANO,47,Podres poderes,2,11,9,Y0,*7,V/V,9,major,3.0
+CAETANO,47,Podres poderes,3,2,2,V0,*,IV,9,major,5.0
+CAETANO,47,Podres poderes,4,4,4,V0,*,V,9,major,6.0
+CAETANO,47,Podres poderes,5,5,5,V0,*,aNP/VI,9,major,6.5
+CAETANO,47,Podres poderes,6,6,6,v0,*m,VI,9,major,7.0
+CAETANO,47,Podres poderes,7,0,0,V0,*,I,0,major,9.0
+CAETANO,47,Podres poderes,8,4,4,Y0,*7,aSubV/IV,0,major,11.0
+CAETANO,47,Podres poderes,9,5,5,V0,*,IV,0,major,13.0
+CAETANO,47,Podres poderes,10,10,10,Y0,*7,bVII7,0,major,15.0
+CAETANO,47,Podres poderes,11,0,0,V0,*,I,0,major,17.0
+CAETANO,47,Podres poderes,12,4,4,Y0,*7,aSubV/IV,0,major,19.0
+CAETANO,47,Podres poderes,13,5,5,V0,*,IV,0,major,21.0
+CAETANO,47,Podres poderes,14,10,10,Y0,*7,SubV,9,major,23.0
+CAETANO,47,Podres poderes,15,9,9,V0,*,I,9,major,25.0
+CAETANO,48,Sim nao,1,7,7,V0,*,I,7,major,1.0
+CAETANO,48,Sim nao,2,0,0,V0,*,IV,7,major,2.0
+CAETANO,48,Sim nao,3,2,2,Y0,*7,V,7,major,2.5
+CAETANO,48,Sim nao,4,7,7,V0,*,I,7,major,3.0
+CAETANO,48,Sim nao,5,0,0,V0,*,IV,7,major,4.0
+CAETANO,48,Sim nao,6,2,2,Y0,*7,V,7,major,4.5
+CAETANO,48,Sim nao,7,7,7,V0,*,I,7,major,5.0
+CAETANO,48,Sim nao,8,0,0,V0,*,IV,7,major,5.5
+CAETANO,48,Sim nao,9,2,2,Y0,*7,V,7,major,6.0
+CAETANO,48,Sim nao,10,0,0,V0,*,IV,7,major,7.0
+CAETANO,48,Sim nao,11,2,2,Y0,*7,V,7,major,7.5
+CAETANO,48,Sim nao,12,7,7,V0,*,I,7,major,8.0
+CAETANO,48,Sim nao,13,0,0,V0,*,IV,7,major,9.0
+CAETANO,48,Sim nao,14,2,2,Y0,*7,V,7,major,9.5
+CAETANO,48,Sim nao,15,7,7,V0,*,I,7,major,10.0
+CAETANO,49,Sampa,1,0,0,Z0,*M7,I,0,major,1.0
+CAETANO,49,Sampa,2,11,11,z3,*m7.11,II__X,0,major,2.0
+CAETANO,49,Sampa,3,4,4,Y2.3,*7(b9),V/VI,0,major,2.5
+CAETANO,49,Sampa,4,9,9,w0,*mM7,VI,0,major,3.0
+CAETANO,49,Sampa,5,9,9,z0,*m7,VI,0,major,3.5
+CAETANO,49,Sampa,6,7,7,z0,*m7,II__X,0,major,4.0
+CAETANO,49,Sampa,7,6,6,Y3,*7(#11),SubV/IV,0,major,4.5
+CAETANO,49,Sampa,8,5,5,V0,*,IV,0,major,5.0
+CAETANO,49,Sampa,9,9,9,Y0,*7,V/II,0,major,6.0
+CAETANO,49,Sampa,10,2,2,z0,*m7,II,0,major,7.0
+CAETANO,49,Sampa,11,7,7,Y0,*7,V,0,major,9.0
+CAETANO,49,Sampa,12,8,8,x0,*°7,V°/VI,0,major,10.0
+CAETANO,49,Sampa,13,9,9,z0,*m7,VI,0,major,11.0
+CAETANO,49,Sampa,14,2,2,Y2,*7.9,V/V,0,major,13.0
+CAETANO,49,Sampa,15,2,2,z2,*m7.9,II,0,major,17.0
+CAETANO,49,Sampa,16,7,7,Y4,*7.13,V,0,major,18.0
+CAETANO,49,Sampa,17,7,7,Y4.1,*7(b13),V,0,major,18.5
+CAETANO,49,Sampa,18,7,7,z0,*m7,II__X,0,major,19.0
+CAETANO,49,Sampa,19,0,0,Y2,*7.9,V/IV,0,major,20.0
+CAETANO,49,Sampa,20,5,5,Z0,*M7,IV,0,major,21.0
+CAETANO,49,Sampa,21,6,6,x0,*°7,V°/V,0,major,22.0
+CAETANO,49,Sampa,22,0,7,V0,*,I,0,major,23.0
+CAETANO,49,Sampa,23,9,9,Y0,*7,V/II,0,major,23.5
+CAETANO,49,Sampa,24,2,2,z0,*m7,II,0,major,24.0
+CAETANO,49,Sampa,25,7,7,Y0,*7,V,0,major,24.5
+CAETANO,49,Sampa,26,4,4,Y0,*7,V/VI,0,major,25.0
+CAETANO,49,Sampa,27,9,9,Y0,*7,V/II,0,major,26.0
+CAETANO,49,Sampa,28,2,2,Y2,*7.9,V/V,0,major,27.0
+CAETANO,49,Sampa,29,8,8,z1,*m6,bVIm7,0,major,28.0
+CAETANO,49,Sampa,30,7,7,Y0,*7,V,0,major,28.5
+CAETANO,49,Sampa,31,0,0,Z1.1,*6.9,I,0,major,29.0
+CAETANO,50,Superbacana,1,0,0,V0,*,I,0,major,1.0
+CAETANO,50,Superbacana,2,7,11,V0,*,V,0,major,1.5
+CAETANO,50,Superbacana,3,9,9,z0,*m7,VI,0,major,2.0
+CAETANO,50,Superbacana,4,0,7,Y0,*7,V/IV,0,major,2.5
+CAETANO,50,Superbacana,5,5,5,Z0,*M7,IV,0,major,3.0
+CAETANO,50,Superbacana,6,10,10,Y2,*7.9,SubV/VI,0,major,3.5
+CAETANO,50,Superbacana,7,9,9,Z0,*M7,I,9,major,4.0
+CAETANO,50,Superbacana,8,6,6,z0,*m7,VI,9,major,4.5
+CAETANO,50,Superbacana,9,11,11,z0,*m7,II,9,major,5.0
+CAETANO,50,Superbacana,10,4,4,Y2,*7.9,V,9,major,5.5
+CAETANO,50,Superbacana,11,1,1,Y4,*7.13,V/VI,9,major,6.0
+CAETANO,50,Superbacana,12,1,1,Y4.1,*7(b13),V/VI,9,major,6.5
+CAETANO,50,Superbacana,13,6,6,Y2,*7.9,V/II,9,major,7.0
+CAETANO,50,Superbacana,14,11,11,Y4,*7.13,V/V,9,major,8.0
+CAETANO,50,Superbacana,15,4,4,Y2,*7.9,V,9,major,9.0
+CAETANO,50,Superbacana,16,9,9,V0,*,I,9,major,10.0
+CAETANO,50,Superbacana,17,6,6,z0,*m7,VI,9,major,10.5
+CAETANO,50,Superbacana,18,11,11,z0,*m7,II,9,major,11.0
+CAETANO,50,Superbacana,19,4,4,Y2,*7.9,V,9,major,11.5
+CAETANO,50,Superbacana,20,9,9,Z0,*M7,I,9,major,12.0
+CAETANO,50,Superbacana,21,6,6,z0,*m7,VI,9,major,12.5
+CAETANO,50,Superbacana,22,11,11,z0,*m7,II,9,major,13.0
+CAETANO,50,Superbacana,23,4,4,Y2,*7.9,V,9,major,13.5
+CAETANO,50,Superbacana,24,0,0,V0,*,I,0,major,14.0
+CAETANO,50,Superbacana,25,7,11,V0,*,V,0,major,14.5
+CAETANO,50,Superbacana,26,9,9,z0,*m7,VI,0,major,15.0
+CAETANO,50,Superbacana,27,0,7,Y0,*7,V/IV,0,major,15.5
+CAETANO,50,Superbacana,28,5,5,Z0,*M7,IV,0,major,16.0
+CAETANO,50,Superbacana,29,10,10,Y2,*7.9,SubV,9,major,16.5
+CAETANO,50,Superbacana,30,9,9,Z0,*M7,I,9,major,17.0
+CAETANO,50,Superbacana,31,6,6,z0,*m7,VI,9,major,17.5
+CAETANO,50,Superbacana,32,11,11,z0,*m7,II,9,major,18.0
+CAETANO,50,Superbacana,33,4,4,Y2,*7.9,V,9,major,18.5
+CAETANO,50,Superbacana,34,1,1,Y4,*7.13,V/VI,9,major,19.0
+CAETANO,50,Superbacana,35,1,1,Y4.1,*7(b13),V/VI,9,major,20.0
+CAETANO,50,Superbacana,36,6,6,Y2,*7.9,V/II,9,major,21.0
+CAETANO,50,Superbacana,37,11,11,Y4,*7.13,V/V,9,major,22.0
+CAETANO,50,Superbacana,38,11,11,z0,*m7,II,9,major,23.0
+CAETANO,50,Superbacana,39,4,4,Y2,*7.9,V,9,major,23.5
+CAETANO,50,Superbacana,40,9,9,V0,*,I,9,major,24.0

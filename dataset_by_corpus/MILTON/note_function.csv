@@ -1,0 +1,1964 @@
+corpus_id,composition_id,composition_name,mode,note_index,scale_degree,note_function
+MILTON,1,A sede do peixe,minor,1,5,5
+MILTON,1,A sede do peixe,minor,2,b7,7
+MILTON,1,A sede do peixe,minor,3,1,1
+MILTON,1,A sede do peixe,minor,4,2,9
+MILTON,1,A sede do peixe,minor,5,3,3
+MILTON,1,A sede do peixe,minor,6,2,x
+MILTON,1,A sede do peixe,minor,7,1,1
+MILTON,1,A sede do peixe,minor,8,b7,7
+MILTON,1,A sede do peixe,minor,9,1,7
+MILTON,1,A sede do peixe,minor,10,b7,x
+MILTON,1,A sede do peixe,minor,11,6,5
+MILTON,1,A sede do peixe,minor,12,b7,6
+MILTON,1,A sede do peixe,minor,13,1,7
+MILTON,1,A sede do peixe,minor,14,b7,5
+MILTON,1,A sede do peixe,minor,15,5,3
+MILTON,1,A sede do peixe,minor,16,1,5
+MILTON,1,A sede do peixe,minor,17,3,7
+MILTON,1,A sede do peixe,minor,18,4,x
+MILTON,1,A sede do peixe,minor,19,5,1
+MILTON,1,A sede do peixe,minor,20,4,7
+MILTON,1,A sede do peixe,minor,21,3,x
+MILTON,1,A sede do peixe,minor,22,2,5
+MILTON,1,A sede do peixe,minor,23,b7,3
+MILTON,1,A sede do peixe,minor,24,1,5
+MILTON,1,A sede do peixe,minor,25,b7,11
+MILTON,1,A sede do peixe,minor,26,2,x
+MILTON,1,A sede do peixe,minor,27,1,5
+MILTON,1,A sede do peixe,minor,28,1,11
+MILTON,1,A sede do peixe,minor,29,1,9
+MILTON,1,A sede do peixe,minor,30,b7,1
+MILTON,1,A sede do peixe,minor,31,2,3
+MILTON,1,A sede do peixe,minor,32,4,5
+MILTON,1,A sede do peixe,minor,33,#3,3
+MILTON,1,A sede do peixe,minor,34,1,1
+MILTON,2,A terceira margem do rio,minor,1,1,1
+MILTON,2,A terceira margem do rio,minor,2,3,3
+MILTON,2,A terceira margem do rio,minor,3,5,5
+MILTON,2,A terceira margem do rio,minor,4,2,9
+MILTON,2,A terceira margem do rio,minor,5,1,1
+MILTON,2,A terceira margem do rio,minor,6,3,3
+MILTON,2,A terceira margem do rio,minor,7,5,5
+MILTON,2,A terceira margem do rio,minor,8,2,9
+MILTON,2,A terceira margem do rio,minor,9,1,1
+MILTON,2,A terceira margem do rio,minor,10,b7,7
+MILTON,2,A terceira margem do rio,minor,11,1,1
+MILTON,2,A terceira margem do rio,minor,12,3,3
+MILTON,2,A terceira margem do rio,minor,13,5,5
+MILTON,2,A terceira margem do rio,minor,14,2,9
+MILTON,2,A terceira margem do rio,minor,15,1,1
+MILTON,2,A terceira margem do rio,minor,16,3,3
+MILTON,2,A terceira margem do rio,minor,17,5,5
+MILTON,2,A terceira margem do rio,minor,18,2,9
+MILTON,2,A terceira margem do rio,minor,19,1,1
+MILTON,2,A terceira margem do rio,minor,20,b7,7
+MILTON,3,Amor amigo,minor,1,3,3
+MILTON,3,Amor amigo,minor,2,4,11
+MILTON,3,Amor amigo,minor,3,3,3
+MILTON,3,Amor amigo,minor,4,1,1
+MILTON,3,Amor amigo,minor,5,1,7
+MILTON,3,Amor amigo,minor,6,b7,b13
+MILTON,3,Amor amigo,minor,7,6,x
+MILTON,3,Amor amigo,minor,8,b7,5
+MILTON,3,Amor amigo,minor,9,b7,#11
+MILTON,3,Amor amigo,minor,10,b7,b9/#9
+MILTON,3,Amor amigo,minor,11,b7,7
+MILTON,3,Amor amigo,minor,12,4,11
+MILTON,3,Amor amigo,minor,13,5,5
+MILTON,3,Amor amigo,minor,14,4,11
+MILTON,3,Amor amigo,minor,15,2,9
+MILTON,3,Amor amigo,minor,16,1,1
+MILTON,3,Amor amigo,minor,17,1,3
+MILTON,3,Amor amigo,minor,18,3,5
+MILTON,3,Amor amigo,minor,19,2,#11
+MILTON,3,Amor amigo,minor,20,3,5
+MILTON,3,Amor amigo,minor,21,2,x
+MILTON,3,Amor amigo,minor,22,3,5
+MILTON,3,Amor amigo,minor,23,1,3
+MILTON,3,Amor amigo,minor,24,3,5
+MILTON,3,Amor amigo,minor,25,1,x
+MILTON,3,Amor amigo,minor,26,b7,5
+MILTON,3,Amor amigo,minor,27,6,x
+MILTON,3,Amor amigo,minor,28,b7,5
+MILTON,3,Amor amigo,minor,29,6,x
+MILTON,3,Amor amigo,minor,30,b7,5
+MILTON,3,Amor amigo,minor,31,1,11
+MILTON,3,Amor amigo,minor,32,b7,3
+MILTON,3,Amor amigo,minor,33,5,1
+MILTON,3,Amor amigo,minor,34,4,x
+MILTON,3,Amor amigo,minor,35,5,1
+MILTON,3,Amor amigo,minor,36,3,x
+MILTON,3,Amor amigo,minor,37,4,11
+MILTON,3,Amor amigo,minor,38,5,5
+MILTON,3,Amor amigo,minor,39,3,3
+MILTON,3,Amor amigo,minor,40,4,x
+MILTON,3,Amor amigo,minor,41,5,9
+MILTON,3,Amor amigo,minor,42,3,7
+MILTON,3,Amor amigo,minor,43,1,5
+MILTON,3,Amor amigo,minor,44,1,5
+MILTON,3,Amor amigo,minor,45,2,x
+MILTON,3,Amor amigo,minor,46,1,5
+MILTON,3,Amor amigo,minor,47,1,11
+MILTON,3,Amor amigo,minor,48,2,x
+MILTON,3,Amor amigo,minor,49,1,1
+MILTON,3,Amor amigo,minor,50,2,9
+MILTON,3,Amor amigo,minor,51,1,1
+MILTON,4,Cais,minor,1,4,11
+MILTON,4,Cais,minor,2,3,3
+MILTON,4,Cais,minor,3,4,x
+MILTON,4,Cais,minor,4,5,5
+MILTON,4,Cais,minor,5,#6,6
+MILTON,4,Cais,minor,6,b7,x
+MILTON,4,Cais,minor,7,1,1
+MILTON,4,Cais,minor,8,5,5
+MILTON,4,Cais,minor,9,#6,6
+MILTON,4,Cais,minor,10,b7,x
+MILTON,4,Cais,minor,11,1,1
+MILTON,4,Cais,minor,12,5,#11
+MILTON,4,Cais,minor,13,4,3
+MILTON,4,Cais,minor,14,6,5
+MILTON,4,Cais,minor,15,1,7
+MILTON,4,Cais,minor,16,#1/b2,x
+MILTON,4,Cais,minor,17,3,7
+MILTON,4,Cais,minor,18,1,5
+MILTON,4,Cais,minor,19,b7,11
+MILTON,4,Cais,minor,20,1,5
+MILTON,4,Cais,minor,21,2,7
+MILTON,4,Cais,minor,22,3,1
+MILTON,4,Cais,minor,23,4,9
+MILTON,4,Cais,minor,24,1,9
+MILTON,4,Cais,minor,25,#1/b2,3
+MILTON,4,Cais,minor,26,3,x
+MILTON,4,Cais,minor,27,4,7
+MILTON,4,Cais,minor,28,1,9
+MILTON,4,Cais,minor,29,#1/b2,3
+MILTON,4,Cais,minor,30,3,x
+MILTON,4,Cais,minor,31,4,7
+MILTON,4,Cais,minor,32,3,3
+MILTON,4,Cais,minor,33,2,x
+MILTON,4,Cais,minor,34,1,1
+MILTON,5,Cancao amiga,minor,1,1,1
+MILTON,5,Cancao amiga,minor,2,3,3
+MILTON,5,Cancao amiga,minor,3,2,9
+MILTON,5,Cancao amiga,minor,4,1,1
+MILTON,5,Cancao amiga,minor,5,b7,3
+MILTON,5,Cancao amiga,minor,6,1,11
+MILTON,5,Cancao amiga,minor,7,b7,3
+MILTON,5,Cancao amiga,minor,8,5,1
+MILTON,5,Cancao amiga,minor,9,5,x
+MILTON,5,Cancao amiga,minor,10,4,1
+MILTON,5,Cancao amiga,minor,11,5,9
+MILTON,5,Cancao amiga,minor,12,4,1
+MILTON,5,Cancao amiga,minor,13,3,7
+MILTON,5,Cancao amiga,minor,14,3,5
+MILTON,5,Cancao amiga,minor,15,1,3
+MILTON,5,Cancao amiga,minor,16,3,5
+MILTON,5,Cancao amiga,minor,17,4,7
+MILTON,5,Cancao amiga,minor,18,5,6
+MILTON,5,Cancao amiga,minor,19,b7,1
+MILTON,5,Cancao amiga,minor,20,1,9
+MILTON,5,Cancao amiga,minor,21,1,1
+MILTON,5,Cancao amiga,minor,22,3,3
+MILTON,5,Cancao amiga,minor,23,4,x
+MILTON,5,Cancao amiga,minor,24,3,3
+MILTON,5,Cancao amiga,minor,25,1,1
+MILTON,5,Cancao amiga,minor,26,2,x
+MILTON,5,Cancao amiga,minor,27,1,11
+MILTON,5,Cancao amiga,minor,28,b7,3
+MILTON,5,Cancao amiga,minor,29,5,1
+MILTON,5,Cancao amiga,minor,30,4,7
+MILTON,5,Cancao amiga,minor,31,4,x
+MILTON,5,Cancao amiga,minor,32,5,9
+MILTON,5,Cancao amiga,minor,33,3,7
+MILTON,5,Cancao amiga,minor,34,4,1
+MILTON,5,Cancao amiga,minor,35,4,x
+MILTON,5,Cancao amiga,minor,36,3,5
+MILTON,5,Cancao amiga,minor,37,3,3
+MILTON,5,Cancao amiga,minor,38,1,9
+MILTON,5,Cancao amiga,minor,39,b7,1
+MILTON,5,Cancao amiga,minor,40,1,9
+MILTON,5,Cancao amiga,minor,41,1,1
+MILTON,6,Catavento,major,1,6,3
+MILTON,6,Catavento,major,2,7,x
+MILTON,6,Catavento,major,3,1,5
+MILTON,6,Catavento,major,4,2,x
+MILTON,6,Catavento,major,5,1,b13
+MILTON,6,Catavento,major,6,7,x
+MILTON,6,Catavento,major,7,6,x
+MILTON,6,Catavento,major,8,5,b9/#9
+MILTON,6,Catavento,major,9,4,x
+MILTON,6,Catavento,major,10,3,9
+MILTON,6,Catavento,major,11,2,1
+MILTON,6,Catavento,major,12,2,9
+MILTON,6,Catavento,major,13,1,1
+MILTON,6,Catavento,major,14,2,x
+MILTON,6,Catavento,major,15,3,3
+MILTON,6,Catavento,major,16,1,1
+MILTON,6,Catavento,major,17,2,x
+MILTON,6,Catavento,major,18,3,3
+MILTON,6,Catavento,major,19,1,1
+MILTON,6,Catavento,major,20,2,x
+MILTON,6,Catavento,major,21,3,3
+MILTON,6,Catavento,major,22,1,1
+MILTON,6,Catavento,major,23,1,5
+MILTON,6,Catavento,major,24,#6/b7,1
+MILTON,6,Catavento,major,25,5,x
+MILTON,6,Catavento,major,26,#6/b7,1
+MILTON,6,Catavento,major,27,5,5
+MILTON,6,Catavento,major,28,6,3
+MILTON,6,Catavento,major,29,7,x
+MILTON,6,Catavento,major,30,1,5
+MILTON,6,Catavento,major,31,2,x
+MILTON,6,Catavento,major,32,1,5
+MILTON,6,Catavento,major,33,7,3
+MILTON,6,Catavento,major,34,6,x
+MILTON,6,Catavento,major,35,5,1
+MILTON,6,Catavento,major,36,3,13
+MILTON,6,Catavento,major,37,5,3
+MILTON,6,Catavento,major,38,3,1
+MILTON,6,Catavento,major,39,6,11
+MILTON,6,Catavento,major,40,5,3
+MILTON,6,Catavento,major,41,1,1
+MILTON,6,Catavento,major,42,2,x
+MILTON,6,Catavento,major,43,3,3
+MILTON,6,Catavento,major,44,4,x
+MILTON,6,Catavento,major,45,3,3
+MILTON,6,Catavento,major,46,2,x
+MILTON,6,Catavento,major,47,1,1
+MILTON,6,Catavento,major,48,2,x
+MILTON,6,Catavento,major,49,3,3
+MILTON,6,Catavento,major,50,4,x
+MILTON,6,Catavento,major,51,3,3
+MILTON,6,Catavento,major,52,2,x
+MILTON,6,Catavento,major,53,1,1
+MILTON,6,Catavento,major,54,2,x
+MILTON,6,Catavento,major,55,3,x
+MILTON,6,Catavento,major,56,4,3
+MILTON,6,Catavento,major,57,3,x
+MILTON,6,Catavento,major,58,2,3
+MILTON,6,Catavento,major,59,1,x
+MILTON,6,Catavento,major,60,1,5
+MILTON,6,Catavento,major,61,#6/b7,1
+MILTON,6,Catavento,major,62,6,x
+MILTON,6,Catavento,major,63,#6/b7,1
+MILTON,6,Catavento,major,64,1,1
+MILTON,7,Caxanga,minor,1,3,3
+MILTON,7,Caxanga,minor,2,4,1
+MILTON,7,Caxanga,minor,3,3,3
+MILTON,7,Caxanga,minor,4,4,1
+MILTON,7,Caxanga,minor,5,5,9
+MILTON,7,Caxanga,minor,6,5,5
+MILTON,7,Caxanga,minor,7,b7,9
+MILTON,7,Caxanga,minor,8,5,7
+MILTON,7,Caxanga,minor,9,4,x
+MILTON,7,Caxanga,minor,10,3,5
+MILTON,7,Caxanga,minor,11,1,9
+MILTON,7,Caxanga,minor,12,b7,x
+MILTON,7,Caxanga,minor,13,1,9
+MILTON,7,Caxanga,minor,14,1,3
+MILTON,7,Caxanga,minor,15,b7,9
+MILTON,7,Caxanga,minor,16,5,7
+MILTON,7,Caxanga,minor,17,4,x
+MILTON,7,Caxanga,minor,18,3,5
+MILTON,7,Caxanga,minor,19,1,9
+MILTON,7,Caxanga,minor,20,b7,x
+MILTON,7,Caxanga,minor,21,1,9
+MILTON,7,Caxanga,minor,22,1,1
+MILTON,7,Caxanga,minor,23,3,3
+MILTON,7,Caxanga,minor,24,4,1
+MILTON,7,Caxanga,minor,25,5,9
+MILTON,7,Caxanga,minor,26,5,5
+MILTON,7,Caxanga,minor,27,b7,9
+MILTON,7,Caxanga,minor,28,5,7
+MILTON,7,Caxanga,minor,29,4,x
+MILTON,7,Caxanga,minor,30,3,5
+MILTON,7,Caxanga,minor,31,1,9
+MILTON,7,Caxanga,minor,32,b7,x
+MILTON,7,Caxanga,minor,33,1,9
+MILTON,7,Caxanga,minor,34,1,3
+MILTON,7,Caxanga,minor,35,b7,9
+MILTON,7,Caxanga,minor,36,5,7
+MILTON,7,Caxanga,minor,37,4,x
+MILTON,7,Caxanga,minor,38,3,5
+MILTON,7,Caxanga,minor,39,1,9
+MILTON,7,Caxanga,minor,40,b7,x
+MILTON,7,Caxanga,minor,41,1,9
+MILTON,7,Caxanga,minor,42,1,1
+MILTON,8,Clube da Esquina 2,major,1,7,#11
+MILTON,8,Clube da Esquina 2,major,2,1,5
+MILTON,8,Clube da Esquina 2,major,3,4,1
+MILTON,8,Clube da Esquina 2,major,4,3,1
+MILTON,8,Clube da Esquina 2,major,5,1,6
+MILTON,8,Clube da Esquina 2,major,6,6,11
+MILTON,8,Clube da Esquina 2,major,7,5,3
+MILTON,8,Clube da Esquina 2,major,8,6,11
+MILTON,8,Clube da Esquina 2,major,9,6,x
+MILTON,8,Clube da Esquina 2,major,10,5,11
+MILTON,8,Clube da Esquina 2,major,11,1,7
+MILTON,8,Clube da Esquina 2,major,12,4,3
+MILTON,8,Clube da Esquina 2,major,13,3,9
+MILTON,8,Clube da Esquina 2,major,14,4,x
+MILTON,8,Clube da Esquina 2,major,15,3,1
+MILTON,8,Clube da Esquina 2,major,16,5,9
+MILTON,8,Clube da Esquina 2,major,17,6,3
+MILTON,8,Clube da Esquina 2,major,18,7,#11
+MILTON,8,Clube da Esquina 2,major,19,5,9
+MILTON,8,Clube da Esquina 2,major,20,3,7
+MILTON,8,Clube da Esquina 2,major,21,2,x
+MILTON,8,Clube da Esquina 2,major,22,3,1
+MILTON,8,Clube da Esquina 2,major,23,4,x
+MILTON,8,Clube da Esquina 2,major,24,3,1
+MILTON,8,Clube da Esquina 2,major,25,1,6
+MILTON,8,Clube da Esquina 2,major,26,7,x
+MILTON,8,Clube da Esquina 2,major,27,1,6
+MILTON,8,Clube da Esquina 2,major,28,7,x
+MILTON,8,Clube da Esquina 2,major,29,1,6
+MILTON,8,Clube da Esquina 2,major,30,7,x
+MILTON,8,Clube da Esquina 2,major,31,1,3
+MILTON,8,Clube da Esquina 2,major,32,2,5
+MILTON,8,Clube da Esquina 2,major,33,3,13
+MILTON,8,Clube da Esquina 2,major,34,4,3
+MILTON,8,Clube da Esquina 2,major,35,1,5
+MILTON,8,Clube da Esquina 2,major,36,7,3
+MILTON,8,Clube da Esquina 2,major,37,3,3
+MILTON,8,Clube da Esquina 2,major,38,7,7
+MILTON,8,Clube da Esquina 2,major,39,6,3
+MILTON,8,Clube da Esquina 2,major,40,3,13
+MILTON,8,Clube da Esquina 2,major,41,6,3
+MILTON,8,Clube da Esquina 2,major,42,5,1
+MILTON,9,Coracao civil,major,1,5,5
+MILTON,9,Coracao civil,major,2,4,x
+MILTON,9,Coracao civil,major,3,3,3
+MILTON,9,Coracao civil,major,4,1,1
+MILTON,9,Coracao civil,major,5,1,5
+MILTON,9,Coracao civil,major,6,4,1
+MILTON,9,Coracao civil,major,7,2,1
+MILTON,9,Coracao civil,major,8,5,5
+MILTON,9,Coracao civil,major,9,4,x
+MILTON,9,Coracao civil,major,10,3,3
+MILTON,9,Coracao civil,major,11,1,1
+MILTON,9,Coracao civil,major,12,1,5
+MILTON,9,Coracao civil,major,13,4,1
+MILTON,9,Coracao civil,major,14,2,1
+MILTON,9,Coracao civil,major,15,3,x
+MILTON,9,Coracao civil,major,16,4,5
+MILTON,9,Coracao civil,major,17,3,x
+MILTON,9,Coracao civil,major,18,2,3
+MILTON,9,Coracao civil,major,19,1,5
+MILTON,9,Coracao civil,major,20,3,3
+MILTON,9,Coracao civil,major,21,1,1
+MILTON,9,Coracao civil,major,22,2,x
+MILTON,9,Coracao civil,major,23,3,3
+MILTON,9,Coracao civil,major,24,3,5
+MILTON,9,Coracao civil,major,25,2,x
+MILTON,9,Coracao civil,major,26,1,3
+MILTON,9,Coracao civil,major,27,6,1
+MILTON,9,Coracao civil,major,28,2,1
+MILTON,9,Coracao civil,major,29,2,5
+MILTON,9,Coracao civil,major,30,1,1
+MILTON,10,Credo,major,1,1,1
+MILTON,10,Credo,major,2,6,6
+MILTON,10,Credo,major,3,6,x
+MILTON,10,Credo,major,4,5,5
+MILTON,10,Credo,major,5,5,9
+MILTON,10,Credo,major,6,3,7
+MILTON,10,Credo,major,7,3,6
+MILTON,10,Credo,major,8,2,x
+MILTON,10,Credo,major,9,3,6
+MILTON,10,Credo,major,10,2,5
+MILTON,10,Credo,major,11,1,5
+MILTON,10,Credo,major,12,1,1
+MILTON,10,Credo,major,13,6,6
+MILTON,10,Credo,major,14,#6/b7,7
+MILTON,10,Credo,major,15,6,x
+MILTON,10,Credo,major,16,#6/b7,7
+MILTON,10,Credo,major,17,6,x
+MILTON,10,Credo,major,18,5,9
+MILTON,10,Credo,major,19,3,7
+MILTON,10,Credo,major,20,3,13
+MILTON,10,Credo,major,21,5,9
+MILTON,10,Credo,major,22,#2/b3,3
+MILTON,10,Credo,major,23,2,1
+MILTON,10,Credo,major,24,1,1
+MILTON,11,Crenca,minor,1,1,1
+MILTON,11,Crenca,minor,2,3,3
+MILTON,11,Crenca,minor,3,5,5
+MILTON,11,Crenca,minor,4,b7,7
+MILTON,11,Crenca,minor,5,1,1
+MILTON,11,Crenca,minor,6,b7,7
+MILTON,11,Crenca,minor,7,1,1
+MILTON,11,Crenca,minor,8,3,9
+MILTON,11,Crenca,minor,9,1,7
+MILTON,11,Crenca,minor,10,b7,x
+MILTON,11,Crenca,minor,11,6,5
+MILTON,11,Crenca,minor,12,5,#11
+MILTON,11,Crenca,minor,13,b7,6
+MILTON,11,Crenca,minor,14,1,1
+MILTON,11,Crenca,minor,15,5,5
+MILTON,11,Crenca,minor,16,5,x
+MILTON,11,Crenca,minor,17,4,9
+MILTON,11,Crenca,minor,18,5,3
+MILTON,11,Crenca,minor,19,b7,5
+MILTON,11,Crenca,minor,20,5,3
+MILTON,11,Crenca,minor,21,4,9
+MILTON,11,Crenca,minor,22,4,1
+MILTON,11,Crenca,minor,23,3,x
+MILTON,11,Crenca,minor,24,4,1
+MILTON,11,Crenca,minor,25,5,9
+MILTON,11,Crenca,minor,26,4,1
+MILTON,11,Crenca,minor,27,3,x
+MILTON,11,Crenca,minor,28,2,x
+MILTON,11,Crenca,minor,29,1,1
+MILTON,12,Danca dos meninos,major,1,5,1
+MILTON,12,Danca dos meninos,major,2,4,x
+MILTON,12,Danca dos meninos,major,3,3,3
+MILTON,12,Danca dos meninos,major,4,2,x
+MILTON,12,Danca dos meninos,major,5,3,3
+MILTON,12,Danca dos meninos,major,6,2,6
+MILTON,12,Danca dos meninos,major,7,3,x
+MILTON,12,Danca dos meninos,major,8,4,1
+MILTON,12,Danca dos meninos,major,9,4,3
+MILTON,12,Danca dos meninos,major,10,5,1
+MILTON,12,Danca dos meninos,major,11,4,x
+MILTON,12,Danca dos meninos,major,12,3,3
+MILTON,12,Danca dos meninos,major,13,2,x
+MILTON,12,Danca dos meninos,major,14,3,3
+MILTON,12,Danca dos meninos,major,15,5,1
+MILTON,12,Danca dos meninos,major,16,4,x
+MILTON,12,Danca dos meninos,major,17,5,1
+MILTON,12,Danca dos meninos,major,18,4,7
+MILTON,12,Danca dos meninos,major,19,5,1
+MILTON,12,Danca dos meninos,major,20,4,7
+MILTON,12,Danca dos meninos,major,21,#6/b7,3
+MILTON,12,Danca dos meninos,major,22,6,x
+MILTON,12,Danca dos meninos,major,23,#6/b7,3
+MILTON,12,Danca dos meninos,major,24,6,3
+MILTON,12,Danca dos meninos,major,25,5,x
+MILTON,12,Danca dos meninos,major,26,4,1
+MILTON,12,Danca dos meninos,major,27,3,3
+MILTON,12,Danca dos meninos,major,28,5,1
+MILTON,12,Danca dos meninos,major,29,4,x
+MILTON,12,Danca dos meninos,major,30,3,3
+MILTON,12,Danca dos meninos,major,31,5,5
+MILTON,12,Danca dos meninos,major,32,4,x
+MILTON,12,Danca dos meninos,major,33,3,3
+MILTON,12,Danca dos meninos,major,34,5,5
+MILTON,12,Danca dos meninos,major,35,4,x
+MILTON,12,Danca dos meninos,major,36,3,3
+MILTON,12,Danca dos meninos,major,37,5,5
+MILTON,12,Danca dos meninos,major,38,2,5
+MILTON,12,Danca dos meninos,major,39,7,3
+MILTON,12,Danca dos meninos,major,40,6,x
+MILTON,12,Danca dos meninos,major,41,5,1
+MILTON,12,Danca dos meninos,major,42,2,5
+MILTON,12,Danca dos meninos,major,43,4,x
+MILTON,12,Danca dos meninos,major,44,3,3
+MILTON,12,Danca dos meninos,major,45,4,x
+MILTON,12,Danca dos meninos,major,46,5,5
+MILTON,12,Danca dos meninos,major,47,6,6
+MILTON,12,Danca dos meninos,major,48,1,1
+MILTON,12,Danca dos meninos,major,49,5,5
+MILTON,12,Danca dos meninos,major,50,6,6
+MILTON,12,Danca dos meninos,major,51,1,1
+MILTON,12,Danca dos meninos,major,52,6,x
+MILTON,12,Danca dos meninos,major,53,5,5
+MILTON,12,Danca dos meninos,major,54,6,6
+MILTON,12,Danca dos meninos,major,55,1,1
+MILTON,12,Danca dos meninos,major,56,5,5
+MILTON,12,Danca dos meninos,major,57,6,6
+MILTON,12,Danca dos meninos,major,58,1,1
+MILTON,12,Danca dos meninos,major,59,2,5
+MILTON,13,E dai,major,1,5,5
+MILTON,13,E dai,major,2,6,6
+MILTON,13,E dai,major,3,7,x
+MILTON,13,E dai,major,4,1,1
+MILTON,13,E dai,major,5,7,7
+MILTON,13,E dai,major,6,6,x
+MILTON,13,E dai,major,7,5,5
+MILTON,13,E dai,major,8,5,7
+MILTON,13,E dai,major,9,6,1
+MILTON,13,E dai,major,10,5,7
+MILTON,13,E dai,major,11,5,5
+MILTON,13,E dai,major,12,4,x
+MILTON,13,E dai,major,13,3,3
+MILTON,13,E dai,major,14,2,x
+MILTON,13,E dai,major,15,1,1
+MILTON,13,E dai,major,16,3,7
+MILTON,13,E dai,major,17,4,1
+MILTON,13,E dai,major,18,3,7
+MILTON,13,E dai,major,19,3,9
+MILTON,13,E dai,major,20,2,x
+MILTON,13,E dai,major,21,1,7
+MILTON,13,E dai,major,22,1,6
+MILTON,13,E dai,major,23,6,11
+MILTON,13,E dai,major,24,5,7
+MILTON,13,E dai,major,25,5,1
+MILTON,13,E dai,major,26,3,13
+MILTON,13,E dai,major,27,5,1
+MILTON,13,E dai,major,28,6,9
+MILTON,13,E dai,major,29,5,1
+MILTON,13,E dai,major,30,2,5
+MILTON,13,E dai,major,31,3,13
+MILTON,13,E dai,major,32,5,6
+MILTON,13,E dai,major,33,2,3
+MILTON,13,E dai,major,34,1,x
+MILTON,13,E dai,major,35,#6/b7,1
+MILTON,13,E dai,major,36,2,3
+MILTON,13,E dai,major,37,2,6
+MILTON,13,E dai,major,38,1,5
+MILTON,13,E dai,major,39,2,5
+MILTON,13,E dai,major,40,1,x
+MILTON,13,E dai,major,41,7,3
+MILTON,13,E dai,major,42,6,x
+MILTON,13,E dai,major,43,5,1
+MILTON,14,Maria Maria,major,1,5,5
+MILTON,14,Maria Maria,major,2,1,1
+MILTON,14,Maria Maria,major,3,2,x
+MILTON,14,Maria Maria,major,4,1,1
+MILTON,14,Maria Maria,major,5,5,1
+MILTON,14,Maria Maria,major,6,#5/b6,x
+MILTON,14,Maria Maria,major,7,5,3
+MILTON,14,Maria Maria,major,8,1,5
+MILTON,14,Maria Maria,major,9,4,1
+MILTON,14,Maria Maria,major,10,4,3
+MILTON,14,Maria Maria,major,11,3,3
+MILTON,14,Maria Maria,major,12,1,1
+MILTON,14,Maria Maria,major,13,3,3
+MILTON,14,Maria Maria,major,14,1,1
+MILTON,14,Maria Maria,major,15,3,5
+MILTON,14,Maria Maria,major,16,5,x
+MILTON,14,Maria Maria,major,17,6,1
+MILTON,14,Maria Maria,major,18,3,7
+MILTON,14,Maria Maria,major,19,1,5
+MILTON,14,Maria Maria,major,20,2,3
+MILTON,14,Maria Maria,major,21,2,x
+MILTON,14,Maria Maria,major,22,1,b9/#9
+MILTON,14,Maria Maria,major,23,1,5
+MILTON,14,Maria Maria,major,24,4,1
+MILTON,14,Maria Maria,major,25,3,3
+MILTON,14,Maria Maria,major,26,2,x
+MILTON,14,Maria Maria,major,27,1,1
+MILTON,14,Maria Maria,major,28,5,5
+MILTON,14,Maria Maria,major,29,5,1
+MILTON,14,Maria Maria,major,30,5,3
+MILTON,14,Maria Maria,major,31,5,9
+MILTON,14,Maria Maria,major,32,4,1
+MILTON,14,Maria Maria,major,33,4,3
+MILTON,14,Maria Maria,major,34,3,3
+MILTON,14,Maria Maria,major,35,1,1
+MILTON,14,Maria Maria,major,36,3,3
+MILTON,14,Maria Maria,major,37,1,1
+MILTON,14,Maria Maria,major,38,3,5
+MILTON,14,Maria Maria,major,39,5,x
+MILTON,14,Maria Maria,major,40,6,1
+MILTON,14,Maria Maria,major,41,3,7
+MILTON,14,Maria Maria,major,42,1,5
+MILTON,14,Maria Maria,major,43,2,3
+MILTON,14,Maria Maria,major,44,1,b9/#9
+MILTON,14,Maria Maria,major,45,1,5
+MILTON,14,Maria Maria,major,46,4,1
+MILTON,14,Maria Maria,major,47,3,3
+MILTON,14,Maria Maria,major,48,2,x
+MILTON,14,Maria Maria,major,49,1,1
+MILTON,15,Maria tres filhos,major,1,1,1
+MILTON,15,Maria tres filhos,major,2,5,5
+MILTON,15,Maria tres filhos,major,3,1,6
+MILTON,15,Maria tres filhos,major,4,1,1
+MILTON,15,Maria tres filhos,major,5,5,5
+MILTON,15,Maria tres filhos,major,6,1,6
+MILTON,15,Maria tres filhos,major,7,#6/b7,x
+MILTON,15,Maria tres filhos,major,8,1,x
+MILTON,15,Maria tres filhos,major,9,2,9
+MILTON,15,Maria tres filhos,major,10,1,x
+MILTON,15,Maria tres filhos,major,11,#6/b7,7
+MILTON,15,Maria tres filhos,major,12,6,x
+MILTON,15,Maria tres filhos,major,13,5,3
+MILTON,15,Maria tres filhos,major,14,4,b9/#9
+MILTON,15,Maria tres filhos,major,15,#6/b7,7
+MILTON,15,Maria tres filhos,major,16,6,x
+MILTON,15,Maria tres filhos,major,17,5,5
+MILTON,15,Maria tres filhos,major,18,4,x
+MILTON,15,Maria tres filhos,major,19,3,1
+MILTON,15,Maria tres filhos,major,20,4,3
+MILTON,15,Maria tres filhos,major,21,3,1
+MILTON,15,Maria tres filhos,major,22,2,7
+MILTON,15,Maria tres filhos,major,23,2,9
+MILTON,16,Milagre dos peixes,major,1,5,1
+MILTON,16,Milagre dos peixes,major,2,7,7
+MILTON,16,Milagre dos peixes,major,3,5,5
+MILTON,16,Milagre dos peixes,major,4,5,b13
+MILTON,16,Milagre dos peixes,major,5,#6/b7,7
+MILTON,16,Milagre dos peixes,major,6,#4/b5,5
+MILTON,16,Milagre dos peixes,major,7,#5/b6,x
+MILTON,16,Milagre dos peixes,major,8,6,9
+MILTON,16,Milagre dos peixes,major,9,4,7
+MILTON,16,Milagre dos peixes,major,10,4,9
+MILTON,16,Milagre dos peixes,major,11,#5/b6,11
+MILTON,16,Milagre dos peixes,major,12,5,1
+MILTON,16,Milagre dos peixes,major,13,5,b9/#9
+MILTON,16,Milagre dos peixes,major,14,5,9
+MILTON,16,Milagre dos peixes,major,15,5,b9/#9
+MILTON,16,Milagre dos peixes,major,16,5,1
+MILTON,16,Milagre dos peixes,major,17,5,5
+MILTON,16,Milagre dos peixes,major,18,1,1
+MILTON,16,Milagre dos peixes,major,19,3,3
+MILTON,16,Milagre dos peixes,major,20,2,x
+MILTON,16,Milagre dos peixes,major,21,3,9
+MILTON,16,Milagre dos peixes,major,22,#6/b7,5
+MILTON,16,Milagre dos peixes,major,23,#2/b3,1
+MILTON,16,Milagre dos peixes,major,24,5,3
+MILTON,16,Milagre dos peixes,major,25,5,x
+MILTON,16,Milagre dos peixes,major,26,4,1
+MILTON,16,Milagre dos peixes,major,27,5,x
+MILTON,16,Milagre dos peixes,major,28,4,1
+MILTON,16,Milagre dos peixes,major,29,4,x
+MILTON,16,Milagre dos peixes,major,30,#2/b3,1
+MILTON,16,Milagre dos peixes,major,31,2,1
+MILTON,16,Milagre dos peixes,major,32,1,7
+MILTON,16,Milagre dos peixes,major,33,1,1
+MILTON,17,Morro Velho,major,1,3,3
+MILTON,17,Morro Velho,major,2,1,1
+MILTON,17,Morro Velho,major,3,3,3
+MILTON,17,Morro Velho,major,4,5,5
+MILTON,17,Morro Velho,major,5,4,3
+MILTON,17,Morro Velho,major,6,2,9
+MILTON,17,Morro Velho,major,7,5,5
+MILTON,17,Morro Velho,major,8,1,1
+MILTON,17,Morro Velho,major,9,5,5
+MILTON,17,Morro Velho,major,10,6,6
+MILTON,17,Morro Velho,major,11,5,5
+MILTON,17,Morro Velho,major,12,#4/b5,#11
+MILTON,17,Morro Velho,major,13,3,x
+MILTON,17,Morro Velho,major,14,2,9
+MILTON,17,Morro Velho,major,15,1,1
+MILTON,17,Morro Velho,major,16,#6/b7,7
+MILTON,17,Morro Velho,major,17,5,5
+MILTON,17,Morro Velho,major,18,1,1
+MILTON,17,Morro Velho,major,19,5,5
+MILTON,17,Morro Velho,major,20,6,3
+MILTON,17,Morro Velho,major,21,6,3
+MILTON,17,Morro Velho,major,22,5,b9/#9
+MILTON,17,Morro Velho,major,23,4,x
+MILTON,17,Morro Velho,major,24,3,7
+MILTON,17,Morro Velho,major,25,2,x
+MILTON,17,Morro Velho,major,26,1,#11
+MILTON,17,Morro Velho,major,27,#5/b6,7
+MILTON,17,Morro Velho,major,28,5,9
+MILTON,17,Morro Velho,major,29,4,x
+MILTON,17,Morro Velho,major,30,3,#11
+MILTON,17,Morro Velho,major,31,2,9
+MILTON,17,Morro Velho,major,32,1,1
+MILTON,17,Morro Velho,major,33,5,5
+MILTON,17,Morro Velho,major,34,1,1
+MILTON,17,Morro Velho,major,35,#6/b7,7
+MILTON,17,Morro Velho,major,36,5,5
+MILTON,17,Morro Velho,major,37,1,1
+MILTON,17,Morro Velho,major,38,5,5
+MILTON,17,Morro Velho,major,39,1,1
+MILTON,17,Morro Velho,major,40,5,5
+MILTON,17,Morro Velho,major,41,1,1
+MILTON,17,Morro Velho,major,42,5,5
+MILTON,17,Morro Velho,major,43,3,x
+MILTON,17,Morro Velho,major,44,2,3
+MILTON,17,Morro Velho,major,45,7,1
+MILTON,17,Morro Velho,major,46,2,3
+MILTON,17,Morro Velho,major,47,4,5
+MILTON,17,Morro Velho,major,48,2,9
+MILTON,17,Morro Velho,major,49,1,3
+MILTON,17,Morro Velho,major,50,5,5
+MILTON,17,Morro Velho,major,51,3,3
+MILTON,17,Morro Velho,major,52,6,7
+MILTON,17,Morro Velho,major,53,5,x
+MILTON,17,Morro Velho,major,54,#4/b5,x
+MILTON,17,Morro Velho,major,55,3,11
+MILTON,17,Morro Velho,major,56,2,3
+MILTON,17,Morro Velho,major,57,5,6
+MILTON,17,Morro Velho,major,58,5,11
+MILTON,17,Morro Velho,major,59,4,x
+MILTON,17,Morro Velho,major,60,3,9
+MILTON,17,Morro Velho,major,61,3,3
+MILTON,17,Morro Velho,major,62,3,11
+MILTON,18,Nada sera como antes,minor,1,1,1
+MILTON,18,Nada sera como antes,minor,2,2,9
+MILTON,18,Nada sera como antes,minor,3,1,1
+MILTON,18,Nada sera como antes,minor,4,2,9
+MILTON,18,Nada sera como antes,minor,5,1,1
+MILTON,18,Nada sera como antes,minor,6,2,9
+MILTON,18,Nada sera como antes,minor,7,1,x
+MILTON,18,Nada sera como antes,minor,8,b7,7
+MILTON,18,Nada sera como antes,minor,9,4,5
+MILTON,18,Nada sera como antes,minor,10,6,7
+MILTON,18,Nada sera como antes,minor,11,b7,5
+MILTON,18,Nada sera como antes,minor,12,1,13
+MILTON,18,Nada sera como antes,minor,13,b7,5
+MILTON,18,Nada sera como antes,minor,14,6,x
+MILTON,18,Nada sera como antes,minor,15,5,7
+MILTON,18,Nada sera como antes,minor,16,6,1
+MILTON,18,Nada sera como antes,minor,17,4,x
+MILTON,18,Nada sera como antes,minor,18,5,7
+MILTON,18,Nada sera como antes,minor,19,1,7
+MILTON,18,Nada sera como antes,minor,20,3,9
+MILTON,18,Nada sera como antes,minor,21,4,1
+MILTON,18,Nada sera como antes,minor,22,5,9
+MILTON,18,Nada sera como antes,minor,23,1,5
+MILTON,18,Nada sera como antes,minor,24,3,7
+MILTON,18,Nada sera como antes,minor,25,4,x
+MILTON,18,Nada sera como antes,minor,26,5,9
+MILTON,18,Nada sera como antes,minor,27,b7,11
+MILTON,18,Nada sera como antes,minor,28,1,1
+MILTON,18,Nada sera como antes,minor,29,2,9
+MILTON,18,Nada sera como antes,minor,30,5,5
+MILTON,18,Nada sera como antes,minor,31,b7,7
+MILTON,18,Nada sera como antes,minor,32,2,9
+MILTON,18,Nada sera como antes,minor,33,1,1
+MILTON,18,Nada sera como antes,minor,34,2,x
+MILTON,18,Nada sera como antes,minor,35,3,3
+MILTON,18,Nada sera como antes,minor,36,2,x
+MILTON,18,Nada sera como antes,minor,37,1,1
+MILTON,18,Nada sera como antes,minor,38,2,x
+MILTON,18,Nada sera como antes,minor,39,3,7
+MILTON,18,Nada sera como antes,minor,40,2,x
+MILTON,18,Nada sera como antes,minor,41,1,5
+MILTON,18,Nada sera como antes,minor,42,2,x
+MILTON,18,Nada sera como antes,minor,43,3,7
+MILTON,18,Nada sera como antes,minor,44,2,7
+MILTON,18,Nada sera como antes,minor,45,#1/b2,7
+MILTON,18,Nada sera como antes,minor,46,1,7
+MILTON,18,Nada sera como antes,minor,47,1,7
+MILTON,19,Olha,minor,1,5,5
+MILTON,19,Olha,minor,2,3,3
+MILTON,19,Olha,minor,3,2,9
+MILTON,19,Olha,minor,4,4,11
+MILTON,19,Olha,minor,5,3,x
+MILTON,19,Olha,minor,6,2,1
+MILTON,19,Olha,minor,7,1,7
+MILTON,19,Olha,minor,8,4,3
+MILTON,19,Olha,minor,9,5,5
+MILTON,19,Olha,minor,10,3,3
+MILTON,19,Olha,minor,11,2,9
+MILTON,19,Olha,minor,12,b7,7
+MILTON,19,Olha,minor,13,#6,5
+MILTON,19,Olha,minor,14,4,3
+MILTON,19,Olha,minor,15,#3,9
+MILTON,19,Olha,minor,16,1,7
+MILTON,19,Olha,minor,17,3,5
+MILTON,19,Olha,minor,18,b7,9
+MILTON,19,Olha,minor,19,6,1
+MILTON,19,Olha,minor,20,4,6
+MILTON,19,Olha,minor,21,5,9
+MILTON,19,Olha,minor,22,3,1
+MILTON,19,Olha,minor,23,4,9
+MILTON,19,Olha,minor,24,2,3
+MILTON,19,Olha,minor,25,b7,1
+MILTON,19,Olha,minor,26,4,5
+MILTON,19,Olha,minor,27,#3,3
+MILTON,19,Olha,minor,28,1,1
+MILTON,19,Olha,minor,29,b7,7
+MILTON,19,Olha,minor,30,2,3
+MILTON,19,Olha,minor,31,1,1
+MILTON,20,Os povos,major,1,3,3
+MILTON,20,Os povos,major,2,4,x
+MILTON,20,Os povos,major,3,3,3
+MILTON,20,Os povos,major,4,4,x
+MILTON,20,Os povos,major,5,3,3
+MILTON,20,Os povos,major,6,2,9
+MILTON,20,Os povos,major,7,2,6
+MILTON,20,Os povos,major,8,4,1
+MILTON,20,Os povos,major,9,3,3
+MILTON,20,Os povos,major,10,#4/b5,#11
+MILTON,20,Os povos,major,11,3,3
+MILTON,20,Os povos,major,12,3,x
+MILTON,20,Os povos,major,13,#4/b5,#11
+MILTON,20,Os povos,major,14,3,3
+MILTON,20,Os povos,major,15,3,x
+MILTON,20,Os povos,major,16,2,6
+MILTON,20,Os povos,major,17,4,1
+MILTON,20,Os povos,major,18,1,3
+MILTON,20,Os povos,major,19,2,x
+MILTON,20,Os povos,major,20,1,3
+MILTON,20,Os povos,major,21,2,x
+MILTON,20,Os povos,major,22,1,3
+MILTON,20,Os povos,major,23,7,5
+MILTON,20,Os povos,major,24,3,1
+MILTON,20,Os povos,major,25,1,9
+MILTON,20,Os povos,major,26,2,3
+MILTON,20,Os povos,major,27,4,5
+MILTON,20,Os povos,major,28,5,x
+MILTON,20,Os povos,major,29,6,7
+MILTON,20,Os povos,major,30,1,9
+MILTON,20,Os povos,major,31,2,9
+MILTON,20,Os povos,major,32,3,3
+MILTON,21,Outubro,minor,1,5,5
+MILTON,21,Outubro,minor,2,4,11
+MILTON,21,Outubro,minor,3,2,9
+MILTON,21,Outubro,minor,4,2,x
+MILTON,21,Outubro,minor,5,1,1
+MILTON,21,Outubro,minor,6,b7,7
+MILTON,21,Outubro,minor,7,1,1
+MILTON,21,Outubro,minor,8,5,5
+MILTON,21,Outubro,minor,9,4,11
+MILTON,21,Outubro,minor,10,2,9
+MILTON,21,Outubro,minor,11,2,x
+MILTON,21,Outubro,minor,12,1,x
+MILTON,21,Outubro,minor,13,b7,7
+MILTON,21,Outubro,minor,14,5,3
+MILTON,21,Outubro,minor,15,5,7
+MILTON,21,Outubro,minor,16,1,5
+MILTON,21,Outubro,minor,17,b7,11
+MILTON,21,Outubro,minor,18,b7,1
+MILTON,21,Outubro,minor,19,5,13
+MILTON,21,Outubro,minor,20,4,5
+MILTON,21,Outubro,minor,21,3,x
+MILTON,21,Outubro,minor,22,4,5
+MILTON,21,Outubro,minor,23,#6,11
+MILTON,21,Outubro,minor,24,#4/b5,13
+MILTON,21,Outubro,minor,25,5,7
+MILTON,21,Outubro,minor,26,5,1
+MILTON,21,Outubro,minor,27,3,6
+MILTON,21,Outubro,minor,28,2,5
+MILTON,21,Outubro,minor,29,1,3
+MILTON,21,Outubro,minor,30,b7,x
+MILTON,21,Outubro,minor,31,1,3
+MILTON,22,Pieta,minor,1,3,3
+MILTON,22,Pieta,minor,2,1,1
+MILTON,22,Pieta,minor,3,b7,7
+MILTON,22,Pieta,minor,4,5,5
+MILTON,22,Pieta,minor,5,4,x
+MILTON,22,Pieta,minor,6,5,5
+MILTON,22,Pieta,minor,7,1,x
+MILTON,22,Pieta,minor,8,b7,7
+MILTON,22,Pieta,minor,9,3,3
+MILTON,22,Pieta,minor,10,1,1
+MILTON,22,Pieta,minor,11,b7,7
+MILTON,22,Pieta,minor,12,5,5
+MILTON,22,Pieta,minor,13,4,x
+MILTON,22,Pieta,minor,14,5,5
+MILTON,22,Pieta,minor,15,4,x
+MILTON,22,Pieta,minor,16,3,3
+MILTON,22,Pieta,minor,17,1,1
+MILTON,22,Pieta,minor,18,3,3
+MILTON,22,Pieta,minor,19,1,1
+MILTON,22,Pieta,minor,20,3,1
+MILTON,22,Pieta,minor,21,1,6
+MILTON,22,Pieta,minor,22,3,1
+MILTON,22,Pieta,minor,23,1,6
+MILTON,22,Pieta,minor,24,3,1
+MILTON,22,Pieta,minor,25,1,6
+MILTON,22,Pieta,minor,26,3,1
+MILTON,22,Pieta,minor,27,1,6
+MILTON,22,Pieta,minor,28,4,x
+MILTON,22,Pieta,minor,29,3,3
+MILTON,22,Pieta,minor,30,1,1
+MILTON,22,Pieta,minor,31,b7,7
+MILTON,22,Pieta,minor,32,1,1
+MILTON,22,Pieta,minor,33,3,7
+MILTON,22,Pieta,minor,34,4,x
+MILTON,22,Pieta,minor,35,#4/b5,b13
+MILTON,22,Pieta,minor,36,4,x
+MILTON,22,Pieta,minor,37,3,3
+MILTON,22,Pieta,minor,38,1,1
+MILTON,22,Pieta,minor,39,b7,7
+MILTON,22,Pieta,minor,40,4,x
+MILTON,22,Pieta,minor,41,3,1
+MILTON,22,Pieta,minor,42,1,6
+MILTON,22,Pieta,minor,43,b7,5
+MILTON,22,Pieta,minor,44,1,6
+MILTON,23,Primeiro de maio,minor,1,3,3
+MILTON,23,Primeiro de maio,minor,2,5,5
+MILTON,23,Primeiro de maio,minor,3,#6,x
+MILTON,23,Primeiro de maio,minor,4,7,7
+MILTON,23,Primeiro de maio,minor,5,1,x
+MILTON,23,Primeiro de maio,minor,6,2,9
+MILTON,23,Primeiro de maio,minor,7,3,3
+MILTON,23,Primeiro de maio,minor,8,3,x
+MILTON,23,Primeiro de maio,minor,9,2,1
+MILTON,23,Primeiro de maio,minor,10,3,x
+MILTON,23,Primeiro de maio,minor,11,4,3
+MILTON,23,Primeiro de maio,minor,12,#3,9
+MILTON,23,Primeiro de maio,minor,13,3,x
+MILTON,23,Primeiro de maio,minor,14,2,1
+MILTON,23,Primeiro de maio,minor,15,6,#11
+MILTON,23,Primeiro de maio,minor,16,5,3
+MILTON,23,Primeiro de maio,minor,17,#4/b5,3
+MILTON,23,Primeiro de maio,minor,18,5,x
+MILTON,23,Primeiro de maio,minor,19,6,#11
+MILTON,23,Primeiro de maio,minor,20,#6,5
+MILTON,23,Primeiro de maio,minor,21,b7,x
+MILTON,23,Primeiro de maio,minor,22,7,1
+MILTON,23,Primeiro de maio,minor,23,2,9
+MILTON,23,Primeiro de maio,minor,24,#1/b2,x
+MILTON,23,Primeiro de maio,minor,25,1,1
+MILTON,23,Primeiro de maio,minor,26,7,x
+MILTON,23,Primeiro de maio,minor,27,b7,7
+MILTON,23,Primeiro de maio,minor,28,#6,6
+MILTON,23,Primeiro de maio,minor,29,6,x
+MILTON,23,Primeiro de maio,minor,30,5,6
+MILTON,23,Primeiro de maio,minor,31,b7,1
+MILTON,23,Primeiro de maio,minor,32,#6,7
+MILTON,23,Primeiro de maio,minor,33,6,x
+MILTON,23,Primeiro de maio,minor,34,5,6
+MILTON,23,Primeiro de maio,minor,35,b7,1
+MILTON,23,Primeiro de maio,minor,36,#6,x
+MILTON,23,Primeiro de maio,minor,37,6,7
+MILTON,23,Primeiro de maio,minor,38,b7,5
+MILTON,23,Primeiro de maio,minor,39,5,7
+MILTON,23,Primeiro de maio,minor,40,3,5
+MILTON,23,Primeiro de maio,minor,41,4,x
+MILTON,23,Primeiro de maio,minor,42,5,1
+MILTON,23,Primeiro de maio,minor,43,4,7
+MILTON,23,Primeiro de maio,minor,44,#1/b2,5
+MILTON,23,Primeiro de maio,minor,45,3,x
+MILTON,23,Primeiro de maio,minor,46,4,7
+MILTON,23,Primeiro de maio,minor,47,#4/b5,1
+MILTON,23,Primeiro de maio,minor,48,4,x
+MILTON,23,Primeiro de maio,minor,49,#4/b5,1
+MILTON,23,Primeiro de maio,minor,50,4,3
+MILTON,23,Primeiro de maio,minor,51,2,#11
+MILTON,23,Primeiro de maio,minor,52,3,5
+MILTON,23,Primeiro de maio,minor,53,6,5
+MILTON,23,Primeiro de maio,minor,54,5,3
+MILTON,23,Primeiro de maio,minor,55,#4/b5,3
+MILTON,23,Primeiro de maio,minor,56,4,7
+MILTON,23,Primeiro de maio,minor,57,3,3
+MILTON,24,Rio vermelho,minor,1,b7,3
+MILTON,24,Rio vermelho,minor,2,#6,3
+MILTON,24,Rio vermelho,minor,3,b7,x
+MILTON,24,Rio vermelho,minor,4,#6,3
+MILTON,24,Rio vermelho,minor,5,4,1
+MILTON,24,Rio vermelho,minor,6,2,5
+MILTON,24,Rio vermelho,minor,7,b7,3
+MILTON,24,Rio vermelho,minor,8,2,5
+MILTON,24,Rio vermelho,minor,9,4,1
+MILTON,24,Rio vermelho,minor,10,5,x
+MILTON,24,Rio vermelho,minor,11,4,1
+MILTON,24,Rio vermelho,minor,12,4,7
+MILTON,24,Rio vermelho,minor,13,5,x
+MILTON,24,Rio vermelho,minor,14,4,7
+MILTON,24,Rio vermelho,minor,15,2,6
+MILTON,24,Rio vermelho,minor,16,b7,x
+MILTON,24,Rio vermelho,minor,17,1,11
+MILTON,24,Rio vermelho,minor,18,2,5
+MILTON,24,Rio vermelho,minor,19,4,7
+MILTON,24,Rio vermelho,minor,20,2,x
+MILTON,24,Rio vermelho,minor,21,1,5
+MILTON,24,Rio vermelho,minor,22,1,11
+MILTON,24,Rio vermelho,minor,23,2,x
+MILTON,24,Rio vermelho,minor,24,1,11
+MILTON,24,Rio vermelho,minor,25,b7,3
+MILTON,24,Rio vermelho,minor,26,1,11
+MILTON,24,Rio vermelho,minor,27,#6,9
+MILTON,24,Rio vermelho,minor,28,b7,11
+MILTON,24,Rio vermelho,minor,29,1,x
+MILTON,24,Rio vermelho,minor,30,b7,11
+MILTON,24,Rio vermelho,minor,31,3,7
+MILTON,24,Rio vermelho,minor,32,1,5
+MILTON,24,Rio vermelho,minor,33,b7,x
+MILTON,24,Rio vermelho,minor,34,1,5
+MILTON,24,Rio vermelho,minor,35,b7,11
+MILTON,24,Rio vermelho,minor,36,5,9
+MILTON,24,Rio vermelho,minor,37,4,1
+MILTON,24,Rio vermelho,minor,38,b7,b13
+MILTON,24,Rio vermelho,minor,39,5,11
+MILTON,24,Rio vermelho,minor,40,4,7
+MILTON,24,Rio vermelho,minor,41,5,1
+MILTON,24,Rio vermelho,minor,42,b7,b9/#9
+MILTON,24,Rio vermelho,minor,43,b7,3
+MILTON,24,Rio vermelho,minor,44,1,11
+MILTON,24,Rio vermelho,minor,45,1,5
+MILTON,24,Rio vermelho,minor,46,1,11
+MILTON,25,River Phoenix,major,1,1,1
+MILTON,25,River Phoenix,major,2,7,x
+MILTON,25,River Phoenix,major,3,6,6
+MILTON,25,River Phoenix,major,4,7,x
+MILTON,25,River Phoenix,major,5,1,1
+MILTON,25,River Phoenix,major,6,7,#11
+MILTON,25,River Phoenix,major,7,5,9
+MILTON,25,River Phoenix,major,8,6,3
+MILTON,25,River Phoenix,major,9,5,x
+MILTON,25,River Phoenix,major,10,4,1
+MILTON,25,River Phoenix,major,11,5,9
+MILTON,25,River Phoenix,major,12,6,3
+MILTON,25,River Phoenix,major,13,6,x
+MILTON,25,River Phoenix,major,14,5,11
+MILTON,25,River Phoenix,major,15,2,1
+MILTON,25,River Phoenix,major,16,4,3
+MILTON,25,River Phoenix,major,17,3,x
+MILTON,25,River Phoenix,major,18,2,1
+MILTON,25,River Phoenix,major,19,3,x
+MILTON,25,River Phoenix,major,20,4,3
+MILTON,25,River Phoenix,major,21,3,x
+MILTON,25,River Phoenix,major,22,2,5
+MILTON,25,River Phoenix,major,23,6,9
+MILTON,25,River Phoenix,major,24,5,1
+MILTON,25,River Phoenix,major,25,3,9
+MILTON,25,River Phoenix,major,26,2,x
+MILTON,25,River Phoenix,major,27,1,7
+MILTON,25,River Phoenix,major,28,2,5
+MILTON,25,River Phoenix,major,29,3,x
+MILTON,25,River Phoenix,major,30,2,5
+MILTON,25,River Phoenix,major,31,1,1
+MILTON,25,River Phoenix,major,32,3,3
+MILTON,25,River Phoenix,major,33,2,x
+MILTON,25,River Phoenix,major,34,1,1
+MILTON,25,River Phoenix,major,35,2,x
+MILTON,25,River Phoenix,major,36,3,3
+MILTON,25,River Phoenix,major,37,2,x
+MILTON,25,River Phoenix,major,38,1,3
+MILTON,25,River Phoenix,major,39,5,1
+MILTON,25,River Phoenix,major,40,4,x
+MILTON,25,River Phoenix,major,41,3,x
+MILTON,25,River Phoenix,major,42,2,5
+MILTON,25,River Phoenix,major,43,4,x
+MILTON,25,River Phoenix,major,44,3,7
+MILTON,25,River Phoenix,major,45,2,x
+MILTON,25,River Phoenix,major,46,3,7
+MILTON,25,River Phoenix,major,47,4,1
+MILTON,25,River Phoenix,major,48,3,x
+MILTON,25,River Phoenix,major,49,2,6
+MILTON,25,River Phoenix,major,50,6,11
+MILTON,26,Roupa nova,major,1,5,5
+MILTON,26,Roupa nova,major,2,3,3
+MILTON,26,Roupa nova,major,3,1,1
+MILTON,26,Roupa nova,major,4,#6/b7,7
+MILTON,26,Roupa nova,major,5,6,x
+MILTON,26,Roupa nova,major,6,5,5
+MILTON,26,Roupa nova,major,7,3,3
+MILTON,26,Roupa nova,major,8,1,1
+MILTON,26,Roupa nova,major,9,#1/b2,b9/#9
+MILTON,26,Roupa nova,major,10,1,1
+MILTON,26,Roupa nova,major,11,#6/b7,x
+MILTON,26,Roupa nova,major,12,1,1
+MILTON,26,Roupa nova,major,13,1,5
+MILTON,26,Roupa nova,major,14,6,3
+MILTON,26,Roupa nova,major,15,4,1
+MILTON,26,Roupa nova,major,16,#1/b2,b13
+MILTON,26,Roupa nova,major,17,1,5
+MILTON,26,Roupa nova,major,18,7,x
+MILTON,26,Roupa nova,major,19,1,5
+MILTON,26,Roupa nova,major,20,1,1
+MILTON,26,Roupa nova,major,21,#6/b7,7
+MILTON,26,Roupa nova,major,22,6,x
+MILTON,26,Roupa nova,major,23,5,5
+MILTON,26,Roupa nova,major,24,#6/b7,3
+MILTON,26,Roupa nova,major,25,6,9
+MILTON,26,Roupa nova,major,26,5,3
+MILTON,26,Roupa nova,major,27,7,#11
+MILTON,26,Roupa nova,major,28,6,3
+MILTON,26,Roupa nova,major,29,1,x
+MILTON,26,Roupa nova,major,30,7,3
+MILTON,26,Roupa nova,major,31,7,#11
+MILTON,26,Roupa nova,major,32,6,3
+MILTON,26,Roupa nova,major,33,#6/b7,#11
+MILTON,26,Roupa nova,major,34,6,x
+MILTON,26,Roupa nova,major,35,#5/b6,3
+MILTON,26,Roupa nova,major,36,5,3
+MILTON,26,Roupa nova,major,37,#6/b7,5
+MILTON,26,Roupa nova,major,38,5,3
+MILTON,26,Roupa nova,major,39,5,1
+MILTON,26,Roupa nova,major,40,4,7
+MILTON,26,Roupa nova,major,41,3,x
+MILTON,26,Roupa nova,major,42,2,5
+MILTON,27,Saudades dos avioes da Panair,minor,1,5,5
+MILTON,27,Saudades dos avioes da Panair,minor,2,b7,7
+MILTON,27,Saudades dos avioes da Panair,minor,3,#6,x
+MILTON,27,Saudades dos avioes da Panair,minor,4,5,5
+MILTON,27,Saudades dos avioes da Panair,minor,5,4,11
+MILTON,27,Saudades dos avioes da Panair,minor,6,3,x
+MILTON,27,Saudades dos avioes da Panair,minor,7,2,9
+MILTON,27,Saudades dos avioes da Panair,minor,8,3,5
+MILTON,27,Saudades dos avioes da Panair,minor,9,b7,9
+MILTON,27,Saudades dos avioes da Panair,minor,10,6,x
+MILTON,27,Saudades dos avioes da Panair,minor,11,5,x
+MILTON,27,Saudades dos avioes da Panair,minor,12,4,5
+MILTON,27,Saudades dos avioes da Panair,minor,13,b7,1
+MILTON,27,Saudades dos avioes da Panair,minor,14,b7,5
+MILTON,27,Saudades dos avioes da Panair,minor,15,6,x
+MILTON,27,Saudades dos avioes da Panair,minor,16,5,3
+MILTON,27,Saudades dos avioes da Panair,minor,17,3,1
+MILTON,27,Saudades dos avioes da Panair,minor,18,3,7
+MILTON,27,Saudades dos avioes da Panair,minor,19,4,1
+MILTON,27,Saudades dos avioes da Panair,minor,20,4,5
+MILTON,27,Saudades dos avioes da Panair,minor,21,3,x
+MILTON,27,Saudades dos avioes da Panair,minor,22,2,3
+MILTON,27,Saudades dos avioes da Panair,minor,23,b7,1
+MILTON,27,Saudades dos avioes da Panair,minor,24,1,5
+MILTON,27,Saudades dos avioes da Panair,minor,25,b7,1
+MILTON,27,Saudades dos avioes da Panair,minor,26,1,1
+MILTON,27,Saudades dos avioes da Panair,minor,27,b7,7
+MILTON,27,Saudades dos avioes da Panair,minor,28,1,1
+MILTON,27,Saudades dos avioes da Panair,minor,29,b7,x
+MILTON,27,Saudades dos avioes da Panair,minor,30,1,1
+MILTON,27,Saudades dos avioes da Panair,minor,31,b7,5
+MILTON,27,Saudades dos avioes da Panair,minor,32,6,3
+MILTON,27,Saudades dos avioes da Panair,minor,33,b7,5
+MILTON,27,Saudades dos avioes da Panair,minor,34,6,3
+MILTON,27,Saudades dos avioes da Panair,minor,35,1,7
+MILTON,27,Saudades dos avioes da Panair,minor,36,b7,6
+MILTON,27,Saudades dos avioes da Panair,minor,37,1,7
+MILTON,27,Saudades dos avioes da Panair,minor,38,b7,7
+MILTON,28,Tarde,minor,1,5,1
+MILTON,28,Tarde,minor,2,1,x
+MILTON,28,Tarde,minor,3,2,9
+MILTON,28,Tarde,minor,4,3,3
+MILTON,28,Tarde,minor,5,2,1
+MILTON,28,Tarde,minor,6,1,7
+MILTON,28,Tarde,minor,7,2,1
+MILTON,28,Tarde,minor,8,1,x
+MILTON,28,Tarde,minor,9,b7,b13
+MILTON,28,Tarde,minor,10,1,1
+MILTON,28,Tarde,minor,11,2,x
+MILTON,28,Tarde,minor,12,1,1
+MILTON,28,Tarde,minor,13,b7,7
+MILTON,28,Tarde,minor,14,1,1
+MILTON,28,Tarde,minor,15,b7,x
+MILTON,28,Tarde,minor,16,6,b13
+MILTON,28,Tarde,minor,17,b7,11
+MILTON,28,Tarde,minor,18,1,5
+MILTON,28,Tarde,minor,19,b7,1
+MILTON,28,Tarde,minor,20,6,7
+MILTON,28,Tarde,minor,21,b7,1
+MILTON,28,Tarde,minor,22,1,x
+MILTON,28,Tarde,minor,23,b7,1
+MILTON,28,Tarde,minor,24,5,3
+MILTON,28,Tarde,minor,25,5,7
+MILTON,28,Tarde,minor,26,6,1
+MILTON,28,Tarde,minor,27,5,11
+MILTON,28,Tarde,minor,28,4,1
+MILTON,28,Tarde,minor,29,5,9
+MILTON,28,Tarde,minor,30,4,5
+MILTON,28,Tarde,minor,31,3,x
+MILTON,28,Tarde,minor,32,4,5
+MILTON,28,Tarde,minor,33,3,x
+MILTON,28,Tarde,minor,34,2,3
+MILTON,28,Tarde,minor,35,3,1
+MILTON,28,Tarde,minor,36,4,9
+MILTON,28,Tarde,minor,37,3,5
+MILTON,28,Tarde,minor,38,2,x
+MILTON,28,Tarde,minor,39,3,5
+MILTON,28,Tarde,minor,40,2,x
+MILTON,28,Tarde,minor,41,1,3
+MILTON,28,Tarde,minor,42,3,#11
+MILTON,28,Tarde,minor,43,4,b13
+MILTON,28,Tarde,minor,44,3,b9/#9
+MILTON,28,Tarde,minor,45,2,1
+MILTON,28,Tarde,minor,46,3,x
+MILTON,28,Tarde,minor,47,2,1
+MILTON,28,Tarde,minor,48,1,7
+MILTON,28,Tarde,minor,49,2,5
+MILTON,29,Tema de Tostao,major,1,1,1
+MILTON,29,Tema de Tostao,major,2,1,9
+MILTON,29,Tema de Tostao,major,3,1,1
+MILTON,29,Tema de Tostao,major,4,1,9
+MILTON,29,Tema de Tostao,major,5,1,1
+MILTON,29,Tema de Tostao,major,6,6,5
+MILTON,29,Tema de Tostao,major,7,6,x
+MILTON,29,Tema de Tostao,major,8,5,5
+MILTON,29,Tema de Tostao,major,9,4,1
+MILTON,29,Tema de Tostao,major,10,3,3
+MILTON,29,Tema de Tostao,major,11,5,1
+MILTON,29,Tema de Tostao,major,12,6,5
+MILTON,29,Tema de Tostao,major,13,4,1
+MILTON,29,Tema de Tostao,major,14,3,3
+MILTON,29,Tema de Tostao,major,15,5,1
+MILTON,29,Tema de Tostao,major,16,6,5
+MILTON,30,Travessia,major,1,5,5
+MILTON,30,Travessia,major,2,1,1
+MILTON,30,Travessia,major,3,5,5
+MILTON,30,Travessia,major,4,6,x
+MILTON,30,Travessia,major,5,6,3
+MILTON,30,Travessia,major,6,7,3
+MILTON,30,Travessia,major,7,6,6
+MILTON,30,Travessia,major,8,5,5
+MILTON,30,Travessia,major,9,3,3
+MILTON,30,Travessia,major,10,5,1
+MILTON,30,Travessia,major,11,5,5
+MILTON,30,Travessia,major,12,3,3
+MILTON,30,Travessia,major,13,5,1
+MILTON,30,Travessia,major,14,5,5
+MILTON,30,Travessia,major,15,1,1
+MILTON,30,Travessia,major,16,5,5
+MILTON,30,Travessia,major,17,5,1
+MILTON,30,Travessia,major,18,1,3
+MILTON,30,Travessia,major,19,2,11
+MILTON,30,Travessia,major,20,2,1
+MILTON,30,Travessia,major,21,1,7
+MILTON,30,Travessia,major,22,6,13
+MILTON,30,Travessia,major,23,1,1
+MILTON,30,Travessia,major,24,6,6
+MILTON,30,Travessia,major,25,1,5
+MILTON,30,Travessia,major,26,6,3
+MILTON,30,Travessia,major,27,1,9
+MILTON,30,Travessia,major,28,2,3
+MILTON,30,Travessia,major,29,2,7
+MILTON,30,Travessia,major,30,3,1
+MILTON,30,Travessia,major,31,3,5
+MILTON,30,Travessia,major,32,2,x
+MILTON,30,Travessia,major,33,1,3
+MILTON,30,Travessia,major,34,6,1
+MILTON,30,Travessia,major,35,1,5
+MILTON,30,Travessia,major,36,6,3
+MILTON,30,Travessia,major,37,6,9
+MILTON,30,Travessia,major,38,5,5
+MILTON,30,Travessia,major,39,3,3
+MILTON,30,Travessia,major,40,1,3
+MILTON,30,Travessia,major,41,6,9
+MILTON,30,Travessia,major,42,5,5
+MILTON,30,Travessia,major,43,3,3
+MILTON,30,Travessia,major,44,3,5
+MILTON,30,Travessia,major,45,2,x
+MILTON,30,Travessia,major,46,1,7
+MILTON,30,Travessia,major,47,3,6
+MILTON,30,Travessia,major,48,2,5
+MILTON,30,Travessia,major,49,1,1
+MILTON,31,Tres Pontas,major,1,#6/b7,7
+MILTON,31,Tres Pontas,major,2,6,x
+MILTON,31,Tres Pontas,major,3,#6/b7,7
+MILTON,31,Tres Pontas,major,4,1,1
+MILTON,31,Tres Pontas,major,5,6,1
+MILTON,31,Tres Pontas,major,6,5,7
+MILTON,31,Tres Pontas,major,7,3,5
+MILTON,31,Tres Pontas,major,8,1,3
+MILTON,31,Tres Pontas,major,9,2,x
+MILTON,31,Tres Pontas,major,10,1,1
+MILTON,31,Tres Pontas,major,11,2,9
+MILTON,31,Tres Pontas,major,12,5,7
+MILTON,31,Tres Pontas,major,13,3,5
+MILTON,31,Tres Pontas,major,14,5,x
+MILTON,31,Tres Pontas,major,15,6,1
+MILTON,31,Tres Pontas,major,16,1,3
+MILTON,31,Tres Pontas,major,17,2,9
+MILTON,31,Tres Pontas,major,18,1,1
+MILTON,31,Tres Pontas,major,19,6,7
+MILTON,31,Tres Pontas,major,20,2,3
+MILTON,31,Tres Pontas,major,21,1,3
+MILTON,31,Tres Pontas,major,22,2,11
+MILTON,31,Tres Pontas,major,23,1,3
+MILTON,31,Tres Pontas,major,24,6,1
+MILTON,31,Tres Pontas,major,25,#4/b5,5
+MILTON,31,Tres Pontas,major,26,2,3
+MILTON,31,Tres Pontas,major,27,#4/b5,5
+MILTON,31,Tres Pontas,major,28,6,7
+MILTON,31,Tres Pontas,major,29,1,5
+MILTON,31,Tres Pontas,major,30,2,6
+MILTON,31,Tres Pontas,major,31,1,x
+MILTON,31,Tres Pontas,major,32,2,6
+MILTON,31,Tres Pontas,major,33,#2/b3,11
+MILTON,31,Tres Pontas,major,34,#1/b2,3
+MILTON,31,Tres Pontas,major,35,3,3
+MILTON,31,Tres Pontas,major,36,1,1
+MILTON,31,Tres Pontas,major,37,3,x
+MILTON,31,Tres Pontas,major,38,4,3
+MILTON,31,Tres Pontas,major,39,5,5
+MILTON,31,Tres Pontas,major,40,4,x
+MILTON,31,Tres Pontas,major,41,5,5
+MILTON,31,Tres Pontas,major,42,6,13
+MILTON,31,Tres Pontas,major,43,5,5
+MILTON,31,Tres Pontas,major,44,2,9
+MILTON,31,Tres Pontas,major,45,1,x
+MILTON,31,Tres Pontas,major,46,2,9
+MILTON,31,Tres Pontas,major,47,1,x
+MILTON,31,Tres Pontas,major,48,2,9
+MILTON,31,Tres Pontas,major,49,3,x
+MILTON,31,Tres Pontas,major,50,4,7
+MILTON,31,Tres Pontas,major,51,3,13
+MILTON,31,Tres Pontas,major,52,2,5
+MILTON,31,Tres Pontas,major,53,1,1
+MILTON,31,Tres Pontas,major,54,#6/b7,7
+MILTON,32,Tristesse,minor,1,5,5
+MILTON,32,Tristesse,minor,2,4,x
+MILTON,32,Tristesse,minor,3,3,3
+MILTON,32,Tristesse,minor,4,3,5
+MILTON,32,Tristesse,minor,5,2,x
+MILTON,32,Tristesse,minor,6,1,1
+MILTON,32,Tristesse,minor,7,2,9
+MILTON,32,Tristesse,minor,8,5,7
+MILTON,32,Tristesse,minor,9,5,5
+MILTON,32,Tristesse,minor,10,4,x
+MILTON,32,Tristesse,minor,11,3,3
+MILTON,32,Tristesse,minor,12,b7,9
+MILTON,32,Tristesse,minor,13,6,x
+MILTON,32,Tristesse,minor,14,5,5
+MILTON,32,Tristesse,minor,15,3,3
+MILTON,32,Tristesse,minor,16,4,11
+MILTON,32,Tristesse,minor,17,4,6
+MILTON,32,Tristesse,minor,18,5,5
+MILTON,32,Tristesse,minor,19,4,x
+MILTON,32,Tristesse,minor,20,3,3
+MILTON,32,Tristesse,minor,21,b7,1
+MILTON,32,Tristesse,minor,22,6,7
+MILTON,32,Tristesse,minor,23,6,5
+MILTON,32,Tristesse,minor,24,5,x
+MILTON,32,Tristesse,minor,25,5,#11
+MILTON,32,Tristesse,minor,26,6,6
+MILTON,32,Tristesse,minor,27,5,x
+MILTON,32,Tristesse,minor,28,#4/b5,3
+MILTON,32,Tristesse,minor,29,2,1
+MILTON,32,Tristesse,minor,30,4,7
+MILTON,32,Tristesse,minor,31,3,b13
+MILTON,32,Tristesse,minor,32,1,1
+MILTON,33,Um gosto de sol,major,1,5,5
+MILTON,33,Um gosto de sol,major,2,1,1
+MILTON,33,Um gosto de sol,major,3,1,x
+MILTON,33,Um gosto de sol,major,4,2,5
+MILTON,33,Um gosto de sol,major,5,2,5
+MILTON,33,Um gosto de sol,major,6,1,x
+MILTON,33,Um gosto de sol,major,7,#6/b7,3
+MILTON,33,Um gosto de sol,major,8,1,11
+MILTON,33,Um gosto de sol,major,9,1,5
+MILTON,33,Um gosto de sol,major,10,5,5
+MILTON,33,Um gosto de sol,major,11,4,x
+MILTON,33,Um gosto de sol,major,12,3,3
+MILTON,33,Um gosto de sol,major,13,4,7
+MILTON,33,Um gosto de sol,major,14,4,x
+MILTON,33,Um gosto de sol,major,15,3,5
+MILTON,33,Um gosto de sol,major,16,2,x
+MILTON,33,Um gosto de sol,major,17,3,3
+MILTON,33,Um gosto de sol,major,18,2,9
+MILTON,33,Um gosto de sol,major,19,1,x
+MILTON,33,Um gosto de sol,major,20,2,1
+MILTON,33,Um gosto de sol,major,21,2,6
+MILTON,33,Um gosto de sol,major,22,1,5
+MILTON,33,Um gosto de sol,major,23,#6/b7,x
+MILTON,33,Um gosto de sol,major,24,1,1
+MILTON,33,Um gosto de sol,major,25,3,3
+MILTON,33,Um gosto de sol,major,26,2,9
+MILTON,33,Um gosto de sol,major,27,1,x
+MILTON,33,Um gosto de sol,major,28,2,1
+MILTON,33,Um gosto de sol,major,29,2,6
+MILTON,33,Um gosto de sol,major,30,1,5
+MILTON,33,Um gosto de sol,major,31,#6/b7,x
+MILTON,33,Um gosto de sol,major,32,1,3
+MILTON,33,Um gosto de sol,major,33,5,7
+MILTON,33,Um gosto de sol,major,34,5,5
+MILTON,33,Um gosto de sol,major,35,4,x
+MILTON,33,Um gosto de sol,major,36,3,3
+MILTON,33,Um gosto de sol,major,37,4,7
+MILTON,33,Um gosto de sol,major,38,4,x
+MILTON,33,Um gosto de sol,major,39,3,5
+MILTON,33,Um gosto de sol,major,40,2,x
+MILTON,33,Um gosto de sol,major,41,1,1
+MILTON,34,Vera Cruz,minor,1,2,9
+MILTON,34,Vera Cruz,minor,2,3,3
+MILTON,34,Vera Cruz,minor,3,2,x
+MILTON,34,Vera Cruz,minor,4,1,1
+MILTON,34,Vera Cruz,minor,5,b7,7
+MILTON,34,Vera Cruz,minor,6,1,x
+MILTON,34,Vera Cruz,minor,7,2,9
+MILTON,34,Vera Cruz,minor,8,3,3
+MILTON,34,Vera Cruz,minor,9,2,x
+MILTON,34,Vera Cruz,minor,10,1,1
+MILTON,34,Vera Cruz,minor,11,2,x
+MILTON,34,Vera Cruz,minor,12,3,5
+MILTON,34,Vera Cruz,minor,13,5,5
+MILTON,34,Vera Cruz,minor,14,4,7
+MILTON,34,Vera Cruz,minor,15,3,x
+MILTON,34,Vera Cruz,minor,16,2,5
+MILTON,34,Vera Cruz,minor,17,3,7
+MILTON,34,Vera Cruz,minor,18,6,3
+MILTON,34,Vera Cruz,minor,19,5,x
+MILTON,34,Vera Cruz,minor,20,4,1
+MILTON,34,Vera Cruz,minor,21,3,7
+MILTON,34,Vera Cruz,minor,22,4,x
+MILTON,34,Vera Cruz,minor,23,5,3
+MILTON,34,Vera Cruz,minor,24,6,x
+MILTON,34,Vera Cruz,minor,25,5,3
+MILTON,34,Vera Cruz,minor,26,4,9
+MILTON,34,Vera Cruz,minor,27,3,x
+MILTON,34,Vera Cruz,minor,28,4,9
+MILTON,34,Vera Cruz,minor,29,5,7
+MILTON,34,Vera Cruz,minor,30,4,6
+MILTON,34,Vera Cruz,minor,31,3,x
+MILTON,34,Vera Cruz,minor,32,2,5
+MILTON,34,Vera Cruz,minor,33,1,x
+MILTON,34,Vera Cruz,minor,34,b7,3
+MILTON,34,Vera Cruz,minor,35,1,1
+MILTON,34,Vera Cruz,minor,36,2,9
+MILTON,34,Vera Cruz,minor,37,3,3
+MILTON,34,Vera Cruz,minor,38,4,9
+MILTON,34,Vera Cruz,minor,39,#4/b5,3
+MILTON,34,Vera Cruz,minor,40,4,9
+MILTON,34,Vera Cruz,minor,41,#3,9
+MILTON,34,Vera Cruz,minor,42,4,3
+MILTON,34,Vera Cruz,minor,43,#3,x
+MILTON,34,Vera Cruz,minor,44,3,9
+MILTON,34,Vera Cruz,minor,45,3,3
+MILTON,34,Vera Cruz,minor,46,5,5
+MILTON,34,Vera Cruz,minor,47,#6,7
+MILTON,34,Vera Cruz,minor,48,7,x
+MILTON,34,Vera Cruz,minor,49,#6,7
+MILTON,34,Vera Cruz,minor,50,#4/b5,5
+MILTON,34,Vera Cruz,minor,51,2,3
+MILTON,34,Vera Cruz,minor,52,#4/b5,5
+MILTON,34,Vera Cruz,minor,53,5,1
+MILTON,34,Vera Cruz,minor,54,#6,x
+MILTON,34,Vera Cruz,minor,55,5,1
+MILTON,34,Vera Cruz,minor,56,#3,13
+MILTON,34,Vera Cruz,minor,57,1,3
+MILTON,34,Vera Cruz,minor,58,#3,13
+MILTON,34,Vera Cruz,minor,59,4,1
+MILTON,35,Vida,minor,1,5,5
+MILTON,35,Vida,minor,2,5,9
+MILTON,35,Vida,minor,3,4,1
+MILTON,35,Vida,minor,4,3,3
+MILTON,35,Vida,minor,5,2,9
+MILTON,35,Vida,minor,6,4,11
+MILTON,35,Vida,minor,7,3,7
+MILTON,35,Vida,minor,8,2,9
+MILTON,35,Vida,minor,9,1,1
+MILTON,35,Vida,minor,10,3,3
+MILTON,35,Vida,minor,11,2,13
+MILTON,35,Vida,minor,12,1,5
+MILTON,35,Vida,minor,13,2,9
+MILTON,35,Vida,minor,14,5,5
+MILTON,35,Vida,minor,15,5,9
+MILTON,35,Vida,minor,16,4,1
+MILTON,35,Vida,minor,17,5,x
+MILTON,35,Vida,minor,18,4,1
+MILTON,35,Vida,minor,19,4,11
+MILTON,35,Vida,minor,20,3,3
+MILTON,35,Vida,minor,21,2,x
+MILTON,35,Vida,minor,22,1,3
+MILTON,35,Vida,minor,23,3,5
+MILTON,35,Vida,minor,24,3,3
+MILTON,35,Vida,minor,25,2,x
+MILTON,35,Vida,minor,26,1,9
+MILTON,35,Vida,minor,27,b7,7
+MILTON,35,Vida,minor,28,1,1
+MILTON,36,Vidro e corte,minor,1,3,3
+MILTON,36,Vidro e corte,minor,2,4,x
+MILTON,36,Vidro e corte,minor,3,5,5
+MILTON,36,Vidro e corte,minor,4,1,1
+MILTON,36,Vidro e corte,minor,5,5,5
+MILTON,36,Vidro e corte,minor,6,5,7
+MILTON,36,Vidro e corte,minor,7,1,3
+MILTON,36,Vidro e corte,minor,8,5,7
+MILTON,36,Vidro e corte,minor,9,5,x
+MILTON,36,Vidro e corte,minor,10,6,5
+MILTON,36,Vidro e corte,minor,11,5,3
+MILTON,36,Vidro e corte,minor,12,5,1
+MILTON,36,Vidro e corte,minor,13,5,5
+MILTON,36,Vidro e corte,minor,14,6,x
+MILTON,36,Vidro e corte,minor,15,b7,1
+MILTON,36,Vidro e corte,minor,16,6,x
+MILTON,36,Vidro e corte,minor,17,5,x
+MILTON,36,Vidro e corte,minor,18,4,5
+MILTON,36,Vidro e corte,minor,19,b7,1
+MILTON,36,Vidro e corte,minor,20,b7,9
+MILTON,36,Vidro e corte,minor,21,3,5
+MILTON,36,Vidro e corte,minor,22,b7,9
+MILTON,36,Vidro e corte,minor,23,b7,b13
+MILTON,36,Vidro e corte,minor,24,7,3
+MILTON,36,Vidro e corte,minor,25,7,x
+MILTON,36,Vidro e corte,minor,26,1,1
+MILTON,36,Vidro e corte,minor,27,b7,7
+MILTON,36,Vidro e corte,minor,28,5,5
+MILTON,36,Vidro e corte,minor,29,1,3
+MILTON,36,Vidro e corte,minor,30,b7,9
+MILTON,36,Vidro e corte,minor,31,5,7
+MILTON,36,Vidro e corte,minor,32,b7,b13
+MILTON,36,Vidro e corte,minor,33,6,5
+MILTON,36,Vidro e corte,minor,34,5,x
+MILTON,36,Vidro e corte,minor,35,4,3
+MILTON,36,Vidro e corte,minor,36,5,5
+MILTON,36,Vidro e corte,minor,37,6,x
+MILTON,36,Vidro e corte,minor,38,b7,1
+MILTON,36,Vidro e corte,minor,39,6,x
+MILTON,36,Vidro e corte,minor,40,5,x
+MILTON,36,Vidro e corte,minor,41,4,5
+MILTON,36,Vidro e corte,minor,42,5,x
+MILTON,36,Vidro e corte,minor,43,6,1
+MILTON,36,Vidro e corte,minor,44,5,x
+MILTON,36,Vidro e corte,minor,45,4,x
+MILTON,36,Vidro e corte,minor,46,3,5
+MILTON,36,Vidro e corte,minor,47,4,3
+MILTON,36,Vidro e corte,minor,48,5,x
+MILTON,36,Vidro e corte,minor,49,5,3
+MILTON,37,Pelo amor de Deus,minor,1,#1/b2,5
+MILTON,37,Pelo amor de Deus,minor,2,#6,3
+MILTON,37,Pelo amor de Deus,minor,3,5,5
+MILTON,37,Pelo amor de Deus,minor,4,3,3
+MILTON,37,Pelo amor de Deus,minor,5,5,5
+MILTON,37,Pelo amor de Deus,minor,6,b7,7
+MILTON,37,Pelo amor de Deus,minor,7,#1/b2,5
+MILTON,37,Pelo amor de Deus,minor,8,#6,3
+MILTON,37,Pelo amor de Deus,minor,9,5,5
+MILTON,37,Pelo amor de Deus,minor,10,3,3
+MILTON,37,Pelo amor de Deus,minor,11,5,5
+MILTON,37,Pelo amor de Deus,minor,12,b7,7
+MILTON,37,Pelo amor de Deus,minor,13,2,9
+MILTON,37,Pelo amor de Deus,minor,14,3,1
+MILTON,37,Pelo amor de Deus,minor,15,4,x
+MILTON,37,Pelo amor de Deus,minor,16,5,3
+MILTON,37,Pelo amor de Deus,minor,17,4,9
+MILTON,37,Pelo amor de Deus,minor,18,6,5
+MILTON,37,Pelo amor de Deus,minor,19,5,1
+MILTON,37,Pelo amor de Deus,minor,20,6,5
+MILTON,37,Pelo amor de Deus,minor,21,5,x
+MILTON,37,Pelo amor de Deus,minor,22,6,5
+MILTON,37,Pelo amor de Deus,minor,23,5,#11
+MILTON,37,Pelo amor de Deus,minor,24,6,7
+MILTON,37,Pelo amor de Deus,minor,25,5,6
+MILTON,37,Pelo amor de Deus,minor,26,6,7
+MILTON,37,Pelo amor de Deus,minor,27,5,5
+MILTON,37,Pelo amor de Deus,minor,28,2,9
+MILTON,38,Cravo e canela,major,1,2,6
+MILTON,38,Cravo e canela,major,2,1,1
+MILTON,38,Cravo e canela,major,3,6,9
+MILTON,38,Cravo e canela,major,4,5,x
+MILTON,38,Cravo e canela,major,5,4,1
+MILTON,38,Cravo e canela,major,6,6,6
+MILTON,38,Cravo e canela,major,7,5,1
+MILTON,38,Cravo e canela,major,8,4,1
+MILTON,38,Cravo e canela,major,9,1,5
+MILTON,38,Cravo e canela,major,10,4,x
+MILTON,38,Cravo e canela,major,11,3,3
+MILTON,38,Cravo e canela,major,12,2,x
+MILTON,38,Cravo e canela,major,13,3,x
+MILTON,38,Cravo e canela,major,14,2,6
+MILTON,38,Cravo e canela,major,15,2,9
+MILTON,38,Cravo e canela,major,16,3,3
+MILTON,38,Cravo e canela,major,17,2,x
+MILTON,38,Cravo e canela,major,18,3,3
+MILTON,38,Cravo e canela,major,19,2,x
+MILTON,38,Cravo e canela,major,20,3,3
+MILTON,38,Cravo e canela,major,21,2,9
+MILTON,38,Cravo e canela,major,22,5,x
+MILTON,38,Cravo e canela,major,23,#4/b5,x
+MILTON,38,Cravo e canela,major,24,3,11
+MILTON,38,Cravo e canela,major,25,2,3
+MILTON,38,Cravo e canela,major,26,5,x
+MILTON,38,Cravo e canela,major,27,#4/b5,5
+MILTON,38,Cravo e canela,major,28,3,x
+MILTON,38,Cravo e canela,major,29,2,11
+MILTON,38,Cravo e canela,major,30,3,5
+MILTON,38,Cravo e canela,major,31,3,11
+MILTON,39,Saidas e bandeiras,major,1,2,9
+MILTON,39,Saidas e bandeiras,major,2,4,3
+MILTON,39,Saidas e bandeiras,major,3,3,x
+MILTON,39,Saidas e bandeiras,major,4,2,x
+MILTON,39,Saidas e bandeiras,major,5,1,1
+MILTON,39,Saidas e bandeiras,major,6,#6/b7,7
+MILTON,39,Saidas e bandeiras,major,7,6,x
+MILTON,39,Saidas e bandeiras,major,8,5,5
+MILTON,39,Saidas e bandeiras,major,9,2,9
+MILTON,39,Saidas e bandeiras,major,10,4,3
+MILTON,39,Saidas e bandeiras,major,11,3,x
+MILTON,39,Saidas e bandeiras,major,12,2,x
+MILTON,39,Saidas e bandeiras,major,13,1,1
+MILTON,39,Saidas e bandeiras,major,14,#6/b7,7
+MILTON,39,Saidas e bandeiras,major,15,1,1
+MILTON,39,Saidas e bandeiras,major,16,2,9
+MILTON,39,Saidas e bandeiras,major,17,4,x
+MILTON,39,Saidas e bandeiras,major,18,5,5
+MILTON,39,Saidas e bandeiras,major,19,4,11
+MILTON,39,Saidas e bandeiras,major,20,5,5
+MILTON,39,Saidas e bandeiras,major,21,4,x
+MILTON,39,Saidas e bandeiras,major,22,#2/b3,3
+MILTON,39,Saidas e bandeiras,major,23,2,x
+MILTON,39,Saidas e bandeiras,major,24,1,1
+MILTON,39,Saidas e bandeiras,major,25,2,9
+MILTON,39,Saidas e bandeiras,major,26,1,1
+MILTON,39,Saidas e bandeiras,major,27,#6/b7,7
+MILTON,39,Saidas e bandeiras,major,28,5,5
+MILTON,40,San Vicente,major,1,3,3
+MILTON,40,San Vicente,major,2,4,1
+MILTON,40,San Vicente,major,3,5,x
+MILTON,40,San Vicente,major,4,4,1
+MILTON,40,San Vicente,major,5,2,7
+MILTON,40,San Vicente,major,6,5,5
+MILTON,40,San Vicente,major,7,5,1
+MILTON,40,San Vicente,major,8,5,9
+MILTON,40,San Vicente,major,9,4,1
+MILTON,40,San Vicente,major,10,5,x
+MILTON,40,San Vicente,major,11,6,x
+MILTON,40,San Vicente,major,12,5,1
+MILTON,40,San Vicente,major,13,5,5
+MILTON,40,San Vicente,major,14,1,1
+MILTON,40,San Vicente,major,15,7,#11
+MILTON,40,San Vicente,major,16,6,3
+MILTON,40,San Vicente,major,17,5,9
+MILTON,40,San Vicente,major,18,4,1
+MILTON,40,San Vicente,major,19,3,7
+MILTON,40,San Vicente,major,20,3,3
+MILTON,40,San Vicente,major,21,2,x
+MILTON,40,San Vicente,major,22,3,3
+MILTON,40,San Vicente,major,23,4,1
+MILTON,40,San Vicente,major,24,3,3
+MILTON,40,San Vicente,major,25,2,6
+MILTON,40,San Vicente,major,26,1,1
+MILTON,40,San Vicente,major,27,3,3
+MILTON,40,San Vicente,major,28,4,x
+MILTON,40,San Vicente,major,29,5,1
+MILTON,40,San Vicente,major,30,4,7
+MILTON,40,San Vicente,major,31,3,x
+MILTON,40,San Vicente,major,32,2,5
+MILTON,40,San Vicente,major,33,7,#11
+MILTON,40,San Vicente,major,34,1,1
+MILTON,40,San Vicente,major,35,6,6
+MILTON,40,San Vicente,major,36,1,1
+MILTON,40,San Vicente,major,37,7,11
+MILTON,40,San Vicente,major,38,6,3
+MILTON,40,San Vicente,major,39,5,9
+MILTON,40,San Vicente,major,40,4,1
+MILTON,40,San Vicente,major,41,3,x
+MILTON,40,San Vicente,major,42,2,6
+MILTON,40,San Vicente,major,43,7,#11
+MILTON,40,San Vicente,major,44,1,1
+MILTON,41,A lagrima e o rio,major,1,3,3
+MILTON,41,A lagrima e o rio,major,2,2,x
+MILTON,41,A lagrima e o rio,major,3,3,3
+MILTON,41,A lagrima e o rio,major,4,2,x
+MILTON,41,A lagrima e o rio,major,5,3,1
+MILTON,41,A lagrima e o rio,major,6,5,3
+MILTON,41,A lagrima e o rio,major,7,4,x
+MILTON,41,A lagrima e o rio,major,8,3,1
+MILTON,41,A lagrima e o rio,major,9,2,1
+MILTON,41,A lagrima e o rio,major,10,3,x
+MILTON,41,A lagrima e o rio,major,11,4,1
+MILTON,41,A lagrima e o rio,major,12,3,3
+MILTON,41,A lagrima e o rio,major,13,2,x
+MILTON,41,A lagrima e o rio,major,14,3,3
+MILTON,41,A lagrima e o rio,major,15,2,x
+MILTON,41,A lagrima e o rio,major,16,3,1
+MILTON,41,A lagrima e o rio,major,17,5,3
+MILTON,41,A lagrima e o rio,major,18,4,x
+MILTON,41,A lagrima e o rio,major,19,3,1
+MILTON,41,A lagrima e o rio,major,20,2,1
+MILTON,41,A lagrima e o rio,major,21,3,x
+MILTON,41,A lagrima e o rio,major,22,4,1
+MILTON,41,A lagrima e o rio,major,23,1,5
+MILTON,41,A lagrima e o rio,major,24,2,x
+MILTON,41,A lagrima e o rio,major,25,3,9
+MILTON,41,A lagrima e o rio,major,26,2,1
+MILTON,41,A lagrima e o rio,major,27,1,11
+MILTON,41,A lagrima e o rio,major,28,#6/b7,3
+MILTON,41,A lagrima e o rio,major,29,6,x
+MILTON,41,A lagrima e o rio,major,30,5,1
+MILTON,41,A lagrima e o rio,major,31,4,7
+MILTON,41,A lagrima e o rio,major,32,6,9
+MILTON,41,A lagrima e o rio,major,33,2,1
+MILTON,41,A lagrima e o rio,major,34,3,x
+MILTON,41,A lagrima e o rio,major,35,4,7
+MILTON,41,A lagrima e o rio,major,36,5,1
+MILTON,41,A lagrima e o rio,major,37,6,9
+MILTON,41,A lagrima e o rio,major,38,1,x
+MILTON,41,A lagrima e o rio,major,39,7,7
+MILTON,41,A lagrima e o rio,major,40,5,5
+MILTON,42,Ao que vai nascer,major,1,1,1
+MILTON,42,Ao que vai nascer,major,2,3,3
+MILTON,42,Ao que vai nascer,major,3,4,11
+MILTON,42,Ao que vai nascer,major,4,#2/b3,3
+MILTON,42,Ao que vai nascer,major,5,3,3
+MILTON,42,Ao que vai nascer,major,6,4,11
+MILTON,42,Ao que vai nascer,major,7,1,1
+MILTON,42,Ao que vai nascer,major,8,#6/b7,7
+MILTON,42,Ao que vai nascer,major,9,1,1
+MILTON,42,Ao que vai nascer,major,10,5,5
+MILTON,42,Ao que vai nascer,major,11,4,3
+MILTON,42,Ao que vai nascer,major,12,#6/b7,7
+MILTON,42,Ao que vai nascer,major,13,6,x
+MILTON,42,Ao que vai nascer,major,14,#6/b7,7
+MILTON,42,Ao que vai nascer,major,15,1,1
+MILTON,42,Ao que vai nascer,major,16,2,9
+MILTON,42,Ao que vai nascer,major,17,4,x
+MILTON,42,Ao que vai nascer,major,18,5,3
+MILTON,42,Ao que vai nascer,major,19,4,5
+MILTON,42,Ao que vai nascer,major,20,3,3
+MILTON,42,Ao que vai nascer,major,21,2,1
+MILTON,43,Cade,major,1,5,1
+MILTON,43,Cade,major,2,7,x
+MILTON,43,Cade,major,3,1,3
+MILTON,43,Cade,major,4,2,5
+MILTON,43,Cade,major,5,5,1
+MILTON,43,Cade,major,6,1,5
+MILTON,43,Cade,major,7,#6/b7,7
+MILTON,43,Cade,major,8,6,x
+MILTON,43,Cade,major,9,5,5
+MILTON,43,Cade,major,10,#6/b7,7
+MILTON,43,Cade,major,11,2,9
+MILTON,43,Cade,major,12,1,7
+MILTON,43,Cade,major,13,6,5
+MILTON,43,Cade,major,14,5,3
+MILTON,43,Cade,major,15,6,3
+MILTON,43,Cade,major,16,1,b13
+MILTON,43,Cade,major,17,#6/b7,3
+MILTON,43,Cade,major,18,2,9
+MILTON,43,Cade,major,19,1,1
+MILTON,43,Cade,major,20,1,7
+MILTON,43,Cade,major,21,6,5
+MILTON,43,Cade,major,22,5,3
+MILTON,43,Cade,major,23,6,3
+MILTON,43,Cade,major,24,1,6
+MILTON,43,Cade,major,25,#6/b7,5
+MILTON,43,Cade,major,26,1,x
+MILTON,43,Cade,major,27,2,9
+MILTON,44,Coisas de Minas,major,1,1,1
+MILTON,44,Coisas de Minas,major,2,2,5
+MILTON,44,Coisas de Minas,major,3,1,1
+MILTON,44,Coisas de Minas,major,4,6,x
+MILTON,44,Coisas de Minas,major,5,5,5
+MILTON,44,Coisas de Minas,major,6,1,1
+MILTON,44,Coisas de Minas,major,7,6,9
+MILTON,44,Coisas de Minas,major,8,1,1
+MILTON,44,Coisas de Minas,major,9,6,x
+MILTON,44,Coisas de Minas,major,10,5,5
+MILTON,44,Coisas de Minas,major,11,#6/b7,b9/#9
+MILTON,44,Coisas de Minas,major,12,6,x
+MILTON,44,Coisas de Minas,major,13,5,5
+MILTON,44,Coisas de Minas,major,14,1,1
+MILTON,44,Coisas de Minas,major,15,5,1
+MILTON,44,Coisas de Minas,major,16,4,x
+MILTON,44,Coisas de Minas,major,17,3,3
+MILTON,44,Coisas de Minas,major,18,#6/b7,b9/#9
+MILTON,44,Coisas de Minas,major,19,6,x
+MILTON,44,Coisas de Minas,major,20,5,5
+MILTON,44,Coisas de Minas,major,21,1,1
+MILTON,44,Coisas de Minas,major,22,#2/b3,b13
+MILTON,44,Coisas de Minas,major,23,2,x
+MILTON,44,Coisas de Minas,major,24,1,1
+MILTON,44,Coisas de Minas,major,25,3,9
+MILTON,44,Coisas de Minas,major,26,3,5
+MILTON,44,Coisas de Minas,major,27,5,x
+MILTON,44,Coisas de Minas,major,28,6,5
+MILTON,44,Coisas de Minas,major,29,3,7
+MILTON,44,Coisas de Minas,major,30,6,11
+MILTON,44,Coisas de Minas,major,31,1,x
+MILTON,44,Coisas de Minas,major,32,2,7
+MILTON,44,Coisas de Minas,major,33,5,7
+MILTON,44,Coisas de Minas,major,34,6,1
+MILTON,44,Coisas de Minas,major,35,1,x
+MILTON,44,Coisas de Minas,major,36,2,1
+MILTON,44,Coisas de Minas,major,37,6,3
+MILTON,44,Coisas de Minas,major,38,1,5
+MILTON,44,Coisas de Minas,major,39,2,x
+MILTON,44,Coisas de Minas,major,40,1,1
+MILTON,44,Coisas de Minas,major,41,6,x
+MILTON,44,Coisas de Minas,major,42,5,5
+MILTON,45,O cavaleiro,minor,1,1,5
+MILTON,45,O cavaleiro,minor,2,5,x
+MILTON,45,O cavaleiro,minor,3,4,1
+MILTON,45,O cavaleiro,minor,4,2,3
+MILTON,45,O cavaleiro,minor,5,4,5
+MILTON,45,O cavaleiro,minor,6,2,3
+MILTON,45,O cavaleiro,minor,7,4,5
+MILTON,45,O cavaleiro,minor,8,2,3
+MILTON,45,O cavaleiro,minor,9,1,3
+MILTON,45,O cavaleiro,minor,10,b7,9
+MILTON,45,O cavaleiro,minor,11,5,7
+MILTON,45,O cavaleiro,minor,12,b7,9
+MILTON,45,O cavaleiro,minor,13,5,7
+MILTON,45,O cavaleiro,minor,14,4,1
+MILTON,45,O cavaleiro,minor,15,1,x
+MILTON,45,O cavaleiro,minor,16,b7,11
+MILTON,45,O cavaleiro,minor,17,5,9
+MILTON,45,O cavaleiro,minor,18,b7,11
+MILTON,45,O cavaleiro,minor,19,1,5
+MILTON,45,O cavaleiro,minor,20,7,13
+MILTON,45,O cavaleiro,minor,21,5,3
+MILTON,45,O cavaleiro,minor,22,1,7
+MILTON,45,O cavaleiro,minor,23,3,b13
+MILTON,45,O cavaleiro,minor,24,4,7
+MILTON,45,O cavaleiro,minor,25,5,1
+MILTON,45,O cavaleiro,minor,26,4,5
+MILTON,45,O cavaleiro,minor,27,6,7
+MILTON,45,O cavaleiro,minor,28,5,13
+MILTON,45,O cavaleiro,minor,29,b7,1
+MILTON,45,O cavaleiro,minor,30,5,13
+MILTON,45,O cavaleiro,minor,31,b7,1
+MILTON,45,O cavaleiro,minor,32,5,13
+MILTON,45,O cavaleiro,minor,33,4,5
+MILTON,46,Estrelada,major,1,3,3
+MILTON,46,Estrelada,major,2,5,5
+MILTON,46,Estrelada,major,3,4,5
+MILTON,46,Estrelada,major,4,3,3
+MILTON,46,Estrelada,major,5,5,5
+MILTON,46,Estrelada,major,6,4,5
+MILTON,46,Estrelada,major,7,2,3
+MILTON,46,Estrelada,major,8,4,5
+MILTON,46,Estrelada,major,9,2,6
+MILTON,46,Estrelada,major,10,1,9
+MILTON,46,Estrelada,major,11,4,5
+MILTON,46,Estrelada,major,12,3,3
+MILTON,46,Estrelada,major,13,5,5
+MILTON,46,Estrelada,major,14,4,5
+MILTON,46,Estrelada,major,15,3,3
+MILTON,46,Estrelada,major,16,5,5
+MILTON,46,Estrelada,major,17,4,5
+MILTON,46,Estrelada,major,18,2,3
+MILTON,46,Estrelada,major,19,4,5
+MILTON,46,Estrelada,major,20,2,6
+MILTON,46,Estrelada,major,21,1,5
+MILTON,46,Estrelada,major,22,4,5
+MILTON,46,Estrelada,major,23,3,x
+MILTON,46,Estrelada,major,24,2,6
+MILTON,46,Estrelada,major,25,1,1
+MILTON,46,Estrelada,major,26,3,3
+MILTON,46,Estrelada,major,27,5,5
+MILTON,46,Estrelada,major,28,4,7
+MILTON,46,Estrelada,major,29,4,3
+MILTON,46,Estrelada,major,30,3,9
+MILTON,46,Estrelada,major,31,1,3
+MILTON,46,Estrelada,major,32,3,3
+MILTON,46,Estrelada,major,33,5,5
+MILTON,46,Estrelada,major,34,4,7
+MILTON,46,Estrelada,major,35,4,3
+MILTON,46,Estrelada,major,36,3,5
+MILTON,46,Estrelada,major,37,7,3
+MILTON,46,Estrelada,major,38,2,5
+MILTON,46,Estrelada,major,39,1,7
+MILTON,46,Estrelada,major,40,7,3
+MILTON,46,Estrelada,major,41,2,5
+MILTON,46,Estrelada,major,42,1,1
+MILTON,46,Estrelada,major,43,5,5
+MILTON,46,Estrelada,major,44,1,5
+MILTON,46,Estrelada,major,45,6,3
+MILTON,46,Estrelada,major,46,#6/b7,7
+MILTON,46,Estrelada,major,47,6,5
+MILTON,46,Estrelada,major,48,1,1
+MILTON,47,Gira girou,minor,1,1,1
+MILTON,47,Gira girou,minor,2,3,x
+MILTON,47,Gira girou,minor,3,4,11
+MILTON,47,Gira girou,minor,4,5,5
+MILTON,47,Gira girou,minor,5,b7,x
+MILTON,47,Gira girou,minor,6,1,1
+MILTON,47,Gira girou,minor,7,b7,7
+MILTON,47,Gira girou,minor,8,1,1
+MILTON,47,Gira girou,minor,9,2,9
+MILTON,47,Gira girou,minor,10,b7,7
+MILTON,47,Gira girou,minor,11,5,5
+MILTON,47,Gira girou,minor,12,b7,x
+MILTON,47,Gira girou,minor,13,#6,6
+MILTON,47,Gira girou,minor,14,b7,x
+MILTON,47,Gira girou,minor,15,6,3
+MILTON,47,Gira girou,minor,16,5,x
+MILTON,47,Gira girou,minor,17,4,1
+MILTON,47,Gira girou,minor,18,2,5
+MILTON,47,Gira girou,minor,19,b7,3
+MILTON,47,Gira girou,minor,20,2,5
+MILTON,47,Gira girou,minor,21,4,7
+MILTON,47,Gira girou,minor,22,6,x
+MILTON,47,Gira girou,minor,23,5,11
+MILTON,47,Gira girou,minor,24,2,5
+MILTON,47,Gira girou,minor,25,4,7
+MILTON,47,Gira girou,minor,26,#3,3
+MILTON,48,Leila,major,1,1,x
+MILTON,48,Leila,major,2,7,7
+MILTON,48,Leila,major,3,5,5
+MILTON,48,Leila,major,4,5,x
+MILTON,48,Leila,major,5,6,7
+MILTON,48,Leila,major,6,5,7
+MILTON,48,Leila,major,7,#5/b6,x
+MILTON,48,Leila,major,8,5,7
+MILTON,48,Leila,major,9,#5/b6,x
+MILTON,48,Leila,major,10,5,7
+MILTON,48,Leila,major,11,#5/b6,x
+MILTON,48,Leila,major,12,5,7
+MILTON,48,Leila,major,13,#5/b6,1
+MILTON,48,Leila,major,14,#5/b6,7
+MILTON,48,Leila,major,15,#6/b7,1
+MILTON,48,Leila,major,16,#5/b6,11
+MILTON,48,Leila,major,17,#6/b7,x
+MILTON,48,Leila,major,18,#5/b6,11
+MILTON,48,Leila,major,19,#6/b7,x
+MILTON,48,Leila,major,20,#5/b6,11
+MILTON,48,Leila,major,21,#6/b7,x
+MILTON,48,Leila,major,22,1,6
+MILTON,48,Leila,major,23,#6/b7,x
+MILTON,48,Leila,major,24,1,6
+MILTON,48,Leila,major,25,#6/b7,x
+MILTON,48,Leila,major,26,1,6
+MILTON,48,Leila,major,27,#6/b7,x
+MILTON,48,Leila,major,28,1,6
+MILTON,48,Leila,major,29,#5/b6,x
+MILTON,48,Leila,major,30,#6/b7,b13
+MILTON,48,Leila,major,31,#5/b6,9
+MILTON,48,Leila,major,32,#6/b7,x
+MILTON,48,Leila,major,33,#5/b6,9
+MILTON,48,Leila,major,34,#6/b7,x
+MILTON,48,Leila,major,35,7,x
+MILTON,48,Leila,major,36,1,1
+MILTON,48,Leila,major,37,#6/b7,7
+MILTON,48,Leila,major,38,7,x
+MILTON,48,Leila,major,39,#6/b7,7
+MILTON,48,Leila,major,40,7,x
+MILTON,48,Leila,major,41,#6/b7,7
+MILTON,48,Leila,major,42,7,1
+MILTON,48,Leila,major,43,7,x
+MILTON,48,Leila,major,44,1,1
+MILTON,49,Lilia,minor,1,b7,7
+MILTON,49,Lilia,minor,2,1,6
+MILTON,49,Lilia,minor,3,1,9
+MILTON,49,Lilia,minor,4,1,1
+MILTON,49,Lilia,minor,5,b7,7
+MILTON,49,Lilia,minor,6,#6,6
+MILTON,49,Lilia,minor,7,b7,x
+MILTON,49,Lilia,minor,8,#6,6
+MILTON,49,Lilia,minor,9,5,5
+MILTON,49,Lilia,minor,10,b7,5
+MILTON,49,Lilia,minor,11,1,5
+MILTON,49,Lilia,minor,12,1,1
+MILTON,49,Lilia,minor,13,2,3
+MILTON,49,Lilia,minor,14,1,x
+MILTON,49,Lilia,minor,15,b7,1
+MILTON,49,Lilia,minor,16,2,3
+MILTON,49,Lilia,minor,17,3,x
+MILTON,49,Lilia,minor,18,2,x
+MILTON,49,Lilia,minor,19,1,3
+MILTON,49,Lilia,minor,20,3,5
+MILTON,49,Lilia,minor,21,2,x
+MILTON,49,Lilia,minor,22,1,11
+MILTON,49,Lilia,minor,23,b7,x
+MILTON,49,Lilia,minor,24,1,11
+MILTON,49,Lilia,minor,25,1,6
+MILTON,49,Lilia,minor,26,1,9
+MILTON,49,Lilia,minor,27,1,6
+MILTON,49,Lilia,minor,28,1,9
+MILTON,49,Lilia,minor,29,1,1
+MILTON,50,Novena,minor,1,3,3
+MILTON,50,Novena,minor,2,4,1
+MILTON,50,Novena,minor,3,#4/b5,1
+MILTON,50,Novena,minor,4,4,x
+MILTON,50,Novena,minor,5,3,3
+MILTON,50,Novena,minor,6,4,1
+MILTON,50,Novena,minor,7,#4/b5,1
+MILTON,50,Novena,minor,8,4,1
+MILTON,50,Novena,minor,9,#3,1
+MILTON,50,Novena,minor,10,3,3
+MILTON,50,Novena,minor,11,2,1
+MILTON,50,Novena,minor,12,3,b9/#9
+MILTON,50,Novena,minor,13,2,1
+MILTON,50,Novena,minor,14,3,b9/#9
+MILTON,50,Novena,minor,15,2,1
+MILTON,50,Novena,minor,16,3,b13
+MILTON,50,Novena,minor,17,2,5
+MILTON,50,Novena,minor,18,3,b13
+MILTON,50,Novena,minor,19,1,1
+MILTON,50,Novena,minor,20,4,1
+MILTON,50,Novena,minor,21,5,9
+MILTON,50,Novena,minor,22,b7,11
+MILTON,50,Novena,minor,23,6,5
+MILTON,50,Novena,minor,24,4,1
+MILTON,50,Novena,minor,25,5,9
+MILTON,50,Novena,minor,26,b7,11
+MILTON,50,Novena,minor,27,6,3
+MILTON,50,Novena,minor,28,6,9
+MILTON,50,Novena,minor,29,6,3
+MILTON,50,Novena,minor,30,5,9
+MILTON,50,Novena,minor,31,4,1
+MILTON,50,Novena,minor,32,6,3
+MILTON,50,Novena,minor,33,5,x
+MILTON,50,Novena,minor,34,4,1
+MILTON,50,Novena,minor,35,6,1
+MILTON,50,Novena,minor,36,5,14
+MILTON,50,Novena,minor,37,4,7
+MILTON,50,Novena,minor,38,5,3
+MILTON,50,Novena,minor,39,4,9
+MILTON,50,Novena,minor,40,3,1
+MILTON,50,Novena,minor,41,#4/b5,1
+MILTON,50,Novena,minor,42,4,14
+MILTON,50,Novena,minor,43,3,5
+MILTON,50,Novena,minor,44,2,x
+MILTON,50,Novena,minor,45,3,b13
+MILTON,50,Novena,minor,46,2,5
+MILTON,50,Novena,minor,47,1,1

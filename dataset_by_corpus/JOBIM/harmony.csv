@@ -1,0 +1,2321 @@
+corpus_id,composition_id,composition_name,chord_index,root,bass,chord_type,chord_symbol,functional_category,key,mode,position
+JOBIM,1,Absolute Lee,1,2,2,x0,*°7,II,0,major,1.0
+JOBIM,1,Absolute Lee,2,7,7,W0,*(#5)7,V,0,major,2.0
+JOBIM,1,Absolute Lee,3,0,0,Z0,*M7,I,0,major,3.0
+JOBIM,1,Absolute Lee,4,11,11,y0,*Ø,II__X,0,major,5.0
+JOBIM,1,Absolute Lee,5,4,4,Y2.3,*7(b9),V,0,major,6.0
+JOBIM,1,Absolute Lee,6,9,9,Z0,*M7,I,9,major,7.0
+JOBIM,1,Absolute Lee,7,8,8,y0,*Ø,II__X,9,major,9.0
+JOBIM,1,Absolute Lee,8,1,1,Y2.3,*7(b9),V/VI,9,major,10.0
+JOBIM,1,Absolute Lee,9,6,6,Z0,*M7,I,6,major,11.0
+JOBIM,1,Absolute Lee,10,7,7,z0,*m7,II__X,0,major,13.0
+JOBIM,1,Absolute Lee,11,0,0,Y1.1,*4.7.9,V/IV,0,major,14.0
+JOBIM,1,Absolute Lee,12,0,0,Y2.3,*7(b9),V/IV,0,major,14.5
+JOBIM,1,Absolute Lee,13,5,5,Z0,*M7,IV,0,major,15.0
+JOBIM,1,Absolute Lee,14,10,10,Y1.1,*4.7.9,bVII7,0,major,15.5
+JOBIM,1,Absolute Lee,15,1,1,Y2,*7.9,bII7M,0,major,16.0
+JOBIM,1,Absolute Lee,16,2,2,x0,*°7,II,0,major,17.0
+JOBIM,1,Absolute Lee,17,7,7,W0,*(#5)7,V,0,major,18.0
+JOBIM,1,Absolute Lee,18,0,0,Z0,*M7,I,0,major,19.0
+JOBIM,1,Absolute Lee,19,11,11,y0,*Ø,II__X,0,major,21.0
+JOBIM,1,Absolute Lee,20,4,4,Y2.3,*7(b9),V,0,major,22.0
+JOBIM,1,Absolute Lee,21,9,9,Z0,*M7,I,9,major,23.0
+JOBIM,1,Absolute Lee,22,2,2,z0,*m7,II,0,major,24.0
+JOBIM,1,Absolute Lee,23,7,7,Y2.3,*7(b9),V,0,major,24.5
+JOBIM,1,Absolute Lee,24,4,4,z0,*m7,II__X,0,major,25.0
+JOBIM,1,Absolute Lee,25,9,9,Y2.3,*7(b9),V/II,0,major,25.5
+JOBIM,1,Absolute Lee,26,2,2,z0,*m7,II,0,major,26.0
+JOBIM,1,Absolute Lee,27,7,7,Y2.3,*7(b9),V,0,major,26.5
+JOBIM,1,Absolute Lee,28,0,0,Z1,*6,I,0,major,27.0
+JOBIM,1,Absolute Lee,29,9,1,Z0,*M7,V/II,0,major,27.5
+JOBIM,1,Absolute Lee,30,2,2,z0,*m7,II,0,major,28.0
+JOBIM,1,Absolute Lee,31,3,3,x3,*°7(b13),V°/III,0,major,28.5
+JOBIM,1,Absolute Lee,32,4,4,z0,*m7,III,0,major,29.0
+JOBIM,1,Absolute Lee,33,4,4,W0,*(#5)7,V/VI,0,major,29.5
+JOBIM,1,Absolute Lee,34,5,5,Z1,*6,IV,0,major,30.0
+JOBIM,1,Absolute Lee,35,5,5,z1,*m6,IVm7,0,major,30.5
+JOBIM,1,Absolute Lee,36,2,2,Y2.1.1,*7.9(#11)13,V/V,0,major,31.0
+JOBIM,1,Absolute Lee,37,7,7,Y4,*7.13,V,0,major,32.0
+JOBIM,1,Absolute Lee,38,8,8,Y4,*7.13,SubV/V,0,major,32.25
+JOBIM,1,Absolute Lee,39,9,9,Y4.1,*7(b13),V/II,0,major,32.5
+JOBIM,1,Absolute Lee,40,2,2,z0,*m7,II,0,major,33.0
+JOBIM,1,Absolute Lee,41,9,9,Y2.3,*7(b9),V/II,0,major,33.5
+JOBIM,1,Absolute Lee,42,2,2,Y0,*7,V/V,0,major,34.0
+JOBIM,1,Absolute Lee,43,5,5,z0,*m7,IVm7,0,major,35.0
+JOBIM,1,Absolute Lee,44,5,5,z1,*m6,IVm7,0,major,35.5
+JOBIM,1,Absolute Lee,45,2,2,Y2,*7.9,V/V,0,major,37.0
+JOBIM,1,Absolute Lee,46,7,7,Y1.1,*4.7.9,V,0,major,38.0
+JOBIM,1,Absolute Lee,47,0,0,Z1.1,*6.9,I,0,major,39.0
+JOBIM,1,Absolute Lee,48,1,1,Y2.1.3,*7(#9.#11),SubV,0,major,40.0
+JOBIM,1,Absolute Lee,49,0,0,Z1.1,*6.9,I,0,major,41.0
+JOBIM,1,Absolute Lee,50,7,7,W0,*(#5)7,V,0,major,42.0
+JOBIM,1,Absolute Lee,51,0,0,Y1.1,*4.7.9,V/IV,0,major,43.0
+JOBIM,1,Absolute Lee,52,0,0,Y2.3,*7(b9),V/IV,0,major,44.0
+JOBIM,1,Absolute Lee,53,5,5,Z0,*M7,IV,0,major,45.0
+JOBIM,1,Absolute Lee,54,5,5,z1,*m6,IVm7,0,major,46.0
+JOBIM,1,Absolute Lee,55,4,4,Y4,*7.13,V/VI,0,major,47.0
+JOBIM,1,Absolute Lee,56,4,4,Y4.1,*7(b13),V/VI,0,major,47.5
+JOBIM,1,Absolute Lee,57,9,9,Y1.1,*4.7.9,V/II,0,major,48.0
+JOBIM,1,Absolute Lee,58,9,9,Y2.3,*7(b9),V/II,0,major,48.5
+JOBIM,1,Absolute Lee,59,2,2,Y2,*7.9,V/V,0,major,49.0
+JOBIM,1,Absolute Lee,60,7,7,Y1.1,*4.7.9,V,0,major,50.0
+JOBIM,1,Absolute Lee,61,0,0,Y1.1,*4.7.9,V/IV,0,major,51.0
+JOBIM,1,Absolute Lee,62,0,0,Y2.3,*7(b9),V/IV,0,major,52.0
+JOBIM,1,Absolute Lee,63,2,2,Y2,*7.9,V/V,0,major,53.0
+JOBIM,1,Absolute Lee,64,7,7,Y1.1,*4.7.9,V,0,major,54.0
+JOBIM,1,Absolute Lee,65,0,6,Z1.1,*6.9,I,0,major,55.0
+JOBIM,1,Absolute Lee,66,9,9,Y2.2.1.1,*7(b9.b13),V/II,0,major,55.5
+JOBIM,1,Absolute Lee,67,2,2,Y2,*7.9,V/V,0,major,56.0
+JOBIM,1,Absolute Lee,68,7,7,Y2.2.1,*7(b9)13,V,0,major,56.5
+JOBIM,1,Absolute Lee,69,0,0,Z1.1,*6.9,I,0,major,57.0
+JOBIM,2,Agua de beber,1,11,11,z0,*m7,I,11,minor,1.0
+JOBIM,2,Agua de beber,2,1,11,Y0,*7,V/V,11,minor,2.0
+JOBIM,2,Agua de beber,3,11,11,z1,*m6,I,11,minor,2.5
+JOBIM,2,Agua de beber,4,4,11,z0,*m7,IV,11,minor,3.0
+JOBIM,2,Agua de beber,5,11,11,z0,*m7,I,11,minor,4.0
+JOBIM,2,Agua de beber,6,4,4,Y0,*7,IV7,11,minor,5.0
+JOBIM,2,Agua de beber,7,4,4,z0,*m7,IV,11,minor,6.0
+JOBIM,2,Agua de beber,8,9,9,Y2,*7.9,V/III,11,minor,7.0
+JOBIM,2,Agua de beber,9,2,2,Z0,*M7,III,11,minor,8.0
+JOBIM,2,Agua de beber,10,1,1,Y2,*7.9,V/V,11,minor,10.0
+JOBIM,2,Agua de beber,11,0,0,Y2,*7.9,SubV,11,minor,10.5
+JOBIM,2,Agua de beber,12,11,11,z1,*m6,I,11,minor,11.0
+JOBIM,2,Agua de beber,13,2,9,Z1,*6,III,11,minor,12.0
+JOBIM,2,Agua de beber,14,2,2,Y3,*7(#11),V/VI,11,minor,12.5
+JOBIM,2,Agua de beber,15,1,1,Y3,*7(#11),V/V,11,minor,13.0
+JOBIM,2,Agua de beber,16,1,1,Y2.3,*7(b9),V/V,11,minor,14.0
+JOBIM,2,Agua de beber,17,6,6,Y1.1,*4.7.9,V,11,minor,15.0
+JOBIM,2,Agua de beber,18,11,11,z0,*m7,I,11,minor,16.0
+JOBIM,2,Agua de beber,19,4,4,Y4,*7.13,IV7,11,minor,18.0
+JOBIM,2,Agua de beber,20,4,4,z0,*m7,IV,11,minor,19.0
+JOBIM,2,Agua de beber,21,11,11,z0,*m7,I,11,minor,20.0
+JOBIM,2,Agua de beber,22,4,4,Y4,*7.13,IV7,11,minor,21.0
+JOBIM,2,Agua de beber,23,4,4,z0,*m7,IV,11,minor,22.0
+JOBIM,2,Agua de beber,24,11,11,z0,*m7,I,11,minor,23.0
+JOBIM,2,Agua de beber,25,2,6,Y2.2,*7.9.13,V/VI,11,minor,24.0
+JOBIM,2,Agua de beber,26,11,11,z0,*m7,I,11,minor,25.0
+JOBIM,2,Agua de beber,27,11,9,z0,*m7,I,11,minor,25.5
+JOBIM,2,Agua de beber,28,8,8,x0,*°7,bIII°,11,minor,26.0
+JOBIM,2,Agua de beber,29,7,7,z1,*m6,VI,11,minor,26.5
+JOBIM,2,Agua de beber,30,11,11,z0,*m7,I,11,minor,27.0
+JOBIM,2,Agua de beber,31,11,9,z0,*m7,I,11,minor,27.5
+JOBIM,2,Agua de beber,32,8,8,x0,*°7,bIII°,11,minor,28.0
+JOBIM,2,Agua de beber,33,7,7,z1,*m6,VI,11,minor,28.5
+JOBIM,2,Agua de beber,34,11,11,z0,*m7,I,11,minor,29.0
+JOBIM,2,Agua de beber,35,11,9,z0,*m7,I,11,minor,29.5
+JOBIM,2,Agua de beber,36,7,7,V0,*,VI,11,minor,30.0
+JOBIM,2,Agua de beber,37,7,7,Z1,*6,VI,11,minor,30.5
+JOBIM,2,Agua de beber,38,11,11,z0,*m7,I,11,minor,31.0
+JOBIM,3,Ai quem me dera,1,6,6,z0,*m7,II,4,major,1.0
+JOBIM,3,Ai quem me dera,2,11,11,Y2,*7.9,V,4,major,1.5
+JOBIM,3,Ai quem me dera,3,4,4,Z0,*M7,I,4,major,2.0
+JOBIM,3,Ai quem me dera,4,4,4,Z0,*M7,I,4,major,2.5
+JOBIM,3,Ai quem me dera,5,6,6,z0,*m7,II,4,major,3.0
+JOBIM,3,Ai quem me dera,6,11,11,Y2,*7.9,V,4,major,3.5
+JOBIM,3,Ai quem me dera,7,11,11,z0,*m7,II__X,4,major,4.0
+JOBIM,3,Ai quem me dera,8,4,4,Y2,*7.9,V/IV,4,major,4.5
+JOBIM,3,Ai quem me dera,9,9,9,Z0,*M7,IV,4,major,5.0
+JOBIM,3,Ai quem me dera,10,2,2,Y2,*7.9,bVII7,4,major,5.5
+JOBIM,3,Ai quem me dera,11,8,8,z0,*m7,III,4,major,6.0
+JOBIM,3,Ai quem me dera,12,1,1,z2,*m7.9,VI,4,major,6.5
+JOBIM,3,Ai quem me dera,13,6,6,z0,*m7,II,4,major,7.0
+JOBIM,3,Ai quem me dera,14,11,11,Y2,*7.9,V,4,major,7.5
+JOBIM,3,Ai quem me dera,15,4,4,Z0,*M7,I,4,major,8.0
+JOBIM,3,Ai quem me dera,16,4,4,Z0,*M7,I,4,major,8.5
+JOBIM,3,Ai quem me dera,17,9,9,z0,*m7,II,7,major,9.0
+JOBIM,3,Ai quem me dera,18,2,2,Y2,*7.9,V,7,major,9.5
+JOBIM,3,Ai quem me dera,19,7,7,Z0,*M7,I,7,major,10.0
+JOBIM,3,Ai quem me dera,20,7,7,Z1,*6,I,4,major,10.5
+JOBIM,3,Ai quem me dera,21,7,7,z0,*m7,II,5,major,11.0
+JOBIM,3,Ai quem me dera,22,0,0,Y2,*7.9,V,5,major,11.5
+JOBIM,3,Ai quem me dera,23,5,5,Z0,*M7,I,5,major,12.0
+JOBIM,3,Ai quem me dera,24,5,5,Z1,*6,I,5,major,12.5
+JOBIM,3,Ai quem me dera,25,6,6,z0,*m7,II,4,major,13.0
+JOBIM,3,Ai quem me dera,26,11,11,Y2,*7.9,V,4,major,13.5
+JOBIM,3,Ai quem me dera,27,4,4,Z0,*M7,I,4,major,14.0
+JOBIM,3,Ai quem me dera,28,1,1,z0,*m7,VI,4,major,14.5
+JOBIM,3,Ai quem me dera,29,6,6,z0,*m7,II,4,major,15.0
+JOBIM,3,Ai quem me dera,30,11,11,Y2,*7.9,V,4,major,15.5
+JOBIM,3,Ai quem me dera,31,2,2,Y1.1,*4.7.9,V,7,major,16.0
+JOBIM,3,Ai quem me dera,32,7,7,Z0,*M7,I,7,major,17.0
+JOBIM,3,Ai quem me dera,33,7,7,Z1,*6,I,7,major,17.5
+JOBIM,3,Ai quem me dera,34,9,9,z0,*m7,II,7,major,18.0
+JOBIM,3,Ai quem me dera,35,2,2,Y2,*7.9,V,7,major,18.5
+JOBIM,3,Ai quem me dera,36,11,11,y0,*Ø,II__X,7,major,19.0
+JOBIM,3,Ai quem me dera,37,4,4,Y2.3,*7(b9),V/II,7,major,19.5
+JOBIM,3,Ai quem me dera,38,9,9,z0,*m7,II,7,major,20.0
+JOBIM,3,Ai quem me dera,39,0,0,z1,*m6,IVm7,7,major,20.5
+JOBIM,3,Ai quem me dera,40,11,11,z0,*m7,II__X,4,major,21.0
+JOBIM,3,Ai quem me dera,41,4,4,Y2,*7.9,V/IV,4,major,21.5
+JOBIM,3,Ai quem me dera,42,2,9,Y0,*7,bVII7,4,major,22.0
+JOBIM,3,Ai quem me dera,43,5,5,Y0,*7,SubV,4,major,22.5
+JOBIM,3,Ai quem me dera,44,8,8,Y0,*7,V/VI,4,major,23.0
+JOBIM,3,Ai quem me dera,45,11,11,Y0,*7,V,4,major,23.5
+JOBIM,3,Ai quem me dera,46,6,6,z0,*m7,II,4,major,24.0
+JOBIM,3,Ai quem me dera,47,11,11,Y2,*7.9,V,4,major,24.5
+JOBIM,3,Ai quem me dera,48,4,4,Z0,*M7,I,4,major,25.0
+JOBIM,3,Ai quem me dera,49,4,4,Z0,*M7,I,4,major,25.5
+JOBIM,3,Ai quem me dera,50,6,6,z0,*m7,II,4,major,26.0
+JOBIM,3,Ai quem me dera,51,11,11,Y2,*7.9,V,4,major,26.5
+JOBIM,3,Ai quem me dera,52,11,11,z0,*m7,II__X,4,major,27.0
+JOBIM,3,Ai quem me dera,53,4,4,Y2,*7.9,V/IV,4,major,27.5
+JOBIM,3,Ai quem me dera,54,9,9,Z0,*M7,IV,4,major,28.0
+JOBIM,3,Ai quem me dera,55,2,2,Y2,*7.9,bVII7,4,major,28.5
+JOBIM,3,Ai quem me dera,56,8,8,z0,*m7,III,4,major,29.0
+JOBIM,3,Ai quem me dera,57,1,1,z2,*m7.9,VI,4,major,29.5
+JOBIM,3,Ai quem me dera,58,4,4,Z2,*M7.9,I,4,major,30.0
+JOBIM,4,Angela,1,3,3,y1,*Ø.9,II__X,9,major,1.0
+JOBIM,4,Angela,2,8,8,Y4.1,*7(b13),V/III,9,major,2.0
+JOBIM,4,Angela,3,1,1,y1,*Ø.9,II__X,9,major,3.0
+JOBIM,4,Angela,4,6,6,Y4.1,*7(b13),V/II,9,major,4.0
+JOBIM,4,Angela,5,11,11,y1,*Ø.9,IIm7(b5),9,major,5.0
+JOBIM,4,Angela,6,4,4,Y0,*7,V,9,major,6.0
+JOBIM,4,Angela,7,9,9,Z0,*M7,I,9,major,7.0
+JOBIM,4,Angela,8,11,11,z0,*m7,II,9,major,7.25
+JOBIM,4,Angela,9,1,1,z0,*m7,III,9,major,7.5
+JOBIM,4,Angela,10,2,2,Z0,*M7,IV,9,major,7.75
+JOBIM,4,Angela,11,3,3,y1,*Ø.9,II__X,9,major,8.0
+JOBIM,4,Angela,12,8,8,Y4.1,*7(b13),V/III,9,major,9.0
+JOBIM,4,Angela,13,1,1,y1,*Ø.9,II__X,9,major,10.0
+JOBIM,4,Angela,14,6,6,Y4.1,*7(b13),V/II,9,major,11.0
+JOBIM,4,Angela,15,11,11,y1,*Ø.9,IIm7(b5),9,major,12.0
+JOBIM,4,Angela,16,4,4,Y4,*7.13,V,9,major,13.0
+JOBIM,4,Angela,17,9,9,Y1.1,*4.7.9,V/IV,9,major,14.0
+JOBIM,4,Angela,18,9,9,Y0,*7,V/IV,9,major,15.0
+JOBIM,4,Angela,19,2,2,Z0,*M7,IV,9,major,16.0
+JOBIM,4,Angela,20,2,2,w1,*mM7.9,IVm7,9,major,17.0
+JOBIM,4,Angela,21,2,2,z2,*m7.9,IVm7,9,major,17.5
+JOBIM,4,Angela,22,1,1,z2,*m7.9,II__X,9,major,18.0
+JOBIM,4,Angela,23,6,6,Y4,*7.13,V/II,9,major,19.0
+JOBIM,4,Angela,24,6,6,Y4.1,*7(b13),V/II,9,major,19.25
+JOBIM,4,Angela,25,6,6,Y2.3,*7(b9),V/II,9,major,19.5
+JOBIM,4,Angela,26,3,3,y1,*Ø.9,#IVm7(b5),9,major,20.0
+JOBIM,4,Angela,27,11,11,y0,*Ø,IIm7(b5),9,major,21.0
+JOBIM,4,Angela,28,4,4,X0,*(b5)7,V,9,major,21.5
+JOBIM,4,Angela,29,9,9,Z2,*M7.9,I,9,major,22.0
+JOBIM,4,Angela,30,6,6,z2,*m7.9,VI,9,major,23.0
+JOBIM,5,Bebel,1,9,9,Z0,*M7,I,9,major,1.0
+JOBIM,5,Bebel,2,10,10,x0,*°7,V°/II,9,major,2.0
+JOBIM,5,Bebel,3,11,11,z0,*m7,II,9,major,3.0
+JOBIM,5,Bebel,4,0,0,x0,*°7,V°/III,9,major,4.0
+JOBIM,5,Bebel,5,1,1,z0,*m7,III,9,major,5.0
+JOBIM,5,Bebel,6,1,1,X0,*(b5)7,V°/VI,9,major,6.0
+JOBIM,5,Bebel,7,2,2,Z0,*M7,IV,9,major,7.0
+JOBIM,5,Bebel,8,2,2,w0,*mM7,IVm7,9,major,8.0
+JOBIM,5,Bebel,9,1,1,z0,*m7,III,9,major,9.0
+JOBIM,5,Bebel,10,6,6,z0,*m7,VI,9,major,10.0
+JOBIM,5,Bebel,11,3,3,y2,*Ø.11,II__X,9,major,11.0
+JOBIM,5,Bebel,12,8,8,Y2.3,*7(b9),V/III,9,major,12.0
+JOBIM,5,Bebel,13,1,1,z2,*m7.9,II__X,9,major,13.0
+JOBIM,5,Bebel,14,6,6,Y4,*7.13,V/II,9,major,14.0
+JOBIM,5,Bebel,15,6,6,Y4.1,*7(b13),V/II,9,major,14.5
+JOBIM,5,Bebel,16,11,11,z2,*m7.9,II,9,major,15.0
+JOBIM,5,Bebel,17,4,4,Y2.2.1,*7(b9)13,V,9,major,16.0
+JOBIM,5,Bebel,18,9,9,Z0,*M7,I,9,major,17.0
+JOBIM,5,Bebel,19,10,10,z0,*m7,bIIm7,9,major,18.0
+JOBIM,5,Bebel,20,9,9,Z0,*M7,I,9,major,19.0
+JOBIM,5,Bebel,21,10,10,z0,*m7,bIIm7,9,major,20.0
+JOBIM,5,Bebel,22,9,9,Z1,*6,I,9,major,21.0
+JOBIM,5,Bebel,23,10,10,x0,*°7,V°/II,9,major,22.0
+JOBIM,5,Bebel,24,11,11,z0,*m7,II,9,major,23.0
+JOBIM,5,Bebel,25,4,4,Y1,*4.7,V,9,major,24.0
+JOBIM,5,Bebel,26,10,10,Y2.2,*7.9.13,SubV,9,major,24.5
+JOBIM,5,Bebel,27,9,9,Z2,*M7.9,I,9,major,25.0
+JOBIM,5,Bebel,28,3,3,Y2.1,*7.9(#11),SubV/II,9,major,26.0
+JOBIM,5,Bebel,29,2,2,Z0,*M7,IV,9,major,27.0
+JOBIM,5,Bebel,30,2,2,z1,*m6,IVm7,9,major,28.0
+JOBIM,5,Bebel,31,1,1,z0,*m7,III,9,major,29.0
+JOBIM,5,Bebel,32,0,0,x0,*°7,bIII°,9,major,30.0
+JOBIM,5,Bebel,33,11,11,z0,*m7,II,9,major,31.0
+JOBIM,5,Bebel,34,4,4,Y0,*7,V,9,major,32.0
+JOBIM,5,Bebel,35,3,3,z0,*m7,III,9,major,33.0
+JOBIM,5,Bebel,36,6,6,Y4,*7.13,V/II,9,major,34.0
+JOBIM,5,Bebel,37,6,6,Y4.1,*7(b13),V/II,9,major,34.5
+JOBIM,5,Bebel,38,11,11,Y4,*7.13,V/V,9,major,35.0
+JOBIM,5,Bebel,39,11,11,Y4.1,*7(b13),V/V,9,major,35.5
+JOBIM,5,Bebel,40,11,11,Y0,*7,V/V,9,major,36.0
+JOBIM,5,Bebel,41,11,11,z0,*m7,II,9,major,37.0
+JOBIM,5,Bebel,42,4,4,Y1,*4.7,V,9,major,38.0
+JOBIM,5,Bebel,43,5,5,z0,*m7,V°/VI,9,major,38.5
+JOBIM,5,Bebel,44,11,6,Y0,*7,V/V,9,major,39.0
+JOBIM,5,Bebel,45,2,5,z1,*m6,IVm7,9,major,40.0
+JOBIM,5,Bebel,46,9,4,Z0,*M7,I,9,major,41.0
+JOBIM,5,Bebel,47,6,6,z0,*m7,VI,9,major,42.0
+JOBIM,5,Bebel,48,11,6,Y0,*7,V/V,9,major,43.0
+JOBIM,5,Bebel,49,2,5,z1,*m6,IVm7,9,major,44.0
+JOBIM,5,Bebel,50,9,4,Z0,*M7,I,9,major,45.0
+JOBIM,5,Bebel,51,3,3,z2,*m7.9,II,9,major,46.0
+JOBIM,5,Bebel,52,8,8,W1.1,*4(#5)7.9,V,9,major,46.5
+JOBIM,5,Bebel,53,1,1,Z0,*M7,I,9,major,47.0
+JOBIM,5,Bebel,54,2,2,x0,*°7,V°/II,1,major,47.5
+JOBIM,5,Bebel,55,3,3,z0,*m7,II,1,major,48.0
+JOBIM,5,Bebel,56,8,8,Y2.3,*7(b9),V,1,major,48.5
+JOBIM,5,Bebel,57,1,1,Z0,*M7,I,1,major,49.0
+JOBIM,5,Bebel,58,6,6,Y0,*7,V/II,9,major,49.5
+JOBIM,5,Bebel,59,11,11,z0,*m7,II,9,major,50.0
+JOBIM,5,Bebel,60,4,4,Y0,*7,V,9,major,50.5
+JOBIM,5,Bebel,61,9,9,V1,*4,I,9,major,51.0
+JOBIM,5,Bebel,62,2,2,Y2.3,*7(b9),V/II,5,major,51.5
+JOBIM,5,Bebel,63,7,7,z0,*m7,II,5,major,52.0
+JOBIM,5,Bebel,64,0,0,Y2.3,*7(b9),V,5,major,52.5
+JOBIM,5,Bebel,65,5,5,V1,*4,I,5,major,53.0
+JOBIM,6,Bonita,1,9,9,z2,*m7.9,I,9,minor,1.0
+JOBIM,6,Bonita,2,3,3,Z2.1,*M7.9(#11),bVM7,9,minor,3.0
+JOBIM,6,Bonita,3,9,9,z2,*m7.9,I,9,minor,5.0
+JOBIM,6,Bonita,4,3,3,Z2.1,*M7.9(#11),bVM7,9,minor,7.0
+JOBIM,6,Bonita,5,9,9,v0,*m,I,9,minor,9.0
+JOBIM,6,Bonita,6,9,9,w0,*mM7,I,9,minor,10.0
+JOBIM,6,Bonita,7,9,9,z0,*m7,I,9,minor,11.0
+JOBIM,6,Bonita,8,9,9,z1,*m6,I,9,minor,12.0
+JOBIM,6,Bonita,9,9,9,w0,*mM7,I,9,minor,13.0
+JOBIM,6,Bonita,10,9,9,z0,*m7,I,9,minor,13.5
+JOBIM,6,Bonita,11,9,9,w0,*mM7,I,9,minor,14.0
+JOBIM,6,Bonita,12,9,9,z1.3,*m(b6),I,9,minor,14.5
+JOBIM,6,Bonita,13,9,9,w0,*mM7,I,9,minor,17.0
+JOBIM,6,Bonita,14,9,9,z0,*m7,I,9,minor,18.0
+JOBIM,6,Bonita,15,9,9,z1,*m6,I,9,minor,19.0
+JOBIM,6,Bonita,16,9,9,w0,*mM7,I,9,minor,21.0
+JOBIM,6,Bonita,17,9,9,z0,*m7,I,9,minor,21.5
+JOBIM,6,Bonita,18,9,9,z1,*m6,I,9,minor,22.0
+JOBIM,6,Bonita,19,9,9,z1.3,*m(b6),I,9,minor,22.5
+JOBIM,6,Bonita,20,9,9,v0,*m,I,9,minor,23.0
+JOBIM,6,Bonita,21,2,2,Y2.3,*7(b9),V,7,minor,24.0
+JOBIM,6,Bonita,22,7,7,v0,*m,I,7,minor,25.0
+JOBIM,6,Bonita,23,7,7,w0,*mM7,I,7,minor,26.0
+JOBIM,6,Bonita,24,7,7,z0,*m7,I,7,minor,27.0
+JOBIM,6,Bonita,25,7,7,z1,*m6,I,7,minor,28.0
+JOBIM,6,Bonita,26,7,7,z0,*m7,I,7,minor,28.5
+JOBIM,6,Bonita,27,7,7,w0,*mM7,I,7,minor,28.75
+JOBIM,6,Bonita,28,7,7,z0,*m7,I,7,minor,29.0
+JOBIM,6,Bonita,29,7,7,z1,*m6,I,7,minor,29.5
+JOBIM,6,Bonita,30,7,7,z1.3,*m(b6),I,7,minor,30.0
+JOBIM,6,Bonita,31,7,7,v0,*m,I,7,minor,30.5
+JOBIM,6,Bonita,32,9,9,Y2.2.1.1,*7(b9.b13),V,2,minor,31.0
+JOBIM,6,Bonita,33,2,2,v0,*m,I,2,minor,32.0
+JOBIM,6,Bonita,34,2,2,w0,*mM7,I,2,minor,32.5
+JOBIM,6,Bonita,35,2,2,z0,*m7,I,2,minor,33.0
+JOBIM,6,Bonita,36,2,2,z1,*m6,I,2,minor,35.0
+JOBIM,6,Bonita,37,2,2,z0,*m7,I,2,minor,37.0
+JOBIM,6,Bonita,38,2,2,w0,*mM7,I,2,minor,39.0
+JOBIM,6,Bonita,39,2,2,z0,*m7,I,2,minor,41.0
+JOBIM,6,Bonita,40,2,2,z1,*m6,I,2,minor,43.0
+JOBIM,6,Bonita,41,2,2,z1.3,*m(b6),I,2,minor,45.0
+JOBIM,6,Bonita,42,4,4,Z4,*(#5)M7,IIIM7,0,major,47.0
+JOBIM,6,Bonita,43,4,4,Y4.1,*7(b13),V/VI,0,major,48.0
+JOBIM,6,Bonita,44,0,0,Z0,*M7,I,0,major,49.0
+JOBIM,6,Bonita,45,9,9,z3,*m7.11,II__X,0,major,51.0
+JOBIM,6,Bonita,46,2,2,Y2.1,*7.9(#11),V/V,0,major,52.0
+JOBIM,6,Bonita,47,2,2,Y2.1.2,*7(b9.#11),V/V,0,major,53.0
+JOBIM,6,Bonita,48,2,2,z2,*m7.9,II,0,major,55.0
+JOBIM,6,Bonita,49,10,10,z1,*m6,bVIIm7,0,major,56.0
+JOBIM,6,Bonita,50,2,2,Y2.1,*7.9(#11),V/V,0,major,57.0
+JOBIM,6,Bonita,51,2,2,z2,*m7.9,II,0,major,58.0
+JOBIM,6,Bonita,52,7,7,Y2.1,*7.9(#11),V,0,major,59.0
+JOBIM,6,Bonita,53,0,0,Y1,*4.7,V/IV,0,major,60.0
+JOBIM,6,Bonita,54,0,0,Y1.1,*4.7.9,V/IV,0,major,61.0
+JOBIM,6,Bonita,55,6,6,Z0,*M7,Np/IV,0,major,63.0
+JOBIM,6,Bonita,56,5,5,Z0,*M7,IV,0,major,65.0
+JOBIM,6,Bonita,57,5,5,z1,*m6,IVm7,0,major,67.0
+JOBIM,6,Bonita,58,10,10,Y2,*7.9,bVII7,0,major,68.0
+JOBIM,6,Bonita,59,0,0,Z0,*M7,I,0,major,69.0
+JOBIM,6,Bonita,60,9,9,z0,*m7,II__X,0,major,70.0
+JOBIM,6,Bonita,61,2,2,Y2.1,*7.9(#11),V/V,0,major,71.0
+JOBIM,6,Bonita,62,1,1,Y2.1,*7.9(#11),SubV,0,major,72.0
+JOBIM,6,Bonita,63,0,0,x4,*°7.14,I°,0,major,73.0
+JOBIM,6,Bonita,64,0,0,Z1.1,*6.9,I,0,major,74.0
+JOBIM,6,Bonita,65,0,0,x0,*°7,I°,0,major,75.0
+JOBIM,6,Bonita,66,0,0,Z1.1,*6.9,I,0,major,76.0
+JOBIM,7,Brigas nunca mais,1,0,0,Z0,*M7,I,0,major,1.0
+JOBIM,7,Brigas nunca mais,2,11,11,Y4.1,*7(b13),V/III,0,major,2.0
+JOBIM,7,Brigas nunca mais,3,10,10,Z1,*6,bVII7M,0,major,3.0
+JOBIM,7,Brigas nunca mais,4,9,9,Y2.3,*7(b9),V/II,0,major,4.0
+JOBIM,7,Brigas nunca mais,5,2,2,z0,*m7,II,0,major,5.0
+JOBIM,7,Brigas nunca mais,6,10,10,z1,*m6,bVIIm7,0,major,6.0
+JOBIM,7,Brigas nunca mais,7,2,2,z2,*m7.9,II,0,major,7.0
+JOBIM,7,Brigas nunca mais,8,7,7,Y4,*7.13,V,0,major,8.0
+JOBIM,7,Brigas nunca mais,9,0,0,Z1.1,*6.9,I,0,major,9.0
+JOBIM,7,Brigas nunca mais,10,3,3,x0,*°7,bIII°,0,major,10.0
+JOBIM,7,Brigas nunca mais,11,2,2,z0,*m7,II,0,major,11.0
+JOBIM,7,Brigas nunca mais,12,8,8,x0,*°7,V°/VI,0,major,12.0
+JOBIM,7,Brigas nunca mais,13,9,9,z0,*m7,II__X,0,major,13.0
+JOBIM,7,Brigas nunca mais,14,2,2,Y2,*7.9,V/V,0,major,14.0
+JOBIM,7,Brigas nunca mais,15,2,2,z2,*m7.9,II,0,major,15.0
+JOBIM,7,Brigas nunca mais,16,7,7,Y2.3,*7(b9),V,0,major,16.0
+JOBIM,7,Brigas nunca mais,17,0,0,Z0,*M7,I,0,major,17.0
+JOBIM,7,Brigas nunca mais,18,11,11,Y4.1,*7(b13),V/III,0,major,18.0
+JOBIM,7,Brigas nunca mais,19,10,10,Z1,*6,bVII7M,0,major,19.0
+JOBIM,7,Brigas nunca mais,20,9,9,Y2.3,*7(b9),V/II,0,major,20.0
+JOBIM,7,Brigas nunca mais,21,2,2,z2,*m7.9,II,0,major,21.0
+JOBIM,7,Brigas nunca mais,22,10,10,z1,*m6,?,0,major,22.0
+JOBIM,7,Brigas nunca mais,23,2,2,z2,*m7.9,II,0,major,23.0
+JOBIM,7,Brigas nunca mais,24,7,7,Y4,*7.13,V,0,major,24.0
+JOBIM,7,Brigas nunca mais,25,0,0,Z1.1,*6.9,I,0,major,25.0
+JOBIM,7,Brigas nunca mais,26,0,0,Y4.1,*7(b13),V/IV,0,major,26.0
+JOBIM,7,Brigas nunca mais,27,5,5,Z2,*M7.9,IV,0,major,27.0
+JOBIM,7,Brigas nunca mais,28,5,5,z1,*m6,IVm7,0,major,28.0
+JOBIM,7,Brigas nunca mais,29,0,0,z1,*m6,Im7,0,major,29.0
+JOBIM,7,Brigas nunca mais,30,2,0,z0,*m7,II,0,major,30.0
+JOBIM,7,Brigas nunca mais,31,0,0,z1,*m6,Im7,0,major,31.0
+JOBIM,7,Brigas nunca mais,32,2,0,z0,*m7,II,0,major,32.0
+JOBIM,7,Brigas nunca mais,33,11,11,x0,*°7,V°,0,major,32.5
+JOBIM,7,Brigas nunca mais,34,0,0,z1,*m6,Im7,0,major,33.0
+JOBIM,7,Brigas nunca mais,35,2,0,z0,*m7,II,0,major,34.0
+JOBIM,7,Brigas nunca mais,36,11,11,x0,*°7,V°,0,major,34.5
+JOBIM,7,Brigas nunca mais,37,1,1,Z1.1,*6.9,bII7M,0,major,35.0
+JOBIM,8,Caminho de pedra,1,9,9,Z0,*M7,I,9,major,1.0
+JOBIM,8,Caminho de pedra,2,4,4,z0,*m7,Vm7,9,major,1.5
+JOBIM,8,Caminho de pedra,3,9,9,Z0,*M7,I,9,major,2.0
+JOBIM,8,Caminho de pedra,4,4,4,z0,*m7,Vm7,9,major,2.5
+JOBIM,8,Caminho de pedra,5,9,9,Z0,*M7,I,9,major,3.0
+JOBIM,8,Caminho de pedra,6,4,4,z0,*m7,Vm7,9,major,3.5
+JOBIM,8,Caminho de pedra,7,9,9,Z0,*M7,I,9,major,4.0
+JOBIM,8,Caminho de pedra,8,4,4,z0,*m7,Vm7,9,major,4.5
+JOBIM,8,Caminho de pedra,9,9,9,Z0,*M7,I,9,major,5.0
+JOBIM,8,Caminho de pedra,10,4,4,z0,*m7,Vm7,9,major,5.5
+JOBIM,8,Caminho de pedra,11,9,9,Z0,*M7,I,9,major,6.0
+JOBIM,8,Caminho de pedra,12,4,4,z0,*m7,Vm7,9,major,6.5
+JOBIM,8,Caminho de pedra,13,9,9,Z0,*M7,I,9,major,7.0
+JOBIM,8,Caminho de pedra,14,9,9,y0,*Ø,?,9,major,7.5
+JOBIM,8,Caminho de pedra,15,4,9,z0,*m7,Vm7,9,major,8.0
+JOBIM,8,Caminho de pedra,16,9,9,v0,*m,Im7,9,major,8.5
+JOBIM,8,Caminho de pedra,17,9,9,V0,*,I,9,major,9.0
+JOBIM,8,Caminho de pedra,18,2,9,V0,*,IV,9,major,9.5
+JOBIM,8,Caminho de pedra,19,4,4,z0,*m7,Vm7,9,major,9.75
+JOBIM,8,Caminho de pedra,20,9,9,V0,*,I,9,major,10.0
+JOBIM,8,Caminho de pedra,21,2,9,V0,*,IV,9,major,10.5
+JOBIM,8,Caminho de pedra,22,9,9,V0,*,I,9,major,11.0
+JOBIM,8,Caminho de pedra,23,2,9,V0,*,IV,9,major,11.5
+JOBIM,8,Caminho de pedra,24,4,4,z0,*m7,Vm7,9,major,11.75
+JOBIM,8,Caminho de pedra,25,9,9,V0,*,I,9,major,12.0
+JOBIM,8,Caminho de pedra,26,2,9,V0,*,IV,9,major,12.5
+JOBIM,8,Caminho de pedra,27,4,4,z0,*m7,Vm7,9,major,12.75
+JOBIM,8,Caminho de pedra,28,9,9,Z0,*M7,I,9,major,13.0
+JOBIM,8,Caminho de pedra,29,4,4,z0,*m7,Vm7,9,major,13.5
+JOBIM,8,Caminho de pedra,30,9,9,Z0,*M7,I,9,major,14.0
+JOBIM,8,Caminho de pedra,31,4,4,z0,*m7,Vm7,9,major,14.5
+JOBIM,8,Caminho de pedra,32,9,9,Z0,*M7,I,9,major,15.0
+JOBIM,8,Caminho de pedra,33,4,4,z0,*m7,Vm7,9,major,15.5
+JOBIM,8,Caminho de pedra,34,9,9,Z0,*M7,I,9,major,16.0
+JOBIM,8,Caminho de pedra,35,4,4,z0,*m7,Vm7,9,major,16.5
+JOBIM,8,Caminho de pedra,36,9,9,Z0,*M7,I,9,major,17.0
+JOBIM,8,Caminho de pedra,37,8,8,Z0,*M7,?,9,major,17.5
+JOBIM,8,Caminho de pedra,38,7,7,Z0,*M7,bVII7M,9,major,18.0
+JOBIM,8,Caminho de pedra,39,8,8,V4,*(#5),?,9,major,18.5
+JOBIM,8,Caminho de pedra,40,2,2,Y2.1,*7.9(#11),IV7,9,major,19.0
+JOBIM,8,Caminho de pedra,41,1,1,v0,*m,VI,4,major,20.0
+JOBIM,8,Caminho de pedra,42,2,1,Z0,*M7,bVII7M,4,major,20.5
+JOBIM,8,Caminho de pedra,43,1,1,z0,*m7,VI,4,major,21.5
+JOBIM,8,Caminho de pedra,44,6,1,V0,*,V/V,4,major,22.0
+JOBIM,8,Caminho de pedra,45,3,3,v0,*m,VIIm7,4,major,22.5
+JOBIM,8,Caminho de pedra,46,2,2,V0,*,bVII7M,4,major,22.75
+JOBIM,8,Caminho de pedra,47,1,1,v0,*m,VI,4,major,23.0
+JOBIM,8,Caminho de pedra,48,4,4,Z0,*M7,I,4,major,24.0
+JOBIM,8,Caminho de pedra,49,6,4,z0,*m7,II,4,major,24.5
+JOBIM,8,Caminho de pedra,50,4,4,Z1,*6,I,4,major,25.0
+JOBIM,8,Caminho de pedra,51,9,4,v0,*m,IVm7,4,major,25.5
+JOBIM,8,Caminho de pedra,52,4,4,Z0,*M7,I,4,major,26.0
+JOBIM,8,Caminho de pedra,53,9,4,v0,*m,IVm7,4,major,26.5
+JOBIM,8,Caminho de pedra,54,4,4,V0,*,I,4,major,27.0
+JOBIM,8,Caminho de pedra,55,10,10,Y3,*7(#11),SubV,9,major,27.5
+JOBIM,8,Caminho de pedra,56,9,9,V0,*,I,9,major,28.0
+JOBIM,8,Caminho de pedra,57,4,4,v0,*m,IVm7,9,major,28.5
+JOBIM,8,Caminho de pedra,58,9,9,Z1,*6,I,9,major,29.0
+JOBIM,8,Caminho de pedra,59,6,6,z1,*m6,VI,9,major,30.0
+JOBIM,8,Caminho de pedra,60,11,11,V0,*,V/V,9,major,30.5
+JOBIM,8,Caminho de pedra,61,10,10,Z0,*M7,bII7M,9,major,31.0
+JOBIM,8,Caminho de pedra,62,4,4,Y0,*7,V,9,major,31.5
+JOBIM,9,Caminhos cruzados,1,9,9,Z2,*M7.9,I,9,major,1.0
+JOBIM,9,Caminhos cruzados,2,9,9,Y1.1,*4.7.9,V/IV,9,major,2.0
+JOBIM,9,Caminhos cruzados,3,2,9,Z1,*6,IV,9,major,3.0
+JOBIM,9,Caminhos cruzados,4,2,9,z1,*m6,IVm7,9,major,4.0
+JOBIM,9,Caminhos cruzados,5,9,9,Z2,*M7.9,I,9,major,5.0
+JOBIM,9,Caminhos cruzados,6,9,9,Y1.1,*4.7.9,V/IV,9,major,6.0
+JOBIM,9,Caminhos cruzados,7,2,9,Z1,*6,IV,9,major,7.0
+JOBIM,9,Caminhos cruzados,8,2,9,z1,*m6,IVm7,9,major,8.0
+JOBIM,9,Caminhos cruzados,9,9,9,Z2,*M7.9,I,9,major,9.0
+JOBIM,9,Caminhos cruzados,10,8,8,Y4.1,*7(b13),V/III,9,major,10.0
+JOBIM,9,Caminhos cruzados,11,4,7,z1,*m6,Vm7,9,major,11.0
+JOBIM,9,Caminhos cruzados,12,6,6,Y0,*7,V/II,9,major,12.0
+JOBIM,9,Caminhos cruzados,13,4,7,z1,*m6,Vm7,9,major,13.0
+JOBIM,9,Caminhos cruzados,14,6,6,Y4.1,*7(b13),V/II,9,major,14.0
+JOBIM,9,Caminhos cruzados,15,6,6,z1,*m6,VI,9,major,15.0
+JOBIM,9,Caminhos cruzados,16,8,5,x3,*°7(b13),V°,9,major,16.0
+JOBIM,9,Caminhos cruzados,17,9,9,Z2,*M7.9,I,9,major,17.0
+JOBIM,9,Caminhos cruzados,18,9,9,Y1.1,*4.7.9,V/IV,9,major,18.0
+JOBIM,9,Caminhos cruzados,19,2,9,Z1,*6,IV,9,major,19.0
+JOBIM,9,Caminhos cruzados,20,2,9,z1,*m6,IVm7,9,major,20.0
+JOBIM,9,Caminhos cruzados,21,9,9,Z2,*M7.9,I,9,major,21.0
+JOBIM,9,Caminhos cruzados,22,9,9,Y1.1,*4.7.9,V/IV,9,major,22.0
+JOBIM,9,Caminhos cruzados,23,8,8,z0,*m7,II__X,9,major,23.0
+JOBIM,9,Caminhos cruzados,24,1,1,Y2.3,*7(b9),V/VI,9,major,24.0
+JOBIM,9,Caminhos cruzados,25,2,2,Z0,*M7,IV,9,major,25.0
+JOBIM,9,Caminhos cruzados,26,8,8,Y4,*7.13,V,1,major,26.0
+JOBIM,9,Caminhos cruzados,27,1,1,Z2,*M7.9,I,1,major,27.0
+JOBIM,9,Caminhos cruzados,28,6,6,Y4.1,*7(b13),V/II,9,major,28.0
+JOBIM,9,Caminhos cruzados,29,11,11,Y2,*7.9,V/V,9,major,29.0
+JOBIM,9,Caminhos cruzados,30,6,6,Y4.1,*7(b13),V/II,9,major,30.0
+JOBIM,9,Caminhos cruzados,31,11,11,Y4,*7.13,V/V,9,major,31.0
+JOBIM,9,Caminhos cruzados,32,11,11,Y4.1,*7(b13),V/V,9,major,31.5
+JOBIM,9,Caminhos cruzados,33,4,4,Y1.1,*4.7.9,V,9,major,32.0
+JOBIM,9,Caminhos cruzados,34,4,4,Y2.2.1,*7(b9)13,V,9,major,32.5
+JOBIM,9,Caminhos cruzados,35,9,9,Z2,*M7.9,I,9,major,33.0
+JOBIM,9,Caminhos cruzados,36,9,9,Y1.1,*4.7.9,V/IV,9,major,34.0
+JOBIM,9,Caminhos cruzados,37,2,9,Z1,*6,IV,9,major,35.0
+JOBIM,9,Caminhos cruzados,38,2,9,z1,*m6,IVm7,9,major,36.0
+JOBIM,9,Caminhos cruzados,39,9,9,Z2,*M7.9,I,9,major,37.0
+JOBIM,9,Caminhos cruzados,40,9,9,Y1.1,*4.7.9,V/IV,9,major,38.0
+JOBIM,9,Caminhos cruzados,41,3,3,y0,*Ø,#IVm7(b5),9,major,39.0
+JOBIM,9,Caminhos cruzados,42,2,2,z1,*m6,IVm7,9,major,40.0
+JOBIM,9,Caminhos cruzados,43,2,2,Z0,*M7,IV,9,major,41.0
+JOBIM,9,Caminhos cruzados,44,8,8,Y4.1,*7(b13),V/III,9,major,42.0
+JOBIM,9,Caminhos cruzados,45,4,7,z1,*m6,Vm7,9,major,43.0
+JOBIM,9,Caminhos cruzados,46,6,6,Y4.1,*7(b13),V/II,9,major,44.0
+JOBIM,9,Caminhos cruzados,47,11,11,Y2,*7.9,V/V,9,major,45.0
+JOBIM,9,Caminhos cruzados,48,2,2,z1,*m6,IVm7,9,major,46.0
+JOBIM,9,Caminhos cruzados,49,9,9,Z2,*M7.9,I,9,major,47.0
+JOBIM,9,Caminhos cruzados,50,2,2,Y2.1.1,*7.9(#11)13,IV7,9,major,48.0
+JOBIM,9,Caminhos cruzados,51,9,9,Z2,*M7.9,I,9,major,49.0
+JOBIM,10,Cancao do amor demais,1,4,4,z2.1,*m7.9.11,I,7,minor,1.0
+JOBIM,10,Cancao do amor demais,2,6,10,Y0,*7,V/V,7,minor,2.0
+JOBIM,10,Cancao do amor demais,3,11,9,Y2.3,*7(b9),V,7,minor,2.5
+JOBIM,10,Cancao do amor demais,4,4,4,z2.1,*m7.9.11,I,7,minor,3.0
+JOBIM,10,Cancao do amor demais,5,6,10,Y0,*7,V/V,7,minor,4.0
+JOBIM,10,Cancao do amor demais,6,11,9,Y2.3,*7(b9),V,7,minor,4.5
+JOBIM,10,Cancao do amor demais,7,4,4,Y1,*4.7,V/IV,7,minor,5.0
+JOBIM,10,Cancao do amor demais,8,4,4,Y0,*7,V/IV,7,minor,5.5
+JOBIM,10,Cancao do amor demais,9,9,9,v0,*m,IV,7,minor,6.0
+JOBIM,10,Cancao do amor demais,10,10,10,x0,*°7,V°/V,7,minor,6.5
+JOBIM,10,Cancao do amor demais,11,11,11,v0,*m,Vm7,7,minor,7.0
+JOBIM,10,Cancao do amor demais,12,10,10,x0,*°7,V°/V,7,minor,8.0
+JOBIM,10,Cancao do amor demais,13,9,9,z0,*m7,IV,7,minor,9.0
+JOBIM,10,Cancao do amor demais,14,6,10,Y0,*7,V/V,7,minor,10.0
+JOBIM,10,Cancao do amor demais,15,11,9,Y2.3,*7(b9),V,7,minor,10.5
+JOBIM,10,Cancao do amor demais,16,4,4,v0,*m,I,7,minor,11.0
+JOBIM,10,Cancao do amor demais,17,6,10,Y0,*7,V/V,7,minor,12.0
+JOBIM,10,Cancao do amor demais,18,11,9,Y2.3,*7(b9),V,7,minor,12.5
+JOBIM,10,Cancao do amor demais,19,4,4,Y1,*4.7,V/IV,7,minor,13.0
+JOBIM,10,Cancao do amor demais,20,4,4,Y2.3,*7(b9),V/IV,7,minor,13.5
+JOBIM,10,Cancao do amor demais,21,9,9,v0,*m,IV,7,minor,14.0
+JOBIM,10,Cancao do amor demais,22,10,10,x0,*°7,V°/V,7,minor,14.5
+JOBIM,10,Cancao do amor demais,23,4,11,v0,*m,I,7,minor,15.0
+JOBIM,10,Cancao do amor demais,24,0,0,Z0,*M7,VI,7,minor,15.5
+JOBIM,10,Cancao do amor demais,25,6,6,y0,*Ø,II,7,minor,16.0
+JOBIM,10,Cancao do amor demais,26,0,0,z1,*m6,bVIm7,7,minor,16.5
+JOBIM,10,Cancao do amor demais,27,4,4,z1,*m6,I,7,minor,17.0
+JOBIM,10,Cancao do amor demais,28,9,9,Y2,*7.9,IV7,7,minor,17.5
+JOBIM,10,Cancao do amor demais,29,4,4,z1,*m6,I,7,minor,18.0
+JOBIM,10,Cancao do amor demais,30,9,9,Y2,*7.9,IV7,7,minor,18.5
+JOBIM,10,Cancao do amor demais,31,4,4,Z2.1,*M7.9(#11),I,7,minor,19.0
+JOBIM,11,Chega de saudade,1,7,7,z0,*m7,IV,2,minor,1.0
+JOBIM,11,Chega de saudade,2,9,9,Y0,*7,V,2,minor,2.0
+JOBIM,11,Chega de saudade,3,2,2,v1,*m.9,I,2,minor,3.0
+JOBIM,11,Chega de saudade,4,2,0,z0,*m7,I,2,minor,4.0
+JOBIM,11,Chega de saudade,5,11,11,x0,*°7,V°/V,2,minor,5.0
+JOBIM,11,Chega de saudade,6,3,3,Z0,*M7,bII7M,2,minor,6.0
+JOBIM,11,Chega de saudade,7,9,9,Y0,*7,V,2,minor,6.5
+JOBIM,11,Chega de saudade,8,2,2,v0,*m,I,2,minor,7.0
+JOBIM,11,Chega de saudade,9,3,3,Y2.1,*7.9(#11),SubV,2,minor,8.0
+JOBIM,11,Chega de saudade,10,2,2,v1,*m.9,I,2,minor,9.0
+JOBIM,11,Chega de saudade,11,2,0,z0,*m7,I,2,minor,10.0
+JOBIM,11,Chega de saudade,12,4,11,Y0,*7,V/V,2,minor,11.0
+JOBIM,11,Chega de saudade,13,2,2,Y2.3,*7(b9),V/IV,2,minor,12.0
+JOBIM,11,Chega de saudade,14,7,7,z0,*m7,IV,2,minor,13.0
+JOBIM,11,Chega de saudade,15,9,9,Y2.3,*7(b9),V,2,minor,14.0
+JOBIM,11,Chega de saudade,16,2,2,v0,*m,I,2,minor,15.0
+JOBIM,11,Chega de saudade,17,9,0,v0,*m,Vm7,2,minor,16.0
+JOBIM,11,Chega de saudade,18,11,11,x0,*°7,V°/V,2,minor,17.0
+JOBIM,11,Chega de saudade,19,10,10,z1,*m6,bVIm7,2,minor,18.0
+JOBIM,11,Chega de saudade,20,9,9,Y4.1,*7(b13),V,2,minor,18.5
+JOBIM,11,Chega de saudade,21,2,2,v0,*m,I,2,minor,19.0
+JOBIM,11,Chega de saudade,22,4,4,z2,*m7.9,II,2,minor,20.0
+JOBIM,11,Chega de saudade,23,9,9,Y2.2.1,*7(b9)13,V,2,minor,20.5
+JOBIM,11,Chega de saudade,24,2,2,Z5,*6.M7,I,2,major,21.0
+JOBIM,11,Chega de saudade,25,11,11,Y2.3,*7(b9),V/II,2,major,22.0
+JOBIM,11,Chega de saudade,26,4,4,Y4,*7.13,V/V,2,major,23.0
+JOBIM,11,Chega de saudade,27,4,4,z0,*m7,II,2,major,24.0
+JOBIM,11,Chega de saudade,28,9,9,Y1.1,*4.7.9,V,2,major,25.0
+JOBIM,11,Chega de saudade,29,9,9,Y2.3,*7(b9),V,2,major,26.0
+JOBIM,11,Chega de saudade,30,2,2,x0,*°7,I°,2,major,27.0
+JOBIM,11,Chega de saudade,31,2,2,Z0,*M7,I,2,major,28.0
+JOBIM,11,Chega de saudade,32,2,2,x0,*°7,I°,2,major,30.0
+JOBIM,11,Chega de saudade,33,4,4,z0,*m7,II,2,major,31.0
+JOBIM,11,Chega de saudade,34,4,11,Y0,*7,V/V,2,major,32.0
+JOBIM,11,Chega de saudade,35,10,10,z1,*m6,bVIm7,2,major,33.0
+JOBIM,11,Chega de saudade,36,9,9,Y0,*7,V,2,major,34.0
+JOBIM,11,Chega de saudade,37,2,2,v0,*m,II,2,minor,35.0
+JOBIM,11,Chega de saudade,38,3,3,Y3,*7(#11),SubV,2,minor,36.0
+JOBIM,11,Chega de saudade,39,2,2,v0,*m,I,2,minor,37.0
+JOBIM,11,Chega de saudade,40,4,4,Y0,*7,V/V,2,minor,38.0
+JOBIM,11,Chega de saudade,41,9,9,v0,*m,Vm7,2,minor,39.0
+JOBIM,11,Chega de saudade,42,8,8,z0,*m7,Vm7,2,minor,40.0
+JOBIM,11,Chega de saudade,43,10,10,Z0,*M7,bVI7M,2,minor,41.0
+JOBIM,11,Chega de saudade,44,10,10,Z1,*6,bVI7M,2,minor,41.5
+JOBIM,11,Chega de saudade,45,10,10,Z1,*6,bVI7M,2,minor,42.0
+JOBIM,11,Chega de saudade,46,9,9,Y1,*4.7,V,2,minor,43.0
+JOBIM,11,Chega de saudade,47,9,9,Y2.3,*7(b9),V,2,minor,44.0
+JOBIM,11,Chega de saudade,48,2,2,v0,*m,I,2,minor,45.0
+JOBIM,11,Chega de saudade,49,4,11,Y0,*7,V/V,2,minor,47.0
+JOBIM,11,Chega de saudade,50,10,10,z1,*m6,bVIm7,2,minor,49.0
+JOBIM,11,Chega de saudade,51,9,9,Y0,*7,V,2,minor,50.0
+JOBIM,11,Chega de saudade,52,2,2,Z2,*M7.9,I,2,minor,51.0
+JOBIM,11,Chega de saudade,53,4,4,z0,*m7,II,2,minor,52.0
+JOBIM,11,Chega de saudade,54,4,4,Y0,*7,V/V,2,minor,53.0
+JOBIM,11,Chega de saudade,55,7,10,z1,*m6,IV,2,minor,55.0
+JOBIM,11,Chega de saudade,56,9,9,Y2.3,*7(b9),V,2,minor,56.0
+JOBIM,11,Chega de saudade,57,2,2,Z0,*M7,I,2,major,57.0
+JOBIM,11,Chega de saudade,58,2,2,Z1,*6,I,2,major,58.0
+JOBIM,11,Chega de saudade,59,4,4,Y0,*7,V/V,2,major,59.0
+JOBIM,11,Chega de saudade,60,6,6,Y0,*7,V/VI,2,major,61.0
+JOBIM,11,Chega de saudade,61,11,11,z0,*m7,VI,2,major,63.0
+JOBIM,11,Chega de saudade,62,10,10,z0,*m7,bVIm7,2,major,63.5
+JOBIM,11,Chega de saudade,63,9,9,Y0,*7,II__X,2,major,64.0
+JOBIM,11,Chega de saudade,64,2,2,Y2.3,*7(b9),V/IV,2,major,64.5
+JOBIM,11,Chega de saudade,65,7,7,Z0,*M7,IV,2,major,65.0
+JOBIM,11,Chega de saudade,66,7,7,z0,*m7,IVm7,2,major,66.0
+JOBIM,11,Chega de saudade,67,6,6,z0,*m7,III,2,major,67.0
+JOBIM,11,Chega de saudade,68,11,11,Y3.1,*7(#11)13,V/II,2,major,68.0
+JOBIM,11,Chega de saudade,69,11,11,Y2.2.1.1,*7(b9.b13),V/II,2,major,68.5
+JOBIM,11,Chega de saudade,70,4,4,Y2,*7.9,V/V,2,major,69.0
+JOBIM,11,Chega de saudade,71,9,9,Y1.1,*4.7.9,V,2,major,70.0
+JOBIM,11,Chega de saudade,72,6,6,Y4,*7.13,V/VI,2,major,71.0
+JOBIM,11,Chega de saudade,73,6,6,Y4.1,*7(b13),V/VI,2,major,71.5
+JOBIM,11,Chega de saudade,74,11,11,Y4.1,*7(b13),V/II,2,major,72.0
+JOBIM,11,Chega de saudade,75,11,11,Y2.2.1.1,*7(b9.b13),V/II,2,major,72.5
+JOBIM,11,Chega de saudade,76,4,4,Y0,*7,V/V,2,major,73.0
+JOBIM,11,Chega de saudade,77,9,9,Y1.1,*4.7.9,V,2,major,74.0
+JOBIM,11,Chega de saudade,78,2,2,Z1,*6,I,2,major,75.0
+JOBIM,11,Chega de saudade,79,0,0,Y2,*7.9,bVII7,2,major,75.5
+JOBIM,11,Chega de saudade,80,11,11,Y0,*7,V/II,2,major,76.0
+JOBIM,11,Chega de saudade,81,11,11,Y2.3,*7(b9),V/II,2,major,76.5
+JOBIM,11,Chega de saudade,82,4,4,Y0,*7,V,2,major,77.0
+JOBIM,11,Chega de saudade,83,9,9,Y1.1,*4.7.9,V,2,major,78.0
+JOBIM,11,Chega de saudade,84,2,2,Z1,*6,I,2,major,79.0
+JOBIM,11,Chega de saudade,85,0,0,Y2,*7.9,bVII7,2,major,79.5
+JOBIM,11,Chega de saudade,86,11,11,Y0,*7,V/II,2,major,80.0
+JOBIM,11,Chega de saudade,87,11,11,Y2.3,*7(b9),V/II,2,major,80.5
+JOBIM,11,Chega de saudade,88,4,4,Y0,*7,V/V,2,major,81.0
+JOBIM,11,Chega de saudade,89,4,4,z0,*m7,II,2,major,82.0
+JOBIM,11,Chega de saudade,90,9,9,Y1.1,*4.7.9,V,2,major,82.5
+JOBIM,11,Chega de saudade,91,2,2,Z1,*6,I,2,major,83.0
+JOBIM,11,Chega de saudade,92,2,2,Z1.1,*6.9,I,2,major,84.0
+JOBIM,12,Corcovado,1,9,9,z1,*m6,VI,0,major,1.0
+JOBIM,12,Corcovado,2,8,8,x3,*°7(b13),V°/VI,0,major,2.0
+JOBIM,12,Corcovado,3,7,7,z0,*m7,II__X,0,major,3.0
+JOBIM,12,Corcovado,4,0,0,Y1.1,*4.7.9,V/IV,0,major,4.0
+JOBIM,12,Corcovado,5,5,5,Z0,*M7,IV,0,major,5.0
+JOBIM,12,Corcovado,6,5,5,z1,*m6,IVm7,0,major,6.0
+JOBIM,12,Corcovado,7,4,4,z0,*m7,III,0,major,7.0
+JOBIM,12,Corcovado,8,9,9,z0,*m7,VI,0,major,8.0
+JOBIM,12,Corcovado,9,9,9,z1,*m6,VI,0,major,9.0
+JOBIM,12,Corcovado,10,8,8,x0,*°7,V°/VI,0,major,10.0
+JOBIM,12,Corcovado,11,9,9,z1,*m6,VI,0,major,11.0
+JOBIM,12,Corcovado,12,8,8,x3,*°7(b13),V°/VI,0,major,13.0
+JOBIM,12,Corcovado,13,7,7,z0,*m7,II__X,0,major,15.0
+JOBIM,12,Corcovado,14,0,0,Y1.1,*4.7.9,V/IV,0,major,16.0
+JOBIM,12,Corcovado,15,6,6,Y1.1,*4.7.9,SubV/IV,0,major,17.0
+JOBIM,12,Corcovado,16,5,5,Z1,*6,IV,0,major,18.0
+JOBIM,12,Corcovado,17,5,5,w0,*mM7,IVm7,0,major,19.0
+JOBIM,12,Corcovado,18,5,5,z0,*m7,IVm7,0,major,20.5
+JOBIM,12,Corcovado,19,4,4,Y2.2.2,*7(#9)13,V/VI,0,major,21.0
+JOBIM,12,Corcovado,20,4,4,Y4.1,*7(b13),V/VI,0,major,21.5
+JOBIM,12,Corcovado,21,9,9,Y2,*7.9,V/II,0,major,22.0
+JOBIM,12,Corcovado,22,9,9,Y2.3,*7(b9),V/II,0,major,22.5
+JOBIM,12,Corcovado,23,2,2,Y2.1.1,*7.9(#11)13,V/V,0,major,23.0
+JOBIM,12,Corcovado,24,2,2,Y2,*7.9,V/V,0,major,24.0
+JOBIM,12,Corcovado,25,7,7,Y1.1,*4.7.9,V,0,major,25.0
+JOBIM,12,Corcovado,26,7,7,Y1.1.3,*4.7(b9),V,0,major,26.0
+JOBIM,12,Corcovado,27,9,9,z1,*m6,VI,0,major,27.0
+JOBIM,12,Corcovado,28,8,8,z3,*m7.11,V°/VI,0,major,29.0
+JOBIM,12,Corcovado,29,7,7,z2.1,*m7.9.11,II__X,0,major,31.0
+JOBIM,12,Corcovado,30,0,0,Y1.1,*4.7.9,V/IV,0,major,32.0
+JOBIM,12,Corcovado,31,6,6,Y2,*7.9,SubV/IV,0,major,33.0
+JOBIM,12,Corcovado,32,5,5,Z1,*6,IV,0,major,34.0
+JOBIM,12,Corcovado,33,5,5,z1,*m6,IVm7,0,major,35.0
+JOBIM,12,Corcovado,34,4,4,z0,*m7,III,0,major,37.0
+JOBIM,12,Corcovado,35,9,9,z0,*m7,VI,0,major,38.0
+JOBIM,12,Corcovado,36,2,2,z2,*m7.9,II,0,major,39.0
+JOBIM,12,Corcovado,37,7,7,Y1.1.3,*4.7(b9),V,0,major,40.0
+JOBIM,12,Corcovado,38,5,5,x0,*°7,IV° [aux],0,major,40.5
+JOBIM,12,Corcovado,39,4,4,Y2.2.2,*7(#9)13,V/VI,0,major,41.0
+JOBIM,12,Corcovado,40,4,4,Y4.1,*7(b13),V/VI,0,major,41.5
+JOBIM,12,Corcovado,41,9,9,Y1.1,*4.7.9,V/II,0,major,42.0
+JOBIM,12,Corcovado,42,9,9,Y2.3,*7(b9),V/II,0,major,42.5
+JOBIM,12,Corcovado,43,2,2,z0,*m7,II,0,major,43.0
+JOBIM,12,Corcovado,44,7,7,Y1.1,*4.7.9,V,0,major,44.0
+JOBIM,12,Corcovado,45,7,7,Y2.3,*7(b9),V,0,major,44.5
+JOBIM,12,Corcovado,46,0,0,Z1.1,*6.9,I,0,major,45.0
+JOBIM,13,Demais,1,10,10,Z0,*M7,I,10,major,1.0
+JOBIM,13,Demais,2,3,3,X0,*(b5)7,IV7,10,major,2.0
+JOBIM,13,Demais,3,0,0,z0,*m7,II,10,major,3.0
+JOBIM,13,Demais,4,8,8,X0,*(b5)7,bVII7,10,major,4.0
+JOBIM,13,Demais,5,2,2,z0,*m7,III,10,major,5.0
+JOBIM,13,Demais,6,7,7,z0,*m7,VI,10,major,5.5
+JOBIM,13,Demais,7,0,0,z0,*m7,II,10,major,6.0
+JOBIM,13,Demais,8,5,5,Y2.3,*7(b9),V,10,major,6.5
+JOBIM,13,Demais,9,2,2,z0,*m7,II__X,10,major,7.0
+JOBIM,13,Demais,10,7,7,Y0,*7,V/II,10,major,7.5
+JOBIM,13,Demais,11,0,0,z2,*m7.9,II,10,major,8.0
+JOBIM,13,Demais,12,5,5,Y2.3,*7(b9),V,10,major,8.5
+JOBIM,13,Demais,13,10,10,Z0,*M7,I,10,major,9.0
+JOBIM,13,Demais,14,3,3,X0,*(b5)7,IV7,10,major,10.0
+JOBIM,13,Demais,15,0,0,z0,*m7,II,10,major,11.0
+JOBIM,13,Demais,16,8,8,X0,*(b5)7,bVII7,10,major,12.0
+JOBIM,13,Demais,17,2,2,z0,*m7,III,10,major,13.0
+JOBIM,13,Demais,18,7,7,z0,*m7,VI,10,major,13.5
+JOBIM,13,Demais,19,0,0,z0,*m7,II,10,major,14.0
+JOBIM,13,Demais,20,5,5,Y2.3,*7(b9),V,10,major,14.5
+JOBIM,13,Demais,21,2,2,z0,*m7,II__X,10,major,15.0
+JOBIM,13,Demais,22,7,7,Y0,*7,V/II,10,major,15.5
+JOBIM,13,Demais,23,0,0,Y2,*7.9,V/V,10,major,16.0
+JOBIM,13,Demais,24,5,5,Y4,*7.13,V,10,major,16.5
+JOBIM,13,Demais,25,6,6,Z0,*M7,I,6,major,17.0
+JOBIM,13,Demais,26,3,3,z0,*m7,VI,6,major,18.0
+JOBIM,13,Demais,27,6,6,Z0,*M7,I,6,major,19.0
+JOBIM,13,Demais,28,3,3,z0,*m7,VI,6,major,20.0
+JOBIM,13,Demais,29,2,2,z0,*m7,III,2,minor,21.0
+JOBIM,13,Demais,30,7,7,z2,*m7.9,IV,2,minor,22.0
+JOBIM,13,Demais,31,9,9,Y2.2.1.1,*7(b9.b13),V,2,minor,22.5
+JOBIM,13,Demais,32,2,2,z0,*m7,III,10,major,23.0
+JOBIM,13,Demais,33,1,1,Y0,*7,SubV/II,10,major,23.5
+JOBIM,13,Demais,34,6,6,Z0,*M7,bVI7M,10,major,24.0
+JOBIM,13,Demais,35,11,11,X0,*(b5)7,SubV,10,major,24.5
+JOBIM,13,Demais,36,10,10,Z0,*M7,I,10,major,25.0
+JOBIM,13,Demais,37,3,3,X0,*(b5)7,IV7,10,major,26.0
+JOBIM,13,Demais,38,0,0,z2,*m7.9,II,10,major,27.0
+JOBIM,13,Demais,39,8,8,X0,*(b5)7,bVII7,10,major,28.0
+JOBIM,13,Demais,40,2,2,z0,*m7,III,10,major,29.0
+JOBIM,13,Demais,41,7,7,z0,*m7,VI,10,major,29.5
+JOBIM,13,Demais,42,0,0,z0,*m7,II,10,major,30.0
+JOBIM,13,Demais,43,5,5,Y2.3,*7(b9),V,10,major,30.5
+JOBIM,13,Demais,44,2,2,Y4,*7.13,V/VI,10,major,31.0
+JOBIM,13,Demais,45,2,2,Y4.1,*7(b13),V/VI,10,major,31.25
+JOBIM,13,Demais,46,7,7,Y2.3,*7(b9),V/V,10,major,31.5
+JOBIM,13,Demais,47,0,0,z0,*m7,II,10,major,32.0
+JOBIM,13,Demais,48,5,5,Y0,*7,V,10,major,33.0
+JOBIM,13,Demais,49,2,2,z0,*m7,II__X,10,major,34.0
+JOBIM,13,Demais,50,7,7,Y0,*7,V/V,10,major,35.0
+JOBIM,13,Demais,51,7,7,Y4.1,*7(b13),V/V,10,major,35.5
+JOBIM,13,Demais,52,0,0,z0,*m7,II,10,major,36.0
+JOBIM,13,Demais,53,5,5,Y1.1.3,*4.7(b9),V,10,major,37.0
+JOBIM,13,Demais,54,10,10,Z0,*M7,I,10,major,38.0
+JOBIM,13,Demais,55,6,6,Z0,*M7,bVI7M,10,major,39.0
+JOBIM,13,Demais,56,3,3,z2,*m7.9,IVm7,10,major,40.0
+JOBIM,13,Demais,57,10,10,Z0,*M7,I,10,major,41.0
+JOBIM,14,Derradeira primavera,1,9,9,z0,*m7,I,9,minor,1.0
+JOBIM,14,Derradeira primavera,2,2,9,z2.1,*m7.9.11,IV,9,minor,8.0
+JOBIM,14,Derradeira primavera,3,2,9,z2,*m7.9,IV,9,minor,9.0
+JOBIM,14,Derradeira primavera,4,2,2,v1,*m.9,IV,9,minor,10.0
+JOBIM,14,Derradeira primavera,5,2,2,z1,*m6,IV,9,minor,11.0
+JOBIM,14,Derradeira primavera,6,4,4,Y2.3,*7(b9),V,9,minor,13.0
+JOBIM,14,Derradeira primavera,7,9,9,z2,*m7.9,I,9,minor,14.0
+JOBIM,14,Derradeira primavera,8,9,9,Y2.3,*7(b9),V/IV,9,minor,15.0
+JOBIM,14,Derradeira primavera,9,2,2,z1.3,*m(b6),IV,9,minor,17.0
+JOBIM,14,Derradeira primavera,10,7,7,Y0,*7,V/III,9,minor,18.0
+JOBIM,14,Derradeira primavera,11,0,0,Z0,*M7,III,9,minor,19.0
+JOBIM,14,Derradeira primavera,12,0,0,Y0,*7,V/VI,9,minor,19.5
+JOBIM,14,Derradeira primavera,13,5,5,Z0,*M7,VI,9,minor,20.0
+JOBIM,14,Derradeira primavera,14,2,2,z2,*m7.9,IV,9,minor,21.0
+JOBIM,14,Derradeira primavera,15,4,4,Y2.3,*7(b9),V,9,minor,23.0
+JOBIM,14,Derradeira primavera,16,10,10,Z1,*6,bII7M,9,minor,24.0
+JOBIM,14,Derradeira primavera,17,10,10,Y3,*7(#11),SubV,9,minor,24.5
+JOBIM,14,Derradeira primavera,18,9,9,v1,*m.9,I,9,minor,25.0
+JOBIM,15,Desafinado,1,5,5,Z0,*M7,I,5,major,1.0
+JOBIM,15,Desafinado,2,7,7,Y3,*7(#11),V/V,5,major,3.0
+JOBIM,15,Desafinado,3,7,7,z0,*m7,II,5,major,5.0
+JOBIM,15,Desafinado,4,0,0,Y0,*7,V,5,major,6.0
+JOBIM,15,Desafinado,5,9,9,y0,*Ø,II__X,5,major,7.0
+JOBIM,15,Desafinado,6,2,2,Y2.3,*7(b9),V/II,5,major,8.0
+JOBIM,15,Desafinado,7,7,7,z0,*m7,II,5,major,9.0
+JOBIM,15,Desafinado,8,9,9,Y2.1.2,*7(b9.#11),V/VI,5,major,10.0
+JOBIM,15,Desafinado,9,2,2,Z0,*M7,VIM7,5,major,11.0
+JOBIM,15,Desafinado,10,2,2,Y2.3,*7(b9),V/II,5,major,12.0
+JOBIM,15,Desafinado,11,7,7,Y0,*7,V/V,5,major,13.0
+JOBIM,15,Desafinado,12,6,6,Z0,*M7,bII7M,5,major,15.0
+JOBIM,15,Desafinado,13,6,6,Y3,*7(#11),SubV,5,major,16.0
+JOBIM,15,Desafinado,14,5,5,Z0,*M7,I,5,major,17.0
+JOBIM,15,Desafinado,15,7,7,Y3,*7(#11),V/V,5,major,19.0
+JOBIM,15,Desafinado,16,7,7,z0,*m7,II,5,major,21.0
+JOBIM,15,Desafinado,17,0,0,Y0,*7,V,5,major,22.0
+JOBIM,15,Desafinado,18,9,9,y0,*Ø,II__X,5,major,23.0
+JOBIM,15,Desafinado,19,2,2,Y2.3,*7(b9),V/II,5,major,24.0
+JOBIM,15,Desafinado,20,7,7,z0,*m7,II,5,major,25.0
+JOBIM,15,Desafinado,21,9,9,Y4.1,*7(b13),V/VI,5,major,26.0
+JOBIM,15,Desafinado,22,2,2,z0,*m7,VI,5,major,27.0
+JOBIM,15,Desafinado,23,4,4,Y2.4,*7(#9),V,9,major,28.0
+JOBIM,15,Desafinado,24,9,9,Z0,*M7,I,9,major,29.0
+JOBIM,15,Desafinado,25,8,8,W0,*(#5)7,V/III,9,major,30.0
+JOBIM,15,Desafinado,26,7,7,Y4,*7.13,bVII7,9,major,31.0
+JOBIM,15,Desafinado,27,6,6,Y0,*7,V/II,9,major,32.0
+JOBIM,15,Desafinado,28,9,9,Z0,*M7,I,9,major,33.0
+JOBIM,15,Desafinado,29,10,10,x0,*°7,V°/II,9,major,34.0
+JOBIM,15,Desafinado,30,11,11,z0,*m7,II,9,major,35.0
+JOBIM,15,Desafinado,31,4,4,Y4,*7.13,V,9,major,36.0
+JOBIM,15,Desafinado,32,9,9,Z0,*M7,I,9,major,37.0
+JOBIM,15,Desafinado,33,9,9,z0,*m7,Im7,9,major,38.0
+JOBIM,15,Desafinado,34,11,11,y0,*Ø,IIm7(b5),9,major,39.0
+JOBIM,15,Desafinado,35,10,10,Y3,*7(#11),SubV,9,major,40.0
+JOBIM,15,Desafinado,36,0,0,Z0,*M7,I,0,major,41.0
+JOBIM,15,Desafinado,37,1,1,x0,*°7,V°/II,0,major,42.0
+JOBIM,15,Desafinado,38,2,2,z0,*m7,II,0,major,43.0
+JOBIM,15,Desafinado,39,7,7,Y4,*7.13,V,0,major,44.0
+JOBIM,15,Desafinado,40,7,7,z0,*m7,Vm7,0,major,45.0
+JOBIM,15,Desafinado,41,3,3,z1,*m6,bIIIm7,0,major,46.0
+JOBIM,15,Desafinado,42,7,7,z0,*m7,II,5,major,47.0
+JOBIM,15,Desafinado,43,0,0,Y1.1,*4.7.9,V,5,major,48.0
+JOBIM,15,Desafinado,44,6,6,Y0,*7,SubV,5,major,48.5
+JOBIM,15,Desafinado,45,5,5,Z0,*M7,I,5,major,49.0
+JOBIM,15,Desafinado,46,7,7,Y3,*7(#11),V/V,5,major,51.0
+JOBIM,15,Desafinado,47,7,7,z0,*m7,II,5,major,52.0
+JOBIM,15,Desafinado,48,0,0,Y0,*7,V,5,major,53.0
+JOBIM,15,Desafinado,49,9,9,y0,*Ø,II__X,5,major,54.0
+JOBIM,15,Desafinado,50,2,2,Y4.1,*7(b13),V/II,5,major,55.0
+JOBIM,15,Desafinado,51,10,10,Z0,*M7,IV,5,major,56.0
+JOBIM,15,Desafinado,52,10,10,z1,*m6,IVm7,5,major,57.0
+JOBIM,15,Desafinado,53,9,9,z0,*m7,III,5,major,58.0
+JOBIM,15,Desafinado,54,8,8,x0,*°7,bIII°,5,major,59.0
+JOBIM,15,Desafinado,55,7,7,Y0,*7,V/V,5,major,60.0
+JOBIM,15,Desafinado,56,6,6,Z0,*M7,bII7M,5,major,62.0
+JOBIM,15,Desafinado,57,7,7,Y0,*7,V/V,5,major,63.0
+JOBIM,15,Desafinado,58,7,7,z0,*m7,II,5,major,64.0
+JOBIM,15,Desafinado,59,0,0,Y0,*7,V,5,major,64.5
+JOBIM,15,Desafinado,60,5,5,Z1,*6,I,5,major,65.0
+JOBIM,15,Desafinado,61,0,0,Y2.3,*7(b9),V,5,major,65.25
+JOBIM,15,Desafinado,62,5,5,Z1,*6,I,5,major,65.5
+JOBIM,16,Dindi,1,0,0,Z2,*M7.9,I,0,major,1.0
+JOBIM,16,Dindi,2,10,0,Z0,*M7,bVII7M,0,major,2.0
+JOBIM,16,Dindi,3,0,0,Z2,*M7.9,I,0,major,3.0
+JOBIM,16,Dindi,4,10,0,Z0,*M7,bVII7M,0,major,4.0
+JOBIM,16,Dindi,5,9,9,Z0,*M7,I,9,major,5.0
+JOBIM,16,Dindi,6,6,6,z3,*m7.11,II__X,9,major,6.0
+JOBIM,16,Dindi,7,11,11,Y4,*7.13,V/V,9,major,7.0
+JOBIM,16,Dindi,8,11,11,Y4.1,*7(b13),V/V,9,major,7.5
+JOBIM,16,Dindi,9,4,4,Y2,*7.9,V,9,major,8.0
+JOBIM,16,Dindi,10,4,4,Y2.3,*7(b9),V,9,major,8.5
+JOBIM,16,Dindi,11,0,0,Z2,*M7.9,I,0,major,9.0
+JOBIM,16,Dindi,12,11,0,Z0,*M7,bVII7M,0,major,10.0
+JOBIM,16,Dindi,13,0,0,Z2,*M7.9,I,0,major,11.0
+JOBIM,16,Dindi,14,0,0,Y1.1,*4.7.9,V/IV,0,major,12.0
+JOBIM,16,Dindi,15,0,0,Y2.3,*7(b9),V/IV,0,major,12.5
+JOBIM,16,Dindi,16,5,5,Z0,*M7,IV,0,major,13.0
+JOBIM,16,Dindi,17,5,5,w2,*mM711,IVm7,0,major,14.0
+JOBIM,16,Dindi,18,0,0,Z0,*M7,I,0,major,15.0
+JOBIM,16,Dindi,19,6,6,y0,*Ø,II,4,minor,16.0
+JOBIM,16,Dindi,20,11,11,Y0,*7,V,4,minor,16.5
+JOBIM,16,Dindi,21,4,4,v0,*m,I,4,minor,17.0
+JOBIM,16,Dindi,22,0,0,z1,*m6,bVIm7,4,minor,18.0
+JOBIM,16,Dindi,23,4,4,v0,*m,I,4,minor,19.0
+JOBIM,16,Dindi,24,0,0,z1,*m6,bVIm7,4,minor,19.5
+JOBIM,16,Dindi,25,2,2,v0,*m,I,2,minor,20.0
+JOBIM,16,Dindi,26,10,10,z1,*m6,bVIm7,2,minor,21.0
+JOBIM,16,Dindi,27,2,2,v0,*m,I,2,minor,22.0
+JOBIM,16,Dindi,28,10,10,z1,*m6,bVIm7,2,minor,22.5
+JOBIM,16,Dindi,29,2,2,v0,*m,II,0,major,23.0
+JOBIM,16,Dindi,30,7,7,Y2.3,*7(b9),V,0,major,23.5
+JOBIM,16,Dindi,31,0,0,Z2,*M7.9,I,0,major,24.0
+JOBIM,16,Dindi,32,10,0,Z0,*M7,bVII7M,0,major,25.0
+JOBIM,16,Dindi,33,0,0,Z2,*M7.9,I,0,major,26.0
+JOBIM,16,Dindi,34,0,0,Y2.3,*7(b9),V/IV,0,major,27.0
+JOBIM,16,Dindi,35,0,0,Y1.1,*4.7.9,V/IV,0,major,27.5
+JOBIM,16,Dindi,36,5,5,Z0,*M7,IV,0,major,28.0
+JOBIM,16,Dindi,37,5,5,w2,*mM711,IVm7,0,major,29.0
+JOBIM,16,Dindi,38,2,2,Y2.1.1,*7.9(#11)13,V/V,0,major,30.0
+JOBIM,16,Dindi,39,1,1,Z5.1.1,*6.M7.9(#11),bII7M,0,major,31.0
+JOBIM,16,Dindi,40,0,0,Z1.1,*6.9,I,0,major,32.0
+JOBIM,16,Dindi,41,0,0,Z3,*M7(#11),I,0,major,33.0
+JOBIM,16,Dindi,42,11,0,Y0,*7,aSubV,0,major,34.0
+JOBIM,16,Dindi,43,0,0,Z2,*M7.9,I,0,major,35.0
+JOBIM,17,Discussao,1,0,0,Z0,*M7,I,0,major,1.0
+JOBIM,17,Discussao,2,3,3,x0,*°7,bIII°,0,major,2.0
+JOBIM,17,Discussao,3,2,2,z0,*m7,II,0,major,3.0
+JOBIM,17,Discussao,4,3,3,x0,*°7,V°/III,0,major,4.0
+JOBIM,17,Discussao,5,0,4,V0,*,I,0,major,5.0
+JOBIM,17,Discussao,6,4,4,Y0,*7,V/VI,0,major,6.0
+JOBIM,17,Discussao,7,5,5,Z0,*M7,IV,0,major,7.0
+JOBIM,17,Discussao,8,5,5,z1,*m6,IVm7,0,major,8.0
+JOBIM,17,Discussao,9,0,4,Z0,*M7,I,0,major,9.0
+JOBIM,17,Discussao,10,6,3,x0,*°7,V°/V,0,major,10.0
+JOBIM,17,Discussao,11,7,7,z0,*m7,Vm7,0,major,11.0
+JOBIM,17,Discussao,12,9,9,Y2.3,*7(b9),V/II,0,major,12.0
+JOBIM,17,Discussao,13,2,2,Y0,*7,V/V,0,major,13.0
+JOBIM,17,Discussao,14,9,9,z1,*m6,VI,0,major,14.0
+JOBIM,17,Discussao,15,2,2,z0,*m7,II,0,major,15.0
+JOBIM,17,Discussao,16,7,7,Y2.3,*7(b9),V,0,major,16.0
+JOBIM,17,Discussao,17,0,4,Z1,*6,I,0,major,17.0
+JOBIM,17,Discussao,18,3,3,x0,*°7,bIII°,0,major,18.0
+JOBIM,17,Discussao,19,2,2,z0,*m7,II,0,major,19.0
+JOBIM,17,Discussao,20,3,3,x0,*°7,V°/III,0,major,20.0
+JOBIM,17,Discussao,21,0,4,V0,*,I,0,major,21.0
+JOBIM,17,Discussao,22,4,4,Y0,*7,V/VI,0,major,22.0
+JOBIM,17,Discussao,23,5,5,Z0,*M7,IV,0,major,23.0
+JOBIM,17,Discussao,24,5,5,z1,*m6,IVm7,0,major,24.0
+JOBIM,17,Discussao,25,0,4,Z1,*6,I,0,major,25.0
+JOBIM,17,Discussao,26,6,3,x0,*°7,V°/V,0,major,26.0
+JOBIM,17,Discussao,27,7,7,z0,*m7,Vm7,0,major,27.0
+JOBIM,17,Discussao,28,9,9,Y2.3,*7(b9),V/II,0,major,28.0
+JOBIM,17,Discussao,29,9,9,z1,*m6,VI,0,major,29.0
+JOBIM,17,Discussao,30,2,2,z0,*m7,II,0,major,30.0
+JOBIM,17,Discussao,31,7,7,Y1.1,*4.7.9,V,0,major,30.5
+JOBIM,17,Discussao,32,0,0,Z0,*M7,I,0,major,31.0
+JOBIM,17,Discussao,33,5,5,z1,*m6,IVm7,0,major,31.5
+JOBIM,17,Discussao,34,0,0,Z1,*6,I,0,major,32.0
+JOBIM,18,E preciso dizer adeus,1,1,1,Z0,*M7,I,1,major,1.0
+JOBIM,18,E preciso dizer adeus,2,6,1,z1,*m6,IVm7,1,major,2.0
+JOBIM,18,E preciso dizer adeus,3,1,1,Z0,*M7,I,1,major,3.0
+JOBIM,18,E preciso dizer adeus,4,0,0,z0,*m7,II__X,1,major,4.0
+JOBIM,18,E preciso dizer adeus,5,5,5,Y2.3,*7(b9),V/VI,1,major,4.5
+JOBIM,18,E preciso dizer adeus,6,10,10,z0,*m7,VI,1,major,5.0
+JOBIM,18,E preciso dizer adeus,7,3,3,z0,*m7,II,1,major,6.0
+JOBIM,18,E preciso dizer adeus,8,10,10,z0,*m7,II__X,1,major,7.0
+JOBIM,18,E preciso dizer adeus,9,3,3,Y0,*7,V/V,1,major,7.5
+JOBIM,18,E preciso dizer adeus,10,10,10,z0,*m7,II__X,1,major,8.0
+JOBIM,18,E preciso dizer adeus,11,3,3,Y0,*7,V/V,1,major,8.5
+JOBIM,18,E preciso dizer adeus,12,3,3,z0,*m7,II,1,major,9.0
+JOBIM,18,E preciso dizer adeus,13,8,8,Y0,*7,V,1,major,10.0
+JOBIM,18,E preciso dizer adeus,14,8,8,Y0,*7,IV,1,major,10.5
+JOBIM,18,E preciso dizer adeus,15,5,5,z0,*m7,III,1,major,11.0
+JOBIM,18,E preciso dizer adeus,16,4,4,z0,*m7,bIII°,1,major,12.0
+JOBIM,18,E preciso dizer adeus,17,3,3,z0,*m7,II,1,major,13.0
+JOBIM,18,E preciso dizer adeus,18,8,8,Y4,*7.13,V,1,major,14.0
+JOBIM,18,E preciso dizer adeus,19,5,5,Y4,*7.13,V/VI,1,major,15.0
+JOBIM,18,E preciso dizer adeus,20,5,5,Y4.1,*7(b13),V/VI,1,major,15.5
+JOBIM,18,E preciso dizer adeus,21,10,10,Y1.1,*4.7.9,V/II,1,major,16.0
+JOBIM,18,E preciso dizer adeus,22,10,10,Y2.3,*7(b9),V/II,1,major,16.5
+JOBIM,18,E preciso dizer adeus,23,3,3,z0,*m7,II,1,major,17.0
+JOBIM,18,E preciso dizer adeus,24,11,11,Y1.1,*4.7.9,SubV/VI,1,major,18.0
+JOBIM,18,E preciso dizer adeus,25,11,11,Y4.1,*7(b13),SubV/VI,1,major,18.5
+JOBIM,18,E preciso dizer adeus,26,5,5,z0,*m7,III,1,major,19.0
+JOBIM,18,E preciso dizer adeus,27,4,4,x0,*°7,bIII°,1,major,20.0
+JOBIM,18,E preciso dizer adeus,28,3,3,z0,*m7,II,1,major,21.0
+JOBIM,18,E preciso dizer adeus,29,8,8,Y1.1,*4.7.9,V,1,major,22.0
+JOBIM,18,E preciso dizer adeus,30,8,6,Y4.1,*7(b13),V,1,major,22.5
+JOBIM,18,E preciso dizer adeus,31,5,5,Y4,*7.13,V/VI,1,major,23.0
+JOBIM,18,E preciso dizer adeus,32,5,5,Y4.1,*7(b13),V/VI,1,major,23.5
+JOBIM,18,E preciso dizer adeus,33,10,10,Y2,*7.9,V/II,1,major,24.0
+JOBIM,18,E preciso dizer adeus,34,10,10,Y2.3,*7(b9),V/II,1,major,24.5
+JOBIM,18,E preciso dizer adeus,35,3,3,Y2,*7.9,V/V,1,major,25.0
+JOBIM,18,E preciso dizer adeus,36,3,3,z2,*m7.9,II,1,major,26.0
+JOBIM,18,E preciso dizer adeus,37,8,8,Y4,*7.13,V,1,major,26.5
+JOBIM,18,E preciso dizer adeus,38,9,9,Z0,*M7,bVI7M,1,major,27.0
+JOBIM,18,E preciso dizer adeus,39,6,6,z0,*m7,IVm7,1,major,28.0
+JOBIM,18,E preciso dizer adeus,40,1,1,Z2,*M7.9,I,1,major,29.0
+JOBIM,19,Ela e carioca,1,2,2,Z2,*M7.9,I,2,major,1.0
+JOBIM,19,Ela e carioca,2,11,11,z0,*m7,II__X,2,major,2.0
+JOBIM,19,Ela e carioca,3,4,4,Y4,*7.13,V/V,2,major,3.0
+JOBIM,19,Ela e carioca,4,4,4,Y4.1,*7(b13),V/V,2,major,4.0
+JOBIM,19,Ela e carioca,5,4,4,Y0,*7,V/V,2,major,4.5
+JOBIM,19,Ela e carioca,6,4,4,z0,*m7,II,2,major,5.0
+JOBIM,19,Ela e carioca,7,0,0,z1,*m6,bVIIm7,2,major,6.0
+JOBIM,19,Ela e carioca,8,4,4,Y2,*7.9,V/V,2,major,7.0
+JOBIM,19,Ela e carioca,9,9,9,Y1.1,*4.7.9,V,2,major,8.0
+JOBIM,19,Ela e carioca,10,9,9,Y2.3,*7(b9),V,2,major,8.5
+JOBIM,19,Ela e carioca,11,2,2,Y1.1,*4.7.9,V/IV,2,major,9.0
+JOBIM,19,Ela e carioca,12,2,2,Y2,*7.9,V/IV,2,major,10.0
+JOBIM,19,Ela e carioca,13,4,8,Y0,*7,V/V,2,major,11.0
+JOBIM,19,Ela e carioca,14,7,7,z1,*m6,IVm7,2,major,12.0
+JOBIM,19,Ela e carioca,15,2,2,Z2,*M7.9,I,2,major,13.0
+JOBIM,19,Ela e carioca,16,1,1,Y2.4,*7(#9),V/III,2,major,13.5
+JOBIM,19,Ela e carioca,17,0,0,Z2,*M7.9,bVII7M,2,major,14.0
+JOBIM,19,Ela e carioca,18,11,11,Y2.4,*7(#9),V/II,2,major,14.5
+JOBIM,19,Ela e carioca,19,10,10,Z2,*M7.9,bVI7M,2,major,15.0
+JOBIM,19,Ela e carioca,20,9,9,Y2.4,*7(#9),V,2,major,16.0
+JOBIM,19,Ela e carioca,21,2,2,Z2,*M7.9,I,2,major,17.0
+JOBIM,19,Ela e carioca,22,11,11,z0,*m7,II__X,2,major,18.0
+JOBIM,19,Ela e carioca,23,4,4,Y4,*7.13,V/V,2,major,19.0
+JOBIM,19,Ela e carioca,24,4,4,Y4.1,*7(b13),V/V,2,major,20.0
+JOBIM,19,Ela e carioca,25,4,4,Y0,*7,V/V,2,major,20.5
+JOBIM,19,Ela e carioca,26,4,4,z0,*m7,II,2,major,21.0
+JOBIM,19,Ela e carioca,27,0,0,z1,*m6,bVIIm7,2,major,22.0
+JOBIM,19,Ela e carioca,28,4,4,Y2,*7.9,V/V,2,major,23.0
+JOBIM,19,Ela e carioca,29,9,9,Y1.1,*4.7.9,V,2,major,24.0
+JOBIM,19,Ela e carioca,30,9,9,Y2.3,*7(b9),V,2,major,24.5
+JOBIM,19,Ela e carioca,31,2,2,Y1.1,*4.7.9,V/IV,2,major,25.0
+JOBIM,19,Ela e carioca,32,2,2,Y2,*7.9,V/IV,2,major,26.0
+JOBIM,19,Ela e carioca,33,4,8,Y0,*7,V/V,2,major,27.0
+JOBIM,19,Ela e carioca,34,7,7,z1,*m6,IVm7,2,major,28.0
+JOBIM,19,Ela e carioca,35,2,2,Z2,*M7.9,I,2,major,29.0
+JOBIM,19,Ela e carioca,36,1,1,Y2.4,*7(#9),V/III,2,major,29.5
+JOBIM,19,Ela e carioca,37,0,0,Z2,*M7.9,bVII7M,2,major,30.0
+JOBIM,19,Ela e carioca,38,1,1,Y0,*7,aSubV,2,major,30.5
+JOBIM,19,Ela e carioca,39,2,2,Z4,*(#5)M7,I,2,major,32.0
+JOBIM,20,Engano,1,0,0,z0,*m7,II,10,major,1.0
+JOBIM,20,Engano,2,5,5,Y2.2.1,*7(b9)13,V,10,major,1.5
+JOBIM,20,Engano,3,10,10,Z0,*M7,I,10,major,2.0
+JOBIM,20,Engano,4,1,1,x0,*°7,bIII°,10,major,2.5
+JOBIM,20,Engano,5,0,0,z0,*m7,II,10,major,3.0
+JOBIM,20,Engano,6,5,5,Y4,*7.13,V,10,major,3.5
+JOBIM,20,Engano,7,5,5,z1,*m6,Vm7,10,major,4.0
+JOBIM,20,Engano,8,7,7,Y2.3,*7(b9),V/II,10,major,4.5
+JOBIM,20,Engano,9,0,0,z0,*m7,II,10,major,5.0
+JOBIM,20,Engano,10,2,2,Y0,*7,V/VI,10,major,5.5
+JOBIM,20,Engano,11,7,7,z0,*m7,II__X,10,major,6.0
+JOBIM,20,Engano,12,0,0,Y2,*7.9,V,10,major,6.5
+JOBIM,20,Engano,13,0,0,z2,*m7.9,II,10,major,7.0
+JOBIM,20,Engano,14,5,5,W2,*(#5)7.9,V,10,major,7.5
+JOBIM,20,Engano,15,10,10,Z1,*6,I,10,major,8.0
+JOBIM,20,Engano,16,3,3,z0,*m7,IVm7,10,major,8.5
+JOBIM,20,Engano,17,10,10,Z1,*6,I,10,major,8.75
+JOBIM,20,Engano,18,3,3,z0,*m7,II,1,major,9.0
+JOBIM,20,Engano,19,8,8,Y2.2,*7.9.13,V,1,major,9.5
+JOBIM,20,Engano,20,1,1,Z2,*M7.9,I,1,major,10.0
+JOBIM,20,Engano,21,4,4,x0,*°7,bIII°,1,major,10.5
+JOBIM,20,Engano,22,3,3,z0,*m7,II,1,major,11.0
+JOBIM,20,Engano,23,5,5,Y2.3,*7(b9),V/VI,1,major,11.5
+JOBIM,20,Engano,24,10,10,v1,*m.9,VI,1,major,12.0
+JOBIM,20,Engano,25,10,10,w1,*mM7.9,VI,1,major,12.5
+JOBIM,20,Engano,26,10,10,z0,*m7,VI,1,major,12.75
+JOBIM,20,Engano,27,3,3,z0,*m7,II,1,major,13.0
+JOBIM,20,Engano,28,8,8,Y2.2,*7.9.13,V,1,major,13.5
+JOBIM,20,Engano,29,10,10,z0,*m7,VI,1,major,14.0
+JOBIM,20,Engano,30,3,3,Y4,*7.13,V/V,1,major,15.0
+JOBIM,20,Engano,31,3,3,z0,*m7,IVm7,10,major,16.0
+JOBIM,20,Engano,32,5,5,W0,*(#5)7,V,10,major,17.0
+JOBIM,20,Engano,33,0,0,z0,*m7,II,10,major,18.0
+JOBIM,20,Engano,34,5,5,Y2.2.1,*7(b9)13,V,10,major,18.5
+JOBIM,20,Engano,35,10,10,Z0,*M7,I,10,major,19.0
+JOBIM,20,Engano,36,1,1,x0,*°7,bIII°,10,major,19.5
+JOBIM,20,Engano,37,0,0,z0,*m7,II,10,major,20.0
+JOBIM,20,Engano,38,5,5,Y0,*7,V,10,major,20.5
+JOBIM,20,Engano,39,11,11,Y2,*7.9,SubV,10,major,21.0
+JOBIM,20,Engano,40,10,10,Z2,*M7.9,I,10,major,22.0
+JOBIM,21,Este seu olhar,1,5,5,Z0,*M7,I,5,major,1.0
+JOBIM,21,Este seu olhar,2,6,6,x0,*°7,V°/II,5,major,2.0
+JOBIM,21,Este seu olhar,3,7,7,z0,*m7,II,5,major,3.0
+JOBIM,21,Este seu olhar,4,8,8,x0,*°7,V°/III,5,major,4.0
+JOBIM,21,Este seu olhar,5,5,9,Z0,*M7,I,5,major,5.0
+JOBIM,21,Este seu olhar,6,9,9,Y0,*7,V/VI,5,major,6.0
+JOBIM,21,Este seu olhar,7,10,10,Z5,*6.M7,IV,5,major,7.0
+JOBIM,21,Este seu olhar,8,10,10,z1,*m6,IVm7,5,major,8.0
+JOBIM,21,Este seu olhar,9,5,9,Z0,*M7,I,5,major,9.0
+JOBIM,21,Este seu olhar,10,8,8,x0,*°7,bIII°,5,major,10.0
+JOBIM,21,Este seu olhar,11,7,7,z0,*m7,II,5,major,11.0
+JOBIM,21,Este seu olhar,12,0,0,Y2,*7.9,V,5,major,12.0
+JOBIM,21,Este seu olhar,13,9,9,z0,*m7,II__X,5,major,13.0
+JOBIM,21,Este seu olhar,14,2,2,Y0,*7,V/II,5,major,14.0
+JOBIM,21,Este seu olhar,15,7,7,z0,*m7,II,5,major,15.0
+JOBIM,21,Este seu olhar,16,0,0,Y0,*7,V,5,major,16.0
+JOBIM,21,Este seu olhar,17,5,5,Z0,*M7,I,5,major,17.0
+JOBIM,21,Este seu olhar,18,6,6,x0,*°7,V°/II,5,major,18.0
+JOBIM,21,Este seu olhar,19,7,7,z0,*m7,II,5,major,19.0
+JOBIM,21,Este seu olhar,20,8,8,x0,*°7,V°/III,5,major,20.0
+JOBIM,21,Este seu olhar,21,5,9,Z0,*M7,I,5,major,21.0
+JOBIM,21,Este seu olhar,22,9,9,Y0,*7,aSubV/IV,5,major,22.0
+JOBIM,21,Este seu olhar,23,10,10,Z5,*6.M7,IV,5,major,23.0
+JOBIM,21,Este seu olhar,24,10,10,z1.1,*m6.9,IVm7,5,major,24.0
+JOBIM,21,Este seu olhar,25,5,9,Z0,*M7,I,5,major,25.0
+JOBIM,21,Este seu olhar,26,8,8,x0,*°7,bIII°,5,major,26.0
+JOBIM,21,Este seu olhar,27,0,7,z0,*m7,Vm7,5,major,27.0
+JOBIM,21,Este seu olhar,28,6,6,x3,*°7(b13),V°/II,5,major,28.0
+JOBIM,21,Este seu olhar,29,7,7,Y4,*7.13,V/V,5,major,29.0
+JOBIM,21,Este seu olhar,30,7,7,Y4.1,*7(b13),V/V,5,major,29.5
+JOBIM,21,Este seu olhar,31,7,7,z0,*m7,II,5,major,30.0
+JOBIM,21,Este seu olhar,32,0,0,Y2.3,*7(b9),V,5,major,30.5
+JOBIM,21,Este seu olhar,33,5,5,Z1,*6,I,5,major,31.0
+JOBIM,22,Estrada do sol,1,2,2,z0,*m7,I,2,minor,1.0
+JOBIM,22,Estrada do sol,2,7,7,Y4,*7.13,IV7,2,minor,2.0
+JOBIM,22,Estrada do sol,3,2,2,z0,*m7,I,2,minor,3.0
+JOBIM,22,Estrada do sol,4,7,7,Y4,*7.13,IV7,2,minor,4.0
+JOBIM,22,Estrada do sol,5,2,2,z2,*m7.9,I,2,minor,5.0
+JOBIM,22,Estrada do sol,6,7,7,Y4,*7.13,IV7,2,minor,6.0
+JOBIM,22,Estrada do sol,7,2,2,z2,*m7.9,I,2,minor,7.0
+JOBIM,22,Estrada do sol,8,7,7,Y4,*7.13,IV7,2,minor,8.0
+JOBIM,22,Estrada do sol,9,0,0,Z2,*M7.9,I,0,major,9.0
+JOBIM,22,Estrada do sol,10,2,2,z0,*m7,II,0,major,10.0
+JOBIM,22,Estrada do sol,11,4,4,z0,*m7,III,0,major,11.0
+JOBIM,22,Estrada do sol,12,2,2,z0,*m7,II,0,major,12.0
+JOBIM,22,Estrada do sol,13,0,0,Z5,*6.M7,I,0,major,13.0
+JOBIM,22,Estrada do sol,14,5,5,z0,*m7,I,5,minor,14.0
+JOBIM,22,Estrada do sol,15,10,10,Y2.2,*7.9.13,IV7,5,minor,14.5
+JOBIM,22,Estrada do sol,16,4,4,z0,*m7,I,4,minor,15.0
+JOBIM,22,Estrada do sol,17,9,9,Y2.2,*7.9.13,IV7,4,minor,15.5
+JOBIM,22,Estrada do sol,18,3,3,z0,*m7,I,3,minor,16.0
+JOBIM,22,Estrada do sol,19,8,8,Y2.2,*7.9.13,IV7,3,minor,16.5
+JOBIM,22,Estrada do sol,20,2,2,z0,*m7,I,2,minor,17.0
+JOBIM,22,Estrada do sol,21,7,7,Y4,*7.13,IV7,2,minor,18.0
+JOBIM,22,Estrada do sol,22,2,2,z0,*m7,I,2,minor,19.0
+JOBIM,22,Estrada do sol,23,7,7,Y4,*7.13,IV7,2,minor,20.0
+JOBIM,22,Estrada do sol,24,2,2,z2,*m7.9,I,2,minor,21.0
+JOBIM,22,Estrada do sol,25,7,7,Y4,*7.13,IV7,2,minor,22.0
+JOBIM,22,Estrada do sol,26,2,2,z2,*m7.9,I,2,minor,23.0
+JOBIM,22,Estrada do sol,27,7,7,Y4,*7.13,IV7,2,minor,24.0
+JOBIM,22,Estrada do sol,28,0,0,Z2,*M7.9,I,0,major,25.0
+JOBIM,22,Estrada do sol,29,2,2,z0,*m7,II,0,major,26.0
+JOBIM,22,Estrada do sol,30,4,4,z0,*m7,III,0,major,27.0
+JOBIM,22,Estrada do sol,31,2,2,z0,*m7,II,0,major,28.0
+JOBIM,22,Estrada do sol,32,0,0,Z5,*6.M7,I,0,major,29.0
+JOBIM,23,Eu e o meu amor,1,11,11,V1,*4,V,4,minor,1.0
+JOBIM,23,Eu e o meu amor,2,4,4,v1,*m.9,I,4,minor,2.0
+JOBIM,23,Eu e o meu amor,3,9,4,z1,*m6,IV,4,minor,3.0
+JOBIM,23,Eu e o meu amor,4,4,4,v0,*m,I,4,minor,4.0
+JOBIM,23,Eu e o meu amor,5,11,11,V1,*4,V,4,minor,5.0
+JOBIM,23,Eu e o meu amor,6,4,4,v1,*m.9,I,4,minor,6.0
+JOBIM,23,Eu e o meu amor,7,9,4,z1,*m6,IV,4,minor,7.0
+JOBIM,23,Eu e o meu amor,8,4,4,v0,*m,I,4,minor,8.0
+JOBIM,23,Eu e o meu amor,9,11,11,V1,*4,V,4,minor,9.0
+JOBIM,23,Eu e o meu amor,10,1,1,y0,*Ø,II__X,4,minor,10.0
+JOBIM,23,Eu e o meu amor,11,6,6,Y0,*7,V/V,4,minor,11.0
+JOBIM,23,Eu e o meu amor,12,11,11,Y4,*7.13,V,4,minor,12.0
+JOBIM,23,Eu e o meu amor,13,2,9,Y0,*7,V/III,4,minor,13.0
+JOBIM,23,Eu e o meu amor,14,7,7,V0,*,III,4,minor,14.0
+JOBIM,23,Eu e o meu amor,15,11,6,Y2,*7.9,V,4,minor,15.0
+JOBIM,23,Eu e o meu amor,16,4,4,v1,*m.9,I,4,minor,16.0
+JOBIM,23,Eu e o meu amor,17,9,4,z1,*m6,IV,4,minor,17.0
+JOBIM,23,Eu e o meu amor,18,4,4,v0,*m,I,4,minor,18.0
+JOBIM,23,Eu e o meu amor,19,11,11,V1,*4,V,4,minor,19.0
+JOBIM,23,Eu e o meu amor,20,4,4,v1,*m.9,I,4,minor,20.0
+JOBIM,23,Eu e o meu amor,21,9,4,z1,*m6,IV,4,minor,21.0
+JOBIM,23,Eu e o meu amor,22,4,4,v0,*m,I,4,minor,22.0
+JOBIM,23,Eu e o meu amor,23,2,2,Y1.1.2,*4.7.9.13,V,7,major,23.0
+JOBIM,23,Eu e o meu amor,24,2,2,Y2.2,*7.9.13,V,7,major,23.5
+JOBIM,23,Eu e o meu amor,25,7,7,Z2,*M7.9,I,7,major,24.0
+JOBIM,23,Eu e o meu amor,26,7,7,Z1,*6,I,7,major,24.5
+JOBIM,23,Eu e o meu amor,27,2,2,Y1.1.2,*4.7.9.13,V,7,major,25.0
+JOBIM,23,Eu e o meu amor,28,2,2,Y2.2,*7.9.13,V,7,major,25.5
+JOBIM,23,Eu e o meu amor,29,7,7,Z2,*M7.9,I,7,major,26.0
+JOBIM,23,Eu e o meu amor,30,7,7,Z1,*6,I,7,major,26.5
+JOBIM,23,Eu e o meu amor,31,11,11,Y4.1,*7(b13),V,4,minor,27.0
+JOBIM,23,Eu e o meu amor,32,4,4,z2,*m7.9,I,4,minor,28.0
+JOBIM,23,Eu e o meu amor,33,9,4,v0,*m,IV,4,minor,29.0
+JOBIM,23,Eu e o meu amor,34,7,7,Z0,*M7,III,4,minor,30.0
+JOBIM,23,Eu e o meu amor,35,6,6,Y0,*7,V/V,4,minor,30.5
+JOBIM,23,Eu e o meu amor,36,5,5,Y0,*7,SubV,4,minor,30.75
+JOBIM,23,Eu e o meu amor,37,11,11,V1,*4,V,4,minor,31.0
+JOBIM,23,Eu e o meu amor,38,4,4,v1,*m.9,I,4,minor,32.0
+JOBIM,23,Eu e o meu amor,39,9,4,z1,*m6,IV,4,minor,33.0
+JOBIM,23,Eu e o meu amor,40,4,4,v0,*m,I,4,minor,34.0
+JOBIM,23,Eu e o meu amor,41,11,11,V1,*4,V,4,minor,35.0
+JOBIM,23,Eu e o meu amor,42,4,4,v1,*m.9,I,4,minor,36.0
+JOBIM,23,Eu e o meu amor,43,9,4,z1,*m6,IV,4,minor,37.0
+JOBIM,23,Eu e o meu amor,44,4,4,v0,*m,I,4,minor,38.0
+JOBIM,24,Eu sei que vou te amar,1,0,0,Z0,*M7,I,0,major,1.0
+JOBIM,24,Eu sei que vou te amar,2,3,3,x3,*°7(b13),bIII°,0,major,2.0
+JOBIM,24,Eu sei que vou te amar,3,2,2,z0,*m7,II,0,major,3.0
+JOBIM,24,Eu sei que vou te amar,4,3,3,x3,*°7(b13),V°/III,0,major,4.0
+JOBIM,24,Eu sei que vou te amar,5,4,4,z0,*m7,III,0,major,5.0
+JOBIM,24,Eu sei que vou te amar,6,4,4,Y4.1,*7(b13),V/VI,0,major,6.0
+JOBIM,24,Eu sei que vou te amar,7,5,5,Z0,*M7,IV,0,major,7.0
+JOBIM,24,Eu sei que vou te amar,8,5,5,w1.1,*mM7.9.11,IVm7,0,major,8.0
+JOBIM,24,Eu sei que vou te amar,9,4,4,z0,*m7,III,0,major,9.0
+JOBIM,24,Eu sei que vou te amar,10,11,3,Y0,*7,V/III,0,major,10.0
+JOBIM,24,Eu sei que vou te amar,11,2,2,z0,*m7,II,0,major,11.0
+JOBIM,24,Eu sei que vou te amar,12,7,7,W1.1,*4(#5)7.9,V,0,major,12.0
+JOBIM,24,Eu sei que vou te amar,13,4,4,Y4,*7.13,V/VI,0,major,13.0
+JOBIM,24,Eu sei que vou te amar,14,4,4,Y4.1,*7(b13),V/VI,0,major,13.5
+JOBIM,24,Eu sei que vou te amar,15,9,9,Y2,*7.9,V/II,0,major,14.0
+JOBIM,24,Eu sei que vou te amar,16,9,9,Y2.3,*7(b9),V/II,0,major,14.5
+JOBIM,24,Eu sei que vou te amar,17,2,2,Y0,*7,V/V,0,major,15.0
+JOBIM,24,Eu sei que vou te amar,18,7,7,W2.1,*(#5)7(b9),V,0,major,16.0
+JOBIM,24,Eu sei que vou te amar,19,0,0,Z0,*M7,I,0,major,17.0
+JOBIM,24,Eu sei que vou te amar,20,3,3,x0,*°7,bIII°,0,major,18.0
+JOBIM,24,Eu sei que vou te amar,21,2,2,z0,*m7,II,0,major,19.0
+JOBIM,24,Eu sei que vou te amar,22,6,3,x4,*°7.14,V°/V,0,major,20.0
+JOBIM,24,Eu sei que vou te amar,23,7,7,z0,*m7,II__X,0,major,21.0
+JOBIM,24,Eu sei que vou te amar,24,0,0,W1,*4(#5)7,V/IV,0,major,22.0
+JOBIM,24,Eu sei que vou te amar,25,5,5,Z0,*M7,IV,0,major,23.0
+JOBIM,24,Eu sei que vou te amar,26,5,5,w2,*mM711,IVm7,0,major,24.0
+JOBIM,24,Eu sei que vou te amar,27,0,4,Z0,*M7,I,0,major,25.0
+JOBIM,24,Eu sei que vou te amar,28,3,3,x3,*°7(b13),V°/III,0,major,26.0
+JOBIM,24,Eu sei que vou te amar,29,4,4,y0,*Ø,II__X,0,major,27.0
+JOBIM,24,Eu sei que vou te amar,30,9,9,Y2.3,*7(b9),V/II,0,major,28.0
+JOBIM,24,Eu sei que vou te amar,31,2,2,Y0,*7,V/V,0,major,29.0
+JOBIM,24,Eu sei que vou te amar,32,7,7,Y1.1,*4.7.9,V,0,major,30.0
+JOBIM,24,Eu sei que vou te amar,33,7,7,Y2.3,*7(b9),V,0,major,30.5
+JOBIM,24,Eu sei que vou te amar,34,2,6,Y0,*7,V/V,0,major,31.0
+JOBIM,24,Eu sei que vou te amar,35,5,5,z1,*m6,IVm7,0,major,31.5
+JOBIM,24,Eu sei que vou te amar,36,0,4,V0,*,I,0,major,32.0
+JOBIM,24,Eu sei que vou te amar,37,0,3,v0,*m,Im7,0,major,32.5
+JOBIM,24,Eu sei que vou te amar,38,2,2,v0,*m,II,0,major,33.0
+JOBIM,24,Eu sei que vou te amar,39,7,7,Y4,*7.13,V,0,major,34.0
+JOBIM,24,Eu sei que vou te amar,40,7,7,W2.2,*(#5)7(#9),V,0,major,34.5
+JOBIM,24,Eu sei que vou te amar,41,0,0,Z1.1,*6.9,I,0,major,35.0
+JOBIM,25,Faz uma semana,1,0,0,Z2,*M7.9,I,0,major,1.0
+JOBIM,25,Faz uma semana,2,7,7,Y4.1,*7(b13),V,0,major,2.0
+JOBIM,25,Faz uma semana,3,0,0,z2,*m7.9,II,10,major,3.0
+JOBIM,25,Faz uma semana,4,5,5,Y2.3,*7(b9),V,10,major,4.0
+JOBIM,25,Faz uma semana,5,11,11,Y0,*7,SubV,10,major,4.5
+JOBIM,25,Faz uma semana,6,10,10,Z5,*6.M7,I,10,major,5.0
+JOBIM,25,Faz uma semana,7,5,5,W0,*(#5)7,V,10,major,6.0
+JOBIM,25,Faz uma semana,8,10,10,z2,*m7.9,II,8,major,7.0
+JOBIM,25,Faz uma semana,9,10,10,z1.1,*m6.9,II,8,major,8.0
+JOBIM,25,Faz uma semana,10,9,9,Y2.4,*7(#9),SubV,8,major,8.5
+JOBIM,25,Faz uma semana,11,8,8,Z0,*M7,I,8,major,9.0
+JOBIM,25,Faz uma semana,12,2,2,z0,*m7,II,0,major,10.0
+JOBIM,25,Faz uma semana,13,7,7,Y1,*4.7,V,0,major,10.5
+JOBIM,25,Faz uma semana,14,7,7,Y2.3,*7(b9),V,0,major,11.0
+JOBIM,25,Faz uma semana,15,0,0,Z0,*M7,I,0,major,12.0
+JOBIM,25,Faz uma semana,16,0,0,Z1,*6,I,0,major,13.0
+JOBIM,25,Faz uma semana,17,6,6,z2,*m7.9,II,4,major,14.0
+JOBIM,25,Faz uma semana,18,6,6,z1,*m6,II,4,major,14.5
+JOBIM,25,Faz uma semana,19,11,11,Y1.1,*4.7.9,V,4,major,15.0
+JOBIM,25,Faz uma semana,20,11,11,Y2.3,*7(b9),V,4,major,15.5
+JOBIM,25,Faz uma semana,21,4,4,Z2,*M7.9,I,4,major,16.0
+JOBIM,25,Faz uma semana,22,7,7,Y1.1,*4.7.9,V,0,major,17.0
+JOBIM,25,Faz uma semana,23,7,7,Y0,*7,V,0,major,17.5
+JOBIM,25,Faz uma semana,24,1,1,Y2,*7.9,SubV,0,major,18.0
+JOBIM,25,Faz uma semana,25,0,0,z0,*m7,I,0,minor,19.0
+JOBIM,25,Faz uma semana,26,5,5,z0,*m7,IV,0,minor,20.0
+JOBIM,25,Faz uma semana,27,0,0,z0,*m7,I,0,minor,21.0
+JOBIM,25,Faz uma semana,28,1,1,Y2.4,*7(#9),SubV,0,minor,22.5
+JOBIM,25,Faz uma semana,29,0,0,Z0,*M7,I,0,major,23.0
+JOBIM,25,Faz uma semana,30,5,5,V0,*,IV,0,major,24.0
+JOBIM,25,Faz uma semana,31,5,5,v0,*m,IVm7,0,major,24.5
+JOBIM,25,Faz uma semana,32,0,0,Z0,*M7,I,0,major,25.0
+JOBIM,25,Faz uma semana,33,0,0,Z1,*6,I,0,major,25.5
+JOBIM,25,Faz uma semana,34,0,0,Y0,*7,V/IV,0,major,26.0
+JOBIM,25,Faz uma semana,35,0,0,z0,*m7,Im7,0,major,27.0
+JOBIM,25,Faz uma semana,36,5,5,V0,*,IV,0,major,28.0
+JOBIM,25,Faz uma semana,37,7,7,Y2.3,*7(b9),V,0,major,28.5
+JOBIM,25,Faz uma semana,38,0,0,z0,*m7,I,1,major,29.0
+JOBIM,25,Faz uma semana,39,2,2,Y2.3,*7(b9),V/V,1,major,31.0
+JOBIM,25,Faz uma semana,40,8,8,Y0,*7,SubV/V,1,major,32.0
+JOBIM,25,Faz uma semana,41,9,9,x0,*°7,V°/V,1,major,33.0
+JOBIM,25,Faz uma semana,42,8,8,Y0,*7,SubV/V,1,major,33.5
+JOBIM,25,Faz uma semana,43,7,7,Y1.1,*4.7.9,V,1,major,34.0
+JOBIM,25,Faz uma semana,44,3,7,Z0,*M7,III,1,major,34.5
+JOBIM,25,Faz uma semana,45,7,7,Y1.1,*4.7.9,V,1,major,34.75
+JOBIM,25,Faz uma semana,46,7,7,Y0,*7,V,1,major,35.0
+JOBIM,25,Faz uma semana,47,1,1,Y2.1.3,*7(#9.#11),SubV,1,major,35.5
+JOBIM,26,Garota de Ipanema,1,5,5,Z2,*M7.9,I,5,major,1.0
+JOBIM,26,Garota de Ipanema,2,7,7,Y2.2,*7.9.13,V/V,5,major,3.0
+JOBIM,26,Garota de Ipanema,3,7,7,z2,*m7.9,II,5,major,5.0
+JOBIM,26,Garota de Ipanema,4,6,6,Y2,*7.9,SubV,5,major,6.0
+JOBIM,26,Garota de Ipanema,5,5,5,Z2,*M7.9,I,5,major,7.0
+JOBIM,26,Garota de Ipanema,6,6,6,Y2.1,*7.9(#11),SubV,5,major,8.0
+JOBIM,26,Garota de Ipanema,7,5,5,Z2,*M7.9,I,5,major,9.0
+JOBIM,26,Garota de Ipanema,8,7,7,Y2.2,*7.9.13,V/V,5,major,11.0
+JOBIM,26,Garota de Ipanema,9,7,7,z2,*m7.9,II,5,major,13.0
+JOBIM,26,Garota de Ipanema,10,6,6,Y2,*7.9,SubV,5,major,14.0
+JOBIM,26,Garota de Ipanema,11,5,5,Z2,*M7.9,I,5,major,15.0
+JOBIM,26,Garota de Ipanema,12,6,6,Z0,*M7,I,6,major,17.0
+JOBIM,26,Garota de Ipanema,13,6,6,Z1,*6,I,6,major,18.5
+JOBIM,26,Garota de Ipanema,14,11,11,Y2,*7.9,IV7,6,major,19.0
+JOBIM,26,Garota de Ipanema,15,6,6,z2,*m7.9,VI,9,major,21.0
+JOBIM,26,Garota de Ipanema,16,2,2,Y2,*7.9,IV7,9,major,23.0
+JOBIM,26,Garota de Ipanema,17,7,7,z2,*m7.9,VI,10,major,25.0
+JOBIM,26,Garota de Ipanema,18,3,3,Y2,*7.9,IV7,10,major,27.0
+JOBIM,26,Garota de Ipanema,19,9,9,z0,*m7,II__X,5,major,28.0
+JOBIM,26,Garota de Ipanema,20,2,2,Y2.3,*7(b9),V/II,5,major,29.0
+JOBIM,26,Garota de Ipanema,21,7,7,z0,*m7,II,5,major,30.0
+JOBIM,26,Garota de Ipanema,22,0,0,Y2.3,*7(b9),V,5,major,31.0
+JOBIM,26,Garota de Ipanema,23,5,5,Z2,*M7.9,I,5,major,32.0
+JOBIM,26,Garota de Ipanema,24,7,7,Y4,*7.13,V/V,5,major,34.0
+JOBIM,26,Garota de Ipanema,25,7,7,Y3,*7(#11),V/V,5,major,34.5
+JOBIM,26,Garota de Ipanema,26,7,7,Y4,*7.13,V/V,5,major,35.0
+JOBIM,26,Garota de Ipanema,27,7,7,Y3,*7(#11),V/V,5,major,35.5
+JOBIM,26,Garota de Ipanema,28,7,7,z2,*m7.9,II,5,major,36.0
+JOBIM,26,Garota de Ipanema,29,6,6,Y2,*7.9,SubV,5,major,37.0
+JOBIM,26,Garota de Ipanema,30,5,5,Z0,*M7,I,5,major,38.0
+JOBIM,26,Garota de Ipanema,31,6,6,Y3,*7(#11),SubV,5,major,39.0
+JOBIM,26,Garota de Ipanema,32,5,5,Z0,*M7,I,5,major,40.0
+JOBIM,26,Garota de Ipanema,33,6,6,Y3,*7(#11),SubV,5,major,41.0
+JOBIM,26,Garota de Ipanema,34,5,5,Z1.2,*6(#11),I,5,major,42.0
+JOBIM,26,Garota de Ipanema,35,5,5,Z5.1,*6.M7.9,I,5,major,43.0
+JOBIM,27,Incerteza,1,7,7,v2,*m.11,VI,3,major,1.0
+JOBIM,27,Incerteza,2,6,6,x0,*°7,bIII°,3,major,2.0
+JOBIM,27,Incerteza,3,5,5,z3,*m7.11,II,3,major,3.0
+JOBIM,27,Incerteza,4,10,10,Y2,*7.9,V,3,major,4.0
+JOBIM,27,Incerteza,5,7,7,v2,*m.11,VI,3,major,5.0
+JOBIM,27,Incerteza,6,6,6,x0,*°7,bIII°,3,major,6.0
+JOBIM,27,Incerteza,7,5,5,z3,*m7.11,II,3,major,7.0
+JOBIM,27,Incerteza,8,10,10,Y2,*7.9,V,3,major,7.5
+JOBIM,27,Incerteza,9,10,10,Y1.1,*4.7.9,V,3,major,8.0
+JOBIM,27,Incerteza,10,10,10,Y0,*7,V,3,major,8.5
+JOBIM,27,Incerteza,11,10,10,z2,*m7.9,II__X,3,major,9.0
+JOBIM,27,Incerteza,12,3,3,Y2.2,*7.9.13,V/IV,3,major,10.0
+JOBIM,27,Incerteza,13,8,8,Z2,*M7.9,IV,3,major,11.0
+JOBIM,27,Incerteza,14,1,1,Y1.1,*4.7.9,bVII7,3,major,12.0
+JOBIM,27,Incerteza,15,7,7,Y4.1,*7(b13),V/VI,3,major,12.5
+JOBIM,27,Incerteza,16,0,0,z0,*m7,VI,3,major,13.0
+JOBIM,27,Incerteza,17,3,3,Y0,*7,V/IV,3,major,13.5
+JOBIM,27,Incerteza,18,0,0,z1,*m6,VI,3,major,14.0
+JOBIM,27,Incerteza,19,5,11,x0,*°7,V°,3,major,14.5
+JOBIM,27,Incerteza,20,3,3,Z2,*M7.9,I,3,major,15.0
+JOBIM,27,Incerteza,21,9,9,z0,*m7,II,7,major,16.0
+JOBIM,27,Incerteza,22,2,2,Y0,*7,V,7,major,16.5
+JOBIM,27,Incerteza,23,7,7,Z0,*M7,I,7,major,17.0
+JOBIM,27,Incerteza,24,9,7,z2,*m7.9,II,7,major,19.0
+JOBIM,27,Incerteza,25,9,7,y0,*Ø,IIm7(b5),7,major,19.5
+JOBIM,27,Incerteza,26,7,7,Z0,*M7,I,3,major,20.0
+JOBIM,27,Incerteza,27,10,2,V0,*,V,3,major,21.0
+JOBIM,27,Incerteza,28,3,3,Z1.2,*6(#11),I,3,major,22.0
+JOBIM,27,Incerteza,29,5,5,Y2,*7.9,V/V,3,major,23.0
+JOBIM,27,Incerteza,30,10,10,Y0,*7,V,3,major,24.0
+JOBIM,27,Incerteza,31,10,10,z2,*m7.9,II__X,3,major,25.0
+JOBIM,27,Incerteza,32,3,3,Y2.2,*7.9.13,V/IV,3,major,26.0
+JOBIM,27,Incerteza,33,10,10,Y1.1,*4.7.9,V,3,major,26.5
+JOBIM,27,Incerteza,34,8,8,Z0,*M7,IV,3,major,27.0
+JOBIM,27,Incerteza,35,1,1,Y1.1.2,*4.7.9.13,bVII7,3,major,28.0
+JOBIM,27,Incerteza,36,7,7,Y4.1,*7(b13),V/VI,3,major,28.5
+JOBIM,27,Incerteza,37,0,0,z0,*m7,VI,3,major,29.0
+JOBIM,27,Incerteza,38,3,3,Y0,*7,V/IV,3,major,29.5
+JOBIM,27,Incerteza,39,0,0,z1,*m6,VI,3,major,30.0
+JOBIM,27,Incerteza,40,5,11,x0,*°7,V°/V,3,major,30.5
+JOBIM,27,Incerteza,41,3,3,Y2,*7.9,V/IV,3,major,31.0
+JOBIM,27,Incerteza,42,0,0,Y0,*7,V/II,3,major,32.0
+JOBIM,27,Incerteza,43,5,5,x0,*°7,II,3,major,33.0
+JOBIM,27,Incerteza,44,10,10,Y2.3,*7(b9),V,3,major,34.0
+JOBIM,27,Incerteza,45,1,5,Y0,*7,bVII7,3,major,35.0
+JOBIM,27,Incerteza,46,3,3,v2,*m.11,Im7,3,major,35.5
+JOBIM,27,Incerteza,47,3,10,V0,*,I,3,major,36.0
+JOBIM,27,Incerteza,48,3,3,Z5,*6.M7,I,3,major,37.0
+JOBIM,28,Insensatez,1,11,11,v0,*m,I,11,minor,1.0
+JOBIM,28,Insensatez,2,10,10,x0,*°7,V°,11,minor,3.0
+JOBIM,28,Insensatez,3,9,9,z1,*m6,II__X,11,minor,5.0
+JOBIM,28,Insensatez,4,2,2,Y0,*7,V/VI,11,minor,6.0
+JOBIM,28,Insensatez,5,4,8,Y2,*7.9,IV7,11,minor,7.0
+JOBIM,28,Insensatez,6,7,7,Z1,*6,VI,11,minor,8.0
+JOBIM,28,Insensatez,7,0,0,Z2,*M7.9,SubV,11,minor,10.0
+JOBIM,28,Insensatez,8,1,1,y0,*Ø,II,11,minor,12.0
+JOBIM,28,Insensatez,9,6,6,Y2.3,*7(b9),V,11,minor,13.0
+JOBIM,28,Insensatez,10,11,11,z2,*m7.9,I,11,minor,14.0
+JOBIM,28,Insensatez,11,2,9,Y0,*7,V/VI,11,minor,15.0
+JOBIM,28,Insensatez,12,5,8,x0,*°7,IV° [pass],11,minor,17.0
+JOBIM,28,Insensatez,13,4,4,z2.1,*m7.9.11,IV,11,minor,19.0
+JOBIM,28,Insensatez,14,6,6,Y1.1.3,*4.7(b9),V,11,minor,20.0
+JOBIM,28,Insensatez,15,11,11,v0,*m,I,11,minor,21.0
+JOBIM,28,Insensatez,16,11,11,z0,*m7,I,11,minor,22.0
+JOBIM,28,Insensatez,17,2,9,Y0,*7,V/III,11,minor,23.0
+JOBIM,28,Insensatez,18,1,8,Y0,*7,V/V,11,minor,25.0
+JOBIM,28,Insensatez,19,4,7,z1,*m6,IV,11,minor,27.0
+JOBIM,28,Insensatez,20,6,6,Y2.3,*7(b9),V,11,minor,28.0
+JOBIM,28,Insensatez,21,7,7,Z0,*M7,VI,11,minor,29.0
+JOBIM,28,Insensatez,22,4,4,z0,*m7,IV,11,minor,30.0
+JOBIM,29,Janelas abertas,1,9,9,Z0,*M7,I,9,major,1.0
+JOBIM,29,Janelas abertas,2,4,4,z0,*m7,II__X,9,major,2.0
+JOBIM,29,Janelas abertas,3,9,9,Y4,*7.13,V/IV,9,major,2.5
+JOBIM,29,Janelas abertas,4,2,2,w0,*mM7,IVm7,9,major,3.0
+JOBIM,29,Janelas abertas,5,9,9,Y2,*7.9,I,9,major,4.0
+JOBIM,29,Janelas abertas,6,9,9,Y0,*7,I,9,major,5.0
+JOBIM,29,Janelas abertas,7,1,1,z0,*m7,III,9,major,6.0
+JOBIM,29,Janelas abertas,8,0,0,z0,*m7,bIIIm7,9,major,6.5
+JOBIM,29,Janelas abertas,9,11,11,z0,*m7,II,9,major,7.0
+JOBIM,29,Janelas abertas,10,7,7,z1,*m6,bVIIm7,9,major,7.5
+JOBIM,29,Janelas abertas,11,11,11,z0,*m7,II,9,major,8.0
+JOBIM,29,Janelas abertas,12,6,6,Y2.3,*7(b9),V/VI,9,major,8.5
+JOBIM,29,Janelas abertas,13,11,11,z0,*m7,II,9,major,9.0
+JOBIM,29,Janelas abertas,14,6,6,Y2.3,*7(b9),V/VI,9,major,9.5
+JOBIM,29,Janelas abertas,15,11,11,z0,*m7,II,9,major,10.0
+JOBIM,29,Janelas abertas,16,2,5,v0,*m,IVm7,9,major,12.0
+JOBIM,29,Janelas abertas,17,4,4,Y0,*7,V,9,major,13.0
+JOBIM,29,Janelas abertas,18,11,11,z0,*m7,II,9,major,14.0
+JOBIM,29,Janelas abertas,19,4,4,W0,*(#5)7,V,9,major,14.5
+JOBIM,29,Janelas abertas,20,1,1,Y4,*7.13,V/VI,9,major,15.0
+JOBIM,29,Janelas abertas,21,6,6,Y2.3,*7(b9),V/II,9,major,15.5
+JOBIM,29,Janelas abertas,22,11,11,Y4,*7.13,V/V,9,major,16.0
+JOBIM,29,Janelas abertas,23,4,4,Y2.3,*7(b9),V,9,major,16.5
+JOBIM,29,Janelas abertas,24,9,9,Z0,*M7,I,9,major,17.0
+JOBIM,29,Janelas abertas,25,4,4,z0,*m7,II__X,9,major,18.0
+JOBIM,29,Janelas abertas,26,9,9,Y4,*7.13,V/IV,9,major,18.5
+JOBIM,29,Janelas abertas,27,2,2,w0,*mM7,IVm7,9,major,19.0
+JOBIM,29,Janelas abertas,28,9,9,Y2,*7.9,I,9,major,20.0
+JOBIM,29,Janelas abertas,29,9,9,Y0,*7,I,9,major,21.0
+JOBIM,29,Janelas abertas,30,1,1,z0,*m7,III,9,major,22.0
+JOBIM,29,Janelas abertas,31,0,0,z0,*m7,bIIIm7,9,major,22.5
+JOBIM,29,Janelas abertas,32,11,11,z0,*m7,II,9,major,23.0
+JOBIM,29,Janelas abertas,33,7,7,z1,*m6,bVIIm7,9,major,23.5
+JOBIM,29,Janelas abertas,34,11,11,z0,*m7,II,9,major,24.0
+JOBIM,29,Janelas abertas,35,6,6,Y2.3,*7(b9),V/VI,9,major,24.5
+JOBIM,29,Janelas abertas,36,2,2,Z0,*M7,IV,9,major,25.0
+JOBIM,29,Janelas abertas,37,3,3,x3,*°7(b13),V°/III,9,major,26.0
+JOBIM,29,Janelas abertas,38,1,1,z0,*m7,III,9,major,27.0
+JOBIM,29,Janelas abertas,39,6,6,z0,*m7,VI,9,major,28.0
+JOBIM,29,Janelas abertas,40,6,6,Y0,*7,V/II,9,major,28.5
+JOBIM,29,Janelas abertas,41,11,11,Y4,*7.13,V/V,9,major,29.0
+JOBIM,29,Janelas abertas,42,11,11,Y4.1,*7(b13),V/V,9,major,29.5
+JOBIM,29,Janelas abertas,43,4,4,Y1.1,*4.7.9,V,9,major,30.0
+JOBIM,29,Janelas abertas,44,4,4,Y2.3,*7(b9),V,9,major,30.5
+JOBIM,29,Janelas abertas,45,5,5,Z2,*M7.9,bVI7M,9,major,31.0
+JOBIM,29,Janelas abertas,46,2,2,z2.1,*m7.9.11,IVm7,9,major,32.0
+JOBIM,29,Janelas abertas,47,9,9,Z0,*M7,I,9,major,33.0
+JOBIM,30,Lamento no morro,1,9,9,z0,*m7,I,9,minor,1.0
+JOBIM,30,Lamento no morro,2,2,2,z0,*m7,II__X,9,minor,2.0
+JOBIM,30,Lamento no morro,3,7,7,Y4,*7.13,V/III,9,minor,2.5
+JOBIM,30,Lamento no morro,4,0,0,Z2,*M7.9,III,9,minor,3.0
+JOBIM,30,Lamento no morro,5,0,0,Y2.3,*7(b9),V/VI,9,minor,4.0
+JOBIM,30,Lamento no morro,6,5,5,Z0,*M7,VI,9,minor,5.0
+JOBIM,30,Lamento no morro,7,2,2,z0,*m7,IV,9,minor,6.0
+JOBIM,30,Lamento no morro,8,2,2,Y0,*7,IV7,9,minor,8.0
+JOBIM,30,Lamento no morro,9,9,9,z0,*m7,I,9,minor,9.0
+JOBIM,30,Lamento no morro,10,2,2,z0,*m7,II__X,9,minor,10.0
+JOBIM,30,Lamento no morro,11,7,7,Y4,*7.13,V/III,9,minor,10.5
+JOBIM,30,Lamento no morro,12,0,0,Z2,*M7.9,III,9,minor,11.0
+JOBIM,30,Lamento no morro,13,0,0,Y2.3,*7(b9),V/VI,9,minor,12.0
+JOBIM,30,Lamento no morro,14,5,5,Z0,*M7,VI,9,minor,13.0
+JOBIM,30,Lamento no morro,15,2,2,z0,*m7,IV,9,minor,14.0
+JOBIM,30,Lamento no morro,16,9,9,z0,*m7,I,9,minor,15.0
+JOBIM,30,Lamento no morro,17,2,2,z2,*m7.9,IV,9,minor,17.0
+JOBIM,30,Lamento no morro,18,4,4,Y2.3,*7(b9),V,9,minor,18.0
+JOBIM,30,Lamento no morro,19,9,9,z0,*m7,I,9,minor,19.0
+JOBIM,30,Lamento no morro,20,2,2,z2,*m7.9,IV,9,minor,20.0
+JOBIM,30,Lamento no morro,21,7,7,W0,*(#5)7,V/III,9,minor,21.0
+JOBIM,30,Lamento no morro,22,0,0,Z0,*M7,III,9,minor,22.0
+JOBIM,30,Lamento no morro,23,5,0,Y0,*7,SubV/V,9,minor,24.0
+JOBIM,30,Lamento no morro,24,4,11,V0,*,V,9,minor,25.0
+JOBIM,30,Lamento no morro,25,4,4,Y0,*7,V,9,minor,26.5
+JOBIM,30,Lamento no morro,26,9,9,z0,*m7,I,9,minor,27.0
+JOBIM,30,Lamento no morro,27,5,5,V0,*,VI,9,minor,29.0
+JOBIM,30,Lamento no morro,28,2,2,z0,*m7,IV,9,minor,30.0
+JOBIM,30,Lamento no morro,29,4,4,X0,*(b5)7,V,9,minor,31.0
+JOBIM,30,Lamento no morro,30,9,9,z0,*m7,I,9,minor,33.0
+JOBIM,30,Lamento no morro,31,2,2,z2,*m7.9,IV,9,minor,33.5
+JOBIM,30,Lamento no morro,32,7,7,Z1,*6,bVII7M,9,minor,34.0
+JOBIM,30,Lamento no morro,33,0,0,Z2,*M7.9,III,9,minor,35.0
+JOBIM,30,Lamento no morro,34,7,7,z2,*m7.9,II__X,9,minor,35.5
+JOBIM,30,Lamento no morro,35,0,0,Y2.3,*7(b9),V/VI,9,minor,36.0
+JOBIM,30,Lamento no morro,36,5,5,x2,*°7.11,VI,9,minor,37.0
+JOBIM,30,Lamento no morro,37,2,2,z0,*m7,IV,9,minor,38.0
+JOBIM,30,Lamento no morro,38,9,9,z0,*m7,I,9,minor,39.0
+JOBIM,30,Lamento no morro,39,2,2,Y0,*7,IV7,9,minor,40.0
+JOBIM,30,Lamento no morro,40,9,9,z0,*m7,I,9,minor,41.0
+JOBIM,30,Lamento no morro,41,5,5,Y0,*7,SubV/V,9,minor,42.0
+JOBIM,30,Lamento no morro,42,9,9,v0,*m,I,9,minor,43.0
+JOBIM,31,Ligia,1,2,2,z2,*m7.9,II,0,major,1.0
+JOBIM,31,Ligia,2,7,5,W2,*(#5)7.9,V,0,major,2.0
+JOBIM,31,Ligia,3,4,4,z2,*m7.9,III,0,major,3.0
+JOBIM,31,Ligia,4,3,3,x2.1,*°7.11(b13),bIII°,0,major,4.0
+JOBIM,31,Ligia,5,2,2,y1,*Ø.9,IIm7(b5),0,major,5.0
+JOBIM,31,Ligia,6,7,7,Y1.1,*4.7.9,V,0,major,6.0
+JOBIM,31,Ligia,7,4,4,Y1.1,*4.7.9,V/VI,0,major,7.0
+JOBIM,31,Ligia,8,4,4,X2.1,*(b5)7(b9),V/VI,0,major,8.0
+JOBIM,31,Ligia,9,5,5,Z0,*M7,IV,0,major,9.0
+JOBIM,31,Ligia,10,6,6,x0,*°7,V°/V,0,major,10.0
+JOBIM,31,Ligia,11,4,7,v0,*m,III,0,major,11.0
+JOBIM,31,Ligia,12,9,9,z1,*m6,VI,0,major,12.0
+JOBIM,31,Ligia,13,6,6,y0,*Ø,II__X,0,major,13.0
+JOBIM,31,Ligia,14,11,11,Y4.1,*7(b13),V/III,0,major,14.0
+JOBIM,31,Ligia,15,4,4,Z2,*M7.9,IIIM7,0,major,15.0
+JOBIM,31,Ligia,16,4,4,Y2,*7.9,V/VI,0,major,15.25
+JOBIM,31,Ligia,17,9,9,W2,*(#5)7.9,V/II,0,major,15.5
+JOBIM,31,Ligia,18,2,2,z2,*m7.9,II,0,major,16.0
+JOBIM,31,Ligia,19,1,1,Y1.1.2.1,*4.7.9(b13),SubV,0,major,17.0
+JOBIM,32,Luar e batucada,1,9,9,Z2,*M7.9,I,9,major,1.0
+JOBIM,32,Luar e batucada,2,2,2,Y2.2,*7.9.13,IV7,9,major,3.0
+JOBIM,32,Luar e batucada,3,7,7,Z5,*6.M7,bVII7M,9,major,5.0
+JOBIM,32,Luar e batucada,4,1,1,y2,*Ø.11,II__X,9,major,7.0
+JOBIM,32,Luar e batucada,5,6,6,Y0,*7,V/II,9,major,7.5
+JOBIM,32,Luar e batucada,6,1,1,y2,*Ø.11,II__X,9,major,8.0
+JOBIM,32,Luar e batucada,7,6,6,Y0,*7,V/II,9,major,8.5
+JOBIM,32,Luar e batucada,8,11,11,v0,*m,II,9,major,9.0
+JOBIM,32,Luar e batucada,9,11,11,Y0,*7,V/V,9,major,11.0
+JOBIM,32,Luar e batucada,10,4,4,Y2.3,*7(b9),V,9,major,12.0
+JOBIM,32,Luar e batucada,11,9,9,Z0,*M7,I,9,major,13.0
+JOBIM,32,Luar e batucada,12,9,9,x0,*°7,V°/II,9,major,14.0
+JOBIM,32,Luar e batucada,13,11,11,z3,*m7.11,II,9,major,15.0
+JOBIM,32,Luar e batucada,14,4,4,Y2,*7.9,V,9,major,16.0
+JOBIM,32,Luar e batucada,15,9,9,Z2,*M7.9,I,9,major,17.0
+JOBIM,32,Luar e batucada,16,2,2,Y2.2,*7.9.13,IV7,9,major,19.0
+JOBIM,32,Luar e batucada,17,7,7,Z5,*6.M7,bVII7M,9,major,21.0
+JOBIM,32,Luar e batucada,18,6,6,Y0,*7,V/II,9,major,23.0
+JOBIM,32,Luar e batucada,19,11,11,v0,*m,II,9,major,25.0
+JOBIM,32,Luar e batucada,20,4,4,Y0,*7,V,9,major,26.0
+JOBIM,32,Luar e batucada,21,9,9,Z0,*M7,I,9,major,27.0
+JOBIM,32,Luar e batucada,22,0,0,z0,*m7,II__X,9,major,28.0
+JOBIM,32,Luar e batucada,23,5,5,Y0,*7,SubV/V,9,major,28.5
+JOBIM,32,Luar e batucada,24,11,11,z3,*m7.11,II,9,major,29.0
+JOBIM,32,Luar e batucada,25,10,10,Y0,*7,SubV,9,major,30.0
+JOBIM,32,Luar e batucada,26,9,9,V0,*,I,9,major,31.0
+JOBIM,32,Luar e batucada,27,8,8,Y4,*7.13,V/III,9,major,32.0
+JOBIM,32,Luar e batucada,28,1,1,v0,*m,III,9,major,33.0
+JOBIM,32,Luar e batucada,29,2,2,V0,*,IV,9,major,35.0
+JOBIM,32,Luar e batucada,30,3,3,Y0,*7,SubV/IV,9,major,37.0
+JOBIM,32,Luar e batucada,31,1,1,Z0,*M7,IIIM7,9,major,39.0
+JOBIM,32,Luar e batucada,32,4,4,V0,*,V,9,major,41.0
+JOBIM,32,Luar e batucada,33,5,5,V0,*,bVI7M,9,major,43.0
+JOBIM,32,Luar e batucada,34,6,6,V0,*,V/II,9,major,45.0
+JOBIM,32,Luar e batucada,35,6,6,Y0,*7,V/II,9,major,46.0
+JOBIM,32,Luar e batucada,36,11,11,z0,*m7,II,9,major,47.0
+JOBIM,32,Luar e batucada,37,4,4,Y0,*7,V,9,major,48.0
+JOBIM,32,Luar e batucada,38,9,9,Z2,*M7.9,I,9,major,49.0
+JOBIM,32,Luar e batucada,39,2,2,Y2.2,*7.9.13,IV7,9,major,50.0
+JOBIM,32,Luar e batucada,40,7,7,Z5,*6.M7,bVII7M,9,major,51.0
+JOBIM,32,Luar e batucada,41,1,1,y2,*Ø.11,II__X,9,major,52.0
+JOBIM,32,Luar e batucada,42,6,6,Y0,*7,V/II,9,major,53.0
+JOBIM,32,Luar e batucada,43,1,1,y2,*Ø.11,II__X,9,major,54.0
+JOBIM,32,Luar e batucada,44,6,6,Y0,*7,V/II,9,major,55.0
+JOBIM,32,Luar e batucada,45,11,11,v0,*m,II,9,major,56.0
+JOBIM,32,Luar e batucada,46,11,11,Y0,*7,V/V,9,major,57.0
+JOBIM,32,Luar e batucada,47,4,4,Y2.3,*7(b9),V,9,major,58.0
+JOBIM,32,Luar e batucada,48,9,9,Z0,*M7,I,9,major,59.0
+JOBIM,32,Luar e batucada,49,9,9,x0,*°7,V°/II,9,major,60.0
+JOBIM,32,Luar e batucada,50,4,4,Y0,*7,V,9,major,61.0
+JOBIM,32,Luar e batucada,51,9,9,Z0,*M7,I,9,major,62.0
+JOBIM,32,Luar e batucada,52,2,2,Y2.1,*7.9(#11),IV7,9,major,64.0
+JOBIM,32,Luar e batucada,53,7,7,Z0,*M7,bVII7M,9,major,66.0
+JOBIM,32,Luar e batucada,54,0,0,Y2.1,*7.9(#11),SubV/II,9,major,68.0
+JOBIM,32,Luar e batucada,55,11,11,z0,*m7,II,9,major,70.0
+JOBIM,32,Luar e batucada,56,2,2,z0,*m7,IVm7,9,major,74.0
+JOBIM,32,Luar e batucada,57,4,4,Y0,*7,V,9,major,75.0
+JOBIM,32,Luar e batucada,58,9,9,Z0,*M7,I,9,major,76.0
+JOBIM,33,Luiza,1,0,0,w1,*mM7.9,I,0,minor,1.0
+JOBIM,33,Luiza,2,0,0,z0,*m7,I,0,minor,2.0
+JOBIM,33,Luiza,3,5,5,Y4,*7.13,IV7,0,minor,3.0
+JOBIM,33,Luiza,4,7,7,Y2.3,*7(b9),V,0,minor,4.0
+JOBIM,33,Luiza,5,0,0,z2,*m7.9,I,0,minor,5.0
+JOBIM,33,Luiza,6,5,5,Y4,*7.13,IV7,0,minor,6.0
+JOBIM,33,Luiza,7,5,5,v0,*m,IV,0,minor,7.0
+JOBIM,33,Luiza,8,10,1,x1,*°7.9,V°/IV,0,minor,8.0
+JOBIM,33,Luiza,9,0,0,Y0,*7,V/IV,0,minor,8.5
+JOBIM,33,Luiza,10,5,5,w0,*mM7,IV,0,minor,9.0
+JOBIM,33,Luiza,11,5,5,z0,*m7,IV,0,minor,9.5
+JOBIM,33,Luiza,12,10,10,Y2,*7.9,V/III,0,minor,10.0
+JOBIM,33,Luiza,13,3,3,Z0,*M7,III,0,minor,11.0
+JOBIM,33,Luiza,14,2,2,y0,*Ø,II,0,minor,13.0
+JOBIM,33,Luiza,15,7,7,Y2.3,*7(b9),V,0,minor,14.0
+JOBIM,33,Luiza,16,0,0,Z2,*M7.9,I,0,major,15.0
+JOBIM,33,Luiza,17,5,5,y0,*Ø,IV,0,minor,16.0
+JOBIM,33,Luiza,18,5,5,z0,*m7,IV,0,minor,16.5
+JOBIM,33,Luiza,19,10,10,Y2,*7.9,V/III,0,minor,17.0
+JOBIM,33,Luiza,20,3,3,Z5,*6.M7,III,0,minor,18.0
+JOBIM,33,Luiza,21,0,0,z2,*m7.9,I,0,minor,19.0
+JOBIM,33,Luiza,22,2,2,Y2.3,*7(b9),V/V,0,minor,20.0
+JOBIM,33,Luiza,23,2,2,z2,*m7.9,II,0,minor,22.0
+JOBIM,33,Luiza,24,1,1,Y2.1,*7.9(#11),SubV,0,minor,23.0
+JOBIM,33,Luiza,25,0,0,y1,*Ø.9,I,0,minor,24.0
+JOBIM,33,Luiza,26,0,0,z0,*m7,I,0,minor,24.5
+JOBIM,33,Luiza,27,5,5,Y4,*7.13,IV7,0,minor,25.0
+JOBIM,33,Luiza,28,5,5,v0,*m,IV,0,minor,26.0
+JOBIM,33,Luiza,29,7,7,Y2.3,*7(b9),V,0,minor,27.0
+JOBIM,33,Luiza,30,0,0,z2,*m7.9,I,0,minor,28.0
+JOBIM,33,Luiza,31,5,5,Y4,*7.13,IV7,0,minor,29.0
+JOBIM,33,Luiza,32,5,5,v0,*m,IV,0,minor,30.0
+JOBIM,33,Luiza,33,10,1,x1,*°7.9,V°/IV,0,minor,31.0
+JOBIM,33,Luiza,34,0,0,Y0,*7,V/IV,0,minor,31.5
+JOBIM,33,Luiza,35,5,5,y0,*Ø,IV,0,minor,32.0
+JOBIM,33,Luiza,36,5,5,z0,*m7,IV,0,minor,32.5
+JOBIM,33,Luiza,37,10,10,Y2,*7.9,V/III,0,minor,33.0
+JOBIM,33,Luiza,38,3,3,Y1.1,*4.7.9,V/VI,0,minor,34.0
+JOBIM,33,Luiza,39,3,3,Y2.3,*7(b9),V/VI,0,minor,35.0
+JOBIM,33,Luiza,40,8,8,V4,*(#5),VI,0,minor,36.0
+JOBIM,33,Luiza,41,5,5,v0,*m,IV,0,minor,37.0
+JOBIM,33,Luiza,42,0,3,v0,*m,I,0,minor,37.5
+JOBIM,33,Luiza,43,2,2,X2.1,*(b5)7(b9),V/V,0,minor,38.0
+JOBIM,33,Luiza,44,7,7,Y2.3,*7(b9),V,0,minor,39.0
+JOBIM,33,Luiza,45,8,8,Z0,*M7,VI,0,minor,40.0
+JOBIM,33,Luiza,46,5,5,z0,*m7,IV,0,minor,42.0
+JOBIM,33,Luiza,47,7,7,z0,*m7,Vm7,0,minor,45.0
+JOBIM,33,Luiza,48,4,7,v0,*m,III,0,major,45.5
+JOBIM,33,Luiza,49,1,1,Y2,*7.9,SubV,0,major,46.0
+JOBIM,33,Luiza,50,0,0,z1,*m6,I,0,major,47.0
+JOBIM,33,Luiza,51,0,0,V1,*4,I,0,major,49.0
+JOBIM,33,Luiza,52,0,0,z1,*m6,I,0,major,53.0
+JOBIM,33,Luiza,53,0,0,z0,*m7,I,0,major,54.0
+JOBIM,34,Magoa,1,9,9,Z0,*M7,I,9,major,1.0
+JOBIM,34,Magoa,2,4,4,V4,*(#5),V,9,major,2.0
+JOBIM,34,Magoa,3,4,7,v0,*m,Vm7,9,major,3.0
+JOBIM,34,Magoa,4,6,6,Y2.3,*7(b9),V/II,9,major,4.0
+JOBIM,34,Magoa,5,11,11,z0,*m7,II,9,major,5.0
+JOBIM,34,Magoa,6,4,4,Z1,*6,IVm7,9,major,6.0
+JOBIM,34,Magoa,7,1,1,Y2.3,*7(b9),V/VI,9,major,6.5
+JOBIM,34,Magoa,8,6,6,Z0,*M7,VIM7,9,major,7.0
+JOBIM,34,Magoa,9,11,11,z0,*m7,II,9,major,8.0
+JOBIM,34,Magoa,10,4,4,W2.1,*(#5)7(b9),V,9,major,8.5
+JOBIM,34,Magoa,11,9,9,Z0,*M7,I,9,major,9.0
+JOBIM,34,Magoa,12,4,4,V4,*(#5),V,9,major,10.0
+JOBIM,34,Magoa,13,4,7,v0,*m,Vm7,9,major,11.0
+JOBIM,34,Magoa,14,6,6,Y2.3,*7(b9),V/II,9,major,12.0
+JOBIM,34,Magoa,15,11,11,z0,*m7,II,9,major,13.0
+JOBIM,34,Magoa,16,2,2,z1,*m6,IVm7,9,major,14.0
+JOBIM,34,Magoa,17,4,4,Y0,*7,V,9,major,14.5
+JOBIM,34,Magoa,18,9,9,Z0,*M7,I,9,major,15.0
+JOBIM,34,Magoa,19,10,10,x0,*°7,V°/II,9,major,15.5
+JOBIM,34,Magoa,20,11,11,z0,*m7,II,9,major,16.0
+JOBIM,34,Magoa,21,2,2,z1,*m6,IVm7,9,major,16.5
+JOBIM,34,Magoa,22,9,9,Z0,*M7,I,9,major,17.0
+JOBIM,34,Magoa,23,6,6,Y0,*7,V/II,9,major,17.5
+JOBIM,34,Magoa,24,11,11,Y4,*7.13,V/V,9,major,18.0
+JOBIM,34,Magoa,25,4,4,Y1.1,*4.7.9,V,9,major,18.5
+JOBIM,34,Magoa,26,4,4,Y2.3,*7(b9),V,9,major,18.75
+JOBIM,34,Magoa,27,9,9,Z0,*M7,I,9,major,19.0
+JOBIM,34,Magoa,28,5,5,Z4,*(#5)M7,bVI7M,9,major,20.0
+JOBIM,34,Magoa,29,2,2,z2.1,*m7.9.11,II,9,major,21.0
+JOBIM,34,Magoa,30,9,9,Z2,*M7.9,I,9,major,22.0
+JOBIM,35,Meditacao,1,7,7,Z1,*6,I,7,major,1.0
+JOBIM,35,Meditacao,2,6,6,Y1,*4.7,V/III,7,major,3.0
+JOBIM,35,Meditacao,3,6,6,Y0,*7,V/VI,7,major,4.0
+JOBIM,35,Meditacao,4,7,7,Z1,*6,I,7,major,5.0
+JOBIM,35,Meditacao,5,11,11,z3,*m7.11,II__X,7,major,7.0
+JOBIM,35,Meditacao,6,4,4,Y2.2.1.1,*7(b9.b13),V/II,7,major,8.0
+JOBIM,35,Meditacao,7,9,9,z0,*m7,II,7,major,9.0
+JOBIM,35,Meditacao,8,0,0,z2,*m7.9,IVm7,7,major,11.0
+JOBIM,35,Meditacao,9,0,0,z1,*m6,IVm7,7,major,12.0
+JOBIM,35,Meditacao,10,11,11,z0,*m7,II__X,7,major,13.0
+JOBIM,35,Meditacao,11,4,4,Y2.2.1.1,*7(b9.b13),V/II,7,major,14.0
+JOBIM,35,Meditacao,12,9,9,z3,*m7.11,II,7,major,15.0
+JOBIM,35,Meditacao,13,2,2,W1,*4(#5)7,V,7,major,16.0
+JOBIM,35,Meditacao,14,7,7,Z1,*6,I,7,major,17.0
+JOBIM,35,Meditacao,15,6,6,Y1,*4.7,V/III,7,major,19.0
+JOBIM,35,Meditacao,16,6,6,Y0,*7,V/VI,7,major,20.0
+JOBIM,35,Meditacao,17,7,7,Z1,*6,I,7,major,21.0
+JOBIM,35,Meditacao,18,11,11,z3,*m7.11,II__X,7,major,23.0
+JOBIM,35,Meditacao,19,4,4,Y2.2.1.1,*7(b9.b13),V/II,7,major,24.0
+JOBIM,35,Meditacao,20,9,9,z0,*m7,II,7,major,25.0
+JOBIM,35,Meditacao,21,0,0,z2,*m7.9,IVm7,7,major,27.0
+JOBIM,35,Meditacao,22,0,0,z1,*m6,IVm7,7,major,28.0
+JOBIM,35,Meditacao,23,11,11,z0,*m7,II__X,7,major,29.0
+JOBIM,35,Meditacao,24,4,4,Y2.2.1.1,*7(b9.b13),V/II,7,major,30.0
+JOBIM,35,Meditacao,25,9,9,z3,*m7.11,II,7,major,31.0
+JOBIM,35,Meditacao,26,2,2,W1,*4(#5)7,V,7,major,32.0
+JOBIM,35,Meditacao,27,0,0,Z2,*M7.9,IV,7,major,33.0
+JOBIM,35,Meditacao,28,0,0,z1,*m6,IVm7,7,major,35.0
+JOBIM,35,Meditacao,29,0,0,z0,*m7,IVm7,7,major,36.0
+JOBIM,35,Meditacao,30,0,0,z1,*m6,IVm7,7,major,36.5
+JOBIM,35,Meditacao,31,7,11,V1,*4,I,7,major,37.0
+JOBIM,35,Meditacao,32,10,10,x4,*°7.14,bIII°,7,major,38.0
+JOBIM,35,Meditacao,33,9,9,z0,*m7,II,7,major,39.0
+JOBIM,35,Meditacao,34,2,2,W1,*4(#5)7,V,7,major,40.0
+JOBIM,36,Modinha,1,2,2,v0,*m,I,2,minor,1.0
+JOBIM,36,Modinha,2,2,2,z2,*m7.9,I,2,minor,2.0
+JOBIM,36,Modinha,3,3,3,V0,*,bII7M,2,minor,3.0
+JOBIM,36,Modinha,4,3,3,Z0,*M7,bII7M,2,minor,4.0
+JOBIM,36,Modinha,5,4,4,x4,*°7.14,V°,2,minor,5.0
+JOBIM,36,Modinha,6,7,7,z2,*m7.9,IV,2,minor,6.0
+JOBIM,36,Modinha,7,6,6,Y2.4,*7(#9),SubV/III,2,minor,6.5
+JOBIM,36,Modinha,8,5,5,Z0,*M7,III,2,minor,7.0
+JOBIM,36,Modinha,9,9,4,Y0,*7,V,2,minor,8.0
+JOBIM,36,Modinha,10,3,3,Y2.1,*7.9(#11),SubV,2,minor,8.5
+JOBIM,36,Modinha,11,2,2,v0,*m,I,2,minor,9.0
+JOBIM,36,Modinha,12,2,2,z2,*m7.9,I,2,minor,10.0
+JOBIM,36,Modinha,13,3,3,V0,*,bII7M,2,minor,11.0
+JOBIM,36,Modinha,14,3,3,Z0,*M7,bII7M,2,minor,12.0
+JOBIM,36,Modinha,15,4,4,x4,*°7.14,V°,2,minor,13.0
+JOBIM,36,Modinha,16,7,7,z2,*m7.9,IV,2,minor,14.0
+JOBIM,36,Modinha,17,6,6,Y2.4,*7(#9),SubV/III,2,minor,14.5
+JOBIM,36,Modinha,18,5,5,Z0,*M7,III,5,major,15.0
+JOBIM,36,Modinha,19,6,6,x3,*°7(b13),V°/IV,5,major,16.0
+JOBIM,36,Modinha,20,10,10,Z2,*M7.9,IV,5,major,17.0
+JOBIM,36,Modinha,21,11,11,y0,*Ø,#IVm7(b5),5,major,18.0
+JOBIM,36,Modinha,22,5,0,V0,*,I,5,major,19.0
+JOBIM,36,Modinha,23,5,1,V1.2,*4(#5),I,5,major,19.5
+JOBIM,36,Modinha,24,2,2,v0,*m,I,2,minor,20.0
+JOBIM,36,Modinha,25,2,1,w0,*mM7,I,2,minor,20.25
+JOBIM,36,Modinha,26,2,0,z0,*m7,I,2,minor,20.5
+JOBIM,36,Modinha,27,2,11,z1,*m6,I,2,minor,20.75
+JOBIM,36,Modinha,28,10,10,z1,*m6,bVIm7,2,minor,21.0
+JOBIM,36,Modinha,29,7,7,z2,*m7.9,IV,2,minor,22.0
+JOBIM,36,Modinha,30,2,2,v0,*m,I,2,minor,23.0
+JOBIM,36,Modinha,31,10,10,z1,*m6,bVIm7,2,minor,24.0
+JOBIM,36,Modinha,32,7,7,z2,*m7.9,IV,2,minor,25.0
+JOBIM,36,Modinha,33,2,2,z0,*m7,I,2,minor,26.0
+JOBIM,36,Modinha,34,2,2,Z2,*M7.9,I,2,major,27.0
+JOBIM,37,O amor em paz,1,2,2,z0,*m7,II,0,major,1.0
+JOBIM,37,O amor em paz,2,7,7,W1,*4(#5)7,V,0,major,2.0
+JOBIM,37,O amor em paz,3,0,0,Z0,*M7,I,0,major,3.0
+JOBIM,37,O amor em paz,4,9,9,Y2.2.1.1,*7(b9.b13),V/II,0,major,4.0
+JOBIM,37,O amor em paz,5,2,2,z0,*m7,II,0,major,5.0
+JOBIM,37,O amor em paz,6,3,3,x0,*°7,V°/III,0,major,6.0
+JOBIM,37,O amor em paz,7,4,4,z0,*m7,III,0,major,7.0
+JOBIM,37,O amor em paz,8,9,4,Y2.3,*7(b9),V/II,0,major,8.5
+JOBIM,37,O amor em paz,9,0,0,z0,*m7,Im7,0,major,9.0
+JOBIM,37,O amor em paz,10,5,5,Y2,*7.9,IV7,0,major,10.0
+JOBIM,37,O amor em paz,11,10,10,Z0,*M7,bVII7M,0,major,11.0
+JOBIM,37,O amor em paz,12,10,10,Z1,*6,bVII7M,0,major,12.0
+JOBIM,37,O amor em paz,13,11,11,y0,*Ø,II__X,0,major,13.0
+JOBIM,37,O amor em paz,14,4,4,Y2.3,*7(b9),V/VI,0,major,14.0
+JOBIM,37,O amor em paz,15,9,9,Z0,*M7,VIM7,0,major,15.0
+JOBIM,37,O amor em paz,16,9,9,Y2.3,*7(b9),V/II,0,major,16.0
+JOBIM,37,O amor em paz,17,2,2,z0,*m7,II,0,major,17.0
+JOBIM,37,O amor em paz,18,7,7,W1,*4(#5)7,V,0,major,18.0
+JOBIM,37,O amor em paz,19,0,0,Z0,*M7,I,0,major,19.0
+JOBIM,37,O amor em paz,20,9,9,Y2.2.1.1,*7(b9.b13),V/II,0,major,20.0
+JOBIM,37,O amor em paz,21,2,2,z0,*m7,II,0,major,21.0
+JOBIM,37,O amor em paz,22,3,3,x0,*°7,V°/III,0,major,22.0
+JOBIM,37,O amor em paz,23,4,4,z0,*m7,III,0,major,23.0
+JOBIM,37,O amor em paz,24,9,4,Y2.3,*7(b9),V/II,0,major,24.0
+JOBIM,37,O amor em paz,25,0,0,z0,*m7,Im7,0,major,25.0
+JOBIM,37,O amor em paz,26,5,5,Y2,*7.9,IV7,0,major,26.0
+JOBIM,37,O amor em paz,27,10,10,Z0,*M7,bVII7M,0,major,27.0
+JOBIM,37,O amor em paz,28,10,10,Z1,*6,bVII7M,0,major,28.0
+JOBIM,37,O amor em paz,29,11,11,y0,*Ø,II__X,0,major,29.0
+JOBIM,37,O amor em paz,30,4,4,Y2.3,*7(b9),V,9,major,30.0
+JOBIM,37,O amor em paz,31,9,9,Z0,*M7,I,9,major,31.0
+JOBIM,37,O amor em paz,32,2,2,Y2,*7.9,IV7,9,major,32.0
+JOBIM,37,O amor em paz,33,7,7,Z0,*M7,bVII7M,9,major,33.0
+JOBIM,37,O amor em paz,34,7,7,z1,*m6,bVIIm7,9,major,34.0
+JOBIM,37,O amor em paz,35,5,5,Z0,*M7,IV,0,major,35.0
+JOBIM,37,O amor em paz,36,6,6,x0,*°7,V°/V,0,major,37.0
+JOBIM,37,O amor em paz,37,5,5,z1,*m6,IVm7,0,major,38.0
+JOBIM,37,O amor em paz,38,4,4,z1,*m6,II__X,0,major,39.0
+JOBIM,37,O amor em paz,39,3,3,Y3,*7(#11),SubV/II,0,major,40.0
+JOBIM,37,O amor em paz,40,2,2,Y0,*7,V/V,0,major,41.0
+JOBIM,37,O amor em paz,41,2,2,z0,*m7,II,0,major,42.0
+JOBIM,37,O amor em paz,42,9,0,v0,*m,VI,0,major,43.0
+JOBIM,37,O amor em paz,43,11,11,Y0,*7,V/III,0,major,44.0
+JOBIM,37,O amor em paz,44,10,10,Z0,*M7,bII7M,9,minor,45.0
+JOBIM,37,O amor em paz,45,9,9,v0,*m,I,9,minor,47.0
+JOBIM,37,O amor em paz,46,9,9,z1.1.2,*m(b6)9,I,9,minor,48.0
+JOBIM,38,Pois e,1,3,3,Y2.2,*7.9.13,SubV/IV,9,minor,1.0
+JOBIM,38,Pois e,2,2,2,Y2.2,*7.9.13,IV7,9,minor,2.0
+JOBIM,38,Pois e,3,9,9,z1.3,*m(b6),I,9,minor,2.5
+JOBIM,38,Pois e,4,9,9,z1,*m6,I,9,minor,3.0
+JOBIM,38,Pois e,5,9,9,z0,*m7,I,9,minor,3.5
+JOBIM,38,Pois e,6,9,9,w0,*mM7,I,9,minor,4.0
+JOBIM,38,Pois e,7,9,9,z0,*m7,I,9,minor,4.5
+JOBIM,38,Pois e,8,9,9,z1,*m6,I,9,minor,5.0
+JOBIM,38,Pois e,9,9,9,z1.3,*m(b6),I,9,minor,5.5
+JOBIM,38,Pois e,10,9,9,z1,*m6,I,9,minor,6.0
+JOBIM,38,Pois e,11,3,3,X0,*(b5)7,SubV/IV,9,minor,6.5
+JOBIM,38,Pois e,12,2,2,Y0,*7,IV7,9,minor,7.0
+JOBIM,38,Pois e,13,3,3,Y0,*7,aSubV/IV,9,minor,7.5
+JOBIM,38,Pois e,14,2,2,Y1.1,*4.7.9,IV7,9,minor,8.0
+JOBIM,38,Pois e,15,2,2,Y2.3,*7(b9),IV7,9,minor,9.0
+JOBIM,38,Pois e,16,2,2,z0,*m7,I,2,minor,10.0
+JOBIM,38,Pois e,17,2,2,z1.3,*m(b6),I,2,minor,10.5
+JOBIM,38,Pois e,18,2,2,z1,*m6,I,2,minor,11.0
+JOBIM,38,Pois e,19,2,2,z0,*m7,I,2,minor,11.5
+JOBIM,38,Pois e,20,2,2,w0,*mM7,I,2,minor,12.0
+JOBIM,38,Pois e,21,2,2,z0,*m7,I,2,minor,12.5
+JOBIM,38,Pois e,22,2,2,z1,*m6,I,2,minor,13.0
+JOBIM,38,Pois e,23,2,2,z1.3,*m(b6),I,2,minor,13.5
+JOBIM,38,Pois e,24,2,2,v0,*m,I,2,minor,14.0
+JOBIM,38,Pois e,25,8,8,X0,*(b5)7,SubV/IV,2,minor,14.5
+JOBIM,38,Pois e,26,7,7,Y0,*7,IV7,2,minor,15.0
+JOBIM,38,Pois e,27,6,6,Y0,*7,aSubV/IV,2,minor,15.5
+JOBIM,38,Pois e,28,7,7,Y1.1,*4.7.9,IV7,2,minor,16.0
+JOBIM,38,Pois e,29,7,7,Y2.3,*7(b9),IV7,2,minor,17.0
+JOBIM,38,Pois e,30,7,7,z0,*m7,I,7,minor,18.0
+JOBIM,38,Pois e,31,7,7,z1.3,*m(b6),I,7,minor,18.5
+JOBIM,38,Pois e,32,7,7,z1,*m6,I,7,minor,19.0
+JOBIM,38,Pois e,33,7,7,z0,*m7,I,7,minor,19.5
+JOBIM,38,Pois e,34,7,7,w0,*mM7,I,7,minor,20.0
+JOBIM,38,Pois e,35,7,7,z0,*m7,I,7,minor,20.5
+JOBIM,38,Pois e,36,7,7,z1,*m6,I,7,minor,21.0
+JOBIM,38,Pois e,37,7,7,z1.3,*m(b6),I,7,minor,21.5
+JOBIM,38,Pois e,38,7,7,z0,*m7,I,7,minor,22.0
+JOBIM,38,Pois e,39,7,7,y1,*Ø.9,?,7,minor,22.5
+JOBIM,38,Pois e,40,0,7,Y0,*7,IV7,7,minor,23.0
+JOBIM,38,Pois e,41,2,6,Y0,*7,V,7,minor,24.0
+JOBIM,38,Pois e,42,2,5,v0,*m,IV,9,minor,26.0
+JOBIM,38,Pois e,43,4,4,Y0,*7,V,9,minor,27.0
+JOBIM,38,Pois e,44,3,3,Z0,*M7,Np/IV,9,minor,28.0
+JOBIM,38,Pois e,45,2,2,Y0,*7,IV7,9,minor,29.0
+JOBIM,38,Pois e,46,7,7,Y1.1,*4.7.9,V/III,9,minor,30.0
+JOBIM,38,Pois e,47,7,7,Y1.1.3,*4.7(b9),V/III,9,minor,31.0
+JOBIM,38,Pois e,48,0,0,Z2,*M7.9,III,9,minor,32.0
+JOBIM,38,Pois e,49,9,9,z0,*m7,I,9,minor,33.0
+JOBIM,38,Pois e,50,2,2,Y2.1.1.1,*7(b9.#11)13,IV7,9,minor,34.0
+JOBIM,39,Sabia,1,5,5,x3,*°7(b13),bIII°,2,major,1.0
+JOBIM,39,Sabia,2,4,4,z0,*m7,II,2,major,2.0
+JOBIM,39,Sabia,3,9,9,Y0,*7,V,5,major,3.0
+JOBIM,39,Sabia,4,2,6,Z0,*M7,I,2,major,4.0
+JOBIM,39,Sabia,5,5,5,x3,*°7(b13),bIII°,2,major,5.0
+JOBIM,39,Sabia,6,4,4,z0,*m7,II,2,major,6.0
+JOBIM,39,Sabia,7,6,6,Y0,*7,V/VI,2,major,7.0
+JOBIM,39,Sabia,8,11,11,z2,*m7.9,VI,2,major,8.0
+JOBIM,39,Sabia,9,7,10,w0,*mM7,IVm7,2,major,9.0
+JOBIM,39,Sabia,10,9,9,Y4,*7.13,V,2,major,10.0
+JOBIM,39,Sabia,11,8,8,Z4,*(#5)M7,aNP/IV,2,major,11.0
+JOBIM,39,Sabia,12,7,7,Z0,*M7,IV,2,major,12.0
+JOBIM,39,Sabia,13,6,6,z0,*m7,III,2,major,13.0
+JOBIM,39,Sabia,14,4,4,z0,*m7,II,2,major,14.0
+JOBIM,39,Sabia,15,6,6,Y2.3,*7(b9),V/VI,2,major,15.0
+JOBIM,39,Sabia,16,11,11,z0,*m7,VI,2,major,16.0
+JOBIM,39,Sabia,17,2,6,Y0,*7,V/IV,2,major,17.0
+JOBIM,39,Sabia,18,8,8,x0,*°7,V°/V,2,major,18.0
+JOBIM,39,Sabia,19,7,7,x0,*°7,V°,2,major,19.0
+JOBIM,39,Sabia,20,11,11,z0,*m7,VI,2,major,20.0
+JOBIM,39,Sabia,21,11,9,Y0,*7,VI,2,major,21.0
+JOBIM,39,Sabia,22,8,8,x0,*°7,V°/V,2,major,22.0
+JOBIM,39,Sabia,23,7,7,x0,*°7,V°,2,major,23.0
+JOBIM,39,Sabia,24,2,6,Z0,*M7,I,2,major,24.0
+JOBIM,39,Sabia,25,5,5,x2,*°7.11,bIII°,2,major,25.0
+JOBIM,39,Sabia,26,4,4,z0,*m7,II,2,major,26.0
+JOBIM,39,Sabia,27,9,9,Y2.3,*7(b9),V,2,major,27.0
+JOBIM,39,Sabia,28,5,5,Z3,*M7(#11),I,5,major,28.0
+JOBIM,39,Sabia,29,5,5,Z0,*M7,I,5,major,29.0
+JOBIM,39,Sabia,30,8,8,x0,*°7,bIII°,5,major,29.5
+JOBIM,39,Sabia,31,7,7,z0,*m7,II,5,major,30.0
+JOBIM,39,Sabia,32,0,0,Y2.3,*7(b9),V,5,major,31.0
+JOBIM,39,Sabia,33,5,5,v0,*m,IV,0,minor,32.0
+JOBIM,39,Sabia,34,0,3,v0,*m,I,0,minor,32.5
+JOBIM,39,Sabia,35,2,2,z0,*m7,II,0,minor,33.0
+JOBIM,39,Sabia,36,7,7,Y2.3,*7(b9),V,0,minor,33.5
+JOBIM,39,Sabia,37,0,0,v0,*m,I,0,minor,34.0
+JOBIM,39,Sabia,38,5,8,x0,*°7,V°,0,minor,36.0
+JOBIM,39,Sabia,39,0,0,v0,*m,I,0,minor,37.0
+JOBIM,39,Sabia,40,5,5,Y2.3,*7(b9),V,10,minor,38.0
+JOBIM,39,Sabia,41,10,10,z0,*m7,I,10,minor,39.0
+JOBIM,39,Sabia,42,3,6,x0,*°7,V°,10,minor,40.0
+JOBIM,39,Sabia,43,10,10,z0,*m7,I,10,minor,41.0
+JOBIM,39,Sabia,44,3,3,Y1,*4.7,IV7,10,minor,42.0
+JOBIM,39,Sabia,45,0,4,Y0,*7,V/V,10,minor,42.5
+JOBIM,39,Sabia,46,5,5,v0,*m,Vm7,10,minor,43.0
+JOBIM,39,Sabia,47,4,4,V4,*(#5),?,2,major,44.0
+JOBIM,39,Sabia,48,8,3,z0,*m7,?,2,major,45.0
+JOBIM,39,Sabia,49,10,2,v0,*m,VI,2,major,46.0
+JOBIM,39,Sabia,50,2,2,Y0,*7,V/IV,2,major,46.5
+JOBIM,39,Sabia,51,9,0,v0,*m,Vm7,2,major,47.0
+JOBIM,39,Sabia,52,11,11,Y1,*4.7,V/II,2,major,48.0
+JOBIM,39,Sabia,53,11,11,Y0,*7,V/II,2,major,48.5
+JOBIM,39,Sabia,54,9,9,Y1,*4.7,V,2,major,49.0
+JOBIM,39,Sabia,55,9,9,Y1.1.3,*4.7(b9),V,2,major,50.0
+JOBIM,39,Sabia,56,9,9,Y2,*7.9,V,2,major,51.0
+JOBIM,39,Sabia,57,6,6,z0,*m7,III,2,major,52.0
+JOBIM,39,Sabia,58,5,5,x0,*°7,bIII°,2,major,53.0
+JOBIM,39,Sabia,59,2,5,v0,*m,I,2,minor,54.0
+JOBIM,39,Sabia,60,4,4,z0,*m7,II,2,minor,54.5
+JOBIM,39,Sabia,61,9,9,Y2.3,*7(b9),V,2,minor,55.0
+JOBIM,39,Sabia,62,2,2,w0,*mM7,I,2,minor,56.0
+JOBIM,39,Sabia,63,2,2,z0,*m7,I,2,minor,57.0
+JOBIM,39,Sabia,64,8,8,x0,*°7,V°/V,2,minor,57.5
+JOBIM,39,Sabia,65,7,7,z0,*m7,IV,2,minor,58.0
+JOBIM,39,Sabia,66,0,0,Y0,*7,V,5,major,59.0
+JOBIM,39,Sabia,67,5,5,Z0,*M7,I,5,major,60.0
+JOBIM,39,Sabia,68,0,0,z1,*m6,Vm7,5,major,61.0
+JOBIM,39,Sabia,69,10,10,Z0,*M7,IV,5,major,62.0
+JOBIM,39,Sabia,70,7,7,z0,*m7,IV,5,major,63.0
+JOBIM,39,Sabia,71,2,2,z0,*m7,VI,5,major,64.0
+JOBIM,39,Sabia,72,5,0,Y0,*7,V/IV,5,major,65.0
+JOBIM,39,Sabia,73,10,10,Z0,*M7,IV,5,major,66.0
+JOBIM,39,Sabia,74,7,7,z0,*m7,II,5,major,67.0
+JOBIM,39,Sabia,75,2,2,z0,*m7,I,2,minor,68.0
+JOBIM,39,Sabia,76,7,7,z0,*m7,IV,2,minor,69.0
+JOBIM,39,Sabia,77,2,2,z0,*m7,I,2,minor,70.0
+JOBIM,39,Sabia,78,7,7,z0,*m7,IV,2,minor,71.0
+JOBIM,39,Sabia,79,2,2,z0,*m7,I,2,minor,72.0
+JOBIM,39,Sabia,80,7,7,z0,*m7,IV,2,minor,73.0
+JOBIM,39,Sabia,81,2,2,z0,*m7,I,2,minor,74.0
+JOBIM,39,Sabia,82,7,7,z0,*m7,IV,2,minor,75.0
+JOBIM,39,Sabia,83,2,2,z1,*m6,I,2,minor,76.0
+JOBIM,39,Sabia,84,4,2,X0,*(b5)7,?,2,minor,76.5
+JOBIM,39,Sabia,85,3,2,X0,*(b5)7,SubV,2,major,77.0
+JOBIM,39,Sabia,86,1,2,X0,*(b5)7,aSubV,2,major,77.5
+JOBIM,39,Sabia,87,2,2,Z1.1,*6.9,I,2,major,78.0
+JOBIM,39,Sabia,88,11,11,Y1.1,*4.7.9,V/II,2,major,80.0
+JOBIM,40,Samba de uma nota so,1,11,11,z0,*m7,II__X,7,major,1.0
+JOBIM,40,Samba de uma nota so,2,10,10,Y2,*7.9,SubV/II,7,major,2.0
+JOBIM,40,Samba de uma nota so,3,9,9,z3,*m7.11,II,7,major,3.0
+JOBIM,40,Samba de uma nota so,4,8,8,Z3,*M7(#11),bII7M,7,major,4.0
+JOBIM,40,Samba de uma nota so,5,8,8,Y3,*7(#11),SubV,7,major,4.5
+JOBIM,40,Samba de uma nota so,6,11,11,z0,*m7,II__X,7,major,5.0
+JOBIM,40,Samba de uma nota so,7,10,10,Y2,*7.9,SubV/II,7,major,6.0
+JOBIM,40,Samba de uma nota so,8,9,9,z3,*m7.11,II,7,major,7.0
+JOBIM,40,Samba de uma nota so,9,8,8,Y2.1,*7.9(#11),SubV,7,major,8.0
+JOBIM,40,Samba de uma nota so,10,2,2,z2,*m7.9,II__X,7,major,9.0
+JOBIM,40,Samba de uma nota so,11,1,1,Y2,*7.9,SubV/IV,7,major,10.0
+JOBIM,40,Samba de uma nota so,12,0,0,Z2,*M7.9,IV,7,major,11.0
+JOBIM,40,Samba de uma nota so,13,0,0,w1,*mM7.9,IVm7,7,major,12.0
+JOBIM,40,Samba de uma nota so,14,0,0,z1,*m6,IVm7,7,major,12.5
+JOBIM,40,Samba de uma nota so,15,11,11,z0,*m7,II__X,7,major,13.0
+JOBIM,40,Samba de uma nota so,16,10,10,Y2,*7.9,SubV/II,7,major,13.5
+JOBIM,40,Samba de uma nota so,17,9,9,z3,*m7.11,II,7,major,14.0
+JOBIM,40,Samba de uma nota so,18,8,8,Z3,*M7(#11),bII7M,7,major,15.0
+JOBIM,40,Samba de uma nota so,19,8,8,Y3,*7(#11),SubV,7,major,15.5
+JOBIM,40,Samba de uma nota so,20,7,7,Z1,*6,I,7,major,16.0
+JOBIM,40,Samba de uma nota so,21,0,0,z0,*m7,II,10,major,17.0
+JOBIM,40,Samba de uma nota so,22,5,5,Y0,*7,V,10,major,18.0
+JOBIM,40,Samba de uma nota so,23,10,10,Z0,*M7,I,10,major,19.0
+JOBIM,40,Samba de uma nota so,24,3,3,Z0,*M7,IV,10,major,19.5
+JOBIM,40,Samba de uma nota so,25,10,10,Z0,*M7,I,10,major,20.0
+JOBIM,40,Samba de uma nota so,26,3,3,Z0,*M7,IV,10,major,20.5
+JOBIM,40,Samba de uma nota so,27,10,10,z0,*m7,II,8,major,21.0
+JOBIM,40,Samba de uma nota so,28,3,3,Y0,*7,V,8,major,22.0
+JOBIM,40,Samba de uma nota so,29,8,8,Z0,*M7,I,8,major,23.0
+JOBIM,40,Samba de uma nota so,30,1,1,Z0,*M7,IV,8,major,23.5
+JOBIM,40,Samba de uma nota so,31,9,9,y0,*Ø,II__X,7,major,24.0
+JOBIM,40,Samba de uma nota so,32,8,8,Y3,*7(#11),SubV,7,major,24.5
+JOBIM,40,Samba de uma nota so,33,11,11,z0,*m7,II__X,7,major,25.0
+JOBIM,40,Samba de uma nota so,34,10,10,Y2,*7.9,SubV/II,7,major,26.0
+JOBIM,40,Samba de uma nota so,35,9,9,z3,*m7.11,II,7,major,27.0
+JOBIM,40,Samba de uma nota so,36,8,8,Z3,*M7(#11),bII7M,7,major,28.0
+JOBIM,40,Samba de uma nota so,37,8,8,Y3,*7(#11),SubV,7,major,28.5
+JOBIM,40,Samba de uma nota so,38,11,11,z0,*m7,II__X,7,major,29.0
+JOBIM,40,Samba de uma nota so,39,10,10,Y2,*7.9,SubV/II,7,major,30.0
+JOBIM,40,Samba de uma nota so,40,9,9,z3,*m7.11,II,7,major,31.0
+JOBIM,40,Samba de uma nota so,41,8,8,Y2.1,*7.9(#11),SubV,7,major,32.0
+JOBIM,40,Samba de uma nota so,42,2,2,z2,*m7.9,II__X,7,major,33.0
+JOBIM,40,Samba de uma nota so,43,1,1,Y2,*7.9,SubV/IV,7,major,34.0
+JOBIM,40,Samba de uma nota so,44,0,0,Z2,*M7.9,IV,7,major,35.0
+JOBIM,40,Samba de uma nota so,45,0,0,w1,*mM7.9,IVm7,7,major,36.0
+JOBIM,40,Samba de uma nota so,46,0,0,z1,*m6,IVm7,7,major,36.5
+JOBIM,40,Samba de uma nota so,47,11,11,z0,*m7,II__X,7,major,37.0
+JOBIM,40,Samba de uma nota so,48,10,10,Y2,*7.9,SubV/II,7,major,38.0
+JOBIM,40,Samba de uma nota so,49,9,9,z3,*m7.11,II,7,major,38.5
+JOBIM,40,Samba de uma nota so,50,8,8,Z3,*M7(#11),bII7M,7,major,39.0
+JOBIM,40,Samba de uma nota so,51,8,8,Y3,*7(#11),SubV,7,major,39.5
+JOBIM,40,Samba de uma nota so,52,7,7,Z1,*6,I,7,major,40.0
+JOBIM,41,Samba do aviao,1,2,6,Z1.1,*6.9,I,2,major,1.0
+JOBIM,41,Samba do aviao,2,0,0,Z1.1,*6.9,bVII7M,2,major,1.5
+JOBIM,41,Samba do aviao,3,2,6,Z1.1,*6.9,I,2,major,2.0
+JOBIM,41,Samba do aviao,4,0,0,Z1.1,*6.9,bVII7M,2,major,3.5
+JOBIM,41,Samba do aviao,5,2,6,Z1.1,*6.9,I,2,major,4.0
+JOBIM,41,Samba do aviao,6,3,3,Z4,*(#5)M7,bII7M,2,major,4.5
+JOBIM,41,Samba do aviao,7,3,3,Z1,*6,bII7M,2,major,4.75
+JOBIM,41,Samba do aviao,8,2,6,Z1.1,*6.9,I,2,major,5.0
+JOBIM,41,Samba do aviao,9,0,0,Z1.1,*6.9,bVII7M,2,major,5.5
+JOBIM,41,Samba do aviao,10,2,6,Z1.1,*6.9,I,2,major,7.0
+JOBIM,41,Samba do aviao,11,5,5,Z1.1,*6.9,bIII7M,2,major,7.5
+JOBIM,41,Samba do aviao,12,2,6,Z1.1,*6.9,I,2,major,8.0
+JOBIM,41,Samba do aviao,13,0,0,z1,*m6,bVIIm7,2,major,9.0
+JOBIM,41,Samba do aviao,14,10,0,z1,*m6,bVIm7,2,major,9.5
+JOBIM,41,Samba do aviao,15,0,0,Y2,*7.9,bVII7,2,major,10.0
+JOBIM,41,Samba do aviao,16,10,10,Y2,*7.9,?,2,major,10.5
+JOBIM,41,Samba do aviao,17,0,0,Y2,*7.9,bVII7,2,major,11.0
+JOBIM,41,Samba do aviao,18,2,6,Z1.1,*6.9,I,2,major,12.0
+JOBIM,41,Samba do aviao,19,0,0,Z1.1,*6.9,bVII7M,2,major,12.5
+JOBIM,41,Samba do aviao,20,2,6,Z1.1,*6.9,I,2,major,13.0
+JOBIM,41,Samba do aviao,21,2,2,V0,*,I,2,major,14.0
+JOBIM,41,Samba do aviao,22,0,0,V0,*,bVII7M,2,major,14.5
+JOBIM,41,Samba do aviao,23,5,5,Z1,*6,SubV/III,2,major,14.75
+JOBIM,41,Samba do aviao,24,4,4,Y0,*7,V/V,2,major,15.0
+JOBIM,41,Samba do aviao,25,3,3,Z0,*M7,bII7M,2,major,15.5
+JOBIM,41,Samba do aviao,26,2,2,Z0,*M7,I,2,major,17.0
+JOBIM,41,Samba do aviao,27,10,5,Y0,*7,SubV/V,2,major,18.0
+JOBIM,41,Samba do aviao,28,4,4,z0,*m7,II,2,major,19.0
+JOBIM,41,Samba do aviao,29,5,5,x3,*°7(b13),V°/III,2,major,20.0
+JOBIM,41,Samba do aviao,30,6,6,z0,*m7,III,2,major,21.0
+JOBIM,41,Samba do aviao,31,6,6,Y0,*7,aSubV/IV,2,major,22.0
+JOBIM,41,Samba do aviao,32,7,7,Z0,*M7,IV,2,major,23.0
+JOBIM,41,Samba do aviao,33,7,7,z1,*m6,IVm7,2,major,24.0
+JOBIM,41,Samba do aviao,34,2,6,Z0,*M7,I,2,major,25.0
+JOBIM,41,Samba do aviao,35,5,5,x0,*°7,V°/III,2,major,26.0
+JOBIM,41,Samba do aviao,36,6,6,y0,*Ø,II__X,2,major,27.0
+JOBIM,41,Samba do aviao,37,11,11,Y4.1,*7(b13),V/II,2,major,28.0
+JOBIM,41,Samba do aviao,38,4,4,Y4,*7.13,V/V,2,major,29.0
+JOBIM,41,Samba do aviao,39,4,4,Y4.1,*7(b13),V/V,2,major,29.5
+JOBIM,41,Samba do aviao,40,4,4,Y0,*7,V/V,2,major,30.0
+JOBIM,41,Samba do aviao,41,4,4,Y3,*7(#11),V/V,2,major,30.5
+JOBIM,41,Samba do aviao,42,9,9,Y1.1,*4.7.9,V,2,major,31.0
+JOBIM,41,Samba do aviao,43,9,9,Y2,*7.9,V,2,major,31.5
+JOBIM,41,Samba do aviao,44,9,9,z0,*m7,Vm7,2,major,32.0
+JOBIM,41,Samba do aviao,45,9,9,Y1.1,*4.7.9,V,2,major,32.5
+JOBIM,41,Samba do aviao,46,9,9,Y2.3,*7(b9),V,2,major,32.75
+JOBIM,41,Samba do aviao,47,2,2,Z0,*M7,I,2,major,33.0
+JOBIM,41,Samba do aviao,48,10,5,Y0,*7,SubV/V,2,major,34.0
+JOBIM,41,Samba do aviao,49,4,4,z0,*m7,II,2,major,35.0
+JOBIM,41,Samba do aviao,50,5,5,x0,*°7,V°/III,2,major,36.0
+JOBIM,41,Samba do aviao,51,6,6,z0,*m7,III,2,major,37.0
+JOBIM,41,Samba do aviao,52,6,6,Y0,*7,aSubV/IV,2,major,38.0
+JOBIM,41,Samba do aviao,53,7,7,Z0,*M7,IV,2,major,39.0
+JOBIM,41,Samba do aviao,54,7,7,z1,*m6,IVm7,2,major,40.0
+JOBIM,41,Samba do aviao,55,7,7,Z0,*M7,IV,2,major,41.0
+JOBIM,41,Samba do aviao,56,7,7,y0,*Ø,IVm7,2,major,41.5
+JOBIM,41,Samba do aviao,57,7,7,z0,*m7,IVm7,2,major,42.0
+JOBIM,41,Samba do aviao,58,7,7,z1,*m6,IVm7,2,major,42.5
+JOBIM,41,Samba do aviao,59,2,2,Z0,*M7,I,2,major,43.0
+JOBIM,41,Samba do aviao,60,2,2,Z1,*6,I,2,major,43.5
+JOBIM,41,Samba do aviao,61,2,2,x4,*°7.14,I°,2,major,44.0
+JOBIM,41,Samba do aviao,62,2,2,x3,*°7(b13),I°,2,major,44.5
+JOBIM,41,Samba do aviao,63,7,7,w0,*mM7,IVm7,2,major,45.0
+JOBIM,41,Samba do aviao,64,7,7,z1,*m6,IVm7,2,major,45.5
+JOBIM,41,Samba do aviao,65,7,7,w0,*mM7,IVm7,2,major,46.0
+JOBIM,41,Samba do aviao,66,7,7,z1,*m6,IVm7,2,major,46.5
+JOBIM,41,Samba do aviao,67,6,6,z0,*m7,II__X,2,major,47.0
+JOBIM,41,Samba do aviao,68,11,11,Y2.2.1.1,*7(b9.b13),V/II,2,major,47.5
+JOBIM,41,Samba do aviao,69,4,4,z0,*m7,II,2,major,48.0
+JOBIM,41,Samba do aviao,70,9,9,Y2.2.1.1,*7(b9.b13),V,2,major,48.5
+JOBIM,41,Samba do aviao,71,6,6,z2,*m7.9,II__X,2,major,49.0
+JOBIM,41,Samba do aviao,72,11,11,Y1.1.3,*4.7(b9),V/II,2,major,50.0
+JOBIM,41,Samba do aviao,73,11,11,Y2.3,*7(b9),V/II,2,major,50.5
+JOBIM,41,Samba do aviao,74,4,4,z0,*m7,II,2,major,51.0
+JOBIM,41,Samba do aviao,75,4,4,z2,*m7.9,II,2,major,53.0
+JOBIM,41,Samba do aviao,76,4,4,z0,*m7,II,2,major,54.0
+JOBIM,41,Samba do aviao,77,4,4,Y2.1,*7.9(#11),V/V,2,major,55.0
+JOBIM,41,Samba do aviao,78,3,3,Y2.1,*7.9(#11),SubV,2,major,56.0
+JOBIM,41,Samba do aviao,79,2,2,Z1.1,*6.9,I,2,major,57.0
+JOBIM,42,Se todos fossem iguais a voce,1,5,5,Y0,*7,V,10,major,1.0
+JOBIM,42,Se todos fossem iguais a voce,2,5,5,Y2,*7.9,V,10,major,2.0
+JOBIM,42,Se todos fossem iguais a voce,3,7,5,Y0,*7,V/V,10,major,3.0
+JOBIM,42,Se todos fossem iguais a voce,4,7,5,Y2,*7.9,V/V,10,major,4.0
+JOBIM,42,Se todos fossem iguais a voce,5,5,5,Y0,*7,V,10,major,5.0
+JOBIM,42,Se todos fossem iguais a voce,6,5,5,Y2,*7.9,V,10,major,6.0
+JOBIM,42,Se todos fossem iguais a voce,7,10,5,Z1,*6,I,10,major,7.0
+JOBIM,42,Se todos fossem iguais a voce,8,10,10,Z1,*6,I,10,major,7.5
+JOBIM,42,Se todos fossem iguais a voce,9,4,4,y0,*Ø,II__X,10,major,8.0
+JOBIM,42,Se todos fossem iguais a voce,10,9,9,Y4,*7.13,V/III,10,major,9.0
+JOBIM,42,Se todos fossem iguais a voce,11,9,9,Y4.1,*7(b13),V/III,10,major,9.5
+JOBIM,42,Se todos fossem iguais a voce,12,2,2,Y1.1,*4.7.9,V/VI,10,major,10.0
+JOBIM,42,Se todos fossem iguais a voce,13,2,2,Y2.3,*7(b9),V/VI,10,major,10.5
+JOBIM,42,Se todos fossem iguais a voce,14,2,7,Y0,*7,V/VI,10,major,11.0
+JOBIM,42,Se todos fossem iguais a voce,15,7,2,z0,*m7,VI,10,major,11.5
+JOBIM,42,Se todos fossem iguais a voce,16,10,10,z0,*m7,II,8,major,12.0
+JOBIM,42,Se todos fossem iguais a voce,17,3,3,Y2,*7.9,V,8,major,12.5
+JOBIM,42,Se todos fossem iguais a voce,18,8,8,Z2,*M7.9,I,8,major,13.0
+JOBIM,42,Se todos fossem iguais a voce,19,9,9,y0,*Ø,II,7,major,14.0
+JOBIM,42,Se todos fossem iguais a voce,20,2,2,Y2.3,*7(b9),V,7,major,14.5
+JOBIM,42,Se todos fossem iguais a voce,21,7,7,Z0,*M7,I,7,major,15.0
+JOBIM,42,Se todos fossem iguais a voce,22,8,8,x0,*°7,V°/II,7,major,15.5
+JOBIM,42,Se todos fossem iguais a voce,23,9,9,z0,*m7,II,7,major,16.0
+JOBIM,42,Se todos fossem iguais a voce,24,0,0,z0,*m7,II,10,major,16.5
+JOBIM,42,Se todos fossem iguais a voce,25,5,5,W0,*(#5)7,V,10,major,16.75
+JOBIM,42,Se todos fossem iguais a voce,26,10,10,Z0,*M7,I,10,major,17.0
+JOBIM,42,Se todos fossem iguais a voce,27,10,10,Z1,*6,I,10,major,17.5
+JOBIM,42,Se todos fossem iguais a voce,28,9,9,y0,*Ø,II__X,10,major,18.0
+JOBIM,42,Se todos fossem iguais a voce,29,2,2,Y2.3,*7(b9),V/VI,10,major,18.5
+JOBIM,42,Se todos fossem iguais a voce,30,7,7,w0,*mM7,II__X,10,major,19.0
+JOBIM,42,Se todos fossem iguais a voce,31,0,7,Y0,*7,V/V,10,major,19.5
+JOBIM,42,Se todos fossem iguais a voce,32,5,5,y0,*Ø,II__X,10,major,20.0
+JOBIM,42,Se todos fossem iguais a voce,33,10,10,Y2,*7.9,V/IV,10,major,20.5
+JOBIM,42,Se todos fossem iguais a voce,34,3,3,Z0,*M7,IV,10,major,21.0
+JOBIM,42,Se todos fossem iguais a voce,35,3,3,Z1,*6,IV,10,major,21.5
+JOBIM,42,Se todos fossem iguais a voce,36,2,2,y0,*Ø,II__X,10,major,22.0
+JOBIM,42,Se todos fossem iguais a voce,37,7,7,Y2.3,*7(b9),V/II,10,major,22.5
+JOBIM,42,Se todos fossem iguais a voce,38,0,0,z0,*m7,II,10,major,23.0
+JOBIM,42,Se todos fossem iguais a voce,39,5,5,Y1.1,*4.7.9,V,10,major,24.0
+JOBIM,42,Se todos fossem iguais a voce,40,5,5,Y2,*7.9,V,10,major,24.5
+JOBIM,42,Se todos fossem iguais a voce,41,5,5,Y4,*7.13,V,10,major,25.0
+JOBIM,42,Se todos fossem iguais a voce,42,5,5,Z4,*(#5)M7,?,10,major,26.0
+JOBIM,42,Se todos fossem iguais a voce,43,10,10,Z1,*6,I,10,major,27.0
+JOBIM,42,Se todos fossem iguais a voce,44,4,4,y0,*Ø,II__X,10,major,29.0
+JOBIM,42,Se todos fossem iguais a voce,45,9,9,Y2.2.1.1,*7(b9.b13),V/III,10,major,30.0
+JOBIM,42,Se todos fossem iguais a voce,46,2,2,z2,*m7.9,III,10,major,31.0
+JOBIM,42,Se todos fossem iguais a voce,47,10,10,z1,*m6,Im7,10,major,31.5
+JOBIM,42,Se todos fossem iguais a voce,48,5,5,z2,*m7.9,Vm7,10,major,32.0
+JOBIM,42,Se todos fossem iguais a voce,49,5,5,Y0,*7,V,10,major,32.5
+JOBIM,42,Se todos fossem iguais a voce,50,10,10,Y1.1,*4.7.9,V/IV,10,major,33.0
+JOBIM,42,Se todos fossem iguais a voce,51,10,10,Y2.3,*7(b9),V/IV,10,major,33.5
+JOBIM,42,Se todos fossem iguais a voce,52,3,10,V0,*,IV,10,major,34.0
+JOBIM,42,Se todos fossem iguais a voce,53,10,10,Z2.2,*(#5)M7.9,I,10,major,34.5
+JOBIM,42,Se todos fossem iguais a voce,54,7,10,v0,*m,VI,10,major,35.0
+JOBIM,42,Se todos fossem iguais a voce,55,10,10,Y1.1,*4.7.9,V/IV,10,major,36.0
+JOBIM,42,Se todos fossem iguais a voce,56,10,10,Y2,*7.9,V/IV,10,major,36.5
+JOBIM,42,Se todos fossem iguais a voce,57,3,3,Z0,*M7,IV,10,major,37.0
+JOBIM,42,Se todos fossem iguais a voce,58,3,3,Z1,*6,IV,10,major,37.5
+JOBIM,42,Se todos fossem iguais a voce,59,2,2,y0,*Ø,II__X,10,major,38.0
+JOBIM,42,Se todos fossem iguais a voce,60,7,7,Y2.3,*7(b9),V/II,10,major,38.5
+JOBIM,42,Se todos fossem iguais a voce,61,3,3,Z0,*M7,IV,10,major,39.0
+JOBIM,42,Se todos fossem iguais a voce,62,4,4,y0,*Ø,#IVm7(b5),10,major,41.0
+JOBIM,42,Se todos fossem iguais a voce,63,3,3,z0,*m7,IVm7,10,major,42.0
+JOBIM,42,Se todos fossem iguais a voce,64,3,3,z1,*m6,IVm7,10,major,42.5
+JOBIM,42,Se todos fossem iguais a voce,65,10,2,V1,*4,I,10,major,43.0
+JOBIM,42,Se todos fossem iguais a voce,66,1,1,Y1.1.2,*4.7.9.13,SubV/II,10,major,44.0
+JOBIM,42,Se todos fossem iguais a voce,67,1,1,Y4,*7.13,SubV/II,10,major,44.5
+JOBIM,42,Se todos fossem iguais a voce,68,0,0,Y2,*7.9,V/V,10,major,45.0
+JOBIM,42,Se todos fossem iguais a voce,69,0,0,z0,*m7,II,10,major,46.0
+JOBIM,42,Se todos fossem iguais a voce,70,5,5,Y1.1.3,*4.7(b9),V,10,major,46.5
+JOBIM,42,Se todos fossem iguais a voce,71,6,4,Y0,*7,SubV/V,10,major,47.0
+JOBIM,42,Se todos fossem iguais a voce,72,8,3,Y0,*7,bVII7,10,major,49.0
+JOBIM,42,Se todos fossem iguais a voce,73,4,2,Y0,*7,?,10,major,51.0
+JOBIM,42,Se todos fossem iguais a voce,74,6,1,Y0,*7,?,10,major,53.0
+JOBIM,42,Se todos fossem iguais a voce,75,0,0,X2.1,*(b5)7(b9),V/V,10,major,54.0
+JOBIM,42,Se todos fossem iguais a voce,76,6,1,Y0,*7,?,10,major,54.5
+JOBIM,42,Se todos fossem iguais a voce,77,10,10,Z5,*6.M7,I,10,major,55.0
+JOBIM,42,Se todos fossem iguais a voce,78,10,10,Z2,*M7.9,I,10,major,57.0
+JOBIM,43,So danco samba,1,1,1,Z1.1,*6.9,I,1,major,1.0
+JOBIM,43,So danco samba,2,6,6,Y2,*7.9,IV7,1,major,2.0
+JOBIM,43,So danco samba,3,3,3,Y0,*7,V/V,1,major,3.0
+JOBIM,43,So danco samba,4,3,3,z0,*m7,II,1,major,5.0
+JOBIM,43,So danco samba,5,8,8,Y2,*7.9,V,1,major,6.0
+JOBIM,43,So danco samba,6,1,1,Z1.1,*6.9,I,1,major,7.0
+JOBIM,43,So danco samba,7,6,6,Y0,*7,IV7,1,major,8.0
+JOBIM,43,So danco samba,8,1,1,Z1.1,*6.9,I,1,major,9.0
+JOBIM,43,So danco samba,9,6,6,Y2,*7.9,IV7,1,major,10.0
+JOBIM,43,So danco samba,10,3,3,Y0,*7,V/V,1,major,11.0
+JOBIM,43,So danco samba,11,3,3,z0,*m7,II,1,major,13.0
+JOBIM,43,So danco samba,12,8,8,Y2,*7.9,V,1,major,14.0
+JOBIM,43,So danco samba,13,1,1,Z1.1,*6.9,I,1,major,15.0
+JOBIM,43,So danco samba,14,8,8,z2,*m7.9,II__X,1,major,17.0
+JOBIM,43,So danco samba,15,1,1,Y2.2.1.1,*7(b9.b13),V/IV,1,major,18.5
+JOBIM,43,So danco samba,16,6,6,Z1,*6,IV,1,major,19.0
+JOBIM,43,So danco samba,17,3,3,Y2,*7.9,V/V,1,major,21.0
+JOBIM,43,So danco samba,18,3,3,z0,*m7,II,1,major,23.0
+JOBIM,43,So danco samba,19,10,10,Y4.1,*7(b13),V/II,1,major,23.5
+JOBIM,43,So danco samba,20,3,3,z0,*m7,II,1,major,24.0
+JOBIM,43,So danco samba,21,8,8,Y2.2,*7.9.13,V,1,major,24.5
+JOBIM,43,So danco samba,22,1,1,Z1.1,*6.9,I,1,major,25.0
+JOBIM,43,So danco samba,23,6,6,Y2,*7.9,IV7,1,major,26.0
+JOBIM,43,So danco samba,24,3,3,Y0,*7,V/V,1,major,27.0
+JOBIM,43,So danco samba,25,3,3,z0,*m7,II,1,major,29.0
+JOBIM,43,So danco samba,26,8,8,Y2,*7.9,V,1,major,30.0
+JOBIM,43,So danco samba,27,1,1,Z1.1,*6.9,I,1,major,31.0
+JOBIM,43,So danco samba,28,1,1,Z0,*M7,I,1,major,33.0
+JOBIM,43,So danco samba,29,6,6,Y2,*7.9,IV7,1,major,34.0
+JOBIM,43,So danco samba,30,3,3,Y0,*7,V/V,1,major,35.0
+JOBIM,43,So danco samba,31,3,3,z1,*m6,II,1,major,37.0
+JOBIM,43,So danco samba,32,2,2,Z0,*M7,bII7M,1,major,38.0
+JOBIM,43,So danco samba,33,1,1,Z0,*M7,I,1,major,39.0
+JOBIM,43,So danco samba,34,6,6,Y0,*7,IV7,1,major,40.0
+JOBIM,44,So tinha de ser com voce,1,7,7,Z2,*M7.9,I,7,major,1.0
+JOBIM,44,So tinha de ser com voce,2,9,9,Y4,*7.13,V/V,7,major,2.0
+JOBIM,44,So tinha de ser com voce,3,8,8,Y4.1,*7(b13),SubV,7,major,2.5
+JOBIM,44,So tinha de ser com voce,4,7,7,Z2,*M7.9,I,7,major,3.0
+JOBIM,44,So tinha de ser com voce,5,9,9,Y4,*7.13,V/V,7,major,4.0
+JOBIM,44,So tinha de ser com voce,6,8,8,Z0,*M7,bII7M,7,major,4.5
+JOBIM,44,So tinha de ser com voce,7,8,8,Y2,*7.9,SubV,7,major,4.75
+JOBIM,44,So tinha de ser com voce,8,7,7,Z2,*M7.9,I,7,major,5.0
+JOBIM,44,So tinha de ser com voce,9,2,2,W0,*(#5)7,V,7,major,6.0
+JOBIM,44,So tinha de ser com voce,10,2,2,z0,*m7,II__X,7,major,7.0
+JOBIM,44,So tinha de ser com voce,11,7,7,Y2.3,*7(b9),V/IV,7,major,8.0
+JOBIM,44,So tinha de ser com voce,12,1,1,y0,*Ø,#IVm7(b5),7,major,9.0
+JOBIM,44,So tinha de ser com voce,13,0,0,z1,*m6,IVm7,7,major,10.0
+JOBIM,44,So tinha de ser com voce,14,11,11,Y4.1,*7(b13),V/VI,7,major,11.0
+JOBIM,44,So tinha de ser com voce,15,4,4,Y2.3,*7(b9),V/II,7,major,12.0
+JOBIM,44,So tinha de ser com voce,16,9,9,Y4,*7.13,V/V,7,major,13.0
+JOBIM,44,So tinha de ser com voce,17,2,2,Y2.3,*7(b9),V,7,major,14.0
+JOBIM,44,So tinha de ser com voce,18,7,7,z0,*m7,II__X,7,major,15.0
+JOBIM,44,So tinha de ser com voce,19,0,0,Y4,*7.13,IV7,7,major,16.0
+JOBIM,44,So tinha de ser com voce,20,5,5,Y2,*7.9,SubV/VI,7,major,16.5
+JOBIM,44,So tinha de ser com voce,21,10,10,Y4,*7.13,SubV/II,7,major,17.0
+JOBIM,44,So tinha de ser com voce,22,3,3,Y0,*7,SubV/V,7,major,17.5
+JOBIM,44,So tinha de ser com voce,23,2,2,Y1.1,*4.7.9,V,7,major,18.0
+JOBIM,44,So tinha de ser com voce,24,2,2,Y2.3,*7(b9),V,7,major,18.5
+JOBIM,44,So tinha de ser com voce,25,7,7,Z2,*M7.9,I,7,major,19.0
+JOBIM,44,So tinha de ser com voce,26,0,7,z1,*m6,IVm7,7,major,20.0
+JOBIM,44,So tinha de ser com voce,27,7,7,Z2,*M7.9,I,7,major,21.0
+JOBIM,44,So tinha de ser com voce,28,9,9,Y2.2.1,*7(b9)13,V/V,7,major,22.0
+JOBIM,44,So tinha de ser com voce,29,8,8,Y2.2,*7.9.13,SubV/V,7,major,22.25
+JOBIM,44,So tinha de ser com voce,30,2,2,Y2.3,*7(b9),V,7,major,22.5
+JOBIM,44,So tinha de ser com voce,31,7,7,z2,*m7.9,Im7,7,major,23.0
+JOBIM,44,So tinha de ser com voce,32,2,2,Y2.4,*7(#9),V,7,major,24.0
+JOBIM,44,So tinha de ser com voce,33,7,7,Y1.1,*4.7.9,V/IV,7,major,25.0
+JOBIM,44,So tinha de ser com voce,34,7,7,Y4,*7.13,V/IV,7,major,26.0
+JOBIM,44,So tinha de ser com voce,35,0,0,Z2,*M7.9,IV,7,major,27.0
+JOBIM,44,So tinha de ser com voce,36,0,0,z2,*m7.9,IVm7,7,major,28.0
+JOBIM,44,So tinha de ser com voce,37,11,11,Y2.2,*7.9.13,V/VI,7,major,29.0
+JOBIM,44,So tinha de ser com voce,38,10,10,Y2.2,*7.9.13,SubV/II,7,major,30.0
+JOBIM,44,So tinha de ser com voce,39,3,3,Z0,*M7,bVI7M,7,major,31.0
+JOBIM,44,So tinha de ser com voce,40,8,8,Z2.1,*M7.9(#11),bII7M,7,major,32.0
+JOBIM,44,So tinha de ser com voce,41,7,7,Y0,*7,V/IV,7,major,33.0
+JOBIM,44,So tinha de ser com voce,42,0,0,Y2,*7.9,IV7,7,major,34.0
+JOBIM,44,So tinha de ser com voce,43,5,5,Y2,*7.9,bVII7,7,major,34.5
+JOBIM,44,So tinha de ser com voce,44,10,10,Y4,*7.13,SubV/II,7,major,35.0
+JOBIM,44,So tinha de ser com voce,45,3,3,Y2,*7.9,SubV/V,7,major,35.5
+JOBIM,44,So tinha de ser com voce,46,2,2,Y2.2.3,*7.9(b13),V,7,major,36.0
+JOBIM,44,So tinha de ser com voce,47,7,7,Y4,*7.13,V/IV,7,major,37.0
+JOBIM,45,Solidao,1,3,3,Z0,*M7,I,3,major,1.0
+JOBIM,45,Solidao,2,5,5,z0,*m7,II,3,major,2.0
+JOBIM,45,Solidao,3,7,7,z0,*m7,III,3,major,3.0
+JOBIM,45,Solidao,4,0,0,Y1.1,*4.7.9,V/II,3,major,4.0
+JOBIM,45,Solidao,5,0,0,Y0,*7,V/II,3,major,4.5
+JOBIM,45,Solidao,6,5,5,z0,*m7,II,3,major,5.0
+JOBIM,45,Solidao,7,2,2,z0,*m7,VIIm7,3,major,5.5
+JOBIM,45,Solidao,8,1,1,z0,*m7,bVIIm7,3,major,5.75
+JOBIM,45,Solidao,9,0,0,z0,*m7,II__X,3,major,6.0
+JOBIM,45,Solidao,10,5,5,Y4,*7.13,V/V,3,major,7.0
+JOBIM,45,Solidao,11,10,10,Y4,*7.13,V,3,major,8.0
+JOBIM,45,Solidao,12,10,10,Y4.1,*7(b13),V/V,3,major,8.5
+JOBIM,45,Solidao,13,4,4,Y0,*7,SubV,3,major,8.75
+JOBIM,45,Solidao,14,3,3,Z0,*M7,I,3,major,9.0
+JOBIM,45,Solidao,15,5,5,z0,*m7,II,3,major,10.0
+JOBIM,45,Solidao,16,7,7,z0,*m7,III,3,major,11.0
+JOBIM,45,Solidao,17,0,0,Y1.1,*4.7.9,V/II,3,major,12.0
+JOBIM,45,Solidao,18,0,0,Y0,*7,V/II,3,major,12.5
+JOBIM,45,Solidao,19,8,8,Z0,*M7,IV,3,major,13.0
+JOBIM,45,Solidao,20,7,7,z0,*m7,II__X,3,major,14.0
+JOBIM,45,Solidao,21,0,0,Y2.3,*7(b9),V/II,3,major,14.5
+JOBIM,45,Solidao,22,5,5,z0,*m7,II,3,major,15.0
+JOBIM,45,Solidao,23,10,10,Y2.3,*7(b9),V,3,major,15.5
+JOBIM,45,Solidao,24,7,7,y0,*Ø,II__X,3,major,16.0
+JOBIM,45,Solidao,25,0,0,Y2.3,*7(b9),V/II,3,major,16.5
+JOBIM,45,Solidao,26,5,5,z0,*m7,II,3,major,17.0
+JOBIM,45,Solidao,27,8,8,z1,*m6,IVm7,3,major,17.5
+JOBIM,45,Solidao,28,7,7,z0,*m7,II__X,3,major,18.0
+JOBIM,45,Solidao,29,0,0,Y2.3,*7(b9),V/II,3,major,18.5
+JOBIM,45,Solidao,30,5,5,Y4,*7.13,V/V,3,major,19.0
+JOBIM,45,Solidao,31,5,5,Y4.1,*7(b13),V/V,3,major,19.25
+JOBIM,45,Solidao,32,10,10,Y2.3,*7(b9),V,3,major,19.5
+JOBIM,45,Solidao,33,3,3,Z1,*6,I,3,major,20.0
+JOBIM,46,Tereza da praia,1,2,2,z2,*m7.9,II,0,major,1.0
+JOBIM,46,Tereza da praia,2,7,7,Y2,*7.9,V,0,major,2.0
+JOBIM,46,Tereza da praia,3,7,7,Y2.3,*7(b9),V,0,major,2.5
+JOBIM,46,Tereza da praia,4,4,4,z0,*m7,II__X,0,major,3.0
+JOBIM,46,Tereza da praia,5,9,9,Y0,*7,V/II,0,major,3.5
+JOBIM,46,Tereza da praia,6,2,2,z0,*m7,II,0,major,4.0
+JOBIM,46,Tereza da praia,7,5,5,z0,*m7,II__X,0,major,4.5
+JOBIM,46,Tereza da praia,8,10,10,Y0,*7,bVII7,0,major,4.75
+JOBIM,46,Tereza da praia,9,3,3,Z0,*M7,bIII7M,0,major,5.0
+JOBIM,46,Tereza da praia,10,9,9,Y4.1,*7(b13),V/II,0,major,5.5
+JOBIM,46,Tereza da praia,11,2,2,z3,*m7.11,II,0,major,6.0
+JOBIM,46,Tereza da praia,12,10,10,Y2.3,*7(b9),bVII7,0,major,7.0
+JOBIM,46,Tereza da praia,13,7,7,W0,*(#5)7,V,0,major,8.0
+JOBIM,46,Tereza da praia,14,2,2,z2,*m7.9,II,0,major,9.0
+JOBIM,46,Tereza da praia,15,7,7,Y2,*7.9,V,0,major,10.0
+JOBIM,46,Tereza da praia,16,7,7,Y2.3,*7(b9),V,0,major,10.5
+JOBIM,46,Tereza da praia,17,4,4,z0,*m7,II__X,0,major,11.0
+JOBIM,46,Tereza da praia,18,9,9,Y0,*7,V/II,0,major,11.5
+JOBIM,46,Tereza da praia,19,2,2,z0,*m7,II,0,major,12.0
+JOBIM,46,Tereza da praia,20,5,5,z0,*m7,II__X,0,major,12.5
+JOBIM,46,Tereza da praia,21,10,10,Y0,*7,bVII7,0,major,12.75
+JOBIM,46,Tereza da praia,22,3,3,Z0,*M7,bIII7M,0,major,13.0
+JOBIM,46,Tereza da praia,23,9,9,Y4.1,*7(b13),V/II,0,major,13.5
+JOBIM,46,Tereza da praia,24,2,2,z0,*m7,II,0,major,14.0
+JOBIM,46,Tereza da praia,25,7,7,z0,*m7,II__X,0,major,15.0
+JOBIM,46,Tereza da praia,26,0,0,X0,*(b5)7,V/IV,0,major,16.0
+JOBIM,46,Tereza da praia,27,5,5,z0,*m7,II__X,0,major,17.0
+JOBIM,46,Tereza da praia,28,10,10,Y0,*7,bVII7,0,major,17.5
+JOBIM,46,Tereza da praia,29,3,3,Z0,*M7,bIII7M,0,major,18.0
+JOBIM,46,Tereza da praia,30,2,2,z0,*m7,II,0,major,19.0
+JOBIM,46,Tereza da praia,31,7,7,Y0,*7,V,0,major,19.5
+JOBIM,46,Tereza da praia,32,0,0,Z0,*M7,I,0,major,20.0
+JOBIM,46,Tereza da praia,33,0,0,Z1,*6,I,0,major,20.5
+JOBIM,46,Tereza da praia,34,5,5,z0,*m7,II__X,0,major,21.0
+JOBIM,46,Tereza da praia,35,10,10,Y0,*7,bVII7,0,major,21.5
+JOBIM,46,Tereza da praia,36,3,3,Z0,*M7,bIII7M,0,major,22.0
+JOBIM,46,Tereza da praia,37,2,2,z0,*m7,II,0,major,23.0
+JOBIM,46,Tereza da praia,38,9,9,Y2.3,*7(b9),V/II,0,major,23.5
+JOBIM,46,Tereza da praia,39,2,2,z0,*m7,II,0,major,24.0
+JOBIM,46,Tereza da praia,40,7,7,Y0,*7,V,0,major,24.5
+JOBIM,46,Tereza da praia,41,2,2,z2,*m7.9,II,0,major,25.0
+JOBIM,46,Tereza da praia,42,7,7,Y2,*7.9,V,0,major,26.0
+JOBIM,46,Tereza da praia,43,7,7,Y2.3,*7(b9),V,0,major,26.5
+JOBIM,46,Tereza da praia,44,4,4,z0,*m7,II__X,0,major,27.0
+JOBIM,46,Tereza da praia,45,9,9,Y0,*7,V/II,0,major,27.5
+JOBIM,46,Tereza da praia,46,2,2,z0,*m7,II,0,major,28.0
+JOBIM,46,Tereza da praia,47,5,5,z0,*m7,II__X,0,major,28.5
+JOBIM,46,Tereza da praia,48,10,10,Y0,*7,bVII7,0,major,28.75
+JOBIM,46,Tereza da praia,49,3,3,Z0,*M7,bIII7M,0,major,29.0
+JOBIM,46,Tereza da praia,50,9,9,Y4.1,*7(b13),V/II,0,major,29.5
+JOBIM,46,Tereza da praia,51,2,2,z3,*m7.11,II,0,major,30.0
+JOBIM,46,Tereza da praia,52,7,7,Y0,*7,V,0,major,30.5
+JOBIM,46,Tereza da praia,53,4,4,z0,*m7,II__X,0,major,31.0
+JOBIM,46,Tereza da praia,54,9,9,Y2.3,*7(b9),V/II,0,major,31.5
+JOBIM,46,Tereza da praia,55,2,2,z0,*m7,II,0,major,32.0
+JOBIM,46,Tereza da praia,56,7,7,Y0,*7,V,0,major,32.5
+JOBIM,46,Tereza da praia,57,4,4,z2,*m7.9,II__X,0,major,33.0
+JOBIM,46,Tereza da praia,58,9,9,Y2.2.1.1,*7(b9.b13),V/II,0,major,33.5
+JOBIM,46,Tereza da praia,59,2,2,Y2,*7.9,V/V,0,major,34.0
+JOBIM,46,Tereza da praia,60,5,5,Z0,*M7,IV,0,major,35.0
+JOBIM,46,Tereza da praia,61,4,4,w0,*mM7,III,0,major,35.25
+JOBIM,46,Tereza da praia,62,3,3,Z0,*M7,bIII7M,0,major,35.5
+JOBIM,46,Tereza da praia,63,1,1,Z0,*M7,bII7M,0,major,35.75
+JOBIM,46,Tereza da praia,64,0,0,Z2.1,*M7.9(#11),I,0,major,36.0
+JOBIM,47,Triste,1,9,9,Z0,*M7,I,9,major,1.0
+JOBIM,47,Triste,2,9,9,Z1,*6,I,9,major,2.0
+JOBIM,47,Triste,3,5,9,Z4,*(#5)M7,bVI7M,9,major,3.0
+JOBIM,47,Triste,4,9,9,Z0,*M7,I,9,major,5.0
+JOBIM,47,Triste,5,9,9,Z1,*6,I,9,major,6.0
+JOBIM,47,Triste,6,1,1,z0,*m7,II__X,9,major,7.0
+JOBIM,47,Triste,7,6,6,Y0,*7,V/III,9,major,8.0
+JOBIM,47,Triste,8,11,11,z0,*m7,II,9,major,9.0
+JOBIM,47,Triste,9,8,8,y0,*Ø,II__X,9,major,10.0
+JOBIM,47,Triste,10,1,1,Y0,*7,V/VI,9,major,10.5
+JOBIM,47,Triste,11,6,6,w0,*mM7,VI,9,major,11.0
+JOBIM,47,Triste,12,6,6,z0,*m7,VI,9,major,11.5
+JOBIM,47,Triste,13,8,8,Y4,*7.13,V/III,9,major,12.0
+JOBIM,47,Triste,14,8,8,Y4.1,*7(b13),V/III,9,major,12.5
+JOBIM,47,Triste,15,1,1,Z0,*M7,I,1,major,13.0
+JOBIM,47,Triste,16,8,8,Y4,*7.13,V,1,major,14.0
+JOBIM,47,Triste,17,1,1,Z1.1,*6.9,I,1,major,15.0
+JOBIM,47,Triste,18,6,6,Y0,*7,IV7,1,major,15.5
+JOBIM,47,Triste,19,11,11,z0,*m7,II,9,major,16.0
+JOBIM,47,Triste,20,4,4,Y4,*7.13,V,9,major,16.5
+JOBIM,47,Triste,21,9,9,Z0,*M7,I,9,major,17.0
+JOBIM,47,Triste,22,9,9,Z1,*6,I,9,major,18.0
+JOBIM,47,Triste,23,9,9,z2,*m7.9,Im7,9,major,19.0
+JOBIM,47,Triste,24,9,9,z1.1,*m6.9,Im7,9,major,20.0
+JOBIM,47,Triste,25,9,9,Z0,*M7,I,9,major,21.0
+JOBIM,47,Triste,26,9,9,Z1,*6,I,9,major,22.0
+JOBIM,47,Triste,27,4,4,z0,*m7,II__X,9,major,23.0
+JOBIM,47,Triste,28,9,9,Y2.2.1,*7(b9)13,V/IV,9,major,24.0
+JOBIM,47,Triste,29,2,2,Z0,*M7,IV,9,major,25.0
+JOBIM,47,Triste,30,2,2,z1,*m6,IVm7,9,major,26.0
+JOBIM,47,Triste,31,1,1,z0,*m7,III,9,major,27.0
+JOBIM,47,Triste,32,0,0,x4,*°7.14,bIII°,9,major,28.0
+JOBIM,47,Triste,33,11,11,z0,*m7,II,9,major,29.0
+JOBIM,47,Triste,34,4,4,Y1.1,*4.7.9,V,9,major,30.0
+JOBIM,47,Triste,35,4,4,Y1.1.3,*4.7(b9),V,9,major,30.5
+JOBIM,47,Triste,36,9,9,z0,*m7,Im7,9,major,31.0
+JOBIM,47,Triste,37,9,9,z1,*m6,Im7,9,major,32.0
+JOBIM,48,Vivo sonhando,1,7,7,Z0,*M7,I,7,major,1.0
+JOBIM,48,Vivo sonhando,2,3,3,Z2,*M7.9,bVI7M,7,major,3.0
+JOBIM,48,Vivo sonhando,3,7,7,Z0,*M7,I,7,major,5.0
+JOBIM,48,Vivo sonhando,4,11,11,z0,*m7,II__X,7,major,7.0
+JOBIM,48,Vivo sonhando,5,4,4,Y4.1,*7(b13),V/II,7,major,8.0
+JOBIM,48,Vivo sonhando,6,9,9,z0,*m7,II,7,major,9.0
+JOBIM,48,Vivo sonhando,7,0,0,z2,*m7.9,II__X,7,major,10.0
+JOBIM,48,Vivo sonhando,8,5,5,Y2,*7.9,bVII7,7,major,10.5
+JOBIM,48,Vivo sonhando,9,11,11,Y4,*7.13,V/VI,7,major,11.0
+JOBIM,48,Vivo sonhando,10,11,11,Y4.1,*7(b13),V/VI,7,major,11.5
+JOBIM,48,Vivo sonhando,11,4,4,Y2.2.3,*7.9(b13),V/II,7,major,12.0
+JOBIM,48,Vivo sonhando,12,4,4,Y2.3,*7(b9),V/II,7,major,12.5
+JOBIM,48,Vivo sonhando,13,9,9,Y4,*7.13,V/V,7,major,13.0
+JOBIM,48,Vivo sonhando,14,9,9,Y4.1,*7(b13),V/V,7,major,13.5
+JOBIM,48,Vivo sonhando,15,2,2,Y1.1,*4.7.9,V,7,major,14.0
+JOBIM,48,Vivo sonhando,16,2,2,Y2.3,*7(b9),V,7,major,14.5
+JOBIM,48,Vivo sonhando,17,7,7,Z0,*M7,I,7,major,15.0
+JOBIM,48,Vivo sonhando,18,3,3,Z0,*M7,bVI7M,7,major,16.0
+JOBIM,49,Voce vai ver,1,11,11,y3,*Ø(b13),#IVm7(b5),5,major,1.0
+JOBIM,49,Voce vai ver,2,10,10,z1.2,*m6.11,IVm7,5,major,2.0
+JOBIM,49,Voce vai ver,3,9,9,z3,*m7.11,II,5,major,3.0
+JOBIM,49,Voce vai ver,4,8,8,Y2.2,*7.9.13,SubV/II,5,major,4.0
+JOBIM,49,Voce vai ver,5,1,1,Z0,*M7,bVI7M,5,major,5.0
+JOBIM,49,Voce vai ver,6,6,6,Z3,*M7(#11),bII7M,5,major,6.0
+JOBIM,49,Voce vai ver,7,5,5,Z0,*M7,I,5,major,7.0
+JOBIM,49,Voce vai ver,8,5,5,Z1,*6,I,5,major,7.5
+JOBIM,49,Voce vai ver,9,9,9,Y3,*7(#11),SubV,5,major,8.0
+JOBIM,49,Voce vai ver,10,5,5,Z0,*M7,I,5,major,9.0
+JOBIM,49,Voce vai ver,11,11,11,y3,*Ø(b13),II__X,5,major,11.0
+JOBIM,49,Voce vai ver,12,4,4,Y0,*7,V/III,5,major,12.0
+JOBIM,49,Voce vai ver,13,3,3,Z0,*M7,bVII7M,5,major,13.0
+JOBIM,49,Voce vai ver,14,3,3,Z1,*6,bVII7M,5,major,14.0
+JOBIM,49,Voce vai ver,15,2,2,Y1,*4.7,V/II,5,major,15.0
+JOBIM,49,Voce vai ver,16,2,2,Y0,*7,V/II,5,major,16.0
+JOBIM,49,Voce vai ver,17,7,7,z0,*m7,II,5,major,17.0
+JOBIM,49,Voce vai ver,18,0,0,Y2,*7.9,V,5,major,18.0
+JOBIM,49,Voce vai ver,19,5,5,Z1,*6,I,5,major,19.0
+JOBIM,49,Voce vai ver,20,11,11,y3,*Ø(b13),II__X,5,major,21.0
+JOBIM,49,Voce vai ver,21,4,4,Y0,*7,V/III,5,major,22.0
+JOBIM,49,Voce vai ver,22,9,9,Z0,*M7,IIIM7,5,major,23.0
+JOBIM,49,Voce vai ver,23,8,8,Z0,*M7,bIII7M,5,major,23.5
+JOBIM,49,Voce vai ver,24,7,7,z0,*m7,II,5,major,24.0
+JOBIM,49,Voce vai ver,25,6,6,Y3,*7(#11),SubV,5,major,24.5
+JOBIM,49,Voce vai ver,26,5,5,Z0,*M7,I,5,major,25.0
+JOBIM,49,Voce vai ver,27,11,11,y3,*Ø(b13),II__X,5,major,27.0
+JOBIM,49,Voce vai ver,28,4,4,Y0,*7,V/III,5,major,28.0
+JOBIM,49,Voce vai ver,29,3,3,Z0,*M7,bVII7M,5,major,29.0
+JOBIM,49,Voce vai ver,30,3,3,Z1,*6,bVII7M,5,major,30.0
+JOBIM,49,Voce vai ver,31,2,2,Y1,*4.7,V/II,5,major,31.0
+JOBIM,49,Voce vai ver,32,2,2,Y0,*7,V/II,5,major,32.0
+JOBIM,49,Voce vai ver,33,7,7,z0,*m7,II,5,major,33.0
+JOBIM,49,Voce vai ver,34,0,0,Y2,*7.9,V,5,major,34.0
+JOBIM,49,Voce vai ver,35,9,9,z3,*m7.11,II__X,5,major,35.0
+JOBIM,49,Voce vai ver,36,2,2,Y0,*7,V/II,5,major,36.0
+JOBIM,49,Voce vai ver,37,7,7,Y2.2,*7.9.13,V/V,5,major,37.0
+JOBIM,49,Voce vai ver,38,7,7,z0,*m7,II,5,major,38.0
+JOBIM,49,Voce vai ver,39,0,0,Y1.1,*4.7.9,V,5,major,38.5
+JOBIM,49,Voce vai ver,40,9,9,Y4,*7.13,V/VI,5,major,39.0
+JOBIM,49,Voce vai ver,41,9,9,Y4.1,*7(b13),V/VI,5,major,39.5
+JOBIM,49,Voce vai ver,42,9,9,z0,*m7,II__X,5,major,40.0
+JOBIM,49,Voce vai ver,43,2,2,Y2.3,*7(b9),V/II,5,major,40.5
+JOBIM,49,Voce vai ver,44,7,7,Y4,*7.13,V/V,5,major,41.0
+JOBIM,49,Voce vai ver,45,0,0,Y1.1,*4.7.9,V,5,major,42.0
+JOBIM,49,Voce vai ver,46,0,0,Y2.3,*7(b9),V,5,major,42.5
+JOBIM,49,Voce vai ver,47,11,11,y3,*Ø(b13),#IVm7(b5),5,major,43.0
+JOBIM,49,Voce vai ver,48,10,10,z1.2,*m6.11,IVm7,5,major,44.0
+JOBIM,49,Voce vai ver,49,9,9,z3,*m7.11,II,5,major,45.0
+JOBIM,49,Voce vai ver,50,8,8,Y2.2,*7.9.13,SubV/II,5,major,46.0
+JOBIM,49,Voce vai ver,51,1,1,Z0,*M7,bVI7M,5,major,47.0
+JOBIM,49,Voce vai ver,52,6,6,Z3,*M7(#11),bII7M,5,major,48.0
+JOBIM,49,Voce vai ver,53,5,5,Z0,*M7,I,5,major,49.0
+JOBIM,50,Wave,1,2,2,z0,*m7,Im7,2,major,1.0
+JOBIM,50,Wave,2,7,7,Y4,*7.13,IV7,2,major,1.5
+JOBIM,50,Wave,3,2,2,z0,*m7,Im7,2,major,2.0
+JOBIM,50,Wave,4,7,7,Y4,*7.13,IV7,2,major,2.5
+JOBIM,50,Wave,5,2,2,z0,*m7,Im7,2,major,3.0
+JOBIM,50,Wave,6,7,7,Y4,*7.13,IV7,2,major,3.5
+JOBIM,50,Wave,7,2,2,z0,*m7,Im7,2,major,4.0
+JOBIM,50,Wave,8,7,7,Y4,*7.13,IV7,2,major,4.5
+JOBIM,50,Wave,9,2,2,Z2,*M7.9,I,2,major,5.0
+JOBIM,50,Wave,10,10,10,x1.2,*°7.9(b13),V°/V,2,major,6.0
+JOBIM,50,Wave,11,9,9,z0,*m7,II__X,2,major,7.0
+JOBIM,50,Wave,12,2,2,Y2.3,*7(b9),V/IV,2,major,8.0
+JOBIM,50,Wave,13,7,7,Z0,*M7,IV,2,major,9.0
+JOBIM,50,Wave,14,7,7,z1,*m6,IVm7,2,major,10.0
+JOBIM,50,Wave,15,6,6,Y4,*7.13,V/VI,2,major,11.0
+JOBIM,50,Wave,16,6,6,Y4.1,*7(b13),V/VI,2,major,11.5
+JOBIM,50,Wave,17,11,11,Y2,*7.9,V/II,2,major,12.0
+JOBIM,50,Wave,18,11,11,Y2.3,*7(b9),V/II,2,major,12.5
+JOBIM,50,Wave,19,4,4,Y1,*4.7,V/V,2,major,13.0
+JOBIM,50,Wave,20,4,4,Y0,*7,V/V,2,major,13.5
+JOBIM,50,Wave,21,10,10,Y2,*7.9,SubV/V,2,major,14.0
+JOBIM,50,Wave,22,9,9,Y4.1,*7(b13),V,2,major,14.5
+JOBIM,50,Wave,23,2,2,z0,*m7,Im7,2,major,15.0
+JOBIM,50,Wave,24,7,7,Y0,*7,IV7,2,major,15.5
+JOBIM,50,Wave,25,2,2,z0,*m7,Im7,2,major,16.0
+JOBIM,50,Wave,26,7,7,Y0,*7,IV7,2,major,16.5
+JOBIM,50,Wave,27,2,2,Z2,*M7.9,I,2,major,17.0
+JOBIM,50,Wave,28,10,10,x1.2,*°7.9(b13),V°/V,2,major,18.0
+JOBIM,50,Wave,29,9,9,z0,*m7,II__X,2,major,19.0
+JOBIM,50,Wave,30,2,2,Y2.3,*7(b9),V/IV,2,major,20.0
+JOBIM,50,Wave,31,7,7,Z0,*M7,IV,2,major,21.0
+JOBIM,50,Wave,32,7,7,z1,*m6,IVm7,2,major,22.0
+JOBIM,50,Wave,33,6,6,Y4,*7.13,V/VI,2,major,23.0
+JOBIM,50,Wave,34,6,6,Y4.1,*7(b13),V/VI,2,major,23.5
+JOBIM,50,Wave,35,11,11,Y2,*7.9,V/II,2,major,24.0
+JOBIM,50,Wave,36,11,11,Y2.3,*7(b9),V/II,2,major,24.5
+JOBIM,50,Wave,37,4,4,Y1,*4.7,V/V,2,major,25.0
+JOBIM,50,Wave,38,4,4,Y0,*7,V/V,2,major,25.5
+JOBIM,50,Wave,39,10,10,Y2,*7.9,SubV/V,2,major,26.0
+JOBIM,50,Wave,40,9,9,Y4.1,*7(b13),V,2,major,26.5
+JOBIM,50,Wave,41,2,2,z0,*m7,Im7,2,major,27.0
+JOBIM,50,Wave,42,7,7,Y0,*7,IV7,2,major,27.5
+JOBIM,50,Wave,43,2,2,z0,*m7,Im7,2,major,28.0
+JOBIM,50,Wave,44,7,7,Y0,*7,IV7,2,major,28.5

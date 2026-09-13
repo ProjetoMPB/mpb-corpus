@@ -1,0 +1,3284 @@
+corpus_id,composition_id,composition_name,mode,note_index,scale_degree,note_function
+CAETANO,1,A filha da Chiquita Bacana,major,1,5,5
+CAETANO,1,A filha da Chiquita Bacana,major,2,6,6
+CAETANO,1,A filha da Chiquita Bacana,major,3,5,5
+CAETANO,1,A filha da Chiquita Bacana,major,4,3,3
+CAETANO,1,A filha da Chiquita Bacana,major,5,1,1
+CAETANO,1,A filha da Chiquita Bacana,major,6,6,3
+CAETANO,1,A filha da Chiquita Bacana,major,7,1,5
+CAETANO,1,A filha da Chiquita Bacana,major,8,3,3
+CAETANO,1,A filha da Chiquita Bacana,major,9,1,1
+CAETANO,1,A filha da Chiquita Bacana,major,10,3,3
+CAETANO,1,A filha da Chiquita Bacana,major,11,5,5
+CAETANO,1,A filha da Chiquita Bacana,major,12,#5/b6,1
+CAETANO,1,A filha da Chiquita Bacana,major,13,#5/b6,b9/#9
+CAETANO,1,A filha da Chiquita Bacana,major,14,5,x
+CAETANO,1,A filha da Chiquita Bacana,major,15,4,7
+CAETANO,1,A filha da Chiquita Bacana,major,16,5,x
+CAETANO,1,A filha da Chiquita Bacana,major,17,#5/b6,1
+CAETANO,1,A filha da Chiquita Bacana,major,18,#6/b7,9
+CAETANO,1,A filha da Chiquita Bacana,major,19,#5/b6,b9/#9
+CAETANO,1,A filha da Chiquita Bacana,major,20,5,x
+CAETANO,1,A filha da Chiquita Bacana,major,21,4,7
+CAETANO,1,A filha da Chiquita Bacana,major,22,5,1
+CAETANO,1,A filha da Chiquita Bacana,major,23,6,3
+CAETANO,1,A filha da Chiquita Bacana,major,24,5,x
+CAETANO,1,A filha da Chiquita Bacana,major,25,4,1
+CAETANO,1,A filha da Chiquita Bacana,major,26,5,5
+CAETANO,1,A filha da Chiquita Bacana,major,27,6,3
+CAETANO,1,A filha da Chiquita Bacana,major,28,5,x
+CAETANO,1,A filha da Chiquita Bacana,major,29,4,1
+CAETANO,1,A filha da Chiquita Bacana,major,30,6,3
+CAETANO,1,A filha da Chiquita Bacana,major,31,5,5
+CAETANO,1,A filha da Chiquita Bacana,major,32,1,1
+CAETANO,1,A filha da Chiquita Bacana,major,33,6,3
+CAETANO,1,A filha da Chiquita Bacana,major,34,5,x
+CAETANO,1,A filha da Chiquita Bacana,major,35,4,1
+CAETANO,1,A filha da Chiquita Bacana,major,36,6,3
+CAETANO,1,A filha da Chiquita Bacana,major,37,5,5
+CAETANO,1,A filha da Chiquita Bacana,major,38,3,3
+CAETANO,1,A filha da Chiquita Bacana,major,39,1,1
+CAETANO,1,A filha da Chiquita Bacana,major,40,5,5
+CAETANO,1,A filha da Chiquita Bacana,major,41,#2/b3,5
+CAETANO,1,A filha da Chiquita Bacana,major,42,2,5
+CAETANO,1,A filha da Chiquita Bacana,major,43,1,1
+CAETANO,1,A filha da Chiquita Bacana,major,44,1,b13
+CAETANO,1,A filha da Chiquita Bacana,major,45,7,5
+CAETANO,1,A filha da Chiquita Bacana,major,46,2,7
+CAETANO,1,A filha da Chiquita Bacana,major,47,7,5
+CAETANO,1,A filha da Chiquita Bacana,major,48,#5/b6,3
+CAETANO,1,A filha da Chiquita Bacana,major,49,7,5
+CAETANO,1,A filha da Chiquita Bacana,major,50,1,x
+CAETANO,1,A filha da Chiquita Bacana,major,51,7,x
+CAETANO,1,A filha da Chiquita Bacana,major,52,6,3
+CAETANO,1,A filha da Chiquita Bacana,major,53,1,5
+CAETANO,1,A filha da Chiquita Bacana,major,54,6,3
+CAETANO,1,A filha da Chiquita Bacana,major,55,4,1
+CAETANO,1,A filha da Chiquita Bacana,major,56,6,3
+CAETANO,1,A filha da Chiquita Bacana,major,57,7,x
+CAETANO,1,A filha da Chiquita Bacana,major,58,6,x
+CAETANO,1,A filha da Chiquita Bacana,major,59,5,5
+CAETANO,1,A filha da Chiquita Bacana,major,60,7,3
+CAETANO,1,A filha da Chiquita Bacana,major,61,5,1
+CAETANO,1,A filha da Chiquita Bacana,major,62,3,13
+CAETANO,1,A filha da Chiquita Bacana,major,63,1,1
+CAETANO,1,A filha da Chiquita Bacana,major,64,7,x
+CAETANO,1,A filha da Chiquita Bacana,major,65,1,1
+CAETANO,1,A filha da Chiquita Bacana,major,66,2,x
+CAETANO,1,A filha da Chiquita Bacana,major,67,1,b13
+CAETANO,1,A filha da Chiquita Bacana,major,68,7,5
+CAETANO,1,A filha da Chiquita Bacana,major,69,2,7
+CAETANO,1,A filha da Chiquita Bacana,major,70,7,5
+CAETANO,1,A filha da Chiquita Bacana,major,71,#5/b6,3
+CAETANO,1,A filha da Chiquita Bacana,major,72,2,7
+CAETANO,1,A filha da Chiquita Bacana,major,73,#1/b2,x
+CAETANO,1,A filha da Chiquita Bacana,major,74,2,7
+CAETANO,1,A filha da Chiquita Bacana,major,75,#1/b2,x
+CAETANO,1,A filha da Chiquita Bacana,major,76,2,7
+CAETANO,1,A filha da Chiquita Bacana,major,77,3,x
+CAETANO,1,A filha da Chiquita Bacana,major,78,2,6
+CAETANO,1,A filha da Chiquita Bacana,major,79,1,5
+CAETANO,1,A filha da Chiquita Bacana,major,80,3,7
+CAETANO,1,A filha da Chiquita Bacana,major,81,1,5
+CAETANO,1,A filha da Chiquita Bacana,major,82,6,3
+CAETANO,1,A filha da Chiquita Bacana,major,83,1,5
+CAETANO,1,A filha da Chiquita Bacana,major,84,2,x
+CAETANO,1,A filha da Chiquita Bacana,major,85,3,3
+CAETANO,1,A filha da Chiquita Bacana,major,86,2,x
+CAETANO,1,A filha da Chiquita Bacana,major,87,1,1
+CAETANO,1,A filha da Chiquita Bacana,major,88,3,3
+CAETANO,1,A filha da Chiquita Bacana,major,89,#2/b3,5
+CAETANO,1,A filha da Chiquita Bacana,major,90,2,5
+CAETANO,1,A filha da Chiquita Bacana,major,91,1,1
+CAETANO,2,A outra banda da terra,major,1,3,3
+CAETANO,2,A outra banda da terra,major,2,5,5
+CAETANO,2,A outra banda da terra,major,3,#5/b6,3
+CAETANO,2,A outra banda da terra,major,4,5,13
+CAETANO,2,A outra banda da terra,major,5,#2/b3,1
+CAETANO,2,A outra banda da terra,major,6,5,3
+CAETANO,2,A outra banda da terra,major,7,5,7
+CAETANO,2,A outra banda da terra,major,8,4,6
+CAETANO,2,A outra banda da terra,major,9,#2/b3,5
+CAETANO,2,A outra banda da terra,major,10,2,1
+CAETANO,2,A outra banda da terra,major,11,4,3
+CAETANO,2,A outra banda da terra,major,12,4,7
+CAETANO,2,A outra banda da terra,major,13,3,13
+CAETANO,2,A outra banda da terra,major,14,5,1
+CAETANO,2,A outra banda da terra,major,15,5,5
+CAETANO,2,A outra banda da terra,major,16,4,1
+CAETANO,2,A outra banda da terra,major,17,6,3
+CAETANO,2,A outra banda da terra,major,18,5,x
+CAETANO,2,A outra banda da terra,major,19,4,1
+CAETANO,2,A outra banda da terra,major,20,3,1
+CAETANO,2,A outra banda da terra,major,21,6,11
+CAETANO,2,A outra banda da terra,major,22,5,x
+CAETANO,2,A outra banda da terra,major,23,4,b13
+CAETANO,2,A outra banda da terra,major,24,3,5
+CAETANO,2,A outra banda da terra,major,25,6,1
+CAETANO,2,A outra banda da terra,major,26,7,x
+CAETANO,2,A outra banda da terra,major,27,1,x
+CAETANO,2,A outra banda da terra,major,28,7,13
+CAETANO,2,A outra banda da terra,major,29,6,5
+CAETANO,2,A outra banda da terra,major,30,3,9
+CAETANO,2,A outra banda da terra,major,31,5,x
+CAETANO,2,A outra banda da terra,major,32,#4/b5,9
+CAETANO,2,A outra banda da terra,major,33,3,1
+CAETANO,2,A outra banda da terra,major,34,6,3
+CAETANO,2,A outra banda da terra,major,35,7,x
+CAETANO,2,A outra banda da terra,major,36,1,b13
+CAETANO,2,A outra banda da terra,major,37,7,13
+CAETANO,2,A outra banda da terra,major,38,2,9
+CAETANO,2,A outra banda da terra,major,39,6,5
+CAETANO,2,A outra banda da terra,major,40,7,x
+CAETANO,2,A outra banda da terra,major,41,1,7
+CAETANO,2,A outra banda da terra,major,42,7,x
+CAETANO,2,A outra banda da terra,major,43,6,5
+CAETANO,2,A outra banda da terra,major,44,3,9
+CAETANO,2,A outra banda da terra,major,45,2,x
+CAETANO,2,A outra banda da terra,major,46,3,1
+CAETANO,2,A outra banda da terra,major,47,6,3
+CAETANO,2,A outra banda da terra,major,48,7,x
+CAETANO,2,A outra banda da terra,major,49,1,b13
+CAETANO,2,A outra banda da terra,major,50,7,x
+CAETANO,2,A outra banda da terra,major,51,6,5
+CAETANO,2,A outra banda da terra,major,52,3,9
+CAETANO,2,A outra banda da terra,major,53,#4/b5,3
+CAETANO,2,A outra banda da terra,major,54,7,13
+CAETANO,2,A outra banda da terra,major,55,#1/b2,x
+CAETANO,2,A outra banda da terra,major,56,2,1
+CAETANO,2,A outra banda da terra,major,57,#1/b2,13
+CAETANO,2,A outra banda da terra,major,58,7,5
+CAETANO,2,A outra banda da terra,major,59,#4/b5,9
+CAETANO,2,A outra banda da terra,major,60,3,1
+CAETANO,2,A outra banda da terra,major,61,6,3
+CAETANO,2,A outra banda da terra,major,62,7,x
+CAETANO,2,A outra banda da terra,major,63,1,b13
+CAETANO,2,A outra banda da terra,major,64,7,x
+CAETANO,2,A outra banda da terra,major,65,6,5
+CAETANO,2,A outra banda da terra,major,66,3,x
+CAETANO,2,A outra banda da terra,major,67,#2/b3,b9/#9
+CAETANO,2,A outra banda da terra,major,68,#2/b3,b13
+CAETANO,3,Atras do trio eletrico,major,1,3,3
+CAETANO,3,Atras do trio eletrico,major,2,2,x
+CAETANO,3,Atras do trio eletrico,major,3,1,1
+CAETANO,3,Atras do trio eletrico,major,4,7,x
+CAETANO,3,Atras do trio eletrico,major,5,#6/b7,x
+CAETANO,3,Atras do trio eletrico,major,6,6,3
+CAETANO,3,Atras do trio eletrico,major,7,1,5
+CAETANO,3,Atras do trio eletrico,major,8,4,1
+CAETANO,3,Atras do trio eletrico,major,9,7,3
+CAETANO,3,Atras do trio eletrico,major,10,2,5
+CAETANO,3,Atras do trio eletrico,major,11,4,7
+CAETANO,3,Atras do trio eletrico,major,12,6,x
+CAETANO,3,Atras do trio eletrico,major,13,5,5
+CAETANO,3,Atras do trio eletrico,major,14,3,3
+CAETANO,3,Atras do trio eletrico,major,15,5,5
+CAETANO,3,Atras do trio eletrico,major,16,1,1
+CAETANO,3,Atras do trio eletrico,major,17,6,x
+CAETANO,3,Atras do trio eletrico,major,18,5,5
+CAETANO,3,Atras do trio eletrico,major,19,3,3
+CAETANO,3,Atras do trio eletrico,major,20,6,3
+CAETANO,3,Atras do trio eletrico,major,21,5,5
+CAETANO,3,Atras do trio eletrico,major,22,4,1
+CAETANO,3,Atras do trio eletrico,major,23,7,3
+CAETANO,3,Atras do trio eletrico,major,24,2,5
+CAETANO,3,Atras do trio eletrico,major,25,6,x
+CAETANO,3,Atras do trio eletrico,major,26,5,1
+CAETANO,3,Atras do trio eletrico,major,27,6,3
+CAETANO,3,Atras do trio eletrico,major,28,1,5
+CAETANO,3,Atras do trio eletrico,major,29,4,1
+CAETANO,3,Atras do trio eletrico,major,30,7,#11
+CAETANO,3,Atras do trio eletrico,major,31,2,5
+CAETANO,3,Atras do trio eletrico,major,32,4,7
+CAETANO,3,Atras do trio eletrico,major,33,6,x
+CAETANO,3,Atras do trio eletrico,major,34,5,1
+CAETANO,3,Atras do trio eletrico,major,35,6,3
+CAETANO,3,Atras do trio eletrico,major,36,1,5
+CAETANO,3,Atras do trio eletrico,major,37,4,1
+CAETANO,3,Atras do trio eletrico,major,38,7,#11
+CAETANO,3,Atras do trio eletrico,major,39,2,5
+CAETANO,3,Atras do trio eletrico,major,40,4,7
+CAETANO,3,Atras do trio eletrico,major,41,6,x
+CAETANO,3,Atras do trio eletrico,major,42,5,1
+CAETANO,3,Atras do trio eletrico,major,43,1,1
+CAETANO,3,Atras do trio eletrico,major,44,3,3
+CAETANO,3,Atras do trio eletrico,major,45,5,5
+CAETANO,3,Atras do trio eletrico,major,46,3,3
+CAETANO,3,Atras do trio eletrico,major,47,5,5
+CAETANO,3,Atras do trio eletrico,major,48,3,3
+CAETANO,3,Atras do trio eletrico,major,49,5,5
+CAETANO,3,Atras do trio eletrico,major,50,3,3
+CAETANO,3,Atras do trio eletrico,major,51,5,5
+CAETANO,3,Atras do trio eletrico,major,52,3,3
+CAETANO,3,Atras do trio eletrico,major,53,5,5
+CAETANO,3,Atras do trio eletrico,major,54,4,7
+CAETANO,3,Atras do trio eletrico,major,55,2,5
+CAETANO,3,Atras do trio eletrico,major,56,4,7
+CAETANO,3,Atras do trio eletrico,major,57,2,5
+CAETANO,3,Atras do trio eletrico,major,58,4,7
+CAETANO,3,Atras do trio eletrico,major,59,2,5
+CAETANO,3,Atras do trio eletrico,major,60,4,7
+CAETANO,3,Atras do trio eletrico,major,61,2,5
+CAETANO,3,Atras do trio eletrico,major,62,4,7
+CAETANO,3,Atras do trio eletrico,major,63,2,5
+CAETANO,3,Atras do trio eletrico,major,64,4,7
+CAETANO,3,Atras do trio eletrico,major,65,2,5
+CAETANO,3,Atras do trio eletrico,major,66,4,7
+CAETANO,3,Atras do trio eletrico,major,67,3,3
+CAETANO,3,Atras do trio eletrico,major,68,5,5
+CAETANO,3,Atras do trio eletrico,major,69,3,3
+CAETANO,3,Atras do trio eletrico,major,70,5,5
+CAETANO,3,Atras do trio eletrico,major,71,3,3
+CAETANO,3,Atras do trio eletrico,major,72,5,5
+CAETANO,3,Atras do trio eletrico,major,73,3,3
+CAETANO,3,Atras do trio eletrico,major,74,5,5
+CAETANO,3,Atras do trio eletrico,major,75,3,3
+CAETANO,3,Atras do trio eletrico,major,76,5,5
+CAETANO,3,Atras do trio eletrico,major,77,3,3
+CAETANO,3,Atras do trio eletrico,major,78,5,5
+CAETANO,3,Atras do trio eletrico,major,79,6,3
+CAETANO,3,Atras do trio eletrico,major,80,1,5
+CAETANO,3,Atras do trio eletrico,major,81,6,3
+CAETANO,3,Atras do trio eletrico,major,82,1,5
+CAETANO,3,Atras do trio eletrico,major,83,6,3
+CAETANO,3,Atras do trio eletrico,major,84,1,5
+CAETANO,3,Atras do trio eletrico,major,85,6,3
+CAETANO,3,Atras do trio eletrico,major,86,5,5
+CAETANO,3,Atras do trio eletrico,major,87,3,3
+CAETANO,3,Atras do trio eletrico,major,88,5,1
+CAETANO,3,Atras do trio eletrico,major,89,7,3
+CAETANO,3,Atras do trio eletrico,major,90,1,1
+CAETANO,4,Baby,major,1,3,3
+CAETANO,4,Baby,major,2,5,5
+CAETANO,4,Baby,major,3,6,3
+CAETANO,4,Baby,major,4,5,x
+CAETANO,4,Baby,major,5,4,1
+CAETANO,4,Baby,major,6,5,9
+CAETANO,4,Baby,major,7,1,5
+CAETANO,4,Baby,major,8,2,x
+CAETANO,4,Baby,major,9,3,3
+CAETANO,4,Baby,major,10,1,1
+CAETANO,4,Baby,major,11,5,5
+CAETANO,4,Baby,major,12,4,x
+CAETANO,4,Baby,major,13,3,3
+CAETANO,4,Baby,major,14,1,1
+CAETANO,4,Baby,major,15,5,5
+CAETANO,4,Baby,major,16,4,x
+CAETANO,4,Baby,major,17,3,7
+CAETANO,4,Baby,major,18,1,5
+CAETANO,4,Baby,major,19,5,5
+CAETANO,4,Baby,major,20,3,7
+CAETANO,4,Baby,major,21,5,5
+CAETANO,4,Baby,major,22,6,3
+CAETANO,4,Baby,major,23,5,x
+CAETANO,4,Baby,major,24,4,1
+CAETANO,4,Baby,major,25,5,9
+CAETANO,4,Baby,major,26,1,5
+CAETANO,4,Baby,major,27,3,3
+CAETANO,4,Baby,major,28,5,5
+CAETANO,4,Baby,major,29,4,x
+CAETANO,4,Baby,major,30,3,3
+CAETANO,4,Baby,major,31,1,3
+CAETANO,4,Baby,major,32,3,5
+CAETANO,4,Baby,major,33,4,3
+CAETANO,4,Baby,major,34,6,5
+CAETANO,4,Baby,major,35,5,x
+CAETANO,4,Baby,major,36,6,5
+CAETANO,4,Baby,major,37,5,1
+CAETANO,4,Baby,major,38,5,5
+CAETANO,4,Baby,major,39,4,5
+CAETANO,4,Baby,major,40,3,3
+CAETANO,4,Baby,major,41,1,1
+CAETANO,4,Baby,major,42,1,3
+CAETANO,4,Baby,major,43,3,5
+CAETANO,4,Baby,major,44,4,3
+CAETANO,4,Baby,major,45,6,5
+CAETANO,4,Baby,major,46,5,x
+CAETANO,4,Baby,major,47,6,5
+CAETANO,4,Baby,major,48,5,1
+CAETANO,5,Cajuina,minor,1,3,3
+CAETANO,5,Cajuina,minor,2,2,x
+CAETANO,5,Cajuina,minor,3,1,1
+CAETANO,5,Cajuina,minor,4,3,3
+CAETANO,5,Cajuina,minor,5,2,1
+CAETANO,5,Cajuina,minor,6,4,3
+CAETANO,5,Cajuina,minor,7,2,1
+CAETANO,5,Cajuina,minor,8,7,3
+CAETANO,5,Cajuina,minor,9,2,5
+CAETANO,5,Cajuina,minor,10,1,1
+CAETANO,5,Cajuina,minor,11,3,3
+CAETANO,5,Cajuina,minor,12,5,5
+CAETANO,5,Cajuina,minor,13,4,x
+CAETANO,5,Cajuina,minor,14,#3,3
+CAETANO,5,Cajuina,minor,15,5,5
+CAETANO,5,Cajuina,minor,16,#3,3
+CAETANO,5,Cajuina,minor,17,5,5
+CAETANO,5,Cajuina,minor,18,4,1
+CAETANO,5,Cajuina,minor,19,6,3
+CAETANO,5,Cajuina,minor,20,4,1
+CAETANO,5,Cajuina,minor,21,2,3
+CAETANO,5,Cajuina,minor,22,4,5
+CAETANO,5,Cajuina,minor,23,3,1
+CAETANO,5,Cajuina,minor,24,5,3
+CAETANO,5,Cajuina,minor,25,3,1
+CAETANO,5,Cajuina,minor,26,3,5
+CAETANO,5,Cajuina,minor,27,1,1
+CAETANO,5,Cajuina,minor,28,b7,x
+CAETANO,5,Cajuina,minor,29,6,1
+CAETANO,5,Cajuina,minor,30,5,1
+CAETANO,5,Cajuina,minor,31,7,3
+CAETANO,5,Cajuina,minor,32,2,5
+CAETANO,5,Cajuina,minor,33,4,7
+CAETANO,5,Cajuina,minor,34,3,x
+CAETANO,5,Cajuina,minor,35,2,5
+CAETANO,5,Cajuina,minor,36,7,3
+CAETANO,5,Cajuina,minor,37,5,1
+CAETANO,5,Cajuina,minor,38,#6,x
+CAETANO,5,Cajuina,minor,39,7,3
+CAETANO,5,Cajuina,minor,40,1,1
+CAETANO,5,Cajuina,minor,41,#3,3
+CAETANO,5,Cajuina,minor,42,5,5
+CAETANO,5,Cajuina,minor,43,b7,7
+CAETANO,5,Cajuina,minor,44,6,x
+CAETANO,5,Cajuina,minor,45,5,5
+CAETANO,5,Cajuina,minor,46,4,x
+CAETANO,5,Cajuina,minor,47,#3,3
+CAETANO,5,Cajuina,minor,48,1,1
+CAETANO,5,Cajuina,minor,49,2,x
+CAETANO,5,Cajuina,minor,50,#3,3
+CAETANO,5,Cajuina,minor,51,4,1
+CAETANO,5,Cajuina,minor,52,6,3
+CAETANO,5,Cajuina,minor,53,5,1
+CAETANO,5,Cajuina,minor,54,4,x
+CAETANO,5,Cajuina,minor,55,3,b13
+CAETANO,5,Cajuina,minor,56,2,x
+CAETANO,5,Cajuina,minor,57,1,1
+CAETANO,6,Cinema Olimpia,major,1,3,3
+CAETANO,6,Cinema Olimpia,major,2,5,5
+CAETANO,6,Cinema Olimpia,major,3,3,3
+CAETANO,6,Cinema Olimpia,major,4,2,6
+CAETANO,6,Cinema Olimpia,major,5,1,5
+CAETANO,6,Cinema Olimpia,major,6,7,x
+CAETANO,6,Cinema Olimpia,major,7,1,5
+CAETANO,6,Cinema Olimpia,major,8,7,x
+CAETANO,6,Cinema Olimpia,major,9,6,3
+CAETANO,6,Cinema Olimpia,major,10,5,5
+CAETANO,6,Cinema Olimpia,major,11,3,3
+CAETANO,6,Cinema Olimpia,major,12,5,9
+CAETANO,6,Cinema Olimpia,major,13,3,3
+CAETANO,6,Cinema Olimpia,major,14,5,5
+CAETANO,6,Cinema Olimpia,major,15,3,3
+CAETANO,6,Cinema Olimpia,major,16,2,6
+CAETANO,6,Cinema Olimpia,major,17,1,5
+CAETANO,6,Cinema Olimpia,major,18,7,x
+CAETANO,6,Cinema Olimpia,major,19,1,5
+CAETANO,6,Cinema Olimpia,major,20,7,x
+CAETANO,6,Cinema Olimpia,major,21,6,3
+CAETANO,6,Cinema Olimpia,major,22,5,5
+CAETANO,6,Cinema Olimpia,major,23,3,3
+CAETANO,6,Cinema Olimpia,major,24,5,5
+CAETANO,6,Cinema Olimpia,major,25,3,3
+CAETANO,6,Cinema Olimpia,major,26,2,9
+CAETANO,6,Cinema Olimpia,major,27,2,6
+CAETANO,6,Cinema Olimpia,major,28,1,5
+CAETANO,6,Cinema Olimpia,major,29,2,x
+CAETANO,6,Cinema Olimpia,major,30,1,5
+CAETANO,6,Cinema Olimpia,major,31,3,5
+CAETANO,6,Cinema Olimpia,major,32,2,x
+CAETANO,6,Cinema Olimpia,major,33,1,3
+CAETANO,6,Cinema Olimpia,major,34,7,x
+CAETANO,6,Cinema Olimpia,major,35,6,5
+CAETANO,6,Cinema Olimpia,major,36,7,x
+CAETANO,6,Cinema Olimpia,major,37,6,5
+CAETANO,6,Cinema Olimpia,major,38,5,x
+CAETANO,6,Cinema Olimpia,major,39,#4/b5,3
+CAETANO,6,Cinema Olimpia,major,40,#4/b5,6
+CAETANO,6,Cinema Olimpia,major,41,1,3
+CAETANO,6,Cinema Olimpia,major,42,2,x
+CAETANO,6,Cinema Olimpia,major,43,1,3
+CAETANO,6,Cinema Olimpia,major,44,3,5
+CAETANO,6,Cinema Olimpia,major,45,2,x
+CAETANO,6,Cinema Olimpia,major,46,1,7
+CAETANO,6,Cinema Olimpia,major,47,7,x
+CAETANO,6,Cinema Olimpia,major,48,6,5
+CAETANO,6,Cinema Olimpia,major,49,1,1
+CAETANO,6,Cinema Olimpia,major,50,7,x
+CAETANO,6,Cinema Olimpia,major,51,1,1
+CAETANO,6,Cinema Olimpia,major,52,3,9
+CAETANO,6,Cinema Olimpia,major,53,2,x
+CAETANO,6,Cinema Olimpia,major,54,1,7
+CAETANO,6,Cinema Olimpia,major,55,2,x
+CAETANO,6,Cinema Olimpia,major,56,3,9
+CAETANO,6,Cinema Olimpia,major,57,5,1
+CAETANO,6,Cinema Olimpia,major,58,1,1
+CAETANO,6,Cinema Olimpia,major,59,5,5
+CAETANO,6,Cinema Olimpia,major,60,3,3
+CAETANO,6,Cinema Olimpia,major,61,5,5
+CAETANO,6,Cinema Olimpia,major,62,6,3
+CAETANO,6,Cinema Olimpia,major,63,#6/b7,x
+CAETANO,6,Cinema Olimpia,major,64,6,3
+CAETANO,6,Cinema Olimpia,major,65,4,5
+CAETANO,6,Cinema Olimpia,major,66,#6/b7,1
+CAETANO,6,Cinema Olimpia,major,67,1,x
+CAETANO,6,Cinema Olimpia,major,68,#6/b7,1
+CAETANO,6,Cinema Olimpia,major,69,7,3
+CAETANO,7,Chuva suor e cerveja,major,1,5,5
+CAETANO,7,Chuva suor e cerveja,major,2,5,1
+CAETANO,7,Chuva suor e cerveja,major,3,4,7
+CAETANO,7,Chuva suor e cerveja,major,4,3,3
+CAETANO,7,Chuva suor e cerveja,major,5,5,5
+CAETANO,7,Chuva suor e cerveja,major,6,5,1
+CAETANO,7,Chuva suor e cerveja,major,7,4,7
+CAETANO,7,Chuva suor e cerveja,major,8,3,3
+CAETANO,7,Chuva suor e cerveja,major,9,2,x
+CAETANO,7,Chuva suor e cerveja,major,10,1,7
+CAETANO,7,Chuva suor e cerveja,major,11,7,x
+CAETANO,7,Chuva suor e cerveja,major,12,1,7
+CAETANO,7,Chuva suor e cerveja,major,13,2,1
+CAETANO,7,Chuva suor e cerveja,major,14,3,3
+CAETANO,7,Chuva suor e cerveja,major,15,6,5
+CAETANO,7,Chuva suor e cerveja,major,16,6,#11
+CAETANO,7,Chuva suor e cerveja,major,17,5,3
+CAETANO,7,Chuva suor e cerveja,major,18,4,3
+CAETANO,7,Chuva suor e cerveja,major,19,6,5
+CAETANO,7,Chuva suor e cerveja,major,20,6,1
+CAETANO,7,Chuva suor e cerveja,major,21,5,7
+CAETANO,7,Chuva suor e cerveja,major,22,4,3
+CAETANO,7,Chuva suor e cerveja,major,23,4,7
+CAETANO,7,Chuva suor e cerveja,major,24,3,x
+CAETANO,7,Chuva suor e cerveja,major,25,4,7
+CAETANO,7,Chuva suor e cerveja,major,26,5,5
+CAETANO,7,Chuva suor e cerveja,major,27,1,1
+CAETANO,7,Chuva suor e cerveja,major,28,5,5
+CAETANO,7,Chuva suor e cerveja,major,29,5,1
+CAETANO,7,Chuva suor e cerveja,major,30,4,7
+CAETANO,7,Chuva suor e cerveja,major,31,3,3
+CAETANO,7,Chuva suor e cerveja,major,32,5,5
+CAETANO,7,Chuva suor e cerveja,major,33,5,1
+CAETANO,7,Chuva suor e cerveja,major,34,4,7
+CAETANO,7,Chuva suor e cerveja,major,35,3,6
+CAETANO,7,Chuva suor e cerveja,major,36,2,x
+CAETANO,7,Chuva suor e cerveja,major,37,1,1
+CAETANO,7,Chuva suor e cerveja,major,38,2,x
+CAETANO,7,Chuva suor e cerveja,major,39,3,3
+CAETANO,7,Chuva suor e cerveja,major,40,4,1
+CAETANO,7,Chuva suor e cerveja,major,41,6,3
+CAETANO,7,Chuva suor e cerveja,major,42,#4/b5,1
+CAETANO,7,Chuva suor e cerveja,major,43,6,3
+CAETANO,7,Chuva suor e cerveja,major,44,5,5
+CAETANO,7,Chuva suor e cerveja,major,45,1,1
+CAETANO,7,Chuva suor e cerveja,major,46,6,5
+CAETANO,7,Chuva suor e cerveja,major,47,1,7
+CAETANO,7,Chuva suor e cerveja,major,48,6,5
+CAETANO,7,Chuva suor e cerveja,major,49,7,3
+CAETANO,7,Chuva suor e cerveja,major,50,6,x
+CAETANO,7,Chuva suor e cerveja,major,51,5,1
+CAETANO,7,Chuva suor e cerveja,major,52,1,1
+CAETANO,7,Chuva suor e cerveja,major,53,3,3
+CAETANO,7,Chuva suor e cerveja,major,54,7,7
+CAETANO,7,Chuva suor e cerveja,major,55,2,14
+CAETANO,7,Chuva suor e cerveja,major,56,6,#11
+CAETANO,7,Chuva suor e cerveja,major,57,1,7
+CAETANO,7,Chuva suor e cerveja,major,58,5,11
+CAETANO,7,Chuva suor e cerveja,major,59,7,6
+CAETANO,7,Chuva suor e cerveja,major,60,4,3
+CAETANO,7,Chuva suor e cerveja,major,61,6,5
+CAETANO,7,Chuva suor e cerveja,major,62,3,9
+CAETANO,7,Chuva suor e cerveja,major,63,5,1
+CAETANO,7,Chuva suor e cerveja,major,64,4,7
+CAETANO,7,Chuva suor e cerveja,major,65,2,5
+CAETANO,7,Chuva suor e cerveja,major,66,5,5
+CAETANO,7,Chuva suor e cerveja,major,67,1,1
+CAETANO,7,Chuva suor e cerveja,major,68,3,3
+CAETANO,7,Chuva suor e cerveja,major,69,7,7
+CAETANO,7,Chuva suor e cerveja,major,70,2,14
+CAETANO,7,Chuva suor e cerveja,major,71,6,#11
+CAETANO,7,Chuva suor e cerveja,major,72,1,7
+CAETANO,7,Chuva suor e cerveja,major,73,5,11
+CAETANO,7,Chuva suor e cerveja,major,74,7,6
+CAETANO,7,Chuva suor e cerveja,major,75,4,3
+CAETANO,7,Chuva suor e cerveja,major,76,6,5
+CAETANO,7,Chuva suor e cerveja,major,77,3,9
+CAETANO,7,Chuva suor e cerveja,major,78,5,1
+CAETANO,7,Chuva suor e cerveja,major,79,6,x
+CAETANO,7,Chuva suor e cerveja,major,80,7,3
+CAETANO,7,Chuva suor e cerveja,major,81,1,1
+CAETANO,8,Coracao vagabundo,minor,1,2,x
+CAETANO,8,Coracao vagabundo,minor,2,3,3
+CAETANO,8,Coracao vagabundo,minor,3,2,x
+CAETANO,8,Coracao vagabundo,minor,4,3,3
+CAETANO,8,Coracao vagabundo,minor,5,2,x
+CAETANO,8,Coracao vagabundo,minor,6,3,3
+CAETANO,8,Coracao vagabundo,minor,7,2,x
+CAETANO,8,Coracao vagabundo,minor,8,3,b9/#9
+CAETANO,8,Coracao vagabundo,minor,9,2,x
+CAETANO,8,Coracao vagabundo,minor,10,3,b9/#9
+CAETANO,8,Coracao vagabundo,minor,11,2,x
+CAETANO,8,Coracao vagabundo,minor,12,3,b9/#9
+CAETANO,8,Coracao vagabundo,minor,13,2,1
+CAETANO,8,Coracao vagabundo,minor,14,3,x
+CAETANO,8,Coracao vagabundo,minor,15,2,1
+CAETANO,8,Coracao vagabundo,minor,16,3,b13
+CAETANO,8,Coracao vagabundo,minor,17,2,x
+CAETANO,8,Coracao vagabundo,minor,18,3,b13
+CAETANO,8,Coracao vagabundo,minor,19,2,x
+CAETANO,8,Coracao vagabundo,minor,20,1,1
+CAETANO,8,Coracao vagabundo,minor,21,2,x
+CAETANO,8,Coracao vagabundo,minor,22,1,1
+CAETANO,8,Coracao vagabundo,minor,23,1,1
+CAETANO,8,Coracao vagabundo,minor,24,#1/b2,b9/#9
+CAETANO,8,Coracao vagabundo,minor,25,1,x
+CAETANO,8,Coracao vagabundo,minor,26,#1/b2,b9/#9
+CAETANO,8,Coracao vagabundo,minor,27,1,x
+CAETANO,8,Coracao vagabundo,minor,28,#1/b2,b9/#9
+CAETANO,8,Coracao vagabundo,minor,29,1,5
+CAETANO,8,Coracao vagabundo,minor,30,#1/b2,x
+CAETANO,8,Coracao vagabundo,minor,31,1,5
+CAETANO,8,Coracao vagabundo,minor,32,#1/b2,x
+CAETANO,8,Coracao vagabundo,minor,33,1,5
+CAETANO,8,Coracao vagabundo,minor,34,#1/b2,x
+CAETANO,8,Coracao vagabundo,minor,35,2,1
+CAETANO,8,Coracao vagabundo,minor,36,3,b9/#9
+CAETANO,8,Coracao vagabundo,minor,37,2,x
+CAETANO,8,Coracao vagabundo,minor,38,3,b9/#9
+CAETANO,8,Coracao vagabundo,minor,39,2,x
+CAETANO,8,Coracao vagabundo,minor,40,3,b9/#9
+CAETANO,8,Coracao vagabundo,minor,41,2,1
+CAETANO,8,Coracao vagabundo,minor,42,3,x
+CAETANO,8,Coracao vagabundo,minor,43,2,1
+CAETANO,8,Coracao vagabundo,minor,44,3,b13
+CAETANO,8,Coracao vagabundo,minor,45,2,x
+CAETANO,8,Coracao vagabundo,minor,46,3,1
+CAETANO,8,Coracao vagabundo,minor,47,2,x
+CAETANO,8,Coracao vagabundo,minor,48,3,1
+CAETANO,8,Coracao vagabundo,minor,49,2,x
+CAETANO,8,Coracao vagabundo,minor,50,3,1
+CAETANO,8,Coracao vagabundo,minor,51,2,x
+CAETANO,8,Coracao vagabundo,minor,52,3,b9/#9
+CAETANO,8,Coracao vagabundo,minor,53,2,x
+CAETANO,8,Coracao vagabundo,minor,54,3,b9/#9
+CAETANO,8,Coracao vagabundo,minor,55,2,x
+CAETANO,8,Coracao vagabundo,minor,56,3,b9/#9
+CAETANO,8,Coracao vagabundo,minor,57,2,1
+CAETANO,8,Coracao vagabundo,minor,58,3,x
+CAETANO,8,Coracao vagabundo,minor,59,2,1
+CAETANO,8,Coracao vagabundo,minor,60,3,b13
+CAETANO,8,Coracao vagabundo,minor,61,2,x
+CAETANO,8,Coracao vagabundo,minor,62,3,b13
+CAETANO,8,Coracao vagabundo,minor,63,#3,3
+CAETANO,8,Coracao vagabundo,minor,64,5,5
+CAETANO,8,Coracao vagabundo,minor,65,#3,3
+CAETANO,8,Coracao vagabundo,minor,66,b7,7
+CAETANO,8,Coracao vagabundo,minor,67,b7,11
+CAETANO,8,Coracao vagabundo,minor,68,6,x
+CAETANO,8,Coracao vagabundo,minor,69,5,x
+CAETANO,8,Coracao vagabundo,minor,70,4,5
+CAETANO,8,Coracao vagabundo,minor,71,3,x
+CAETANO,8,Coracao vagabundo,minor,72,2,3
+CAETANO,8,Coracao vagabundo,minor,73,4,9
+CAETANO,8,Coracao vagabundo,minor,74,3,x
+CAETANO,8,Coracao vagabundo,minor,75,2,#11
+CAETANO,8,Coracao vagabundo,minor,76,1,3
+CAETANO,8,Coracao vagabundo,minor,77,7,x
+CAETANO,8,Coracao vagabundo,minor,78,1,3
+CAETANO,8,Coracao vagabundo,minor,79,3,5
+CAETANO,8,Coracao vagabundo,minor,80,2,5
+CAETANO,8,Coracao vagabundo,minor,81,1,1
+CAETANO,9,Alegria alegria,major,1,5,5
+CAETANO,9,Alegria alegria,major,2,3,3
+CAETANO,9,Alegria alegria,major,3,5,5
+CAETANO,9,Alegria alegria,major,4,3,3
+CAETANO,9,Alegria alegria,major,5,1,1
+CAETANO,9,Alegria alegria,major,6,5,x
+CAETANO,9,Alegria alegria,major,7,6,3
+CAETANO,9,Alegria alegria,major,8,1,5
+CAETANO,9,Alegria alegria,major,9,7,x
+CAETANO,9,Alegria alegria,major,10,6,3
+CAETANO,9,Alegria alegria,major,11,7,3
+CAETANO,9,Alegria alegria,major,12,6,x
+CAETANO,9,Alegria alegria,major,13,5,1
+CAETANO,9,Alegria alegria,major,14,6,6
+CAETANO,9,Alegria alegria,major,15,5,5
+CAETANO,9,Alegria alegria,major,16,3,3
+CAETANO,9,Alegria alegria,major,17,5,5
+CAETANO,9,Alegria alegria,major,18,3,3
+CAETANO,9,Alegria alegria,major,19,1,1
+CAETANO,9,Alegria alegria,major,20,5,x
+CAETANO,9,Alegria alegria,major,21,6,3
+CAETANO,9,Alegria alegria,major,22,1,5
+CAETANO,9,Alegria alegria,major,23,2,3
+CAETANO,9,Alegria alegria,major,24,2,5
+CAETANO,9,Alegria alegria,major,25,3,5
+CAETANO,9,Alegria alegria,major,26,5,5
+CAETANO,9,Alegria alegria,major,27,3,3
+CAETANO,9,Alegria alegria,major,28,1,1
+CAETANO,9,Alegria alegria,major,29,5,x
+CAETANO,9,Alegria alegria,major,30,6,3
+CAETANO,9,Alegria alegria,major,31,1,5
+CAETANO,9,Alegria alegria,major,32,7,x
+CAETANO,9,Alegria alegria,major,33,6,3
+CAETANO,9,Alegria alegria,major,34,7,3
+CAETANO,9,Alegria alegria,major,35,6,x
+CAETANO,9,Alegria alegria,major,36,5,1
+CAETANO,9,Alegria alegria,major,37,6,6
+CAETANO,9,Alegria alegria,major,38,5,5
+CAETANO,9,Alegria alegria,major,39,3,3
+CAETANO,9,Alegria alegria,major,40,5,5
+CAETANO,9,Alegria alegria,major,41,3,3
+CAETANO,9,Alegria alegria,major,42,1,1
+CAETANO,9,Alegria alegria,major,43,5,x
+CAETANO,9,Alegria alegria,major,44,6,3
+CAETANO,9,Alegria alegria,major,45,1,5
+CAETANO,9,Alegria alegria,major,46,2,3
+CAETANO,9,Alegria alegria,major,47,3,3
+CAETANO,9,Alegria alegria,major,48,1,1
+CAETANO,9,Alegria alegria,major,49,3,3
+CAETANO,9,Alegria alegria,major,50,1,5
+CAETANO,9,Alegria alegria,major,51,2,5
+CAETANO,9,Alegria alegria,major,52,1,5
+CAETANO,9,Alegria alegria,major,53,3,3
+CAETANO,9,Alegria alegria,major,54,1,1
+CAETANO,9,Alegria alegria,major,55,3,3
+CAETANO,9,Alegria alegria,major,56,1,1
+CAETANO,9,Alegria alegria,major,57,3,3
+CAETANO,9,Alegria alegria,major,58,1,5
+CAETANO,9,Alegria alegria,major,59,2,5
+CAETANO,9,Alegria alegria,major,60,1,5
+CAETANO,9,Alegria alegria,major,61,3,3
+CAETANO,9,Alegria alegria,major,62,1,1
+CAETANO,9,Alegria alegria,major,63,3,3
+CAETANO,9,Alegria alegria,major,64,1,5
+CAETANO,9,Alegria alegria,major,65,2,5
+CAETANO,9,Alegria alegria,major,66,1,5
+CAETANO,9,Alegria alegria,major,67,3,3
+CAETANO,9,Alegria alegria,major,68,1,1
+CAETANO,9,Alegria alegria,major,69,3,3
+CAETANO,9,Alegria alegria,major,70,1,1
+CAETANO,9,Alegria alegria,major,71,3,3
+CAETANO,9,Alegria alegria,major,72,1,5
+CAETANO,9,Alegria alegria,major,73,2,5
+CAETANO,9,Alegria alegria,major,74,1,5
+CAETANO,9,Alegria alegria,major,75,1,3
+CAETANO,9,Alegria alegria,major,76,7,x
+CAETANO,9,Alegria alegria,major,77,6,1
+CAETANO,9,Alegria alegria,major,78,3,5
+CAETANO,9,Alegria alegria,major,79,1,3
+CAETANO,9,Alegria alegria,major,80,2,1
+CAETANO,9,Alegria alegria,major,81,1,7
+CAETANO,9,Alegria alegria,major,82,3,5
+CAETANO,9,Alegria alegria,major,83,1,3
+CAETANO,9,Alegria alegria,major,84,7,x
+CAETANO,9,Alegria alegria,major,85,6,1
+CAETANO,9,Alegria alegria,major,86,3,5
+CAETANO,9,Alegria alegria,major,87,1,3
+CAETANO,9,Alegria alegria,major,88,2,1
+CAETANO,9,Alegria alegria,major,89,1,7
+CAETANO,9,Alegria alegria,major,90,3,5
+CAETANO,9,Alegria alegria,major,91,1,3
+CAETANO,9,Alegria alegria,major,92,7,x
+CAETANO,9,Alegria alegria,major,93,6,1
+CAETANO,9,Alegria alegria,major,94,3,5
+CAETANO,9,Alegria alegria,major,95,1,3
+CAETANO,9,Alegria alegria,major,96,2,1
+CAETANO,9,Alegria alegria,major,97,1,7
+CAETANO,9,Alegria alegria,major,98,3,5
+CAETANO,9,Alegria alegria,major,99,1,3
+CAETANO,9,Alegria alegria,major,100,7,x
+CAETANO,9,Alegria alegria,major,101,6,1
+CAETANO,9,Alegria alegria,major,102,3,5
+CAETANO,9,Alegria alegria,major,103,1,3
+CAETANO,9,Alegria alegria,major,104,2,5
+CAETANO,9,Alegria alegria,major,105,5,5
+CAETANO,9,Alegria alegria,major,106,3,3
+CAETANO,9,Alegria alegria,major,107,5,5
+CAETANO,9,Alegria alegria,major,108,3,3
+CAETANO,9,Alegria alegria,major,109,1,1
+CAETANO,9,Alegria alegria,major,110,5,5
+CAETANO,9,Alegria alegria,major,111,6,3
+CAETANO,9,Alegria alegria,major,112,1,5
+CAETANO,9,Alegria alegria,major,113,7,x
+CAETANO,9,Alegria alegria,major,114,6,3
+CAETANO,9,Alegria alegria,major,115,7,3
+CAETANO,9,Alegria alegria,major,116,6,x
+CAETANO,9,Alegria alegria,major,117,5,1
+CAETANO,9,Alegria alegria,major,118,6,6
+CAETANO,9,Alegria alegria,major,119,5,5
+CAETANO,9,Alegria alegria,major,120,3,3
+CAETANO,9,Alegria alegria,major,121,5,5
+CAETANO,9,Alegria alegria,major,122,3,3
+CAETANO,9,Alegria alegria,major,123,1,1
+CAETANO,9,Alegria alegria,major,124,5,x
+CAETANO,9,Alegria alegria,major,125,6,3
+CAETANO,9,Alegria alegria,major,126,1,5
+CAETANO,9,Alegria alegria,major,127,2,3
+CAETANO,9,Alegria alegria,major,128,5,5
+CAETANO,9,Alegria alegria,major,129,3,3
+CAETANO,9,Alegria alegria,major,130,5,5
+CAETANO,9,Alegria alegria,major,131,1,1
+CAETANO,9,Alegria alegria,major,132,4,1
+CAETANO,9,Alegria alegria,major,133,6,3
+CAETANO,9,Alegria alegria,major,134,1,5
+CAETANO,10,A tua presenca morena,major,1,5,5
+CAETANO,10,A tua presenca morena,major,2,4,x
+CAETANO,10,A tua presenca morena,major,3,5,5
+CAETANO,10,A tua presenca morena,major,4,3,3
+CAETANO,10,A tua presenca morena,major,5,#6/b7,1
+CAETANO,10,A tua presenca morena,major,6,#6/b7,9
+CAETANO,10,A tua presenca morena,major,7,#5/b6,1
+CAETANO,10,A tua presenca morena,major,8,5,1
+CAETANO,10,A tua presenca morena,major,9,4,x
+CAETANO,10,A tua presenca morena,major,10,5,5
+CAETANO,10,A tua presenca morena,major,11,3,3
+CAETANO,10,A tua presenca morena,major,12,#6/b7,1
+CAETANO,10,A tua presenca morena,major,13,#6/b7,9
+CAETANO,10,A tua presenca morena,major,14,#5/b6,1
+CAETANO,10,A tua presenca morena,major,15,5,1
+CAETANO,10,A tua presenca morena,major,16,4,x
+CAETANO,10,A tua presenca morena,major,17,5,5
+CAETANO,10,A tua presenca morena,major,18,3,3
+CAETANO,10,A tua presenca morena,major,19,#6/b7,1
+CAETANO,10,A tua presenca morena,major,20,#6/b7,9
+CAETANO,10,A tua presenca morena,major,21,#5/b6,1
+CAETANO,10,A tua presenca morena,major,22,5,1
+CAETANO,10,A tua presenca morena,major,23,4,x
+CAETANO,10,A tua presenca morena,major,24,5,5
+CAETANO,10,A tua presenca morena,major,25,3,3
+CAETANO,10,A tua presenca morena,major,26,#6/b7,1
+CAETANO,10,A tua presenca morena,major,27,#6/b7,x
+CAETANO,10,A tua presenca morena,major,28,6,3
+CAETANO,10,A tua presenca morena,major,29,5,7
+CAETANO,10,A tua presenca morena,major,30,4,x
+CAETANO,10,A tua presenca morena,major,31,5,7
+CAETANO,10,A tua presenca morena,major,32,2,1
+CAETANO,10,A tua presenca morena,major,33,1,1
+CAETANO,10,A tua presenca morena,major,34,#6/b7,1
+CAETANO,10,A tua presenca morena,major,35,#5/b6,1
+CAETANO,10,A tua presenca morena,major,36,5,1
+CAETANO,10,A tua presenca morena,major,37,4,x
+CAETANO,10,A tua presenca morena,major,38,5,1
+CAETANO,10,A tua presenca morena,major,39,3,3
+CAETANO,11,Avarandado,minor,1,1,1
+CAETANO,11,Avarandado,minor,2,2,x
+CAETANO,11,Avarandado,minor,3,3,3
+CAETANO,11,Avarandado,minor,4,2,x
+CAETANO,11,Avarandado,minor,5,1,1
+CAETANO,11,Avarandado,minor,6,4,1
+CAETANO,11,Avarandado,minor,7,b7,1
+CAETANO,11,Avarandado,minor,8,1,x
+CAETANO,11,Avarandado,minor,9,2,3
+CAETANO,11,Avarandado,minor,10,1,x
+CAETANO,11,Avarandado,minor,11,b7,1
+CAETANO,11,Avarandado,minor,12,4,5
+CAETANO,11,Avarandado,minor,13,6,1
+CAETANO,11,Avarandado,minor,14,b7,x
+CAETANO,11,Avarandado,minor,15,1,3
+CAETANO,11,Avarandado,minor,16,b7,x
+CAETANO,11,Avarandado,minor,17,6,1
+CAETANO,11,Avarandado,minor,18,4,3
+CAETANO,11,Avarandado,minor,19,4,7
+CAETANO,11,Avarandado,minor,20,5,1
+CAETANO,11,Avarandado,minor,21,4,7
+CAETANO,11,Avarandado,minor,22,3,3
+CAETANO,11,Avarandado,minor,23,1,1
+CAETANO,11,Avarandado,minor,24,3,3
+CAETANO,11,Avarandado,minor,25,4,x
+CAETANO,11,Avarandado,minor,26,5,5
+CAETANO,11,Avarandado,minor,27,5,11
+CAETANO,11,Avarandado,minor,28,5,1
+CAETANO,11,Avarandado,minor,29,4,7
+CAETANO,11,Avarandado,minor,30,3,3
+CAETANO,11,Avarandado,minor,31,1,1
+CAETANO,11,Avarandado,minor,32,3,3
+CAETANO,11,Avarandado,minor,33,4,x
+CAETANO,11,Avarandado,minor,34,5,5
+CAETANO,11,Avarandado,minor,35,5,11
+CAETANO,11,Avarandado,minor,36,5,1
+CAETANO,12,Beleza pura,major,1,1,1
+CAETANO,12,Beleza pura,major,2,7,x
+CAETANO,12,Beleza pura,major,3,6,x
+CAETANO,12,Beleza pura,major,4,5,7
+CAETANO,12,Beleza pura,major,5,6,x
+CAETANO,12,Beleza pura,major,6,5,7
+CAETANO,12,Beleza pura,major,7,1,3
+CAETANO,12,Beleza pura,major,8,2,1
+CAETANO,12,Beleza pura,major,9,4,7
+CAETANO,12,Beleza pura,major,10,4,x
+CAETANO,12,Beleza pura,major,11,3,3
+CAETANO,12,Beleza pura,major,12,1,1
+CAETANO,12,Beleza pura,major,13,6,x
+CAETANO,12,Beleza pura,major,14,5,7
+CAETANO,12,Beleza pura,major,15,1,3
+CAETANO,12,Beleza pura,major,16,2,1
+CAETANO,12,Beleza pura,major,17,4,7
+CAETANO,12,Beleza pura,major,18,4,x
+CAETANO,12,Beleza pura,major,19,3,3
+CAETANO,12,Beleza pura,major,20,1,1
+CAETANO,12,Beleza pura,major,21,6,x
+CAETANO,12,Beleza pura,major,22,5,7
+CAETANO,12,Beleza pura,major,23,1,3
+CAETANO,12,Beleza pura,major,24,2,1
+CAETANO,12,Beleza pura,major,25,4,7
+CAETANO,12,Beleza pura,major,26,4,x
+CAETANO,12,Beleza pura,major,27,3,3
+CAETANO,12,Beleza pura,major,28,1,1
+CAETANO,12,Beleza pura,major,29,6,x
+CAETANO,12,Beleza pura,major,30,5,7
+CAETANO,12,Beleza pura,major,31,1,3
+CAETANO,12,Beleza pura,major,32,2,1
+CAETANO,13,Cavaleiro de Jorge,minor,1,5,5
+CAETANO,13,Cavaleiro de Jorge,minor,2,b7,7
+CAETANO,13,Cavaleiro de Jorge,minor,3,5,5
+CAETANO,13,Cavaleiro de Jorge,minor,4,4,6
+CAETANO,13,Cavaleiro de Jorge,minor,5,3,5
+CAETANO,13,Cavaleiro de Jorge,minor,6,1,3
+CAETANO,13,Cavaleiro de Jorge,minor,7,5,11
+CAETANO,13,Cavaleiro de Jorge,minor,8,4,3
+CAETANO,13,Cavaleiro de Jorge,minor,9,2,1
+CAETANO,13,Cavaleiro de Jorge,minor,10,5,11
+CAETANO,13,Cavaleiro de Jorge,minor,11,2,1
+CAETANO,13,Cavaleiro de Jorge,minor,12,4,1
+CAETANO,13,Cavaleiro de Jorge,minor,13,3,7
+CAETANO,13,Cavaleiro de Jorge,minor,14,2,5
+CAETANO,13,Cavaleiro de Jorge,minor,15,6,b9/#9
+CAETANO,13,Cavaleiro de Jorge,minor,16,5,1
+CAETANO,13,Cavaleiro de Jorge,minor,17,5,x
+CAETANO,13,Cavaleiro de Jorge,minor,18,3,5
+CAETANO,13,Cavaleiro de Jorge,minor,19,5,5
+CAETANO,13,Cavaleiro de Jorge,minor,20,3,3
+CAETANO,13,Cavaleiro de Jorge,minor,21,1,1
+CAETANO,13,Cavaleiro de Jorge,minor,22,5,5
+CAETANO,13,Cavaleiro de Jorge,minor,23,1,1
+CAETANO,13,Cavaleiro de Jorge,minor,24,3,3
+CAETANO,13,Cavaleiro de Jorge,minor,25,5,5
+CAETANO,13,Cavaleiro de Jorge,minor,26,5,5
+CAETANO,13,Cavaleiro de Jorge,minor,27,3,3
+CAETANO,13,Cavaleiro de Jorge,minor,28,1,1
+CAETANO,13,Cavaleiro de Jorge,minor,29,5,5
+CAETANO,13,Cavaleiro de Jorge,minor,30,1,1
+CAETANO,13,Cavaleiro de Jorge,minor,31,3,3
+CAETANO,13,Cavaleiro de Jorge,minor,32,4,x
+CAETANO,13,Cavaleiro de Jorge,minor,33,4,11
+CAETANO,13,Cavaleiro de Jorge,minor,34,5,5
+CAETANO,13,Cavaleiro de Jorge,minor,35,3,3
+CAETANO,13,Cavaleiro de Jorge,minor,36,1,1
+CAETANO,13,Cavaleiro de Jorge,minor,37,5,5
+CAETANO,13,Cavaleiro de Jorge,minor,38,1,1
+CAETANO,13,Cavaleiro de Jorge,minor,39,4,x
+CAETANO,13,Cavaleiro de Jorge,minor,40,5,5
+CAETANO,14,Como dois e dois,major,1,3,3
+CAETANO,14,Como dois e dois,major,2,2,x
+CAETANO,14,Como dois e dois,major,3,1,1
+CAETANO,14,Como dois e dois,major,4,3,3
+CAETANO,14,Como dois e dois,major,5,3,1
+CAETANO,14,Como dois e dois,major,6,7,5
+CAETANO,14,Como dois e dois,major,7,1,3
+CAETANO,14,Como dois e dois,major,8,6,1
+CAETANO,14,Como dois e dois,major,9,7,x
+CAETANO,14,Como dois e dois,major,10,1,3
+CAETANO,14,Como dois e dois,major,11,6,1
+CAETANO,14,Como dois e dois,major,12,7,x
+CAETANO,14,Como dois e dois,major,13,1,3
+CAETANO,14,Como dois e dois,major,14,2,x
+CAETANO,14,Como dois e dois,major,15,#2/b3,x
+CAETANO,14,Como dois e dois,major,16,3,1
+CAETANO,14,Como dois e dois,major,17,7,5
+CAETANO,14,Como dois e dois,major,18,6,3
+CAETANO,14,Como dois e dois,major,19,5,x
+CAETANO,14,Como dois e dois,major,20,4,1
+CAETANO,14,Como dois e dois,major,21,6,3
+CAETANO,14,Como dois e dois,major,22,5,x
+CAETANO,14,Como dois e dois,major,23,4,1
+CAETANO,14,Como dois e dois,major,24,6,x
+CAETANO,14,Como dois e dois,major,25,5,9
+CAETANO,14,Como dois e dois,major,26,5,5
+CAETANO,14,Como dois e dois,major,27,6,6
+CAETANO,14,Como dois e dois,major,28,3,3
+CAETANO,14,Como dois e dois,major,29,5,7
+CAETANO,14,Como dois e dois,major,30,1,7
+CAETANO,14,Como dois e dois,major,31,7,x
+CAETANO,14,Como dois e dois,major,32,6,5
+CAETANO,14,Como dois e dois,major,33,1,7
+CAETANO,14,Como dois e dois,major,34,7,x
+CAETANO,14,Como dois e dois,major,35,6,5
+CAETANO,14,Como dois e dois,major,36,1,7
+CAETANO,14,Como dois e dois,major,37,7,x
+CAETANO,14,Como dois e dois,major,38,6,5
+CAETANO,14,Como dois e dois,major,39,3,13
+CAETANO,14,Como dois e dois,major,40,#2/b3,x
+CAETANO,14,Como dois e dois,major,41,2,5
+CAETANO,14,Como dois e dois,major,42,5,5
+CAETANO,14,Como dois e dois,major,43,3,3
+CAETANO,14,Como dois e dois,major,44,1,1
+CAETANO,14,Como dois e dois,major,45,6,3
+CAETANO,14,Como dois e dois,major,46,5,x
+CAETANO,14,Como dois e dois,major,47,4,1
+CAETANO,14,Como dois e dois,major,48,1,5
+CAETANO,14,Como dois e dois,major,49,#2/b3,7
+CAETANO,14,Como dois e dois,major,50,2,x
+CAETANO,14,Como dois e dois,major,51,1,5
+CAETANO,14,Como dois e dois,major,52,6,5
+CAETANO,14,Como dois e dois,major,53,1,5
+CAETANO,14,Como dois e dois,major,54,5,5
+CAETANO,14,Como dois e dois,major,55,3,3
+CAETANO,14,Como dois e dois,major,56,6,3
+CAETANO,14,Como dois e dois,major,57,5,x
+CAETANO,14,Como dois e dois,major,58,4,1
+CAETANO,14,Como dois e dois,major,59,1,5
+CAETANO,14,Como dois e dois,major,60,#2/b3,7
+CAETANO,14,Como dois e dois,major,61,2,x
+CAETANO,14,Como dois e dois,major,62,1,1
+CAETANO,14,Como dois e dois,major,63,6,3
+CAETANO,14,Como dois e dois,major,64,1,5
+CAETANO,14,Como dois e dois,major,65,6,x
+CAETANO,14,Como dois e dois,major,66,5,1
+CAETANO,15,Drama,minor,1,5,5
+CAETANO,15,Drama,minor,2,6,x
+CAETANO,15,Drama,minor,3,5,5
+CAETANO,15,Drama,minor,4,1,1
+CAETANO,15,Drama,minor,5,6,b9/#9
+CAETANO,15,Drama,minor,6,5,1
+CAETANO,15,Drama,minor,7,6,x
+CAETANO,15,Drama,minor,8,5,1
+CAETANO,15,Drama,minor,9,7,3
+CAETANO,15,Drama,minor,10,5,1
+CAETANO,15,Drama,minor,11,6,6
+CAETANO,15,Drama,minor,12,5,5
+CAETANO,15,Drama,minor,13,6,x
+CAETANO,15,Drama,minor,14,5,5
+CAETANO,15,Drama,minor,15,6,x
+CAETANO,15,Drama,minor,16,5,9
+CAETANO,15,Drama,minor,17,4,1
+CAETANO,15,Drama,minor,18,2,13
+CAETANO,15,Drama,minor,19,4,1
+CAETANO,15,Drama,minor,20,6,x
+CAETANO,15,Drama,minor,21,5,1
+CAETANO,15,Drama,minor,22,4,7
+CAETANO,15,Drama,minor,23,3,x
+CAETANO,15,Drama,minor,24,2,x
+CAETANO,15,Drama,minor,25,1,1
+CAETANO,15,Drama,minor,26,5,5
+CAETANO,15,Drama,minor,27,4,x
+CAETANO,15,Drama,minor,28,3,3
+CAETANO,15,Drama,minor,29,2,x
+CAETANO,15,Drama,minor,30,1,1
+CAETANO,15,Drama,minor,31,2,1
+CAETANO,15,Drama,minor,32,#6,5
+CAETANO,15,Drama,minor,33,2,1
+CAETANO,15,Drama,minor,34,3,b9/#9
+CAETANO,15,Drama,minor,35,2,1
+CAETANO,15,Drama,minor,36,6,3
+CAETANO,15,Drama,minor,37,2,6
+CAETANO,15,Drama,minor,38,2,5
+CAETANO,15,Drama,minor,39,5,5
+CAETANO,15,Drama,minor,40,6,x
+CAETANO,15,Drama,minor,41,5,5
+CAETANO,15,Drama,minor,42,1,1
+CAETANO,15,Drama,minor,43,6,x
+CAETANO,15,Drama,minor,44,5,5
+CAETANO,15,Drama,minor,45,5,1
+CAETANO,15,Drama,minor,46,7,3
+CAETANO,15,Drama,minor,47,5,1
+CAETANO,15,Drama,minor,48,5,5
+CAETANO,15,Drama,minor,49,6,x
+CAETANO,15,Drama,minor,50,5,5
+CAETANO,15,Drama,minor,51,b7,7
+CAETANO,15,Drama,minor,52,5,5
+CAETANO,15,Drama,minor,53,5,9
+CAETANO,15,Drama,minor,54,4,1
+CAETANO,15,Drama,minor,55,6,3
+CAETANO,15,Drama,minor,56,5,x
+CAETANO,15,Drama,minor,57,4,1
+CAETANO,15,Drama,minor,58,6,3
+CAETANO,15,Drama,minor,59,6,b9/#9
+CAETANO,15,Drama,minor,60,5,1
+CAETANO,15,Drama,minor,61,4,x
+CAETANO,15,Drama,minor,62,3,x
+CAETANO,15,Drama,minor,63,2,5
+CAETANO,15,Drama,minor,64,1,1
+CAETANO,15,Drama,minor,65,3,7
+CAETANO,15,Drama,minor,66,2,x
+CAETANO,15,Drama,minor,67,1,3
+CAETANO,15,Drama,minor,68,3,7
+CAETANO,15,Drama,minor,69,2,x
+CAETANO,15,Drama,minor,70,1,11
+CAETANO,15,Drama,minor,71,3,3
+CAETANO,15,Drama,minor,72,5,5
+CAETANO,15,Drama,minor,73,5,7
+CAETANO,15,Drama,minor,74,2,#11
+CAETANO,15,Drama,minor,75,4,3
+CAETANO,15,Drama,minor,76,3,x
+CAETANO,15,Drama,minor,77,2,1
+CAETANO,15,Drama,minor,78,1,x
+CAETANO,15,Drama,minor,79,7,3
+CAETANO,15,Drama,minor,80,5,1
+CAETANO,15,Drama,minor,81,3,b13
+CAETANO,15,Drama,minor,82,2,x
+CAETANO,15,Drama,minor,83,1,1
+CAETANO,15,Drama,minor,84,3,7
+CAETANO,15,Drama,minor,85,2,x
+CAETANO,15,Drama,minor,86,1,5
+CAETANO,15,Drama,minor,87,3,7
+CAETANO,15,Drama,minor,88,2,x
+CAETANO,15,Drama,minor,89,1,11
+CAETANO,15,Drama,minor,90,3,3
+CAETANO,15,Drama,minor,91,5,7
+CAETANO,15,Drama,minor,92,2,#11
+CAETANO,15,Drama,minor,93,4,3
+CAETANO,15,Drama,minor,94,3,x
+CAETANO,15,Drama,minor,95,2,1
+CAETANO,15,Drama,minor,96,1,x
+CAETANO,15,Drama,minor,97,7,3
+CAETANO,15,Drama,minor,98,5,1
+CAETANO,15,Drama,minor,99,3,b13
+CAETANO,15,Drama,minor,100,2,x
+CAETANO,15,Drama,minor,101,1,1
+CAETANO,16,Luz do sol,major,1,1,x
+CAETANO,16,Luz do sol,major,2,7,7
+CAETANO,16,Luz do sol,major,3,3,3
+CAETANO,16,Luz do sol,major,4,3,6
+CAETANO,16,Luz do sol,major,5,3,3
+CAETANO,16,Luz do sol,major,6,4,x
+CAETANO,16,Luz do sol,major,7,5,5
+CAETANO,16,Luz do sol,major,8,6,3
+CAETANO,16,Luz do sol,major,9,5,9
+CAETANO,16,Luz do sol,major,10,1,x
+CAETANO,16,Luz do sol,major,11,2,6
+CAETANO,16,Luz do sol,major,12,5,3
+CAETANO,16,Luz do sol,major,13,3,1
+CAETANO,16,Luz do sol,major,14,5,3
+CAETANO,16,Luz do sol,major,15,7,9
+CAETANO,16,Luz do sol,major,16,6,1
+CAETANO,16,Luz do sol,major,17,1,3
+CAETANO,16,Luz do sol,major,18,#6/b7,9
+CAETANO,16,Luz do sol,major,19,#5/b6,1
+CAETANO,16,Luz do sol,major,20,#2/b3,5
+CAETANO,16,Luz do sol,major,21,1,3
+CAETANO,16,Luz do sol,major,22,#6/b7,9
+CAETANO,16,Luz do sol,major,23,#5/b6,1
+CAETANO,16,Luz do sol,major,24,5,7
+CAETANO,16,Luz do sol,major,25,5,5
+CAETANO,16,Luz do sol,major,26,1,5
+CAETANO,16,Luz do sol,major,27,6,3
+CAETANO,16,Luz do sol,major,28,1,3
+CAETANO,16,Luz do sol,major,29,2,6
+CAETANO,16,Luz do sol,major,30,4,1
+CAETANO,16,Luz do sol,major,31,3,3
+CAETANO,16,Luz do sol,major,32,1,1
+CAETANO,16,Luz do sol,major,33,1,5
+CAETANO,16,Luz do sol,major,34,6,3
+CAETANO,16,Luz do sol,major,35,1,5
+CAETANO,16,Luz do sol,major,36,2,6
+CAETANO,16,Luz do sol,major,37,4,1
+CAETANO,16,Luz do sol,major,38,3,11
+CAETANO,16,Luz do sol,major,39,1,x
+CAETANO,16,Luz do sol,major,40,3,11
+CAETANO,16,Luz do sol,major,41,4,x
+CAETANO,16,Luz do sol,major,42,3,11
+CAETANO,16,Luz do sol,major,43,4,x
+CAETANO,16,Luz do sol,major,44,3,11
+CAETANO,16,Luz do sol,major,45,4,x
+CAETANO,16,Luz do sol,major,46,3,#11
+CAETANO,16,Luz do sol,major,47,4,x
+CAETANO,16,Luz do sol,major,48,3,#11
+CAETANO,16,Luz do sol,major,49,4,x
+CAETANO,16,Luz do sol,major,50,3,#11
+CAETANO,16,Luz do sol,major,51,4,x
+CAETANO,16,Luz do sol,major,52,3,#11
+CAETANO,16,Luz do sol,major,53,3,5
+CAETANO,16,Luz do sol,major,54,4,x
+CAETANO,16,Luz do sol,major,55,3,5
+CAETANO,16,Luz do sol,major,56,4,x
+CAETANO,16,Luz do sol,major,57,3,5
+CAETANO,16,Luz do sol,major,58,1,3
+CAETANO,16,Luz do sol,major,59,5,11
+CAETANO,16,Luz do sol,major,60,6,x
+CAETANO,16,Luz do sol,major,61,5,11
+CAETANO,16,Luz do sol,major,62,6,x
+CAETANO,16,Luz do sol,major,63,5,11
+CAETANO,16,Luz do sol,major,64,6,x
+CAETANO,16,Luz do sol,major,65,5,1
+CAETANO,16,Luz do sol,major,66,6,x
+CAETANO,16,Luz do sol,major,67,5,1
+CAETANO,16,Luz do sol,major,68,6,x
+CAETANO,16,Luz do sol,major,69,5,1
+CAETANO,16,Luz do sol,major,70,6,x
+CAETANO,16,Luz do sol,major,71,5,5
+CAETANO,16,Luz do sol,major,72,6,x
+CAETANO,16,Luz do sol,major,73,5,5
+CAETANO,16,Luz do sol,major,74,6,x
+CAETANO,16,Luz do sol,major,75,5,5
+CAETANO,16,Luz do sol,major,76,6,x
+CAETANO,16,Luz do sol,major,77,5,5
+CAETANO,16,Luz do sol,major,78,3,3
+CAETANO,16,Luz do sol,major,79,7,11
+CAETANO,16,Luz do sol,major,80,1,x
+CAETANO,16,Luz do sol,major,81,7,11
+CAETANO,16,Luz do sol,major,82,1,x
+CAETANO,16,Luz do sol,major,83,7,11
+CAETANO,16,Luz do sol,major,84,1,x
+CAETANO,16,Luz do sol,major,85,7,#11
+CAETANO,16,Luz do sol,major,86,1,x
+CAETANO,16,Luz do sol,major,87,7,#11
+CAETANO,16,Luz do sol,major,88,1,x
+CAETANO,16,Luz do sol,major,89,7,#11
+CAETANO,16,Luz do sol,major,90,1,x
+CAETANO,16,Luz do sol,major,91,7,5
+CAETANO,16,Luz do sol,major,92,1,x
+CAETANO,16,Luz do sol,major,93,7,5
+CAETANO,16,Luz do sol,major,94,1,x
+CAETANO,16,Luz do sol,major,95,7,5
+CAETANO,16,Luz do sol,major,96,1,x
+CAETANO,16,Luz do sol,major,97,7,9
+CAETANO,16,Luz do sol,major,98,5,7
+CAETANO,16,Luz do sol,major,99,7,9
+CAETANO,16,Luz do sol,major,100,2,1
+CAETANO,16,Luz do sol,major,101,6,5
+CAETANO,16,Luz do sol,major,102,7,13
+CAETANO,16,Luz do sol,major,103,1,7
+CAETANO,16,Luz do sol,major,104,4,7
+CAETANO,16,Luz do sol,major,105,1,x
+CAETANO,16,Luz do sol,major,106,7,7
+CAETANO,16,Luz do sol,major,107,3,3
+CAETANO,16,Luz do sol,major,108,3,6
+CAETANO,16,Luz do sol,major,109,3,3
+CAETANO,16,Luz do sol,major,110,4,x
+CAETANO,16,Luz do sol,major,111,5,5
+CAETANO,16,Luz do sol,major,112,6,3
+CAETANO,16,Luz do sol,major,113,5,9
+CAETANO,16,Luz do sol,major,114,1,5
+CAETANO,16,Luz do sol,major,115,2,6
+CAETANO,16,Luz do sol,major,116,5,3
+CAETANO,16,Luz do sol,major,117,3,1
+CAETANO,16,Luz do sol,major,118,5,3
+CAETANO,16,Luz do sol,major,119,7,9
+CAETANO,16,Luz do sol,major,120,6,1
+CAETANO,16,Luz do sol,major,121,1,3
+CAETANO,16,Luz do sol,major,122,#6/b7,9
+CAETANO,16,Luz do sol,major,123,#5/b6,1
+CAETANO,16,Luz do sol,major,124,#2/b3,5
+CAETANO,16,Luz do sol,major,125,1,3
+CAETANO,16,Luz do sol,major,126,#6/b7,9
+CAETANO,16,Luz do sol,major,127,#5/b6,1
+CAETANO,16,Luz do sol,major,128,5,7
+CAETANO,16,Luz do sol,major,129,5,5
+CAETANO,17,Dom de iludir,major,1,3,3
+CAETANO,17,Dom de iludir,major,2,4,x
+CAETANO,17,Dom de iludir,major,3,5,5
+CAETANO,17,Dom de iludir,major,4,3,3
+CAETANO,17,Dom de iludir,major,5,4,x
+CAETANO,17,Dom de iludir,major,6,5,5
+CAETANO,17,Dom de iludir,major,7,4,x
+CAETANO,17,Dom de iludir,major,8,5,5
+CAETANO,17,Dom de iludir,major,9,#5/b6,7
+CAETANO,17,Dom de iludir,major,10,4,5
+CAETANO,17,Dom de iludir,major,11,5,x
+CAETANO,17,Dom de iludir,major,12,#5/b6,x
+CAETANO,17,Dom de iludir,major,13,5,3
+CAETANO,17,Dom de iludir,major,14,4,x
+CAETANO,17,Dom de iludir,major,15,7,7
+CAETANO,17,Dom de iludir,major,16,7,5
+CAETANO,17,Dom de iludir,major,17,4,7
+CAETANO,17,Dom de iludir,major,18,5,x
+CAETANO,17,Dom de iludir,major,19,6,5
+CAETANO,17,Dom de iludir,major,20,4,3
+CAETANO,17,Dom de iludir,major,21,5,x
+CAETANO,17,Dom de iludir,major,22,6,5
+CAETANO,17,Dom de iludir,major,23,3,5
+CAETANO,17,Dom de iludir,major,24,1,3
+CAETANO,17,Dom de iludir,major,25,2,x
+CAETANO,17,Dom de iludir,major,26,3,9
+CAETANO,17,Dom de iludir,major,27,2,x
+CAETANO,17,Dom de iludir,major,28,1,7
+CAETANO,17,Dom de iludir,major,29,2,1
+CAETANO,17,Dom de iludir,major,30,2,5
+CAETANO,17,Dom de iludir,major,31,3,x
+CAETANO,17,Dom de iludir,major,32,4,3
+CAETANO,17,Dom de iludir,major,33,5,5
+CAETANO,17,Dom de iludir,major,34,3,3
+CAETANO,17,Dom de iludir,major,35,4,x
+CAETANO,17,Dom de iludir,major,36,5,5
+CAETANO,17,Dom de iludir,major,37,4,x
+CAETANO,17,Dom de iludir,major,38,5,5
+CAETANO,17,Dom de iludir,major,39,1,7
+CAETANO,17,Dom de iludir,major,40,6,5
+CAETANO,17,Dom de iludir,major,41,7,x
+CAETANO,17,Dom de iludir,major,42,1,3
+CAETANO,17,Dom de iludir,major,43,7,x
+CAETANO,17,Dom de iludir,major,44,6,9
+CAETANO,17,Dom de iludir,major,45,7,7
+CAETANO,17,Dom de iludir,major,46,7,9
+CAETANO,17,Dom de iludir,major,47,1,b9/#9
+CAETANO,17,Dom de iludir,major,48,2,x
+CAETANO,17,Dom de iludir,major,49,3,9
+CAETANO,17,Dom de iludir,major,50,1,7
+CAETANO,17,Dom de iludir,major,51,2,x
+CAETANO,17,Dom de iludir,major,52,3,9
+CAETANO,17,Dom de iludir,major,53,1,7
+CAETANO,17,Dom de iludir,major,54,2,x
+CAETANO,17,Dom de iludir,major,55,3,13
+CAETANO,17,Dom de iludir,major,56,1,3
+CAETANO,17,Dom de iludir,major,57,2,x
+CAETANO,17,Dom de iludir,major,58,3,13
+CAETANO,17,Dom de iludir,major,59,1,3
+CAETANO,17,Dom de iludir,major,60,2,x
+CAETANO,17,Dom de iludir,major,61,1,3
+CAETANO,17,Dom de iludir,major,62,1,1
+CAETANO,18,Lua lua lua lua,major,1,1,1
+CAETANO,18,Lua lua lua lua,major,2,2,9
+CAETANO,18,Lua lua lua lua,major,3,7,x
+CAETANO,18,Lua lua lua lua,major,4,1,1
+CAETANO,18,Lua lua lua lua,major,5,6,x
+CAETANO,18,Lua lua lua lua,major,6,7,7
+CAETANO,18,Lua lua lua lua,major,7,5,5
+CAETANO,18,Lua lua lua lua,major,8,6,7
+CAETANO,18,Lua lua lua lua,major,9,5,11
+CAETANO,18,Lua lua lua lua,major,10,4,3
+CAETANO,18,Lua lua lua lua,major,11,3,x
+CAETANO,18,Lua lua lua lua,major,12,4,3
+CAETANO,18,Lua lua lua lua,major,13,5,11
+CAETANO,18,Lua lua lua lua,major,14,6,x
+CAETANO,18,Lua lua lua lua,major,15,7,3
+CAETANO,18,Lua lua lua lua,major,16,1,x
+CAETANO,18,Lua lua lua lua,major,17,6,x
+CAETANO,18,Lua lua lua lua,major,18,7,3
+CAETANO,18,Lua lua lua lua,major,19,6,x
+CAETANO,18,Lua lua lua lua,major,20,5,5
+CAETANO,18,Lua lua lua lua,major,21,4,7
+CAETANO,18,Lua lua lua lua,major,22,2,x
+CAETANO,18,Lua lua lua lua,major,23,3,3
+CAETANO,18,Lua lua lua lua,major,24,5,11
+CAETANO,18,Lua lua lua lua,major,25,4,3
+CAETANO,18,Lua lua lua lua,major,26,3,x
+CAETANO,18,Lua lua lua lua,major,27,4,3
+CAETANO,18,Lua lua lua lua,major,28,5,11
+CAETANO,18,Lua lua lua lua,major,29,6,9
+CAETANO,18,Lua lua lua lua,major,30,7,x
+CAETANO,18,Lua lua lua lua,major,31,1,x
+CAETANO,18,Lua lua lua lua,major,32,2,5
+CAETANO,18,Lua lua lua lua,major,33,3,x
+CAETANO,18,Lua lua lua lua,major,34,2,5
+CAETANO,18,Lua lua lua lua,major,35,1,x
+CAETANO,18,Lua lua lua lua,major,36,7,7
+CAETANO,18,Lua lua lua lua,major,37,1,1
+CAETANO,18,Lua lua lua lua,major,38,2,x
+CAETANO,18,Lua lua lua lua,major,39,1,5
+CAETANO,18,Lua lua lua lua,major,40,1,x
+CAETANO,18,Lua lua lua lua,major,41,2,9
+CAETANO,18,Lua lua lua lua,major,42,7,x
+CAETANO,18,Lua lua lua lua,major,43,1,1
+CAETANO,18,Lua lua lua lua,major,44,6,x
+CAETANO,18,Lua lua lua lua,major,45,7,7
+CAETANO,18,Lua lua lua lua,major,46,5,5
+CAETANO,18,Lua lua lua lua,major,47,6,7
+CAETANO,18,Lua lua lua lua,major,48,5,11
+CAETANO,18,Lua lua lua lua,major,49,4,3
+CAETANO,18,Lua lua lua lua,major,50,3,x
+CAETANO,18,Lua lua lua lua,major,51,4,3
+CAETANO,18,Lua lua lua lua,major,52,5,11
+CAETANO,18,Lua lua lua lua,major,53,6,x
+CAETANO,18,Lua lua lua lua,major,54,7,x
+CAETANO,18,Lua lua lua lua,major,55,1,7
+CAETANO,18,Lua lua lua lua,major,56,2,5
+CAETANO,18,Lua lua lua lua,major,57,3,x
+CAETANO,18,Lua lua lua lua,major,58,2,5
+CAETANO,18,Lua lua lua lua,major,59,1,x
+CAETANO,18,Lua lua lua lua,major,60,7,3
+CAETANO,18,Lua lua lua lua,major,61,6,9
+CAETANO,18,Lua lua lua lua,major,62,1,x
+CAETANO,18,Lua lua lua lua,major,63,2,9
+CAETANO,18,Lua lua lua lua,major,64,7,x
+CAETANO,18,Lua lua lua lua,major,65,1,1
+CAETANO,18,Lua lua lua lua,major,66,6,x
+CAETANO,18,Lua lua lua lua,major,67,7,7
+CAETANO,18,Lua lua lua lua,major,68,5,x
+CAETANO,18,Lua lua lua lua,major,69,#4/b5,5
+CAETANO,18,Lua lua lua lua,major,70,7,14
+CAETANO,18,Lua lua lua lua,major,71,6,5
+CAETANO,18,Lua lua lua lua,major,72,5,1
+CAETANO,18,Lua lua lua lua,major,73,1,x
+CAETANO,18,Lua lua lua lua,major,74,2,9
+CAETANO,18,Lua lua lua lua,major,75,7,x
+CAETANO,18,Lua lua lua lua,major,76,1,1
+CAETANO,18,Lua lua lua lua,major,77,6,x
+CAETANO,18,Lua lua lua lua,major,78,7,7
+CAETANO,18,Lua lua lua lua,major,79,5,5
+CAETANO,18,Lua lua lua lua,major,80,6,7
+CAETANO,19,Jeito de corpo,major,1,2,3
+CAETANO,19,Jeito de corpo,major,2,3,x
+CAETANO,19,Jeito de corpo,major,3,4,5
+CAETANO,19,Jeito de corpo,major,4,3,5
+CAETANO,19,Jeito de corpo,major,5,2,x
+CAETANO,19,Jeito de corpo,major,6,1,x
+CAETANO,19,Jeito de corpo,major,7,7,1
+CAETANO,19,Jeito de corpo,major,8,4,5
+CAETANO,19,Jeito de corpo,major,9,3,x
+CAETANO,19,Jeito de corpo,major,10,2,7
+CAETANO,19,Jeito de corpo,major,11,1,x
+CAETANO,19,Jeito de corpo,major,12,7,5
+CAETANO,19,Jeito de corpo,major,13,6,5
+CAETANO,19,Jeito de corpo,major,14,7,x
+CAETANO,19,Jeito de corpo,major,15,1,7
+CAETANO,19,Jeito de corpo,major,16,7,3
+CAETANO,19,Jeito de corpo,major,17,6,x
+CAETANO,19,Jeito de corpo,major,18,5,1
+CAETANO,19,Jeito de corpo,major,19,3,3
+CAETANO,19,Jeito de corpo,major,20,2,3
+CAETANO,19,Jeito de corpo,major,21,3,x
+CAETANO,19,Jeito de corpo,major,22,4,5
+CAETANO,19,Jeito de corpo,major,23,3,1
+CAETANO,19,Jeito de corpo,major,24,2,x
+CAETANO,19,Jeito de corpo,major,25,1,x
+CAETANO,19,Jeito de corpo,major,26,7,1
+CAETANO,19,Jeito de corpo,major,27,4,5
+CAETANO,19,Jeito de corpo,major,28,3,x
+CAETANO,19,Jeito de corpo,major,29,2,7
+CAETANO,19,Jeito de corpo,major,30,1,x
+CAETANO,19,Jeito de corpo,major,31,7,5
+CAETANO,19,Jeito de corpo,major,32,6,5
+CAETANO,19,Jeito de corpo,major,33,7,x
+CAETANO,19,Jeito de corpo,major,34,1,7
+CAETANO,19,Jeito de corpo,major,35,7,3
+CAETANO,19,Jeito de corpo,major,36,6,x
+CAETANO,19,Jeito de corpo,major,37,5,1
+CAETANO,19,Jeito de corpo,major,38,3,3
+CAETANO,19,Jeito de corpo,major,39,6,5
+CAETANO,19,Jeito de corpo,major,40,7,x
+CAETANO,19,Jeito de corpo,major,41,1,7
+CAETANO,19,Jeito de corpo,major,42,7,3
+CAETANO,19,Jeito de corpo,major,43,6,x
+CAETANO,19,Jeito de corpo,major,44,5,1
+CAETANO,19,Jeito de corpo,major,45,3,3
+CAETANO,19,Jeito de corpo,major,46,2,3
+CAETANO,19,Jeito de corpo,major,47,3,x
+CAETANO,19,Jeito de corpo,major,48,4,5
+CAETANO,19,Jeito de corpo,major,49,3,1
+CAETANO,19,Jeito de corpo,major,50,2,x
+CAETANO,19,Jeito de corpo,major,51,1,b13
+CAETANO,19,Jeito de corpo,major,52,6,1
+CAETANO,19,Jeito de corpo,major,53,2,3
+CAETANO,19,Jeito de corpo,major,54,3,x
+CAETANO,19,Jeito de corpo,major,55,4,5
+CAETANO,19,Jeito de corpo,major,56,3,1
+CAETANO,19,Jeito de corpo,major,57,2,x
+CAETANO,19,Jeito de corpo,major,58,1,x
+CAETANO,19,Jeito de corpo,major,59,7,1
+CAETANO,19,Jeito de corpo,major,60,4,5
+CAETANO,19,Jeito de corpo,major,61,3,x
+CAETANO,19,Jeito de corpo,major,62,2,7
+CAETANO,19,Jeito de corpo,major,63,1,x
+CAETANO,19,Jeito de corpo,major,64,7,5
+CAETANO,19,Jeito de corpo,major,65,6,5
+CAETANO,19,Jeito de corpo,major,66,7,x
+CAETANO,19,Jeito de corpo,major,67,1,7
+CAETANO,19,Jeito de corpo,major,68,7,3
+CAETANO,19,Jeito de corpo,major,69,6,x
+CAETANO,19,Jeito de corpo,major,70,5,1
+CAETANO,19,Jeito de corpo,major,71,3,3
+CAETANO,19,Jeito de corpo,major,72,2,3
+CAETANO,19,Jeito de corpo,major,73,3,x
+CAETANO,19,Jeito de corpo,major,74,4,5
+CAETANO,19,Jeito de corpo,major,75,3,1
+CAETANO,19,Jeito de corpo,major,76,2,x
+CAETANO,19,Jeito de corpo,major,77,1,x
+CAETANO,19,Jeito de corpo,major,78,7,1
+CAETANO,19,Jeito de corpo,major,79,4,5
+CAETANO,19,Jeito de corpo,major,80,3,x
+CAETANO,19,Jeito de corpo,major,81,2,7
+CAETANO,19,Jeito de corpo,major,82,1,x
+CAETANO,19,Jeito de corpo,major,83,7,5
+CAETANO,19,Jeito de corpo,major,84,6,5
+CAETANO,19,Jeito de corpo,major,85,7,x
+CAETANO,19,Jeito de corpo,major,86,1,7
+CAETANO,19,Jeito de corpo,major,87,7,3
+CAETANO,19,Jeito de corpo,major,88,6,x
+CAETANO,19,Jeito de corpo,major,89,5,1
+CAETANO,19,Jeito de corpo,major,90,3,3
+CAETANO,19,Jeito de corpo,major,91,6,5
+CAETANO,19,Jeito de corpo,major,92,7,x
+CAETANO,19,Jeito de corpo,major,93,1,7
+CAETANO,19,Jeito de corpo,major,94,7,3
+CAETANO,19,Jeito de corpo,major,95,6,x
+CAETANO,19,Jeito de corpo,major,96,5,1
+CAETANO,19,Jeito de corpo,major,97,3,3
+CAETANO,19,Jeito de corpo,major,98,2,3
+CAETANO,19,Jeito de corpo,major,99,3,x
+CAETANO,19,Jeito de corpo,major,100,4,5
+CAETANO,19,Jeito de corpo,major,101,3,1
+CAETANO,19,Jeito de corpo,major,102,2,x
+CAETANO,19,Jeito de corpo,major,103,1,b13
+CAETANO,19,Jeito de corpo,major,104,6,1
+CAETANO,19,Jeito de corpo,major,105,5,1
+CAETANO,19,Jeito de corpo,major,106,6,x
+CAETANO,19,Jeito de corpo,major,107,#6/b7,3
+CAETANO,19,Jeito de corpo,major,108,6,13
+CAETANO,19,Jeito de corpo,major,109,5,x
+CAETANO,19,Jeito de corpo,major,110,4,x
+CAETANO,19,Jeito de corpo,major,111,3,7
+CAETANO,19,Jeito de corpo,major,112,1,5
+CAETANO,19,Jeito de corpo,major,113,#2/b3,7
+CAETANO,19,Jeito de corpo,major,114,2,x
+CAETANO,19,Jeito de corpo,major,115,1,1
+CAETANO,19,Jeito de corpo,major,116,#2/b3,x
+CAETANO,19,Jeito de corpo,major,117,2,3
+CAETANO,19,Jeito de corpo,major,118,1,9
+CAETANO,19,Jeito de corpo,major,119,3,1
+CAETANO,19,Jeito de corpo,major,120,2,x
+CAETANO,19,Jeito de corpo,major,121,1,6
+CAETANO,19,Jeito de corpo,major,122,3,5
+CAETANO,19,Jeito de corpo,major,123,2,x
+CAETANO,19,Jeito de corpo,major,124,1,b9/#9
+CAETANO,19,Jeito de corpo,major,125,2,1
+CAETANO,19,Jeito de corpo,major,126,6,5
+CAETANO,19,Jeito de corpo,major,127,1,7
+CAETANO,19,Jeito de corpo,major,128,7,3
+CAETANO,19,Jeito de corpo,major,129,2,5
+CAETANO,19,Jeito de corpo,major,130,1,1
+CAETANO,20,Eclipse oculto,major,1,1,x
+CAETANO,20,Eclipse oculto,major,2,1,1
+CAETANO,20,Eclipse oculto,major,3,1,5
+CAETANO,20,Eclipse oculto,major,4,6,3
+CAETANO,20,Eclipse oculto,major,5,6,x
+CAETANO,20,Eclipse oculto,major,6,5,5
+CAETANO,20,Eclipse oculto,major,7,3,3
+CAETANO,20,Eclipse oculto,major,8,1,1
+CAETANO,20,Eclipse oculto,major,9,3,3
+CAETANO,20,Eclipse oculto,major,10,1,5
+CAETANO,20,Eclipse oculto,major,11,6,3
+CAETANO,20,Eclipse oculto,major,12,6,x
+CAETANO,20,Eclipse oculto,major,13,5,5
+CAETANO,20,Eclipse oculto,major,14,1,1
+CAETANO,20,Eclipse oculto,major,15,1,11
+CAETANO,20,Eclipse oculto,major,16,#6/b7,3
+CAETANO,20,Eclipse oculto,major,17,1,x
+CAETANO,20,Eclipse oculto,major,18,#6/b7,3
+CAETANO,20,Eclipse oculto,major,19,6,5
+CAETANO,20,Eclipse oculto,major,20,1,x
+CAETANO,20,Eclipse oculto,major,21,4,3
+CAETANO,20,Eclipse oculto,major,22,2,1
+CAETANO,20,Eclipse oculto,major,23,4,3
+CAETANO,20,Eclipse oculto,major,24,5,3
+CAETANO,20,Eclipse oculto,major,25,#6/b7,5
+CAETANO,20,Eclipse oculto,major,26,6,x
+CAETANO,20,Eclipse oculto,major,27,5,3
+CAETANO,20,Eclipse oculto,major,28,#4/b5,3
+CAETANO,20,Eclipse oculto,major,29,5,x
+CAETANO,20,Eclipse oculto,major,30,6,5
+CAETANO,20,Eclipse oculto,major,31,#5/b6,5
+CAETANO,20,Eclipse oculto,major,32,#6/b7,x
+CAETANO,20,Eclipse oculto,major,33,7,7
+CAETANO,20,Eclipse oculto,major,34,1,1
+CAETANO,20,Eclipse oculto,major,35,3,7
+CAETANO,20,Eclipse oculto,major,36,2,x
+CAETANO,20,Eclipse oculto,major,37,1,1
+CAETANO,20,Eclipse oculto,major,38,6,6
+CAETANO,20,Eclipse oculto,major,39,3,7
+CAETANO,20,Eclipse oculto,major,40,2,x
+CAETANO,20,Eclipse oculto,major,41,1,1
+CAETANO,20,Eclipse oculto,major,42,6,x
+CAETANO,20,Eclipse oculto,major,43,5,5
+CAETANO,20,Eclipse oculto,major,44,6,3
+CAETANO,20,Eclipse oculto,major,45,3,7
+CAETANO,20,Eclipse oculto,major,46,2,x
+CAETANO,20,Eclipse oculto,major,47,1,1
+CAETANO,20,Eclipse oculto,major,48,6,6
+CAETANO,20,Eclipse oculto,major,49,3,7
+CAETANO,20,Eclipse oculto,major,50,2,x
+CAETANO,20,Eclipse oculto,major,51,1,1
+CAETANO,20,Eclipse oculto,major,52,6,x
+CAETANO,20,Eclipse oculto,major,53,5,5
+CAETANO,20,Eclipse oculto,major,54,6,3
+CAETANO,20,Eclipse oculto,major,55,3,7
+CAETANO,20,Eclipse oculto,major,56,2,x
+CAETANO,20,Eclipse oculto,major,57,1,1
+CAETANO,20,Eclipse oculto,major,58,6,6
+CAETANO,20,Eclipse oculto,major,59,5,x
+CAETANO,20,Eclipse oculto,major,60,6,6
+CAETANO,20,Eclipse oculto,major,61,#5/b6,5
+CAETANO,20,Eclipse oculto,major,62,1,1
+CAETANO,21,Ele me deu um beijo na boca,minor,1,3,3
+CAETANO,21,Ele me deu um beijo na boca,minor,2,5,5
+CAETANO,21,Ele me deu um beijo na boca,minor,3,#4/b5,x
+CAETANO,21,Ele me deu um beijo na boca,minor,4,4,1
+CAETANO,21,Ele me deu um beijo na boca,minor,5,5,9
+CAETANO,21,Ele me deu um beijo na boca,minor,6,3,7
+CAETANO,21,Ele me deu um beijo na boca,minor,7,2,x
+CAETANO,21,Ele me deu um beijo na boca,minor,8,1,5
+CAETANO,21,Ele me deu um beijo na boca,minor,9,1,1
+CAETANO,21,Ele me deu um beijo na boca,minor,10,3,3
+CAETANO,21,Ele me deu um beijo na boca,minor,11,1,1
+CAETANO,21,Ele me deu um beijo na boca,minor,12,3,5
+CAETANO,21,Ele me deu um beijo na boca,minor,13,1,3
+CAETANO,21,Ele me deu um beijo na boca,minor,14,3,5
+CAETANO,21,Ele me deu um beijo na boca,minor,15,1,3
+CAETANO,21,Ele me deu um beijo na boca,minor,16,3,5
+CAETANO,21,Ele me deu um beijo na boca,minor,17,1,3
+CAETANO,21,Ele me deu um beijo na boca,minor,18,1,3
+CAETANO,21,Ele me deu um beijo na boca,minor,19,3,5
+CAETANO,21,Ele me deu um beijo na boca,minor,20,1,3
+CAETANO,21,Ele me deu um beijo na boca,minor,21,5,9
+CAETANO,21,Ele me deu um beijo na boca,minor,22,1,5
+CAETANO,21,Ele me deu um beijo na boca,minor,23,5,5
+CAETANO,21,Ele me deu um beijo na boca,minor,24,4,1
+CAETANO,21,Ele me deu um beijo na boca,minor,25,3,x
+CAETANO,21,Ele me deu um beijo na boca,minor,26,4,1
+CAETANO,21,Ele me deu um beijo na boca,minor,27,5,9
+CAETANO,21,Ele me deu um beijo na boca,minor,28,3,7
+CAETANO,21,Ele me deu um beijo na boca,minor,29,1,1
+CAETANO,21,Ele me deu um beijo na boca,minor,30,1,1
+CAETANO,21,Ele me deu um beijo na boca,minor,31,3,3
+CAETANO,21,Ele me deu um beijo na boca,minor,32,1,1
+CAETANO,21,Ele me deu um beijo na boca,minor,33,3,5
+CAETANO,21,Ele me deu um beijo na boca,minor,34,1,3
+CAETANO,21,Ele me deu um beijo na boca,minor,35,3,5
+CAETANO,21,Ele me deu um beijo na boca,minor,36,1,3
+CAETANO,21,Ele me deu um beijo na boca,minor,37,1,3
+CAETANO,21,Ele me deu um beijo na boca,minor,38,5,7
+CAETANO,21,Ele me deu um beijo na boca,minor,39,1,5
+CAETANO,21,Ele me deu um beijo na boca,minor,40,4,1
+CAETANO,21,Ele me deu um beijo na boca,minor,41,5,9
+CAETANO,21,Ele me deu um beijo na boca,minor,42,3,7
+CAETANO,21,Ele me deu um beijo na boca,minor,43,1,1
+CAETANO,21,Ele me deu um beijo na boca,minor,44,5,5
+CAETANO,21,Ele me deu um beijo na boca,minor,45,1,1
+CAETANO,21,Ele me deu um beijo na boca,minor,46,5,5
+CAETANO,21,Ele me deu um beijo na boca,minor,47,b7,11
+CAETANO,21,Ele me deu um beijo na boca,minor,48,5,9
+CAETANO,21,Ele me deu um beijo na boca,minor,49,b7,1
+CAETANO,21,Ele me deu um beijo na boca,minor,50,1,9
+CAETANO,21,Ele me deu um beijo na boca,minor,51,5,3
+CAETANO,21,Ele me deu um beijo na boca,minor,52,3,1
+CAETANO,22,Esse cara,major,1,1,1
+CAETANO,22,Esse cara,major,2,3,3
+CAETANO,22,Esse cara,major,3,4,x
+CAETANO,22,Esse cara,major,4,5,5
+CAETANO,22,Esse cara,major,5,6,x
+CAETANO,22,Esse cara,major,6,7,1
+CAETANO,22,Esse cara,major,7,3,1
+CAETANO,22,Esse cara,major,8,4,x
+CAETANO,22,Esse cara,major,9,5,b9/#9
+CAETANO,22,Esse cara,major,10,6,1
+CAETANO,22,Esse cara,major,11,3,5
+CAETANO,22,Esse cara,major,12,6,9
+CAETANO,22,Esse cara,major,13,5,1
+CAETANO,22,Esse cara,major,14,4,x
+CAETANO,22,Esse cara,major,15,3,3
+CAETANO,22,Esse cara,major,16,2,x
+CAETANO,22,Esse cara,major,17,1,5
+CAETANO,22,Esse cara,major,18,#2/b3,11
+CAETANO,22,Esse cara,major,19,1,9
+CAETANO,22,Esse cara,major,20,#6/b7,1
+CAETANO,22,Esse cara,major,21,6,x
+CAETANO,22,Esse cara,major,22,5,3
+CAETANO,22,Esse cara,major,23,4,x
+CAETANO,22,Esse cara,major,24,#2/b3,5
+CAETANO,22,Esse cara,major,25,2,11
+CAETANO,22,Esse cara,major,26,1,3
+CAETANO,22,Esse cara,major,27,7,13
+CAETANO,22,Esse cara,major,28,6,x
+CAETANO,22,Esse cara,major,29,7,13
+CAETANO,22,Esse cara,major,30,5,11
+CAETANO,22,Esse cara,major,31,5,1
+CAETANO,22,Esse cara,major,32,6,x
+CAETANO,22,Esse cara,major,33,#6/b7,3
+CAETANO,22,Esse cara,major,34,6,9
+CAETANO,22,Esse cara,major,35,1,x
+CAETANO,22,Esse cara,major,36,#6/b7,3
+CAETANO,22,Esse cara,major,37,6,x
+CAETANO,22,Esse cara,major,38,5,5
+CAETANO,22,Esse cara,major,39,4,x
+CAETANO,22,Esse cara,major,40,5,5
+CAETANO,22,Esse cara,major,41,6,3
+CAETANO,22,Esse cara,major,42,4,1
+CAETANO,22,Esse cara,major,43,5,x
+CAETANO,22,Esse cara,major,44,#5/b6,3
+CAETANO,22,Esse cara,major,45,5,x
+CAETANO,22,Esse cara,major,46,4,1
+CAETANO,22,Esse cara,major,47,1,9
+CAETANO,22,Esse cara,major,48,#6/b7,x
+CAETANO,22,Esse cara,major,49,#5/b6,7
+CAETANO,22,Esse cara,major,50,5,3
+CAETANO,22,Esse cara,major,51,#2/b3,1
+CAETANO,22,Esse cara,major,52,4,x
+CAETANO,22,Esse cara,major,53,5,3
+CAETANO,22,Esse cara,major,54,3,1
+CAETANO,22,Esse cara,major,55,5,3
+CAETANO,22,Esse cara,major,56,#6/b7,b9/#9
+CAETANO,22,Esse cara,major,57,6,x
+CAETANO,22,Esse cara,major,58,5,7
+CAETANO,22,Esse cara,major,59,4,3
+CAETANO,22,Esse cara,major,60,1,1
+CAETANO,22,Esse cara,major,61,2,x
+CAETANO,22,Esse cara,major,62,3,3
+CAETANO,22,Esse cara,major,63,2,x
+CAETANO,22,Esse cara,major,64,1,1
+CAETANO,22,Esse cara,major,65,2,x
+CAETANO,22,Esse cara,major,66,3,3
+CAETANO,22,Esse cara,major,67,2,x
+CAETANO,22,Esse cara,major,68,1,1
+CAETANO,22,Esse cara,major,69,2,x
+CAETANO,22,Esse cara,major,70,5,11
+CAETANO,22,Esse cara,major,71,5,1
+CAETANO,22,Esse cara,major,72,4,x
+CAETANO,22,Esse cara,major,73,5,1
+CAETANO,22,Esse cara,major,74,3,3
+CAETANO,22,Esse cara,major,75,5,1
+CAETANO,22,Esse cara,major,76,4,x
+CAETANO,22,Esse cara,major,77,5,1
+CAETANO,22,Esse cara,major,78,3,3
+CAETANO,22,Esse cara,major,79,2,1
+CAETANO,22,Esse cara,major,80,3,x
+CAETANO,22,Esse cara,major,81,4,3
+CAETANO,22,Esse cara,major,82,5,1
+CAETANO,22,Esse cara,major,83,6,x
+CAETANO,22,Esse cara,major,84,7,3
+CAETANO,22,Esse cara,major,85,2,9
+CAETANO,22,Esse cara,major,86,#1/b2,x
+CAETANO,22,Esse cara,major,87,1,1
+CAETANO,23,Gema,major,1,3,3
+CAETANO,23,Gema,major,2,5,5
+CAETANO,23,Gema,major,3,1,1
+CAETANO,23,Gema,major,4,6,6
+CAETANO,23,Gema,major,5,1,1
+CAETANO,23,Gema,major,6,6,6
+CAETANO,23,Gema,major,7,5,5
+CAETANO,23,Gema,major,8,5,11
+CAETANO,23,Gema,major,9,3,9
+CAETANO,23,Gema,major,10,2,1
+CAETANO,23,Gema,major,11,1,7
+CAETANO,23,Gema,major,12,6,5
+CAETANO,23,Gema,major,13,5,11
+CAETANO,23,Gema,major,14,5,1
+CAETANO,23,Gema,major,15,4,x
+CAETANO,23,Gema,major,16,3,5
+CAETANO,23,Gema,major,17,4,13
+CAETANO,23,Gema,major,18,3,5
+CAETANO,23,Gema,major,19,1,3
+CAETANO,23,Gema,major,20,6,1
+CAETANO,23,Gema,major,21,3,5
+CAETANO,23,Gema,major,22,5,7
+CAETANO,23,Gema,major,23,6,5
+CAETANO,23,Gema,major,24,6,9
+CAETANO,23,Gema,major,25,3,3
+CAETANO,23,Gema,major,26,1,1
+CAETANO,23,Gema,major,27,3,3
+CAETANO,23,Gema,major,28,6,3
+CAETANO,23,Gema,major,29,6,7
+CAETANO,23,Gema,major,30,5,11
+CAETANO,23,Gema,major,31,5,1
+CAETANO,23,Gema,major,32,3,13
+CAETANO,23,Gema,major,33,5,1
+CAETANO,23,Gema,major,34,1,1
+CAETANO,23,Gema,major,35,6,6
+CAETANO,23,Gema,major,36,1,1
+CAETANO,23,Gema,major,37,6,6
+CAETANO,23,Gema,major,38,5,5
+CAETANO,23,Gema,major,39,5,11
+CAETANO,23,Gema,major,40,3,9
+CAETANO,23,Gema,major,41,2,1
+CAETANO,23,Gema,major,42,1,7
+CAETANO,23,Gema,major,43,6,5
+CAETANO,23,Gema,major,44,5,11
+CAETANO,23,Gema,major,45,5,1
+CAETANO,23,Gema,major,46,3,x
+CAETANO,23,Gema,major,47,2,5
+CAETANO,23,Gema,major,48,3,13
+CAETANO,23,Gema,major,49,2,5
+CAETANO,23,Gema,major,50,1,3
+CAETANO,23,Gema,major,51,6,1
+CAETANO,24,Gente,major,1,3,3
+CAETANO,24,Gente,major,2,2,x
+CAETANO,24,Gente,major,3,1,1
+CAETANO,24,Gente,major,4,6,6
+CAETANO,24,Gente,major,5,5,5
+CAETANO,24,Gente,major,6,3,3
+CAETANO,24,Gente,major,7,2,x
+CAETANO,24,Gente,major,8,1,1
+CAETANO,24,Gente,major,9,6,x
+CAETANO,24,Gente,major,10,5,5
+CAETANO,24,Gente,major,11,3,3
+CAETANO,24,Gente,major,12,3,1
+CAETANO,24,Gente,major,13,2,11
+CAETANO,24,Gente,major,14,1,3
+CAETANO,24,Gente,major,15,6,1
+CAETANO,24,Gente,major,16,5,7
+CAETANO,24,Gente,major,17,3,5
+CAETANO,24,Gente,major,18,2,11
+CAETANO,24,Gente,major,19,1,3
+CAETANO,24,Gente,major,20,6,1
+CAETANO,24,Gente,major,21,5,7
+CAETANO,24,Gente,major,22,3,5
+CAETANO,24,Gente,major,23,2,5
+CAETANO,24,Gente,major,24,2,9
+CAETANO,24,Gente,major,25,2,#11
+CAETANO,24,Gente,major,26,1,3
+CAETANO,24,Gente,major,27,#5/b6,1
+CAETANO,24,Gente,major,28,4,x
+CAETANO,24,Gente,major,29,#2/b3,5
+CAETANO,24,Gente,major,30,2,#11
+CAETANO,24,Gente,major,31,1,3
+CAETANO,24,Gente,major,32,#5/b6,1
+CAETANO,24,Gente,major,33,4,x
+CAETANO,24,Gente,major,34,#2/b3,5
+CAETANO,24,Gente,major,35,2,9
+CAETANO,24,Gente,major,36,1,1
+CAETANO,24,Gente,major,37,5,5
+CAETANO,24,Gente,major,38,2,#11
+CAETANO,24,Gente,major,39,1,3
+CAETANO,24,Gente,major,40,#5/b6,1
+CAETANO,24,Gente,major,41,4,x
+CAETANO,24,Gente,major,42,#2/b3,5
+CAETANO,24,Gente,major,43,2,#11
+CAETANO,24,Gente,major,44,1,3
+CAETANO,24,Gente,major,45,#5/b6,1
+CAETANO,24,Gente,major,46,4,x
+CAETANO,24,Gente,major,47,#2/b3,5
+CAETANO,24,Gente,major,48,2,5
+CAETANO,24,Gente,major,49,3,13
+CAETANO,24,Gente,major,50,2,x
+CAETANO,24,Gente,major,51,1,1
+CAETANO,24,Gente,major,52,3,3
+CAETANO,24,Gente,major,53,2,9
+CAETANO,24,Gente,major,54,1,1
+CAETANO,24,Gente,major,55,3,3
+CAETANO,24,Gente,major,56,2,9
+CAETANO,24,Gente,major,57,1,1
+CAETANO,24,Gente,major,58,3,3
+CAETANO,24,Gente,major,59,2,9
+CAETANO,24,Gente,major,60,1,1
+CAETANO,24,Gente,major,61,3,3
+CAETANO,24,Gente,major,62,2,6
+CAETANO,24,Gente,major,63,1,5
+CAETANO,24,Gente,major,64,3,7
+CAETANO,24,Gente,major,65,2,x
+CAETANO,24,Gente,major,66,1,5
+CAETANO,24,Gente,major,67,2,x
+CAETANO,24,Gente,major,68,#2/b3,7
+CAETANO,24,Gente,major,69,3,3
+CAETANO,24,Gente,major,70,2,x
+CAETANO,24,Gente,major,71,1,1
+CAETANO,24,Gente,major,72,6,6
+CAETANO,24,Gente,major,73,5,5
+CAETANO,24,Gente,major,74,2,#11
+CAETANO,24,Gente,major,75,1,3
+CAETANO,24,Gente,major,76,#5/b6,1
+CAETANO,24,Gente,major,77,4,x
+CAETANO,24,Gente,major,78,#2/b3,5
+CAETANO,24,Gente,major,79,2,x
+CAETANO,24,Gente,major,80,1,1
+CAETANO,25,Irene,major,1,1,1
+CAETANO,25,Irene,major,2,2,x
+CAETANO,25,Irene,major,3,1,1
+CAETANO,25,Irene,major,4,7,3
+CAETANO,25,Irene,major,5,6,x
+CAETANO,25,Irene,major,6,5,1
+CAETANO,25,Irene,major,7,3,13
+CAETANO,25,Irene,major,8,2,5
+CAETANO,25,Irene,major,9,1,1
+CAETANO,25,Irene,major,10,4,1
+CAETANO,25,Irene,major,11,3,x
+CAETANO,25,Irene,major,12,2,6
+CAETANO,25,Irene,major,13,2,5
+CAETANO,25,Irene,major,14,7,3
+CAETANO,25,Irene,major,15,5,9
+CAETANO,25,Irene,major,16,4,1
+CAETANO,25,Irene,major,17,3,7
+CAETANO,25,Irene,major,18,2,3
+CAETANO,25,Irene,major,19,6,3
+CAETANO,25,Irene,major,20,5,x
+CAETANO,25,Irene,major,21,4,7
+CAETANO,25,Irene,major,22,3,x
+CAETANO,25,Irene,major,23,2,5
+CAETANO,25,Irene,major,24,3,13
+CAETANO,25,Irene,major,25,2,x
+CAETANO,25,Irene,major,26,1,1
+CAETANO,25,Irene,major,27,1,1
+CAETANO,25,Irene,major,28,2,x
+CAETANO,25,Irene,major,29,1,1
+CAETANO,25,Irene,major,30,7,7
+CAETANO,25,Irene,major,31,2,5
+CAETANO,25,Irene,major,32,4,7
+CAETANO,25,Irene,major,33,3,x
+CAETANO,25,Irene,major,34,2,5
+CAETANO,25,Irene,major,35,4,1
+CAETANO,25,Irene,major,36,6,3
+CAETANO,25,Irene,major,37,5,1
+CAETANO,25,Irene,major,38,2,6
+CAETANO,25,Irene,major,39,4,1
+CAETANO,25,Irene,major,40,3,x
+CAETANO,25,Irene,major,41,2,6
+CAETANO,25,Irene,major,42,4,7
+CAETANO,25,Irene,major,43,6,9
+CAETANO,25,Irene,major,44,5,x
+CAETANO,25,Irene,major,45,4,7
+CAETANO,25,Irene,major,46,6,3
+CAETANO,25,Irene,major,47,1,5
+CAETANO,25,Irene,major,48,7,3
+CAETANO,25,Irene,major,49,6,3
+CAETANO,25,Irene,major,50,5,9
+CAETANO,25,Irene,major,51,4,7
+CAETANO,25,Irene,major,52,3,x
+CAETANO,25,Irene,major,53,2,5
+CAETANO,25,Irene,major,54,3,13
+CAETANO,25,Irene,major,55,2,x
+CAETANO,25,Irene,major,56,1,1
+CAETANO,26,London London,major,1,3,3
+CAETANO,26,London London,major,2,5,5
+CAETANO,26,London London,major,3,4,x
+CAETANO,26,London London,major,4,3,13
+CAETANO,26,London London,major,5,2,5
+CAETANO,26,London London,major,6,4,7
+CAETANO,26,London London,major,7,3,13
+CAETANO,26,London London,major,8,1,1
+CAETANO,26,London London,major,9,1,5
+CAETANO,26,London London,major,10,7,3
+CAETANO,26,London London,major,11,6,9
+CAETANO,26,London London,major,12,1,x
+CAETANO,26,London London,major,13,7,3
+CAETANO,26,London London,major,14,5,5
+CAETANO,26,London London,major,15,1,1
+CAETANO,26,London London,major,16,1,5
+CAETANO,26,London London,major,17,7,3
+CAETANO,26,London London,major,18,6,9
+CAETANO,26,London London,major,19,1,x
+CAETANO,26,London London,major,20,7,3
+CAETANO,26,London London,major,21,5,3
+CAETANO,26,London London,major,22,4,x
+CAETANO,26,London London,major,23,3,5
+CAETANO,26,London London,major,24,2,1
+CAETANO,26,London London,major,25,1,x
+CAETANO,26,London London,major,26,7,3
+CAETANO,26,London London,major,27,3,13
+CAETANO,26,London London,major,28,2,x
+CAETANO,26,London London,major,29,1,1
+CAETANO,26,London London,major,30,5,5
+CAETANO,26,London London,major,31,6,3
+CAETANO,26,London London,major,32,2,6
+CAETANO,26,London London,major,33,4,x
+CAETANO,26,London London,major,34,3,13
+CAETANO,26,London London,major,35,2,5
+CAETANO,26,London London,major,36,4,7
+CAETANO,26,London London,major,37,3,13
+CAETANO,26,London London,major,38,2,x
+CAETANO,26,London London,major,39,1,5
+CAETANO,26,London London,major,40,3,13
+CAETANO,26,London London,major,41,1,1
+CAETANO,27,Milagres do povo,major,1,3,3
+CAETANO,27,Milagres do povo,major,2,4,x
+CAETANO,27,Milagres do povo,major,3,5,5
+CAETANO,27,Milagres do povo,major,4,5,1
+CAETANO,27,Milagres do povo,major,5,4,7
+CAETANO,27,Milagres do povo,major,6,3,x
+CAETANO,27,Milagres do povo,major,7,4,7
+CAETANO,27,Milagres do povo,major,8,3,x
+CAETANO,27,Milagres do povo,major,9,4,7
+CAETANO,27,Milagres do povo,major,10,5,x
+CAETANO,27,Milagres do povo,major,11,6,5
+CAETANO,27,Milagres do povo,major,12,5,x
+CAETANO,27,Milagres do povo,major,13,4,3
+CAETANO,27,Milagres do povo,major,14,2,1
+CAETANO,27,Milagres do povo,major,15,6,5
+CAETANO,27,Milagres do povo,major,16,1,3
+CAETANO,27,Milagres do povo,major,17,7,x
+CAETANO,27,Milagres do povo,major,18,6,1
+CAETANO,27,Milagres do povo,major,19,3,5
+CAETANO,27,Milagres do povo,major,20,6,1
+CAETANO,27,Milagres do povo,major,21,6,7
+CAETANO,27,Milagres do povo,major,22,5,x
+CAETANO,27,Milagres do povo,major,23,4,5
+CAETANO,27,Milagres do povo,major,24,2,3
+CAETANO,27,Milagres do povo,major,25,3,#11
+CAETANO,27,Milagres do povo,major,26,4,x
+CAETANO,27,Milagres do povo,major,27,5,5
+CAETANO,27,Milagres do povo,major,28,5,1
+CAETANO,27,Milagres do povo,major,29,4,7
+CAETANO,27,Milagres do povo,major,30,3,x
+CAETANO,27,Milagres do povo,major,31,4,7
+CAETANO,27,Milagres do povo,major,32,6,9
+CAETANO,27,Milagres do povo,major,33,6,5
+CAETANO,27,Milagres do povo,major,34,5,x
+CAETANO,27,Milagres do povo,major,35,4,3
+CAETANO,27,Milagres do povo,major,36,2,1
+CAETANO,27,Milagres do povo,major,37,7,x
+CAETANO,27,Milagres do povo,major,38,1,3
+CAETANO,27,Milagres do povo,major,39,7,x
+CAETANO,27,Milagres do povo,major,40,6,1
+CAETANO,27,Milagres do povo,major,41,3,5
+CAETANO,27,Milagres do povo,major,42,6,1
+CAETANO,27,Milagres do povo,major,43,6,7
+CAETANO,27,Milagres do povo,major,44,5,x
+CAETANO,27,Milagres do povo,major,45,4,5
+CAETANO,27,Milagres do povo,major,46,3,x
+CAETANO,27,Milagres do povo,major,47,2,3
+CAETANO,27,Milagres do povo,major,48,1,1
+CAETANO,27,Milagres do povo,major,49,2,x
+CAETANO,27,Milagres do povo,major,50,1,1
+CAETANO,27,Milagres do povo,major,51,2,x
+CAETANO,27,Milagres do povo,major,52,1,1
+CAETANO,27,Milagres do povo,major,53,6,9
+CAETANO,27,Milagres do povo,major,54,5,x
+CAETANO,27,Milagres do povo,major,55,6,9
+CAETANO,27,Milagres do povo,major,56,5,x
+CAETANO,27,Milagres do povo,major,57,6,13
+CAETANO,27,Milagres do povo,major,58,5,5
+CAETANO,27,Milagres do povo,major,59,1,1
+CAETANO,27,Milagres do povo,major,60,5,5
+CAETANO,27,Milagres do povo,major,61,#6/b7,7
+CAETANO,27,Milagres do povo,major,62,6,3
+CAETANO,27,Milagres do povo,major,63,4,1
+CAETANO,27,Milagres do povo,major,64,3,7
+CAETANO,27,Milagres do povo,major,65,1,1
+CAETANO,27,Milagres do povo,major,66,5,5
+CAETANO,27,Milagres do povo,major,67,6,7
+CAETANO,27,Milagres do povo,major,68,4,5
+CAETANO,27,Milagres do povo,major,69,3,#11
+CAETANO,27,Milagres do povo,major,70,1,1
+CAETANO,28,Louco por voce,minor,1,1,1
+CAETANO,28,Louco por voce,minor,2,2,x
+CAETANO,28,Louco por voce,minor,3,3,3
+CAETANO,28,Louco por voce,minor,4,4,x
+CAETANO,28,Louco por voce,minor,5,5,5
+CAETANO,28,Louco por voce,minor,6,b7,3
+CAETANO,28,Louco por voce,minor,7,#6,9
+CAETANO,28,Louco por voce,minor,8,3,x
+CAETANO,28,Louco por voce,minor,9,2,11
+CAETANO,28,Louco por voce,minor,10,1,3
+CAETANO,28,Louco por voce,minor,11,#4/b5,3
+CAETANO,28,Louco por voce,minor,12,2,7
+CAETANO,28,Louco por voce,minor,13,1,3
+CAETANO,28,Louco por voce,minor,14,5,7
+CAETANO,28,Louco por voce,minor,15,3,5
+CAETANO,28,Louco por voce,minor,16,5,11
+CAETANO,28,Louco por voce,minor,17,1,1
+CAETANO,28,Louco por voce,minor,18,2,x
+CAETANO,28,Louco por voce,minor,19,3,3
+CAETANO,28,Louco por voce,minor,20,4,x
+CAETANO,28,Louco por voce,minor,21,5,1
+CAETANO,28,Louco por voce,minor,22,b7,3
+CAETANO,28,Louco por voce,minor,23,#6,9
+CAETANO,28,Louco por voce,minor,24,3,x
+CAETANO,28,Louco por voce,minor,25,2,11
+CAETANO,28,Louco por voce,minor,26,1,3
+CAETANO,28,Louco por voce,minor,27,3,11
+CAETANO,28,Louco por voce,minor,28,#1/b2,7
+CAETANO,28,Louco por voce,minor,29,1,3
+CAETANO,28,Louco por voce,minor,30,2,1
+CAETANO,28,Louco por voce,minor,31,5,1
+CAETANO,28,Louco por voce,minor,32,4,7
+CAETANO,28,Louco por voce,minor,33,1,1
+CAETANO,28,Louco por voce,minor,34,4,1
+CAETANO,28,Louco por voce,minor,35,5,9
+CAETANO,28,Louco por voce,minor,36,5,5
+CAETANO,28,Louco por voce,minor,37,b7,7
+CAETANO,28,Louco por voce,minor,38,5,5
+CAETANO,28,Louco por voce,minor,39,1,5
+CAETANO,28,Louco por voce,minor,40,1,1
+CAETANO,28,Louco por voce,minor,41,3,3
+CAETANO,28,Louco por voce,minor,42,1,1
+CAETANO,28,Louco por voce,minor,43,4,1
+CAETANO,28,Louco por voce,minor,44,5,9
+CAETANO,28,Louco por voce,minor,45,5,5
+CAETANO,28,Louco por voce,minor,46,b7,7
+CAETANO,28,Louco por voce,minor,47,5,5
+CAETANO,28,Louco por voce,minor,48,1,5
+CAETANO,28,Louco por voce,minor,49,2,13
+CAETANO,29,Lua de Sao Jorge,major,1,5,5
+CAETANO,29,Lua de Sao Jorge,major,2,6,6
+CAETANO,29,Lua de Sao Jorge,major,3,1,1
+CAETANO,29,Lua de Sao Jorge,major,4,2,x
+CAETANO,29,Lua de Sao Jorge,major,5,3,1
+CAETANO,29,Lua de Sao Jorge,major,6,4,b13
+CAETANO,29,Lua de Sao Jorge,major,7,3,9
+CAETANO,29,Lua de Sao Jorge,major,8,2,x
+CAETANO,29,Lua de Sao Jorge,major,9,1,7
+CAETANO,29,Lua de Sao Jorge,major,10,7,x
+CAETANO,29,Lua de Sao Jorge,major,11,6,5
+CAETANO,29,Lua de Sao Jorge,major,12,2,1
+CAETANO,29,Lua de Sao Jorge,major,13,5,1
+CAETANO,29,Lua de Sao Jorge,major,14,6,x
+CAETANO,29,Lua de Sao Jorge,major,15,7,3
+CAETANO,29,Lua de Sao Jorge,major,16,1,x
+CAETANO,29,Lua de Sao Jorge,major,17,2,5
+CAETANO,29,Lua de Sao Jorge,major,18,3,13
+CAETANO,29,Lua de Sao Jorge,major,19,2,9
+CAETANO,29,Lua de Sao Jorge,major,20,1,x
+CAETANO,29,Lua de Sao Jorge,major,21,7,7
+CAETANO,29,Lua de Sao Jorge,major,22,6,x
+CAETANO,29,Lua de Sao Jorge,major,23,5,1
+CAETANO,29,Lua de Sao Jorge,major,24,5,1
+CAETANO,29,Lua de Sao Jorge,major,25,6,6
+CAETANO,29,Lua de Sao Jorge,major,26,1,1
+CAETANO,29,Lua de Sao Jorge,major,27,2,x
+CAETANO,29,Lua de Sao Jorge,major,28,3,3
+CAETANO,29,Lua de Sao Jorge,major,29,4,b13
+CAETANO,29,Lua de Sao Jorge,major,30,3,9
+CAETANO,29,Lua de Sao Jorge,major,31,2,x
+CAETANO,29,Lua de Sao Jorge,major,32,1,7
+CAETANO,29,Lua de Sao Jorge,major,33,7,x
+CAETANO,29,Lua de Sao Jorge,major,34,6,5
+CAETANO,29,Lua de Sao Jorge,major,35,2,1
+CAETANO,29,Lua de Sao Jorge,major,36,5,1
+CAETANO,29,Lua de Sao Jorge,major,37,6,x
+CAETANO,29,Lua de Sao Jorge,major,38,7,3
+CAETANO,29,Lua de Sao Jorge,major,39,1,x
+CAETANO,29,Lua de Sao Jorge,major,40,2,5
+CAETANO,29,Lua de Sao Jorge,major,41,3,13
+CAETANO,29,Lua de Sao Jorge,major,42,1,3
+CAETANO,29,Lua de Sao Jorge,major,43,7,x
+CAETANO,29,Lua de Sao Jorge,major,44,6,1
+CAETANO,29,Lua de Sao Jorge,major,45,5,7
+CAETANO,29,Lua de Sao Jorge,major,46,3,1
+CAETANO,29,Lua de Sao Jorge,major,47,1,5
+CAETANO,29,Lua de Sao Jorge,major,48,7,x
+CAETANO,29,Lua de Sao Jorge,major,49,6,3
+CAETANO,29,Lua de Sao Jorge,major,50,5,9
+CAETANO,29,Lua de Sao Jorge,major,51,3,7
+CAETANO,29,Lua de Sao Jorge,major,52,4,1
+CAETANO,29,Lua de Sao Jorge,major,53,5,3
+CAETANO,29,Lua de Sao Jorge,major,54,6,11
+CAETANO,29,Lua de Sao Jorge,major,55,1,x
+CAETANO,29,Lua de Sao Jorge,major,56,2,7
+CAETANO,29,Lua de Sao Jorge,major,57,3,1
+CAETANO,29,Lua de Sao Jorge,major,58,4,b13
+CAETANO,29,Lua de Sao Jorge,major,59,3,9
+CAETANO,29,Lua de Sao Jorge,major,60,2,x
+CAETANO,29,Lua de Sao Jorge,major,61,1,7
+CAETANO,29,Lua de Sao Jorge,major,62,7,x
+CAETANO,29,Lua de Sao Jorge,major,63,6,9
+CAETANO,29,Lua de Sao Jorge,major,64,2,5
+CAETANO,29,Lua de Sao Jorge,major,65,1,1
+CAETANO,30,Minha voz minha vida,major,1,2,9
+CAETANO,30,Minha voz minha vida,major,2,7,7
+CAETANO,30,Minha voz minha vida,major,3,1,x
+CAETANO,30,Minha voz minha vida,major,4,2,3
+CAETANO,30,Minha voz minha vida,major,5,7,1
+CAETANO,30,Minha voz minha vida,major,6,7,5
+CAETANO,30,Minha voz minha vida,major,7,6,1
+CAETANO,30,Minha voz minha vida,major,8,7,x
+CAETANO,30,Minha voz minha vida,major,9,1,3
+CAETANO,30,Minha voz minha vida,major,10,2,x
+CAETANO,30,Minha voz minha vida,major,11,3,5
+CAETANO,30,Minha voz minha vida,major,12,5,7
+CAETANO,30,Minha voz minha vida,major,13,6,1
+CAETANO,30,Minha voz minha vida,major,14,1,3
+CAETANO,30,Minha voz minha vida,major,15,2,11
+CAETANO,30,Minha voz minha vida,major,16,7,11
+CAETANO,30,Minha voz minha vida,major,17,7,#11
+CAETANO,30,Minha voz minha vida,major,18,6,x
+CAETANO,30,Minha voz minha vida,major,19,5,3
+CAETANO,30,Minha voz minha vida,major,20,#1/b2,3
+CAETANO,30,Minha voz minha vida,major,21,#6/b7,b9/#9
+CAETANO,30,Minha voz minha vida,major,22,6,3
+CAETANO,30,Minha voz minha vida,major,23,3,7
+CAETANO,30,Minha voz minha vida,major,24,6,3
+CAETANO,30,Minha voz minha vida,major,25,5,7
+CAETANO,30,Minha voz minha vida,major,26,3,9
+CAETANO,30,Minha voz minha vida,major,27,1,7
+CAETANO,30,Minha voz minha vida,major,28,6,5
+CAETANO,30,Minha voz minha vida,major,29,1,7
+CAETANO,30,Minha voz minha vida,major,30,6,5
+CAETANO,30,Minha voz minha vida,major,31,6,9
+CAETANO,30,Minha voz minha vida,major,32,5,1
+CAETANO,30,Minha voz minha vida,major,33,3,13
+CAETANO,30,Minha voz minha vida,major,34,1,9
+CAETANO,30,Minha voz minha vida,major,35,6,9
+CAETANO,30,Minha voz minha vida,major,36,5,3
+CAETANO,30,Minha voz minha vida,major,37,7,3
+CAETANO,30,Minha voz minha vida,major,38,1,1
+CAETANO,30,Minha voz minha vida,major,39,1,x
+CAETANO,30,Minha voz minha vida,major,40,2,6
+CAETANO,30,Minha voz minha vida,major,41,6,3
+CAETANO,30,Minha voz minha vida,major,42,1,x
+CAETANO,30,Minha voz minha vida,major,43,2,6
+CAETANO,30,Minha voz minha vida,major,44,6,3
+CAETANO,30,Minha voz minha vida,major,45,1,x
+CAETANO,30,Minha voz minha vida,major,46,2,3
+CAETANO,30,Minha voz minha vida,major,47,#5/b6,7
+CAETANO,30,Minha voz minha vida,major,48,1,x
+CAETANO,30,Minha voz minha vida,major,49,2,3
+CAETANO,30,Minha voz minha vida,major,50,4,5
+CAETANO,30,Minha voz minha vida,major,51,3,1
+CAETANO,30,Minha voz minha vida,major,52,7,9
+CAETANO,30,Minha voz minha vida,major,53,2,x
+CAETANO,30,Minha voz minha vida,major,54,3,9
+CAETANO,30,Minha voz minha vida,major,55,6,5
+CAETANO,30,Minha voz minha vida,major,56,2,x
+CAETANO,30,Minha voz minha vida,major,57,3,9
+CAETANO,30,Minha voz minha vida,major,58,6,5
+CAETANO,30,Minha voz minha vida,major,59,2,x
+CAETANO,30,Minha voz minha vida,major,60,3,9
+CAETANO,30,Minha voz minha vida,major,61,6,5
+CAETANO,30,Minha voz minha vida,major,62,2,1
+CAETANO,30,Minha voz minha vida,major,63,#4/b5,3
+CAETANO,30,Minha voz minha vida,major,64,7,13
+CAETANO,30,Minha voz minha vida,major,65,6,5
+CAETANO,30,Minha voz minha vida,major,66,#2/b3,b13
+CAETANO,30,Minha voz minha vida,major,67,7,3
+CAETANO,30,Minha voz minha vida,major,68,1,1
+CAETANO,31,Menino do Rio,major,1,3,3
+CAETANO,31,Menino do Rio,major,2,2,x
+CAETANO,31,Menino do Rio,major,3,1,1
+CAETANO,31,Menino do Rio,major,4,2,x
+CAETANO,31,Menino do Rio,major,5,1,1
+CAETANO,31,Menino do Rio,major,6,#2/b3,1
+CAETANO,31,Menino do Rio,major,7,2,x
+CAETANO,31,Menino do Rio,major,8,#2/b3,1
+CAETANO,31,Menino do Rio,major,9,2,x
+CAETANO,31,Menino do Rio,major,10,1,7
+CAETANO,31,Menino do Rio,major,11,2,x
+CAETANO,31,Menino do Rio,major,12,1,7
+CAETANO,31,Menino do Rio,major,13,2,1
+CAETANO,31,Menino do Rio,major,14,1,x
+CAETANO,31,Menino do Rio,major,15,2,1
+CAETANO,31,Menino do Rio,major,16,1,x
+CAETANO,31,Menino do Rio,major,17,7,3
+CAETANO,31,Menino do Rio,major,18,6,x
+CAETANO,31,Menino do Rio,major,19,7,3
+CAETANO,31,Menino do Rio,major,20,5,1
+CAETANO,31,Menino do Rio,major,21,2,1
+CAETANO,31,Menino do Rio,major,22,1,x
+CAETANO,31,Menino do Rio,major,23,2,1
+CAETANO,31,Menino do Rio,major,24,1,x
+CAETANO,31,Menino do Rio,major,25,7,3
+CAETANO,31,Menino do Rio,major,26,6,x
+CAETANO,31,Menino do Rio,major,27,7,3
+CAETANO,31,Menino do Rio,major,28,5,1
+CAETANO,31,Menino do Rio,major,29,5,x
+CAETANO,31,Menino do Rio,major,30,6,9
+CAETANO,31,Menino do Rio,major,31,3,6
+CAETANO,31,Menino do Rio,major,32,3,3
+CAETANO,31,Menino do Rio,major,33,2,x
+CAETANO,31,Menino do Rio,major,34,1,1
+CAETANO,31,Menino do Rio,major,35,2,6
+CAETANO,31,Menino do Rio,major,36,6,3
+CAETANO,31,Menino do Rio,major,37,3,7
+CAETANO,31,Menino do Rio,major,38,2,6
+CAETANO,31,Menino do Rio,major,39,#5/b6,3
+CAETANO,31,Menino do Rio,major,40,5,3
+CAETANO,31,Menino do Rio,major,41,6,11
+CAETANO,31,Menino do Rio,major,42,3,5
+CAETANO,31,Menino do Rio,major,43,1,7
+CAETANO,31,Menino do Rio,major,44,3,9
+CAETANO,31,Menino do Rio,major,45,1,7
+CAETANO,31,Menino do Rio,major,46,5,11
+CAETANO,31,Menino do Rio,major,47,6,5
+CAETANO,31,Menino do Rio,major,48,3,13
+CAETANO,31,Menino do Rio,major,49,2,5
+CAETANO,31,Menino do Rio,major,50,2,x
+CAETANO,31,Menino do Rio,major,51,3,3
+CAETANO,31,Menino do Rio,major,52,5,3
+CAETANO,31,Menino do Rio,major,53,6,11
+CAETANO,31,Menino do Rio,major,54,4,b13
+CAETANO,31,Menino do Rio,major,55,3,5
+CAETANO,31,Menino do Rio,major,56,3,x
+CAETANO,31,Menino do Rio,major,57,4,3
+CAETANO,31,Menino do Rio,major,58,6,5
+CAETANO,31,Menino do Rio,major,59,7,x
+CAETANO,31,Menino do Rio,major,60,6,5
+CAETANO,31,Menino do Rio,major,61,5,x
+CAETANO,31,Menino do Rio,major,62,#4/b5,9
+CAETANO,31,Menino do Rio,major,63,5,3
+CAETANO,31,Menino do Rio,major,64,6,1
+CAETANO,31,Menino do Rio,major,65,7,x
+CAETANO,31,Menino do Rio,major,66,6,1
+CAETANO,31,Menino do Rio,major,67,1,3
+CAETANO,31,Menino do Rio,major,68,#6/b7,x
+CAETANO,31,Menino do Rio,major,69,#5/b6,1
+CAETANO,31,Menino do Rio,major,70,5,7
+CAETANO,31,Menino do Rio,major,71,4,x
+CAETANO,31,Menino do Rio,major,72,#2/b3,5
+CAETANO,31,Menino do Rio,major,73,1,3
+CAETANO,31,Menino do Rio,major,74,#6/b7,9
+CAETANO,31,Menino do Rio,major,75,#5/b6,1
+CAETANO,32,No dia em que eu vim-me embora,major,1,1,1
+CAETANO,32,No dia em que eu vim-me embora,major,2,#6/b7,7
+CAETANO,32,No dia em que eu vim-me embora,major,3,6,x
+CAETANO,32,No dia em que eu vim-me embora,major,4,5,1
+CAETANO,32,No dia em que eu vim-me embora,major,5,1,11
+CAETANO,32,No dia em que eu vim-me embora,major,6,#6/b7,x
+CAETANO,32,No dia em que eu vim-me embora,major,7,6,x
+CAETANO,32,No dia em que eu vim-me embora,major,8,5,5
+CAETANO,32,No dia em que eu vim-me embora,major,9,#6/b7,7
+CAETANO,32,No dia em que eu vim-me embora,major,10,6,x
+CAETANO,32,No dia em que eu vim-me embora,major,11,5,x
+CAETANO,32,No dia em que eu vim-me embora,major,12,4,5
+CAETANO,32,No dia em que eu vim-me embora,major,13,#6/b7,7
+CAETANO,32,No dia em que eu vim-me embora,major,14,6,x
+CAETANO,32,No dia em que eu vim-me embora,major,15,5,x
+CAETANO,32,No dia em que eu vim-me embora,major,16,4,3
+CAETANO,32,No dia em que eu vim-me embora,major,17,#6/b7,x
+CAETANO,32,No dia em que eu vim-me embora,major,18,6,5
+CAETANO,32,No dia em que eu vim-me embora,major,19,5,x
+CAETANO,32,No dia em que eu vim-me embora,major,20,4,5
+CAETANO,32,No dia em que eu vim-me embora,major,21,#6/b7,7
+CAETANO,32,No dia em que eu vim-me embora,major,22,6,x
+CAETANO,32,No dia em que eu vim-me embora,major,23,5,x
+CAETANO,32,No dia em que eu vim-me embora,major,24,4,1
+CAETANO,32,No dia em que eu vim-me embora,major,25,5,x
+CAETANO,32,No dia em que eu vim-me embora,major,26,4,1
+CAETANO,32,No dia em que eu vim-me embora,major,27,3,x
+CAETANO,32,No dia em que eu vim-me embora,major,28,2,5
+CAETANO,32,No dia em que eu vim-me embora,major,29,4,7
+CAETANO,32,No dia em que eu vim-me embora,major,30,3,x
+CAETANO,32,No dia em que eu vim-me embora,major,31,2,x
+CAETANO,32,No dia em que eu vim-me embora,major,32,1,1
+CAETANO,32,No dia em que eu vim-me embora,major,33,2,x
+CAETANO,32,No dia em que eu vim-me embora,major,34,3,3
+CAETANO,32,No dia em que eu vim-me embora,major,35,1,1
+CAETANO,32,No dia em que eu vim-me embora,major,36,2,x
+CAETANO,32,No dia em que eu vim-me embora,major,37,1,x
+CAETANO,32,No dia em que eu vim-me embora,major,38,#6/b7,1
+CAETANO,32,No dia em que eu vim-me embora,major,39,2,3
+CAETANO,32,No dia em que eu vim-me embora,major,40,4,5
+CAETANO,32,No dia em que eu vim-me embora,major,41,#6/b7,1
+CAETANO,32,No dia em que eu vim-me embora,major,42,6,x
+CAETANO,32,No dia em que eu vim-me embora,major,43,5,6
+CAETANO,32,No dia em que eu vim-me embora,major,44,3,5
+CAETANO,32,No dia em que eu vim-me embora,major,45,7,3
+CAETANO,32,No dia em que eu vim-me embora,major,46,2,5
+CAETANO,32,No dia em que eu vim-me embora,major,47,1,5
+CAETANO,32,No dia em que eu vim-me embora,major,48,7,3
+CAETANO,32,No dia em que eu vim-me embora,major,49,2,5
+CAETANO,32,No dia em que eu vim-me embora,major,50,4,7
+CAETANO,32,No dia em que eu vim-me embora,major,51,3,3
+CAETANO,32,No dia em que eu vim-me embora,major,52,1,1
+CAETANO,32,No dia em que eu vim-me embora,major,53,7,3
+CAETANO,32,No dia em que eu vim-me embora,major,54,2,5
+CAETANO,32,No dia em que eu vim-me embora,major,55,1,5
+CAETANO,32,No dia em que eu vim-me embora,major,56,7,3
+CAETANO,32,No dia em que eu vim-me embora,major,57,2,5
+CAETANO,32,No dia em que eu vim-me embora,major,58,1,5
+CAETANO,32,No dia em que eu vim-me embora,major,59,7,3
+CAETANO,32,No dia em que eu vim-me embora,major,60,4,7
+CAETANO,32,No dia em que eu vim-me embora,major,61,3,13
+CAETANO,32,No dia em que eu vim-me embora,major,62,5,5
+CAETANO,33,Massa real,major,1,5,5
+CAETANO,33,Massa real,major,2,6,6
+CAETANO,33,Massa real,major,3,5,5
+CAETANO,33,Massa real,major,4,4,x
+CAETANO,33,Massa real,major,5,3,3
+CAETANO,33,Massa real,major,6,5,5
+CAETANO,33,Massa real,major,7,6,1
+CAETANO,33,Massa real,major,8,5,7
+CAETANO,33,Massa real,major,9,3,5
+CAETANO,33,Massa real,major,10,2,1
+CAETANO,33,Massa real,major,11,4,3
+CAETANO,33,Massa real,major,12,5,1
+CAETANO,33,Massa real,major,13,4,7
+CAETANO,33,Massa real,major,14,2,5
+CAETANO,33,Massa real,major,15,3,1
+CAETANO,33,Massa real,major,16,4,b13
+CAETANO,33,Massa real,major,17,3,5
+CAETANO,33,Massa real,major,18,1,b9/#9
+CAETANO,33,Massa real,major,19,2,1
+CAETANO,33,Massa real,major,20,3,x
+CAETANO,33,Massa real,major,21,2,5
+CAETANO,33,Massa real,major,22,7,3
+CAETANO,33,Massa real,major,23,1,1
+CAETANO,33,Massa real,major,24,5,5
+CAETANO,33,Massa real,major,25,6,3
+CAETANO,33,Massa real,major,26,5,x
+CAETANO,33,Massa real,major,27,4,1
+CAETANO,33,Massa real,major,28,3,3
+CAETANO,33,Massa real,major,29,1,1
+CAETANO,33,Massa real,major,30,3,3
+CAETANO,33,Massa real,major,31,1,1
+CAETANO,33,Massa real,major,32,2,1
+CAETANO,33,Massa real,major,33,6,5
+CAETANO,33,Massa real,major,34,2,1
+CAETANO,33,Massa real,major,35,6,5
+CAETANO,33,Massa real,major,36,7,3
+CAETANO,33,Massa real,major,37,5,5
+CAETANO,33,Massa real,major,38,6,3
+CAETANO,33,Massa real,major,39,5,x
+CAETANO,33,Massa real,major,40,4,1
+CAETANO,33,Massa real,major,41,3,3
+CAETANO,33,Massa real,major,42,1,1
+CAETANO,33,Massa real,major,43,3,3
+CAETANO,33,Massa real,major,44,1,1
+CAETANO,33,Massa real,major,45,#2/b3,3
+CAETANO,33,Massa real,major,46,7,1
+CAETANO,33,Massa real,major,47,#2/b3,3
+CAETANO,33,Massa real,major,48,7,1
+CAETANO,33,Massa real,major,49,3,1
+CAETANO,33,Massa real,major,50,6,1
+CAETANO,33,Massa real,major,51,2,1
+CAETANO,33,Massa real,major,52,6,1
+CAETANO,33,Massa real,major,53,2,5
+CAETANO,33,Massa real,major,54,6,1
+CAETANO,33,Massa real,major,55,2,5
+CAETANO,33,Massa real,major,56,6,1
+CAETANO,33,Massa real,major,57,#4/b5,3
+CAETANO,34,Mel,major,1,1,1
+CAETANO,34,Mel,major,2,6,x
+CAETANO,34,Mel,major,3,5,5
+CAETANO,34,Mel,major,4,3,3
+CAETANO,34,Mel,major,5,2,x
+CAETANO,34,Mel,major,6,1,7
+CAETANO,34,Mel,major,7,6,5
+CAETANO,34,Mel,major,8,6,5
+CAETANO,34,Mel,major,9,3,9
+CAETANO,34,Mel,major,10,5,1
+CAETANO,34,Mel,major,11,6,13
+CAETANO,34,Mel,major,12,2,x
+CAETANO,34,Mel,major,13,1,1
+CAETANO,34,Mel,major,14,3,3
+CAETANO,34,Mel,major,15,1,1
+CAETANO,34,Mel,major,16,7,x
+CAETANO,34,Mel,major,17,6,1
+CAETANO,34,Mel,major,18,6,11
+CAETANO,34,Mel,major,19,3,5
+CAETANO,34,Mel,major,20,4,x
+CAETANO,34,Mel,major,21,5,7
+CAETANO,34,Mel,major,22,6,1
+CAETANO,34,Mel,major,23,5,x
+CAETANO,34,Mel,major,24,4,3
+CAETANO,34,Mel,major,25,2,5
+CAETANO,34,Mel,major,26,3,x
+CAETANO,34,Mel,major,27,4,7
+CAETANO,34,Mel,major,28,5,1
+CAETANO,34,Mel,major,29,4,x
+CAETANO,34,Mel,major,30,3,3
+CAETANO,34,Mel,major,31,5,5
+CAETANO,34,Mel,major,32,3,3
+CAETANO,34,Mel,major,33,1,1
+CAETANO,34,Mel,major,34,7,x
+CAETANO,34,Mel,major,35,6,1
+CAETANO,34,Mel,major,36,4,3
+CAETANO,34,Mel,major,37,5,x
+CAETANO,34,Mel,major,38,6,5
+CAETANO,34,Mel,major,39,1,7
+CAETANO,34,Mel,major,40,6,5
+CAETANO,34,Mel,major,41,4,3
+CAETANO,34,Mel,major,42,3,x
+CAETANO,34,Mel,major,43,2,6
+CAETANO,34,Mel,major,44,3,1
+CAETANO,34,Mel,major,45,4,x
+CAETANO,34,Mel,major,46,5,3
+CAETANO,34,Mel,major,47,7,5
+CAETANO,34,Mel,major,48,6,x
+CAETANO,34,Mel,major,49,5,3
+CAETANO,34,Mel,major,50,#4/b5,x
+CAETANO,34,Mel,major,51,4,x
+CAETANO,34,Mel,major,52,3,#11
+CAETANO,34,Mel,major,53,6,1
+CAETANO,34,Mel,major,54,6,5
+CAETANO,34,Mel,major,55,5,x
+CAETANO,34,Mel,major,56,4,x
+CAETANO,34,Mel,major,57,3,13
+CAETANO,34,Mel,major,58,2,5
+CAETANO,34,Mel,major,59,5,1
+CAETANO,34,Mel,major,60,3,13
+CAETANO,34,Mel,major,61,1,1
+CAETANO,35,Meu bem meu mal,major,1,5,5
+CAETANO,35,Meu bem meu mal,major,2,3,3
+CAETANO,35,Meu bem meu mal,major,3,1,1
+CAETANO,35,Meu bem meu mal,major,4,2,x
+CAETANO,35,Meu bem meu mal,major,5,3,3
+CAETANO,35,Meu bem meu mal,major,6,1,x
+CAETANO,35,Meu bem meu mal,major,7,7,1
+CAETANO,35,Meu bem meu mal,major,8,1,b13
+CAETANO,35,Meu bem meu mal,major,9,1,3
+CAETANO,35,Meu bem meu mal,major,10,6,1
+CAETANO,35,Meu bem meu mal,major,11,1,7
+CAETANO,35,Meu bem meu mal,major,12,#6/b7,3
+CAETANO,35,Meu bem meu mal,major,13,1,11
+CAETANO,35,Meu bem meu mal,major,14,3,3
+CAETANO,35,Meu bem meu mal,major,15,2,x
+CAETANO,35,Meu bem meu mal,major,16,1,1
+CAETANO,35,Meu bem meu mal,major,17,6,3
+CAETANO,35,Meu bem meu mal,major,18,1,5
+CAETANO,35,Meu bem meu mal,major,19,2,x
+CAETANO,35,Meu bem meu mal,major,20,1,5
+CAETANO,35,Meu bem meu mal,major,21,6,3
+CAETANO,35,Meu bem meu mal,major,22,#5/b6,7
+CAETANO,35,Meu bem meu mal,major,23,5,13
+CAETANO,35,Meu bem meu mal,major,24,3,3
+CAETANO,35,Meu bem meu mal,major,25,1,1
+CAETANO,35,Meu bem meu mal,major,26,2,x
+CAETANO,35,Meu bem meu mal,major,27,3,3
+CAETANO,35,Meu bem meu mal,major,28,1,x
+CAETANO,35,Meu bem meu mal,major,29,7,1
+CAETANO,35,Meu bem meu mal,major,30,1,b13
+CAETANO,35,Meu bem meu mal,major,31,7,x
+CAETANO,35,Meu bem meu mal,major,32,6,1
+CAETANO,35,Meu bem meu mal,major,33,1,7
+CAETANO,35,Meu bem meu mal,major,34,#6/b7,3
+CAETANO,35,Meu bem meu mal,major,35,1,11
+CAETANO,35,Meu bem meu mal,major,36,3,7
+CAETANO,35,Meu bem meu mal,major,37,2,x
+CAETANO,35,Meu bem meu mal,major,38,1,#11
+CAETANO,35,Meu bem meu mal,major,39,6,3
+CAETANO,35,Meu bem meu mal,major,40,2,x
+CAETANO,35,Meu bem meu mal,major,41,1,5
+CAETANO,35,Meu bem meu mal,major,42,6,3
+CAETANO,35,Meu bem meu mal,major,43,#5/b6,7
+CAETANO,35,Meu bem meu mal,major,44,5,13
+CAETANO,35,Meu bem meu mal,major,45,5,3
+CAETANO,35,Meu bem meu mal,major,46,3,1
+CAETANO,35,Meu bem meu mal,major,47,4,x
+CAETANO,35,Meu bem meu mal,major,48,5,3
+CAETANO,35,Meu bem meu mal,major,49,3,5
+CAETANO,35,Meu bem meu mal,major,50,2,x
+CAETANO,35,Meu bem meu mal,major,51,1,7
+CAETANO,35,Meu bem meu mal,major,52,6,5
+CAETANO,35,Meu bem meu mal,major,53,7,13
+CAETANO,35,Meu bem meu mal,major,54,2,1
+CAETANO,35,Meu bem meu mal,major,55,6,9
+CAETANO,35,Meu bem meu mal,major,56,5,1
+CAETANO,35,Meu bem meu mal,major,57,#6/b7,5
+CAETANO,35,Meu bem meu mal,major,58,3,1
+CAETANO,35,Meu bem meu mal,major,59,4,b13
+CAETANO,35,Meu bem meu mal,major,60,5,7
+CAETANO,35,Meu bem meu mal,major,61,3,5
+CAETANO,35,Meu bem meu mal,major,62,6,1
+CAETANO,35,Meu bem meu mal,major,63,6,5
+CAETANO,35,Meu bem meu mal,major,64,4,1
+CAETANO,35,Meu bem meu mal,major,65,5,9
+CAETANO,35,Meu bem meu mal,major,66,#5/b6,3
+CAETANO,35,Meu bem meu mal,major,67,#6/b7,11
+CAETANO,35,Meu bem meu mal,major,68,1,5
+CAETANO,35,Meu bem meu mal,major,69,7,5
+CAETANO,35,Meu bem meu mal,major,70,5,3
+CAETANO,35,Meu bem meu mal,major,71,3,1
+CAETANO,35,Meu bem meu mal,major,72,2,x
+CAETANO,35,Meu bem meu mal,major,73,#1/b2,3
+CAETANO,35,Meu bem meu mal,major,74,3,5
+CAETANO,35,Meu bem meu mal,major,75,#6/b7,b9/#9
+CAETANO,35,Meu bem meu mal,major,76,6,5
+CAETANO,35,Meu bem meu mal,major,77,4,3
+CAETANO,35,Meu bem meu mal,major,78,2,1
+CAETANO,35,Meu bem meu mal,major,79,1,7
+CAETANO,35,Meu bem meu mal,major,80,7,3
+CAETANO,35,Meu bem meu mal,major,81,2,5
+CAETANO,35,Meu bem meu mal,major,82,6,9
+CAETANO,35,Meu bem meu mal,major,83,5,5
+CAETANO,35,Meu bem meu mal,major,84,3,3
+CAETANO,35,Meu bem meu mal,major,85,1,1
+CAETANO,35,Meu bem meu mal,major,86,7,x
+CAETANO,35,Meu bem meu mal,major,87,#6/b7,3
+CAETANO,35,Meu bem meu mal,major,88,3,7
+CAETANO,35,Meu bem meu mal,major,89,5,9
+CAETANO,35,Meu bem meu mal,major,90,4,1
+CAETANO,35,Meu bem meu mal,major,91,#5/b6,b9/#9
+CAETANO,35,Meu bem meu mal,major,92,5,1
+CAETANO,35,Meu bem meu mal,major,93,3,13
+CAETANO,35,Meu bem meu mal,major,94,1,1
+CAETANO,36,Muito,major,1,3,3
+CAETANO,36,Muito,major,2,5,5
+CAETANO,36,Muito,major,3,3,3
+CAETANO,36,Muito,major,4,5,5
+CAETANO,36,Muito,major,5,6,x
+CAETANO,36,Muito,major,6,5,6
+CAETANO,36,Muito,major,7,3,5
+CAETANO,36,Muito,major,8,5,7
+CAETANO,36,Muito,major,9,6,1
+CAETANO,36,Muito,major,10,1,3
+CAETANO,36,Muito,major,11,2,x
+CAETANO,36,Muito,major,12,#2/b3,5
+CAETANO,36,Muito,major,13,2,x
+CAETANO,36,Muito,major,14,1,3
+CAETANO,36,Muito,major,15,#5/b6,1
+CAETANO,36,Muito,major,16,6,3
+CAETANO,36,Muito,major,17,1,5
+CAETANO,36,Muito,major,18,5,7
+CAETANO,36,Muito,major,19,#4/b5,x
+CAETANO,36,Muito,major,20,4,5
+CAETANO,36,Muito,major,21,#6/b7,1
+CAETANO,36,Muito,major,22,1,3
+CAETANO,36,Muito,major,23,#2/b3,1
+CAETANO,36,Muito,major,24,5,11
+CAETANO,36,Muito,major,25,#4/b5,x
+CAETANO,36,Muito,major,26,4,7
+CAETANO,36,Muito,major,27,1,1
+CAETANO,36,Muito,major,28,3,3
+CAETANO,36,Muito,major,29,5,5
+CAETANO,36,Muito,major,30,6,x
+CAETANO,36,Muito,major,31,5,6
+CAETANO,36,Muito,major,32,3,5
+CAETANO,36,Muito,major,33,5,7
+CAETANO,36,Muito,major,34,6,1
+CAETANO,36,Muito,major,35,1,3
+CAETANO,36,Muito,major,36,2,x
+CAETANO,36,Muito,major,37,#2/b3,5
+CAETANO,36,Muito,major,38,2,x
+CAETANO,36,Muito,major,39,1,3
+CAETANO,36,Muito,major,40,#5/b6,1
+CAETANO,36,Muito,major,41,6,3
+CAETANO,36,Muito,major,42,1,5
+CAETANO,36,Muito,major,43,5,7
+CAETANO,36,Muito,major,44,#4/b5,x
+CAETANO,36,Muito,major,45,4,5
+CAETANO,36,Muito,major,46,#6/b7,1
+CAETANO,36,Muito,major,47,1,6
+CAETANO,36,Muito,major,48,#2/b3,1
+CAETANO,36,Muito,major,49,5,11
+CAETANO,36,Muito,major,50,#4/b5,x
+CAETANO,36,Muito,major,51,4,7
+CAETANO,36,Muito,major,52,1,1
+CAETANO,36,Muito,major,53,3,3
+CAETANO,36,Muito,major,54,5,5
+CAETANO,36,Muito,major,55,6,11
+CAETANO,36,Muito,major,56,3,5
+CAETANO,36,Muito,major,57,4,x
+CAETANO,36,Muito,major,58,3,7
+CAETANO,36,Muito,major,59,6,3
+CAETANO,36,Muito,major,60,6,11
+CAETANO,36,Muito,major,61,3,1
+CAETANO,36,Muito,major,62,3,5
+CAETANO,36,Muito,major,63,4,x
+CAETANO,36,Muito,major,64,3,9
+CAETANO,36,Muito,major,65,6,5
+CAETANO,36,Muito,major,66,3,13
+CAETANO,36,Muito,major,67,6,9
+CAETANO,37,Nao identificado,major,1,5,5
+CAETANO,37,Nao identificado,major,2,3,3
+CAETANO,37,Nao identificado,major,3,4,x
+CAETANO,37,Nao identificado,major,4,5,5
+CAETANO,37,Nao identificado,major,5,1,5
+CAETANO,37,Nao identificado,major,6,6,3
+CAETANO,37,Nao identificado,major,7,7,x
+CAETANO,37,Nao identificado,major,8,1,5
+CAETANO,37,Nao identificado,major,9,4,1
+CAETANO,37,Nao identificado,major,10,3,5
+CAETANO,37,Nao identificado,major,11,2,x
+CAETANO,37,Nao identificado,major,12,1,3
+CAETANO,37,Nao identificado,major,13,6,5
+CAETANO,37,Nao identificado,major,14,1,7
+CAETANO,37,Nao identificado,major,15,6,5
+CAETANO,37,Nao identificado,major,16,1,7
+CAETANO,37,Nao identificado,major,17,6,x
+CAETANO,37,Nao identificado,major,18,5,1
+CAETANO,37,Nao identificado,major,19,6,9
+CAETANO,37,Nao identificado,major,20,1,1
+CAETANO,37,Nao identificado,major,21,6,x
+CAETANO,37,Nao identificado,major,22,5,5
+CAETANO,37,Nao identificado,major,23,1,5
+CAETANO,37,Nao identificado,major,24,2,x
+CAETANO,37,Nao identificado,major,25,1,5
+CAETANO,37,Nao identificado,major,26,2,x
+CAETANO,37,Nao identificado,major,27,1,5
+CAETANO,37,Nao identificado,major,28,2,6
+CAETANO,37,Nao identificado,major,29,4,1
+CAETANO,37,Nao identificado,major,30,3,3
+CAETANO,37,Nao identificado,major,31,2,x
+CAETANO,37,Nao identificado,major,32,1,1
+CAETANO,37,Nao identificado,major,33,5,5
+CAETANO,37,Nao identificado,major,34,3,3
+CAETANO,37,Nao identificado,major,35,4,x
+CAETANO,37,Nao identificado,major,36,5,5
+CAETANO,37,Nao identificado,major,37,1,5
+CAETANO,37,Nao identificado,major,38,6,3
+CAETANO,37,Nao identificado,major,39,7,x
+CAETANO,37,Nao identificado,major,40,1,5
+CAETANO,37,Nao identificado,major,41,4,1
+CAETANO,37,Nao identificado,major,42,3,5
+CAETANO,37,Nao identificado,major,43,2,x
+CAETANO,37,Nao identificado,major,44,1,3
+CAETANO,37,Nao identificado,major,45,4,6
+CAETANO,37,Nao identificado,major,46,3,x
+CAETANO,37,Nao identificado,major,47,2,1
+CAETANO,37,Nao identificado,major,48,6,5
+CAETANO,37,Nao identificado,major,49,1,7
+CAETANO,37,Nao identificado,major,50,6,5
+CAETANO,37,Nao identificado,major,51,1,x
+CAETANO,37,Nao identificado,major,52,7,3
+CAETANO,37,Nao identificado,major,53,6,x
+CAETANO,37,Nao identificado,major,54,7,3
+CAETANO,37,Nao identificado,major,55,1,1
+CAETANO,37,Nao identificado,major,56,5,1
+CAETANO,37,Nao identificado,major,57,6,x
+CAETANO,37,Nao identificado,major,58,7,3
+CAETANO,37,Nao identificado,major,59,5,1
+CAETANO,37,Nao identificado,major,60,6,9
+CAETANO,37,Nao identificado,major,61,1,x
+CAETANO,37,Nao identificado,major,62,7,7
+CAETANO,37,Nao identificado,major,63,5,5
+CAETANO,37,Nao identificado,major,64,3,3
+CAETANO,37,Nao identificado,major,65,5,1
+CAETANO,37,Nao identificado,major,66,6,x
+CAETANO,37,Nao identificado,major,67,7,3
+CAETANO,37,Nao identificado,major,68,5,1
+CAETANO,37,Nao identificado,major,69,6,9
+CAETANO,37,Nao identificado,major,70,1,x
+CAETANO,37,Nao identificado,major,71,7,7
+CAETANO,37,Nao identificado,major,72,5,5
+CAETANO,37,Nao identificado,major,73,3,3
+CAETANO,38,Nosso estranho amor,major,1,3,3
+CAETANO,38,Nosso estranho amor,major,2,5,5
+CAETANO,38,Nosso estranho amor,major,3,4,x
+CAETANO,38,Nosso estranho amor,major,4,3,3
+CAETANO,38,Nosso estranho amor,major,5,5,5
+CAETANO,38,Nosso estranho amor,major,6,4,x
+CAETANO,38,Nosso estranho amor,major,7,3,3
+CAETANO,38,Nosso estranho amor,major,8,5,5
+CAETANO,38,Nosso estranho amor,major,9,4,x
+CAETANO,38,Nosso estranho amor,major,10,3,3
+CAETANO,38,Nosso estranho amor,major,11,4,1
+CAETANO,38,Nosso estranho amor,major,12,6,3
+CAETANO,38,Nosso estranho amor,major,13,5,x
+CAETANO,38,Nosso estranho amor,major,14,4,1
+CAETANO,38,Nosso estranho amor,major,15,6,3
+CAETANO,38,Nosso estranho amor,major,16,5,x
+CAETANO,38,Nosso estranho amor,major,17,4,1
+CAETANO,38,Nosso estranho amor,major,18,6,3
+CAETANO,38,Nosso estranho amor,major,19,5,9
+CAETANO,38,Nosso estranho amor,major,20,2,6
+CAETANO,38,Nosso estranho amor,major,21,4,1
+CAETANO,38,Nosso estranho amor,major,22,#4/b5,3
+CAETANO,38,Nosso estranho amor,major,23,6,5
+CAETANO,38,Nosso estranho amor,major,24,5,x
+CAETANO,38,Nosso estranho amor,major,25,#4/b5,3
+CAETANO,38,Nosso estranho amor,major,26,6,5
+CAETANO,38,Nosso estranho amor,major,27,5,x
+CAETANO,38,Nosso estranho amor,major,28,#4/b5,3
+CAETANO,38,Nosso estranho amor,major,29,6,5
+CAETANO,38,Nosso estranho amor,major,30,5,x
+CAETANO,38,Nosso estranho amor,major,31,#4/b5,3
+CAETANO,38,Nosso estranho amor,major,32,6,9
+CAETANO,38,Nosso estranho amor,major,33,7,3
+CAETANO,38,Nosso estranho amor,major,34,4,7
+CAETANO,38,Nosso estranho amor,major,35,6,9
+CAETANO,38,Nosso estranho amor,major,36,3,13
+CAETANO,38,Nosso estranho amor,major,37,5,1
+CAETANO,38,Nosso estranho amor,major,38,1,3
+CAETANO,38,Nosso estranho amor,major,39,7,x
+CAETANO,38,Nosso estranho amor,major,40,6,11
+CAETANO,38,Nosso estranho amor,major,41,3,1
+CAETANO,38,Nosso estranho amor,major,42,7,1
+CAETANO,38,Nosso estranho amor,major,43,6,x
+CAETANO,38,Nosso estranho amor,major,44,5,x
+CAETANO,38,Nosso estranho amor,major,45,#4/b5,5
+CAETANO,38,Nosso estranho amor,major,46,3,x
+CAETANO,38,Nosso estranho amor,major,47,2,3
+CAETANO,38,Nosso estranho amor,major,48,1,1
+CAETANO,38,Nosso estranho amor,major,49,1,5
+CAETANO,38,Nosso estranho amor,major,50,7,x
+CAETANO,38,Nosso estranho amor,major,51,6,3
+CAETANO,38,Nosso estranho amor,major,52,5,x
+CAETANO,38,Nosso estranho amor,major,53,4,1
+CAETANO,38,Nosso estranho amor,major,54,3,6
+CAETANO,38,Nosso estranho amor,major,55,2,5
+CAETANO,38,Nosso estranho amor,major,56,1,x
+CAETANO,38,Nosso estranho amor,major,57,2,1
+CAETANO,38,Nosso estranho amor,major,58,3,b13
+CAETANO,38,Nosso estranho amor,major,59,4,3
+CAETANO,38,Nosso estranho amor,major,60,#4/b5,7
+CAETANO,38,Nosso estranho amor,major,61,4,3
+CAETANO,38,Nosso estranho amor,major,62,3,x
+CAETANO,39,Odara,minor,1,5,9
+CAETANO,39,Odara,minor,2,4,x
+CAETANO,39,Odara,minor,3,5,9
+CAETANO,39,Odara,minor,4,4,1
+CAETANO,39,Odara,minor,5,5,13
+CAETANO,39,Odara,minor,6,6,x
+CAETANO,39,Odara,minor,7,b7,1
+CAETANO,39,Odara,minor,8,6,x
+CAETANO,39,Odara,minor,9,5,13
+CAETANO,39,Odara,minor,10,4,11
+CAETANO,39,Odara,minor,11,3,x
+CAETANO,39,Odara,minor,12,4,11
+CAETANO,39,Odara,minor,13,3,3
+CAETANO,39,Odara,minor,14,5,9
+CAETANO,39,Odara,minor,15,4,x
+CAETANO,39,Odara,minor,16,5,9
+CAETANO,39,Odara,minor,17,4,1
+CAETANO,39,Odara,minor,18,5,13
+CAETANO,39,Odara,minor,19,6,x
+CAETANO,39,Odara,minor,20,b7,1
+CAETANO,39,Odara,minor,21,6,x
+CAETANO,39,Odara,minor,22,5,13
+CAETANO,39,Odara,minor,23,4,11
+CAETANO,39,Odara,minor,24,3,x
+CAETANO,39,Odara,minor,25,4,11
+CAETANO,39,Odara,minor,26,3,3
+CAETANO,39,Odara,minor,27,5,9
+CAETANO,39,Odara,minor,28,4,x
+CAETANO,39,Odara,minor,29,5,9
+CAETANO,39,Odara,minor,30,4,1
+CAETANO,39,Odara,minor,31,5,13
+CAETANO,39,Odara,minor,32,6,x
+CAETANO,39,Odara,minor,33,b7,1
+CAETANO,39,Odara,minor,34,6,x
+CAETANO,39,Odara,minor,35,5,13
+CAETANO,39,Odara,minor,36,4,x
+CAETANO,39,Odara,minor,37,#3,5
+CAETANO,39,Odara,minor,38,4,x
+CAETANO,39,Odara,minor,39,#3,5
+CAETANO,39,Odara,minor,40,6,1
+CAETANO,39,Odara,minor,41,b7,x
+CAETANO,39,Odara,minor,42,1,3
+CAETANO,39,Odara,minor,43,b7,x
+CAETANO,39,Odara,minor,44,6,1
+CAETANO,39,Odara,minor,45,#6,9
+CAETANO,39,Odara,minor,46,5,x
+CAETANO,39,Odara,minor,47,#6,9
+CAETANO,39,Odara,minor,48,5,1
+CAETANO,39,Odara,minor,49,b7,7
+CAETANO,39,Odara,minor,50,1,x
+CAETANO,39,Odara,minor,51,#1/b2,b9/#9
+CAETANO,39,Odara,minor,52,1,x
+CAETANO,39,Odara,minor,53,b7,7
+CAETANO,39,Odara,minor,54,5,9
+CAETANO,39,Odara,minor,55,4,x
+CAETANO,39,Odara,minor,56,5,9
+CAETANO,39,Odara,minor,57,4,1
+CAETANO,39,Odara,minor,58,5,13
+CAETANO,39,Odara,minor,59,6,x
+CAETANO,39,Odara,minor,60,b7,1
+CAETANO,39,Odara,minor,61,6,x
+CAETANO,39,Odara,minor,62,5,13
+CAETANO,39,Odara,minor,63,4,x
+CAETANO,39,Odara,minor,64,3,3
+CAETANO,40,O leaozinho,major,1,3,3
+CAETANO,40,O leaozinho,major,2,5,5
+CAETANO,40,O leaozinho,major,3,5,1
+CAETANO,40,O leaozinho,major,4,4,7
+CAETANO,40,O leaozinho,major,5,3,x
+CAETANO,40,O leaozinho,major,6,2,5
+CAETANO,40,O leaozinho,major,7,1,3
+CAETANO,40,O leaozinho,major,8,3,5
+CAETANO,40,O leaozinho,major,9,5,7
+CAETANO,40,O leaozinho,major,10,5,3
+CAETANO,40,O leaozinho,major,11,3,7
+CAETANO,40,O leaozinho,major,12,5,9
+CAETANO,40,O leaozinho,major,13,5,6
+CAETANO,40,O leaozinho,major,14,4,5
+CAETANO,40,O leaozinho,major,15,3,x
+CAETANO,40,O leaozinho,major,16,2,3
+CAETANO,40,O leaozinho,major,17,1,1
+CAETANO,41,O quereres,major,1,1,1
+CAETANO,41,O quereres,major,2,2,x
+CAETANO,41,O quereres,major,3,1,1
+CAETANO,41,O quereres,major,4,2,x
+CAETANO,41,O quereres,major,5,1,1
+CAETANO,41,O quereres,major,6,2,1
+CAETANO,41,O quereres,major,7,1,7
+CAETANO,41,O quereres,major,8,2,x
+CAETANO,41,O quereres,major,9,1,7
+CAETANO,41,O quereres,major,10,2,x
+CAETANO,41,O quereres,major,11,1,7
+CAETANO,41,O quereres,major,12,3,3
+CAETANO,41,O quereres,major,13,1,1
+CAETANO,41,O quereres,major,14,2,x
+CAETANO,41,O quereres,major,15,1,1
+CAETANO,41,O quereres,major,16,2,x
+CAETANO,41,O quereres,major,17,1,7
+CAETANO,41,O quereres,major,18,2,x
+CAETANO,41,O quereres,major,19,1,7
+CAETANO,41,O quereres,major,20,2,x
+CAETANO,41,O quereres,major,21,1,7
+CAETANO,41,O quereres,major,22,2,11
+CAETANO,41,O quereres,major,23,6,1
+CAETANO,41,O quereres,major,24,1,3
+CAETANO,41,O quereres,major,25,6,1
+CAETANO,41,O quereres,major,26,1,3
+CAETANO,41,O quereres,major,27,3,5
+CAETANO,41,O quereres,major,28,#2/b3,5
+CAETANO,41,O quereres,major,29,1,3
+CAETANO,41,O quereres,major,30,#2/b3,5
+CAETANO,41,O quereres,major,31,1,3
+CAETANO,41,O quereres,major,32,#2/b3,5
+CAETANO,41,O quereres,major,33,1,3
+CAETANO,41,O quereres,major,34,2,11
+CAETANO,41,O quereres,major,35,6,1
+CAETANO,41,O quereres,major,36,1,3
+CAETANO,41,O quereres,major,37,6,1
+CAETANO,41,O quereres,major,38,1,3
+CAETANO,41,O quereres,major,39,6,1
+CAETANO,41,O quereres,major,40,1,1
+CAETANO,41,O quereres,major,41,6,x
+CAETANO,41,O quereres,major,42,4,5
+CAETANO,41,O quereres,major,43,2,3
+CAETANO,41,O quereres,major,44,1,1
+CAETANO,41,O quereres,major,45,6,5
+CAETANO,41,O quereres,major,46,4,1
+CAETANO,41,O quereres,major,47,1,5
+CAETANO,41,O quereres,major,48,2,6
+CAETANO,41,O quereres,major,49,1,1
+CAETANO,41,O quereres,major,50,3,5
+CAETANO,41,O quereres,major,51,2,x
+CAETANO,41,O quereres,major,52,1,3
+CAETANO,41,O quereres,major,53,6,1
+CAETANO,41,O quereres,major,54,1,3
+CAETANO,41,O quereres,major,55,3,5
+CAETANO,41,O quereres,major,56,5,3
+CAETANO,41,O quereres,major,57,3,5
+CAETANO,41,O quereres,major,58,2,x
+CAETANO,41,O quereres,major,59,1,3
+CAETANO,41,O quereres,major,60,6,1
+CAETANO,41,O quereres,major,61,1,3
+CAETANO,41,O quereres,major,62,6,5
+CAETANO,41,O quereres,major,63,6,3
+CAETANO,42,Os argonautas,minor,1,6,x
+CAETANO,42,Os argonautas,minor,2,5,5
+CAETANO,42,Os argonautas,minor,3,3,3
+CAETANO,42,Os argonautas,minor,4,2,5
+CAETANO,42,Os argonautas,minor,5,1,x
+CAETANO,42,Os argonautas,minor,6,7,3
+CAETANO,42,Os argonautas,minor,7,1,1
+CAETANO,42,Os argonautas,minor,8,2,x
+CAETANO,42,Os argonautas,minor,9,3,1
+CAETANO,42,Os argonautas,minor,10,2,1
+CAETANO,42,Os argonautas,minor,11,7,3
+CAETANO,42,Os argonautas,minor,12,6,b9/#9
+CAETANO,42,Os argonautas,minor,13,5,x
+CAETANO,42,Os argonautas,minor,14,4,7
+CAETANO,42,Os argonautas,minor,15,5,1
+CAETANO,42,Os argonautas,minor,16,3,x
+CAETANO,42,Os argonautas,minor,17,2,x
+CAETANO,42,Os argonautas,minor,18,1,3
+CAETANO,42,Os argonautas,minor,19,1,9
+CAETANO,42,Os argonautas,minor,20,b7,x
+CAETANO,42,Os argonautas,minor,21,6,x
+CAETANO,42,Os argonautas,minor,22,5,13
+CAETANO,42,Os argonautas,minor,23,6,7
+CAETANO,42,Os argonautas,minor,24,b7,x
+CAETANO,42,Os argonautas,minor,25,6,x
+CAETANO,42,Os argonautas,minor,26,5,3
+CAETANO,42,Os argonautas,minor,27,6,x
+CAETANO,42,Os argonautas,minor,28,5,11
+CAETANO,42,Os argonautas,minor,29,4,3
+CAETANO,42,Os argonautas,minor,30,3,x
+CAETANO,42,Os argonautas,minor,31,2,5
+CAETANO,42,Os argonautas,minor,32,6,b9/#9
+CAETANO,42,Os argonautas,minor,33,5,5
+CAETANO,42,Os argonautas,minor,34,3,1
+CAETANO,42,Os argonautas,minor,35,2,5
+CAETANO,42,Os argonautas,minor,36,1,x
+CAETANO,42,Os argonautas,minor,37,7,3
+CAETANO,42,Os argonautas,minor,38,1,1
+CAETANO,42,Os argonautas,minor,39,3,3
+CAETANO,42,Os argonautas,minor,40,2,x
+CAETANO,42,Os argonautas,minor,41,1,3
+CAETANO,43,Quero ir a Cuba,major,1,5,5
+CAETANO,43,Quero ir a Cuba,major,2,1,1
+CAETANO,43,Quero ir a Cuba,major,3,6,6
+CAETANO,43,Quero ir a Cuba,major,4,7,5
+CAETANO,43,Quero ir a Cuba,major,5,5,3
+CAETANO,43,Quero ir a Cuba,major,6,6,5
+CAETANO,43,Quero ir a Cuba,major,7,4,3
+CAETANO,43,Quero ir a Cuba,major,8,5,1
+CAETANO,43,Quero ir a Cuba,major,9,4,x
+CAETANO,43,Quero ir a Cuba,major,10,3,x
+CAETANO,43,Quero ir a Cuba,major,11,2,5
+CAETANO,43,Quero ir a Cuba,major,12,1,1
+CAETANO,43,Quero ir a Cuba,major,13,2,x
+CAETANO,43,Quero ir a Cuba,major,14,3,1
+CAETANO,43,Quero ir a Cuba,major,15,5,3
+CAETANO,43,Quero ir a Cuba,major,16,4,3
+CAETANO,43,Quero ir a Cuba,major,17,5,1
+CAETANO,43,Quero ir a Cuba,major,18,1,1
+CAETANO,43,Quero ir a Cuba,major,19,6,6
+CAETANO,43,Quero ir a Cuba,major,20,7,5
+CAETANO,43,Quero ir a Cuba,major,21,5,3
+CAETANO,43,Quero ir a Cuba,major,22,6,5
+CAETANO,43,Quero ir a Cuba,major,23,4,3
+CAETANO,43,Quero ir a Cuba,major,24,5,1
+CAETANO,43,Quero ir a Cuba,major,25,4,x
+CAETANO,43,Quero ir a Cuba,major,26,3,x
+CAETANO,43,Quero ir a Cuba,major,27,2,5
+CAETANO,43,Quero ir a Cuba,major,28,1,1
+CAETANO,43,Quero ir a Cuba,major,29,3,1
+CAETANO,43,Quero ir a Cuba,major,30,4,x
+CAETANO,43,Quero ir a Cuba,major,31,5,7
+CAETANO,43,Quero ir a Cuba,major,32,6,1
+CAETANO,43,Quero ir a Cuba,major,33,4,1
+CAETANO,43,Quero ir a Cuba,major,34,5,x
+CAETANO,43,Quero ir a Cuba,major,35,#5/b6,7
+CAETANO,43,Quero ir a Cuba,major,36,1,9
+CAETANO,43,Quero ir a Cuba,major,37,7,5
+CAETANO,44,Outras palavras,major,1,3,x
+CAETANO,44,Outras palavras,major,2,2,x
+CAETANO,44,Outras palavras,major,3,1,7
+CAETANO,44,Outras palavras,major,4,6,5
+CAETANO,44,Outras palavras,major,5,7,3
+CAETANO,44,Outras palavras,major,6,6,x
+CAETANO,44,Outras palavras,major,7,5,1
+CAETANO,44,Outras palavras,major,8,4,7
+CAETANO,44,Outras palavras,major,9,5,x
+CAETANO,44,Outras palavras,major,10,6,9
+CAETANO,44,Outras palavras,major,11,3,9
+CAETANO,44,Outras palavras,major,12,2,x
+CAETANO,44,Outras palavras,major,13,1,7
+CAETANO,44,Outras palavras,major,14,6,5
+CAETANO,44,Outras palavras,major,15,7,3
+CAETANO,44,Outras palavras,major,16,3,9
+CAETANO,44,Outras palavras,major,17,2,x
+CAETANO,44,Outras palavras,major,18,1,7
+CAETANO,44,Outras palavras,major,19,6,5
+CAETANO,44,Outras palavras,major,20,7,3
+CAETANO,44,Outras palavras,major,21,6,x
+CAETANO,44,Outras palavras,major,22,5,1
+CAETANO,44,Outras palavras,major,23,4,7
+CAETANO,44,Outras palavras,major,24,5,x
+CAETANO,44,Outras palavras,major,25,6,9
+CAETANO,44,Outras palavras,major,26,3,9
+CAETANO,44,Outras palavras,major,27,2,x
+CAETANO,44,Outras palavras,major,28,1,7
+CAETANO,44,Outras palavras,major,29,6,5
+CAETANO,44,Outras palavras,major,30,7,9
+CAETANO,44,Outras palavras,major,31,3,9
+CAETANO,44,Outras palavras,major,32,2,x
+CAETANO,44,Outras palavras,major,33,1,7
+CAETANO,44,Outras palavras,major,34,6,5
+CAETANO,44,Outras palavras,major,35,7,9
+CAETANO,44,Outras palavras,major,36,6,x
+CAETANO,44,Outras palavras,major,37,5,7
+CAETANO,44,Outras palavras,major,38,3,5
+CAETANO,44,Outras palavras,major,39,5,7
+CAETANO,44,Outras palavras,major,40,6,x
+CAETANO,44,Outras palavras,major,41,7,6
+CAETANO,44,Outras palavras,major,42,2,1
+CAETANO,44,Outras palavras,major,43,3,9
+CAETANO,44,Outras palavras,major,44,5,11
+CAETANO,44,Outras palavras,major,45,6,9
+CAETANO,44,Outras palavras,major,46,5,5
+CAETANO,44,Outras palavras,major,47,#2/b3,5
+CAETANO,44,Outras palavras,major,48,4,11
+CAETANO,44,Outras palavras,major,49,3,13
+CAETANO,44,Outras palavras,major,50,5,5
+CAETANO,44,Outras palavras,major,51,3,3
+CAETANO,44,Outras palavras,major,52,#2/b3,5
+CAETANO,44,Outras palavras,major,53,4,11
+CAETANO,44,Outras palavras,major,54,4,7
+CAETANO,44,Outras palavras,major,55,3,3
+CAETANO,44,Outras palavras,major,56,1,1
+CAETANO,44,Outras palavras,major,57,#2/b3,5
+CAETANO,44,Outras palavras,major,58,4,11
+CAETANO,44,Outras palavras,major,59,3,13
+CAETANO,44,Outras palavras,major,60,5,5
+CAETANO,44,Outras palavras,major,61,3,3
+CAETANO,44,Outras palavras,major,62,#2/b3,5
+CAETANO,44,Outras palavras,major,63,4,11
+CAETANO,44,Outras palavras,major,64,4,7
+CAETANO,44,Outras palavras,major,65,3,7
+CAETANO,44,Outras palavras,major,66,1,5
+CAETANO,45,Pecado original,major,1,1,11
+CAETANO,45,Pecado original,major,2,2,x
+CAETANO,45,Pecado original,major,3,1,11
+CAETANO,45,Pecado original,major,4,2,x
+CAETANO,45,Pecado original,major,5,1,#11
+CAETANO,45,Pecado original,major,6,1,x
+CAETANO,45,Pecado original,major,7,2,#11
+CAETANO,45,Pecado original,major,8,1,x
+CAETANO,45,Pecado original,major,9,2,7
+CAETANO,45,Pecado original,major,10,1,x
+CAETANO,45,Pecado original,major,11,2,7
+CAETANO,45,Pecado original,major,12,1,x
+CAETANO,45,Pecado original,major,13,1,5
+CAETANO,45,Pecado original,major,14,7,x
+CAETANO,45,Pecado original,major,15,#6/b7,x
+CAETANO,45,Pecado original,major,16,6,3
+CAETANO,45,Pecado original,major,17,#4/b5,3
+CAETANO,45,Pecado original,major,18,5,3
+CAETANO,45,Pecado original,major,19,6,x
+CAETANO,45,Pecado original,major,20,5,3
+CAETANO,45,Pecado original,major,21,6,x
+CAETANO,45,Pecado original,major,22,5,3
+CAETANO,45,Pecado original,major,23,5,3
+CAETANO,45,Pecado original,major,24,5,11
+CAETANO,45,Pecado original,major,25,6,x
+CAETANO,45,Pecado original,major,26,5,11
+CAETANO,45,Pecado original,major,27,6,x
+CAETANO,45,Pecado original,major,28,5,x
+CAETANO,45,Pecado original,major,29,5,1
+CAETANO,45,Pecado original,major,30,7,7
+CAETANO,45,Pecado original,major,31,1,x
+CAETANO,45,Pecado original,major,32,7,7
+CAETANO,45,Pecado original,major,33,1,x
+CAETANO,45,Pecado original,major,34,7,7
+CAETANO,45,Pecado original,major,35,7,11
+CAETANO,45,Pecado original,major,36,1,x
+CAETANO,45,Pecado original,major,37,7,11
+CAETANO,45,Pecado original,major,38,2,b9/#9
+CAETANO,45,Pecado original,major,39,#1/b2,x
+CAETANO,45,Pecado original,major,40,1,b9/#9
+CAETANO,45,Pecado original,major,41,7,x
+CAETANO,45,Pecado original,major,42,3,3
+CAETANO,45,Pecado original,major,43,5,5
+CAETANO,45,Pecado original,major,44,3,3
+CAETANO,45,Pecado original,major,45,1,1
+CAETANO,45,Pecado original,major,46,6,x
+CAETANO,45,Pecado original,major,47,5,5
+CAETANO,45,Pecado original,major,48,3,3
+CAETANO,45,Pecado original,major,49,4,3
+CAETANO,45,Pecado original,major,50,#5/b6,5
+CAETANO,45,Pecado original,major,51,4,3
+CAETANO,45,Pecado original,major,52,#1/b2,1
+CAETANO,45,Pecado original,major,53,#6/b7,x
+CAETANO,45,Pecado original,major,54,#5/b6,5
+CAETANO,45,Pecado original,major,55,4,3
+CAETANO,45,Pecado original,major,56,4,3
+CAETANO,45,Pecado original,major,57,5,x
+CAETANO,45,Pecado original,major,58,6,5
+CAETANO,45,Pecado original,major,59,1,7
+CAETANO,45,Pecado original,major,60,3,9
+CAETANO,45,Pecado original,major,61,5,x
+CAETANO,45,Pecado original,major,62,4,3
+CAETANO,45,Pecado original,major,63,2,1
+CAETANO,45,Pecado original,major,64,4,7
+CAETANO,45,Pecado original,major,65,5,1
+CAETANO,45,Pecado original,major,66,7,3
+CAETANO,45,Pecado original,major,67,2,5
+CAETANO,45,Pecado original,major,68,4,7
+CAETANO,45,Pecado original,major,69,6,9
+CAETANO,45,Pecado original,major,70,5,1
+CAETANO,45,Pecado original,major,71,3,13
+CAETANO,46,Rapte-me camaleoa,major,1,3,3
+CAETANO,46,Rapte-me camaleoa,major,2,1,1
+CAETANO,46,Rapte-me camaleoa,major,3,7,7
+CAETANO,46,Rapte-me camaleoa,major,4,3,3
+CAETANO,46,Rapte-me camaleoa,major,5,4,x
+CAETANO,46,Rapte-me camaleoa,major,6,3,3
+CAETANO,46,Rapte-me camaleoa,major,7,1,1
+CAETANO,46,Rapte-me camaleoa,major,8,2,9
+CAETANO,46,Rapte-me camaleoa,major,9,4,5
+CAETANO,46,Rapte-me camaleoa,major,10,2,3
+CAETANO,46,Rapte-me camaleoa,major,11,3,x
+CAETANO,46,Rapte-me camaleoa,major,12,4,5
+CAETANO,46,Rapte-me camaleoa,major,13,5,x
+CAETANO,46,Rapte-me camaleoa,major,14,4,5
+CAETANO,46,Rapte-me camaleoa,major,15,3,x
+CAETANO,46,Rapte-me camaleoa,major,16,4,5
+CAETANO,46,Rapte-me camaleoa,major,17,3,#11
+CAETANO,46,Rapte-me camaleoa,major,18,5,7
+CAETANO,46,Rapte-me camaleoa,major,19,3,5
+CAETANO,46,Rapte-me camaleoa,major,20,4,x
+CAETANO,46,Rapte-me camaleoa,major,21,5,7
+CAETANO,46,Rapte-me camaleoa,major,22,6,x
+CAETANO,46,Rapte-me camaleoa,major,23,5,7
+CAETANO,46,Rapte-me camaleoa,major,24,#4/b5,x
+CAETANO,46,Rapte-me camaleoa,major,25,5,7
+CAETANO,46,Rapte-me camaleoa,major,26,6,5
+CAETANO,46,Rapte-me camaleoa,major,27,5,7
+CAETANO,46,Rapte-me camaleoa,major,28,#4/b5,x
+CAETANO,46,Rapte-me camaleoa,major,29,5,7
+CAETANO,46,Rapte-me camaleoa,major,30,6,x
+CAETANO,46,Rapte-me camaleoa,major,31,5,7
+CAETANO,46,Rapte-me camaleoa,major,32,#4/b5,6
+CAETANO,46,Rapte-me camaleoa,major,33,6,5
+CAETANO,46,Rapte-me camaleoa,major,34,5,7
+CAETANO,46,Rapte-me camaleoa,major,35,#4/b5,x
+CAETANO,46,Rapte-me camaleoa,major,36,5,7
+CAETANO,46,Rapte-me camaleoa,major,37,6,x
+CAETANO,46,Rapte-me camaleoa,major,38,5,7
+CAETANO,46,Rapte-me camaleoa,major,39,#4/b5,x
+CAETANO,46,Rapte-me camaleoa,major,40,5,7
+CAETANO,46,Rapte-me camaleoa,major,41,6,5
+CAETANO,46,Rapte-me camaleoa,major,42,1,x
+CAETANO,46,Rapte-me camaleoa,major,43,7,3
+CAETANO,46,Rapte-me camaleoa,major,44,5,1
+CAETANO,46,Rapte-me camaleoa,major,45,1,x
+CAETANO,46,Rapte-me camaleoa,major,46,7,3
+CAETANO,46,Rapte-me camaleoa,major,47,5,1
+CAETANO,46,Rapte-me camaleoa,major,48,1,x
+CAETANO,46,Rapte-me camaleoa,major,49,7,3
+CAETANO,46,Rapte-me camaleoa,major,50,5,1
+CAETANO,46,Rapte-me camaleoa,major,51,1,x
+CAETANO,46,Rapte-me camaleoa,major,52,7,3
+CAETANO,46,Rapte-me camaleoa,major,53,5,1
+CAETANO,46,Rapte-me camaleoa,major,54,6,3
+CAETANO,46,Rapte-me camaleoa,major,55,5,x
+CAETANO,46,Rapte-me camaleoa,major,56,4,1
+CAETANO,47,Podres poderes,major,1,5,5
+CAETANO,47,Podres poderes,major,2,3,3
+CAETANO,47,Podres poderes,major,3,2,x
+CAETANO,47,Podres poderes,major,4,3,3
+CAETANO,47,Podres poderes,major,5,2,x
+CAETANO,47,Podres poderes,major,6,1,1
+CAETANO,47,Podres poderes,major,7,2,x
+CAETANO,47,Podres poderes,major,8,1,1
+CAETANO,47,Podres poderes,major,9,6,6
+CAETANO,47,Podres poderes,major,10,1,1
+CAETANO,47,Podres poderes,major,11,6,6
+CAETANO,47,Podres poderes,major,12,1,1
+CAETANO,47,Podres poderes,major,13,2,9
+CAETANO,47,Podres poderes,major,14,6,5
+CAETANO,47,Podres poderes,major,15,3,9
+CAETANO,47,Podres poderes,major,16,2,x
+CAETANO,47,Podres poderes,major,17,3,9
+CAETANO,47,Podres poderes,major,18,2,x
+CAETANO,47,Podres poderes,major,19,1,7
+CAETANO,47,Podres poderes,major,20,2,x
+CAETANO,47,Podres poderes,major,21,1,7
+CAETANO,47,Podres poderes,major,22,6,5
+CAETANO,47,Podres poderes,major,23,1,7
+CAETANO,47,Podres poderes,major,24,6,5
+CAETANO,47,Podres poderes,major,25,1,x
+CAETANO,47,Podres poderes,major,26,2,1
+CAETANO,47,Podres poderes,major,27,6,3
+CAETANO,47,Podres poderes,major,28,3,7
+CAETANO,47,Podres poderes,major,29,2,x
+CAETANO,47,Podres poderes,major,30,1,5
+CAETANO,47,Podres poderes,major,31,6,3
+CAETANO,47,Podres poderes,major,32,5,1
+CAETANO,47,Podres poderes,major,33,4,3
+CAETANO,47,Podres poderes,major,34,#2/b3,5
+CAETANO,47,Podres poderes,major,35,1,3
+CAETANO,47,Podres poderes,major,36,3,3
+CAETANO,47,Podres poderes,major,37,2,9
+CAETANO,47,Podres poderes,major,38,1,1
+CAETANO,47,Podres poderes,major,39,6,6
+CAETANO,47,Podres poderes,major,40,1,1
+CAETANO,47,Podres poderes,major,41,3,3
+CAETANO,47,Podres poderes,major,42,3,1
+CAETANO,47,Podres poderes,major,43,2,7
+CAETANO,47,Podres poderes,major,44,1,b13
+CAETANO,47,Podres poderes,major,45,6,3
+CAETANO,47,Podres poderes,major,46,1,5
+CAETANO,47,Podres poderes,major,47,3,7
+CAETANO,47,Podres poderes,major,48,2,6
+CAETANO,47,Podres poderes,major,49,1,5
+CAETANO,47,Podres poderes,major,50,6,3
+CAETANO,47,Podres poderes,major,51,1,5
+CAETANO,47,Podres poderes,major,52,3,#11
+CAETANO,47,Podres poderes,major,53,4,5
+CAETANO,47,Podres poderes,major,54,2,3
+CAETANO,48,Sim nao,major,1,5,5
+CAETANO,48,Sim nao,major,2,5,9
+CAETANO,48,Sim nao,major,3,5,1
+CAETANO,48,Sim nao,major,4,5,5
+CAETANO,48,Sim nao,major,5,3,3
+CAETANO,48,Sim nao,major,6,1,1
+CAETANO,48,Sim nao,major,7,3,3
+CAETANO,48,Sim nao,major,8,6,6
+CAETANO,48,Sim nao,major,9,5,1
+CAETANO,48,Sim nao,major,10,5,5
+CAETANO,48,Sim nao,major,11,3,3
+CAETANO,48,Sim nao,major,12,1,1
+CAETANO,48,Sim nao,major,13,1,5
+CAETANO,48,Sim nao,major,14,3,13
+CAETANO,48,Sim nao,major,15,2,5
+CAETANO,48,Sim nao,major,16,1,1
+CAETANO,48,Sim nao,major,17,5,5
+CAETANO,48,Sim nao,major,18,6,6
+CAETANO,48,Sim nao,major,19,1,5
+CAETANO,48,Sim nao,major,20,2,x
+CAETANO,48,Sim nao,major,21,3,13
+CAETANO,48,Sim nao,major,22,6,9
+CAETANO,48,Sim nao,major,23,5,5
+CAETANO,48,Sim nao,major,24,3,3
+CAETANO,48,Sim nao,major,25,1,1
+CAETANO,48,Sim nao,major,26,2,6
+CAETANO,48,Sim nao,major,27,4,1
+CAETANO,48,Sim nao,major,28,3,13
+CAETANO,48,Sim nao,major,29,2,5
+CAETANO,48,Sim nao,major,30,1,1
+CAETANO,49,Sampa,major,1,3,3
+CAETANO,49,Sampa,major,2,5,5
+CAETANO,49,Sampa,major,3,3,11
+CAETANO,49,Sampa,major,4,#5/b6,3
+CAETANO,49,Sampa,major,5,5,x
+CAETANO,49,Sampa,major,6,#5/b6,3
+CAETANO,49,Sampa,major,7,3,5
+CAETANO,49,Sampa,major,8,6,b9/#9
+CAETANO,49,Sampa,major,9,6,3
+CAETANO,49,Sampa,major,10,#5/b6,x
+CAETANO,49,Sampa,major,11,6,3
+CAETANO,49,Sampa,major,12,1,5
+CAETANO,49,Sampa,major,13,6,1
+CAETANO,49,Sampa,major,14,#5/b6,x
+CAETANO,49,Sampa,major,15,6,1
+CAETANO,49,Sampa,major,16,#1/b2,3
+CAETANO,49,Sampa,major,17,1,x
+CAETANO,49,Sampa,major,18,#1/b2,3
+CAETANO,49,Sampa,major,19,6,5
+CAETANO,49,Sampa,major,20,#5/b6,x
+CAETANO,49,Sampa,major,21,5,1
+CAETANO,49,Sampa,major,22,#4/b5,x
+CAETANO,49,Sampa,major,23,5,1
+CAETANO,49,Sampa,major,24,7,3
+CAETANO,49,Sampa,major,25,#6/b7,x
+CAETANO,49,Sampa,major,26,7,3
+CAETANO,49,Sampa,major,27,2,5
+CAETANO,49,Sampa,major,28,5,x
+CAETANO,49,Sampa,major,29,4,7
+CAETANO,49,Sampa,major,30,5,x
+CAETANO,49,Sampa,major,31,4,7
+CAETANO,49,Sampa,major,32,3,5
+CAETANO,49,Sampa,major,33,2,1
+CAETANO,49,Sampa,major,34,#4/b5,3
+CAETANO,49,Sampa,major,35,6,5
+CAETANO,49,Sampa,major,36,1,7
+CAETANO,49,Sampa,major,37,6,5
+CAETANO,49,Sampa,major,38,2,1
+CAETANO,49,Sampa,major,39,#4/b5,3
+CAETANO,49,Sampa,major,40,6,5
+CAETANO,49,Sampa,major,41,1,7
+CAETANO,49,Sampa,major,42,6,5
+CAETANO,49,Sampa,major,43,5,1
+CAETANO,49,Sampa,major,44,1,11
+CAETANO,49,Sampa,major,45,1,1
+CAETANO,49,Sampa,major,46,1,5
+CAETANO,49,Sampa,major,47,1,5
+CAETANO,49,Sampa,major,48,5,5
+CAETANO,49,Sampa,major,49,6,1
+CAETANO,49,Sampa,major,50,4,3
+CAETANO,49,Sampa,major,51,5,1
+CAETANO,49,Sampa,major,52,#4/b5,x
+CAETANO,49,Sampa,major,53,5,1
+CAETANO,49,Sampa,major,54,3,1
+CAETANO,49,Sampa,major,55,3,5
+CAETANO,49,Sampa,major,56,3,9
+CAETANO,49,Sampa,major,57,6,5
+CAETANO,49,Sampa,major,58,#2/b3,5
+CAETANO,49,Sampa,major,59,2,5
+CAETANO,49,Sampa,major,60,1,1
+CAETANO,50,Superbacana,major,1,5,5
+CAETANO,50,Superbacana,major,2,3,3
+CAETANO,50,Superbacana,major,3,6,x
+CAETANO,50,Superbacana,major,4,5,1
+CAETANO,50,Superbacana,major,5,3,13
+CAETANO,50,Superbacana,major,6,6,x
+CAETANO,50,Superbacana,major,7,5,7
+CAETANO,50,Superbacana,major,8,3,5
+CAETANO,50,Superbacana,major,9,1,3
+CAETANO,50,Superbacana,major,10,7,x
+CAETANO,50,Superbacana,major,11,6,13
+CAETANO,50,Superbacana,major,12,5,5
+CAETANO,50,Superbacana,major,13,3,3
+CAETANO,50,Superbacana,major,14,4,1
+CAETANO,50,Superbacana,major,15,2,6
+CAETANO,50,Superbacana,major,16,7,#11
+CAETANO,50,Superbacana,major,17,6,x
+CAETANO,50,Superbacana,major,18,5,13
+CAETANO,50,Superbacana,major,19,4,3
+CAETANO,50,Superbacana,major,20,2,3
+CAETANO,50,Superbacana,major,21,5,5
+CAETANO,50,Superbacana,major,22,3,3
+CAETANO,50,Superbacana,major,23,6,x
+CAETANO,50,Superbacana,major,24,5,7
+CAETANO,50,Superbacana,major,25,3,5
+CAETANO,50,Superbacana,major,26,4,3
+CAETANO,50,Superbacana,major,27,5,x
+CAETANO,50,Superbacana,major,28,6,9
+CAETANO,50,Superbacana,major,29,7,3
+CAETANO,50,Superbacana,major,30,1,x
+CAETANO,50,Superbacana,major,31,2,5
+CAETANO,50,Superbacana,major,32,3,1
+CAETANO,50,Superbacana,major,33,7,5
+CAETANO,50,Superbacana,major,34,4,b9/#9
+CAETANO,50,Superbacana,major,35,3,1
+CAETANO,50,Superbacana,major,36,7,5
+CAETANO,50,Superbacana,major,37,3,5
+CAETANO,50,Superbacana,major,38,7,9
+CAETANO,50,Superbacana,major,39,4,b13
+CAETANO,50,Superbacana,major,40,3,5
+CAETANO,50,Superbacana,major,41,7,9
+CAETANO,50,Superbacana,major,42,3,9
+CAETANO,50,Superbacana,major,43,7,13
+CAETANO,50,Superbacana,major,44,4,x
+CAETANO,50,Superbacana,major,45,3,9
+CAETANO,50,Superbacana,major,46,7,13
+CAETANO,50,Superbacana,major,47,3,13
+CAETANO,50,Superbacana,major,48,7,3
+CAETANO,50,Superbacana,major,49,4,x
+CAETANO,50,Superbacana,major,50,3,13
+CAETANO,50,Superbacana,major,51,7,3
+CAETANO,50,Superbacana,major,52,2,9
+CAETANO,50,Superbacana,major,53,1,x
+CAETANO,50,Superbacana,major,54,2,11
+CAETANO,50,Superbacana,major,55,1,x
+CAETANO,50,Superbacana,major,56,2,x
+CAETANO,50,Superbacana,major,57,1,1
+CAETANO,50,Superbacana,major,58,2,5

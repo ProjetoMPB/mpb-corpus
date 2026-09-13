@@ -1,0 +1,833 @@
+corpus_id,composition_id,composition_name,word_index,c_word,r_word
+CHICO,1,A banda,1,uuuppp,ejjj
+CHICO,1,A banda,2,uuuppS,ejjj
+CHICO,1,A banda,3,uppPPp,ejjj
+CHICO,1,A banda,4,uppPPp,ejjj
+CHICO,1,A banda,5,uuuppp,ejjj
+CHICO,1,A banda,6,uuuppS,ejjj
+CHICO,1,A banda,7,uppPPp,ejjj
+CHICO,1,A banda,8,uppPPp,ejjj
+CHICO,1,A banda,9,APPuuuuppA,ejjjjj
+CHICO,1,A banda,10,uu,ej
+CHICO,1,A banda,11,PPPuuuuppA,ejjjjj
+CHICO,1,A banda,12,uu,ej
+CHICO,1,A banda,13,PppuuPPppA,ejjjjj
+CHICO,1,A banda,14,uuppu,eejj
+CHICO,1,A banda,15,uPpsPAu,ejjje
+CHICO,1,A banda,16,APPuuuuppA,ejjjjj
+CHICO,1,A banda,17,uu,ej
+CHICO,1,A banda,18,PPPuuuuppA,ejjjjj
+CHICO,1,A banda,19,uu,ej
+CHICO,1,A banda,20,PppuuPPaA,ejjjbj
+CHICO,1,A banda,21,uaaPPp,ejjj
+CHICO,1,A banda,22,uppPPp,ejjj
+CHICO,1,A banda,23,uuuppp,ejjj
+CHICO,1,A banda,24,uuuppS,ejjj
+CHICO,1,A banda,25,uppPPp,ejjj
+CHICO,1,A banda,26,uppPPp,ejjj
+CHICO,1,A banda,27,uuuppp,ejjj
+CHICO,1,A banda,28,uuuppS,ejjj
+CHICO,1,A banda,29,uppPPp,ejjj
+CHICO,1,A banda,30,uppPPp,ejjj
+CHICO,1,A banda,31,uppPPp,ejjj
+CHICO,1,A banda,32,uppPPp,ejjj
+CHICO,1,A banda,33,uppPPp,ejjj
+CHICO,1,A banda,34,uppPPp,ejjj
+CHICO,2,A Rita,1,PupApaAu,gvnj
+CHICO,2,A Rita,2,PPpAuaaau,pquj
+CHICO,2,A Rita,3,uuAAAppAppAu,pvuv
+CHICO,2,A Rita,4,uuppAaaa,pvu
+CHICO,2,A Rita,5,uppAppAppAa,gvuuc
+CHICO,2,A Rita,6,pa,nb
+CHICO,2,A Rita,7,uAuuPuAa,pvnc
+CHICO,2,A Rita,8,uuaAps,ntn
+CHICO,2,A Rita,9,PupApaApaAu,gvuuc
+CHICO,2,A Rita,10,puaaa,uu
+CHICO,2,A Rita,11,uuAAAppAppA,pvuq
+CHICO,2,A Rita,12,uuuppAa,usl
+CHICO,2,A Rita,13,uppAppAppA,gvuu
+CHICO,2,A Rita,14,uuuuAuuauau,nvuu
+CHICO,2,A Rita,15,uuauAuaaupAaa,grnrnr
+CHICO,3,Acorda amor,1,Auu,gq
+CHICO,3,Acorda amor,2,ppppupSu,gvv
+CHICO,3,Acorda amor,3,ppppuupSu,gvvb
+CHICO,3,Acorda amor,4,pppPP,gvb
+CHICO,3,Acorda amor,5,PP,pb
+CHICO,3,Acorda amor,6,uuu,v
+CHICO,3,Acorda amor,7,PPAaaupAu,pvv
+CHICO,3,Acorda amor,8,PPPapupSu,pvv
+CHICO,3,Acorda amor,9,uuu,mh
+CHICO,3,Acorda amor,10,uuuuAuuA,gvv
+CHICO,3,Acorda amor,11,uuS,ub
+CHICO,3,Acorda amor,12,PpppPP,sbne
+CHICO,3,Acorda amor,13,ppPP,erc
+CHICO,3,Acorda amor,14,ppP,nan
+CHICO,3,Acorda amor,15,APPAaaup,jjlnc
+CHICO,3,Acorda amor,16,PPAaau,ntn
+CHICO,3,Acorda amor,17,ppPSaA,nrn
+CHICO,4,Agora falando serio,1,uuuAsu,gvm
+CHICO,4,Agora falando serio,2,upPPPa,prn
+CHICO,4,Agora falando serio,3,uuPPPPPPpppPPppp,prsssie
+CHICO,4,Agora falando serio,4,uuuPPPu,pvh
+CHICO,4,Agora falando serio,5,uAPPu,gqh
+CHICO,4,Agora falando serio,6,uppppp,grq
+CHICO,4,Agora falando serio,7,uuuPPPu,pvh
+CHICO,4,Agora falando serio,8,uAPP,pq
+CHICO,4,Agora falando serio,9,uuuppppp,urq
+CHICO,4,Agora falando serio,10,uuuAsu,gvm
+CHICO,5,Atras da porta,1,pApu,lnb
+CHICO,5,Atras da porta,2,ApS,gnb
+CHICO,5,Atras da porta,3,ApupApu,gnlnb
+CHICO,5,Atras da porta,4,ApupApu,gnlnb
+CHICO,5,Atras da porta,5,SpA,gnb
+CHICO,5,Atras da porta,6,ppp,pn
+CHICO,5,Atras da porta,7,ApupApu,gnlnb
+CHICO,5,Atras da porta,8,uApu,lnb
+CHICO,5,Atras da porta,9,Apu,gnb
+CHICO,5,Atras da porta,10,SpA,gnb
+CHICO,5,Atras da porta,11,ApAp,png
+CHICO,5,Atras da porta,12,pupApup,nlnl
+CHICO,5,Atras da porta,13,ppps,nt
+CHICO,5,Atras da porta,14,pp,ng
+CHICO,5,Atras da porta,15,ppps,nt
+CHICO,5,Atras da porta,16,ppp,nl
+CHICO,5,Atras da porta,17,PAppPpp,ntng
+CHICO,5,Atras da porta,18,PpPup,nbnaab
+CHICO,5,Atras da porta,19,pApupApu,lnlnb
+CHICO,5,Atras da porta,20,pApup,lnl
+CHICO,5,Atras da porta,21,puaSpA,nlnb
+CHICO,5,Atras da porta,22,ApAp,png
+CHICO,5,Atras da porta,23,pupApu,nlnb
+CHICO,5,Atras da porta,24,pppppAap,stnaab
+CHICO,5,Atras da porta,25,pppppAap,stnaab
+CHICO,6,Biscate,1,pppApaApaaSp,nrnnncab
+CHICO,6,Biscate,2,uuuAuappA,vrnc
+CHICO,6,Biscate,3,AaAsppPPP,vrnc
+CHICO,6,Biscate,4,pPAApaAAauAP,urnnng
+CHICO,6,Biscate,5,uupupu,urc
+CHICO,6,Biscate,6,uupupu,urc
+CHICO,6,Biscate,7,ppAapau,rnnc
+CHICO,6,Biscate,8,uuAaAPp,uvg
+CHICO,6,Biscate,9,ppAapau,rnnc
+CHICO,6,Biscate,10,uupuuu,urc
+CHICO,6,Biscate,11,pppPpaa,ornc
+CHICO,6,Biscate,12,pppPpa,orn
+CHICO,6,Biscate,13,pppPPaaA,orrc
+CHICO,6,Biscate,14,AaAaAaAaAa,guvq
+CHICO,6,Biscate,15,pppPpaa,ornc
+CHICO,6,Biscate,16,pppPpa,orn
+CHICO,6,Biscate,17,AappPpaA,urnc
+CHICO,6,Biscate,18,AaAaAaAaAaAaA,guvvh
+CHICO,7,Apesar de voce,1,pP,r
+CHICO,7,Apesar de voce,2,Ppaaa,nnbb
+CHICO,7,Apesar de voce,3,pP,r
+CHICO,7,Apesar de voce,4,Ppaaa,nnbb
+CHICO,7,Apesar de voce,5,uuupPAp,bjlnab
+CHICO,7,Apesar de voce,6,ppPpa,elnab
+CHICO,7,Apesar de voce,7,ppPP,eln
+CHICO,7,Apesar de voce,8,uuupPSp,bjlnab
+CHICO,7,Apesar de voce,9,uppSp,elnab
+CHICO,7,Apesar de voce,10,uppAP,elnaab
+CHICO,7,Apesar de voce,11,uapp,najb
+CHICO,7,Apesar de voce,12,Asu,gnc
+CHICO,7,Apesar de voce,13,PPaAaP,jlnab
+CHICO,7,Apesar de voce,14,PPpA,eln
+CHICO,7,Apesar de voce,15,uaApppPa,nnlng
+CHICO,7,Apesar de voce,16,pppppa,ntn
+CHICO,7,Apesar de voce,17,aa,bn
+CHICO,7,Apesar de voce,18,ppPaA,jln
+CHICO,7,Apesar de voce,19,ppPaP,jln
+CHICO,7,Apesar de voce,20,apa,bng
+CHICO,7,Apesar de voce,21,PPppA,jln
+CHICO,7,Apesar de voce,22,PPppA,jln
+CHICO,7,Apesar de voce,23,PPppAP,jlnaab
+CHICO,7,Apesar de voce,24,psSps,jln
+CHICO,7,Apesar de voce,25,psSps,jln
+CHICO,7,Apesar de voce,26,pp,bn
+CHICO,7,Apesar de voce,27,paSps,jln
+CHICO,7,Apesar de voce,28,PPPpAs,jlnab
+CHICO,7,Apesar de voce,29,aa,bn
+CHICO,7,Apesar de voce,30,uuupPA,bjln
+CHICO,7,Apesar de voce,31,pppPpa,jlnab
+CHICO,7,Apesar de voce,32,ppPPa,tnab
+CHICO,7,Apesar de voce,33,p,l
+CHICO,7,Apesar de voce,34,uuupPS,bjln
+CHICO,7,Apesar de voce,35,puppS,jln
+CHICO,7,Apesar de voce,36,puppAP,jlnaab
+CHICO,7,Apesar de voce,37,uappaAsu,najlnc
+CHICO,7,Apesar de voce,38,PPaAa,jln
+CHICO,7,Apesar de voce,39,PPPpA,jln
+CHICO,7,Apesar de voce,40,uaApppPa,nnlng
+CHICO,7,Apesar de voce,41,pppppaa,ntnab
+CHICO,7,Apesar de voce,42,appu,bnn
+CHICO,8,Bye bye Brasil,1,AAA,kdb
+CHICO,8,Bye bye Brasil,2,apaaAAA,bkdkdb
+CHICO,8,Bye bye Brasil,3,apaPAAA,bkdkdb
+CHICO,8,Bye bye Brasil,4,ppaaAAA,bkdkdb
+CHICO,8,Bye bye Brasil,5,pppsAAA,bkdkdb
+CHICO,8,Bye bye Brasil,6,apaaAAA,bkdkdb
+CHICO,8,Bye bye Brasil,7,apaPAAA,bkdkdb
+CHICO,8,Bye bye Brasil,8,apaaAAA,bkdkdb
+CHICO,8,Bye bye Brasil,9,appAuuuaPP,bkdkdkdb
+CHICO,8,Bye bye Brasil,10,AuuuaPP,bkdkdb
+CHICO,8,Bye bye Brasil,11,AuuuaPP,bkdkdb
+CHICO,8,Bye bye Brasil,12,PP,fdb
+CHICO,9,Calice,1,,b
+CHICO,9,Calice,2,SppuppAuu,ejjjjb
+CHICO,9,Calice,3,sSapupPPuu,bejjjjb
+CHICO,9,Calice,4,sSppupPPuu,bejjjjb
+CHICO,9,Calice,5,SppppPu,ebjebbb
+CHICO,9,Calice,6,uuusAAppPu,ejjjjj
+CHICO,9,Calice,7,uuusAAppuu,ejjjjj
+CHICO,9,Calice,8,uuusASppPu,ejjjjj
+CHICO,9,Calice,9,uuusAAppuu,ejjjjj
+CHICO,10,Carolina,1,aPu,eng
+CHICO,10,Carolina,2,PPASu,osg
+CHICO,10,Carolina,3,paAp,nt
+CHICO,10,Carolina,4,AApaApu,pnnbb
+CHICO,10,Carolina,5,uppP,nnb
+CHICO,10,Carolina,6,ppP,br
+CHICO,10,Carolina,7,upaA,grb
+CHICO,10,Carolina,8,paA,er
+CHICO,10,Carolina,9,pppP,grb
+CHICO,10,Carolina,10,ppP,gr
+CHICO,10,Carolina,11,uppP,grb
+CHICO,10,Carolina,12,ppP,er
+CHICO,10,Carolina,13,ups,ngc
+CHICO,10,Carolina,14,PPppA,osb
+CHICO,10,Carolina,15,PPppA,osb
+CHICO,10,Carolina,16,uuupp,osb
+CHICO,10,Carolina,17,psASppu,nnte
+CHICO,10,Carolina,18,aAAaAAp,vue
+CHICO,10,Carolina,19,ppaPPP,vu
+CHICO,11,Com acucar e com afeto,1,PPppPpp,ntnc
+CHICO,11,Com acucar e com afeto,2,PApaPpp,ntnc
+CHICO,11,Com acucar e com afeto,3,PPaAaup,ntnc
+CHICO,11,Com acucar e com afeto,4,ap,u
+CHICO,11,Com acucar e com afeto,5,PPaAauu,ntnc
+CHICO,11,Com acucar e com afeto,6,PPaAauu,ntnc
+CHICO,11,Com acucar e com afeto,7,AAappuP,ntnc
+CHICO,11,Com acucar e com afeto,8,PPppPpp,ntnc
+CHICO,11,Com acucar e com afeto,9,PApaPpp,ntnc
+CHICO,11,Com acucar e com afeto,10,PPaAap,ntn
+CHICO,11,Com acucar e com afeto,11,ap,u
+CHICO,11,Com acucar e com afeto,12,PPaAauu,ntnc
+CHICO,11,Com acucar e com afeto,13,PPaAauu,ntnc
+CHICO,11,Com acucar e com afeto,14,AAappS,ntn
+CHICO,11,Com acucar e com afeto,15,upp,pn
+CHICO,11,Com acucar e com afeto,16,PPppPPp,ntnc
+CHICO,11,Com acucar e com afeto,17,PPppppp,ntnc
+CHICO,11,Com acucar e com afeto,18,PPpaap,nrn
+CHICO,11,Com acucar e com afeto,19,PPPPPpp,nrnc
+CHICO,11,Com acucar e com afeto,20,aAppppup,nrnh
+CHICO,11,Com acucar e com afeto,21,PApppp,nrn
+CHICO,12,Construcao,1,uuuuuuuPPPppp,gvvqm
+CHICO,12,Construcao,2,uuuuuuuPPPppp,gvvqm
+CHICO,12,Construcao,3,uuuuuuuPPPppp,gvvqm
+CHICO,12,Construcao,4,uuuuuuuPPPPpa,gvvqm
+CHICO,12,Construcao,5,uuuuuuuPPPppp,gvvqm
+CHICO,12,Construcao,6,uuuuuuuPPPppp,gvvqm
+CHICO,12,Construcao,7,uuuuuuuPPPppp,gvvqm
+CHICO,12,Construcao,8,uuuuuuuPPPPpu,gvvqm
+CHICO,12,Construcao,9,uuuuuuuuupPpp,gvvqm
+CHICO,12,Construcao,10,uuuuuuuuupPpp,gvvqm
+CHICO,12,Construcao,11,uuuuuuuuuuupp,gvvqm
+CHICO,12,Construcao,12,uuuuuuuuuPSpu,gvvqm
+CHICO,12,Construcao,13,uuuuuuuPppppp,gvvqm
+CHICO,13,Cotidiano,1,ppAppApppP,nrrt
+CHICO,13,Cotidiano,2,ppApppuPp,nrrj
+CHICO,13,Cotidiano,3,ppApppupP,nrrj
+CHICO,13,Cotidiano,4,ppppPpuPs,nrrj
+CHICO,13,Cotidiano,5,ppAppApppP,nrrt
+CHICO,13,Cotidiano,6,ppApppupp,nrrj
+CHICO,13,Cotidiano,7,PPppAppPP,nrrj
+CHICO,13,Cotidiano,8,PPppAppAS,nrrj
+CHICO,13,Cotidiano,9,ppAppApppP,nrrt
+CHICO,13,Cotidiano,10,ppApppuPp,nrrj
+CHICO,13,Cotidiano,11,ppApppupP,nrrj
+CHICO,13,Cotidiano,12,ppppPpuPs,nrrj
+CHICO,14,Desalento,1,PaP,babn
+CHICO,14,Desalento,2,pP,bn
+CHICO,14,Desalento,3,aP,bn
+CHICO,14,Desalento,4,Sp,bn
+CHICO,14,Desalento,5,APPPp,ntab
+CHICO,14,Desalento,6,aapup,tne
+CHICO,14,Desalento,7,PAApp,sjb
+CHICO,14,Desalento,8,PPPPPuu,bolng
+CHICO,14,Desalento,9,AAAAppp,ssl
+CHICO,14,Desalento,10,PPs,ejb
+CHICO,14,Desalento,11,PPPAAP,bnln
+CHICO,14,Desalento,12,pP,nb
+CHICO,14,Desalento,13,PA,ob
+CHICO,14,Desalento,14,pPsAP,nln
+CHICO,15,Desencontro,1,upPP,bsb
+CHICO,15,Desencontro,2,PPua,sbab
+CHICO,15,Desencontro,3,uauu,ebob
+CHICO,15,Desencontro,4,uppP,ebob
+CHICO,15,Desencontro,5,uuuA,esb
+CHICO,15,Desencontro,6,uuup,esb
+CHICO,15,Desencontro,7,ppPPppPuppP,sbsbbob
+CHICO,15,Desencontro,8,upPP,ebob
+CHICO,15,Desencontro,9,PPua,sbab
+CHICO,15,Desencontro,10,uPpauuu,uboj
+CHICO,15,Desencontro,11,Pauu,ebob
+CHICO,15,Desencontro,12,SppApu,erne
+CHICO,15,Desencontro,13,pspPS,ebsb
+CHICO,15,Desencontro,14,pPPPP,ejjb
+CHICO,15,Desencontro,15,PppPA,ebsb
+CHICO,15,Desencontro,16,PPp,sb
+CHICO,16,Bastidores,1,AaS,ebaaeb
+CHICO,16,Bastidores,2,pPPPspP,ejjbeb
+CHICO,16,Bastidores,3,APPApaP,sjjb
+CHICO,16,Bastidores,4,PPaPuaAPu,ojjoj
+CHICO,16,Bastidores,5,APaAs,osb
+CHICO,16,Bastidores,6,AaS,ejb
+CHICO,16,Bastidores,7,pPPPspP,ejjbeb
+CHICO,16,Bastidores,8,APPApaP,ejjjb
+CHICO,16,Bastidores,9,PPaP,ojb
+CHICO,16,Bastidores,10,APaAPaAP,obobob
+CHICO,16,Bastidores,11,AsS,ebaaeb
+CHICO,16,Bastidores,12,APpPpaA,ejjjb
+CHICO,16,Bastidores,13,APpPapp,ejjjb
+CHICO,16,Bastidores,14,PAApA,sjb
+CHICO,16,Bastidores,15,PPpaA,eseb
+CHICO,17,Ela desatinou,1,P,bb
+CHICO,17,Ela desatinou,2,aaS,pn
+CHICO,17,Ela desatinou,3,pp,gn
+CHICO,17,Ela desatinou,4,uuuuuuuuppSp,nrtrj
+CHICO,17,Ela desatinou,5,PPas,sbe
+CHICO,17,Ela desatinou,6,pPppup,sbnaab
+CHICO,17,Ela desatinou,7,Ppu,nn
+CHICO,17,Ela desatinou,8,pPApa,rbn
+CHICO,17,Ela desatinou,9,Ppu,pn
+CHICO,17,Ela desatinou,10,PPAp,rbb
+CHICO,17,Ela desatinou,11,AAApupAp,bbnpng
+CHICO,17,Ela desatinou,12,AASpaaSpaa,bbncotc
+CHICO,17,Ela desatinou,13,Ppu,bbn
+CHICO,17,Ela desatinou,14,pPAap,rbn
+CHICO,17,Ela desatinou,15,puppPS,gnnn
+CHICO,17,Ela desatinou,16,p,n
+CHICO,17,Ela desatinou,17,pu,nb
+CHICO,17,Ela desatinou,18,pu,gn
+CHICO,17,Ela desatinou,19,pu,nb
+CHICO,17,Ela desatinou,20,pu,gn
+CHICO,17,Ela desatinou,21,pu,nb
+CHICO,17,Ela desatinou,22,pS,gn
+CHICO,17,Ela desatinou,23,puP,gng
+CHICO,18,Fado tropical,1,uauuuu,ebjebb
+CHICO,18,Fado tropical,2,uauuu,ebjeb
+CHICO,18,Fado tropical,3,uauuuu,ebjebb
+CHICO,18,Fado tropical,4,pppp,jjb
+CHICO,18,Fado tropical,5,uauuuu,ebjebb
+CHICO,18,Fado tropical,6,uauuu,ebjeb
+CHICO,18,Fado tropical,7,uauuuu,ebjebb
+CHICO,18,Fado tropical,8,pPpPAp,jjjb
+CHICO,18,Fado tropical,9,uaAPPpApp,ebjebjeb
+CHICO,18,Fado tropical,10,upa,ebj
+CHICO,18,Fado tropical,11,uaAPP,ebjeb
+CHICO,18,Fado tropical,12,PPpppS,jjjb
+CHICO,19,Feijoada completa,1,P,n
+CHICO,19,Feijoada completa,2,asuu,nne
+CHICO,19,Feijoada completa,3,uuPuuuappA,ntnnn
+CHICO,19,Feijoada completa,4,uuPuuu,ntl
+CHICO,19,Feijoada completa,5,ppAa,nnab
+CHICO,19,Feijoada completa,6,uuPuuu,ntl
+CHICO,19,Feijoada completa,7,ppPp,nne
+CHICO,19,Feijoada completa,8,aAuuuu,gntc
+CHICO,19,Feijoada completa,9,uuuuaAaAA,punu
+CHICO,19,Feijoada completa,10,uuuuuuuuu,nnnnn
+CHICO,20,Futuros amantes,1,SppP,esb
+CHICO,20,Futuros amantes,2,pupP,ejj
+CHICO,20,Futuros amantes,3,AupP,esb
+CHICO,20,Futuros amantes,4,ppupP,jjj
+CHICO,20,Futuros amantes,5,aAu,ejb
+CHICO,20,Futuros amantes,6,Pupuu,esj
+CHICO,20,Futuros amantes,7,PupuupPupPupP,esjejejeb
+CHICO,20,Futuros amantes,8,upP,sb
+CHICO,20,Futuros amantes,9,pPupP,obob
+CHICO,20,Futuros amantes,10,pupPupPu,ekdkdj
+CHICO,20,Futuros amantes,11,PaPPu,jjk
+CHICO,20,Futuros amantes,12,Puppu,dkdk
+CHICO,20,Futuros amantes,13,Pupuu,dkdk
+CHICO,20,Futuros amantes,14,PupPupP,dkdjj
+CHICO,21,Flor da idade,1,Auuuuuuup,jebjeej
+CHICO,21,Flor da idade,2,uppPpp,ebbbbj
+CHICO,21,Flor da idade,3,uuAp,jebb
+CHICO,21,Flor da idade,4,Auuuuuup,jebjeee
+CHICO,21,Flor da idade,5,uuppPpp,ebjebj
+CHICO,21,Flor da idade,6,Auuuuuuup,jebjeej
+CHICO,21,Flor da idade,7,uuppPpp,ebjebbb
+CHICO,21,Flor da idade,8,pPpp,bbbbb
+CHICO,21,Flor da idade,9,PpppP,bbbje
+CHICO,21,Flor da idade,10,pppP,bbje
+CHICO,21,Flor da idade,11,pppP,bbjb
+CHICO,22,Folhetim,1,PPppAa,ejjj
+CHICO,22,Folhetim,2,ppppP,jjj
+CHICO,22,Folhetim,3,PpPP,ekdb
+CHICO,22,Folhetim,4,pPAppu,ejjj
+CHICO,22,Folhetim,5,pApppp,pkdj
+CHICO,22,Folhetim,6,aAppPa,jjjb
+CHICO,22,Folhetim,7,PpaApau,ejbjj
+CHICO,22,Folhetim,8,uuAAAP,osj
+CHICO,22,Folhetim,9,pPpp,jjb
+CHICO,22,Folhetim,10,AAApppPp,ejbejaj
+CHICO,22,Folhetim,11,AAAppPPP,ejbekdb
+CHICO,22,Folhetim,12,PPppAa,ejjj
+CHICO,22,Folhetim,13,ppppP,ekdj
+CHICO,22,Folhetim,14,PpPP,ekdb
+CHICO,22,Folhetim,15,pPApp,ejjb
+CHICO,22,Folhetim,16,pApppp,ejjj
+CHICO,22,Folhetim,17,aAppPaPa,jjjajb
+CHICO,23,Homenagem ao malandro,1,PPP,nn
+CHICO,23,Homenagem ao malandro,2,pPp,nn
+CHICO,23,Homenagem ao malandro,3,AP,nc
+CHICO,23,Homenagem ao malandro,4,PpPpaAP,gjpnc
+CHICO,23,Homenagem ao malandro,5,PpapAaAa,rnnj
+CHICO,23,Homenagem ao malandro,6,PPPuPpPp,nnnjb
+CHICO,23,Homenagem ao malandro,7,APpPpP,nnjb
+CHICO,23,Homenagem ao malandro,8,aAP,rc
+CHICO,23,Homenagem ao malandro,9,PAaa,rn
+CHICO,23,Homenagem ao malandro,10,ppp,nn
+CHICO,23,Homenagem ao malandro,11,PAA,gr
+CHICO,23,Homenagem ao malandro,12,pPpPp,nnj
+CHICO,23,Homenagem ao malandro,13,pppPPAA,pngr
+CHICO,23,Homenagem ao malandro,14,pPpPp,nnj
+CHICO,23,Homenagem ao malandro,15,pppPPAA,pnnj
+CHICO,23,Homenagem ao malandro,16,pPpPp,nnj
+CHICO,23,Homenagem ao malandro,17,pppPPAA,pnnj
+CHICO,23,Homenagem ao malandro,18,pPpPp,nnj
+CHICO,23,Homenagem ao malandro,19,pppPPAAA,nnrj
+CHICO,23,Homenagem ao malandro,20,pPpPp,nnn
+CHICO,23,Homenagem ao malandro,21,pPpPPAA,nnnj
+CHICO,23,Homenagem ao malandro,22,pPpPp,nnj
+CHICO,24,Januaria,1,PPPppPu,ntnc
+CHICO,24,Januaria,2,PPPpPau,ntnc
+CHICO,24,Januaria,3,uSuusSu,ntnc
+CHICO,24,Januaria,4,sSppaAu,gnpnc
+CHICO,24,Januaria,5,uuuAAA,ntn
+CHICO,24,Januaria,6,pPPpPpPAu,grlrg
+CHICO,24,Januaria,7,pppppA,ntn
+CHICO,24,Januaria,8,PPA,gr
+CHICO,24,Januaria,9,ppP,gr
+CHICO,24,Januaria,10,PAapPAa,ulq
+CHICO,24,Januaria,11,PSspPSs,ulq
+CHICO,24,Januaria,12,PSaaSPpaa,ulqcb
+CHICO,25,Joana francesa,1,PaPa,bejb
+CHICO,25,Joana francesa,2,PaPa,bejb
+CHICO,25,Joana francesa,3,PPPP,bejb
+CHICO,25,Joana francesa,4,aaA,ejb
+CHICO,25,Joana francesa,5,aPa,ejb
+CHICO,25,Joana francesa,6,PPPP,bejb
+CHICO,25,Joana francesa,7,ppu,ejb
+CHICO,25,Joana francesa,8,PpPAu,jjbb
+CHICO,25,Joana francesa,9,pPpPpPpPpP,ejjjjj
+CHICO,25,Joana francesa,10,pupu,bejb
+CHICO,25,Joana francesa,11,PPApu,ejjb
+CHICO,25,Joana francesa,12,pupu,bejb
+CHICO,25,Joana francesa,13,PPApu,ejjb
+CHICO,25,Joana francesa,14,pupu,bejb
+CHICO,25,Joana francesa,15,PPPpu,ejjb
+CHICO,25,Joana francesa,16,pPPAp,jjbb
+CHICO,26,Mambembe,1,uuuuuuuuuuppPP,gttttj
+CHICO,26,Mambembe,2,uuuuuuuuuuu,gttvc
+CHICO,26,Mambembe,3,ppAppup,ntnc
+CHICO,26,Mambembe,4,pSup,ecnc
+CHICO,26,Mambembe,5,PPPau,prc
+CHICO,26,Mambembe,6,Pu,nc
+CHICO,26,Mambembe,7,AapP,nu
+CHICO,26,Mambembe,8,upp,canab
+CHICO,26,Mambembe,9,Aappa,npl
+CHICO,27,Maninha,1,pPAppA,ejjj
+CHICO,27,Maninha,2,pPApp,ejjb
+CHICO,27,Maninha,3,PAAApPPAp,ejjjeeb
+CHICO,27,Maninha,4,pPApp,ejjb
+CHICO,27,Maninha,5,pPApp,ejjb
+CHICO,27,Maninha,6,PPPpPp,jbejb
+CHICO,27,Maninha,7,pPp,ejb
+CHICO,27,Maninha,8,pPSppp,ejjj
+CHICO,27,Maninha,9,uppuSpu,ejjeeb
+CHICO,27,Maninha,10,pPApppuuA,ejjjej
+CHICO,27,Maninha,11,puppu,ejjb
+CHICO,28,Meu caro amigo,1,SApasppAAAp,uvvb
+CHICO,28,Meu caro amigo,2,ASusSppP,uvl
+CHICO,28,Meu caro amigo,3,SApasppAAAp,uvvb
+CHICO,28,Meu caro amigo,4,ASusSppp,uvl
+CHICO,28,Meu caro amigo,5,AApaappAAAp,uvvb
+CHICO,28,Meu caro amigo,6,AAppasaSAAp,uvvb
+CHICO,28,Meu caro amigo,7,SApasppAAAp,uvvb
+CHICO,28,Meu caro amigo,8,SAupppSppppPpp,uvvtg
+CHICO,28,Meu caro amigo,9,SSpapppPPPP,uvvb
+CHICO,28,Meu caro amigo,10,asSAusSAusSPuA,gvvvh
+CHICO,28,Meu caro amigo,11,asSAusSAusSPuS,gvvvh
+CHICO,28,Meu caro amigo,12,asSAupp,gvlb
+CHICO,29,Morena dos olhos dagua,1,PaApppp,ejsl
+CHICO,29,Morena dos olhos dagua,2,AAAapP,uv
+CHICO,29,Morena dos olhos dagua,3,P,l
+CHICO,29,Morena dos olhos dagua,4,AaPps,pv
+CHICO,29,Morena dos olhos dagua,5,AAppsA,uuc
+CHICO,29,Morena dos olhos dagua,6,pp,nb
+CHICO,29,Morena dos olhos dagua,7,aASppsu,ejtj
+CHICO,29,Morena dos olhos dagua,8,PPASaP,ptp
+CHICO,29,Morena dos olhos dagua,9,PPuuuuauu,ptpu
+CHICO,29,Morena dos olhos dagua,10,AuauuAs,ntr
+CHICO,29,Morena dos olhos dagua,11,ppSppsu,pbsj
+CHICO,29,Morena dos olhos dagua,12,PPASaP,ptp
+CHICO,29,Morena dos olhos dagua,13,PPuuuuauu,pluu
+CHICO,29,Morena dos olhos dagua,14,AuauuAA,nvn
+CHICO,30,Mulheres de Atenas,1,uuuup,jeej
+CHICO,30,Mulheres de Atenas,2,uuupP,ejej
+CHICO,30,Mulheres de Atenas,3,Pa,ej
+CHICO,30,Mulheres de Atenas,4,uuuuup,jeejb
+CHICO,30,Mulheres de Atenas,5,uupP,ejj
+CHICO,30,Mulheres de Atenas,6,Pa,ej
+CHICO,30,Mulheres de Atenas,7,uuuupuup,fdkdeej
+CHICO,30,Mulheres de Atenas,8,uupupuuu,fdkdeje
+CHICO,30,Mulheres de Atenas,9,PPAa,ejj
+CHICO,30,Mulheres de Atenas,10,uuuupuup,fdkdeje
+CHICO,30,Mulheres de Atenas,11,uupupuuu,fdkdeje
+CHICO,30,Mulheres de Atenas,12,PPAa,ejj
+CHICO,30,Mulheres de Atenas,13,pa,ej
+CHICO,31,Nao existe pecado ao sul do equador,1,PPppAp,jjje
+CHICO,31,Nao existe pecado ao sul do equador,2,AppAa,jeje
+CHICO,31,Nao existe pecado ao sul do equador,3,AaPa,ebjb
+CHICO,31,Nao existe pecado ao sul do equador,4,uPPppAp,ejjje
+CHICO,31,Nao existe pecado ao sul do equador,5,AppAa,jeje
+CHICO,31,Nao existe pecado ao sul do equador,6,SapP,ekdb
+CHICO,31,Nao existe pecado ao sul do equador,7,uuuaPP,ejjj
+CHICO,31,Nao existe pecado ao sul do equador,8,pA,ej
+CHICO,31,Nao existe pecado ao sul do equador,9,pA,ej
+CHICO,31,Nao existe pecado ao sul do equador,10,pS,ej
+CHICO,31,Nao existe pecado ao sul do equador,11,pa,ej
+CHICO,31,Nao existe pecado ao sul do equador,12,uuuppp,ejjj
+CHICO,31,Nao existe pecado ao sul do equador,13,uP,ej
+CHICO,31,Nao existe pecado ao sul do equador,14,uP,ej
+CHICO,31,Nao existe pecado ao sul do equador,15,uPppA,eejj
+CHICO,31,Nao existe pecado ao sul do equador,16,aApsAp,ejjj
+CHICO,31,Nao existe pecado ao sul do equador,17,Sp,ej
+CHICO,31,Nao existe pecado ao sul do equador,18,Sp,ej
+CHICO,31,Nao existe pecado ao sul do equador,19,aApsAp,ejjj
+CHICO,31,Nao existe pecado ao sul do equador,20,Sp,ej
+CHICO,31,Nao existe pecado ao sul do equador,21,Sp,ej
+CHICO,31,Nao existe pecado ao sul do equador,22,ppp,eeee
+CHICO,31,Nao existe pecado ao sul do equador,23,AA,ej
+CHICO,31,Nao existe pecado ao sul do equador,24,uSp,eje
+CHICO,31,Nao existe pecado ao sul do equador,25,uSsp,ejj
+CHICO,31,Nao existe pecado ao sul do equador,26,sp,ej
+CHICO,31,Nao existe pecado ao sul do equador,27,sS,ej
+CHICO,32,Noite dos mascarados,1,ppp,bt
+CHICO,32,Noite dos mascarados,2,pppp,os
+CHICO,32,Noite dos mascarados,3,ppp,bt
+CHICO,32,Noite dos mascarados,4,ppAA,os
+CHICO,32,Noite dos mascarados,5,ppA,bt
+CHICO,32,Noite dos mascarados,6,aaAP,os
+CHICO,32,Noite dos mascarados,7,puA,bt
+CHICO,32,Noite dos mascarados,8,PPpp,os
+CHICO,32,Noite dos mascarados,9,uuuu,vc
+CHICO,32,Noite dos mascarados,10,upaa,gv
+CHICO,32,Noite dos mascarados,11,Suuuu,gvc
+CHICO,32,Noite dos mascarados,12,pppP,gv
+CHICO,32,Noite dos mascarados,13,Auuuu,gvc
+CHICO,32,Noite dos mascarados,14,AaaA,gv
+CHICO,32,Noite dos mascarados,15,Auuuu,gvc
+CHICO,32,Noite dos mascarados,16,Auuu,gv
+CHICO,32,Noite dos mascarados,17,Appp,ebt
+CHICO,32,Noite dos mascarados,18,pppp,os
+CHICO,32,Noite dos mascarados,19,pAP,bt
+CHICO,32,Noite dos mascarados,20,PPpp,os
+CHICO,32,Noite dos mascarados,21,ppA,bt
+CHICO,32,Noite dos mascarados,22,PPppu,ut
+CHICO,32,Noite dos mascarados,23,PAapS,ut
+CHICO,32,Noite dos mascarados,24,PPppu,ut
+CHICO,32,Noite dos mascarados,25,PAaua,ut
+CHICO,33,O meu amor,1,PsS,bbeb
+CHICO,33,O meu amor,2,aPp,ggbe
+CHICO,33,O meu amor,3,PPPAP,glnb
+CHICO,33,O meu amor,4,PPpPAp,gvl
+CHICO,33,O meu amor,5,PPpPAp,gvj
+CHICO,33,O meu amor,6,pupuppPPpAp,gurul
+CHICO,33,O meu amor,7,PPpPAp,gvh
+CHICO,33,O meu amor,8,aaapP,guj
+CHICO,33,O meu amor,9,AAappA,vlab
+CHICO,33,O meu amor,10,PAAAPpS,gvr
+CHICO,33,O meu amor,11,AAPpp,gvb
+CHICO,33,O meu amor,12,PpppPP,gvi
+CHICO,33,O meu amor,13,ppppp,djbbb
+CHICO,34,Ole ola,1,pPSap,gvb
+CHICO,34,Ole ola,2,upupu,gvb
+CHICO,34,Ole ola,3,upupu,gvb
+CHICO,34,Ole ola,4,pPSappupupAp,gvvqc
+CHICO,34,Ole ola,5,pppp,vb
+CHICO,34,Ole ola,6,AppaPAP,ulbabab
+CHICO,34,Ole ola,7,pPSappuuu,gvvc
+CHICO,34,Ole ola,8,uuuuP,pv
+CHICO,34,Ole ola,9,uuuuu,gvc
+CHICO,34,Ole ola,10,uuuPu,gvc
+CHICO,34,Ole ola,11,uuuuu,gvc
+CHICO,34,Ole ola,12,uuuP,gv
+CHICO,34,Ole ola,13,upupuaS,grnn
+CHICO,34,Ole ola,14,uppup,gvc
+CHICO,34,Ole ola,15,upPA,gv
+CHICO,34,Ole ola,16,upppu,gvc
+CHICO,34,Ole ola,17,uaAPu,gvc
+CHICO,34,Ole ola,18,uuppu,gvc
+CHICO,34,Ole ola,19,upPP,gv
+CHICO,35,Olhos nos olhos,1,pPP,sb
+CHICO,35,Olhos nos olhos,2,PPAp,obeb
+CHICO,35,Olhos nos olhos,3,PpPA,fsb
+CHICO,35,Olhos nos olhos,4,usPpP,jejb
+CHICO,35,Olhos nos olhos,5,pPpPu,osc
+CHICO,35,Olhos nos olhos,6,pPpP,os
+CHICO,35,Olhos nos olhos,7,PpPpPpPsu,okss
+CHICO,35,Olhos nos olhos,8,pPP,sb
+CHICO,35,Olhos nos olhos,9,pPP,sb
+CHICO,35,Olhos nos olhos,10,PPAp,obeb
+CHICO,35,Olhos nos olhos,11,PpPA,fsb
+CHICO,35,Olhos nos olhos,12,usuPpP,jesb
+CHICO,35,Olhos nos olhos,13,uuuu,sj
+CHICO,35,Olhos nos olhos,14,uupPApp,oss
+CHICO,35,Olhos nos olhos,15,PPppPPp,oksf
+CHICO,35,Olhos nos olhos,16,PPpp,saeb
+CHICO,35,Olhos nos olhos,17,auuPuupu,ebobobb
+CHICO,35,Olhos nos olhos,18,Puup,fsb
+CHICO,35,Olhos nos olhos,19,uPuup,jbob
+CHICO,35,Olhos nos olhos,20,uuPuupu,ejbjbb
+CHICO,35,Olhos nos olhos,21,uPuuau,osj
+CHICO,35,Olhos nos olhos,22,Pppp,ebob
+CHICO,35,Olhos nos olhos,23,aP,ob
+CHICO,36,Pedro pedreiro,1,ppppppuPaAA,uvpq
+CHICO,36,Pedro pedreiro,2,ppppppuuPaAA,uvur
+CHICO,36,Pedro pedreiro,3,aP,u
+CHICO,36,Pedro pedreiro,4,aPPaPPPPP,uvr
+CHICO,36,Pedro pedreiro,5,uuuuuPPPP,uvr
+CHICO,36,Pedro pedreiro,6,ppPpppPuuuPPPP,uvrvb
+CHICO,36,Pedro pedreiro,7,uu,ob
+CHICO,36,Pedro pedreiro,8,uu,pb
+CHICO,36,Pedro pedreiro,9,uu,pb
+CHICO,36,Pedro pedreiro,10,uu,pb
+CHICO,36,Pedro pedreiro,11,pppu,pq
+CHICO,36,Pedro pedreiro,12,pppu,pq
+CHICO,36,Pedro pedreiro,13,pppu,pr
+CHICO,36,Pedro pedreiro,14,Apppu,uq
+CHICO,36,Pedro pedreiro,15,pppu,pr
+CHICO,36,Pedro pedreiro,16,Apppuu,uv
+CHICO,36,Pedro pedreiro,17,pppu,pr
+CHICO,36,Pedro pedreiro,18,uuAuA,ur
+CHICO,36,Pedro pedreiro,19,uauaP,ur
+CHICO,37,Quem te viu quem te ve,1,uuuuuup,ntnc
+CHICO,37,Quem te viu quem te ve,2,uupAppp,ntnc
+CHICO,37,Quem te viu quem te ve,3,uuPPSup,ntnc
+CHICO,37,Quem te viu quem te ve,4,PPpPPpp,ntnc
+CHICO,37,Quem te viu quem te ve,5,PPpPAuu,ntnc
+CHICO,37,Quem te viu quem te ve,6,uuuuuPu,ntnc
+CHICO,37,Quem te viu quem te ve,7,uppuupu,ntng
+CHICO,37,Quem te viu quem te ve,8,uppuupu,ntnc
+CHICO,37,Quem te viu quem te ve,9,upPPp,jln
+CHICO,37,Quem te viu quem te ve,10,App,ln
+CHICO,37,Quem te viu quem te ve,11,ppPPp,jln
+CHICO,37,Quem te viu quem te ve,12,As,bn
+CHICO,37,Quem te viu quem te ve,13,Ap,bl
+CHICO,37,Quem te viu quem te ve,14,PPAs,tn
+CHICO,37,Quem te viu quem te ve,15,PAppppP,ntbn
+CHICO,37,Quem te viu quem te ve,16,PPPs,tn
+CHICO,37,Quem te viu quem te ve,17,PAAppua,ntbn
+CHICO,38,Roda viva,1,uuuuuuAa,grjjc
+CHICO,38,Roda viva,2,uuuuuuS,grjj
+CHICO,38,Roda viva,3,uuuAupau,grljc
+CHICO,38,Roda viva,4,uuuSupa,grjn
+CHICO,38,Roda viva,5,uuuAuppa,grjnc
+CHICO,38,Roda viva,6,uuuPupp,grjn
+CHICO,38,Roda viva,7,uuupPpp,grjn
+CHICO,38,Roda viva,8,uuuuAuPP,osjn
+CHICO,38,Roda viva,9,uAuuuuSu,ptqc
+CHICO,38,Roda viva,10,upuuuuuS,utq
+CHICO,38,Roda viva,11,uuupupau,grjjc
+CHICO,38,Roda viva,12,uuupupa,grjj
+CHICO,39,Samba de Orly,1,APu,babn
+CHICO,39,Samba de Orly,2,Pppp,tn
+CHICO,39,Samba de Orly,3,Pppp,tn
+CHICO,39,Samba de Orly,4,Pppp,tn
+CHICO,39,Samba de Orly,5,ASappa,jlnc
+CHICO,39,Samba de Orly,6,uuppppa,nrnc
+CHICO,39,Samba de Orly,7,uuppppPsAA,nrnnn
+CHICO,39,Samba de Orly,8,APu,babn
+CHICO,39,Samba de Orly,9,Pppp,tn
+CHICO,39,Samba de Orly,10,Ppppp,tnc
+CHICO,39,Samba de Orly,11,PSaap,jbnc
+CHICO,39,Samba de Orly,12,PSapp,jbnc
+CHICO,39,Samba de Orly,13,PSsAp,jbnc
+CHICO,39,Samba de Orly,14,PAapp,jbnc
+CHICO,39,Samba de Orly,15,PSaap,jbnc
+CHICO,39,Samba de Orly,16,PSapp,jbnc
+CHICO,39,Samba de Orly,17,pPSsAp,rbnc
+CHICO,39,Samba de Orly,18,PAapp,jbnaaaab
+CHICO,40,Sem fantasia,1,AaappSp,bantbab
+CHICO,40,Sem fantasia,2,ApaSpa,baptb
+CHICO,40,Sem fantasia,3,aPPppAu,baptbb
+CHICO,40,Sem fantasia,4,PPppAu,ptbb
+CHICO,40,Sem fantasia,5,PPppp,ptb
+CHICO,40,Sem fantasia,6,AaappSu,bantbb
+CHICO,40,Sem fantasia,7,PPppAu,ptbb
+CHICO,40,Sem fantasia,8,PPppAu,ptbb
+CHICO,40,Sem fantasia,9,ApppPAs,baptbb
+CHICO,40,Sem fantasia,10,PPppSp,ptbb
+CHICO,40,Sem fantasia,11,PApa,ot
+CHICO,40,Sem fantasia,12,PPppAs,tjbb
+CHICO,40,Sem fantasia,13,PPppSs,tjbb
+CHICO,40,Sem fantasia,14,PPppaPP,tjbabab
+CHICO,41,Samba e amor,1,pPAappaAPP,grnnnaab
+CHICO,41,Samba e amor,2,pPAappaAa,grnnn
+CHICO,41,Samba e amor,3,SsuuS,grn
+CHICO,41,Samba e amor,4,uuSs,nnc
+CHICO,41,Samba e amor,5,Sp,nc
+CHICO,41,Samba e amor,6,aPPAppp,nnnan
+CHICO,41,Samba e amor,7,AaaSpaaSup,nnnnnc
+CHICO,41,Samba e amor,8,pPPPaPPPa,nnnnn
+CHICO,41,Samba e amor,9,uuuuAuuuAu,nnnnnaab
+CHICO,41,Samba e amor,10,uAAAppaPa,gvrn
+CHICO,42,Sob medida,1,PApPa,jjj
+CHICO,42,Sob medida,2,PPpPa,jjj
+CHICO,42,Sob medida,3,PPP,jbb
+CHICO,42,Sob medida,4,PPpPa,jjj
+CHICO,42,Sob medida,5,PApPaPPPP,jbjbjbb
+CHICO,42,Sob medida,6,PAaAap,jjjb
+CHICO,42,Sob medida,7,pPpPpPsPP,ejjjjb
+CHICO,42,Sob medida,8,uuuPp,esbb
+CHICO,42,Sob medida,9,ppuuu,jjj
+CHICO,42,Sob medida,10,PSuuu,jjj
+CHICO,42,Sob medida,11,ppp,jbb
+CHICO,42,Sob medida,12,ppp,jbb
+CHICO,42,Sob medida,13,PAP,jj
+CHICO,42,Sob medida,14,PPaPP,ekdj
+CHICO,42,Sob medida,15,PPapPaPaPa,ekdkdkdb
+CHICO,42,Sob medida,16,PAP,jj
+CHICO,42,Sob medida,17,PPaPP,esj
+CHICO,42,Sob medida,18,ppPPp,osb
+CHICO,43,Tatuagem,1,uuuupAu,sbjj
+CHICO,43,Tatuagem,2,uupAu,ojj
+CHICO,43,Tatuagem,3,ppppuu,sjj
+CHICO,43,Tatuagem,4,uuuuu,ojj
+CHICO,43,Tatuagem,5,uuuu,ojb
+CHICO,43,Tatuagem,6,pPpPpPpPpPPpp,jjjjjjj
+CHICO,43,Tatuagem,7,ppu,jj
+CHICO,43,Tatuagem,8,PpP,ebeb
+CHICO,43,Tatuagem,9,uua,jbe
+CHICO,43,Tatuagem,10,pPpP,seb
+CHICO,43,Tatuagem,11,PpPpPPpp,jejjj
+CHICO,43,Tatuagem,12,ppupPpPu,ejbjebb
+CHICO,43,Tatuagem,13,uua,jj
+CHICO,44,Vai trabalhar vagabundo,1,ApA,jj
+CHICO,44,Vai trabalhar vagabundo,2,uuu,nj
+CHICO,44,Vai trabalhar vagabundo,3,ApA,jj
+CHICO,44,Vai trabalhar vagabundo,4,uuu,nj
+CHICO,44,Vai trabalhar vagabundo,5,ApA,jj
+CHICO,44,Vai trabalhar vagabundo,6,uuu,nj
+CHICO,44,Vai trabalhar vagabundo,7,uupp,jjc
+CHICO,44,Vai trabalhar vagabundo,8,ApA,jj
+CHICO,44,Vai trabalhar vagabundo,9,uuu,nj
+CHICO,44,Vai trabalhar vagabundo,10,ApA,jj
+CHICO,44,Vai trabalhar vagabundo,11,uuu,nj
+CHICO,44,Vai trabalhar vagabundo,12,ApA,jj
+CHICO,44,Vai trabalhar vagabundo,13,uuu,nj
+CHICO,44,Vai trabalhar vagabundo,14,uupp,jjc
+CHICO,44,Vai trabalhar vagabundo,15,pAa,jj
+CHICO,44,Vai trabalhar vagabundo,16,uuu,nj
+CHICO,44,Vai trabalhar vagabundo,17,Aap,jj
+CHICO,44,Vai trabalhar vagabundo,18,uu,nb
+CHICO,44,Vai trabalhar vagabundo,19,uuu,jj
+CHICO,44,Vai trabalhar vagabundo,20,uuu,nj
+CHICO,44,Vai trabalhar vagabundo,21,uuu,jj
+CHICO,44,Vai trabalhar vagabundo,22,pAa,jj
+CHICO,44,Vai trabalhar vagabundo,23,uuu,nj
+CHICO,44,Vai trabalhar vagabundo,24,Aap,jj
+CHICO,44,Vai trabalhar vagabundo,25,uu,nb
+CHICO,44,Vai trabalhar vagabundo,26,uuu,jj
+CHICO,44,Vai trabalhar vagabundo,27,uuu,nj
+CHICO,44,Vai trabalhar vagabundo,28,uuu,jj
+CHICO,45,De todas as maneiras,1,AaAaPsSsS,ebebebjaeb
+CHICO,45,De todas as maneiras,2,Appua,jjj
+CHICO,45,De todas as maneiras,3,SPppPa,ejjj
+CHICO,45,De todas as maneiras,4,PppPaPPup,eejjjbe
+CHICO,45,De todas as maneiras,5,SPpppsSP,ejekdj
+CHICO,45,De todas as maneiras,6,pppup,ekdj
+CHICO,45,De todas as maneiras,7,PAAS,jjb
+CHICO,45,De todas as maneiras,8,puPpuPpp,fdkdkdb
+CHICO,45,De todas as maneiras,9,puPppp,jkdbaaab
+CHICO,45,De todas as maneiras,10,PPPpuPpuA,jkdkdbb
+CHICO,45,De todas as maneiras,11,PpPPp,jjbe
+CHICO,46,De volta ao samba,1,S,n
+CHICO,46,De volta ao samba,2,ppppSp,rnn
+CHICO,46,De volta ao samba,3,SpppPP,nnr
+CHICO,46,De volta ao samba,4,PPppu,etn
+CHICO,46,De volta ao samba,5,PPppa,etn
+CHICO,46,De volta ao samba,6,PAaAP,etn
+CHICO,46,De volta ao samba,7,p,n
+CHICO,46,De volta ao samba,8,S,n
+CHICO,46,De volta ao samba,9,ppppSp,rnn
+CHICO,46,De volta ao samba,10,SpppPP,nnr
+CHICO,46,De volta ao samba,11,PPppu,etn
+CHICO,46,De volta ao samba,12,PPppa,etn
+CHICO,46,De volta ao samba,13,PAaAP,etn
+CHICO,46,De volta ao samba,14,a,bg
+CHICO,46,De volta ao samba,15,APa,nn
+CHICO,46,De volta ao samba,16,SAs,nn
+CHICO,46,De volta ao samba,17,uuuuuuuuu,nmrnc
+CHICO,46,De volta ao samba,18,pp,nb
+CHICO,46,De volta ao samba,19,SPp,nn
+CHICO,46,De volta ao samba,20,PPu,nn
+CHICO,46,De volta ao samba,21,uuuuupaaS,nrrn
+CHICO,46,De volta ao samba,22,p,bg
+CHICO,47,Deixe a menina,1,PPPAApppp,pnnjl
+CHICO,47,Deixe a menina,2,pAAAA,nnj
+CHICO,47,Deixe a menina,3,uuuu,pr
+CHICO,47,Deixe a menina,4,uuuu,pr
+CHICO,47,Deixe a menina,5,PPuuupPPps,gnnqbl
+CHICO,47,Deixe a menina,6,uupPSpp,nqbl
+CHICO,47,Deixe a menina,7,uupPPpp,nqbn
+CHICO,47,Deixe a menina,8,pppPP,nnn
+CHICO,47,Deixe a menina,9,pPPapPP,etnn
+CHICO,47,Deixe a menina,10,PPPPP,nnn
+CHICO,47,Deixe a menina,11,pppPPsu,nnnan
+CHICO,47,Deixe a menina,12,SuuppA,nnjb
+CHICO,47,Deixe a menina,13,puuaAPp,nnjl
+CHICO,47,Deixe a menina,14,suuaASPA,nnmlc
+CHICO,48,Paratodos,1,PPPupuu,ntme
+CHICO,48,Paratodos,2,PPPupuu,ntme
+CHICO,48,Paratodos,3,upuppuu,ntme
+CHICO,48,Paratodos,4,upuppuu,ntme
+CHICO,48,Paratodos,5,upuppuu,ntme
+CHICO,48,Paratodos,6,upuaupu,ntmaab
+CHICO,48,Paratodos,7,PPPPPPu,ntme
+CHICO,48,Paratodos,8,PPPPuPu,ntme
+CHICO,48,Paratodos,9,upuppuu,ntme
+CHICO,48,Paratodos,10,upupupu,ntme
+CHICO,48,Paratodos,11,upuppuu,ntme
+CHICO,48,Paratodos,12,uppupuu,ntmaab
+CHICO,49,Pelas tabelas,1,pppPPPpppPPPp,rrrrn
+CHICO,49,Pelas tabelas,2,pppPPPpppPAA,rrrrc
+CHICO,49,Pelas tabelas,3,uuuuuuuuuu,nrrr
+CHICO,49,Pelas tabelas,4,ppaa,njb
+CHICO,49,Pelas tabelas,5,uuuuuuuuuua,nrrrb
+CHICO,50,Samba do grande amor,1,uuuu,rj
+CHICO,50,Samba do grande amor,2,uuu,pn
+CHICO,50,Samba do grande amor,3,pPpPpPPP,nmtn
+CHICO,50,Samba do grande amor,4,pp,ng
+CHICO,50,Samba do grande amor,5,uuuu,gnj
+CHICO,50,Samba do grande amor,6,uuu,pn
+CHICO,50,Samba do grande amor,7,pPpPpPPP,nmtn
+CHICO,50,Samba do grande amor,8,A,n
+CHICO,50,Samba do grande amor,9,uuuu,gnj
+CHICO,50,Samba do grande amor,10,uuu,pn
+CHICO,50,Samba do grande amor,11,pPpPpPPP,nmtn
+CHICO,50,Samba do grande amor,12,pp,ng
+CHICO,50,Samba do grande amor,13,uuuu,gnj
+CHICO,50,Samba do grande amor,14,uuu,pn
+CHICO,50,Samba do grande amor,15,pPpPpPPP,nmtn
+CHICO,50,Samba do grande amor,16,A,n
+CHICO,50,Samba do grande amor,17,uuuu,gnj
+CHICO,50,Samba do grande amor,18,uuuauuuP,pnnjg
+CHICO,50,Samba do grande amor,19,uuuu,gnj
+CHICO,50,Samba do grande amor,20,uuuPppa,pnnj
+CHICO,50,Samba do grande amor,21,PPApppp,gnql
+CHICO,50,Samba do grande amor,22,PPPpaA,gnrc
+CHICO,50,Samba do grande amor,23,SuupsSua,nnmbn
+CHICO,50,Samba do grande amor,24,pp,el

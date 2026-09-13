@@ -1,0 +1,700 @@
+corpus_id,composition_id,composition_name,word_index,c_word,r_word
+CAETANO,1,A filha da Chiquita Bacana,1,Ppaa,ebje
+CAETANO,1,A filha da Chiquita Bacana,2,uauAAa,jjje
+CAETANO,1,A filha da Chiquita Bacana,3,APuup,jbje
+CAETANO,1,A filha da Chiquita Bacana,4,PPPpppP,jbjej
+CAETANO,1,A filha da Chiquita Bacana,5,uppP,ejbb
+CAETANO,1,A filha da Chiquita Bacana,6,uppAps,ejjj
+CAETANO,1,A filha da Chiquita Bacana,7,uppApa,ejjj
+CAETANO,1,A filha da Chiquita Bacana,8,aSpp,jbj
+CAETANO,1,A filha da Chiquita Bacana,9,uuup,ejj
+CAETANO,1,A filha da Chiquita Bacana,10,aa,bbb
+CAETANO,1,A filha da Chiquita Bacana,11,uPpp,ejj
+CAETANO,1,A filha da Chiquita Bacana,12,aa,bbb
+CAETANO,1,A filha da Chiquita Bacana,13,uPpp,ejj
+CAETANO,1,A filha da Chiquita Bacana,14,uAaa,jbj
+CAETANO,1,A filha da Chiquita Bacana,15,uupPPpp,jjjj
+CAETANO,1,A filha da Chiquita Bacana,16,aa,bbb
+CAETANO,1,A filha da Chiquita Bacana,17,pPpPPpp,jjjj
+CAETANO,1,A filha da Chiquita Bacana,18,aa,bbb
+CAETANO,1,A filha da Chiquita Bacana,19,uPPp,ejj
+CAETANO,1,A filha da Chiquita Bacana,20,Appp,jbj
+CAETANO,2,A outra banda da terra,1,APpu,ebaaeaee
+CAETANO,2,A outra banda da terra,2,Aupup,ebbaabaj
+CAETANO,2,A outra banda da terra,3,ApA,ebaaaj
+CAETANO,2,A outra banda da terra,4,App,jaaabb
+CAETANO,2,A outra banda da terra,5,Appp,jaaabbb
+CAETANO,2,A outra banda da terra,6,APPppa,erje
+CAETANO,2,A outra banda da terra,7,Apu,ejb
+CAETANO,2,A outra banda da terra,8,APPpsSPPppapP,erjrjr
+CAETANO,2,A outra banda da terra,9,APPppa,erje
+CAETANO,2,A outra banda da terra,10,APPppa,erje
+CAETANO,2,A outra banda da terra,11,APPppap,erjj
+CAETANO,3,Atras do trio eletrico,1,ppppp,ejq
+CAETANO,3,Atras do trio eletrico,2,AAs,nj
+CAETANO,3,Atras do trio eletrico,3,AAp,nj
+CAETANO,3,Atras do trio eletrico,4,AAapas,ejjj
+CAETANO,3,Atras do trio eletrico,5,As,ej
+CAETANO,3,Atras do trio eletrico,6,SpsAAsA,ejjjb
+CAETANO,3,Atras do trio eletrico,7,ApsAAsAAAps,ejjjjjb
+CAETANO,3,Atras do trio eletrico,8,AaAaAaAauuA,elllvb
+CAETANO,3,Atras do trio eletrico,9,uuAp,uj
+CAETANO,3,Atras do trio eletrico,10,AaAaAaAauuA,glllvb
+CAETANO,3,Atras do trio eletrico,11,uuAp,uj
+CAETANO,3,Atras do trio eletrico,12,AuaAauAauAauuA,gtttvb
+CAETANO,3,Atras do trio eletrico,13,uuAP,uj
+CAETANO,3,Atras do trio eletrico,14,AaAaAapauuA,glllvb
+CAETANO,3,Atras do trio eletrico,15,uuAP,uj
+CAETANO,4,Baby,1,A,eb
+CAETANO,4,Baby,2,uppuPAP,esjj
+CAETANO,4,Baby,3,Sppa,ejj
+CAETANO,4,Baby,4,Sppa,ejj
+CAETANO,4,Baby,5,Sppa,ejj
+CAETANO,4,Baby,6,A,eb
+CAETANO,4,Baby,7,uppPAA,esjb
+CAETANO,4,Baby,8,pp,q
+CAETANO,4,Baby,9,s,bb
+CAETANO,4,Baby,10,ApPp,esb
+CAETANO,4,Baby,11,pp,q
+CAETANO,4,Baby,12,s,bb
+CAETANO,4,Baby,13,ApPp,esb
+CAETANO,5,Cajuina,1,pPa,glb
+CAETANO,5,Cajuina,2,uuuuupAu,glllbg
+CAETANO,5,Cajuina,3,uua,glb
+CAETANO,5,Cajuina,4,uuuuupAu,glllbg
+CAETANO,5,Cajuina,5,upp,glb
+CAETANO,5,Cajuina,6,uaAuupAu,glllbg
+CAETANO,5,Cajuina,7,upp,glb
+CAETANO,5,Cajuina,8,uuuuupAu,glllbg
+CAETANO,5,Cajuina,9,uauaupupupuu,glllllbg
+CAETANO,5,Cajuina,10,AAAppuaaPPPu,glllllbg
+CAETANO,5,Cajuina,11,AAAppppaPPPu,glllllbg
+CAETANO,5,Cajuina,12,upupupupupu,glllllb
+CAETANO,6,Cinema Olimpia,1,ASp,kdb
+CAETANO,6,Cinema Olimpia,2,pPpppaA,osbaabb
+CAETANO,6,Cinema Olimpia,3,ASp,kdb
+CAETANO,6,Cinema Olimpia,4,pPpppaASp,osbjeb
+CAETANO,6,Cinema Olimpia,5,PpAupp,ejjj
+CAETANO,6,Cinema Olimpia,6,pp,ej
+CAETANO,6,Cinema Olimpia,7,ppp,ejb
+CAETANO,6,Cinema Olimpia,8,PpAuppupp,ejbjjj
+CAETANO,6,Cinema Olimpia,9,PpAuppPPA,ejjjej
+CAETANO,6,Cinema Olimpia,10,aaA,jeb
+CAETANO,6,Cinema Olimpia,11,uuPp,jjb
+CAETANO,6,Cinema Olimpia,12,AuuPpPu,ejjbbb
+CAETANO,6,Cinema Olimpia,13,aaA,jeb
+CAETANO,6,Cinema Olimpia,14,uuPp,jjb
+CAETANO,6,Cinema Olimpia,15,AuuPpPu,ejjbbb
+CAETANO,7,Chuva suor e cerveja,1,uuupu,jjj
+CAETANO,7,Chuva suor e cerveja,2,Auuupup,ejjje
+CAETANO,7,Chuva suor e cerveja,3,ppPPA,ejje
+CAETANO,7,Chuva suor e cerveja,4,uuupu,jjj
+CAETANO,7,Chuva suor e cerveja,5,Auuupu,ejjj
+CAETANO,7,Chuva suor e cerveja,6,uuupPPA,ejjje
+CAETANO,7,Chuva suor e cerveja,7,uuupu,jjj
+CAETANO,7,Chuva suor e cerveja,8,Auuupu,ejjj
+CAETANO,7,Chuva suor e cerveja,9,uppPPP,ejjj
+CAETANO,7,Chuva suor e cerveja,10,aAp,eeee
+CAETANO,7,Chuva suor e cerveja,11,aAa,eeee
+CAETANO,7,Chuva suor e cerveja,12,aPppa,eejj
+CAETANO,7,Chuva suor e cerveja,13,AaAp,jeee
+CAETANO,7,Chuva suor e cerveja,14,aAa,eeee
+CAETANO,7,Chuva suor e cerveja,15,aPppA,eejj
+CAETANO,7,Chuva suor e cerveja,16,AaAaAaA,glllb
+CAETANO,7,Chuva suor e cerveja,17,AaApaA,gljj
+CAETANO,7,Chuva suor e cerveja,18,AaAaAaA,gljjb
+CAETANO,7,Chuva suor e cerveja,19,AaAPPPu,gljje
+CAETANO,7,Chuva suor e cerveja,20,AsAsA,ejjb
+CAETANO,8,Coracao vagabundo,1,PpPpPpPpPp,kdkdkdi
+CAETANO,8,Coracao vagabundo,2,pPpPpPppPp,dkdkdkdb
+CAETANO,8,Coracao vagabundo,3,PpPpPpPpP,kdkdkdb
+CAETANO,8,Coracao vagabundo,4,PPPpPpPpPpP,fdkdkdkdb
+CAETANO,8,Coracao vagabundo,5,PpPpPpPpPp,kdkdkdi
+CAETANO,8,Coracao vagabundo,6,pPpPpPPAas,dkdkdkdb
+CAETANO,8,Coracao vagabundo,7,pppppAp,kdkdi
+CAETANO,8,Coracao vagabundo,8,uppPAupA,djjbbbab
+CAETANO,8,Coracao vagabundo,9,pppppAp,kdkdi
+CAETANO,8,Coracao vagabundo,10,uppPAupp,djjbbbab
+CAETANO,9,Alegria alegria,1,aAaSaPu,ejjjc
+CAETANO,9,Alegria alegria,2,ppPppPu,gjjjc
+CAETANO,9,Alegria alegria,3,aAaSaPu,gjjjae
+CAETANO,9,Alegria alegria,4,P,bb
+CAETANO,9,Alegria alegria,5,aAaSaPu,ejjjc
+CAETANO,9,Alegria alegria,6,ppPppPu,gjjjc
+CAETANO,9,Alegria alegria,7,aAaSaPuu,gjjjbe
+CAETANO,9,Alegria alegria,8,P,bb
+CAETANO,9,Alegria alegria,9,aAaPpAa,gjjjc
+CAETANO,9,Alegria alegria,10,aAaPpA,gjjj
+CAETANO,9,Alegria alegria,11,aAaPpAa,gjjjc
+CAETANO,9,Alegria alegria,12,aAaPpu,gjjj
+CAETANO,9,Alegria alegria,13,ppaaP,ejjb
+CAETANO,9,Alegria alegria,14,Au,je
+CAETANO,9,Alegria alegria,15,ppaaPu,ejjbab
+CAETANO,9,Alegria alegria,16,Au,je
+CAETANO,9,Alegria alegria,17,ppaaPu,ejjbab
+CAETANO,9,Alegria alegria,18,puaAaSaPu,bljjjc
+CAETANO,9,Alegria alegria,19,ppPppPu,gjjjc
+CAETANO,9,Alegria alegria,20,aAaSaP,gjjj
+CAETANO,9,Alegria alegria,21,P,bb
+CAETANO,9,Alegria alegria,22,uaAA,bbaej
+CAETANO,9,Alegria alegria,23,AA,ej
+CAETANO,9,Alegria alegria,24,AA,ej
+CAETANO,9,Alegria alegria,25,AA,ej
+CAETANO,10,A tua presenca morena,1,upPau,gvc
+CAETANO,10,A tua presenca morena,2,uuuuuuupuuuuup,guvuv
+CAETANO,10,A tua presenca morena,3,upPau,gvc
+CAETANO,10,A tua presenca morena,4,uuuupuuuup,ptuq
+CAETANO,10,A tua presenca morena,5,uupPau,nvc
+CAETANO,10,A tua presenca morena,6,uuuuuupuuuup,pvvq
+CAETANO,10,A tua presenca morena,7,uupPau,nvc
+CAETANO,10,A tua presenca morena,8,uuuuuupuuuup,pvvq
+CAETANO,10,A tua presenca morena,9,upPau,gvc
+CAETANO,10,A tua presenca morena,10,uuuupuuuupuuupPau,gttttvc
+CAETANO,10,A tua presenca morena,11,uuuuuupuuup,puvr
+CAETANO,10,A tua presenca morena,12,uupPau,nvc
+CAETANO,10,A tua presenca morena,13,uuuuupu,pmrb
+CAETANO,10,A tua presenca morena,14,uuupuuuuuuppPa,pmrtrl
+CAETANO,11,Avarandado,1,uPPppAu,kdkdbab
+CAETANO,11,Avarandado,2,PPuppSp,eejjbab
+CAETANO,11,Avarandado,3,PPuppSu,eejjbe
+CAETANO,11,Avarandado,4,ppaAppu,jkdbj
+CAETANO,11,Avarandado,5,PPuppAu,eejjbab
+CAETANO,11,Avarandado,6,PPuppSu,eejjbe
+CAETANO,11,Avarandado,7,uPPppau,kdkdbe
+CAETANO,11,Avarandado,8,ppaAPPu,jkdfdb
+CAETANO,11,Avarandado,9,ppaAPPu,fdkdfdb
+CAETANO,11,Avarandado,10,uPPppAu,kdkdbab
+CAETANO,11,Avarandado,11,uPPppSp,kdkdbab
+CAETANO,11,Avarandado,12,uPPppSu,ejkdbe
+CAETANO,11,Avarandado,13,ppaAppu,jbjbj
+CAETANO,11,Avarandado,14,AppS,ebbj
+CAETANO,11,Avarandado,15,Appu,jbj
+CAETANO,11,Avarandado,16,AppS,fdbj
+CAETANO,11,Avarandado,17,Appu,jbj
+CAETANO,11,Avarandado,18,Appu,fdbj
+CAETANO,12,Beleza pura,1,pppPpsP,ejjjb
+CAETANO,12,Beleza pura,2,uuupa,ejlb
+CAETANO,12,Beleza pura,3,psP,ejb
+CAETANO,12,Beleza pura,4,uuupa,ejlb
+CAETANO,12,Beleza pura,5,psP,ejb
+CAETANO,12,Beleza pura,6,PpPpPpPpPpPpa,ssssj
+CAETANO,12,Beleza pura,7,paA,jj
+CAETANO,12,Beleza pura,8,pPpPpPpPpPpa,osssj
+CAETANO,12,Beleza pura,9,paA,jj
+CAETANO,12,Beleza pura,10,pPpPpPpPpPpa,osssj
+CAETANO,12,Beleza pura,11,paApa,jjm
+CAETANO,12,Beleza pura,12,paApa,jjm
+CAETANO,13,Cavaleiro de Jorge,1,uuAapp,jjje
+CAETANO,13,Cavaleiro de Jorge,2,SpaA,ejj
+CAETANO,13,Cavaleiro de Jorge,3,ApaS,ejj
+CAETANO,13,Cavaleiro de Jorge,4,Pp,je
+CAETANO,13,Cavaleiro de Jorge,5,aaaAAAp,jjjj
+CAETANO,13,Cavaleiro de Jorge,6,aaAAPP,ejjj
+CAETANO,13,Cavaleiro de Jorge,7,aaaAAP,ejjj
+CAETANO,13,Cavaleiro de Jorge,8,aaaAAAp,jjjj
+CAETANO,13,Cavaleiro de Jorge,9,aaSpaa,ejjj
+CAETANO,13,Cavaleiro de Jorge,10,aaApaa,ejjj
+CAETANO,13,Cavaleiro de Jorge,11,uuAap,jjj
+CAETANO,13,Cavaleiro de Jorge,12,ApaA,ejj
+CAETANO,13,Cavaleiro de Jorge,13,ApaSpaa,ejjaje
+CAETANO,14,Como dois e dois,1,ppAuuau,sbebeb
+CAETANO,14,Como dois e dois,2,aPPaPPPPPa,sssbab
+CAETANO,14,Como dois e dois,3,ppAppAp,ssh
+CAETANO,14,Como dois e dois,4,PaA,sb
+CAETANO,14,Como dois e dois,5,ppAppAppSpp,ssslb
+CAETANO,14,Como dois e dois,6,aa,pb
+CAETANO,14,Como dois e dois,7,ppaAppaAuaa,plssh
+CAETANO,14,Como dois e dois,8,ppaAppaAuap,phvjj
+CAETANO,15,Drama,1,appPPP,ejub
+CAETANO,15,Drama,2,upupa,ejaaob
+CAETANO,15,Drama,3,PPPPp,vj
+CAETANO,15,Drama,4,ua,ej
+CAETANO,15,Drama,5,ua,ej
+CAETANO,15,Drama,6,AuuupPApppa,essjpb
+CAETANO,15,Drama,7,Pppu,oib
+CAETANO,15,Drama,8,PpAa,jje
+CAETANO,15,Drama,9,PpAa,ejj
+CAETANO,15,Drama,10,upPpPppSA,pjpjaeb
+CAETANO,15,Drama,11,ppppp,ebsb
+CAETANO,15,Drama,12,ppppPaAu,ejjjj
+CAETANO,15,Drama,13,psSu,sj
+CAETANO,15,Drama,14,PpAapu,sjj
+CAETANO,15,Drama,15,uAauuPpAa,ojejej
+CAETANO,15,Drama,16,upAppSs,gvbaj
+CAETANO,15,Drama,17,pppppu,ejjj
+CAETANO,15,Drama,18,ppAppAs,sbpj
+CAETANO,15,Drama,19,AppppaSpp,ejjjpb
+CAETANO,15,Drama,20,ppAppAs,sbpj
+CAETANO,15,Drama,21,AppppaSpp,ejjjob
+CAETANO,16,Luz do sol,1,ps,jb
+CAETANO,16,Luz do sol,2,PPPpsP,sbjb
+CAETANO,16,Luz do sol,3,aAA,ejb
+CAETANO,16,Luz do sol,4,Appaapppu,ejjjjb
+CAETANO,16,Luz do sol,5,uuuua,vj
+CAETANO,16,Luz do sol,6,uuuuPApa,vtm
+CAETANO,16,Luz do sol,7,uuuua,vj
+CAETANO,16,Luz do sol,8,uuuuPAp,vte
+CAETANO,16,Luz do sol,9,PpPpPu,vq
+CAETANO,16,Luz do sol,10,pPpPp,uq
+CAETANO,16,Luz do sol,11,pPpPpa,uqb
+CAETANO,16,Luz do sol,12,PpPpPp,vpb
+CAETANO,16,Luz do sol,13,pPpPp,gvb
+CAETANO,16,Luz do sol,14,pPpPpa,psj
+CAETANO,16,Luz do sol,15,PpPpPp,vt
+CAETANO,16,Luz do sol,16,pPpPp,uq
+CAETANO,16,Luz do sol,17,pPpPpa,osh
+CAETANO,16,Luz do sol,18,Aa,ebb
+CAETANO,16,Luz do sol,19,Ps,ebb
+CAETANO,16,Luz do sol,20,ps,jb
+CAETANO,16,Luz do sol,21,PPPpsP,sbjb
+CAETANO,16,Luz do sol,22,aAA,ejb
+CAETANO,16,Luz do sol,23,Appaapppu,ejjjjb
+CAETANO,17,Dom de iludir,1,PPaPPpPPaPPppP,jbjkdbjkdb
+CAETANO,17,Dom de iludir,2,PPaPPuPPaPPppP,jbjbjbjkdb
+CAETANO,17,Dom de iludir,3,PPaPPpPPaPPppP,jbjbjbjbjb
+CAETANO,17,Dom de iludir,4,PPaPPaPPaPPaPp,jbjkdbjkdb
+CAETANO,18,Lua lua lua lua,1,PaPaPaP,vv
+CAETANO,18,Lua lua lua lua,2,ppPP,vc
+CAETANO,18,Lua lua lua lua,3,PPaPpppaP,gvuh
+CAETANO,18,Lua lua lua lua,4,ppPuP,vh
+CAETANO,18,Lua lua lua lua,5,PPPPpppPuPp,guvcej
+CAETANO,18,Lua lua lua lua,6,PaPaPaP,vv
+CAETANO,18,Lua lua lua lua,7,ppPPPPPPPpppp,vvvj
+CAETANO,18,Lua lua lua lua,8,PaPaPap,uvb
+CAETANO,18,Lua lua lua lua,9,pp,gbab
+CAETANO,18,Lua lua lua lua,10,PaPaPaP,vv
+CAETANO,18,Lua lua lua lua,11,PaPaPaP,vv
+CAETANO,19,Jeito de corpo,1,PPpppp,tv
+CAETANO,19,Jeito de corpo,2,pppp,pq
+CAETANO,19,Jeito de corpo,3,PPpppa,tv
+CAETANO,19,Jeito de corpo,4,PPpppp,sv
+CAETANO,19,Jeito de corpo,5,pppp,pq
+CAETANO,19,Jeito de corpo,6,PPpppa,tv
+CAETANO,19,Jeito de corpo,7,PPpppa,tv
+CAETANO,19,Jeito de corpo,8,PPpppa,tv
+CAETANO,19,Jeito de corpo,9,PPpppp,uv
+CAETANO,19,Jeito de corpo,10,Spppp,uq
+CAETANO,19,Jeito de corpo,11,PPpppa,tv
+CAETANO,19,Jeito de corpo,12,PPpppa,tv
+CAETANO,19,Jeito de corpo,13,PPpppa,sv
+CAETANO,19,Jeito de corpo,14,PPppppa,svc
+CAETANO,19,Jeito de corpo,15,ppAppAppA,tvu
+CAETANO,19,Jeito de corpo,16,pPaApAp,ort
+CAETANO,20,Eclipse oculto,1,uuuuu,jjj
+CAETANO,20,Eclipse oculto,2,uuuuuupaa,ejjjej
+CAETANO,20,Eclipse oculto,3,a,ee
+CAETANO,20,Eclipse oculto,4,uuuuup,ejeje
+CAETANO,20,Eclipse oculto,5,uuu,jj
+CAETANO,20,Eclipse oculto,6,uuPpp,jjj
+CAETANO,20,Eclipse oculto,7,puaAP,ejej
+CAETANO,20,Eclipse oculto,8,ApppPPpPPP,ejbjbjbb
+CAETANO,20,Eclipse oculto,9,ppa,bbbab
+CAETANO,20,Eclipse oculto,10,ppapP,bbbbbb
+CAETANO,20,Eclipse oculto,11,ppa,bbbab
+CAETANO,20,Eclipse oculto,12,ppapP,bbbbbb
+CAETANO,20,Eclipse oculto,13,ppapP,bbbajb
+CAETANO,20,Eclipse oculto,14,uuuA,bbbbb
+CAETANO,20,Eclipse oculto,15,Sup,eje
+CAETANO,21,Ele me deu um beijo na boca,1,Au,ej
+CAETANO,21,Ele me deu um beijo na boca,2,uppuupPPapp,ejjjjq
+CAETANO,21,Ele me deu um beijo na boca,3,AaAuaAaAa,ejjjej
+CAETANO,21,Ele me deu um beijo na boca,4,AuaSs,ejjae
+CAETANO,21,Ele me deu um beijo na boca,5,uPaa,kdbe
+CAETANO,21,Ele me deu um beijo na boca,6,AauAa,ejjb
+CAETANO,21,Ele me deu um beijo na boca,7,AaAaAaSs,ejjjbb
+CAETANO,21,Ele me deu um beijo na boca,8,uPaa,ejbb
+CAETANO,21,Ele me deu um beijo na boca,9,uuuuuppPPaa,ejbbbbejbb
+CAETANO,21,Ele me deu um beijo na boca,10,AaAaAa,ejjj
+CAETANO,21,Ele me deu um beijo na boca,11,Ss,ebb
+CAETANO,21,Ele me deu um beijo na boca,12,uPaa,bajbb
+CAETANO,21,Ele me deu um beijo na boca,13,Auu,ejb
+CAETANO,21,Ele me deu um beijo na boca,14,AaAPaa,ebebebb
+CAETANO,21,Ele me deu um beijo na boca,15,SuaP,ebbbe
+CAETANO,21,Ele me deu um beijo na boca,16,PPaa,jje
+CAETANO,21,Ele me deu um beijo na boca,17,AuaAaAaA,ebjjjb
+CAETANO,21,Ele me deu um beijo na boca,18,uAaSa,ebjbb
+CAETANO,21,Ele me deu um beijo na boca,19,pPpPPaa,jjjj
+CAETANO,22,Esse cara,1,sPPPP,bajjb
+CAETANO,22,Esse cara,2,PPPa,kdbb
+CAETANO,22,Esse cara,3,Appppp,ebekdb
+CAETANO,22,Esse cara,4,Sppppp,ejkdb
+CAETANO,22,Esse cara,5,SuppPau,jjpj
+CAETANO,22,Esse cara,6,PP,jb
+CAETANO,22,Esse cara,7,AppppPP,ejbbajb
+CAETANO,22,Esse cara,8,PPppSppp,jkdbpb
+CAETANO,22,Esse cara,9,PPaAAppp,jbjkdb
+CAETANO,22,Esse cara,10,PPppPPppPPu,jjjjjbb
+CAETANO,22,Esse cara,11,pPa,kdb
+CAETANO,22,Esse cara,12,pPau,kdbab
+CAETANO,22,Esse cara,13,PPPPPApp,kdkdjb
+CAETANO,23,Gema,1,AAa,nn
+CAETANO,23,Gema,2,apuapuu,pnnj
+CAETANO,23,Gema,3,apuapu,ppne
+CAETANO,23,Gema,4,ppa,pn
+CAETANO,23,Gema,5,AAa,raaaab
+CAETANO,23,Gema,6,AAa,raaaab
+CAETANO,23,Gema,7,AAa,rc
+CAETANO,23,Gema,8,apuapuu,pnnj
+CAETANO,23,Gema,9,apuapuu,ppnj
+CAETANO,23,Gema,10,ppa,pn
+CAETANO,24,Gente,1,ppap,jeeb
+CAETANO,24,Gente,2,ppapS,jeebb
+CAETANO,24,Gente,3,papa,jeeb
+CAETANO,24,Gente,4,papaS,jeebb
+CAETANO,24,Gente,5,paap,jeeb
+CAETANO,24,Gente,6,paap,jeeb
+CAETANO,24,Gente,7,pa,bj
+CAETANO,24,Gente,8,paap,jeeb
+CAETANO,24,Gente,9,paapp,jeebb
+CAETANO,24,Gente,10,ppApp,jeje
+CAETANO,24,Gente,11,ppApp,jeje
+CAETANO,24,Gente,12,ppAppPP,jejej
+CAETANO,24,Gente,13,ppap,jeeb
+CAETANO,24,Gente,14,paappp,jeebbb
+CAETANO,25,Irene,1,Pppuppu,pmnj
+CAETANO,25,Irene,2,uppu,rm
+CAETANO,25,Irene,3,uppua,rmg
+CAETANO,25,Irene,4,uppupu,rmh
+CAETANO,25,Irene,5,upup,rm
+CAETANO,25,Irene,6,puPpp,njj
+CAETANO,25,Irene,7,Ppp,pm
+CAETANO,25,Irene,8,App,pm
+CAETANO,25,Irene,9,Ap,pe
+CAETANO,25,Irene,10,App,pm
+CAETANO,25,Irene,11,App,pm
+CAETANO,25,Irene,12,Aup,pj
+CAETANO,25,Irene,13,upup,rn
+CAETANO,25,Irene,14,puPpp,njj
+CAETANO,26,London London,1,uApppApa,gbsasb
+CAETANO,26,London London,2,uuuuppApa,gbsbsb
+CAETANO,26,London London,3,uuuuppApa,gbsbsb
+CAETANO,26,London London,4,uupp,sj
+CAETANO,26,London London,5,puuppuApp,gbsbsb
+CAETANO,26,London London,6,aP,nb
+CAETANO,26,London London,7,App,gr
+CAETANO,26,London London,8,aupAau,mrm
+CAETANO,26,London London,9,aP,nb
+CAETANO,26,London London,10,App,gr
+CAETANO,26,London London,11,aupAau,mrm
+CAETANO,27,Milagres do povo,1,uPP,sb
+CAETANO,27,Milagres do povo,2,uuupupP,sjjb
+CAETANO,27,Milagres do povo,3,PPPppa,ssb
+CAETANO,27,Milagres do povo,4,Auppa,ejjb
+CAETANO,27,Milagres do povo,5,uuppa,ejjb
+CAETANO,27,Milagres do povo,6,uPP,sb
+CAETANO,27,Milagres do povo,7,uuupupP,sjjb
+CAETANO,27,Milagres do povo,8,uuuppa,ess
+CAETANO,27,Milagres do povo,9,Puppa,ejjb
+CAETANO,27,Milagres do povo,10,upupupup,ejjjj
+CAETANO,27,Milagres do povo,11,pPpPpPp,rnnc
+CAETANO,27,Milagres do povo,12,pPpPpPp,gnnnc
+CAETANO,27,Milagres do povo,13,aApa,bjl
+CAETANO,27,Milagres do povo,14,SaPap,naele
+CAETANO,27,Milagres do povo,15,auPap,cjlc
+CAETANO,27,Milagres do povo,16,auPap,bjt
+CAETANO,27,Milagres do povo,17,auPap,cjlc
+CAETANO,27,Milagres do povo,18,auPap,cjjb
+CAETANO,27,Milagres do povo,19,aPpap,cjlc
+CAETANO,27,Milagres do povo,20,aPp,bel
+CAETANO,27,Milagres do povo,21,aApap,cjlc
+CAETANO,28,Louco por voce,1,PPPPA,jjbb
+CAETANO,28,Louco por voce,2,Spps,jbaaj
+CAETANO,28,Louco por voce,3,paaA,babaeeb
+CAETANO,28,Louco por voce,4,PPPPA,jbbj
+CAETANO,28,Louco por voce,5,SppA,jbaj
+CAETANO,28,Louco por voce,6,paApa,ebaaababj
+CAETANO,28,Louco por voce,7,AP,ebb
+CAETANO,28,Louco por voce,8,AaA,ejb
+CAETANO,28,Louco por voce,9,AaAP,ebje
+CAETANO,28,Louco por voce,10,AaAP,ebje
+CAETANO,28,Louco por voce,11,PPP,jbb
+CAETANO,28,Louco por voce,12,ApSpps,jjbaaj
+CAETANO,28,Louco por voce,13,PpPppaaA,bjebbaeeb
+CAETANO,28,Louco por voce,14,PPPPAp,jjjae
+CAETANO,28,Louco por voce,15,ppApp,ebaajaaaeb
+CAETANO,28,Louco por voce,16,Apa,ebj
+CAETANO,28,Louco por voce,17,P,bb
+CAETANO,28,Louco por voce,18,AaA,ejb
+CAETANO,28,Louco por voce,19,AaAP,ejbe
+CAETANO,28,Louco por voce,20,AaAPs,ejbbb
+CAETANO,29,Lua de Sao Jorge,1,PAPPP,rje
+CAETANO,29,Lua de Sao Jorge,2,ppppA,rje
+CAETANO,29,Lua de Sao Jorge,3,PPPPP,rje
+CAETANO,29,Lua de Sao Jorge,4,pppp,rj
+CAETANO,29,Lua de Sao Jorge,5,PAPPP,rje
+CAETANO,29,Lua de Sao Jorge,6,ppppA,rje
+CAETANO,29,Lua de Sao Jorge,7,PPPPP,rje
+CAETANO,29,Lua de Sao Jorge,8,pppa,rj
+CAETANO,29,Lua de Sao Jorge,9,pppaP,rje
+CAETANO,29,Lua de Sao Jorge,10,PAPPP,rje
+CAETANO,29,Lua de Sao Jorge,11,ppppAp,rjeab
+CAETANO,30,Minha voz minha vida,1,PPaPPa,jbaajbb
+CAETANO,30,Minha voz minha vida,2,PPPPAPAPa,ojsjb
+CAETANO,30,Minha voz minha vida,3,ppsSpa,jbabbbb
+CAETANO,30,Minha voz minha vida,4,paaaAaSpaaaA,jsjsjb
+CAETANO,30,Minha voz minha vida,5,PaAPaAPsAPApa,ssssbab
+CAETANO,30,Minha voz minha vida,6,PsAPsAPsAAAps,ssssbab
+CAETANO,30,Minha voz minha vida,7,PPaPPa,jbaajbb
+CAETANO,30,Minha voz minha vida,8,PPPPAPAPa,ojsjb
+CAETANO,30,Minha voz minha vida,9,ppsSpa,jbabbbb
+CAETANO,30,Minha voz minha vida,10,paaaA,jsb
+CAETANO,30,Minha voz minha vida,11,Spaa,esb
+CAETANO,30,Minha voz minha vida,12,SaaA,esb
+CAETANO,30,Minha voz minha vida,13,SpaaaA,esjb
+CAETANO,31,Menino do Rio,1,ppPpu,gve
+CAETANO,31,Menino do Rio,2,upPppPpu,gvuc
+CAETANO,31,Menino do Rio,3,upPpppPa,gvuc
+CAETANO,31,Menino do Rio,4,upPpppPa,gvuc
+CAETANO,31,Menino do Rio,5,Pa,nb
+CAETANO,31,Menino do Rio,6,ppPa,sj
+CAETANO,31,Menino do Rio,7,Sups,uj
+CAETANO,31,Menino do Rio,8,pppPu,gve
+CAETANO,31,Menino do Rio,9,upPpppPu,gvuc
+CAETANO,31,Menino do Rio,10,upPppPpp,gvue
+CAETANO,31,Menino do Rio,11,uPa,gq
+CAETANO,31,Menino do Rio,12,Aa,gm
+CAETANO,31,Menino do Rio,13,PapuP,gmaej
+CAETANO,31,Menino do Rio,14,PapuP,gpej
+CAETANO,31,Menino do Rio,15,PpppP,gve
+CAETANO,31,Menino do Rio,16,uPpApppppapp,gsjjejj
+CAETANO,31,Menino do Rio,17,ppPpu,gve
+CAETANO,31,Menino do Rio,18,upPppPpu,gvph
+CAETANO,31,Menino do Rio,19,upPppPpp,gvue
+CAETANO,32,No dia em que eu vim-me embora,1,pppAppp,jjjj
+CAETANO,32,No dia em que eu vim-me embora,2,pppAppp,ojjj
+CAETANO,32,No dia em que eu vim-me embora,3,pppAppp,ojjj
+CAETANO,32,No dia em que eu vim-me embora,4,pppAppp,ojjj
+CAETANO,32,No dia em que eu vim-me embora,5,pppAppp,ojjj
+CAETANO,32,No dia em que eu vim-me embora,6,PPSuPpp,ojjj
+CAETANO,32,No dia em que eu vim-me embora,7,AAAppa,ssb
+CAETANO,32,No dia em que eu vim-me embora,8,pppAppp,sbbbbe
+CAETANO,32,No dia em que eu vim-me embora,9,pppAppp,kdbbbbe
+CAETANO,32,No dia em que eu vim-me embora,10,pppAppp,jbjeeae
+CAETANO,32,No dia em que eu vim-me embora,11,pppAppp,jbjeeae
+CAETANO,32,No dia em que eu vim-me embora,12,AAAuPpp,jbjeeae
+CAETANO,32,No dia em que eu vim-me embora,13,AAAppa,kdkdb
+CAETANO,32,No dia em que eu vim-me embora,14,puuApuu,ebekdbe
+CAETANO,32,No dia em que eu vim-me embora,15,puAuApu,ebjfdbe
+CAETANO,32,No dia em que eu vim-me embora,16,puuuApuu,ekdkdbe
+CAETANO,32,No dia em que eu vim-me embora,17,puuAuPu,ebjfdbe
+CAETANO,32,No dia em que eu vim-me embora,18,puuuApuu,ekdkdbe
+CAETANO,32,No dia em que eu vim-me embora,19,puAApA,ebjfdb
+CAETANO,33,Massa real,1,uuPppp,jjej
+CAETANO,33,Massa real,2,uuPpap,jjej
+CAETANO,33,Massa real,3,uuPpaP,jjej
+CAETANO,33,Massa real,4,uPpaP,ejej
+CAETANO,33,Massa real,5,uPpaP,ejbj
+CAETANO,33,Massa real,6,uuPppp,jjej
+CAETANO,33,Massa real,7,AaA,bbj
+CAETANO,33,Massa real,8,AaA,bbj
+CAETANO,33,Massa real,9,AaAaAaa,glllb
+CAETANO,33,Massa real,10,uuuauPP,jjejb
+CAETANO,33,Massa real,11,AaAaAaa,elllb
+CAETANO,33,Massa real,12,uuuaPa,jjej
+CAETANO,34,Mel,1,apappa,nsj
+CAETANO,34,Mel,2,aA,bm
+CAETANO,34,Mel,3,uappAapp,urt
+CAETANO,34,Mel,4,aPPPpp,banrc
+CAETANO,34,Mel,5,PPPppAaapp,ntmub
+CAETANO,34,Mel,6,PPAaapp,rvb
+CAETANO,34,Mel,7,PPAppppp,rvj
+CAETANO,34,Mel,8,s,p
+CAETANO,34,Mel,9,pppAaa,prp
+CAETANO,34,Mel,10,ppAa,rh
+CAETANO,34,Mel,11,ppAa,rj
+CAETANO,34,Mel,12,ppAa,uj
+CAETANO,34,Mel,13,aAa,nh
+CAETANO,34,Mel,14,ppAa,rh
+CAETANO,34,Mel,15,aAaApppPP,njvh
+CAETANO,34,Mel,16,ppAa,rh
+CAETANO,34,Mel,17,ppAa,rh
+CAETANO,34,Mel,18,PPppPPppP,ntnr
+CAETANO,34,Mel,19,ppPPP,grj
+CAETANO,34,Mel,20,PPppPPppPPppPPP,ptmrtu
+CAETANO,34,Mel,21,PPppPPppPPppPPP,pqnvmr
+CAETANO,34,Mel,22,PPppPPupp,ptnq
+CAETANO,34,Mel,23,pPPP,ctb
+CAETANO,34,Mel,24,PPppPPpupP,ptuq
+CAETANO,34,Mel,25,ppPPP,muc
+CAETANO,35,Meu bem meu mal,1,SaPPap,gbsj
+CAETANO,35,Meu bem meu mal,2,ua,pe
+CAETANO,35,Meu bem meu mal,3,pPAppaAPpap,gjslsb
+CAETANO,35,Meu bem meu mal,4,SaPPap,gbsj
+CAETANO,35,Meu bem meu mal,5,pp,gj
+CAETANO,35,Meu bem meu mal,6,pPAppaApap,gjsbsb
+CAETANO,35,Meu bem meu mal,7,SaPPa,gbsb
+CAETANO,35,Meu bem meu mal,8,paPAa,gjob
+CAETANO,35,Meu bem meu mal,9,SsPPasS,gbnenb
+CAETANO,35,Meu bem meu mal,10,uPuPuP,vpc
+CAETANO,35,Meu bem meu mal,11,paappA,ghnh
+CAETANO,35,Meu bem meu mal,12,paappA,gbsh
+CAETANO,35,Meu bem meu mal,13,paapp,gbsb
+CAETANO,35,Meu bem meu mal,14,A,h
+CAETANO,35,Meu bem meu mal,15,Apaa,pau
+CAETANO,36,Muito,1,AaAPp,gsj
+CAETANO,36,Muito,2,APAPPppaPA,nssgj
+CAETANO,36,Muito,3,ppsPA,nlh
+CAETANO,36,Muito,4,ppaAAsp,nlhaj
+CAETANO,36,Muito,5,APAPPppaPA,nssgj
+CAETANO,36,Muito,6,ppsPA,nlj
+CAETANO,36,Muito,7,ppaAA,nlj
+CAETANO,36,Muito,8,auuPps,bbasbb
+CAETANO,36,Muito,9,a,bb
+CAETANO,36,Muito,10,uPpsSs,sbbbb
+CAETANO,37,Nao identificado,1,aPP,kdb
+CAETANO,37,Nao identificado,2,aPPAppp,kdbejb
+CAETANO,37,Nao identificado,3,AaAuap,ejbej
+CAETANO,37,Nao identificado,4,Aap,jbb
+CAETANO,37,Nao identificado,5,PpPpPAppp,ejjjjb
+CAETANO,37,Nao identificado,6,aPP,kdb
+CAETANO,37,Nao identificado,7,aPPAppp,ejbejb
+CAETANO,37,Nao identificado,8,ppaAaA,ejbje
+CAETANO,37,Nao identificado,9,pPP,bje
+CAETANO,37,Nao identificado,10,uPPaPApaa,ejjjjb
+CAETANO,37,Nao identificado,11,uPPaPApaa,ejjjjb
+CAETANO,37,Nao identificado,12,uPPaPApaau,ejjjjj
+CAETANO,37,Nao identificado,13,uuPPaPApaau,pjjjjbb
+CAETANO,38,Nosso estranho amor,1,AppAppApp,gvsj
+CAETANO,38,Nosso estranho amor,2,AppAppApaA,uvsb
+CAETANO,38,Nosso estranho amor,3,AppAppApp,gvsj
+CAETANO,38,Nosso estranho amor,4,PsAaA,uq
+CAETANO,38,Nosso estranho amor,5,AppAppApp,gvsj
+CAETANO,38,Nosso estranho amor,6,uuupPpPaPaA,uvvb
+CAETANO,38,Nosso estranho amor,7,AppAppApp,gvsj
+CAETANO,38,Nosso estranho amor,8,PsAaA,uq
+CAETANO,38,Nosso estranho amor,9,ppa,bej
+CAETANO,38,Nosso estranho amor,10,pppppp,ssb
+CAETANO,38,Nosso estranho amor,11,pppppp,ssb
+CAETANO,38,Nosso estranho amor,12,PPPPP,pbbbb
+CAETANO,38,Nosso estranho amor,13,ppa,bej
+CAETANO,38,Nosso estranho amor,14,pppppp,ssb
+CAETANO,38,Nosso estranho amor,15,pppppp,ssb
+CAETANO,38,Nosso estranho amor,16,PPPPpp,pbbbbb
+CAETANO,39,Odara,1,pPp,kdb
+CAETANO,39,Odara,2,PPppppPp,fdkdbje
+CAETANO,39,Odara,3,pPp,bje
+CAETANO,39,Odara,4,PPppppPp,fdkdbje
+CAETANO,39,Odara,5,pPp,kdb
+CAETANO,39,Odara,6,PPppppPp,fdkdbje
+CAETANO,39,Odara,7,PPppPpPp,fdkdbje
+CAETANO,39,Odara,8,uPPppapPp,kdkdbje
+CAETANO,39,Odara,9,PPpppp,fdkdj
+CAETANO,40,O leaozinho,1,Auuuuu,lllb
+CAETANO,40,O leaozinho,2,ppp,lbb
+CAETANO,40,O leaozinho,3,Auuuu,lll
+CAETANO,40,O leaozinho,4,Auuuuu,lllb
+CAETANO,40,O leaozinho,5,ppp,lbb
+CAETANO,40,O leaozinho,6,Auuuuu,lllb
+CAETANO,40,O leaozinho,7,ppap,llb
+CAETANO,40,O leaozinho,8,Auuuuu,lllb
+CAETANO,40,O leaozinho,9,ppp,lbb
+CAETANO,41,O quereres,1,uPpuPpuuuP,prrq
+CAETANO,41,O quereres,2,uuPpuPpuuA,urtm
+CAETANO,41,O quereres,3,uuuuPpuuP,nrtm
+CAETANO,41,O quereres,4,uuPpuPpuuP,urtm
+CAETANO,41,O quereres,5,uAauAaAAp,prtm
+CAETANO,41,O quereres,6,uuAauAauuP,urtm
+CAETANO,41,O quereres,7,uAauAaAaa,nrtm
+CAETANO,41,O quereres,8,apaaauPpu,nrtm
+CAETANO,41,O quereres,9,ppauAAA,bnbv
+CAETANO,41,O quereres,10,ppaAua,bnbnb
+CAETANO,42,Os argonautas,1,pa,ebab
+CAETANO,42,Os argonautas,2,ppPuPP,bjbjb
+CAETANO,42,Os argonautas,3,SappPapp,babjbjbab
+CAETANO,42,Os argonautas,4,pppPPpp,ejbjbab
+CAETANO,42,Os argonautas,5,ppppSpa,ebjbebab
+CAETANO,42,Os argonautas,6,ppP,bjb
+CAETANO,42,Os argonautas,7,pp,ebab
+CAETANO,42,Os argonautas,8,AAuPPa,fdkdbab
+CAETANO,42,Os argonautas,9,SappAp,ebakdbab
+CAETANO,42,Os argonautas,10,AAuPPa,fdkdbab
+CAETANO,42,Os argonautas,11,SappAp,ebakdbab
+CAETANO,43,Quero ir a Cuba,1,AaPaPaP,grnn
+CAETANO,43,Quero ir a Cuba,2,pppPPAp,urn
+CAETANO,43,Quero ir a Cuba,3,AaPaPaP,grnn
+CAETANO,43,Quero ir a Cuba,4,pppu,uh
+CAETANO,43,Quero ir a Cuba,5,AaPaPaP,grnn
+CAETANO,43,Quero ir a Cuba,6,pppPPAp,urn
+CAETANO,43,Quero ir a Cuba,7,PPPaPPAp,rnnn
+CAETANO,43,Quero ir a Cuba,8,aPuu,tn
+CAETANO,43,Quero ir a Cuba,9,aPuuaaap,prnm
+CAETANO,43,Quero ir a Cuba,10,aPuu,pr
+CAETANO,43,Quero ir a Cuba,11,aPuuaaap,prnm
+CAETANO,43,Quero ir a Cuba,12,aPuu,pr
+CAETANO,43,Quero ir a Cuba,13,aPuuaaap,prnm
+CAETANO,43,Quero ir a Cuba,14,aPuu,pq
+CAETANO,43,Quero ir a Cuba,15,AaPaPaP,grnn
+CAETANO,43,Quero ir a Cuba,16,pppu,uh
+CAETANO,44,Outras palavras,1,ppaP,rn
+CAETANO,44,Outras palavras,2,ppPPSppaP,nrrn
+CAETANO,44,Outras palavras,3,ppaP,rn
+CAETANO,44,Outras palavras,4,ppPPPppaP,nrrm
+CAETANO,44,Outras palavras,5,ppaP,rn
+CAETANO,44,Outras palavras,6,paAPPAPAPp,nrrje
+CAETANO,44,Outras palavras,7,PpAa,babje
+CAETANO,44,Outras palavras,8,Pupa,babje
+CAETANO,44,Outras palavras,9,PpAa,babje
+CAETANO,44,Outras palavras,10,Pupa,babje
+CAETANO,45,Pecado original,1,PupuPupuPupuPupupupupp,vvvvvq
+CAETANO,45,Pecado original,2,PupuPupuPupuPupupupupp,vvvvvq
+CAETANO,45,Pecado original,3,PupuPupu,vvb
+CAETANO,45,Pecado original,4,PupuPupu,vvb
+CAETANO,45,Pecado original,5,PupuPupuPupAppp,vvvv
+CAETANO,45,Pecado original,6,Aaaapa,vq
+CAETANO,45,Pecado original,7,Aaaapa,vq
+CAETANO,45,Pecado original,8,PPAAApasPAAAApapp,vvvvbab
+CAETANO,45,Pecado original,9,PupuPupuPupuPupupupupp,vvvvvq
+CAETANO,45,Pecado original,10,PupuPupuPupuPupupupupp,vvvvvq
+CAETANO,45,Pecado original,11,PupuPupuPupuPupu,vvvvb
+CAETANO,46,Rapte-me camaleoa,1,auPPPpa,tuj
+CAETANO,46,Rapte-me camaleoa,2,AauPPPppPp,gtutc
+CAETANO,46,Rapte-me camaleoa,3,auPPPppPP,tujj
+CAETANO,46,Rapte-me camaleoa,4,pPPppA,nnne
+CAETANO,46,Rapte-me camaleoa,5,pPPppPP,njlj
+CAETANO,46,Rapte-me camaleoa,6,paApaApaApaPpp,rrrrt
+CAETANO,46,Rapte-me camaleoa,7,paApaApaApaP,rrrrb
+CAETANO,46,Rapte-me camaleoa,8,paApaApaApaPpp,rrrrt
+CAETANO,46,Rapte-me camaleoa,9,paApaApaApaP,rrrrb
+CAETANO,46,Rapte-me camaleoa,10,auPPPpa,tuj
+CAETANO,46,Rapte-me camaleoa,11,AauPPPpppp,gtmum
+CAETANO,47,Podres poderes,1,SpPppPpaAaAP,ejjjjjj
+CAETANO,47,Podres poderes,2,SpPppPpaAaAP,ejjjjjj
+CAETANO,47,Podres poderes,3,Sppa,ejj
+CAETANO,47,Podres poderes,4,ppau,bbbj
+CAETANO,47,Podres poderes,5,uupuupuaAA,fdkdkdjb
+CAETANO,47,Podres poderes,6,uupuupuaAA,fdkdkdjb
+CAETANO,47,Podres poderes,7,uupuupuuaAAPa,fdkdkdkdjb
+CAETANO,48,Sim nao,1,Suu,gq
+CAETANO,48,Sim nao,2,uuuuuuuuuaaAs,rrrrj
+CAETANO,48,Sim nao,3,Suaa,gv
+CAETANO,48,Sim nao,4,uuAuupuupu,rrrl
+CAETANO,48,Sim nao,5,PAPPAp,bbbbbj
+CAETANO,48,Sim nao,6,uuuaaPuuAu,rrrh
+CAETANO,48,Sim nao,7,puupuupuu,grrt
+CAETANO,49,Sampa,1,uuAuuauuApPa,utvpb
+CAETANO,49,Sampa,2,upPAuua,gvu
+CAETANO,49,Sampa,3,pPApPa,uv
+CAETANO,49,Sampa,4,pppPApPA,nvq
+CAETANO,49,Sampa,5,pPpp,grb
+CAETANO,49,Sampa,6,puuAuuAuuAuuua,gvvvj
+CAETANO,49,Sampa,7,uuuAuuAuuAuuua,vvvhb
+CAETANO,49,Sampa,8,Auuuuuuuuuuu,gvvv
+CAETANO,49,Sampa,9,uuuuuuuuu,gvvb
+CAETANO,49,Sampa,10,uuPuuauuPpPa,urrtb
+CAETANO,49,Sampa,11,uuuAuus,gvu
+CAETANO,49,Sampa,12,upuup,uu
+CAETANO,50,Superbacana,1,aApaApaSp,vuu
+CAETANO,50,Superbacana,2,paPaSp,uv
+CAETANO,50,Superbacana,3,paPaApa,uvc
+CAETANO,50,Superbacana,4,PPPPPPaSpa,pvvc
+CAETANO,50,Superbacana,5,aSpa,vc
+CAETANO,50,Superbacana,6,aSpa,vc
+CAETANO,50,Superbacana,7,aSpa,vc
+CAETANO,50,Superbacana,8,pPpPpPpPpPpPpPp,vvvv
+CAETANO,50,Superbacana,9,pPpPpPpPpPpPpPp,vvvv
+CAETANO,50,Superbacana,10,aApaAp,uv
+CAETANO,50,Superbacana,11,SpppaPaSppp,pvvh
+CAETANO,50,Superbacana,12,PaApa,gvc
+CAETANO,50,Superbacana,13,PPPPPPaSp,uvq
+CAETANO,50,Superbacana,14,uPpAaSpa,gvqb
+CAETANO,50,Superbacana,15,aPp,ggn

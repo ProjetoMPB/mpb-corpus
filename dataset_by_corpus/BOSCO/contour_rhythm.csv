@@ -1,0 +1,992 @@
+corpus_id,composition_id,composition_name,word_index,c_word,r_word
+BOSCO,1,Agnus sei,1,uuPu,jjb
+BOSCO,1,Agnus sei,2,pppA,fsb
+BOSCO,1,Agnus sei,3,uuPu,jjb
+BOSCO,1,Agnus sei,4,upPPAupu,jjbjeb
+BOSCO,1,Agnus sei,5,PupuP,jjj
+BOSCO,1,Agnus sei,6,ppAu,ejj
+BOSCO,1,Agnus sei,7,upu,ejb
+BOSCO,1,Agnus sei,8,pppAu,jjj
+BOSCO,1,Agnus sei,9,upuPpppp,ejbjbj
+BOSCO,1,Agnus sei,10,pPpuPPsuu,bjpjlb
+BOSCO,1,Agnus sei,11,PP,ob
+BOSCO,1,Agnus sei,12,pPpuPPsuu,bjpjlb
+BOSCO,1,Agnus sei,13,PP,ob
+BOSCO,1,Agnus sei,14,au,eee
+BOSCO,1,Agnus sei,15,au,eee
+BOSCO,1,Agnus sei,16,au,eee
+BOSCO,1,Agnus sei,17,au,eee
+BOSCO,1,Agnus sei,18,uuPA,ejbb
+BOSCO,2,Bala com bala,1,ppAu,uh
+BOSCO,2,Bala com bala,2,AppAu,pv
+BOSCO,2,Bala com bala,3,AppAu,vh
+BOSCO,2,Bala com bala,4,AppAu,pv
+BOSCO,2,Bala com bala,5,ppAppaa,urn
+BOSCO,2,Bala com bala,6,a,gac
+BOSCO,2,Bala com bala,7,uuupp,rnc
+BOSCO,2,Bala com bala,8,AAaAaAa,gnnng
+BOSCO,2,Bala com bala,9,uuAapu,utc
+BOSCO,2,Bala com bala,10,uaa,gng
+BOSCO,3,A nivel de,1,uaupua,ntm
+BOSCO,3,A nivel de,2,psu,nn
+BOSCO,3,A nivel de,3,SuauaaA,gjrn
+BOSCO,3,A nivel de,4,pauu,nng
+BOSCO,3,A nivel de,5,uauauau,nnnn
+BOSCO,3,A nivel de,6,usAa,nnc
+BOSCO,3,A nivel de,7,uuauapPs,gnrnab
+BOSCO,3,A nivel de,8,p,bg
+BOSCO,3,A nivel de,9,PPauapPsS,urnabb
+BOSCO,3,A nivel de,10,PPauapPsA,urnabb
+BOSCO,3,A nivel de,11,Suauaup,urn
+BOSCO,3,A nivel de,12,SausA,jjn
+BOSCO,3,A nivel de,13,APau,nanab
+BOSCO,3,A nivel de,14,usA,nn
+BOSCO,3,A nivel de,15,uauauSppa,jrnnc
+BOSCO,3,A nivel de,16,suA,nn
+BOSCO,3,A nivel de,17,uauP,nr
+BOSCO,3,A nivel de,18,pPaP,uj
+BOSCO,4,De frente pro crime,1,Auuuup,nnmb
+BOSCO,4,De frente pro crime,2,Au,gn
+BOSCO,4,De frente pro crime,3,Auuuup,nnmb
+BOSCO,4,De frente pro crime,4,uA,gn
+BOSCO,4,De frente pro crime,5,Auuuup,nnmb
+BOSCO,4,De frente pro crime,6,uA,gn
+BOSCO,4,De frente pro crime,7,Auuuup,nnmb
+BOSCO,4,De frente pro crime,8,Au,gn
+BOSCO,4,De frente pro crime,9,uAuuuAsA,pvbn
+BOSCO,4,De frente pro crime,10,puuuuaa,jprc
+BOSCO,4,De frente pro crime,11,AuuuAsA,gvbn
+BOSCO,4,De frente pro crime,12,puuuuaa,jprc
+BOSCO,4,De frente pro crime,13,uAuuuAsA,pvbn
+BOSCO,4,De frente pro crime,14,puuuuuaa,jurc
+BOSCO,4,De frente pro crime,15,uAuuuAsAAp,pvbnaj
+BOSCO,5,Boca de sapo,1,PP,u
+BOSCO,5,Boca de sapo,2,uuuApppppp,grrsb
+BOSCO,5,Boca de sapo,3,uupp,grc
+BOSCO,5,Boca de sapo,4,ApppP,jln
+BOSCO,5,Boca de sapo,5,uupA,grc
+BOSCO,5,Boca de sapo,6,aa,jb
+BOSCO,5,Boca de sapo,7,up,nc
+BOSCO,5,Boca de sapo,8,uupA,grc
+BOSCO,5,Boca de sapo,9,aa,nb
+BOSCO,5,Boca de sapo,10,pu,nc
+BOSCO,5,Boca de sapo,11,uupAaa,grcj
+BOSCO,5,Boca de sapo,12,up,nc
+BOSCO,5,Boca de sapo,13,uupA,grc
+BOSCO,5,Boca de sapo,14,aa,jb
+BOSCO,5,Boca de sapo,15,pu,nc
+BOSCO,5,Boca de sapo,16,PPuppu,blnj
+BOSCO,5,Boca de sapo,17,Ap,bl
+BOSCO,5,Boca de sapo,18,uPPP,rn
+BOSCO,5,Boca de sapo,19,aau,nj
+BOSCO,5,Boca de sapo,20,pp,bn
+BOSCO,6,Bijuterias,1,PPASau,fdkdj
+BOSCO,6,Bijuterias,2,PpaaSu,jbjj
+BOSCO,6,Bijuterias,3,PPau,kdj
+BOSCO,6,Bijuterias,4,PpaaS,jbjb
+BOSCO,6,Bijuterias,5,Pau,jj
+BOSCO,6,Bijuterias,6,PAASau,fdkdj
+BOSCO,6,Bijuterias,7,PpaaS,fdkdb
+BOSCO,6,Bijuterias,8,PpaaS,fdkdb
+BOSCO,6,Bijuterias,9,PPa,kdb
+BOSCO,6,Bijuterias,10,PpaaS,bjjb
+BOSCO,6,Bijuterias,11,p,be
+BOSCO,6,Bijuterias,12,PAASa,fdkdb
+BOSCO,6,Bijuterias,13,PpppAp,eejje
+BOSCO,6,Bijuterias,14,pAP,babababa
+BOSCO,6,Bijuterias,15,aau,bej
+BOSCO,6,Bijuterias,16,AAAas,kdbeb
+BOSCO,6,Bijuterias,17,AAA,kdb
+BOSCO,6,Bijuterias,18,PPAAApP,fdkdjb
+BOSCO,7,Escadas da Penha,1,uAuupP,prcb
+BOSCO,7,Escadas da Penha,2,pa,nc
+BOSCO,7,Escadas da Penha,3,uAuupP,prn
+BOSCO,7,Escadas da Penha,4,p,n
+BOSCO,7,Escadas da Penha,5,uSuupp,prn
+BOSCO,7,Escadas da Penha,6,upP,rc
+BOSCO,7,Escadas da Penha,7,uSuupp,prn
+BOSCO,7,Escadas da Penha,8,p,n
+BOSCO,7,Escadas da Penha,9,uupPu,fsi
+BOSCO,7,Escadas da Penha,10,uupPu,fsi
+BOSCO,7,Escadas da Penha,11,uupAauu,fskdb
+BOSCO,7,Escadas da Penha,12,PupPu,fsi
+BOSCO,7,Escadas da Penha,13,uupau,fsi
+BOSCO,7,Escadas da Penha,14,PuAappa,fskdb
+BOSCO,7,Escadas da Penha,15,uupPu,fsi
+BOSCO,7,Escadas da Penha,16,uupPu,fsi
+BOSCO,7,Escadas da Penha,17,uupAauu,fskdb
+BOSCO,7,Escadas da Penha,18,uuuAu,fsi
+BOSCO,7,Escadas da Penha,19,uuupu,fsi
+BOSCO,7,Escadas da Penha,20,uuupu,fsi
+BOSCO,7,Escadas da Penha,21,uuupu,fsk
+BOSCO,8,Casa de marimbondo,1,AuupP,nngc
+BOSCO,8,Casa de marimbondo,2,aas,gebg
+BOSCO,8,Casa de marimbondo,3,SuupPp,nnnc
+BOSCO,8,Casa de marimbondo,4,Aa,ng
+BOSCO,8,Casa de marimbondo,5,AuupPP,nnnc
+BOSCO,8,Casa de marimbondo,6,as,nag
+BOSCO,8,Casa de marimbondo,7,uAu,gr
+BOSCO,8,Casa de marimbondo,8,uAu,uc
+BOSCO,8,Casa de marimbondo,9,uAu,gr
+BOSCO,8,Casa de marimbondo,10,AuaAau,grnc
+BOSCO,8,Casa de marimbondo,11,uuAaAp,gjln
+BOSCO,8,Casa de marimbondo,12,AuaApu,grnc
+BOSCO,8,Casa de marimbondo,13,auSaAp,gjln
+BOSCO,8,Casa de marimbondo,14,AuaApu,grnc
+BOSCO,8,Casa de marimbondo,15,uuAaAp,gjln
+BOSCO,8,Casa de marimbondo,16,AuaAu,grn
+BOSCO,8,Casa de marimbondo,17,au,nc
+BOSCO,8,Casa de marimbondo,18,au,gn
+BOSCO,8,Casa de marimbondo,19,au,nc
+BOSCO,9,Dois pra la dois pra ca,1,APPuppPa,ejjjbab
+BOSCO,9,Dois pra la dois pra ca,2,uPPppP,ejbob
+BOSCO,9,Dois pra la dois pra ca,3,APPppPa,ejbjbab
+BOSCO,9,Dois pra la dois pra ca,4,uPPppp,ejbob
+BOSCO,9,Dois pra la dois pra ca,5,APPppAs,ejbjbab
+BOSCO,9,Dois pra la dois pra ca,6,uPPppp,ejbob
+BOSCO,9,Dois pra la dois pra ca,7,uPPppup,ejbjj
+BOSCO,9,Dois pra la dois pra ca,8,uPPppp,ejbob
+BOSCO,9,Dois pra la dois pra ca,9,APPppAs,ejbjbab
+BOSCO,9,Dois pra la dois pra ca,10,uPPppup,ejboj
+BOSCO,9,Dois pra la dois pra ca,11,APPppAs,ejkdbab
+BOSCO,9,Dois pra la dois pra ca,12,uPPppPu,ejbjj
+BOSCO,9,Dois pra la dois pra ca,13,APPppAs,ejbjbab
+BOSCO,9,Dois pra la dois pra ca,14,uPPppP,ejbjb
+BOSCO,9,Dois pra la dois pra ca,15,APPpppp,ejbobab
+BOSCO,9,Dois pra la dois pra ca,16,uPPuap,ejbjb
+BOSCO,9,Dois pra la dois pra ca,17,APPppAs,ejbobab
+BOSCO,9,Dois pra la dois pra ca,18,uPPppP,ejbjb
+BOSCO,9,Dois pra la dois pra ca,19,ppppppp,ejbjbab
+BOSCO,9,Dois pra la dois pra ca,20,pppsAp,ejbjaab
+BOSCO,10,Falso brilhante,1,S,gb
+BOSCO,10,Falso brilhante,2,pPupPu,osj
+BOSCO,10,Falso brilhante,3,PpPupau,usj
+BOSCO,10,Falso brilhante,4,AuupPu,gvj
+BOSCO,10,Falso brilhante,5,PuupPu,gvj
+BOSCO,10,Falso brilhante,6,PpPupa,usb
+BOSCO,10,Falso brilhante,7,SuupPu,gvj
+BOSCO,10,Falso brilhante,8,pPupPu,osj
+BOSCO,10,Falso brilhante,9,PpPups,usb
+BOSCO,10,Falso brilhante,10,S,gb
+BOSCO,10,Falso brilhante,11,pPuupP,pvb
+BOSCO,10,Falso brilhante,12,PpPppPu,uth
+BOSCO,10,Falso brilhante,13,pPppPu,psi
+BOSCO,10,Falso brilhante,14,PupPu,fsi
+BOSCO,10,Falso brilhante,15,SppPu,gth
+BOSCO,10,Falso brilhante,16,pPpPaPPaPPu,vsbsb
+BOSCO,10,Falso brilhante,17,PpP,gq
+BOSCO,10,Falso brilhante,18,PaPP,gsb
+BOSCO,10,Falso brilhante,19,SupP,gsb
+BOSCO,10,Falso brilhante,20,pppPPpu,usj
+BOSCO,10,Falso brilhante,21,PppPPpu,ssj
+BOSCO,10,Falso brilhante,22,pppaPu,ulh
+BOSCO,10,Falso brilhante,23,PPPPPPPpp,ojkoj
+BOSCO,10,Falso brilhante,24,Appppp,ebsbb
+BOSCO,10,Falso brilhante,25,APaPPaPPaP,gjessb
+BOSCO,10,Falso brilhante,26,Sapppa,ebuj
+BOSCO,10,Falso brilhante,27,aApaAp,kdkdb
+BOSCO,10,Falso brilhante,28,AAAAa,gsj
+BOSCO,10,Falso brilhante,29,ppppAa,sjeb
+BOSCO,11,Corsario,1,uuuuuuuuuuuuPa,kdkdkdkdbj
+BOSCO,11,Corsario,2,uuuuuuuuuuuuPa,kdkdkdkdkd
+BOSCO,11,Corsario,3,uuuuuuuuuuuuPa,kdkdkdkdbj
+BOSCO,11,Corsario,4,uuuuuuuuuuuuuPa,kdkdkdkdkdb
+BOSCO,11,Corsario,5,up,jb
+BOSCO,11,Corsario,6,pPPuppp,ssbb
+BOSCO,11,Corsario,7,up,jb
+BOSCO,11,Corsario,8,pPPppu,bjbbbb
+BOSCO,11,Corsario,9,up,beb
+BOSCO,11,Corsario,10,upPPppup,fdkdfdi
+BOSCO,11,Corsario,11,pSpupu,eebebj
+BOSCO,11,Corsario,12,uSupup,eebebj
+BOSCO,11,Corsario,13,pSpp,eebbb
+BOSCO,11,Corsario,14,uuuuuuuuuuuuPa,kdkdkdkdbj
+BOSCO,11,Corsario,15,uuuuuuuuuuuuPa,kdkdkdkdbj
+BOSCO,12,Feminismo no Estacio,1,AppAppAp,grrh
+BOSCO,12,Feminismo no Estacio,2,aAuua,grn
+BOSCO,12,Feminismo no Estacio,3,ppAppaa,ntng
+BOSCO,12,Feminismo no Estacio,4,AAASppp,nrng
+BOSCO,12,Feminismo no Estacio,5,suuAuuSppaAuua,nnrrrn
+BOSCO,12,Feminismo no Estacio,6,ppAppau,ntng
+BOSCO,12,Feminismo no Estacio,7,AAASpppu,nrnn
+BOSCO,12,Feminismo no Estacio,8,ppp,babn
+BOSCO,12,Feminismo no Estacio,9,aPP,nj
+BOSCO,12,Feminismo no Estacio,10,aa,ng
+BOSCO,12,Feminismo no Estacio,11,uuppsAp,nrng
+BOSCO,12,Feminismo no Estacio,12,uuSusSuupuua,sssrc
+BOSCO,12,Feminismo no Estacio,13,PPppAppA,ptrc
+BOSCO,12,Feminismo no Estacio,14,uupuuaa,rrcb
+BOSCO,12,Feminismo no Estacio,15,PPP,pn
+BOSCO,12,Feminismo no Estacio,16,AAp,nj
+BOSCO,12,Feminismo no Estacio,17,ppAa,nng
+BOSCO,12,Feminismo no Estacio,18,uPpp,llb
+BOSCO,12,Feminismo no Estacio,19,ppSuua,grnc
+BOSCO,12,Feminismo no Estacio,20,PPP,pn
+BOSCO,12,Feminismo no Estacio,21,App,nn
+BOSCO,12,Feminismo no Estacio,22,paAuua,pnnc
+BOSCO,12,Feminismo no Estacio,23,Suaa,erg
+BOSCO,12,Feminismo no Estacio,24,uuupsApu,ntnn
+BOSCO,13,Gol anulado,1,Pppaa,nrb
+BOSCO,13,Gol anulado,2,s,gag
+BOSCO,13,Gol anulado,3,PpPpaAa,nqng
+BOSCO,13,Gol anulado,4,uuPppAu,gtlcaab
+BOSCO,13,Gol anulado,5,PpPpaP,nrn
+BOSCO,13,Gol anulado,6,uPpaaAa,gnnng
+BOSCO,13,Gol anulado,7,PpappSp,cnrcg
+BOSCO,13,Gol anulado,8,PpPpPps,ghnmab
+BOSCO,13,Gol anulado,9,PpPpPpu,nluae
+BOSCO,13,Gol anulado,10,PppPPpu,grrc
+BOSCO,13,Gol anulado,11,pPPpaAp,ubug
+BOSCO,13,Gol anulado,12,uPPppApppppp,uvov
+BOSCO,13,Gol anulado,13,uPu,nh
+BOSCO,13,Gol anulado,14,uPPauppApps,uqumb
+BOSCO,13,Gol anulado,15,pPu,nh
+BOSCO,13,Gol anulado,16,pPPpaaAa,cncul
+BOSCO,13,Gol anulado,17,pPPpaaSp,ubnnc
+BOSCO,13,Gol anulado,18,pPPpapu,cncnh
+BOSCO,13,Gol anulado,19,ppPau,nauc
+BOSCO,14,Desenho de giz,1,upPupP,ssb
+BOSCO,14,Desenho de giz,2,PPapPu,osj
+BOSCO,14,Desenho de giz,3,PupP,ebjb
+BOSCO,14,Desenho de giz,4,uuuaPP,ssb
+BOSCO,14,Desenho de giz,5,PPapPupP,osjj
+BOSCO,14,Desenho de giz,6,pP,jb
+BOSCO,14,Desenho de giz,7,aupPupP,ebaosb
+BOSCO,14,Desenho de giz,8,apaaAp,osj
+BOSCO,14,Desenho de giz,9,uuupPp,oboj
+BOSCO,14,Desenho de giz,10,PupPupP,ebaosb
+BOSCO,14,Desenho de giz,11,apaaAp,osj
+BOSCO,14,Desenho de giz,12,uuupP,osb
+BOSCO,14,Desenho de giz,13,SuuuupP,ebaosb
+BOSCO,14,Desenho de giz,14,uuupP,osb
+BOSCO,14,Desenho de giz,15,ppaPPus,oss
+BOSCO,14,Desenho de giz,16,AuuuaPA,esbeeb
+BOSCO,14,Desenho de giz,17,PpaPP,osb
+BOSCO,15,Kid cavaquinho,1,uuuuuuuPPu,nrtnc
+BOSCO,15,Kid cavaquinho,2,uupu,tn
+BOSCO,15,Kid cavaquinho,3,uuuuuuupPPPu,uvtnc
+BOSCO,15,Kid cavaquinho,4,puuPa,etn
+BOSCO,15,Kid cavaquinho,5,spSuuuuuppa,uvtn
+BOSCO,15,Kid cavaquinho,6,p,bg
+BOSCO,15,Kid cavaquinho,7,aaSuuuuuppa,uvrn
+BOSCO,15,Kid cavaquinho,8,p,bg
+BOSCO,15,Kid cavaquinho,9,Au,ej
+BOSCO,15,Kid cavaquinho,10,uuuPuu,urc
+BOSCO,15,Kid cavaquinho,11,Au,ne
+BOSCO,15,Kid cavaquinho,12,uuupAu,urc
+BOSCO,15,Kid cavaquinho,13,Au,nc
+BOSCO,15,Kid cavaquinho,14,uuuusu,urc
+BOSCO,15,Kid cavaquinho,15,PPpAu,nrc
+BOSCO,15,Kid cavaquinho,16,uPppAs,urag
+BOSCO,15,Kid cavaquinho,17,P,n
+BOSCO,15,Kid cavaquinho,18,uuusu,nrc
+BOSCO,15,Kid cavaquinho,19,PPpAu,nrc
+BOSCO,15,Kid cavaquinho,20,pppuu,nrb
+BOSCO,16,Jogador,1,upp,uc
+BOSCO,16,Jogador,2,uuuuuuuuuPP,nrrrc
+BOSCO,16,Jogador,3,uuuau,grh
+BOSCO,16,Jogador,4,ppPP,nnc
+BOSCO,16,Jogador,5,pppp,rn
+BOSCO,16,Jogador,6,uupPpp,nrn
+BOSCO,16,Jogador,7,upa,uc
+BOSCO,16,Jogador,8,uuPPPpppPPpa,nsrrn
+BOSCO,16,Jogador,9,upu,uc
+BOSCO,16,Jogador,10,uuuuSpPpu,nrvc
+BOSCO,16,Jogador,11,PPuuAaap,rnrb
+BOSCO,16,Jogador,12,upp,uc
+BOSCO,17,Linha de passe,1,aAaA,gnj
+BOSCO,17,Linha de passe,2,AaAaAaA,pnnj
+BOSCO,17,Linha de passe,3,aaAaA,nnj
+BOSCO,17,Linha de passe,4,AaAa,png
+BOSCO,17,Linha de passe,5,aAaA,gnj
+BOSCO,17,Linha de passe,6,AaAaAPP,pnnn
+BOSCO,17,Linha de passe,7,pAaaa,nnn
+BOSCO,17,Linha de passe,8,aaa,nn
+BOSCO,17,Linha de passe,9,aa,ng
+BOSCO,17,Linha de passe,10,PpPpP,nnj
+BOSCO,17,Linha de passe,11,PpPuuaa,pnnj
+BOSCO,17,Linha de passe,12,pPpP,gnj
+BOSCO,17,Linha de passe,13,PpPuuaa,pnnn
+BOSCO,17,Linha de passe,14,pPpP,gnj
+BOSCO,17,Linha de passe,15,PPpuuaa,pnnn
+BOSCO,17,Linha de passe,16,pPpP,gnj
+BOSCO,17,Linha de passe,17,PPppaAPA,pnnnc
+BOSCO,17,Linha de passe,18,p,gag
+BOSCO,17,Linha de passe,19,APPs,gnn
+BOSCO,17,Linha de passe,20,APPsa,gnnag
+BOSCO,17,Linha de passe,21,APPp,gnj
+BOSCO,17,Linha de passe,22,aAPPp,nnj
+BOSCO,17,Linha de passe,23,aappA,pnaabg
+BOSCO,17,Linha de passe,24,APPp,gnj
+BOSCO,17,Linha de passe,25,aAPPA,nnn
+BOSCO,17,Linha de passe,26,pp,nc
+BOSCO,17,Linha de passe,27,pp,cabg
+BOSCO,18,Jade,1,SupP,gv
+BOSCO,18,Jade,2,PPPa,os
+BOSCO,18,Jade,3,pApap,psb
+BOSCO,18,Jade,4,AupP,esb
+BOSCO,18,Jade,5,SupP,esb
+BOSCO,18,Jade,6,PPppPupP,gvv
+BOSCO,18,Jade,7,pupPpaupP,esksb
+BOSCO,18,Jade,8,pPPpP,kdkd
+BOSCO,18,Jade,9,pPPpP,kdkd
+BOSCO,18,Jade,10,pPPpPP,kdkdb
+BOSCO,18,Jade,11,PPpPPPpppPP,oskdkdb
+BOSCO,18,Jade,12,pppPP,osb
+BOSCO,18,Jade,13,paupP,gcbob
+BOSCO,18,Jade,14,PPpAuaA,jjsb
+BOSCO,18,Jade,15,AAasPupP,jbobob
+BOSCO,18,Jade,16,AasPA,eejeb
+BOSCO,19,O rancho da goiabada,1,PpAu,baeebb
+BOSCO,19,O rancho da goiabada,2,pAu,eebb
+BOSCO,19,O rancho da goiabada,3,pppppPPPpp,ejssj
+BOSCO,19,O rancho da goiabada,4,u,bb
+BOSCO,19,O rancho da goiabada,5,uupupAaapu,fssse
+BOSCO,19,O rancho da goiabada,6,PPAp,bbje
+BOSCO,19,O rancho da goiabada,7,SpupAs,baeejj
+BOSCO,19,O rancho da goiabada,8,PpSp,bbje
+BOSCO,19,O rancho da goiabada,9,ppA,bbj
+BOSCO,19,O rancho da goiabada,10,PPPpppppPAs,fsssj
+BOSCO,19,O rancho da goiabada,11,ppApp,ejjb
+BOSCO,19,O rancho da goiabada,12,paa,bbbb
+BOSCO,19,O rancho da goiabada,13,s,bb
+BOSCO,19,O rancho da goiabada,14,uPppp,fsi
+BOSCO,19,O rancho da goiabada,15,PPppp,fsi
+BOSCO,19,O rancho da goiabada,16,PPpppSs,fsjbb
+BOSCO,19,O rancho da goiabada,17,pPPppp,osi
+BOSCO,19,O rancho da goiabada,18,PPppppAp,fsvb
+BOSCO,19,O rancho da goiabada,19,PppPSA,ejjbb
+BOSCO,19,O rancho da goiabada,20,upupupuppPAu,ejjjjjbb
+BOSCO,19,O rancho da goiabada,21,upupupuppPAu,ejjjjjbb
+BOSCO,19,O rancho da goiabada,22,PppPPp,ejjj
+BOSCO,19,O rancho da goiabada,23,pupupAp,jjjj
+BOSCO,19,O rancho da goiabada,24,AppAppAppAppP,essssb
+BOSCO,19,O rancho da goiabada,25,APPu,ejbb
+BOSCO,19,O rancho da goiabada,26,ApppppPu,bojjj
+BOSCO,20,Miss Sueter,1,ApppPpppPp,ejjjjj
+BOSCO,20,Miss Sueter,2,pPppaP,jjjb
+BOSCO,20,Miss Sueter,3,PPPPPpppAp,ejjjjj
+BOSCO,20,Miss Sueter,4,pApppP,jjjb
+BOSCO,20,Miss Sueter,5,PaPPP,eebeeb
+BOSCO,20,Miss Sueter,6,PaPPPPppppPa,eekdkdkdbe
+BOSCO,20,Miss Sueter,7,PaPPP,eebeeb
+BOSCO,20,Miss Sueter,8,PaPPPPPPppPs,eekdkdkdbe
+BOSCO,20,Miss Sueter,9,PaPPP,eebeeb
+BOSCO,20,Miss Sueter,10,PaPPPPPPPPpp,eekdkdkdbe
+BOSCO,21,O mestre-sala dos mares,1,Auuuup,nnmb
+BOSCO,21,O mestre-sala dos mares,2,uuuup,gnng
+BOSCO,21,O mestre-sala dos mares,3,uuup,gnn
+BOSCO,21,O mestre-sala dos mares,4,usuu,gnn
+BOSCO,21,O mestre-sala dos mares,5,uuaA,gnn
+BOSCO,21,O mestre-sala dos mares,6,Aaappu,ngnj
+BOSCO,21,O mestre-sala dos mares,7,uPPPPsuu,nngnn
+BOSCO,21,O mestre-sala dos mares,8,PPppaApupAp,jtnnmb
+BOSCO,21,O mestre-sala dos mares,9,uuuaPp,gnml
+BOSCO,21,O mestre-sala dos mares,10,Aupu,nmc
+BOSCO,21,O mestre-sala dos mares,11,AuuuaP,nnmb
+BOSCO,21,O mestre-sala dos mares,12,upppPPu,nntc
+BOSCO,21,O mestre-sala dos mares,13,uupppa,nvg
+BOSCO,21,O mestre-sala dos mares,14,ppApppa,gnrn
+BOSCO,21,O mestre-sala dos mares,15,AAAu,nnc
+BOSCO,21,O mestre-sala dos mares,16,uuuppaAp,grlnab
+BOSCO,21,O mestre-sala dos mares,17,paAp,babnab
+BOSCO,21,O mestre-sala dos mares,18,SuuuuuupA,nnrt
+BOSCO,21,O mestre-sala dos mares,19,ppupAp,nnng
+BOSCO,21,O mestre-sala dos mares,20,upuAap,betn
+BOSCO,21,O mestre-sala dos mares,21,ppAppp,gnrc
+BOSCO,21,O mestre-sala dos mares,22,AAAuuuu,pnnn
+BOSCO,21,O mestre-sala dos mares,23,paApu,nnn
+BOSCO,21,O mestre-sala dos mares,24,aSAsa,bbbnab
+BOSCO,21,O mestre-sala dos mares,25,Asa,bnab
+BOSCO,21,O mestre-sala dos mares,26,Aup,bnab
+BOSCO,21,O mestre-sala dos mares,27,aSAsa,bbbnab
+BOSCO,21,O mestre-sala dos mares,28,Asua,bnbb
+BOSCO,21,O mestre-sala dos mares,29,Aup,bnab
+BOSCO,21,O mestre-sala dos mares,30,s,bab
+BOSCO,21,O mestre-sala dos mares,31,Pppp,nnc
+BOSCO,21,O mestre-sala dos mares,32,PAs,ncg
+BOSCO,21,O mestre-sala dos mares,33,ppppPP,gajln
+BOSCO,21,O mestre-sala dos mares,34,s,bab
+BOSCO,21,O mestre-sala dos mares,35,PPppup,nnanab
+BOSCO,21,O mestre-sala dos mares,36,PPppup,nnanab
+BOSCO,21,O mestre-sala dos mares,37,SppaPPp,najln
+BOSCO,22,Galos de briga,1,APaPaPp,kdkdk
+BOSCO,22,Galos de briga,2,pppppAp,kdkdk
+BOSCO,22,Galos de briga,3,APaPaPp,kdkdk
+BOSCO,22,Galos de briga,4,pppppAp,kdkdk
+BOSCO,22,Galos de briga,5,pppPPpp,ojjj
+BOSCO,22,Galos de briga,6,ppppPpa,kdkdk
+BOSCO,22,Galos de briga,7,uPpPpaAp,bsbjbb
+BOSCO,22,Galos de briga,8,PpPpppp,jjjbb
+BOSCO,22,Galos de briga,9,APaPaPp,kdkdk
+BOSCO,22,Galos de briga,10,pppppAp,kdkdk
+BOSCO,23,Zona de fronteira,1,SAP,gajb
+BOSCO,23,Zona de fronteira,2,AP,gn
+BOSCO,23,Zona de fronteira,3,pAP,gjb
+BOSCO,23,Zona de fronteira,4,p,n
+BOSCO,23,Zona de fronteira,5,aAP,gjb
+BOSCO,23,Zona de fronteira,6,aASpp,pnn
+BOSCO,23,Zona de fronteira,7,SuAP,ggjb
+BOSCO,23,Zona de fronteira,8,uAP,pn
+BOSCO,23,Zona de fronteira,9,uAP,gjb
+BOSCO,23,Zona de fronteira,10,p,n
+BOSCO,23,Zona de fronteira,11,uAP,gjb
+BOSCO,23,Zona de fronteira,12,aASppAs,pnncag
+BOSCO,23,Zona de fronteira,13,uuuuuuu,nnnn
+BOSCO,23,Zona de fronteira,14,uupPpPPP,grtn
+BOSCO,23,Zona de fronteira,15,pppppA,nnnc
+BOSCO,23,Zona de fronteira,16,u,eaag
+BOSCO,23,Zona de fronteira,17,aAPA,gecbe
+BOSCO,23,Zona de fronteira,18,AappAs,neclab
+BOSCO,23,Zona de fronteira,19,uuuuuuu,nnnn
+BOSCO,23,Zona de fronteira,20,uuuupPPP,grtn
+BOSCO,23,Zona de fronteira,21,pppppA,nnnc
+BOSCO,24,Pirata azul,1,AppppaS,uvb
+BOSCO,24,Pirata azul,2,AppppaS,osjb
+BOSCO,24,Pirata azul,3,ApppppA,oss
+BOSCO,24,Pirata azul,4,Pppppappa,uvbbb
+BOSCO,24,Pirata azul,5,AppppaS,usj
+BOSCO,24,Pirata azul,6,AppppaS,osbeb
+BOSCO,24,Pirata azul,7,ApppppA,osjb
+BOSCO,24,Pirata azul,8,uppppappa,osjjb
+BOSCO,24,Pirata azul,9,APPPPPPu,osjl
+BOSCO,24,Pirata azul,10,AuaAuas,nnnn
+BOSCO,24,Pirata azul,11,pPSups,granb
+BOSCO,24,Pirata azul,12,uuuuPPuuu,kdkdsb
+BOSCO,24,Pirata azul,13,pp,ej
+BOSCO,24,Pirata azul,14,uua,nn
+BOSCO,24,Pirata azul,15,ppupA,sjb
+BOSCO,24,Pirata azul,16,ppp,kdb
+BOSCO,24,Pirata azul,17,ppupAp,sjbaaaaaab
+BOSCO,25,Jandira da gandaia,1,PpPpPu,fdkdj
+BOSCO,25,Jandira da gandaia,2,PpPpPu,osj
+BOSCO,25,Jandira da gandaia,3,PpPpup,otj
+BOSCO,25,Jandira da gandaia,4,ppp,oj
+BOSCO,25,Jandira da gandaia,5,PpPpP,osb
+BOSCO,25,Jandira da gandaia,6,PpPpP,gvb
+BOSCO,25,Jandira da gandaia,7,pPpup,pjj
+BOSCO,25,Jandira da gandaia,8,ppp,jj
+BOSCO,25,Jandira da gandaia,9,PupPpPu,ovh
+BOSCO,25,Jandira da gandaia,10,PpPpPppPAppp,gvvlj
+BOSCO,25,Jandira da gandaia,11,PpPpPppPAppp,gvjjbej
+BOSCO,25,Jandira da gandaia,12,PppP,obabab
+BOSCO,25,Jandira da gandaia,13,PpuPpPu,ejkdj
+BOSCO,25,Jandira da gandaia,14,pPp,jaj
+BOSCO,25,Jandira da gandaia,15,ppp,jj
+BOSCO,25,Jandira da gandaia,16,PpPpaA,ejbbaj
+BOSCO,25,Jandira da gandaia,17,PpPpPu,gvj
+BOSCO,25,Jandira da gandaia,18,PupPppp,gqjj
+BOSCO,25,Jandira da gandaia,19,PpPpaP,jjbaeb
+BOSCO,25,Jandira da gandaia,20,PpPpPp,ejeeeb
+BOSCO,25,Jandira da gandaia,21,PpPpPp,ejkdb
+BOSCO,25,Jandira da gandaia,22,pPpuApa,pbeaejb
+BOSCO,25,Jandira da gandaia,23,PpPpPpu,eejeej
+BOSCO,25,Jandira da gandaia,24,puPpu,ejej
+BOSCO,25,Jandira da gandaia,25,uaAp,ejeb
+BOSCO,25,Jandira da gandaia,26,PpPpuP,ejefdb
+BOSCO,25,Jandira da gandaia,27,PpPupPu,ejsj
+BOSCO,25,Jandira da gandaia,28,pPpPpup,jjjj
+BOSCO,25,Jandira da gandaia,29,upPppp,ejoj
+BOSCO,25,Jandira da gandaia,30,ppp,eebaaab
+BOSCO,26,Latin lover,1,PAP,jj
+BOSCO,26,Latin lover,2,PAPpPpPpppP,jjjjjj
+BOSCO,26,Latin lover,3,PAP,jj
+BOSCO,26,Latin lover,4,PAPpPpPpppP,jjjjjj
+BOSCO,26,Latin lover,5,PAPpPpPppp,jjjjjb
+BOSCO,26,Latin lover,6,PsS,ebeb
+BOSCO,26,Latin lover,7,pPpPpppP,ubsbe
+BOSCO,26,Latin lover,8,PSP,eebe
+BOSCO,26,Latin lover,9,SPpPpPpppu,ejjjjj
+BOSCO,26,Latin lover,10,PSP,eej
+BOSCO,26,Latin lover,11,PSPpPpPpppP,jjjjjj
+BOSCO,26,Latin lover,12,PSP,jj
+BOSCO,26,Latin lover,13,PSPpPpPpppu,jjjjjj
+BOSCO,26,Latin lover,14,AA,bbb
+BOSCO,27,Beirando a rumba,1,ppaASs,bgnbbab
+BOSCO,27,Beirando a rumba,2,AuuuuPsP,grnnb
+BOSCO,27,Beirando a rumba,3,pa,bl
+BOSCO,27,Beirando a rumba,4,ppaASs,bgnbbab
+BOSCO,27,Beirando a rumba,5,AuuuuPsP,grnnb
+BOSCO,27,Beirando a rumba,6,pa,bl
+BOSCO,27,Beirando a rumba,7,PpaA,baaaejb
+BOSCO,27,Beirando a rumba,8,paA,ejb
+BOSCO,27,Beirando a rumba,9,PpP,ejb
+BOSCO,27,Beirando a rumba,10,PpP,ejb
+BOSCO,27,Beirando a rumba,11,ppp,ejb
+BOSCO,27,Beirando a rumba,12,ppp,ejb
+BOSCO,27,Beirando a rumba,13,Apppppa,jjjj
+BOSCO,27,Beirando a rumba,14,ppa,leb
+BOSCO,27,Beirando a rumba,15,appa,eleb
+BOSCO,27,Beirando a rumba,16,appp,eleb
+BOSCO,27,Beirando a rumba,17,appp,eleb
+BOSCO,27,Beirando a rumba,18,ppaa,eleb
+BOSCO,27,Beirando a rumba,19,ppaa,eleb
+BOSCO,27,Beirando a rumba,20,ppap,eleb
+BOSCO,27,Beirando a rumba,21,ppap,eleb
+BOSCO,27,Beirando a rumba,22,pppp,eleb
+BOSCO,27,Beirando a rumba,23,pppp,eleb
+BOSCO,27,Beirando a rumba,24,ap,el
+BOSCO,27,Beirando a rumba,25,ap,el
+BOSCO,27,Beirando a rumba,26,ap,el
+BOSCO,28,Preta-porter de tafeta,1,Aaaap,naaln
+BOSCO,28,Preta-porter de tafeta,2,upaaap,rabbn
+BOSCO,28,Preta-porter de tafeta,3,ppp,gaalc
+BOSCO,28,Preta-porter de tafeta,4,ppps,caln
+BOSCO,28,Preta-porter de tafeta,5,Paa,nabb
+BOSCO,28,Preta-porter de tafeta,6,upS,ncb
+BOSCO,28,Preta-porter de tafeta,7,Apaap,nalacg
+BOSCO,28,Preta-porter de tafeta,8,pPs,ln
+BOSCO,28,Preta-porter de tafeta,9,APs,lan
+BOSCO,28,Preta-porter de tafeta,10,AAus,bbnc
+BOSCO,28,Preta-porter de tafeta,11,PaAaaAa,najln
+BOSCO,28,Preta-porter de tafeta,12,AapPapPa,nrln
+BOSCO,28,Preta-porter de tafeta,13,AAPsA,jlcc
+BOSCO,28,Preta-porter de tafeta,14,P,n
+BOSCO,28,Preta-porter de tafeta,15,AaaAaaAapPa,jlnnrb
+BOSCO,28,Preta-porter de tafeta,16,Pa,gn
+BOSCO,28,Preta-porter de tafeta,17,AAPpp,jlgg
+BOSCO,28,Preta-porter de tafeta,18,PPpPp,nabbn
+BOSCO,28,Preta-porter de tafeta,19,ppppp,etn
+BOSCO,28,Preta-porter de tafeta,20,pPp,bbn
+BOSCO,28,Preta-porter de tafeta,21,pppp,lnc
+BOSCO,28,Preta-porter de tafeta,22,S,cg
+BOSCO,28,Preta-porter de tafeta,23,Pp,gaabg
+BOSCO,28,Preta-porter de tafeta,24,SPp,ngag
+BOSCO,28,Preta-porter de tafeta,25,AaaaAp,bbncabg
+BOSCO,29,Meu caro visconde,1,Auu,rb
+BOSCO,29,Meu caro visconde,2,SuuPa,puc
+BOSCO,29,Meu caro visconde,3,Suuu,gv
+BOSCO,29,Meu caro visconde,4,Suuu,uh
+BOSCO,29,Meu caro visconde,5,Suuu,gv
+BOSCO,29,Meu caro visconde,6,uuuPs,ur
+BOSCO,29,Meu caro visconde,7,Auuus,nnl
+BOSCO,29,Meu caro visconde,8,aPauua,uug
+BOSCO,29,Meu caro visconde,9,AuuaA,nnn
+BOSCO,29,Meu caro visconde,10,Suup,gv
+BOSCO,29,Meu caro visconde,11,uuuuu,ur
+BOSCO,29,Meu caro visconde,12,uppauu,nucab
+BOSCO,29,Meu caro visconde,13,PppPPu,unn
+BOSCO,29,Meu caro visconde,14,Pppa,nnc
+BOSCO,29,Meu caro visconde,15,PppPP,nrb
+BOSCO,29,Meu caro visconde,16,PppPP,tgn
+BOSCO,29,Meu caro visconde,17,AuuspuPpuPpPPppa,grrrrrb
+BOSCO,29,Meu caro visconde,18,AuuspuPpuPpPPppa,grrrrrb
+BOSCO,30,Nacao,1,uuup,grb
+BOSCO,30,Nacao,2,Ppauu,gncl
+BOSCO,30,Nacao,3,Suup,grb
+BOSCO,30,Nacao,4,Pppau,gnnc
+BOSCO,30,Nacao,5,Aps,nabb
+BOSCO,30,Nacao,6,pp,nab
+BOSCO,30,Nacao,7,Apppp,nnn
+BOSCO,30,Nacao,8,Ap,nab
+BOSCO,30,Nacao,9,u,gab
+BOSCO,30,Nacao,10,PppPpa,jlnaab
+BOSCO,30,Nacao,11,paa,ln
+BOSCO,30,Nacao,12,paapu,gpnc
+BOSCO,30,Nacao,13,AA,jb
+BOSCO,30,Nacao,14,ps,naab
+BOSCO,30,Nacao,15,u,gag
+BOSCO,30,Nacao,16,PppPps,jlnag
+BOSCO,30,Nacao,17,aaa,ggn
+BOSCO,30,Nacao,18,Apppp,jpn
+BOSCO,30,Nacao,19,PPPSpa,nncabab
+BOSCO,30,Nacao,20,u,gaab
+BOSCO,30,Nacao,21,PpppAs,jlnaab
+BOSCO,30,Nacao,22,pap,bbn
+BOSCO,30,Nacao,23,uSaapp,gjnn
+BOSCO,30,Nacao,24,PPPSpa,nncbab
+BOSCO,30,Nacao,25,PS,gn
+BOSCO,30,Nacao,26,pPa,bgagag
+BOSCO,30,Nacao,27,Sp,gagab
+BOSCO,30,Nacao,28,papu,nnc
+BOSCO,30,Nacao,29,pap,bbn
+BOSCO,30,Nacao,30,PPp,nn
+BOSCO,30,Nacao,31,Sp,nab
+BOSCO,31,Quando o amor acontece,1,pP,ob
+BOSCO,31,Quando o amor acontece,2,pa,ob
+BOSCO,31,Quando o amor acontece,3,uupaa,osb
+BOSCO,31,Quando o amor acontece,4,PP,ob
+BOSCO,31,Quando o amor acontece,5,PP,ob
+BOSCO,31,Quando o amor acontece,6,app,oj
+BOSCO,31,Quando o amor acontece,7,uapPupP,gskdb
+BOSCO,31,Quando o amor acontece,8,ups,efdb
+BOSCO,31,Quando o amor acontece,9,uupps,osb
+BOSCO,31,Quando o amor acontece,10,PPuPP,osb
+BOSCO,31,Quando o amor acontece,11,PPu,oj
+BOSCO,31,Quando o amor acontece,12,PPpAaA,osj
+BOSCO,31,Quando o amor acontece,13,PPPuuup,ojjj
+BOSCO,31,Quando o amor acontece,14,pupupuppPAp,jjjjjj
+BOSCO,31,Quando o amor acontece,15,pPp,oj
+BOSCO,31,Quando o amor acontece,16,PPPuuup,ojjj
+BOSCO,31,Quando o amor acontece,17,pupupup,jjjj
+BOSCO,31,Quando o amor acontece,18,pppPa,jjj
+BOSCO,31,Quando o amor acontece,19,AAApa,ejbaaaaabae
+BOSCO,32,Nossas ultimas viagens,1,uuuppsu,jjjbab
+BOSCO,32,Nossas ultimas viagens,2,uuupps,jjjb
+BOSCO,32,Nossas ultimas viagens,3,uuuppsu,jjjbab
+BOSCO,32,Nossas ultimas viagens,4,uuupps,jjjb
+BOSCO,32,Nossas ultimas viagens,5,uuuausu,jjjbab
+BOSCO,32,Nossas ultimas viagens,6,uuuppsu,jjjbab
+BOSCO,32,Nossas ultimas viagens,7,uuuppsu,jjjbab
+BOSCO,32,Nossas ultimas viagens,8,uuuppsu,jjjbab
+BOSCO,32,Nossas ultimas viagens,9,uuuppau,jjjbab
+BOSCO,32,Nossas ultimas viagens,10,uuuppPu,jjjbab
+BOSCO,32,Nossas ultimas viagens,11,uuuppPu,jjjbab
+BOSCO,32,Nossas ultimas viagens,12,uuupppu,jjjbab
+BOSCO,32,Nossas ultimas viagens,13,uuuppsu,jjjbab
+BOSCO,32,Nossas ultimas viagens,14,uuuppP,jjjb
+BOSCO,32,Nossas ultimas viagens,15,uuuppPu,jjjbab
+BOSCO,32,Nossas ultimas viagens,16,usuAua,jjjb
+BOSCO,33,Plataforma,1,PPuppAu,jtnc
+BOSCO,33,Plataforma,2,PPuppAu,ntnc
+BOSCO,33,Plataforma,3,PPuppp,nrn
+BOSCO,33,Plataforma,4,PPuppAu,jtnc
+BOSCO,33,Plataforma,5,PPuppAu,ntnc
+BOSCO,33,Plataforma,6,PPPPPpaA,ntnn
+BOSCO,33,Plataforma,7,PPuppAu,jtnc
+BOSCO,33,Plataforma,8,PPuppAu,ntnc
+BOSCO,33,Plataforma,9,PPPPPpaAp,nrnnc
+BOSCO,33,Plataforma,10,pppppAu,ntnc
+BOSCO,33,Plataforma,11,pppppSa,nrnc
+BOSCO,33,Plataforma,12,PPPPPau,nrnc
+BOSCO,33,Plataforma,13,Aaa,babgab
+BOSCO,33,Plataforma,14,pppppPa,ntnab
+BOSCO,33,Plataforma,15,pppppPu,ntnaab
+BOSCO,33,Plataforma,16,PPPAppaA,ntnn
+BOSCO,33,Plataforma,17,ppu,babgab
+BOSCO,33,Plataforma,18,PPppPPp,jtnc
+BOSCO,33,Plataforma,19,PPppPPp,jtnc
+BOSCO,33,Plataforma,20,pSpAppp,jtnaab
+BOSCO,33,Plataforma,21,uuuPPppAau,nrrnc
+BOSCO,33,Plataforma,22,pppppPu,ntnab
+BOSCO,33,Plataforma,23,aapp,jjb
+BOSCO,33,Plataforma,24,Pu,nc
+BOSCO,33,Plataforma,25,ppa,nn
+BOSCO,34,Querido diario,1,APPPPPpp,ejjjj
+BOSCO,34,Querido diario,2,uPPppPaP,ejjjj
+BOSCO,34,Querido diario,3,APPPPPpa,ejjjj
+BOSCO,34,Querido diario,4,uPPpaAapA,ejjjje
+BOSCO,34,Querido diario,5,aaA,kdb
+BOSCO,34,Querido diario,6,aaA,kdb
+BOSCO,34,Querido diario,7,aaA,kdb
+BOSCO,34,Querido diario,8,aaA,kdb
+BOSCO,34,Querido diario,9,aaaA,bkdb
+BOSCO,34,Querido diario,10,aaaAu,ekdbe
+BOSCO,34,Querido diario,11,aaaAuS,ejjj
+BOSCO,34,Querido diario,12,aaAuuapA,kdkdje
+BOSCO,35,Samba do pouso,1,SsuSsuS,uun
+BOSCO,35,Samba do pouso,2,PPppPPs,pvh
+BOSCO,35,Samba do pouso,3,PsSPPps,ncgbob
+BOSCO,35,Samba do pouso,4,apps,npb
+BOSCO,35,Samba do pouso,5,a,n
+BOSCO,35,Samba do pouso,6,PAAppPa,nanlcaac
+BOSCO,35,Samba do pouso,7,PAAppP,nant
+BOSCO,35,Samba do pouso,8,uPpp,gtc
+BOSCO,35,Samba do pouso,9,PPs,nl
+BOSCO,35,Samba do pouso,10,uPpp,gtb
+BOSCO,35,Samba do pouso,11,uPpu,nnb
+BOSCO,36,Nesta data,1,uu,jb
+BOSCO,36,Nesta data,2,pppPa,eeajbb
+BOSCO,36,Nesta data,3,uu,jb
+BOSCO,36,Nesta data,4,pppPa,eeajbb
+BOSCO,36,Nesta data,5,uuu,kdb
+BOSCO,36,Nesta data,6,uuuuuuPPau,kdkdkdj
+BOSCO,36,Nesta data,7,uuu,kdb
+BOSCO,36,Nesta data,8,uuuuuuPPa,kdkdkdb
+BOSCO,36,Nesta data,9,uuu,kdb
+BOSCO,36,Nesta data,10,uuuuuuPPau,kdkdbjaeab
+BOSCO,36,Nesta data,11,uuu,kdb
+BOSCO,36,Nesta data,12,uuuuuuPPau,kdkdjeabe
+BOSCO,36,Nesta data,13,uu,jb
+BOSCO,36,Nesta data,14,uu,jb
+BOSCO,36,Nesta data,15,uuPpaA,jboj
+BOSCO,37,Profissionalismo e isso ai,1,uAuaA,nqb
+BOSCO,37,Profissionalismo e isso ai,2,paaa,png
+BOSCO,37,Profissionalismo e isso ai,3,uuuu,grc
+BOSCO,37,Profissionalismo e isso ai,4,AuaA,gqb
+BOSCO,37,Profissionalismo e isso ai,5,paaa,png
+BOSCO,37,Profissionalismo e isso ai,6,uuuu,grc
+BOSCO,37,Profissionalismo e isso ai,7,AuaAPpaau,gtrnc
+BOSCO,37,Profissionalismo e isso ai,8,uuaAu,grh
+BOSCO,37,Profissionalismo e isso ai,9,uuaAu,grh
+BOSCO,37,Profissionalismo e isso ai,10,AuaAu,grh
+BOSCO,37,Profissionalismo e isso ai,11,AuaA,grc
+BOSCO,37,Profissionalismo e isso ai,12,AauAPpaps,grrng
+BOSCO,37,Profissionalismo e isso ai,13,uauAPaua,nmtn
+BOSCO,37,Profissionalismo e isso ai,14,uauAPpaAu,gtrnc
+BOSCO,37,Profissionalismo e isso ai,15,uaAPpaPu,gmtnc
+BOSCO,37,Profissionalismo e isso ai,16,uuuPuuuaaA,grrrc
+BOSCO,37,Profissionalismo e isso ai,17,Au,nc
+BOSCO,37,Profissionalismo e isso ai,18,AuaA,grb
+BOSCO,37,Profissionalismo e isso ai,19,APpa,pnab
+BOSCO,37,Profissionalismo e isso ai,20,Aa,nab
+BOSCO,37,Profissionalismo e isso ai,21,Ss,nab
+BOSCO,37,Profissionalismo e isso ai,22,Au,nc
+BOSCO,37,Profissionalismo e isso ai,23,AuaA,grb
+BOSCO,37,Profissionalismo e isso ai,24,APpa,pnab
+BOSCO,38,Siameses,1,PPppau,sse
+BOSCO,38,Siameses,2,pAppau,osj
+BOSCO,38,Siameses,3,PppPa,ejjb
+BOSCO,38,Siameses,4,pAppau,osj
+BOSCO,38,Siameses,5,Aapapu,gvj
+BOSCO,38,Siameses,6,Apppp,ebsb
+BOSCO,38,Siameses,7,Auuu,esb
+BOSCO,38,Siameses,8,pApppus,ovbab
+BOSCO,38,Siameses,9,pPua,ejj
+BOSCO,38,Siameses,10,AapPps,ejjbab
+BOSCO,38,Siameses,11,PPppA,osb
+BOSCO,38,Siameses,12,aapSpsSpsu,kdkdkdbb
+BOSCO,38,Siameses,13,PPppA,ejjb
+BOSCO,38,Siameses,14,aapSpppApsu,kdkdjobe
+BOSCO,38,Siameses,15,PPppAu,ejjj
+BOSCO,38,Siameses,16,PppsS,fsbe
+BOSCO,38,Siameses,17,PppPpaapu,ossj
+BOSCO,38,Siameses,18,PPpps,osb
+BOSCO,38,Siameses,19,PPppsu,osbb
+BOSCO,38,Siameses,20,PAaAsu,osbb
+BOSCO,39,O bebado e a equilibrista,1,Au,ng
+BOSCO,39,O bebado e a equilibrista,2,Apppp,nnn
+BOSCO,39,O bebado e a equilibrista,3,Su,ng
+BOSCO,39,O bebado e a equilibrista,4,Apppa,nnn
+BOSCO,39,O bebado e a equilibrista,5,Pu,nab
+BOSCO,39,O bebado e a equilibrista,6,pApAp,bnanag
+BOSCO,39,O bebado e a equilibrista,7,Au,ng
+BOSCO,39,O bebado e a equilibrista,8,PPpppaA,nnnn
+BOSCO,39,O bebado e a equilibrista,9,PPppppPu,nnnnab
+BOSCO,39,O bebado e a equilibrista,10,PPSps,nnaabg
+BOSCO,39,O bebado e a equilibrista,11,Au,ebe
+BOSCO,39,O bebado e a equilibrista,12,PPppSaa,nnnn
+BOSCO,39,O bebado e a equilibrista,13,aapSaapp,nnnnaab
+BOSCO,39,O bebado e a equilibrista,14,pAp,babgaab
+BOSCO,39,O bebado e a equilibrista,15,s,bab
+BOSCO,39,O bebado e a equilibrista,16,PPppppAp,nnnnaab
+BOSCO,39,O bebado e a equilibrista,17,ppaappSp,nnnnab
+BOSCO,39,O bebado e a equilibrista,18,PPPPa,nnaabb
+BOSCO,39,O bebado e a equilibrista,19,uapp,crc
+BOSCO,40,Tenho dito,1,ppPpPpPs,ejjte
+BOSCO,40,Tenho dito,2,ppaa,eet
+BOSCO,40,Tenho dito,3,uuuuupApaa,ejjjkde
+BOSCO,40,Tenho dito,4,ppaa,eet
+BOSCO,40,Tenho dito,5,PaPpPpPu,ejjte
+BOSCO,40,Tenho dito,6,PPPpppSP,kdkdjaae
+BOSCO,40,Tenho dito,7,upPpPpPs,ejjte
+BOSCO,40,Tenho dito,8,as,eee
+BOSCO,40,Tenho dito,9,upPuupApaa,ejjjkde
+BOSCO,40,Tenho dito,10,pas,fdl
+BOSCO,40,Tenho dito,11,upPpPpPa,ejjbje
+BOSCO,40,Tenho dito,12,PPPPP,kdkd
+BOSCO,40,Tenho dito,13,PPAp,fdkd
+BOSCO,40,Tenho dito,14,paApapa,fdkdkd
+BOSCO,40,Tenho dito,15,AsPp,baaabaej
+BOSCO,40,Tenho dito,16,uuuu,fdkd
+BOSCO,40,Tenho dito,17,upA,fdbb
+BOSCO,40,Tenho dito,18,appPa,eejee
+BOSCO,40,Tenho dito,19,ppau,ejj
+BOSCO,40,Tenho dito,20,ppuAaAu,jjjj
+BOSCO,40,Tenho dito,21,aaa,jl
+BOSCO,40,Tenho dito,22,uApppPP,kdfdkd
+BOSCO,40,Tenho dito,23,uAuauAup,eejjt
+BOSCO,40,Tenho dito,24,uaaa,ejl
+BOSCO,40,Tenho dito,25,uAppppp,kdfdbeae
+BOSCO,41,Trilha sonora,1,uuuppuPap,vumg
+BOSCO,41,Trilha sonora,2,PPppupPs,ekdbpbg
+BOSCO,41,Trilha sonora,3,uuuppp,usb
+BOSCO,41,Trilha sonora,4,aAPaPu,bgvac
+BOSCO,41,Trilha sonora,5,PPaPu,gvac
+BOSCO,41,Trilha sonora,6,PPaP,gv
+BOSCO,41,Trilha sonora,7,pPaPs,pug
+BOSCO,41,Trilha sonora,8,PPaPA,gsbb
+BOSCO,41,Trilha sonora,9,uuppua,bdkdj
+BOSCO,41,Trilha sonora,10,Aaaap,gvb
+BOSCO,41,Trilha sonora,11,Puuupppa,naosj
+BOSCO,41,Trilha sonora,12,PSu,obaaab
+BOSCO,41,Trilha sonora,13,suuu,gqb
+BOSCO,41,Trilha sonora,14,pPupPu,oqbc
+BOSCO,41,Trilha sonora,15,supPu,gqbc
+BOSCO,41,Trilha sonora,16,PupP,gqb
+BOSCO,41,Trilha sonora,17,supP,gv
+BOSCO,41,Trilha sonora,18,aupP,gqb
+BOSCO,41,Trilha sonora,19,aupP,gv
+BOSCO,41,Trilha sonora,20,aupP,gqb
+BOSCO,42,Oficio de um puxador,1,AuuuaPapa,nnmbnab
+BOSCO,42,Oficio de um puxador,2,a,bg
+BOSCO,42,Oficio de um puxador,3,a,bg
+BOSCO,42,Oficio de um puxador,4,s,bg
+BOSCO,42,Oficio de um puxador,5,pppappppPPAs,gnnnnnn
+BOSCO,42,Oficio de um puxador,6,PPAA,gnn
+BOSCO,42,Oficio de um puxador,7,ppp,nabb
+BOSCO,42,Oficio de um puxador,8,pppappppPPAs,gnnnnnn
+BOSCO,42,Oficio de um puxador,9,PPApPPA,gnnnc
+BOSCO,42,Oficio de um puxador,10,Supupa,gjln
+BOSCO,42,Oficio de um puxador,11,uuuppA,nncn
+BOSCO,42,Oficio de um puxador,12,Suuppau,grbnag
+BOSCO,42,Oficio de um puxador,13,AuuppAa,grrc
+BOSCO,42,Oficio de um puxador,14,uuuAaA,grbn
+BOSCO,42,Oficio de um puxador,15,uuuPsppA,njbnn
+BOSCO,42,Oficio de um puxador,16,uuuupapp,grrn
+BOSCO,42,Oficio de um puxador,17,uuPP,gjl
+BOSCO,42,Oficio de um puxador,18,pAusPPsup,nncrbb
+BOSCO,42,Oficio de um puxador,19,papPPPpPPaA,rnnnnc
+BOSCO,42,Oficio de um puxador,20,uuuPaapp,grrn
+BOSCO,42,Oficio de um puxador,21,uuuP,grb
+BOSCO,42,Oficio de um puxador,22,PpAusuAusp,gnnnrc
+BOSCO,42,Oficio de um puxador,23,pppPPp,rrc
+BOSCO,42,Oficio de um puxador,24,pp,jb
+BOSCO,42,Oficio de um puxador,25,AuuuaP,nnmb
+BOSCO,42,Oficio de um puxador,26,pa,nab
+BOSCO,42,Oficio de um puxador,27,ppaAp,bbnn
+BOSCO,42,Oficio de um puxador,28,uuuu,nnc
+BOSCO,42,Oficio de um puxador,29,PuuuuuA,nnrb
+BOSCO,42,Oficio de um puxador,30,PuuuuAps,nnncn
+BOSCO,43,Papel mache,1,uuu,sb
+BOSCO,43,Papel mache,2,uuu,sb
+BOSCO,43,Papel mache,3,upPsPPupP,sbjsb
+BOSCO,43,Papel mache,4,aA,ob
+BOSCO,43,Papel mache,5,aPAAS,osb
+BOSCO,43,Papel mache,6,pAuaA,pqb
+BOSCO,43,Papel mache,7,PPPpua,oboj
+BOSCO,43,Papel mache,8,Auuuuuua,ekdkdj
+BOSCO,43,Papel mache,9,Suuu,gsb
+BOSCO,43,Papel mache,10,ppupP,osb
+BOSCO,43,Papel mache,11,ppupP,osb
+BOSCO,43,Papel mache,12,ppuuup,obakdb
+BOSCO,43,Papel mache,13,Auuua,gsj
+BOSCO,43,Papel mache,14,SuuuppaupP,gbobosb
+BOSCO,43,Papel mache,15,PSuuu,osb
+BOSCO,43,Papel mache,16,pauuu,objb
+BOSCO,43,Papel mache,17,Suuuuuua,ekdkdj
+BOSCO,44,Violeta de Belford Roxo,1,uuuuuu,ejjj
+BOSCO,44,Violeta de Belford Roxo,2,app,jbb
+BOSCO,44,Violeta de Belford Roxo,3,Ppp,jbb
+BOSCO,44,Violeta de Belford Roxo,4,uuuuuu,ejjj
+BOSCO,44,Violeta de Belford Roxo,5,uapp,ejbb
+BOSCO,44,Violeta de Belford Roxo,6,Ppp,jbb
+BOSCO,44,Violeta de Belford Roxo,7,uuuuuuu,ejaejj
+BOSCO,44,Violeta de Belford Roxo,8,uuuPauA,ejjjb
+BOSCO,44,Violeta de Belford Roxo,9,uuuuuuu,ejsj
+BOSCO,44,Violeta de Belford Roxo,10,uuuuuau,ejsj
+BOSCO,44,Violeta de Belford Roxo,11,uuuuuuu,ojjj
+BOSCO,44,Violeta de Belford Roxo,12,uuuuPsu,ejsj
+BOSCO,44,Violeta de Belford Roxo,13,uuuuuuuu,ejaojj
+BOSCO,44,Violeta de Belford Roxo,14,uuuuuuu,esjeb
+BOSCO,44,Violeta de Belford Roxo,15,PPuuuu,obaasb
+BOSCO,44,Violeta de Belford Roxo,16,puPpu,esj
+BOSCO,44,Violeta de Belford Roxo,17,uuuuuuSppup,ejojsbb
+BOSCO,44,Violeta de Belford Roxo,18,upuSppp,ojoj
+BOSCO,44,Violeta de Belford Roxo,19,PpPpPpu,jjbej
+BOSCO,44,Violeta de Belford Roxo,20,uuSpa,ejaeeb
+BOSCO,44,Violeta de Belford Roxo,21,PpPpPp,jjbeb
+BOSCO,44,Violeta de Belford Roxo,22,uSpPa,fdbjb
+BOSCO,44,Violeta de Belford Roxo,23,puPpPp,esbeb
+BOSCO,44,Violeta de Belford Roxo,24,uuSppp,ebjfdb
+BOSCO,44,Violeta de Belford Roxo,25,pSppup,fdbafdbaaab
+BOSCO,44,Violeta de Belford Roxo,26,uuSppp,kdbaajb
+BOSCO,44,Violeta de Belford Roxo,27,uuuSppp,objej
+BOSCO,44,Violeta de Belford Roxo,28,uuuSpa,jjjb
+BOSCO,45,Siri recheado e o cacete,1,PApaPPPAA,ejjrn
+BOSCO,45,Siri recheado e o cacete,2,app,gnc
+BOSCO,45,Siri recheado e o cacete,3,app,gnc
+BOSCO,45,Siri recheado e o cacete,4,paap,gnn
+BOSCO,45,Siri recheado e o cacete,5,uApppPAAA,nnnnn
+BOSCO,45,Siri recheado e o cacete,6,suupPP,gnrc
+BOSCO,45,Siri recheado e o cacete,7,ppaApaa,gcnrb
+BOSCO,45,Siri recheado e o cacete,8,uuaPupua,gnnnn
+BOSCO,45,Siri recheado e o cacete,9,Ps,r
+BOSCO,45,Siri recheado e o cacete,10,PspPa,jln
+BOSCO,45,Siri recheado e o cacete,11,uuuuuS,nnr
+BOSCO,45,Siri recheado e o cacete,12,uupppuauua,urnmb
+BOSCO,45,Siri recheado e o cacete,13,AuuuuuAuusPPPa,nntrrn
+BOSCO,45,Siri recheado e o cacete,14,pppaau,nnt
+BOSCO,45,Siri recheado e o cacete,15,ppAsA,nnj
+BOSCO,45,Siri recheado e o cacete,16,paappu,nnnc
+BOSCO,45,Siri recheado e o cacete,17,upAsA,nnj
+BOSCO,45,Siri recheado e o cacete,18,ppaap,nnn
+BOSCO,45,Siri recheado e o cacete,19,AApppaa,nnnn
+BOSCO,45,Siri recheado e o cacete,20,uuPuuPu,gnrj
+BOSCO,45,Siri recheado e o cacete,21,uuuppp,gnrb
+BOSCO,46,Denuncia vazia,1,Spaa,bbbbb
+BOSCO,46,Denuncia vazia,2,psAsSsSsS,bjjjjb
+BOSCO,46,Denuncia vazia,3,Aaa,ebabab
+BOSCO,46,Denuncia vazia,4,sSpaa,babbbbb
+BOSCO,46,Denuncia vazia,5,psAsSsSp,bjjjj
+BOSCO,46,Denuncia vazia,6,PSpp,okb
+BOSCO,46,Denuncia vazia,7,psSsS,bajjb
+BOSCO,46,Denuncia vazia,8,aa,babab
+BOSCO,47,Tabelas,1,ppppPPu,usj
+BOSCO,47,Tabelas,2,ppppPPu,usj
+BOSCO,47,Tabelas,3,SpppApa,esjj
+BOSCO,47,Tabelas,4,ppppPP,usb
+BOSCO,47,Tabelas,5,uPPppAs,usj
+BOSCO,47,Tabelas,6,ppppP,osb
+BOSCO,47,Tabelas,7,ppppAuu,usj
+BOSCO,47,Tabelas,8,ppppSpu,usj
+BOSCO,47,Tabelas,9,uPPppA,usb
+BOSCO,47,Tabelas,10,pppppPPu,uvj
+BOSCO,47,Tabelas,11,Ppppppu,usj
+BOSCO,47,Tabelas,12,PppPA,jsb
+BOSCO,47,Tabelas,13,PPppApu,pvj
+BOSCO,47,Tabelas,14,PPaPPpu,pvj
+BOSCO,47,Tabelas,15,PPpaPPPu,fssj
+BOSCO,47,Tabelas,16,pPapP,osb
+BOSCO,47,Tabelas,17,PPpppp,ssb
+BOSCO,47,Tabelas,18,PpPau,fsj
+BOSCO,47,Tabelas,19,PupPu,fsj
+BOSCO,47,Tabelas,20,PPPPu,fsj
+BOSCO,47,Tabelas,21,PPPPu,osc
+BOSCO,48,Terra dourada,1,Auuu,gqb
+BOSCO,48,Terra dourada,2,AuaA,gre
+BOSCO,48,Terra dourada,3,supPpa,gbum
+BOSCO,48,Terra dourada,4,AuaA,grb
+BOSCO,48,Terra dourada,5,Suuu,grc
+BOSCO,48,Terra dourada,6,Suuu,ebjb
+BOSCO,48,Terra dourada,7,Suuu,grc
+BOSCO,48,Terra dourada,8,SupP,erc
+BOSCO,48,Terra dourada,9,aupPs,gbnbab
+BOSCO,48,Terra dourada,10,auuu,grc
+BOSCO,48,Terra dourada,11,suuuA,grn
+BOSCO,48,Terra dourada,12,upP,bmb
+BOSCO,48,Terra dourada,13,suuu,grc
+BOSCO,48,Terra dourada,14,suaA,grc
+BOSCO,48,Terra dourada,15,suaA,grc
+BOSCO,48,Terra dourada,16,suaA,crc
+BOSCO,48,Terra dourada,17,auuupp,gvm
+BOSCO,48,Terra dourada,18,auuupp,ngrb
+BOSCO,48,Terra dourada,19,PaupP,prc
+BOSCO,48,Terra dourada,20,Pp,gh
+BOSCO,48,Terra dourada,21,Sa,cbe
+BOSCO,48,Terra dourada,22,pa,baabe
+BOSCO,48,Terra dourada,23,aa,bcb
+BOSCO,48,Terra dourada,24,pa,gl
+BOSCO,49,Tiro de misericordia,1,uuuuupPppaAu,nrrrh
+BOSCO,49,Tiro de misericordia,2,pppPu,grh
+BOSCO,49,Tiro de misericordia,3,pppP,grb
+BOSCO,49,Tiro de misericordia,4,uuuuupPppaAu,nrrrh
+BOSCO,49,Tiro de misericordia,5,pppPu,grh
+BOSCO,49,Tiro de misericordia,6,pppPu,grh
+BOSCO,49,Tiro de misericordia,7,Suuuupp,grnj
+BOSCO,49,Tiro de misericordia,8,AuuuPuu,ernm
+BOSCO,49,Tiro de misericordia,9,SuuuaAuapPu,ernrnc
+BOSCO,49,Tiro de misericordia,10,Suuuupp,ernj
+BOSCO,49,Tiro de misericordia,11,AuuuPsu,ernn
+BOSCO,49,Tiro de misericordia,12,SuuuaAuapPuu,ernrnm
+BOSCO,50,Um por todos,1,uAupppau,ejjjj
+BOSCO,50,Um por todos,2,uAupppau,ejjjj
+BOSCO,50,Um por todos,3,uAupppa,ejjjb
+BOSCO,50,Um por todos,4,uAuAuPsu,ejjjj
+BOSCO,50,Um por todos,5,PPPPPp,ejjj
+BOSCO,50,Um por todos,6,pppPu,eejj
+BOSCO,50,Um por todos,7,pPpppPu,jeejj
+BOSCO,50,Um por todos,8,pPpppPp,kdkdj
+BOSCO,50,Um por todos,9,pppPu,eejbb
+BOSCO,50,Um por todos,10,sSuu,bjbb
+BOSCO,50,Um por todos,11,paPPAu,ejjj
+BOSCO,50,Um por todos,12,PSuu,ejbb
+BOSCO,50,Um por todos,13,paPPA,fdkdb
+BOSCO,50,Um por todos,14,Suuu,jbl
+BOSCO,50,Um por todos,15,SuuP,jbl
+BOSCO,50,Um por todos,16,SuuusSupP,jbbkdbj
+BOSCO,50,Um por todos,17,sSu,bjb
+BOSCO,50,Um por todos,18,paPPAsSuu,fdkdjje
+BOSCO,50,Um por todos,19,paPPAsSuuu,fdkdbjbl
+BOSCO,50,Um por todos,20,SuuP,jbl
+BOSCO,50,Um por todos,21,SuusSupP,jbakdbj

@@ -1,0 +1,1741 @@
+corpus_id,composition_id,composition_name,chord_index,root,bass,chord_type,chord_symbol,functional_category,key,mode,position
+DJAVAN,1,Flor de lis,1,0,0,Z2,*M7.9,I,0,major,1.0
+DJAVAN,1,Flor de lis,2,11,11,y0,*Ø,II__X,0,major,3.0
+DJAVAN,1,Flor de lis,3,4,4,Y4.1,*7(b13),V/VI,0,major,4.0
+DJAVAN,1,Flor de lis,4,9,9,z2,*m7.9,II__X,0,major,5.0
+DJAVAN,1,Flor de lis,5,2,2,Y4,*7.13,V/V,0,major,6.0
+DJAVAN,1,Flor de lis,6,7,7,z0,*m7,II__X,0,major,7.0
+DJAVAN,1,Flor de lis,7,0,0,Y2,*7.9,V/IV,0,major,8.0
+DJAVAN,1,Flor de lis,8,6,6,y0,*Ø,II__X,0,major,9.0
+DJAVAN,1,Flor de lis,9,11,11,Y2.3,*7(b9),V/bVII,0,major,10.0
+DJAVAN,1,Flor de lis,10,10,10,Z0,*M7,bVII7M,0,major,11.0
+DJAVAN,1,Flor de lis,11,9,9,Y4.1,*7(b13),V/II,0,major,12.0
+DJAVAN,1,Flor de lis,12,6,6,y0,*Ø,II__X,0,major,13.0
+DJAVAN,1,Flor de lis,13,11,11,Y2.3,*7(b9),V/bVII,0,major,14.0
+DJAVAN,1,Flor de lis,14,4,4,z2,*m7.9,II__X,0,major,15.0
+DJAVAN,1,Flor de lis,15,9,9,Y4.1,*7(b13),V/II,0,major,16.0
+DJAVAN,1,Flor de lis,16,9,9,z1,*m6,VI,0,major,17.0
+DJAVAN,1,Flor de lis,17,5,5,z1,*m6,IVm7,0,major,18.0
+DJAVAN,1,Flor de lis,18,0,0,Z2,*M7.9,I,0,major,19.0
+DJAVAN,1,Flor de lis,19,4,4,Y2.4,*7(#9),V/VI,0,major,20.0
+DJAVAN,1,Flor de lis,20,9,9,z2,*m7.9,VI,0,major,21.0
+DJAVAN,1,Flor de lis,21,4,8,V0,*,V/VI,0,major,22.0
+DJAVAN,1,Flor de lis,22,7,7,z0,*m7,II__X,0,major,23.0
+DJAVAN,1,Flor de lis,23,0,0,Y2,*7.9,V/IV,0,major,24.0
+DJAVAN,1,Flor de lis,24,5,5,Z0,*M7,IV,0,major,25.0
+DJAVAN,1,Flor de lis,25,10,10,Y2,*7.9,bVII7,0,major,26.0
+DJAVAN,1,Flor de lis,26,4,4,z2,*m7.9,II__X,0,major,27.0
+DJAVAN,1,Flor de lis,27,9,9,Y4.1,*7(b13),V/II,0,major,28.0
+DJAVAN,1,Flor de lis,28,2,2,Y2,*7.9,V/V,0,major,29.0
+DJAVAN,1,Flor de lis,29,7,7,Y1.1,*4.7.9,V,0,major,30.0
+DJAVAN,1,Flor de lis,30,0,0,Z1.1,*6.9,I,0,major,31.0
+DJAVAN,1,Flor de lis,31,7,7,W0,*(#5)7,V,0,major,32.0
+DJAVAN,1,Flor de lis,32,0,0,Z2,*M7.9,I,0,major,33.0
+DJAVAN,2,E que Deus ajude,1,4,4,z2,*m7.9,II,2,major,1.0
+DJAVAN,2,E que Deus ajude,2,9,9,Y1.1,*4.7.9,V,2,major,2.5
+DJAVAN,2,E que Deus ajude,3,6,6,z0,*m7,II__X,2,major,3.0
+DJAVAN,2,E que Deus ajude,4,11,11,Y2.4,*7(#9),V/II,2,major,3.5
+DJAVAN,2,E que Deus ajude,5,4,4,z2,*m7.9,II,2,major,4.0
+DJAVAN,2,E que Deus ajude,6,9,9,Y1.1,*4.7.9,V,2,major,4.5
+DJAVAN,2,E que Deus ajude,7,2,2,Z1.1,*6.9,I,2,major,5.0
+DJAVAN,2,E que Deus ajude,8,11,11,X0,*(b5)7,V/II,2,major,5.5
+DJAVAN,2,E que Deus ajude,9,4,4,z2,*m7.9,II,2,major,6.0
+DJAVAN,2,E que Deus ajude,10,9,9,Y1.1,*4.7.9,V,2,major,6.5
+DJAVAN,2,E que Deus ajude,11,6,6,z0,*m7,II__X,2,major,7.0
+DJAVAN,2,E que Deus ajude,12,11,11,Y2.4,*7(#9),V/II,2,major,7.5
+DJAVAN,2,E que Deus ajude,13,4,4,z2,*m7.9,II,2,major,8.0
+DJAVAN,2,E que Deus ajude,14,9,9,Y1.1,*4.7.9,V,2,major,8.5
+DJAVAN,2,E que Deus ajude,15,2,2,Z1.1,*6.9,I,2,major,9.0
+DJAVAN,2,E que Deus ajude,16,11,11,X0,*(b5)7,V/II,2,major,9.5
+DJAVAN,2,E que Deus ajude,17,4,4,z2,*m7.9,II,2,major,10.0
+DJAVAN,2,E que Deus ajude,18,9,9,Y1.1,*4.7.9,V,2,major,10.5
+DJAVAN,2,E que Deus ajude,19,6,6,z0,*m7,II__X,2,major,11.0
+DJAVAN,2,E que Deus ajude,20,11,11,Y2.4,*7(#9),V/II,2,major,11.5
+DJAVAN,2,E que Deus ajude,21,4,4,z2,*m7.9,II,2,major,12.0
+DJAVAN,2,E que Deus ajude,22,9,9,Y1.1,*4.7.9,V,2,major,12.5
+DJAVAN,2,E que Deus ajude,23,2,2,Z1.1,*6.9,I,2,major,13.0
+DJAVAN,2,E que Deus ajude,24,11,11,X0,*(b5)7,V/II,2,major,13.5
+DJAVAN,2,E que Deus ajude,25,4,4,z2,*m7.9,II,2,major,14.0
+DJAVAN,2,E que Deus ajude,26,9,9,Y1.1,*4.7.9,V,2,major,14.5
+DJAVAN,2,E que Deus ajude,27,6,6,z0,*m7,II__X,2,major,15.0
+DJAVAN,2,E que Deus ajude,28,11,11,Y2.4,*7(#9),V/II,2,major,15.5
+DJAVAN,2,E que Deus ajude,29,4,4,z2,*m7.9,II,2,major,16.0
+DJAVAN,2,E que Deus ajude,30,9,9,Y1.1,*4.7.9,V,2,major,16.5
+DJAVAN,2,E que Deus ajude,31,2,2,Z1.1,*6.9,I,2,major,17.0
+DJAVAN,2,E que Deus ajude,32,11,11,X0,*(b5)7,V/II,2,major,17.5
+DJAVAN,2,E que Deus ajude,33,4,4,z2,*m7.9,II,2,major,18.0
+DJAVAN,2,E que Deus ajude,34,9,9,Y1.1,*4.7.9,V,2,major,18.5
+DJAVAN,2,E que Deus ajude,35,2,2,Z1.1,*6.9,I,2,major,19.0
+DJAVAN,2,E que Deus ajude,36,11,11,X0,*(b5)7,V/II,2,major,19.5
+DJAVAN,2,E que Deus ajude,37,4,4,z2,*m7.9,II,2,major,20.0
+DJAVAN,2,E que Deus ajude,38,9,9,Y1.1,*4.7.9,V,2,major,20.5
+DJAVAN,2,E que Deus ajude,39,2,2,Z1.1,*6.9,I,2,major,21.0
+DJAVAN,2,E que Deus ajude,40,11,11,X0,*(b5)7,V/II,2,major,21.5
+DJAVAN,2,E que Deus ajude,41,4,4,z2,*m7.9,II,2,major,22.0
+DJAVAN,2,E que Deus ajude,42,9,9,Y1.1,*4.7.9,V,2,major,22.5
+DJAVAN,2,E que Deus ajude,43,2,2,Z1.1,*6.9,I,2,major,23.0
+DJAVAN,2,E que Deus ajude,44,11,11,X0,*(b5)7,V/II,2,major,23.5
+DJAVAN,2,E que Deus ajude,45,4,4,z2,*m7.9,II,2,major,24.0
+DJAVAN,2,E que Deus ajude,46,9,9,Y1.1,*4.7.9,V,2,major,24.5
+DJAVAN,2,E que Deus ajude,47,6,6,z0,*m7,II__X,2,major,25.0
+DJAVAN,2,E que Deus ajude,48,11,11,Y2.4,*7(#9),V/II,2,major,25.5
+DJAVAN,2,E que Deus ajude,49,4,4,z2,*m7.9,II,2,major,26.0
+DJAVAN,2,E que Deus ajude,50,9,9,Y1.1,*4.7.9,V,2,major,26.5
+DJAVAN,2,E que Deus ajude,51,2,2,Z1.1,*6.9,I,2,major,27.0
+DJAVAN,3,Lilas,1,9,9,z0,*m7,I,9,minor,1.0
+DJAVAN,3,Lilas,2,9,7,z0,*m7,I,9,minor,3.0
+DJAVAN,3,Lilas,3,5,5,Z0,*M7,VI,9,minor,5.0
+DJAVAN,3,Lilas,4,4,4,z0,*m7,Vm7,9,minor,6.0
+DJAVAN,3,Lilas,5,2,2,z0,*m7,IV,9,minor,7.0
+DJAVAN,3,Lilas,6,7,7,Y0,*7,bVII7,9,minor,8.0
+DJAVAN,3,Lilas,7,9,9,z0,*m7,I,9,minor,9.0
+DJAVAN,3,Lilas,8,9,7,z0,*m7,I,9,minor,9.5
+DJAVAN,3,Lilas,9,5,5,Z0,*M7,VI,9,minor,10.0
+DJAVAN,3,Lilas,10,4,4,z0,*m7,Vm7,9,minor,10.5
+DJAVAN,3,Lilas,11,9,9,z0,*m7,I,9,minor,11.0
+DJAVAN,3,Lilas,12,9,7,z0,*m7,I,9,minor,11.5
+DJAVAN,3,Lilas,13,5,5,Z0,*M7,VI,9,minor,12.0
+DJAVAN,3,Lilas,14,4,4,z0,*m7,Vm7,9,minor,12.5
+DJAVAN,3,Lilas,15,9,9,z0,*m7,I,9,minor,13.0
+DJAVAN,3,Lilas,16,11,11,Y1,*4.7,V/V,9,minor,14.0
+DJAVAN,3,Lilas,17,0,0,Z0,*M7,VI,4,minor,15.0
+DJAVAN,3,Lilas,18,4,4,z0,*m7,I,4,minor,16.0
+DJAVAN,3,Lilas,19,0,0,Z0,*M7,VI,4,minor,17.0
+DJAVAN,3,Lilas,20,4,4,z0,*m7,I,4,minor,18.0
+DJAVAN,3,Lilas,21,6,6,Y0,*7,V/V,4,minor,19.0
+DJAVAN,3,Lilas,22,9,9,z0,*m7,IV,4,minor,20.0
+DJAVAN,3,Lilas,23,4,4,z0,*m7,I,4,minor,21.0
+DJAVAN,3,Lilas,24,9,9,z0,*m7,I,9,minor,22.0
+DJAVAN,4,Nem um dia,1,2,2,v0,*m,I,2,minor,1.0
+DJAVAN,4,Nem um dia,2,0,0,Y1,*4.7,bVII7,2,minor,2.0
+DJAVAN,4,Nem um dia,3,10,10,V1,*4,VI,2,minor,3.0
+DJAVAN,4,Nem um dia,4,9,9,Y1.1.3,*4.7(b9),V,2,minor,4.0
+DJAVAN,4,Nem um dia,5,2,2,v0,*m,I,2,minor,5.0
+DJAVAN,4,Nem um dia,6,0,0,Y1,*4.7,bVII7,2,minor,6.0
+DJAVAN,4,Nem um dia,7,10,10,V1,*4,VI,2,minor,7.0
+DJAVAN,4,Nem um dia,8,9,9,Y1.1.3,*4.7(b9),V,2,minor,8.0
+DJAVAN,4,Nem um dia,9,2,2,v0,*m,I,2,minor,9.0
+DJAVAN,4,Nem um dia,10,0,0,Z1.1,*6.9,bVII7M,2,minor,10.0
+DJAVAN,4,Nem um dia,11,10,10,Z1.1,*6.9,VI,2,minor,11.0
+DJAVAN,4,Nem um dia,12,9,9,Y1.1,*4.7.9,V,2,minor,12.0
+DJAVAN,4,Nem um dia,13,10,10,V1,*4,VI,2,minor,13.0
+DJAVAN,4,Nem um dia,14,2,2,z0,*m7,I,2,minor,14.0
+DJAVAN,4,Nem um dia,15,10,10,Y2.2,*7.9.13,SubV/V,2,minor,15.0
+DJAVAN,4,Nem um dia,16,4,4,z3,*m7.11,II,2,minor,16.0
+DJAVAN,4,Nem um dia,17,9,9,Y4.1,*7(b13),V,2,minor,17.0
+DJAVAN,4,Nem um dia,18,10,10,V1,*4,VI,2,minor,18.0
+DJAVAN,4,Nem um dia,19,2,2,z0,*m7,I,2,minor,19.0
+DJAVAN,4,Nem um dia,20,10,10,Y2.2,*7.9.13,SubV/V,2,minor,20.0
+DJAVAN,4,Nem um dia,21,4,4,z3,*m7.11,II,2,minor,21.0
+DJAVAN,4,Nem um dia,22,9,9,Y4.1,*7(b13),V,2,minor,22.0
+DJAVAN,4,Nem um dia,23,4,4,z3,*m7.11,II,2,minor,23.0
+DJAVAN,4,Nem um dia,24,9,9,Y4.1,*7(b13),V,2,minor,24.0
+DJAVAN,4,Nem um dia,25,9,9,Y2.4,*7(#9),V,2,minor,24.5
+DJAVAN,4,Nem um dia,26,2,2,z0,*m7,I,2,minor,25.0
+DJAVAN,5,Muito obrigado,1,2,2,Z2,*M7.9,I,2,major,1.0
+DJAVAN,5,Muito obrigado,2,11,11,Y2.4,*7(#9),V/II,2,major,1.5
+DJAVAN,5,Muito obrigado,3,4,4,Y2,*7.9,V/V,2,major,2.0
+DJAVAN,5,Muito obrigado,4,9,9,Y1.1,*4.7.9,V,2,major,2.5
+DJAVAN,5,Muito obrigado,5,6,6,z0,*m7,II__X,2,major,3.0
+DJAVAN,5,Muito obrigado,6,11,11,Y2.3,*7(b9),V/II,2,major,3.5
+DJAVAN,5,Muito obrigado,7,4,4,Y2,*7.9,V/V,2,major,4.0
+DJAVAN,5,Muito obrigado,8,9,9,Y1.1,*4.7.9,V,2,major,4.5
+DJAVAN,5,Muito obrigado,9,6,6,z0,*m7,II__X,2,major,5.0
+DJAVAN,5,Muito obrigado,10,11,11,Y2.3,*7(b9),V/II,2,major,5.5
+DJAVAN,5,Muito obrigado,11,4,4,Y2,*7.9,V/V,2,major,6.0
+DJAVAN,5,Muito obrigado,12,9,9,Y1.1,*4.7.9,V,2,major,6.5
+DJAVAN,5,Muito obrigado,13,2,2,Z2,*M7.9,I,2,major,7.0
+DJAVAN,5,Muito obrigado,14,11,11,W0,*(#5)7,V/II,2,major,7.5
+DJAVAN,5,Muito obrigado,15,4,4,z2,*m7.9,II,2,major,8.0
+DJAVAN,5,Muito obrigado,16,9,9,Y1.1,*4.7.9,V,2,major,8.5
+DJAVAN,5,Muito obrigado,17,9,9,Y2,*7.9,V,2,major,8.75
+DJAVAN,5,Muito obrigado,18,2,2,Z2,*M7.9,I,2,major,9.0
+DJAVAN,5,Muito obrigado,19,11,11,Y2.4,*7(#9),V/II,2,major,9.5
+DJAVAN,5,Muito obrigado,20,4,4,Y2,*7.9,V/V,2,major,10.0
+DJAVAN,5,Muito obrigado,21,9,9,Y1.1,*4.7.9,V,2,major,10.5
+DJAVAN,5,Muito obrigado,22,6,6,z0,*m7,II__X,2,major,11.0
+DJAVAN,5,Muito obrigado,23,11,11,Y2.3,*7(b9),V/II,2,major,11.5
+DJAVAN,5,Muito obrigado,24,4,4,Y2,*7.9,V/V,2,major,12.0
+DJAVAN,5,Muito obrigado,25,9,9,Y1.1,*4.7.9,V,2,major,12.5
+DJAVAN,5,Muito obrigado,26,6,6,z0,*m7,II__X,2,major,13.0
+DJAVAN,5,Muito obrigado,27,11,11,Y2.3,*7(b9),V/II,2,major,13.5
+DJAVAN,5,Muito obrigado,28,4,4,Y2,*7.9,V/V,2,major,14.0
+DJAVAN,5,Muito obrigado,29,9,9,Y1.1,*4.7.9,V,2,major,14.5
+DJAVAN,5,Muito obrigado,30,6,6,z0,*m7,II__X,2,major,15.0
+DJAVAN,5,Muito obrigado,31,11,11,Y2.4,*7(#9),V/II,2,major,16.0
+DJAVAN,5,Muito obrigado,32,4,4,Y2,*7.9,V/V,2,major,17.0
+DJAVAN,5,Muito obrigado,33,9,9,Y1.1,*4.7.9,V,2,major,18.0
+DJAVAN,5,Muito obrigado,34,2,2,Z2,*M7.9,I,2,major,19.0
+DJAVAN,5,Muito obrigado,35,11,11,Y2.4,*7(#9),V/II,2,major,20.0
+DJAVAN,5,Muito obrigado,36,4,4,Y2,*7.9,V/V,2,major,21.0
+DJAVAN,5,Muito obrigado,37,9,9,Y1.1,*4.7.9,V,2,major,22.0
+DJAVAN,5,Muito obrigado,38,6,6,z0,*m7,II__X,2,major,23.0
+DJAVAN,5,Muito obrigado,39,11,11,Y2.3,*7(b9),V/II,2,major,24.0
+DJAVAN,5,Muito obrigado,40,4,4,Y2,*7.9,V/V,2,major,25.0
+DJAVAN,5,Muito obrigado,41,9,9,Y1.1,*4.7.9,V,2,major,26.0
+DJAVAN,5,Muito obrigado,42,6,6,z0,*m7,II__X,2,major,27.0
+DJAVAN,5,Muito obrigado,43,11,11,Y2.4,*7(#9),V/II,2,major,28.0
+DJAVAN,5,Muito obrigado,44,4,4,z0,*m7,II,2,major,29.0
+DJAVAN,5,Muito obrigado,45,4,2,z0,*m7,II,2,major,29.5
+DJAVAN,5,Muito obrigado,46,1,1,y0,*Ø,II__X,2,major,30.0
+DJAVAN,5,Muito obrigado,47,6,6,Y2.3,*7(b9),V/VI,2,major,30.5
+DJAVAN,5,Muito obrigado,48,11,11,z0,*m7,II__X,2,major,31.0
+DJAVAN,5,Muito obrigado,49,4,4,Y2,*7.9,V/V,2,major,31.5
+DJAVAN,5,Muito obrigado,50,9,9,z0,*m7,II__X,2,major,32.0
+DJAVAN,5,Muito obrigado,51,2,2,Y2,*7.9,V/IV,2,major,32.5
+DJAVAN,5,Muito obrigado,52,7,7,Z1,*6,IV,2,major,33.0
+DJAVAN,5,Muito obrigado,53,9,9,Y2,*7.9,V,2,major,34.0
+DJAVAN,5,Muito obrigado,54,2,2,Z2,*M7.9,I,2,major,35.0
+DJAVAN,5,Muito obrigado,55,11,11,Y2.4,*7(#9),V/II,2,major,36.0
+DJAVAN,5,Muito obrigado,56,4,4,Y2,*7.9,V/V,2,major,37.0
+DJAVAN,5,Muito obrigado,57,9,9,Y1.1,*4.7.9,V,2,major,38.0
+DJAVAN,5,Muito obrigado,58,6,6,z0,*m7,II__X,2,major,39.0
+DJAVAN,5,Muito obrigado,59,11,11,Y2.3,*7(b9),V/II,2,major,40.0
+DJAVAN,5,Muito obrigado,60,4,4,Y2,*7.9,V/V,2,major,41.0
+DJAVAN,5,Muito obrigado,61,9,9,Y1.1,*4.7.9,V,2,major,42.0
+DJAVAN,5,Muito obrigado,62,6,6,z0,*m7,II__X,2,major,43.0
+DJAVAN,5,Muito obrigado,63,11,11,Y2.4,*7(#9),V/II,2,major,44.0
+DJAVAN,5,Muito obrigado,64,4,4,Y2,*7.9,V/V,2,major,44.5
+DJAVAN,5,Muito obrigado,65,9,9,Y1.1,*4.7.9,V,2,major,45.0
+DJAVAN,5,Muito obrigado,66,2,2,Z2,*M7.9,I,2,major,45.5
+DJAVAN,6,Obi,1,7,7,Z0,*M7,I,7,major,1.0
+DJAVAN,6,Obi,2,9,9,z0,*m7,II,7,major,2.0
+DJAVAN,6,Obi,3,10,10,x0,*°7,?,7,major,3.0
+DJAVAN,6,Obi,4,4,4,z0,*m7,II__X,7,major,4.0
+DJAVAN,6,Obi,5,9,9,Y2,*7.9,V/V,7,major,5.0
+DJAVAN,6,Obi,6,9,9,z0,*m7,II,7,major,7.0
+DJAVAN,6,Obi,7,8,8,x0,*°7,V°/II,7,major,8.0
+DJAVAN,6,Obi,8,9,9,z0,*m7,II,7,major,9.0
+DJAVAN,6,Obi,9,0,0,z1,*m6,IVm7,7,major,10.0
+DJAVAN,6,Obi,10,7,7,Z0,*M7,I,7,major,11.0
+DJAVAN,6,Obi,11,9,9,z0,*m7,II,7,major,16.0
+DJAVAN,6,Obi,12,10,10,x0,*°7,?,7,major,17.0
+DJAVAN,6,Obi,13,4,4,z0,*m7,II__X,7,major,18.0
+DJAVAN,6,Obi,14,9,9,Y2,*7.9,V/V,7,major,19.0
+DJAVAN,6,Obi,15,9,9,z0,*m7,II,7,major,21.0
+DJAVAN,6,Obi,16,0,0,z1,*m6,IVm7,7,major,22.0
+DJAVAN,6,Obi,17,11,11,z0,*m7,III,7,major,23.0
+DJAVAN,6,Obi,18,3,10,Y0,*7,SubV/V,7,major,24.0
+DJAVAN,6,Obi,19,9,9,z0,*m7,II,7,major,25.0
+DJAVAN,6,Obi,20,2,2,Y2,*7.9,V,7,major,26.0
+DJAVAN,6,Obi,21,7,7,Z0,*M7,I,7,major,27.0
+DJAVAN,6,Obi,22,4,4,z2,*m7.9,VI,7,major,28.0
+DJAVAN,6,Obi,23,2,2,z2,*m7.9,II__X,7,major,29.0
+DJAVAN,6,Obi,24,7,7,Y0,*7,V/IV,7,major,30.0
+DJAVAN,6,Obi,25,2,2,z2,*m7.9,II__X,7,major,31.0
+DJAVAN,6,Obi,26,7,7,Y0,*7,V/IV,7,major,32.0
+DJAVAN,6,Obi,27,2,2,z2,*m7.9,II__X,7,major,33.0
+DJAVAN,6,Obi,28,6,6,Y0,*7,?,7,major,34.0
+DJAVAN,6,Obi,29,5,5,Y0,*7,SubV/VI,7,major,35.0
+DJAVAN,6,Obi,30,4,4,Y2,*7.9,V/II,7,major,36.0
+DJAVAN,6,Obi,31,9,9,Y2,*7.9,V/V,7,major,38.0
+DJAVAN,6,Obi,32,2,2,Y2,*7.9,V,7,major,39.0
+DJAVAN,6,Obi,33,7,7,Z0,*M7,I,7,major,40.0
+DJAVAN,7,Passou,1,4,4,Z2,*M7.9,I,4,major,1.0
+DJAVAN,7,Passou,2,9,9,Z0,*M7,IV,4,major,2.0
+DJAVAN,7,Passou,3,9,9,z1,*m6,IVm7,4,major,3.0
+DJAVAN,7,Passou,4,8,8,z0,*m7,III,4,major,4.0
+DJAVAN,7,Passou,5,7,7,x3,*°7(b13),bIII°,4,major,5.0
+DJAVAN,7,Passou,6,6,10,Y0,*7,V/V,4,major,6.0
+DJAVAN,7,Passou,7,9,9,z1,*m6,IVm7,4,major,7.0
+DJAVAN,7,Passou,8,8,8,z0,*m7,III,4,major,8.0
+DJAVAN,7,Passou,9,10,10,x0,*°7,?,4,major,9.0
+DJAVAN,7,Passou,10,9,9,Z0,*M7,IV,4,major,10.0
+DJAVAN,7,Passou,11,9,9,z1,*m6,IVm7,4,major,11.0
+DJAVAN,7,Passou,12,8,8,z0,*m7,III,4,major,12.0
+DJAVAN,7,Passou,13,7,7,z1,*m6,bIIIm7,4,major,13.0
+DJAVAN,7,Passou,14,5,5,Z0,*M7,bII7M,4,major,14.0
+DJAVAN,7,Passou,15,11,11,Y1.1,*4.7.9,V,4,major,15.0
+DJAVAN,7,Passou,16,4,4,Z2,*M7.9,I,4,major,16.0
+DJAVAN,7,Passou,17,4,4,Y2,*7.9,V/IV,4,major,17.0
+DJAVAN,7,Passou,18,9,9,Z0,*M7,IV,4,major,18.0
+DJAVAN,7,Passou,19,9,9,z1,*m6,IVm7,4,major,19.0
+DJAVAN,7,Passou,20,7,7,Z0,*M7,bIII7M,4,major,20.0
+DJAVAN,7,Passou,21,0,0,Z0,*M7,bVI7M,4,major,21.0
+DJAVAN,7,Passou,22,6,6,Y1,*4.7,V/V,4,major,21.75
+DJAVAN,7,Passou,23,5,5,Z0,*M7,bII7M,4,major,22.0
+DJAVAN,7,Passou,24,4,4,Y1.1,*4.7.9,V/IV,4,major,23.0
+DJAVAN,7,Passou,25,4,4,Y2,*7.9,V/IV,4,major,23.5
+DJAVAN,7,Passou,26,9,9,Z0,*M7,I,4,major,24.0
+DJAVAN,7,Passou,27,9,9,z1,*m6,IVm7,4,major,25.0
+DJAVAN,7,Passou,28,7,7,Z0,*M7,bIII7M,4,major,26.0
+DJAVAN,7,Passou,29,0,0,Y2,*7.9,V/bII,4,major,27.0
+DJAVAN,7,Passou,30,5,5,Z0,*M7,bII7M,4,major,28.0
+DJAVAN,7,Passou,31,4,4,Y1.1,*4.7.9,V/IV,4,major,29.0
+DJAVAN,7,Passou,32,2,2,Y1.1,*4.7.9,bVII7,4,major,29.5
+DJAVAN,7,Passou,33,0,0,Y1.1,*4.7.9,SubV/V,4,major,30.0
+DJAVAN,7,Passou,34,10,10,Y1.1,*4.7.9,SubV/IV,4,major,30.5
+DJAVAN,7,Passou,35,4,4,Y4.1,*7(b13),V,9,major,30.75
+DJAVAN,7,Passou,36,9,9,Z0,*M7,I,9,major,31.0
+DJAVAN,7,Passou,37,8,8,Y4.1,*7(b13),aSubV,9,major,32.0
+DJAVAN,7,Passou,38,9,9,Z0,*M7,I,9,major,33.0
+DJAVAN,7,Passou,39,7,7,Z0,*M7,bVII7M,9,major,34.0
+DJAVAN,7,Passou,40,6,6,Y4.1,*7(b13),V/II,9,major,34.5
+DJAVAN,7,Passou,41,11,11,z0,*m7,II,9,major,35.0
+DJAVAN,7,Passou,42,1,1,z0,*m7,III,9,major,35.5
+DJAVAN,7,Passou,43,2,2,Z0,*M7,IV,9,major,36.0
+DJAVAN,7,Passou,44,4,4,Y1.1,*4.7.9,V,9,major,36.5
+DJAVAN,7,Passou,45,9,9,Z0,*M7,I,9,major,37.0
+DJAVAN,7,Passou,46,8,8,Y4.1,*7(b13),aSubV,9,major,39.0
+DJAVAN,7,Passou,47,9,9,Z0,*M7,I,9,major,40.0
+DJAVAN,7,Passou,48,7,7,Z0,*M7,bIII7M,9,major,41.0
+DJAVAN,7,Passou,49,6,6,Y4.1,*7(b13),V/II,9,major,41.5
+DJAVAN,7,Passou,50,11,11,z0,*m7,II,9,major,42.0
+DJAVAN,7,Passou,51,1,1,z0,*m7,III,9,major,42.5
+DJAVAN,7,Passou,52,2,2,Z0,*M7,IV,9,major,43.0
+DJAVAN,7,Passou,53,4,4,Y1.1,*4.7.9,V,9,major,43.5
+DJAVAN,7,Passou,54,9,9,Z0,*M7,I,9,major,44.0
+DJAVAN,7,Passou,55,7,7,Z0,*M7,bVII7M,9,major,45.0
+DJAVAN,7,Passou,56,9,9,Z0,*M7,I,9,major,46.0
+DJAVAN,8,Azul,1,7,7,z0,*m7,IV,2,minor,1.0
+DJAVAN,8,Azul,2,1,1,x0,*°7,V°,2,minor,1.5
+DJAVAN,8,Azul,3,2,2,z2,*m7.9,I,2,minor,2.0
+DJAVAN,8,Azul,4,5,5,Y2,*7.9,V/VI,2,minor,2.5
+DJAVAN,8,Azul,5,10,10,Z0,*M7,VI,2,minor,3.0
+DJAVAN,8,Azul,6,9,9,Y4.1,*7(b13),V,2,minor,3.5
+DJAVAN,8,Azul,7,2,2,z2,*m7.9,I,2,minor,4.0
+DJAVAN,8,Azul,8,8,8,Y3,*7(#11),SubV/IV,2,minor,4.5
+DJAVAN,8,Azul,9,7,7,z0,*m7,IV,2,minor,5.0
+DJAVAN,8,Azul,10,1,1,x0,*°7,V°,2,minor,5.5
+DJAVAN,8,Azul,11,2,2,z2,*m7.9,I,2,minor,6.0
+DJAVAN,8,Azul,12,5,5,Y2,*7.9,V/VI,2,minor,6.5
+DJAVAN,8,Azul,13,10,10,Z0,*M7,VI,2,minor,7.0
+DJAVAN,8,Azul,14,4,4,y0,*Ø,II,2,minor,8.0
+DJAVAN,8,Azul,15,8,8,Y3,*7(#11),SubV/IV,2,minor,8.5
+DJAVAN,8,Azul,16,7,7,z0,*m7,IV,2,minor,9.0
+DJAVAN,8,Azul,17,1,1,x0,*°7,V°,2,minor,9.5
+DJAVAN,8,Azul,18,2,2,z2,*m7.9,I,2,minor,10.0
+DJAVAN,8,Azul,19,5,5,Y2,*7.9,V/VI,2,minor,10.5
+DJAVAN,8,Azul,20,10,10,Z0,*M7,VI,2,minor,11.0
+DJAVAN,8,Azul,21,9,9,Y4.1,*7(b13),V,2,minor,11.5
+DJAVAN,8,Azul,22,2,2,z2,*m7.9,I,2,minor,12.0
+DJAVAN,8,Azul,23,8,8,Y3,*7(#11),SubV/IV,2,minor,12.5
+DJAVAN,8,Azul,24,7,7,z0,*m7,IV,2,minor,13.0
+DJAVAN,8,Azul,25,1,1,x0,*°7,V°,2,minor,13.5
+DJAVAN,8,Azul,26,2,2,z2,*m7.9,I,2,minor,14.0
+DJAVAN,8,Azul,27,5,5,Y2,*7.9,V/VI,2,minor,14.5
+DJAVAN,8,Azul,28,10,10,Z0,*M7,VI,2,minor,15.0
+DJAVAN,8,Azul,29,9,9,Y4.1,*7(b13),V,2,minor,15.5
+DJAVAN,8,Azul,30,2,2,z2,*m7.9,I,2,minor,16.0
+DJAVAN,8,Azul,31,8,8,Y3,*7(#11),SubV/IV,2,minor,16.5
+DJAVAN,8,Azul,32,7,7,z0,*m7,IV,2,minor,17.0
+DJAVAN,8,Azul,33,1,1,x0,*°7,V°,2,minor,17.5
+DJAVAN,8,Azul,34,2,2,z2,*m7.9,I,2,minor,18.0
+DJAVAN,8,Azul,35,5,5,Y2,*7.9,V/VI,2,minor,18.5
+DJAVAN,8,Azul,36,10,10,Z0,*M7,VI,2,minor,19.0
+DJAVAN,8,Azul,37,9,9,Y4.1,*7(b13),V,2,minor,19.5
+DJAVAN,8,Azul,38,2,2,z2,*m7.9,I,2,minor,20.0
+DJAVAN,9,Beiral,1,0,0,Z2,*M7.9,I,0,major,1.0
+DJAVAN,9,Beiral,2,4,4,z0,*m7,II__X,0,major,3.0
+DJAVAN,9,Beiral,3,9,9,Y4.1,*7(b13),V/II,0,major,4.0
+DJAVAN,9,Beiral,4,2,2,z0,*m7,II,0,major,5.0
+DJAVAN,9,Beiral,5,10,10,x0,*°7,V°/II,0,major,6.0
+DJAVAN,9,Beiral,6,2,2,z2,*m7.9,II,0,major,7.0
+DJAVAN,9,Beiral,7,7,7,Y1.1,*4.7.9,V,0,major,8.0
+DJAVAN,9,Beiral,8,7,7,Y2.3,*7(b9),V,0,major,8.5
+DJAVAN,9,Beiral,9,0,7,Z5,*6.M7,I,0,major,9.0
+DJAVAN,9,Beiral,10,6,6,z0,*m7,II__X,0,major,11.0
+DJAVAN,9,Beiral,11,7,7,Y2.3,*7(b9),V/III,0,major,12.0
+DJAVAN,9,Beiral,12,4,4,Z2,*M7.9,I,4,major,13.0
+DJAVAN,9,Beiral,13,9,9,Y2,*7.9,bVII7,4,major,14.0
+DJAVAN,9,Beiral,14,4,4,Z2,*M7.9,I,4,major,15.0
+DJAVAN,9,Beiral,15,10,10,Y3,*7(#11),SubV/IV,4,major,16.0
+DJAVAN,9,Beiral,16,9,9,Z0,*M7,IV,4,major,17.0
+DJAVAN,9,Beiral,17,8,8,Y0,*7,V/VI,4,major,18.0
+DJAVAN,9,Beiral,18,7,7,Y0,*7,SubV/II,4,major,18.5
+DJAVAN,9,Beiral,19,6,6,z0,*m7,II,4,major,19.0
+DJAVAN,9,Beiral,20,3,3,y0,*Ø,II__X,4,major,20.0
+DJAVAN,9,Beiral,21,8,8,Y4.1,*7(b13),V/VI,4,major,20.5
+DJAVAN,9,Beiral,22,1,1,z2,*m7.9,IIIm7(b5),4,major,21.0
+DJAVAN,9,Beiral,23,0,0,z2,*m7.9,bVIm7,4,major,22.0
+DJAVAN,9,Beiral,24,11,11,z2,*m7.9,II__X,4,major,23.0
+DJAVAN,9,Beiral,25,4,4,Y1.1,*4.7.9,V/IV,4,major,24.0
+DJAVAN,9,Beiral,26,9,9,Z0,*M7,IV,4,major,25.0
+DJAVAN,9,Beiral,27,8,8,Y0,*7,V/VI,4,major,26.0
+DJAVAN,9,Beiral,28,7,7,Y0,*7,SubV/II,4,major,26.5
+DJAVAN,9,Beiral,29,6,6,z0,*m7,II,4,major,27.0
+DJAVAN,9,Beiral,30,3,3,y0,*Ø,II__X,4,major,28.0
+DJAVAN,9,Beiral,31,8,8,Y4.1,*7(b13),V/VI,4,major,28.5
+DJAVAN,9,Beiral,32,1,1,Y2,*7.9,V/II,4,major,29.0
+DJAVAN,9,Beiral,33,11,11,z0,*m7,II__X,4,major,30.0
+DJAVAN,9,Beiral,34,4,4,Y2,*7.9,V/IV,4,major,30.5
+DJAVAN,9,Beiral,35,9,9,Z0,*M7,IV,4,major,31.0
+DJAVAN,9,Beiral,36,2,2,Z2,*M7.9,bVII7M,4,major,32.0
+DJAVAN,9,Beiral,37,4,4,Z2,*M7.9,I,4,major,33.0
+DJAVAN,9,Beiral,38,10,10,Y3,*7(#11),SubV/IV,4,major,34.0
+DJAVAN,9,Beiral,39,9,9,Z0,*M7,IV,4,major,35.0
+DJAVAN,9,Beiral,40,2,2,Z2,*M7.9,bVII7M,4,major,35.5
+DJAVAN,9,Beiral,41,4,4,Z2,*M7.9,I,4,major,36.0
+DJAVAN,9,Beiral,42,7,7,Y1.1,*4.7.9,V,0,major,37.0
+DJAVAN,9,Beiral,43,7,7,Y2,*7.9,V,0,major,37.5
+DJAVAN,9,Beiral,44,0,0,Z2,*M7.9,I,0,major,38.0
+DJAVAN,10,Om,1,6,6,Z0,*M7,I,6,major,1.0
+DJAVAN,10,Om,2,8,8,Y3,*7(#11),V/V,6,major,2.0
+DJAVAN,10,Om,3,10,10,z0,*m7,III,6,major,3.0
+DJAVAN,10,Om,4,11,11,Z0,*M7,IV,6,major,4.0
+DJAVAN,10,Om,5,11,11,y0,*Ø,IVm7,6,major,4.5
+DJAVAN,10,Om,6,6,6,Z0,*M7,I,6,major,5.0
+DJAVAN,10,Om,7,8,8,Y3,*7(#11),V/V,6,major,6.0
+DJAVAN,10,Om,8,10,10,z0,*m7,III,6,major,6.5
+DJAVAN,10,Om,9,11,11,Z0,*M7,IV,6,major,7.0
+DJAVAN,10,Om,10,4,4,Y2,*7.9,SubV,3,minor,8.0
+DJAVAN,10,Om,11,3,3,z2,*m7.9,I,3,minor,9.0
+DJAVAN,10,Om,12,11,11,z1,*m6,bVIm7,3,minor,10.0
+DJAVAN,10,Om,13,3,3,z2,*m7.9,I,3,minor,11.0
+DJAVAN,10,Om,14,8,8,Y3,*7(#11),IV7,3,minor,12.0
+DJAVAN,10,Om,15,3,3,z2,*m7.9,I,3,minor,13.0
+DJAVAN,10,Om,16,11,11,z1,*m6,bVIm7,3,minor,14.0
+DJAVAN,10,Om,17,3,3,z2,*m7.9,I,3,minor,15.0
+DJAVAN,10,Om,18,8,8,Y3,*7(#11),IV7,3,minor,16.0
+DJAVAN,10,Om,19,11,11,Z0,*M7,VI,3,minor,17.0
+DJAVAN,10,Om,20,11,11,Z1,*6,VI,3,minor,17.5
+DJAVAN,10,Om,21,10,10,Y4.1,*7(b13),V,3,minor,18.0
+DJAVAN,10,Om,22,3,3,z2,*m7.9,I,3,minor,19.0
+DJAVAN,10,Om,23,8,8,Y3,*7(#11),IV7,3,minor,20.0
+DJAVAN,10,Om,24,11,11,Z0,*M7,VI,3,minor,21.0
+DJAVAN,10,Om,25,11,11,Z1,*6,VI,3,minor,21.5
+DJAVAN,10,Om,26,10,10,Y4.1,*7(b13),V,3,minor,22.0
+DJAVAN,10,Om,27,3,3,z2,*m7.9,I,3,minor,23.0
+DJAVAN,10,Om,28,8,8,Y3,*7(#11),IV7,3,minor,24.0
+DJAVAN,10,Om,29,11,11,Z0,*M7,VI,3,minor,25.0
+DJAVAN,10,Om,30,11,11,Z1,*6,VI,3,minor,25.5
+DJAVAN,10,Om,31,10,10,Y4.1,*7(b13),V,3,minor,26.0
+DJAVAN,10,Om,32,3,3,z2,*m7.9,I,3,minor,27.0
+DJAVAN,10,Om,33,8,8,Y3,*7(#11),IV7,3,minor,28.0
+DJAVAN,10,Om,34,6,6,Z0,*M7,I,6,major,29.0
+DJAVAN,11,Agua,1,9,9,V0,*,I,9,major,1.0
+DJAVAN,11,Agua,2,5,9,V3,*(#11),bVI7M,9,major,2.0
+DJAVAN,11,Agua,3,9,9,V0,*,I,9,major,3.0
+DJAVAN,11,Agua,4,5,9,V3,*(#11),bVI7M,9,major,4.0
+DJAVAN,11,Agua,5,9,9,V0,*,I,9,major,5.0
+DJAVAN,11,Agua,6,5,9,V3,*(#11),bVI7M,9,major,6.0
+DJAVAN,11,Agua,7,7,7,Y2,*7.9,V/bIII,9,major,6.5
+DJAVAN,11,Agua,8,0,0,V0,*,bIII7M,9,major,7.0
+DJAVAN,11,Agua,9,11,11,z2,*m7.9,II,9,major,8.0
+DJAVAN,11,Agua,10,4,4,Y1,*4.7,V,9,major,8.5
+DJAVAN,11,Agua,11,9,9,V0,*,I,9,major,9.0
+DJAVAN,11,Agua,12,5,9,V3,*(#11),bVI7M,9,major,9.5
+DJAVAN,11,Agua,13,9,9,V0,*,I,9,major,10.0
+DJAVAN,11,Agua,14,5,9,V3,*(#11),bVI7M,9,major,10.5
+DJAVAN,11,Agua,15,9,9,V0,*,I,9,major,11.0
+DJAVAN,11,Agua,16,5,9,V3,*(#11),bVI7M,9,major,11.5
+DJAVAN,11,Agua,17,9,9,V0,*,I,9,major,12.0
+DJAVAN,11,Agua,18,9,9,W0,*(#5)7,V/IV,9,major,12.5
+DJAVAN,11,Agua,19,2,2,Z0,*M7,IV,9,major,13.0
+DJAVAN,11,Agua,20,3,3,y0,*Ø,#IVm7(b5),9,major,13.5
+DJAVAN,11,Agua,21,9,4,V0,*,I,9,major,14.0
+DJAVAN,11,Agua,22,5,5,x0,*°7,V°/VI,9,major,14.5
+DJAVAN,11,Agua,23,6,6,v0,*m,VI,9,major,15.0
+DJAVAN,11,Agua,24,6,4,z2,*m7.9,VI,9,major,15.5
+DJAVAN,11,Agua,25,3,3,y0,*Ø,#IVm7(b5),9,major,16.0
+DJAVAN,11,Agua,26,2,2,z1,*m6,IVm7,9,major,17.0
+DJAVAN,11,Agua,27,2,4,z1,*m6,IVm7,9,major,17.5
+DJAVAN,11,Agua,28,9,9,V0,*,I,9,major,18.0
+DJAVAN,11,Agua,29,0,0,x0,*°7,I°,9,major,18.5
+DJAVAN,11,Agua,30,9,9,V0,*,I,9,major,19.0
+DJAVAN,11,Agua,31,1,1,Y2.3,*7(b9),V/VI,9,major,19.5
+DJAVAN,11,Agua,32,6,6,z0,*m7,VI,9,major,20.0
+DJAVAN,11,Agua,33,1,1,z0,*m7,III,9,major,21.0
+DJAVAN,11,Agua,34,9,1,V0,*,I,9,major,22.0
+DJAVAN,11,Agua,35,9,9,V0,*,I,9,major,22.25
+DJAVAN,11,Agua,36,4,4,Y1,*4.7,V,9,major,22.5
+DJAVAN,11,Agua,37,4,11,Y1,*4.7,V,9,major,22.75
+DJAVAN,11,Agua,38,9,9,V0,*,I,9,major,23.0
+DJAVAN,11,Agua,39,1,1,Y2.3,*7(b9),V/VI,9,major,23.75
+DJAVAN,11,Agua,40,6,6,z0,*m7,VI,9,major,24.0
+DJAVAN,11,Agua,41,1,1,z0,*m7,III,9,major,25.0
+DJAVAN,11,Agua,42,9,1,V0,*,I,9,major,26.0
+DJAVAN,11,Agua,43,9,9,V0,*,I,9,major,26.25
+DJAVAN,11,Agua,44,4,4,Y1,*4.7,V,9,major,26.5
+DJAVAN,11,Agua,45,4,11,Y1,*4.7,V,9,major,26.75
+DJAVAN,11,Agua,46,9,9,V0,*,I,9,major,27.0
+DJAVAN,12,Alibi,1,5,5,Z0,*M7,bII7M,4,minor,1.0
+DJAVAN,12,Alibi,2,11,11,Y4,*7.13,V,4,minor,2.0
+DJAVAN,12,Alibi,3,11,11,Y4.1,*7(b13),V,4,minor,2.5
+DJAVAN,12,Alibi,4,4,4,w1.1,*mM7.9.11,I,4,minor,3.0
+DJAVAN,12,Alibi,5,9,9,Y2.1,*7.9(#11),IV7,4,minor,4.0
+DJAVAN,12,Alibi,6,7,7,Y4,*7.13,SubV/II,4,minor,4.5
+DJAVAN,12,Alibi,7,6,6,y0,*Ø,II,4,minor,5.0
+DJAVAN,12,Alibi,8,11,11,Y4.1,*7(b13),V,4,minor,6.0
+DJAVAN,12,Alibi,9,5,5,Y2,*7.9,bII7M,4,minor,6.5
+DJAVAN,12,Alibi,10,4,4,w1.1,*mM7.9.11,I,4,minor,7.0
+DJAVAN,12,Alibi,11,0,0,Y2.2,*7.9.13,V/bII,4,minor,8.0
+DJAVAN,12,Alibi,12,5,5,Z0,*M7,bII7M,4,minor,9.0
+DJAVAN,12,Alibi,13,11,11,Y4,*7.13,V,4,minor,10.0
+DJAVAN,12,Alibi,14,11,11,Y4.1,*7(b13),V,4,minor,10.5
+DJAVAN,12,Alibi,15,4,4,w1.1,*mM7.9.11,I,4,minor,11.0
+DJAVAN,12,Alibi,16,9,9,Y2.1,*7.9(#11),IV7,4,minor,12.0
+DJAVAN,12,Alibi,17,7,7,Y4,*7.13,SubV/II,4,minor,13.0
+DJAVAN,12,Alibi,18,6,6,y1,*Ø.9,II,4,minor,14.0
+DJAVAN,12,Alibi,19,11,11,Y4.1,*7(b13),V,4,minor,15.0
+DJAVAN,12,Alibi,20,9,9,z0,*m7,IV,4,minor,16.0
+DJAVAN,12,Alibi,21,0,0,Y2.2,*7.9.13,SubV/V,4,minor,17.0
+DJAVAN,12,Alibi,22,11,11,Y4.1,*7(b13),V,4,minor,17.5
+DJAVAN,12,Alibi,23,4,4,w1.1,*mM7.9.11,I,4,minor,18.0
+DJAVAN,12,Alibi,24,11,11,y0,*Ø,II__X,4,minor,19.0
+DJAVAN,12,Alibi,25,4,4,Y2.3,*7(b9),V/IV,4,minor,20.0
+DJAVAN,12,Alibi,26,9,9,z0,*m7,II__X,4,minor,21.0
+DJAVAN,12,Alibi,27,2,2,Y2,*7.9,V/III,4,minor,22.0
+DJAVAN,12,Alibi,28,7,7,Z0,*M7,III,4,minor,22.5
+DJAVAN,12,Alibi,29,9,9,z0,*m7,IV,4,minor,23.0
+DJAVAN,12,Alibi,30,11,11,z0,*m7,II__X,4,minor,23.5
+DJAVAN,12,Alibi,31,4,4,Y4.1,*7(b13),V/IV,4,minor,24.0
+DJAVAN,12,Alibi,32,6,6,y0,*Ø,II,4,minor,24.5
+DJAVAN,12,Alibi,33,11,11,Y4.1,*7(b13),V,4,minor,25.0
+DJAVAN,12,Alibi,34,4,4,w1.1,*mM7.9.11,I,4,minor,26.0
+DJAVAN,13,Asa,1,2,2,z0,*m7,I,2,minor,1.0
+DJAVAN,13,Asa,2,10,10,Y0,*7,SubV/V,2,minor,1.5
+DJAVAN,13,Asa,3,9,9,Y4.1,*7(b13),V,2,minor,2.0
+DJAVAN,13,Asa,4,2,2,z0,*m7,I,2,minor,2.5
+DJAVAN,13,Asa,5,5,5,Y2,*7.9,V/VI,2,minor,3.0
+DJAVAN,13,Asa,6,10,10,Y0,*7,SubV/V,2,minor,3.5
+DJAVAN,13,Asa,7,9,9,x4,*°7.14,V°/IV,2,minor,3.75
+DJAVAN,13,Asa,8,7,7,z0,*m7,I,7,minor,4.0
+DJAVAN,13,Asa,9,0,0,Y2,*7.9,IV7,7,minor,4.5
+DJAVAN,13,Asa,10,6,6,x0,*°7,V°,7,minor,4.75
+DJAVAN,13,Asa,11,7,7,z0,*m7,I,7,minor,5.0
+DJAVAN,13,Asa,12,0,0,Y2,*7.9,IV7,7,minor,5.5
+DJAVAN,13,Asa,13,2,2,Y2.2.1.1,*7(b9.b13),V,7,minor,5.75
+DJAVAN,13,Asa,14,7,7,z0,*m7,I,7,minor,6.0
+DJAVAN,13,Asa,15,0,0,Y2,*7.9,IV7,7,minor,6.5
+DJAVAN,13,Asa,16,6,6,x0,*°7,V°,7,minor,6.75
+DJAVAN,13,Asa,17,7,7,z0,*m7,I,7,minor,7.0
+DJAVAN,13,Asa,18,9,9,z3,*m7.11,II,7,minor,7.5
+DJAVAN,13,Asa,19,2,2,Y2.2.1.1,*7(b9.b13),V,7,minor,7.75
+DJAVAN,13,Asa,20,7,7,z0,*m7,I,7,minor,8.0
+DJAVAN,13,Asa,21,0,0,Y2,*7.9,IV7,7,minor,8.5
+DJAVAN,13,Asa,22,6,6,x0,*°7,V°,7,minor,8.75
+DJAVAN,13,Asa,23,7,7,z0,*m7,I,7,minor,9.0
+DJAVAN,13,Asa,24,0,0,Y2,*7.9,IV7,7,minor,9.5
+DJAVAN,13,Asa,25,2,2,Y2.2.1.1,*7(b9.b13),V,7,minor,9.75
+DJAVAN,13,Asa,26,7,7,z0,*m7,I,7,minor,10.0
+DJAVAN,13,Asa,27,0,0,Y2,*7.9,IV7,7,minor,10.5
+DJAVAN,13,Asa,28,6,6,x0,*°7,V°,7,minor,10.75
+DJAVAN,13,Asa,29,7,7,z0,*m7,I,7,minor,11.0
+DJAVAN,13,Asa,30,4,4,y0,*Ø,II,2,minor,11.5
+DJAVAN,13,Asa,31,9,9,Y4.1,*7(b13),V,2,minor,11.75
+DJAVAN,13,Asa,32,2,2,z0,*m7,I,2,minor,12.0
+DJAVAN,13,Asa,33,10,10,Y0,*7,SubV/V,2,minor,13.0
+DJAVAN,13,Asa,34,7,7,z0,*m7,IV,2,minor,14.0
+DJAVAN,13,Asa,35,10,10,Y0,*7,SubV/V,2,minor,15.0
+DJAVAN,13,Asa,36,9,9,Y4.1,*7(b13),V,2,minor,15.5
+DJAVAN,13,Asa,37,2,2,z0,*m7,I,2,minor,16.0
+DJAVAN,13,Asa,38,10,10,Y0,*7,SubV/V,2,minor,17.0
+DJAVAN,13,Asa,39,7,7,z0,*m7,IV,2,minor,18.0
+DJAVAN,13,Asa,40,10,10,Y0,*7,SubV/V,2,minor,19.0
+DJAVAN,13,Asa,41,9,9,Y4.1,*7(b13),V,2,minor,19.5
+DJAVAN,14,Meu,1,9,9,Z2,*M7.9,I,9,major,1.0
+DJAVAN,14,Meu,2,6,6,z0,*m7,VI,9,major,3.0
+DJAVAN,14,Meu,3,1,1,z0,*m7,III,9,major,5.0
+DJAVAN,14,Meu,4,0,0,x3,*°7(b13),bIII°,9,major,7.0
+DJAVAN,14,Meu,5,11,11,z0,*m7,II,9,major,9.0
+DJAVAN,14,Meu,6,2,2,z1,*m6,IVm7,9,major,11.0
+DJAVAN,14,Meu,7,1,1,z0,*m7,III,9,major,13.0
+DJAVAN,14,Meu,8,5,0,Y0,*7,SubV/V,9,major,15.0
+DJAVAN,14,Meu,9,11,11,z0,*m7,II,9,major,17.0
+DJAVAN,14,Meu,10,2,2,z1,*m6,IVm7,9,major,19.0
+DJAVAN,14,Meu,11,2,2,Z2,*M7.9,IV,9,major,21.0
+DJAVAN,14,Meu,12,1,1,z0,*m7,III,9,major,22.0
+DJAVAN,14,Meu,13,2,2,Z2,*M7.9,IV,9,major,23.0
+DJAVAN,14,Meu,14,4,4,z0,*m7,II,9,major,24.0
+DJAVAN,14,Meu,15,9,9,Y2,*7.9,V,9,major,24.5
+DJAVAN,14,Meu,16,2,2,Z2,*M7.9,IV,9,major,25.0
+DJAVAN,14,Meu,17,1,1,z0,*m7,III,9,major,26.0
+DJAVAN,14,Meu,18,6,6,z1,*m6,VI,9,major,27.0
+DJAVAN,14,Meu,19,2,2,z1,*m6,IVm7,9,major,28.0
+DJAVAN,14,Meu,20,9,9,Z2,*M7.9,I,9,major,29.0
+DJAVAN,15,Numa esquina de Hanoi,1,3,3,Z2,*M7.9,I,3,major,1.0
+DJAVAN,15,Numa esquina de Hanoi,2,5,5,z0,*m7,II,3,major,2.0
+DJAVAN,15,Numa esquina de Hanoi,3,6,6,x0,*°7,V°/III,3,major,3.0
+DJAVAN,15,Numa esquina de Hanoi,4,3,7,Z0,*M7,I,3,major,4.0
+DJAVAN,15,Numa esquina de Hanoi,5,8,8,z1,*m6,IVm7,3,major,5.0
+DJAVAN,15,Numa esquina de Hanoi,6,3,6,v0,*m,Im7,3,major,6.0
+DJAVAN,15,Numa esquina de Hanoi,7,5,5,z0,*m7,II,3,major,7.0
+DJAVAN,15,Numa esquina de Hanoi,8,3,3,Z2,*M7.9,I,3,major,8.0
+DJAVAN,15,Numa esquina de Hanoi,9,5,5,z0,*m7,II,3,major,9.0
+DJAVAN,15,Numa esquina de Hanoi,10,6,6,x0,*°7,V°/III,3,major,10.0
+DJAVAN,15,Numa esquina de Hanoi,11,3,7,Z0,*M7,I,3,major,11.0
+DJAVAN,15,Numa esquina de Hanoi,12,8,8,z1,*m6,IVm7,3,major,12.0
+DJAVAN,15,Numa esquina de Hanoi,13,3,6,v0,*m,Im7,3,major,13.0
+DJAVAN,15,Numa esquina de Hanoi,14,5,5,z0,*m7,II,3,major,14.0
+DJAVAN,15,Numa esquina de Hanoi,15,3,3,Z2,*M7.9,I,3,major,15.0
+DJAVAN,16,Topazio,1,11,11,Y1.1,*4.7.9,V/V,9,major,1.0
+DJAVAN,16,Topazio,2,2,2,z1,*m6,IVm7,9,major,2.0
+DJAVAN,16,Topazio,3,1,1,z0,*m7,III,9,major,3.0
+DJAVAN,16,Topazio,4,0,0,x3,*°7(b13),?,9,major,4.0
+DJAVAN,16,Topazio,5,0,0,z1,*m6,bIIIm7,9,major,4.5
+DJAVAN,16,Topazio,6,11,11,Y1.1,*4.7.9,V/V,9,major,5.0
+DJAVAN,16,Topazio,7,2,2,z1,*m6,IVm7,9,major,6.0
+DJAVAN,16,Topazio,8,1,1,z0,*m7,III,9,major,7.0
+DJAVAN,16,Topazio,9,0,0,x3,*°7(b13),?,9,major,8.0
+DJAVAN,16,Topazio,10,0,0,z1,*m6,bIIIm7,9,major,8.5
+DJAVAN,16,Topazio,11,11,11,Y1.1,*4.7.9,V/V,9,major,9.0
+DJAVAN,16,Topazio,12,2,2,z1,*m6,IVm7,9,major,10.0
+DJAVAN,16,Topazio,13,1,1,z0,*m7,III,9,major,11.0
+DJAVAN,16,Topazio,14,0,0,x3,*°7(b13),?,9,major,12.0
+DJAVAN,16,Topazio,15,0,0,z1,*m6,bIIIm7,9,major,12.5
+DJAVAN,16,Topazio,16,11,11,z0,*m7,II,9,major,13.0
+DJAVAN,16,Topazio,17,7,7,Y2.1,*7.9(#11),bVII7,9,major,14.0
+DJAVAN,16,Topazio,18,11,11,Y1.1,*4.7.9,V/V,9,major,15.0
+DJAVAN,16,Topazio,19,2,2,z2,*m7.9,IVm7,9,major,16.0
+DJAVAN,16,Topazio,20,7,7,Y0,*7,bVII7,9,major,16.5
+DJAVAN,16,Topazio,21,8,8,Y0,*7,aSubV,9,major,16.75
+DJAVAN,16,Topazio,22,9,9,Y0,*7,V,2,major,17.0
+DJAVAN,16,Topazio,23,2,2,Y2,*7.9,V/IV,2,major,18.0
+DJAVAN,16,Topazio,24,9,9,Y0,*7,V,2,major,19.0
+DJAVAN,16,Topazio,25,2,2,Y2,*7.9,V/IV,2,major,20.0
+DJAVAN,16,Topazio,26,7,7,Y0,*7,V,0,major,21.0
+DJAVAN,16,Topazio,27,1,1,y0,*Ø,II__X,9,major,22.0
+DJAVAN,16,Topazio,28,6,6,Y2.2.1.1,*7(b9.b13),V/II,9,major,22.5
+DJAVAN,16,Topazio,29,6,6,Y4.1,*7(b13),V/II,9,major,22.75
+DJAVAN,16,Topazio,30,11,11,Y1.1,*4.7.9,V/V,9,major,23.0
+DJAVAN,16,Topazio,31,2,2,z1,*m6,IVm7,9,major,24.0
+DJAVAN,16,Topazio,32,1,1,z0,*m7,III,9,major,25.0
+DJAVAN,16,Topazio,33,0,0,x3,*°7(b13),?,9,major,26.0
+DJAVAN,16,Topazio,34,0,0,z1,*m6,bIIIm7,9,major,26.5
+DJAVAN,16,Topazio,35,11,11,Y1.1,*4.7.9,V/V,9,major,27.0
+DJAVAN,16,Topazio,36,2,2,z1,*m6,IVm7,9,major,28.0
+DJAVAN,16,Topazio,37,9,9,Z2,*M7.9,I,9,major,29.0
+DJAVAN,17,Nereci,1,9,9,z0,*m7,I,9,minor,1.0
+DJAVAN,17,Nereci,2,4,4,z2,*m7.9,Vm7,9,minor,3.0
+DJAVAN,17,Nereci,3,2,2,z2,*m7.9,IV,9,minor,4.0
+DJAVAN,17,Nereci,4,9,9,z0,*m7,I,9,minor,5.0
+DJAVAN,17,Nereci,5,4,4,z2,*m7.9,Vm7,9,minor,7.0
+DJAVAN,17,Nereci,6,2,2,z2,*m7.9,IV,9,minor,8.0
+DJAVAN,17,Nereci,7,6,6,y0,*Ø,?,9,minor,9.0
+DJAVAN,17,Nereci,8,7,7,Y1.1,*4.7.9,bVII7,9,minor,10.0
+DJAVAN,17,Nereci,9,8,8,x0,*°7,VII,9,minor,10.5
+DJAVAN,17,Nereci,10,9,9,z0,*m7,I,9,minor,11.0
+DJAVAN,17,Nereci,11,4,4,z2,*m7.9,Vm7,9,minor,13.0
+DJAVAN,17,Nereci,12,2,2,z2,*m7.9,IV,9,minor,14.0
+DJAVAN,17,Nereci,13,9,9,z0,*m7,I,9,minor,15.0
+DJAVAN,17,Nereci,14,4,4,z2,*m7.9,Vm7,9,minor,17.0
+DJAVAN,17,Nereci,15,2,2,z2,*m7.9,IV,9,minor,18.0
+DJAVAN,17,Nereci,16,11,11,Y2.4,*7(#9),V/V,9,minor,19.0
+DJAVAN,17,Nereci,17,10,10,Y2.1,*7.9(#11),SubV,9,minor,21.0
+DJAVAN,17,Nereci,18,9,9,z0,*m7,I,9,minor,30.0
+DJAVAN,17,Nereci,19,3,3,Y2,*7.9,SubV/IV,9,minor,31.5
+DJAVAN,17,Nereci,20,2,2,z2,*m7.9,IV,9,minor,32.0
+DJAVAN,17,Nereci,21,10,10,Y2.1,*7.9(#11),SubV,9,minor,33.0
+DJAVAN,17,Nereci,22,9,9,z1,*m6,I,9,minor,34.0
+DJAVAN,17,Nereci,23,5,5,Y2,*7.9,SubV/V,9,minor,34.5
+DJAVAN,17,Nereci,24,11,11,z0,*m7,II,9,minor,35.0
+DJAVAN,17,Nereci,25,4,4,Y2.3,*7(b9),V,9,minor,36.0
+DJAVAN,17,Nereci,26,9,9,z0,*m7,I,9,minor,37.0
+DJAVAN,18,Samba dobrado,1,2,2,Z2,*M7.9,I,2,major,1.0
+DJAVAN,18,Samba dobrado,2,7,7,Z0,*M7,IV,2,major,3.0
+DJAVAN,18,Samba dobrado,3,2,2,Z1.1,*6.9,I,2,major,5.0
+DJAVAN,18,Samba dobrado,4,6,6,z2,*m7.9,II__X,2,major,7.0
+DJAVAN,18,Samba dobrado,5,11,11,Y4.1,*7(b13),V/II,2,major,8.0
+DJAVAN,18,Samba dobrado,6,8,8,y0,*Ø,#IVm7(b5),2,major,9.0
+DJAVAN,18,Samba dobrado,7,7,7,z1,*m6,IVm7,2,major,10.0
+DJAVAN,18,Samba dobrado,8,6,6,x0,*°7,II__X,2,major,11.0
+DJAVAN,18,Samba dobrado,9,11,11,Y2.3,*7(b9),V/II,2,major,12.0
+DJAVAN,18,Samba dobrado,10,4,4,Y2,*7.9,V/V,2,major,13.0
+DJAVAN,18,Samba dobrado,11,9,9,Y1.1,*4.7.9,V,2,major,14.0
+DJAVAN,18,Samba dobrado,12,9,9,Y2,*7.9,V,2,major,14.5
+DJAVAN,18,Samba dobrado,13,9,9,z1,*m6,II__X,2,major,15.0
+DJAVAN,18,Samba dobrado,14,2,2,Y2,*7.9,V/IV,2,major,16.0
+DJAVAN,18,Samba dobrado,15,8,8,y0,*Ø,#IVm7(b5),2,major,17.0
+DJAVAN,18,Samba dobrado,16,7,7,z1,*m6,IVm7,2,major,18.0
+DJAVAN,18,Samba dobrado,17,6,6,z0,*m7,II__X,2,major,19.0
+DJAVAN,18,Samba dobrado,18,11,11,Y2.3,*7(b9),V/II,2,major,20.0
+DJAVAN,18,Samba dobrado,19,4,4,Y2,*7.9,V/V,2,major,21.0
+DJAVAN,18,Samba dobrado,20,9,9,Y1.1,*4.7.9,V,2,major,22.0
+DJAVAN,18,Samba dobrado,21,9,9,Y2,*7.9,V,2,major,22.5
+DJAVAN,18,Samba dobrado,22,2,2,Z1.1,*6.9,I,2,major,23.0
+DJAVAN,18,Samba dobrado,23,11,11,W0,*(#5)7,V/II,2,major,24.0
+DJAVAN,18,Samba dobrado,24,4,4,Y2,*7.9,V/V,2,major,25.0
+DJAVAN,18,Samba dobrado,25,3,3,Y2.4,*7(#9),SubV,2,major,26.0
+DJAVAN,18,Samba dobrado,26,2,2,Z2,*M7.9,I,2,major,26.5
+DJAVAN,18,Samba dobrado,27,1,1,Y2.4,*7(#9),?,2,major,27.0
+DJAVAN,18,Samba dobrado,28,0,0,Z2,*M7.9,Np/VI,2,major,27.5
+DJAVAN,18,Samba dobrado,29,11,11,z2,*m7.9,VI,2,major,28.0
+DJAVAN,18,Samba dobrado,30,8,8,y0,*Ø,#IVm7(b5),2,major,29.0
+DJAVAN,18,Samba dobrado,31,1,1,Y2.3,*7(b9),?,2,major,30.0
+DJAVAN,18,Samba dobrado,32,7,7,Z0,*M7,IV,2,major,31.0
+DJAVAN,18,Samba dobrado,33,0,0,Y1.1,*4.7.9,V/bIII,2,major,32.0
+DJAVAN,18,Samba dobrado,34,0,0,Y2,*7.9,V/bIII,2,major,32.5
+DJAVAN,18,Samba dobrado,35,5,5,Z0,*M7,bIII7M,2,major,36.0
+DJAVAN,18,Samba dobrado,36,9,4,z0,*m7,Vm7,2,major,36.5
+DJAVAN,18,Samba dobrado,37,2,2,z0,*m7,Im7,2,major,37.0
+DJAVAN,18,Samba dobrado,38,4,4,y0,*Ø,IIm7(b5),2,major,38.0
+DJAVAN,18,Samba dobrado,39,9,9,Y4.1,*7(b13),V,2,major,39.0
+DJAVAN,18,Samba dobrado,40,2,2,Z2,*M7.9,I,2,major,40.0
+DJAVAN,18,Samba dobrado,41,11,11,z2,*m7.9,VI,2,major,41.0
+DJAVAN,18,Samba dobrado,42,1,1,y0,*Ø,II__X,2,major,42.0
+DJAVAN,18,Samba dobrado,43,6,6,X0,*(b5)7,V/VI,2,major,43.0
+DJAVAN,18,Samba dobrado,44,5,5,Z0,*M7,bIII7M,2,major,44.0
+DJAVAN,18,Samba dobrado,45,9,4,z0,*m7,Vm7,2,major,44.5
+DJAVAN,18,Samba dobrado,46,2,2,z0,*m7,Im7,2,major,45.0
+DJAVAN,18,Samba dobrado,47,4,4,y0,*Ø,IIm7(b5),2,major,46.0
+DJAVAN,18,Samba dobrado,48,9,9,Y4.1,*7(b13),V,2,major,47.0
+DJAVAN,18,Samba dobrado,49,2,2,Z2,*M7.9,I,2,major,48.0
+DJAVAN,18,Samba dobrado,50,11,11,z2,*m7.9,VI,2,major,49.0
+DJAVAN,18,Samba dobrado,51,1,1,y0,*Ø,II__X,2,major,50.0
+DJAVAN,18,Samba dobrado,52,6,6,W0,*(#5)7,V/VI,2,major,51.0
+DJAVAN,18,Samba dobrado,53,9,9,W0,*(#5)7,V,2,major,51.5
+DJAVAN,18,Samba dobrado,54,2,2,Z2,*M7.9,I,2,major,52.0
+DJAVAN,19,Maca,1,2,2,Z2.2,*(#5)M7.9,I,2,major,1.0
+DJAVAN,19,Maca,2,7,7,Y3,*7(#11),IV7,2,major,3.0
+DJAVAN,19,Maca,3,2,6,Z0,*M7,I,2,major,5.0
+DJAVAN,19,Maca,4,5,5,x0,*°7,bIII°,2,major,6.0
+DJAVAN,19,Maca,5,4,4,v0,*m,II,2,major,7.0
+DJAVAN,19,Maca,6,9,9,Y1.1,*4.7.9,V,2,major,8.0
+DJAVAN,19,Maca,7,2,2,Z2,*M7.9,I,2,major,9.0
+DJAVAN,19,Maca,8,2,2,Z1.1,*6.9,I,2,major,10.0
+DJAVAN,19,Maca,9,7,7,Y0,*7,IV7,2,major,11.0
+DJAVAN,19,Maca,10,7,7,z0,*m7,II__X,2,major,12.0
+DJAVAN,19,Maca,11,0,0,Y2,*7.9,V/bIII,2,major,12.5
+DJAVAN,19,Maca,12,2,2,Z2,*M7.9,I,2,major,13.0
+DJAVAN,19,Maca,13,0,0,Y2,*7.9,bVII7,2,major,16.0
+DJAVAN,19,Maca,14,2,2,Z2,*M7.9,I,2,major,17.0
+DJAVAN,19,Maca,15,7,7,Y3,*7(#11),IV7,2,major,19.0
+DJAVAN,19,Maca,16,2,6,Z0,*M7,I,2,major,21.0
+DJAVAN,19,Maca,17,5,5,x0,*°7,bIII°,2,major,22.0
+DJAVAN,19,Maca,18,4,4,v0,*m,II,2,major,23.0
+DJAVAN,19,Maca,19,9,9,Y1.1,*4.7.9,V,2,major,24.0
+DJAVAN,19,Maca,20,6,6,z0,*m7,III,2,major,25.0
+DJAVAN,19,Maca,21,5,5,x0,*°7,bIII°,2,major,26.0
+DJAVAN,19,Maca,22,4,4,v0,*m,II,2,major,27.0
+DJAVAN,19,Maca,23,6,6,Y4.1,*7(b13),V/VI,2,major,28.0
+DJAVAN,19,Maca,24,6,6,Y0,*7,V/VI,2,major,28.5
+DJAVAN,19,Maca,25,7,7,Z0,*M7,IV,2,major,29.0
+DJAVAN,19,Maca,26,9,7,Y0,*7,V,2,major,31.0
+DJAVAN,19,Maca,27,6,6,y0,*Ø,III,2,major,33.0
+DJAVAN,19,Maca,28,6,6,z3,*m7.11,III,2,major,34.0
+DJAVAN,19,Maca,29,6,6,z0,*m7,II__X,2,major,35.0
+DJAVAN,19,Maca,30,11,11,Y2.3,*7(b9),V/II,2,major,36.0
+DJAVAN,19,Maca,31,7,7,Z0,*M7,IV,2,major,37.0
+DJAVAN,19,Maca,32,9,7,Y0,*7,V,2,major,39.0
+DJAVAN,19,Maca,33,6,6,z0,*m7,III,2,major,41.0
+DJAVAN,19,Maca,34,6,6,z3,*m7.11,II__X,2,major,42.0
+DJAVAN,19,Maca,35,11,11,Y2.3,*7(b9),V/II,2,major,43.0
+DJAVAN,19,Maca,36,11,11,Y2.4,*7(#9),V/II,2,major,43.5
+DJAVAN,19,Maca,37,11,11,Y2,*7.9,V/II,2,major,44.25
+DJAVAN,19,Maca,38,11,11,Y2.3,*7(b9),V/II,2,major,44.5
+DJAVAN,19,Maca,39,11,11,Y0,*7,V/II,2,major,44.75
+DJAVAN,19,Maca,40,7,7,Z0,*M7,IV,2,major,45.0
+DJAVAN,19,Maca,41,6,6,Y4.1,*7(b13),V/VI,2,major,46.0
+DJAVAN,19,Maca,42,11,11,z0,*m7,II__X,2,major,47.0
+DJAVAN,19,Maca,43,4,4,Y2,*7.9,V/V,2,major,48.0
+DJAVAN,19,Maca,44,7,7,Z0,*M7,IV,2,major,49.0
+DJAVAN,19,Maca,45,0,0,Y2,*7.9,bVII7,2,major,50.0
+DJAVAN,19,Maca,46,2,2,Z2,*M7.9,I,2,major,51.0
+DJAVAN,20,Dupla traicao,1,9,9,Z0,*M7,VIM7,0,major,1.0
+DJAVAN,20,Dupla traicao,2,7,7,Y1.1,*4.7.9,V,0,major,2.0
+DJAVAN,20,Dupla traicao,3,7,7,Y2,*7.9,V,0,major,2.5
+DJAVAN,20,Dupla traicao,4,0,0,Z2,*M7.9,I,0,major,3.0
+DJAVAN,20,Dupla traicao,5,5,5,Y0,*7,IV7,0,major,4.0
+DJAVAN,20,Dupla traicao,6,6,6,y0,*Ø,II__X,0,major,5.0
+DJAVAN,20,Dupla traicao,7,11,11,Y2.3,*7(b9),V/III,0,major,6.0
+DJAVAN,20,Dupla traicao,8,4,4,y0,*Ø,II__X,0,major,7.0
+DJAVAN,20,Dupla traicao,9,9,9,Y2.2.1.1,*7(b9.b13),V/II,0,major,8.0
+DJAVAN,20,Dupla traicao,10,2,2,y0,*Ø,IIm7(b5),0,major,9.0
+DJAVAN,20,Dupla traicao,11,7,7,Y1.1,*4.7.9,V,0,major,10.0
+DJAVAN,20,Dupla traicao,12,4,4,Y2.2.1,*7(b9)13,V/VI,0,major,10.5
+DJAVAN,20,Dupla traicao,13,9,9,Z0,*M7,VIM7,0,major,11.0
+DJAVAN,20,Dupla traicao,14,7,7,Y1.1,*4.7.9,V,0,major,12.0
+DJAVAN,20,Dupla traicao,15,7,7,Y2,*7.9,V,0,major,12.5
+DJAVAN,20,Dupla traicao,16,0,0,Z2,*M7.9,I,0,major,13.0
+DJAVAN,20,Dupla traicao,17,5,5,Y0,*7,IV7,0,major,14.0
+DJAVAN,20,Dupla traicao,18,6,6,y0,*Ø,II__X,0,major,15.0
+DJAVAN,20,Dupla traicao,19,11,11,Y2.3,*7(b9),V/III,0,major,16.0
+DJAVAN,20,Dupla traicao,20,4,4,y0,*Ø,II__X,0,major,17.0
+DJAVAN,20,Dupla traicao,21,9,9,Y2.2.1.1,*7(b9.b13),V/II,0,major,18.0
+DJAVAN,20,Dupla traicao,22,2,2,y0,*Ø,IIm7(b5),0,major,19.0
+DJAVAN,20,Dupla traicao,23,1,1,Y2.1,*7.9(#11),V,6,major,20.0
+DJAVAN,20,Dupla traicao,24,0,0,z2,*m7.9,II__X,6,major,21.0
+DJAVAN,20,Dupla traicao,25,5,5,Y4,*7.13,V/III,6,major,22.0
+DJAVAN,20,Dupla traicao,26,11,11,z0,*m7,IVm7,6,major,22.5
+DJAVAN,20,Dupla traicao,27,10,10,z0,*m7,II__X,6,major,23.0
+DJAVAN,20,Dupla traicao,28,3,3,Y1.1,*4.7.9,V/II,6,major,24.0
+DJAVAN,20,Dupla traicao,29,3,3,Y2.1.2,*7(b9.#11),V/II,6,major,24.5
+DJAVAN,20,Dupla traicao,30,8,8,z0,*m7,II,6,major,25.0
+DJAVAN,20,Dupla traicao,31,1,1,Y1.1,*4.7.9,V,6,major,26.0
+DJAVAN,20,Dupla traicao,32,6,6,Z4,*(#5)M7,I,6,major,27.0
+DJAVAN,20,Dupla traicao,33,11,11,Z2.2,*(#5)M7.9,IV,6,major,28.0
+DJAVAN,20,Dupla traicao,34,5,5,y0,*Ø,II__X,6,major,29.0
+DJAVAN,20,Dupla traicao,35,10,10,Y4.1,*7(b13),V/VI,6,major,30.0
+DJAVAN,20,Dupla traicao,36,1,1,z0,*m7,II__X,6,major,31.0
+DJAVAN,20,Dupla traicao,37,6,6,Y2,*7.9,V/IV,6,major,32.0
+DJAVAN,20,Dupla traicao,38,0,0,y0,*Ø,II__X,6,major,33.0
+DJAVAN,20,Dupla traicao,39,5,5,Y2.3,*7(b9),V/III,6,major,34.0
+DJAVAN,20,Dupla traicao,40,10,10,y0,*Ø,II__X,6,major,35.0
+DJAVAN,20,Dupla traicao,41,3,3,Y2.3,*7(b9),V/II,6,major,36.0
+DJAVAN,20,Dupla traicao,42,11,11,z2,*m7.9,IVm7,6,major,37.0
+DJAVAN,20,Dupla traicao,43,4,4,Y1.1,*4.7.9,V/bIII,6,major,38.0
+DJAVAN,20,Dupla traicao,44,9,9,Z0,*M7,bIII7M,6,major,39.0
+DJAVAN,21,Oceano,1,2,2,V0,*,I,2,major,1.0
+DJAVAN,21,Oceano,2,7,7,Z0,*M7,IV,2,major,2.0
+DJAVAN,21,Oceano,3,9,9,Y0,*7,V,2,major,3.0
+DJAVAN,21,Oceano,4,10,10,x0,*°7,V°/VI,2,major,4.0
+DJAVAN,21,Oceano,5,11,11,z0,*m7,VI,2,major,5.0
+DJAVAN,21,Oceano,6,11,11,w0,*mM7,VI,2,major,6.0
+DJAVAN,21,Oceano,7,11,11,z0,*m7,VI,2,major,7.0
+DJAVAN,21,Oceano,8,11,11,z1,*m6,VI,2,major,8.0
+DJAVAN,21,Oceano,9,9,9,z0,*m7,II__X,2,major,9.0
+DJAVAN,21,Oceano,10,2,2,Y2,*7.9,V/IV,2,major,10.0
+DJAVAN,21,Oceano,11,7,7,Z0,*M7,IV,2,major,11.0
+DJAVAN,21,Oceano,12,0,0,Y2,*7.9,bVII7,2,major,12.0
+DJAVAN,21,Oceano,13,6,6,z0,*m7,II__X,2,major,13.0
+DJAVAN,21,Oceano,14,11,11,Y2.3,*7(b9),V/II,2,major,14.0
+DJAVAN,21,Oceano,15,4,4,Y2,*7.9,V/V,2,major,15.0
+DJAVAN,21,Oceano,16,9,9,Y1.1,*4.7.9,V,2,major,16.0
+DJAVAN,21,Oceano,17,2,2,v0,*m,I,2,minor,17.0
+DJAVAN,21,Oceano,18,0,0,Y0,*7,V/III,2,minor,18.0
+DJAVAN,21,Oceano,19,5,5,Z0,*M7,III,2,minor,19.0
+DJAVAN,21,Oceano,20,7,7,z0,*m7,IV,2,minor,20.0
+DJAVAN,21,Oceano,21,9,9,z0,*m7,Vm7,2,minor,20.5
+DJAVAN,21,Oceano,22,2,2,v0,*m,I,2,minor,21.0
+DJAVAN,21,Oceano,23,0,0,Y0,*7,V/III,2,minor,22.0
+DJAVAN,21,Oceano,24,5,5,Z0,*M7,III,2,minor,23.0
+DJAVAN,21,Oceano,25,7,7,z0,*m7,IV,2,minor,24.0
+DJAVAN,21,Oceano,26,9,9,z0,*m7,Vm7,2,minor,25.0
+DJAVAN,21,Oceano,27,10,10,Z0,*M7,VI,2,minor,26.0
+DJAVAN,21,Oceano,28,4,4,y0,*Ø,II,2,minor,27.0
+DJAVAN,21,Oceano,29,9,9,Y4.1,*7(b13),V,2,minor,28.0
+DJAVAN,21,Oceano,30,2,2,V0,*,I,2,major,29.0
+DJAVAN,21,Oceano,31,5,5,Z0,*M7,bIII7M,2,major,30.0
+DJAVAN,21,Oceano,32,7,7,Z0,*M7,IV,2,major,31.0
+DJAVAN,21,Oceano,33,0,0,V0,*,bVII7M,2,major,32.0
+DJAVAN,21,Oceano,34,2,2,V0,*,I,2,major,33.0
+DJAVAN,21,Oceano,35,5,5,Z0,*M7,bIII7M,2,major,34.0
+DJAVAN,21,Oceano,36,7,7,Z0,*M7,IV,2,major,35.0
+DJAVAN,21,Oceano,37,0,0,V0,*,bVII7M,2,major,36.0
+DJAVAN,21,Oceano,38,2,2,V0,*,I,2,major,37.0
+DJAVAN,22,Alagoas,1,4,4,Z1.1,*6.9,I,4,major,1.0
+DJAVAN,22,Alagoas,2,6,6,z0,*m7,II,4,major,2.0
+DJAVAN,22,Alagoas,3,8,8,z0,*m7,II__X,4,major,3.0
+DJAVAN,22,Alagoas,4,1,1,Y2.4,*7(#9),V/II,4,major,4.0
+DJAVAN,22,Alagoas,5,6,6,Y0,*7,V/V,4,major,5.0
+DJAVAN,22,Alagoas,6,9,9,V0,*,IV,4,major,6.0
+DJAVAN,22,Alagoas,7,8,8,z0,*m7,II__X,4,major,7.0
+DJAVAN,22,Alagoas,8,1,1,Y2.4,*7(#9),V/II,4,major,7.5
+DJAVAN,22,Alagoas,9,6,6,Y0,*7,V/V,4,major,8.0
+DJAVAN,22,Alagoas,10,11,11,Y2,*7.9,V,4,major,8.5
+DJAVAN,22,Alagoas,11,4,4,Z1.1,*6.9,I,4,major,9.0
+DJAVAN,22,Alagoas,12,6,6,z0,*m7,II,4,major,10.0
+DJAVAN,22,Alagoas,13,8,8,z0,*m7,II__X,4,major,11.0
+DJAVAN,22,Alagoas,14,1,1,Y2.4,*7(#9),V/II,4,major,12.0
+DJAVAN,22,Alagoas,15,6,6,Y0,*7,V/V,4,major,13.0
+DJAVAN,22,Alagoas,16,9,9,V0,*,IV,4,major,14.0
+DJAVAN,22,Alagoas,17,11,11,Y1.1,*4.7.9,V,4,major,14.5
+DJAVAN,22,Alagoas,18,0,0,Z0,*M7,bVI7M,4,major,15.0
+DJAVAN,22,Alagoas,19,4,4,Z1.1,*6.9,I,4,major,16.0
+DJAVAN,22,Alagoas,20,6,6,Y0,*7,V/V,4,major,17.0
+DJAVAN,22,Alagoas,21,11,11,Y2,*7.9,V,4,major,17.5
+DJAVAN,22,Alagoas,22,8,8,z0,*m7,II__X,4,major,18.0
+DJAVAN,22,Alagoas,23,1,1,Y2.4,*7(#9),V/II,4,major,18.5
+DJAVAN,22,Alagoas,24,6,6,Y0,*7,V/V,4,major,19.0
+DJAVAN,22,Alagoas,25,11,11,Y2,*7.9,V,4,major,19.5
+DJAVAN,22,Alagoas,26,11,11,z0,*m7,II__X,4,major,20.0
+DJAVAN,22,Alagoas,27,4,4,Y2,*7.9,V/IV,4,major,20.5
+DJAVAN,22,Alagoas,28,9,9,Z0,*M7,IV,4,major,21.0
+DJAVAN,22,Alagoas,29,2,2,Y2,*7.9,IV7,4,major,21.5
+DJAVAN,22,Alagoas,30,8,8,z0,*m7,II__X,4,major,22.0
+DJAVAN,22,Alagoas,31,1,1,Y2.4,*7(#9),V/II,4,major,22.5
+DJAVAN,22,Alagoas,32,6,6,Y0,*7,V/V,4,major,23.0
+DJAVAN,22,Alagoas,33,11,11,Y2,*7.9,V,4,major,23.5
+DJAVAN,22,Alagoas,34,4,4,Z1.1,*6.9,I,4,major,24.0
+DJAVAN,22,Alagoas,35,1,1,Y2.4,*7(#9),V/II,4,major,25.0
+DJAVAN,22,Alagoas,36,6,6,Y0,*7,V/V,4,major,26.0
+DJAVAN,22,Alagoas,37,11,11,Y2,*7.9,V,4,major,27.0
+DJAVAN,22,Alagoas,38,8,8,z0,*m7,II__X,4,major,28.0
+DJAVAN,22,Alagoas,39,1,1,Y2.4,*7(#9),V/II,4,major,29.0
+DJAVAN,22,Alagoas,40,6,6,Y0,*7,V/V,4,major,30.0
+DJAVAN,22,Alagoas,41,11,11,Y2,*7.9,V,4,major,31.0
+DJAVAN,22,Alagoas,42,4,4,Z1.1,*6.9,I,4,major,32.0
+DJAVAN,22,Alagoas,43,1,1,Y2.4,*7(#9),V/II,4,major,33.0
+DJAVAN,22,Alagoas,44,6,6,Y0,*7,V/V,4,major,34.0
+DJAVAN,22,Alagoas,45,11,11,Y2,*7.9,V,4,major,35.0
+DJAVAN,22,Alagoas,46,8,8,z0,*m7,II__X,4,major,36.0
+DJAVAN,22,Alagoas,47,1,1,Y2.4,*7(#9),V/II,4,major,37.0
+DJAVAN,22,Alagoas,48,6,6,Y0,*7,V/V,4,major,38.0
+DJAVAN,22,Alagoas,49,3,3,y0,*Ø,II__X,4,major,39.0
+DJAVAN,22,Alagoas,50,8,8,Y4.1,*7(b13),V/VI,4,major,39.5
+DJAVAN,22,Alagoas,51,1,1,z0,*m7,VI,4,major,40.0
+DJAVAN,22,Alagoas,52,7,7,Y0,*7,SubV/II,4,major,40.5
+DJAVAN,22,Alagoas,53,6,6,Y0,*7,V/V,4,major,41.0
+DJAVAN,22,Alagoas,54,11,11,Y2,*7.9,V,4,major,41.5
+DJAVAN,22,Alagoas,55,4,4,Z1.1,*6.9,I,4,major,42.0
+DJAVAN,22,Alagoas,56,1,1,Y2.4,*7(#9),V/II,4,major,43.0
+DJAVAN,22,Alagoas,57,6,6,Y0,*7,V/V,4,major,44.0
+DJAVAN,22,Alagoas,58,11,11,Y2,*7.9,V,4,major,45.0
+DJAVAN,22,Alagoas,59,4,4,Z1.1,*6.9,I,4,major,46.0
+DJAVAN,23,Estoria de cantador,1,7,7,V1.1,*4.9,I,7,major,1.0
+DJAVAN,23,Estoria de cantador,2,7,7,V1,*4,I,7,major,2.0
+DJAVAN,23,Estoria de cantador,3,5,5,Z1,*6,bVII7M,7,major,3.0
+DJAVAN,23,Estoria de cantador,4,7,7,V1,*4,I,7,major,4.0
+DJAVAN,23,Estoria de cantador,5,7,7,Y1.1,*4.7.9,V/IV,7,major,6.0
+DJAVAN,23,Estoria de cantador,6,7,7,Y2,*7.9,V/IV,7,major,7.0
+DJAVAN,23,Estoria de cantador,7,0,0,V0,*,IV,7,major,8.0
+DJAVAN,23,Estoria de cantador,8,2,0,Y0,*7,V,7,major,9.0
+DJAVAN,23,Estoria de cantador,9,2,9,V0,*,V,7,major,9.5
+DJAVAN,23,Estoria de cantador,10,2,6,Y0,*7,V,7,major,10.0
+DJAVAN,23,Estoria de cantador,11,11,11,Y2.3,*7(b9),V/VI,7,major,11.0
+DJAVAN,23,Estoria de cantador,12,4,4,z2,*m7.9,II__X,7,major,12.0
+DJAVAN,23,Estoria de cantador,13,9,9,Y2.1,*7.9(#11),V/V,7,major,13.0
+DJAVAN,23,Estoria de cantador,14,0,0,V0,*,IV,7,major,14.0
+DJAVAN,23,Estoria de cantador,15,2,2,Y1.1,*4.7.9,V,7,major,15.0
+DJAVAN,23,Estoria de cantador,16,7,7,V1,*4,I,7,major,16.0
+DJAVAN,24,Mal de mim,1,11,11,y0,*Ø,II,9,minor,1.0
+DJAVAN,24,Mal de mim,2,4,4,Y4.1,*7(b13),V,9,minor,1.5
+DJAVAN,24,Mal de mim,3,9,9,z0,*m7,I,9,minor,2.0
+DJAVAN,24,Mal de mim,4,9,7,z0,*m7,I,9,minor,2.5
+DJAVAN,24,Mal de mim,5,5,5,Y2.1,*7.9(#11),SubV/V,9,minor,3.0
+DJAVAN,24,Mal de mim,6,11,11,y0,*Ø,II,9,minor,4.0
+DJAVAN,24,Mal de mim,7,4,4,Y4.1,*7(b13),V,9,minor,4.5
+DJAVAN,24,Mal de mim,8,11,11,y0,*Ø,II,9,minor,5.0
+DJAVAN,24,Mal de mim,9,4,4,Y4.1,*7(b13),V,9,minor,5.5
+DJAVAN,24,Mal de mim,10,9,9,z0,*m7,I,9,minor,6.0
+DJAVAN,24,Mal de mim,11,9,7,z0,*m7,I,9,minor,6.5
+DJAVAN,24,Mal de mim,12,11,6,Y0,*7,V/V,9,minor,7.0
+DJAVAN,24,Mal de mim,13,5,5,Z0,*M7,VI,9,minor,8.0
+DJAVAN,24,Mal de mim,14,4,4,Y4.1,*7(b13),V,9,minor,8.5
+DJAVAN,24,Mal de mim,15,9,9,z0,*m7,I,9,minor,9.0
+DJAVAN,24,Mal de mim,16,0,0,Y2,*7.9,V/VI,9,minor,10.0
+DJAVAN,24,Mal de mim,17,5,5,Z0,*M7,VI,9,minor,11.0
+DJAVAN,24,Mal de mim,18,10,10,Y2.1,*7.9(#11),SubV,9,minor,12.0
+DJAVAN,24,Mal de mim,19,9,9,z0,*m7,I,9,minor,13.0
+DJAVAN,24,Mal de mim,20,0,0,Y2,*7.9,V/VI,9,minor,14.0
+DJAVAN,24,Mal de mim,21,5,5,Z0,*M7,VI,9,minor,15.0
+DJAVAN,24,Mal de mim,22,10,10,Y2.1,*7.9(#11),SubV,9,minor,16.0
+DJAVAN,25,Tem boi na linha,1,9,9,Y2,*7.9,I,9,major,1.0
+DJAVAN,25,Tem boi na linha,2,2,2,Y2,*7.9,IV7,9,major,6.0
+DJAVAN,25,Tem boi na linha,3,0,0,Y2,*7.9,?,9,major,7.0
+DJAVAN,25,Tem boi na linha,4,10,10,Y2,*7.9,SubV,9,major,8.0
+DJAVAN,25,Tem boi na linha,5,4,4,Y1.1,*4.7.9,V,9,major,9.0
+DJAVAN,25,Tem boi na linha,6,9,9,Y2,*7.9,I,9,major,10.5
+DJAVAN,25,Tem boi na linha,7,2,2,Y2,*7.9,IV7,9,major,14.0
+DJAVAN,25,Tem boi na linha,8,0,0,Y2,*7.9,?,9,major,15.0
+DJAVAN,25,Tem boi na linha,9,9,9,Y2,*7.9,I,9,major,16.0
+DJAVAN,25,Tem boi na linha,10,9,7,Y0,*7,I,9,major,17.0
+DJAVAN,25,Tem boi na linha,11,2,6,Z0,*M7,IV,9,major,18.0
+DJAVAN,25,Tem boi na linha,12,5,5,V3,*(#11),bVI7M,9,major,19.0
+DJAVAN,25,Tem boi na linha,13,9,9,Y1.1,*4.7.9,I,9,major,20.0
+DJAVAN,25,Tem boi na linha,14,9,7,Y0,*7,I,9,major,21.0
+DJAVAN,25,Tem boi na linha,15,2,6,Z0,*M7,IV,9,major,22.0
+DJAVAN,25,Tem boi na linha,16,5,5,V3,*(#11),bVI7M,9,major,23.0
+DJAVAN,25,Tem boi na linha,17,9,9,Y1.1,*4.7.9,I,9,major,24.0
+DJAVAN,25,Tem boi na linha,18,9,7,Y0,*7,I,9,major,25.0
+DJAVAN,25,Tem boi na linha,19,2,6,Z0,*M7,IV,9,major,26.0
+DJAVAN,25,Tem boi na linha,20,5,5,V3,*(#11),bVI7M,9,major,27.0
+DJAVAN,25,Tem boi na linha,21,9,9,Y1.1,*4.7.9,I,9,major,28.0
+DJAVAN,25,Tem boi na linha,22,9,7,Y0,*7,I,9,major,29.0
+DJAVAN,25,Tem boi na linha,23,2,6,Z0,*M7,IV,9,major,30.0
+DJAVAN,25,Tem boi na linha,24,5,5,V3,*(#11),bVI7M,9,major,31.0
+DJAVAN,25,Tem boi na linha,25,9,9,Y2,*7.9,I,9,major,32.0
+DJAVAN,25,Tem boi na linha,26,9,7,Y0,*7,I,9,major,33.0
+DJAVAN,25,Tem boi na linha,27,2,6,Z0,*M7,IV,9,major,34.0
+DJAVAN,25,Tem boi na linha,28,5,5,V3,*(#11),bVI7M,9,major,35.0
+DJAVAN,25,Tem boi na linha,29,9,9,Y1.1,*4.7.9,I,9,major,36.0
+DJAVAN,25,Tem boi na linha,30,9,7,Y0,*7,I,9,major,37.0
+DJAVAN,25,Tem boi na linha,31,2,6,Z0,*M7,IV,9,major,38.0
+DJAVAN,25,Tem boi na linha,32,5,5,V3,*(#11),bVI7M,9,major,39.0
+DJAVAN,25,Tem boi na linha,33,9,9,Y2,*7.9,I,9,major,40.0
+DJAVAN,26,Lambada de serpente,1,6,6,z3,*m7.11,II,4,major,1.0
+DJAVAN,26,Lambada de serpente,2,6,1,z3,*m7.11,II,4,major,1.5
+DJAVAN,26,Lambada de serpente,3,4,4,V0,*,I,4,major,2.0
+DJAVAN,26,Lambada de serpente,4,6,6,z3,*m7.11,II,4,major,3.0
+DJAVAN,26,Lambada de serpente,5,6,1,z3,*m7.11,II,4,major,3.5
+DJAVAN,26,Lambada de serpente,6,4,4,V0,*,I,4,major,4.0
+DJAVAN,26,Lambada de serpente,7,6,6,z3,*m7.11,II,4,major,5.0
+DJAVAN,26,Lambada de serpente,8,6,1,z3,*m7.11,II,4,major,5.5
+DJAVAN,26,Lambada de serpente,9,4,4,V0,*,I,4,major,6.0
+DJAVAN,26,Lambada de serpente,10,6,6,z3,*m7.11,II,4,major,7.0
+DJAVAN,26,Lambada de serpente,11,6,1,z3,*m7.11,II,4,major,7.5
+DJAVAN,26,Lambada de serpente,12,4,4,V0,*,I,4,major,8.0
+DJAVAN,26,Lambada de serpente,13,9,9,V3,*(#11),IV,4,major,9.0
+DJAVAN,26,Lambada de serpente,14,4,8,Z0,*M7,I,4,major,10.0
+DJAVAN,26,Lambada de serpente,15,6,6,z0,*m7,II,4,major,11.0
+DJAVAN,26,Lambada de serpente,16,4,4,V0,*,I,4,major,12.0
+DJAVAN,26,Lambada de serpente,17,9,9,V3,*(#11),IV,4,major,13.0
+DJAVAN,26,Lambada de serpente,18,4,8,Z0,*M7,I,4,major,14.0
+DJAVAN,26,Lambada de serpente,19,6,6,z0,*m7,II,4,major,15.0
+DJAVAN,26,Lambada de serpente,20,4,4,V0,*,I,4,major,16.0
+DJAVAN,27,Meu bem querer,1,9,9,V0,*,I,9,major,1.0
+DJAVAN,27,Meu bem querer,2,2,9,V0,*,IV,9,major,2.0
+DJAVAN,27,Meu bem querer,3,9,9,V0,*,I,9,major,3.0
+DJAVAN,27,Meu bem querer,4,2,9,V0,*,IV,9,major,4.0
+DJAVAN,27,Meu bem querer,5,4,8,V0,*,V,9,major,5.0
+DJAVAN,27,Meu bem querer,6,4,8,Y0,*7,V,9,major,6.0
+DJAVAN,27,Meu bem querer,7,6,6,z0,*m7,VI,9,major,7.0
+DJAVAN,27,Meu bem querer,8,1,1,z0,*m7,III,9,major,8.0
+DJAVAN,27,Meu bem querer,9,2,2,V0,*,IV,9,major,9.0
+DJAVAN,27,Meu bem querer,10,2,2,z1,*m6,IVm7,9,major,10.0
+DJAVAN,27,Meu bem querer,11,2,2,x4,*°7.14,?,9,major,10.5
+DJAVAN,27,Meu bem querer,12,1,8,z0,*m7,III,9,major,11.0
+DJAVAN,27,Meu bem querer,13,5,5,x0,*°7,V°,9,major,12.0
+DJAVAN,27,Meu bem querer,14,4,4,x0,*°7,V°/IV,9,major,13.0
+DJAVAN,27,Meu bem querer,15,3,3,y0,*Ø,#IVm7(b5),9,major,14.0
+DJAVAN,27,Meu bem querer,16,2,2,z1,*m6,IVm7,9,major,14.5
+DJAVAN,27,Meu bem querer,17,9,1,V0,*,I,9,major,15.0
+DJAVAN,27,Meu bem querer,18,6,6,z0,*m7,VI,9,major,15.5
+DJAVAN,27,Meu bem querer,19,4,4,Y1.1,*4.7.9,V,9,major,16.0
+DJAVAN,27,Meu bem querer,20,9,9,V0,*,I,9,major,17.0
+DJAVAN,28,Aquele um,1,7,7,Z0,*M7,I,7,major,1.0
+DJAVAN,28,Aquele um,2,4,4,Y2.4,*7(#9),V/II,7,major,2.0
+DJAVAN,28,Aquele um,3,9,9,Y2,*7.9,V/V,7,major,3.0
+DJAVAN,28,Aquele um,4,2,2,Y2.2,*7.9.13,V,7,major,4.0
+DJAVAN,28,Aquele um,5,7,7,Z0,*M7,I,7,major,5.0
+DJAVAN,28,Aquele um,6,4,4,Y2.4,*7(#9),V/II,7,major,6.0
+DJAVAN,28,Aquele um,7,9,9,Y2,*7.9,V/V,7,major,7.0
+DJAVAN,28,Aquele um,8,2,2,Y2.2,*7.9.13,V,7,major,8.0
+DJAVAN,28,Aquele um,9,11,11,z0,*m7,II__X,7,major,9.0
+DJAVAN,28,Aquele um,10,4,4,Y2.4,*7(#9),V/II,7,major,10.0
+DJAVAN,28,Aquele um,11,9,9,Y2,*7.9,V/V,7,major,11.0
+DJAVAN,28,Aquele um,12,2,2,Y2.2,*7.9.13,V,7,major,12.0
+DJAVAN,28,Aquele um,13,11,11,z0,*m7,II__X,7,major,13.0
+DJAVAN,28,Aquele um,14,4,4,Y2.4,*7(#9),V/II,7,major,14.0
+DJAVAN,28,Aquele um,15,9,9,Y2,*7.9,V/V,7,major,15.0
+DJAVAN,28,Aquele um,16,2,2,Y2.2,*7.9.13,V,7,major,16.0
+DJAVAN,28,Aquele um,17,11,11,z0,*m7,II__X,7,major,17.0
+DJAVAN,28,Aquele um,18,4,4,Y2.4,*7(#9),V/II,7,major,18.0
+DJAVAN,28,Aquele um,19,9,9,Y2,*7.9,V/V,7,major,19.0
+DJAVAN,28,Aquele um,20,2,2,Y2.2,*7.9.13,V,7,major,20.0
+DJAVAN,28,Aquele um,21,11,11,z0,*m7,II__X,7,major,21.0
+DJAVAN,28,Aquele um,22,4,4,Y2.4,*7(#9),V/II,7,major,22.0
+DJAVAN,28,Aquele um,23,9,9,z2,*m7.9,II,7,major,23.0
+DJAVAN,28,Aquele um,24,9,7,z2,*m7.9,II,7,major,23.5
+DJAVAN,28,Aquele um,25,6,6,y0,*Ø,II__X,7,major,24.0
+DJAVAN,28,Aquele um,26,11,11,Y2.3,*7(b9),V/VI,7,major,24.5
+DJAVAN,28,Aquele um,27,4,4,w1,*mM7.9,II__X,7,major,25.0
+DJAVAN,28,Aquele um,28,9,9,W0,*(#5)7,V/V,7,major,26.0
+DJAVAN,28,Aquele um,29,9,9,z0,*m7,II,7,major,27.0
+DJAVAN,28,Aquele um,30,2,2,Y2.2,*7.9.13,V,7,major,28.0
+DJAVAN,28,Aquele um,31,5,5,Y3,*7(#11),SubV/VI,7,major,29.0
+DJAVAN,28,Aquele um,32,4,4,Y2.4,*7(#9),V/II,7,major,30.0
+DJAVAN,28,Aquele um,33,9,9,Y2,*7.9,V/V,7,major,31.0
+DJAVAN,28,Aquele um,34,2,2,Y2.2,*7.9.13,V,7,major,32.0
+DJAVAN,28,Aquele um,35,5,5,Y3,*7(#11),SubV/VI,7,major,33.0
+DJAVAN,28,Aquele um,36,4,4,Y2.4,*7(#9),V/II,7,major,34.0
+DJAVAN,28,Aquele um,37,9,9,Y2,*7.9,V/V,7,major,35.0
+DJAVAN,28,Aquele um,38,2,2,Y2.2,*7.9.13,V,7,major,36.0
+DJAVAN,29,Sururu de capote,1,4,4,Z0,*M7,I,4,major,1.0
+DJAVAN,29,Sururu de capote,2,9,7,Y0,*7,IV7,4,major,2.0
+DJAVAN,29,Sururu de capote,3,2,6,Z0,*M7,bVII7M,4,major,3.0
+DJAVAN,29,Sururu de capote,4,5,5,x3,*°7(b13),?,4,major,4.0
+DJAVAN,29,Sururu de capote,5,4,4,z2,*m7.9,II__X,4,major,5.0
+DJAVAN,29,Sururu de capote,6,9,9,Y4,*7.13,V/bVII,4,major,6.0
+DJAVAN,29,Sururu de capote,7,2,2,Z1.1,*6.9,bVII7M,4,major,7.0
+DJAVAN,29,Sururu de capote,8,0,0,Z1.1,*6.9,bVI7M,4,major,7.5
+DJAVAN,29,Sururu de capote,9,6,6,Y0,*7,V/V,4,major,8.0
+DJAVAN,29,Sururu de capote,10,5,5,Y0,*7,SubV,4,major,8.5
+DJAVAN,29,Sururu de capote,11,11,11,Y2.2,*7.9.13,V,4,major,9.0
+DJAVAN,29,Sururu de capote,12,9,9,Y2,*7.9,IV7,4,major,11.0
+DJAVAN,29,Sururu de capote,13,11,11,Y2.4,*7(#9),V,4,major,25.0
+DJAVAN,29,Sururu de capote,14,5,5,Y2.1,*7.9(#11),SubV,4,major,25.5
+DJAVAN,29,Sururu de capote,15,4,4,Z0,*M7,I,4,major,26.0
+DJAVAN,30,Pedro Brasil,1,0,0,Z1.1,*6.9,I,0,major,1.0
+DJAVAN,30,Pedro Brasil,2,4,4,X0,*(b5)7,aSubV/IV,0,major,2.0
+DJAVAN,30,Pedro Brasil,3,5,5,Z0,*M7,IV,0,major,3.0
+DJAVAN,30,Pedro Brasil,4,10,10,Y2.1,*7.9(#11),bVII7,0,major,4.0
+DJAVAN,30,Pedro Brasil,5,0,0,z2,*m7.9,Im7,0,major,5.0
+DJAVAN,30,Pedro Brasil,6,0,10,z0,*m7,Im7,0,major,6.0
+DJAVAN,30,Pedro Brasil,7,9,9,y0,*Ø,II__X,0,major,7.0
+DJAVAN,30,Pedro Brasil,8,8,8,Y2.4,*7(#9),SubV/V,0,major,8.0
+DJAVAN,30,Pedro Brasil,9,7,7,Y1.1,*4.7.9,V,0,major,9.0
+DJAVAN,30,Pedro Brasil,10,9,9,z0,*m7,VI,0,major,10.0
+DJAVAN,30,Pedro Brasil,11,8,8,z0,*m7,bVIm7,0,major,10.5
+DJAVAN,30,Pedro Brasil,12,7,7,z0,*m7,II__X,0,major,11.0
+DJAVAN,30,Pedro Brasil,13,0,0,Y2,*7.9,V/IV,0,major,12.0
+DJAVAN,30,Pedro Brasil,14,5,5,Z0,*M7,IV,0,major,13.0
+DJAVAN,30,Pedro Brasil,15,10,10,Y2,*7.9,bVII7,0,major,14.0
+DJAVAN,30,Pedro Brasil,16,4,4,z2,*m7.9,II__X,0,major,15.0
+DJAVAN,30,Pedro Brasil,17,9,9,Y4.1,*7(b13),V/II,0,major,16.0
+DJAVAN,30,Pedro Brasil,18,2,2,Y2,*7.9,V/V,0,major,17.0
+DJAVAN,30,Pedro Brasil,19,7,7,Y1.1,*4.7.9,V,0,major,18.0
+DJAVAN,30,Pedro Brasil,20,7,7,Y2,*7.9,V,0,major,18.5
+DJAVAN,30,Pedro Brasil,21,7,7,z3,*m7.11,II__X,0,major,19.0
+DJAVAN,30,Pedro Brasil,22,0,0,Y2,*7.9,V/IV,0,major,20.0
+DJAVAN,30,Pedro Brasil,23,5,5,Z0,*M7,IV,0,major,21.0
+DJAVAN,30,Pedro Brasil,24,10,10,Y2,*7.9,bVII7,0,major,22.0
+DJAVAN,30,Pedro Brasil,25,4,4,z2,*m7.9,II__X,0,major,23.0
+DJAVAN,30,Pedro Brasil,26,9,9,Y4.1,*7(b13),V/II,0,major,24.0
+DJAVAN,30,Pedro Brasil,27,2,2,Y2,*7.9,V/V,0,major,25.0
+DJAVAN,30,Pedro Brasil,28,5,5,z1,*m6,IVm7,0,major,26.0
+DJAVAN,30,Pedro Brasil,29,0,0,Z1.1,*6.9,I,0,major,27.0
+DJAVAN,31,Seduzir,1,9,9,V0,*,I,9,major,1.0
+DJAVAN,31,Seduzir,2,2,2,Z0,*M7,II,9,major,2.0
+DJAVAN,31,Seduzir,3,9,9,V0,*,I,9,major,3.0
+DJAVAN,31,Seduzir,4,9,9,Y0,*7,V/IV,9,major,3.5
+DJAVAN,31,Seduzir,5,2,2,Z0,*M7,IV,9,major,4.0
+DJAVAN,31,Seduzir,6,5,5,x0,*°7,V°/VI,9,major,4.5
+DJAVAN,31,Seduzir,7,6,6,z0,*m7,II__X,9,major,5.0
+DJAVAN,31,Seduzir,8,11,11,Y0,*7,V/V,9,major,5.5
+DJAVAN,31,Seduzir,9,4,4,z0,*m7,II__X,9,major,6.0
+DJAVAN,31,Seduzir,10,9,9,Y0,*7,V/IV,9,major,6.5
+DJAVAN,31,Seduzir,11,2,2,Z0,*M7,IV,9,major,7.0
+DJAVAN,31,Seduzir,12,5,5,Y1.1,*4.7.9,V,9,major,8.0
+DJAVAN,31,Seduzir,13,9,9,V0,*,I,9,major,9.0
+DJAVAN,31,Seduzir,14,4,4,Y1.1,*4.7.9,V,9,major,10.0
+DJAVAN,31,Seduzir,15,9,9,V0,*,I,9,major,11.0
+DJAVAN,31,Seduzir,16,2,2,Z0,*M7,II,9,major,12.0
+DJAVAN,31,Seduzir,17,9,9,V0,*,I,9,major,13.0
+DJAVAN,31,Seduzir,18,9,9,Y0,*7,V/IV,9,major,13.5
+DJAVAN,31,Seduzir,19,2,2,Z0,*M7,IV,9,major,14.0
+DJAVAN,31,Seduzir,20,5,5,x0,*°7,V°/VI,9,major,14.5
+DJAVAN,31,Seduzir,21,6,6,z0,*m7,II__X,9,major,15.0
+DJAVAN,31,Seduzir,22,11,11,Y0,*7,V/V,9,major,15.5
+DJAVAN,31,Seduzir,23,2,2,Z0,*M7,IV,9,major,16.0
+DJAVAN,31,Seduzir,24,4,4,Y1.1,*4.7.9,V,9,major,16.5
+DJAVAN,31,Seduzir,25,9,9,V0,*,I,9,major,17.0
+DJAVAN,31,Seduzir,26,11,11,Y0,*7,V/V,9,major,17.5
+DJAVAN,31,Seduzir,27,2,2,Z0,*M7,IV,9,major,18.0
+DJAVAN,31,Seduzir,28,4,4,Y1.1,*4.7.9,V,9,major,18.5
+DJAVAN,31,Seduzir,29,9,9,V0,*,I,9,major,19.0
+DJAVAN,31,Seduzir,30,11,11,Y0,*7,V/V,9,major,19.5
+DJAVAN,31,Seduzir,31,2,2,Z0,*M7,IV,9,major,20.0
+DJAVAN,31,Seduzir,32,4,4,Y1.1,*4.7.9,V,9,major,20.5
+DJAVAN,31,Seduzir,33,9,9,V0,*,I,9,major,21.0
+DJAVAN,32,Faltando um pedaco,1,4,4,V0,*,I,4,major,1.0
+DJAVAN,32,Faltando um pedaco,2,9,1,Z0,*M7,IV,4,major,2.0
+DJAVAN,32,Faltando um pedaco,3,8,3,z0,*m7,III,4,major,3.0
+DJAVAN,32,Faltando um pedaco,4,9,4,Z0,*M7,IV,4,major,4.0
+DJAVAN,32,Faltando um pedaco,5,8,3,w2,*mM711,III,4,major,5.0
+DJAVAN,32,Faltando um pedaco,6,9,1,Z1.1,*6.9,IV,4,major,6.0
+DJAVAN,32,Faltando um pedaco,7,9,1,V1,*4,IV,4,major,6.5
+DJAVAN,32,Faltando um pedaco,8,8,3,z0,*m7,III,4,major,7.0
+DJAVAN,32,Faltando um pedaco,9,9,4,Z0,*M7,IV,4,major,8.0
+DJAVAN,32,Faltando um pedaco,10,11,11,Y1.1,*4.7.9,V,4,major,8.5
+DJAVAN,32,Faltando um pedaco,11,4,4,V0,*,I,4,major,9.0
+DJAVAN,32,Faltando um pedaco,12,9,1,V1,*4,IV,4,major,10.0
+DJAVAN,32,Faltando um pedaco,13,8,3,z0,*m7,III,4,major,11.0
+DJAVAN,32,Faltando um pedaco,14,9,4,Z0,*M7,IV,4,major,12.0
+DJAVAN,32,Faltando um pedaco,15,11,11,Y1.1,*4.7.9,V,4,major,12.5
+DJAVAN,32,Faltando um pedaco,16,4,4,V0,*,I,4,major,13.0
+DJAVAN,33,Samurai,1,4,4,Z0,*M7,I,4,major,1.0
+DJAVAN,33,Samurai,2,7,7,x0,*°7,V°/III,4,major,1.5
+DJAVAN,33,Samurai,3,8,8,z0,*m7,II__X,4,major,2.0
+DJAVAN,33,Samurai,4,1,1,Y2,*7.9,V,2,major,2.5
+DJAVAN,33,Samurai,5,4,4,Z0,*M7,I,4,major,3.0
+DJAVAN,33,Samurai,6,7,7,x0,*°7,V°/III,4,major,3.5
+DJAVAN,33,Samurai,7,8,8,z0,*m7,III,4,major,4.0
+DJAVAN,33,Samurai,8,11,11,Y2,*7.9,V,4,major,4.5
+DJAVAN,33,Samurai,9,4,4,Z0,*M7,I,4,major,5.0
+DJAVAN,33,Samurai,10,7,7,x0,*°7,V°/III,4,major,5.5
+DJAVAN,33,Samurai,11,8,8,z0,*m7,II__X,4,major,6.0
+DJAVAN,33,Samurai,12,1,1,Y2,*7.9,V,4,major,6.5
+DJAVAN,33,Samurai,13,4,4,Z0,*M7,I,4,major,7.0
+DJAVAN,33,Samurai,14,7,7,x0,*°7,V°/III,4,major,7.5
+DJAVAN,33,Samurai,15,8,8,z0,*m7,III,4,major,8.0
+DJAVAN,33,Samurai,16,11,11,Y2,*7.9,V,4,major,8.5
+DJAVAN,33,Samurai,17,4,4,Z0,*M7,I,4,major,9.0
+DJAVAN,33,Samurai,18,7,7,x0,*°7,V°/III,4,major,9.5
+DJAVAN,33,Samurai,19,8,8,z0,*m7,II__X,4,major,10.0
+DJAVAN,33,Samurai,20,1,1,Y2,*7.9,V,4,major,10.5
+DJAVAN,33,Samurai,21,9,9,Z0,*M7,IV,4,major,11.0
+DJAVAN,33,Samurai,22,7,7,Z0,*M7,Np/II,4,major,11.5
+DJAVAN,33,Samurai,23,6,6,z0,*m7,II,4,major,12.0
+DJAVAN,33,Samurai,24,11,11,Y2,*7.9,V,4,major,12.5
+DJAVAN,33,Samurai,25,4,4,Z0,*M7,I,4,major,13.0
+DJAVAN,33,Samurai,26,7,7,x0,*°7,V°/III,4,major,13.5
+DJAVAN,33,Samurai,27,8,8,z0,*m7,II__X,4,major,14.0
+DJAVAN,33,Samurai,28,1,1,Y2,*7.9,V,4,major,14.5
+DJAVAN,33,Samurai,29,9,9,Z0,*M7,IV,4,major,15.0
+DJAVAN,33,Samurai,30,10,10,y0,*Ø,II__X,4,major,16.0
+DJAVAN,33,Samurai,31,3,3,Y2.3,*7(b9),V/III,4,major,16.5
+DJAVAN,33,Samurai,32,4,4,Z0,*M7,I,4,major,17.0
+DJAVAN,33,Samurai,33,7,7,x0,*°7,V°/III,4,major,17.5
+DJAVAN,33,Samurai,34,8,8,z0,*m7,II__X,4,major,18.0
+DJAVAN,33,Samurai,35,1,1,Y2,*7.9,V,4,major,18.5
+DJAVAN,33,Samurai,36,4,4,Z0,*M7,I,4,major,19.0
+DJAVAN,33,Samurai,37,7,7,x0,*°7,V°/III,4,major,19.5
+DJAVAN,33,Samurai,38,8,8,z0,*m7,III,4,major,20.0
+DJAVAN,33,Samurai,39,11,11,Y2,*7.9,V,4,major,20.5
+DJAVAN,33,Samurai,40,4,4,Z0,*M7,I,4,major,21.0
+DJAVAN,34,Luz,1,2,2,Z1.1,*6.9,I,2,major,1.0
+DJAVAN,34,Luz,2,7,7,Y0,*7,SubV/III,2,major,1.5
+DJAVAN,34,Luz,3,6,6,z0,*m7,II__X,2,major,2.0
+DJAVAN,34,Luz,4,11,11,Y2.3,*7(b9),V/II,2,major,2.5
+DJAVAN,34,Luz,5,4,4,Y2,*7.9,V/V,2,major,3.0
+DJAVAN,34,Luz,6,7,7,z1,*m6,IVm7,2,major,3.5
+DJAVAN,34,Luz,7,5,9,Z0,*M7,bIII7M,2,major,4.0
+DJAVAN,34,Luz,8,9,9,Y1.1,*4.7.9,V,2,major,4.5
+DJAVAN,34,Luz,9,9,9,Y2,*7.9,V,2,major,4.75
+DJAVAN,34,Luz,10,2,2,Z1.1,*6.9,I,2,major,5.0
+DJAVAN,34,Luz,11,7,7,Y0,*7,SubV/III,2,major,5.5
+DJAVAN,34,Luz,12,6,6,z0,*m7,II__X,2,major,6.0
+DJAVAN,34,Luz,13,5,5,Z0,*M7,bIII7M,2,major,6.5
+DJAVAN,34,Luz,14,10,10,Z0,*M7,bVI7M,2,major,7.0
+DJAVAN,34,Luz,15,3,3,Z0,*M7,bII7M,2,major,7.5
+DJAVAN,34,Luz,16,7,7,z0,*m7,IVm7,2,major,8.0
+DJAVAN,34,Luz,17,9,9,Y1.1,*4.7.9,V,2,major,8.5
+DJAVAN,34,Luz,18,9,9,Y2,*7.9,V,2,major,8.75
+DJAVAN,34,Luz,19,2,2,Z1.1,*6.9,I,2,major,9.0
+DJAVAN,34,Luz,20,7,7,Y0,*7,IV7,2,major,9.5
+DJAVAN,34,Luz,21,7,7,Z0,*M7,IV,2,major,10.0
+DJAVAN,34,Luz,22,0,0,Y2,*7.9,V/bIII,2,major,10.5
+DJAVAN,34,Luz,23,5,5,Z0,*M7,bIII7M,2,major,11.0
+DJAVAN,34,Luz,24,10,10,Y2,*7.9,SubV/V,2,major,11.5
+DJAVAN,34,Luz,25,7,7,z0,*m7,IVm7,2,major,12.0
+DJAVAN,34,Luz,26,9,9,Y1.1,*4.7.9,V,2,major,12.5
+DJAVAN,34,Luz,27,2,2,Z1.1,*6.9,I,2,major,13.0
+DJAVAN,34,Luz,28,8,8,Y3,*7(#11),SubV/IV,2,major,13.5
+DJAVAN,34,Luz,29,7,7,Z0,*M7,IV,2,major,14.0
+DJAVAN,34,Luz,30,0,0,Y2,*7.9,V/bIII,2,major,14.5
+DJAVAN,34,Luz,31,5,5,Z0,*M7,bIII7M,2,major,15.0
+DJAVAN,34,Luz,32,10,10,Y2,*7.9,SubV/V,2,major,15.5
+DJAVAN,34,Luz,33,7,7,z0,*m7,IVm7,2,major,16.0
+DJAVAN,34,Luz,34,9,9,Y1.1,*4.7.9,V,2,major,16.5
+DJAVAN,34,Luz,35,2,2,Z2,*M7.9,I,2,major,17.0
+DJAVAN,34,Luz,36,1,1,Y2.4,*7(#9),?,2,major,17.5
+DJAVAN,34,Luz,37,0,0,Y2.4,*7(#9),V/bIII,2,major,17.75
+DJAVAN,34,Luz,38,5,5,Y4,*7.13,V/bVI,2,major,18.0
+DJAVAN,34,Luz,39,10,10,Y2.4,*7(#9),SubV/V,2,major,18.5
+DJAVAN,34,Luz,40,9,9,Y2.4,*7(#9),V,2,major,18.75
+DJAVAN,34,Luz,41,2,2,Z2,*M7.9,I,2,major,19.0
+DJAVAN,35,Capim,1,5,5,Z0,*M7,I,5,major,1.0
+DJAVAN,35,Capim,2,8,8,x0,*°7,bIII°,5,major,2.0
+DJAVAN,35,Capim,3,7,7,z0,*m7,II,5,major,3.0
+DJAVAN,35,Capim,4,0,0,Y2,*7.9,V,5,major,4.0
+DJAVAN,35,Capim,5,5,5,Z0,*M7,I,5,major,5.0
+DJAVAN,35,Capim,6,8,8,x0,*°7,bIII°,5,major,6.0
+DJAVAN,35,Capim,7,7,7,z0,*m7,II,5,major,7.0
+DJAVAN,35,Capim,8,0,0,Y2,*7.9,V,5,major,8.0
+DJAVAN,35,Capim,9,5,5,Z0,*M7,I,5,major,9.0
+DJAVAN,35,Capim,10,8,8,x0,*°7,bIII°,5,major,10.0
+DJAVAN,35,Capim,11,7,7,z0,*m7,II,5,major,11.0
+DJAVAN,35,Capim,12,0,0,Y2,*7.9,V,5,major,12.0
+DJAVAN,35,Capim,13,3,3,Y2.1,*7.9(#11),SubV/VI,5,major,13.0
+DJAVAN,35,Capim,14,2,2,Y1.1,*4.7.9,V/II,5,major,14.0
+DJAVAN,35,Capim,15,2,2,Y2,*7.9,V/II,5,major,14.5
+DJAVAN,35,Capim,16,7,7,Z0,*M7,I,7,major,15.0
+DJAVAN,35,Capim,17,0,0,Y1.1,*4.7.9,V/bVII,7,major,16.0
+DJAVAN,35,Capim,18,0,0,Y2,*7.9,V/bVII,7,major,16.5
+DJAVAN,35,Capim,19,5,5,Z0,*M7,bVII7M,7,major,17.0
+DJAVAN,35,Capim,20,7,7,z0,*m7,Im7,7,major,17.5
+DJAVAN,35,Capim,21,9,9,z0,*m7,II,7,major,18.0
+DJAVAN,35,Capim,22,2,2,z0,*m7,Vm7,7,major,18.5
+DJAVAN,35,Capim,23,11,11,z3,*m7.11,II__X,7,major,19.0
+DJAVAN,35,Capim,24,10,10,Y3,*7(#11),SubV/II,7,major,20.0
+DJAVAN,35,Capim,25,9,9,Y2,*7.9,V/V,7,major,21.0
+DJAVAN,35,Capim,26,0,0,z0,*m7,II__X,7,major,23.0
+DJAVAN,35,Capim,27,5,5,Y2,*7.9,V/bIII,7,major,24.0
+DJAVAN,35,Capim,28,11,11,y1,*Ø.9,II__X,7,major,25.0
+DJAVAN,35,Capim,29,4,4,Y4.1,*7(b13),V/II,7,major,26.0
+DJAVAN,35,Capim,30,9,9,Y2,*7.9,V/V,7,major,27.0
+DJAVAN,35,Capim,31,2,2,Y2,*7.9,V,7,major,28.0
+DJAVAN,35,Capim,32,7,7,Z0,*M7,I,7,major,29.0
+DJAVAN,35,Capim,33,0,0,Y2,*7.9,V,5,major,30.0
+DJAVAN,35,Capim,34,5,5,Z0,*M7,I,5,major,31.0
+DJAVAN,36,Sina,1,9,9,V0,*,I,9,major,1.0
+DJAVAN,36,Sina,2,2,9,V0,*,IV,9,major,2.0
+DJAVAN,36,Sina,3,9,9,V0,*,I,9,major,3.0
+DJAVAN,36,Sina,4,4,8,Y0,*7,V,9,major,4.0
+DJAVAN,36,Sina,5,6,6,z0,*m7,VI,9,major,5.0
+DJAVAN,36,Sina,6,1,1,z0,*m7,III,9,major,6.0
+DJAVAN,36,Sina,7,2,2,Z0,*M7,IV,9,major,7.0
+DJAVAN,36,Sina,8,3,3,x0,*°7,V°/V,9,major,8.0
+DJAVAN,36,Sina,9,4,4,Y1.1,*4.7.9,V,9,major,9.0
+DJAVAN,36,Sina,10,2,2,Y1.1,*4.7.9,IV7,9,major,10.0
+DJAVAN,36,Sina,11,2,2,Y2,*7.9,IV7,9,major,10.25
+DJAVAN,36,Sina,12,1,1,Y2.4,*7(#9),V/VI,9,major,10.5
+DJAVAN,36,Sina,13,7,7,Y3,*7(#11),SubV/VI,9,major,10.75
+DJAVAN,36,Sina,14,6,6,z0,*m7,VI,9,major,11.0
+DJAVAN,36,Sina,15,4,4,Y1.1,*4.7.9,V,9,major,13.0
+DJAVAN,36,Sina,16,2,2,Y1.1,*4.7.9,IV7,9,major,14.0
+DJAVAN,36,Sina,17,4,4,Y1.1,*4.7.9,V,9,major,14.5
+DJAVAN,36,Sina,18,4,4,Y2,*7.9,V,9,major,14.75
+DJAVAN,36,Sina,19,9,9,V0,*,I,9,major,15.0
+DJAVAN,36,Sina,20,2,9,V0,*,IV,9,major,16.0
+DJAVAN,36,Sina,21,9,9,V0,*,I,9,major,17.0
+DJAVAN,36,Sina,22,4,8,Y0,*7,V,9,major,18.0
+DJAVAN,36,Sina,23,6,6,z0,*m7,VI,9,major,19.0
+DJAVAN,36,Sina,24,1,1,z0,*m7,III,9,major,20.0
+DJAVAN,36,Sina,25,2,2,Z0,*M7,IV,9,major,21.0
+DJAVAN,36,Sina,26,4,4,Y1.1,*4.7.9,V,9,major,22.0
+DJAVAN,36,Sina,27,9,9,V0,*,I,9,major,23.0
+DJAVAN,37,Petala,1,9,9,V0,*,I,9,major,1.0
+DJAVAN,37,Petala,2,1,1,z0,*m7,III,9,major,1.5
+DJAVAN,37,Petala,3,2,2,Z0,*M7,IV,9,major,2.0
+DJAVAN,37,Petala,4,4,4,Y1.1,*4.7.9,V,9,major,2.5
+DJAVAN,37,Petala,5,9,9,V0,*,I,9,major,3.0
+DJAVAN,37,Petala,6,1,1,z0,*m7,III,9,major,3.5
+DJAVAN,37,Petala,7,2,2,Z0,*M7,IV,9,major,4.0
+DJAVAN,37,Petala,8,7,7,Y2.1,*7.9(#11),bVII7,9,major,4.5
+DJAVAN,37,Petala,9,9,9,V0,*,I,9,major,5.0
+DJAVAN,37,Petala,10,1,1,z0,*m7,III,9,major,5.5
+DJAVAN,37,Petala,11,3,3,y0,*Ø,#IVm7(b5),9,major,6.0
+DJAVAN,37,Petala,12,2,2,z1,*m6,IVm7,9,major,6.5
+DJAVAN,37,Petala,13,9,9,V0,*,I,9,major,7.0
+DJAVAN,37,Petala,14,4,9,V0,*,V,9,major,7.5
+DJAVAN,37,Petala,15,2,2,Z0,*M7,IV,9,major,8.0
+DJAVAN,37,Petala,16,2,2,z1,*m6,IVm7,9,major,8.5
+DJAVAN,37,Petala,17,9,9,V0,*,I,9,major,9.0
+DJAVAN,37,Petala,18,4,9,V0,*,V,9,major,9.5
+DJAVAN,37,Petala,19,2,2,Z0,*M7,IV,9,major,10.0
+DJAVAN,37,Petala,20,2,2,z1,*m6,IVm7,9,major,10.5
+DJAVAN,37,Petala,21,1,8,z0,*m7,III,9,major,11.0
+DJAVAN,37,Petala,22,2,2,z1,*m6,IVm7,9,major,11.5
+DJAVAN,37,Petala,23,1,2,V0,*,?,9,major,11.75
+DJAVAN,37,Petala,24,9,9,V0,*,I,9,major,12.0
+DJAVAN,38,Acai,1,2,2,Z0,*M7,I,2,major,1.0
+DJAVAN,38,Acai,2,5,5,x0,*°7,bIII°,2,major,2.0
+DJAVAN,38,Acai,3,4,4,z0,*m7,II,2,major,3.0
+DJAVAN,38,Acai,4,4,2,z0,*m7,II,2,major,3.5
+DJAVAN,38,Acai,5,0,0,V1,*4,bVII7M,2,major,4.0
+DJAVAN,38,Acai,6,4,9,v0,*m,II,2,major,4.5
+DJAVAN,38,Acai,7,11,11,z3,*m7.11,VI,2,major,5.0
+DJAVAN,38,Acai,8,11,11,w2,*mM711,VI,2,major,5.5
+DJAVAN,38,Acai,9,11,11,z3,*m7.11,VI,2,major,6.0
+DJAVAN,38,Acai,10,11,11,z1.2,*m6.11,VI,2,major,6.5
+DJAVAN,38,Acai,11,7,7,Z0,*M7,IV,2,major,7.0
+DJAVAN,38,Acai,12,9,9,Y1.1,*4.7.9,V,2,major,7.5
+DJAVAN,38,Acai,13,2,2,Z0,*M7,I,2,major,8.0
+DJAVAN,38,Acai,14,4,4,Y0,*7,V/V,2,major,8.5
+DJAVAN,38,Acai,15,7,7,V3,*(#11),IV,2,major,9.0
+DJAVAN,38,Acai,16,2,6,Z0,*M7,I,2,major,9.5
+DJAVAN,38,Acai,17,5,5,x3,*°7(b13),bIII°,2,major,10.0
+DJAVAN,38,Acai,18,4,4,z0,*m7,II,2,major,10.5
+DJAVAN,38,Acai,19,2,2,Z0,*M7,I,2,major,11.0
+DJAVAN,39,Esfinge,1,9,9,Z2,*M7.9,IV,4,major,1.0
+DJAVAN,39,Esfinge,2,2,2,Y2,*7.9,bVII7,4,major,1.5
+DJAVAN,39,Esfinge,3,4,4,Z1.1,*6.9,I,4,major,2.0
+DJAVAN,39,Esfinge,4,10,10,Y3,*7(#11),SubV/IV,4,major,2.5
+DJAVAN,39,Esfinge,5,9,9,Z2,*M7.9,IV,4,major,3.0
+DJAVAN,39,Esfinge,6,2,2,Y2,*7.9,bVII7,4,major,3.5
+DJAVAN,39,Esfinge,7,4,4,Z1.1,*6.9,I,4,major,4.0
+DJAVAN,39,Esfinge,8,10,10,Y3,*7(#11),SubV/IV,4,major,4.5
+DJAVAN,39,Esfinge,9,9,9,Z2,*M7.9,IV,4,major,5.0
+DJAVAN,39,Esfinge,10,2,2,Y2,*7.9,bVII7,4,major,5.5
+DJAVAN,39,Esfinge,11,1,1,z0,*m7,II__X,4,major,6.0
+DJAVAN,39,Esfinge,12,6,6,Y0,*7,V/V,4,major,6.5
+DJAVAN,39,Esfinge,13,9,9,Z0,*M7,IV,4,major,7.0
+DJAVAN,39,Esfinge,14,8,8,z0,*m7,II__X,4,major,7.5
+DJAVAN,39,Esfinge,15,1,1,Y2.4,*7(#9),V/II,4,major,7.75
+DJAVAN,39,Esfinge,16,6,6,Y0,*7,V/V,4,major,8.0
+DJAVAN,39,Esfinge,17,4,4,Z1.1,*6.9,I,4,major,8.5
+DJAVAN,39,Esfinge,18,10,10,Y3,*7(#11),SubV/IV,4,major,8.75
+DJAVAN,39,Esfinge,19,9,9,Z2,*M7.9,IV,4,major,9.0
+DJAVAN,39,Esfinge,20,2,2,Y2,*7.9,bVII7,4,major,9.5
+DJAVAN,39,Esfinge,21,4,4,Z1.1,*6.9,I,4,major,10.0
+DJAVAN,39,Esfinge,22,10,10,Y3,*7(#11),SubV/IV,4,major,10.5
+DJAVAN,39,Esfinge,23,9,9,Z2,*M7.9,IV,4,major,11.0
+DJAVAN,39,Esfinge,24,2,2,Y2,*7.9,bVII7,4,major,11.5
+DJAVAN,39,Esfinge,25,4,4,Z1.1,*6.9,I,4,major,12.0
+DJAVAN,39,Esfinge,26,10,10,Y3,*7(#11),SubV/IV,4,major,12.5
+DJAVAN,39,Esfinge,27,9,9,Z2,*M7.9,IV,4,major,13.0
+DJAVAN,39,Esfinge,28,2,2,Y2,*7.9,bVII7,4,major,13.5
+DJAVAN,39,Esfinge,29,1,1,z0,*m7,II__X,4,major,14.0
+DJAVAN,39,Esfinge,30,6,6,Y0,*7,V/V,4,major,14.5
+DJAVAN,39,Esfinge,31,9,9,Z0,*M7,IV,4,major,15.0
+DJAVAN,39,Esfinge,32,8,8,z0,*m7,II,6,major,15.5
+DJAVAN,39,Esfinge,33,1,1,Y2.4,*7(#9),V,6,major,15.75
+DJAVAN,39,Esfinge,34,6,6,Y0,*7,I,6,major,16.0
+DJAVAN,39,Esfinge,35,7,7,Y0,*7,SubV,6,major,17.0
+DJAVAN,39,Esfinge,36,6,6,Y0,*7,I,6,major,18.0
+DJAVAN,39,Esfinge,37,8,8,z0,*m7,II,6,major,19.0
+DJAVAN,39,Esfinge,38,1,1,Y2,*7.9,V,6,major,19.5
+DJAVAN,39,Esfinge,39,6,6,z0,*m7,II,4,major,20.0
+DJAVAN,39,Esfinge,40,11,11,Y2,*7.9,V,4,major,20.5
+DJAVAN,39,Esfinge,41,6,6,z0,*m7,II,4,major,21.0
+DJAVAN,39,Esfinge,42,11,11,Y2,*7.9,V,4,major,21.5
+DJAVAN,39,Esfinge,43,3,3,y0,*Ø,II__X,4,major,22.0
+DJAVAN,39,Esfinge,44,8,8,Y4.1,*7(b13),V/VI,4,major,22.5
+DJAVAN,39,Esfinge,45,6,6,z0,*m7,II,4,major,23.0
+DJAVAN,39,Esfinge,46,9,9,z1,*m6,IVm7,4,major,23.5
+DJAVAN,39,Esfinge,47,8,8,y0,*Ø,II__X,4,major,24.0
+DJAVAN,39,Esfinge,48,1,1,Y2.3,*7(b9),V/II,4,major,24.5
+DJAVAN,39,Esfinge,49,6,6,z0,*m7,II,4,major,25.0
+DJAVAN,39,Esfinge,50,4,8,V0,*,I,4,major,25.5
+DJAVAN,39,Esfinge,51,9,9,Z0,*M7,IV,4,major,26.0
+DJAVAN,39,Esfinge,52,11,11,Y1.1,*4.7.9,V,4,major,26.5
+DJAVAN,39,Esfinge,53,4,4,Z1.1,*6.9,I,4,major,27.0
+DJAVAN,39,Esfinge,54,10,10,Y3,*7(#11),SubV/IV,4,major,27.5
+DJAVAN,39,Esfinge,55,9,9,Z2,*M7.9,IV,4,major,28.0
+DJAVAN,39,Esfinge,56,2,2,Y2,*7.9,bVII7,4,major,28.5
+DJAVAN,39,Esfinge,57,4,4,Z1.1,*6.9,I,4,major,29.0
+DJAVAN,40,Tanta saudade,1,9,9,v0,*m,I,9,minor,1.0
+DJAVAN,40,Tanta saudade,2,5,5,Z0,*M7,VI,9,minor,1.5
+DJAVAN,40,Tanta saudade,3,11,11,y0,*Ø,II,9,minor,2.0
+DJAVAN,40,Tanta saudade,4,4,4,Y4.1,*7(b13),V,9,minor,2.5
+DJAVAN,40,Tanta saudade,5,0,0,V0,*,III,9,minor,3.0
+DJAVAN,40,Tanta saudade,6,5,5,Z0,*M7,VI,9,minor,3.5
+DJAVAN,40,Tanta saudade,7,11,11,y0,*Ø,II,9,minor,4.0
+DJAVAN,40,Tanta saudade,8,4,4,Y4.1,*7(b13),V,9,minor,4.5
+DJAVAN,40,Tanta saudade,9,9,9,v0,*m,I,9,minor,5.0
+DJAVAN,40,Tanta saudade,10,5,5,Z0,*M7,VI,9,minor,5.5
+DJAVAN,40,Tanta saudade,11,11,11,y0,*Ø,II,9,minor,6.0
+DJAVAN,40,Tanta saudade,12,4,4,Y4.1,*7(b13),V,9,minor,6.5
+DJAVAN,40,Tanta saudade,13,0,0,V0,*,III,9,minor,7.0
+DJAVAN,40,Tanta saudade,14,5,5,Z0,*M7,VI,9,minor,7.5
+DJAVAN,40,Tanta saudade,15,11,11,y0,*Ø,II,9,minor,8.0
+DJAVAN,40,Tanta saudade,16,4,4,Y4.1,*7(b13),V,9,minor,8.5
+DJAVAN,40,Tanta saudade,17,9,9,v0,*m,I,9,minor,9.0
+DJAVAN,40,Tanta saudade,18,5,5,Z0,*M7,VI,9,minor,9.5
+DJAVAN,40,Tanta saudade,19,11,11,y0,*Ø,II,9,minor,10.0
+DJAVAN,40,Tanta saudade,20,4,4,Y4.1,*7(b13),V,9,minor,10.5
+DJAVAN,40,Tanta saudade,21,0,0,V0,*,III,9,minor,11.0
+DJAVAN,40,Tanta saudade,22,5,5,Z0,*M7,VI,9,minor,11.5
+DJAVAN,40,Tanta saudade,23,11,11,y0,*Ø,II,9,minor,12.0
+DJAVAN,40,Tanta saudade,24,9,9,v0,*m,I,9,minor,12.5
+DJAVAN,40,Tanta saudade,25,5,5,Z0,*M7,VI,9,minor,13.0
+DJAVAN,40,Tanta saudade,26,11,11,y0,*Ø,II,9,minor,13.5
+DJAVAN,40,Tanta saudade,27,4,4,Y4.1,*7(b13),V,9,minor,14.0
+DJAVAN,40,Tanta saudade,28,0,0,V0,*,III,9,minor,14.5
+DJAVAN,40,Tanta saudade,29,5,5,Z0,*M7,VI,9,minor,15.0
+DJAVAN,40,Tanta saudade,30,11,11,y0,*Ø,II,9,minor,16.0
+DJAVAN,40,Tanta saudade,31,4,4,Y4.1,*7(b13),V,9,minor,16.5
+DJAVAN,40,Tanta saudade,32,9,9,v0,*m,I,9,minor,17.0
+DJAVAN,41,Fato consumado,1,7,7,Z0,*M7,I,7,major,1.0
+DJAVAN,41,Fato consumado,2,4,4,Y2.4,*7(#9),V/II,7,major,2.0
+DJAVAN,41,Fato consumado,3,9,9,Y2,*7.9,V/V,7,major,3.0
+DJAVAN,41,Fato consumado,4,2,2,Y2,*7.9,V,7,major,4.0
+DJAVAN,41,Fato consumado,5,7,7,Z0,*M7,I,7,major,5.0
+DJAVAN,41,Fato consumado,6,4,4,Y2.4,*7(#9),V/II,7,major,6.0
+DJAVAN,41,Fato consumado,7,9,9,Y2,*7.9,V/V,7,major,7.0
+DJAVAN,41,Fato consumado,8,2,2,Y2,*7.9,V,7,major,8.0
+DJAVAN,41,Fato consumado,9,7,7,Z0,*M7,I,7,major,9.0
+DJAVAN,41,Fato consumado,10,4,4,Y2.4,*7(#9),V/II,7,major,10.0
+DJAVAN,41,Fato consumado,11,9,9,Y2,*7.9,V/V,7,major,11.0
+DJAVAN,41,Fato consumado,12,2,2,Y2,*7.9,V,7,major,12.0
+DJAVAN,41,Fato consumado,13,7,7,Z0,*M7,I,7,major,13.0
+DJAVAN,41,Fato consumado,14,4,4,Y2.4,*7(#9),V/II,7,major,14.0
+DJAVAN,41,Fato consumado,15,9,9,Y2,*7.9,V/V,7,major,15.0
+DJAVAN,41,Fato consumado,16,2,2,Y2,*7.9,V,7,major,16.0
+DJAVAN,41,Fato consumado,17,7,7,Z0,*M7,I,7,major,17.0
+DJAVAN,41,Fato consumado,18,4,4,Y2.4,*7(#9),V/II,7,major,18.0
+DJAVAN,41,Fato consumado,19,9,9,z2,*m7.9,II,7,major,19.0
+DJAVAN,41,Fato consumado,20,9,7,z2,*m7.9,II,7,major,19.5
+DJAVAN,41,Fato consumado,21,6,6,y0,*Ø,II__X,7,major,20.0
+DJAVAN,41,Fato consumado,22,11,11,Y2.3,*7(b9),V/VI,7,major,20.5
+DJAVAN,41,Fato consumado,23,4,4,Z0,*M7,I,4,major,21.0
+DJAVAN,41,Fato consumado,24,6,6,z0,*m7,II,4,major,22.0
+DJAVAN,41,Fato consumado,25,8,8,z0,*m7,II__X,4,major,23.0
+DJAVAN,41,Fato consumado,26,1,1,Y2.4,*7(#9),V/II,4,major,24.0
+DJAVAN,41,Fato consumado,27,6,6,Y0,*7,V/V,4,major,25.0
+DJAVAN,41,Fato consumado,28,11,11,Y2,*7.9,V,4,major,26.0
+DJAVAN,41,Fato consumado,29,8,8,z0,*m7,II__X,4,major,27.0
+DJAVAN,41,Fato consumado,30,1,1,Y2.4,*7(#9),V/II,4,major,27.5
+DJAVAN,41,Fato consumado,31,6,6,z0,*m7,II,4,major,28.0
+DJAVAN,41,Fato consumado,32,11,11,Y2,*7.9,V,4,major,28.5
+DJAVAN,41,Fato consumado,33,4,4,Z0,*M7,I,4,major,29.0
+DJAVAN,41,Fato consumado,34,6,6,z0,*m7,II,4,major,30.0
+DJAVAN,41,Fato consumado,35,8,8,z0,*m7,II__X,4,major,31.0
+DJAVAN,41,Fato consumado,36,1,1,Y2.4,*7(#9),V/II,4,major,32.0
+DJAVAN,41,Fato consumado,37,6,6,Y0,*7,V/V,4,major,33.0
+DJAVAN,41,Fato consumado,38,11,11,Y2,*7.9,V,4,major,34.0
+DJAVAN,41,Fato consumado,39,8,8,z0,*m7,II__X,4,major,35.0
+DJAVAN,41,Fato consumado,40,1,1,Y2.4,*7(#9),V/II,4,major,35.5
+DJAVAN,41,Fato consumado,41,9,9,z0,*m7,II,7,major,36.0
+DJAVAN,41,Fato consumado,42,2,2,Y2,*7.9,V,7,major,36.5
+DJAVAN,41,Fato consumado,43,7,7,Z0,*M7,I,7,major,37.0
+DJAVAN,42,Serrado,1,9,9,z2,*m7.9,I,9,minor,1.0
+DJAVAN,42,Serrado,2,2,2,Y2,*7.9,IV7,9,minor,2.0
+DJAVAN,42,Serrado,3,9,9,z2,*m7.9,I,9,minor,3.0
+DJAVAN,42,Serrado,4,2,2,Y2,*7.9,IV7,9,minor,4.0
+DJAVAN,42,Serrado,5,9,9,z2,*m7.9,I,9,minor,5.0
+DJAVAN,42,Serrado,6,2,2,Y2,*7.9,IV7,9,minor,6.0
+DJAVAN,42,Serrado,7,9,9,z2,*m7.9,I,9,minor,7.0
+DJAVAN,42,Serrado,8,2,2,Y2,*7.9,IV7,9,minor,8.0
+DJAVAN,42,Serrado,9,8,8,z0,*m7,bIIIm7,5,major,8.5
+DJAVAN,42,Serrado,10,7,7,z0,*m7,II,5,major,9.0
+DJAVAN,42,Serrado,11,0,0,Y2,*7.9,V,5,major,10.0
+DJAVAN,42,Serrado,12,7,7,z0,*m7,II,5,major,11.0
+DJAVAN,42,Serrado,13,0,0,Y2,*7.9,V,5,major,12.0
+DJAVAN,42,Serrado,14,6,6,Y3,*7(#11),SubV,5,major,12.5
+DJAVAN,42,Serrado,15,5,5,Z4,*(#5)M7,I,5,major,13.0
+DJAVAN,42,Serrado,16,5,5,Z0,*M7,I,5,major,14.0
+DJAVAN,42,Serrado,17,11,11,y1,*Ø.9,II,9,minor,15.0
+DJAVAN,42,Serrado,18,10,10,Y2.1,*7.9(#11),SubV,9,minor,17.0
+DJAVAN,42,Serrado,19,4,4,W1.1.2,*4(#5)7(#9),V,9,minor,18.0
+DJAVAN,42,Serrado,20,9,9,z2,*m7.9,I,9,minor,19.0
+DJAVAN,42,Serrado,21,2,2,Y2,*7.9,IV7,9,minor,20.0
+DJAVAN,42,Serrado,22,9,9,z2,*m7.9,I,9,minor,21.0
+DJAVAN,42,Serrado,23,2,2,Y2,*7.9,IV7,9,minor,22.0
+DJAVAN,42,Serrado,24,9,9,z2,*m7.9,I,9,minor,23.0
+DJAVAN,42,Serrado,25,2,2,Y2,*7.9,IV7,9,minor,24.0
+DJAVAN,42,Serrado,26,9,9,z2,*m7.9,I,9,minor,25.0
+DJAVAN,42,Serrado,27,2,2,Y2,*7.9,IV7,9,minor,26.0
+DJAVAN,42,Serrado,28,8,8,z0,*m7,bIIIm7,5,major,26.5
+DJAVAN,42,Serrado,29,7,7,z0,*m7,II,5,major,27.0
+DJAVAN,42,Serrado,30,0,0,Y2,*7.9,V,5,major,28.0
+DJAVAN,42,Serrado,31,7,7,z0,*m7,II,5,major,29.0
+DJAVAN,42,Serrado,32,0,0,Y2,*7.9,V,5,major,30.0
+DJAVAN,42,Serrado,33,6,6,y0,*Ø,II__X,9,minor,31.0
+DJAVAN,42,Serrado,34,11,11,Y2.3,*7(b9),V/V,9,minor,32.0
+DJAVAN,42,Serrado,35,5,5,V3,*(#11),VI,9,minor,33.0
+DJAVAN,42,Serrado,36,11,11,y0,*Ø,II,9,minor,34.0
+DJAVAN,42,Serrado,37,4,4,Y2.4,*7(#9),V,9,minor,34.5
+DJAVAN,42,Serrado,38,9,9,z0,*m7,I,9,minor,35.0
+DJAVAN,42,Serrado,39,2,2,Y2,*7.9,IV7,9,minor,36.0
+DJAVAN,42,Serrado,40,8,8,z0,*m7,?,9,minor,36.5
+DJAVAN,42,Serrado,41,7,7,z0,*m7,II__X,9,minor,37.0
+DJAVAN,42,Serrado,42,0,0,Y2,*7.9,V/III,9,minor,38.0
+DJAVAN,42,Serrado,43,5,5,Z0,*M7,VI,9,minor,39.0
+DJAVAN,42,Serrado,44,5,5,Z1,*6,VI,9,minor,40.0
+DJAVAN,42,Serrado,45,11,11,y0,*Ø,II,9,minor,41.0
+DJAVAN,42,Serrado,46,4,4,Y4.1,*7(b13),V,9,minor,42.0
+DJAVAN,42,Serrado,47,9,9,z0,*m7,I,9,minor,43.0
+DJAVAN,43,Nobreza,1,9,9,v1.1,*m.9.11,I,9,minor,1.0
+DJAVAN,43,Nobreza,2,8,8,x0,*°7,VII,9,minor,1.5
+DJAVAN,43,Nobreza,3,9,7,z2,*m7.9,I,9,minor,2.0
+DJAVAN,43,Nobreza,4,9,6,z1,*m6,I,9,minor,2.5
+DJAVAN,43,Nobreza,5,5,5,V3,*(#11),VI,9,minor,3.0
+DJAVAN,43,Nobreza,6,0,0,Z0,*M7,III,9,minor,3.5
+DJAVAN,43,Nobreza,7,11,11,y0,*Ø,II,9,minor,4.0
+DJAVAN,43,Nobreza,8,4,4,Y4.1,*7(b13),V,9,minor,4.5
+DJAVAN,43,Nobreza,9,9,9,v1.1,*m.9.11,I,9,minor,5.0
+DJAVAN,43,Nobreza,10,8,8,x0,*°7,VII,9,minor,5.5
+DJAVAN,43,Nobreza,11,9,7,z2,*m7.9,I,9,minor,6.0
+DJAVAN,43,Nobreza,12,9,6,z1,*m6,I,9,minor,6.5
+DJAVAN,43,Nobreza,13,0,0,Z0,*M7,III,9,minor,7.0
+DJAVAN,43,Nobreza,14,2,2,z2,*m7.9,IV,9,minor,7.5
+DJAVAN,43,Nobreza,15,11,11,y0,*Ø,II,9,minor,8.0
+DJAVAN,43,Nobreza,16,4,4,Y4.1,*7(b13),V,9,minor,8.5
+DJAVAN,43,Nobreza,17,9,9,v1.1,*m.9.11,I,9,minor,9.0
+DJAVAN,43,Nobreza,18,8,8,x0,*°7,VII,9,minor,9.5
+DJAVAN,43,Nobreza,19,9,7,z2,*m7.9,I,9,minor,10.0
+DJAVAN,43,Nobreza,20,9,6,z1,*m6,I,9,minor,10.5
+DJAVAN,43,Nobreza,21,5,5,V3,*(#11),VI,9,minor,11.0
+DJAVAN,43,Nobreza,22,0,0,Z0,*M7,III,9,minor,11.5
+DJAVAN,43,Nobreza,23,11,11,y0,*Ø,II,9,minor,12.0
+DJAVAN,43,Nobreza,24,4,4,Y4.1,*7(b13),V,9,minor,12.5
+DJAVAN,43,Nobreza,25,4,4,y0,*Ø,II__X,9,minor,13.0
+DJAVAN,43,Nobreza,26,9,9,Y0,*7,V/IV,9,minor,13.5
+DJAVAN,43,Nobreza,27,9,7,Y0,*7,V/IV,9,minor,13.75
+DJAVAN,43,Nobreza,28,6,6,y0,*Ø,#IVm7(b5),0,major,14.0
+DJAVAN,43,Nobreza,29,5,5,z1,*m6,IVm7,0,major,15.0
+DJAVAN,43,Nobreza,30,0,0,Z1.1,*6.9,I,0,major,16.0
+DJAVAN,44,Joaninha,1,4,4,v0,*m,I,4,minor,1.0
+DJAVAN,44,Joaninha,2,9,9,z1,*m6,IV,4,minor,2.0
+DJAVAN,44,Joaninha,3,0,7,V0,*,VI,4,minor,3.0
+DJAVAN,44,Joaninha,4,11,4,V0,*,V,4,minor,4.0
+DJAVAN,44,Joaninha,5,0,7,V0,*,VI,4,minor,5.0
+DJAVAN,44,Joaninha,6,11,7,Y0,*7,V,4,minor,6.0
+DJAVAN,44,Joaninha,7,10,5,Z3,*M7(#11),bVM7,4,minor,7.0
+DJAVAN,44,Joaninha,8,10,4,Z3,*M7(#11),bVM7,4,minor,8.0
+DJAVAN,44,Joaninha,9,0,0,z0,*m7,I,0,minor,9.0
+DJAVAN,44,Joaninha,10,8,8,Y0,*7,V/bII,0,minor,9.5
+DJAVAN,44,Joaninha,11,1,1,Z0,*M7,bII7M,0,minor,10.0
+DJAVAN,44,Joaninha,12,7,7,Y4.1,*7(b13),V,0,minor,10.5
+DJAVAN,44,Joaninha,13,0,0,z0,*m7,I,0,minor,11.0
+DJAVAN,44,Joaninha,14,8,8,Y0,*7,V/bII,0,minor,11.5
+DJAVAN,44,Joaninha,15,1,1,Z0,*M7,bII7M,0,minor,12.0
+DJAVAN,44,Joaninha,16,7,7,Y4.1,*7(b13),V,0,minor,12.5
+DJAVAN,44,Joaninha,17,0,0,V0,*,I,0,major,13.0
+DJAVAN,44,Joaninha,18,11,11,V4,*(#5),?,0,major,14.0
+DJAVAN,44,Joaninha,19,7,7,z0,*m7,Vm7,0,major,15.0
+DJAVAN,44,Joaninha,20,9,9,Y4.1,*7(b13),V/II,0,major,16.0
+DJAVAN,44,Joaninha,21,2,2,z0,*m7,II,0,major,17.0
+DJAVAN,44,Joaninha,22,11,11,y0,*Ø,II__X,0,major,17.5
+DJAVAN,44,Joaninha,23,4,4,Y4.1,*7(b13),V/VI,0,major,17.75
+DJAVAN,44,Joaninha,24,5,5,Z0,*M7,IV,0,major,18.0
+DJAVAN,44,Joaninha,25,9,9,z1.1,*m6.9,VI,0,major,18.5
+DJAVAN,44,Joaninha,26,2,2,z2,*m7.9,II,0,major,19.0
+DJAVAN,44,Joaninha,27,5,5,w0,*mM7,IVm7,0,major,19.5
+DJAVAN,44,Joaninha,28,0,7,V1,*4,I,0,major,20.0
+DJAVAN,44,Joaninha,29,4,8,W0,*(#5)7,V/VI,0,major,20.5
+DJAVAN,44,Joaninha,30,9,9,v1,*m.9,VI,0,major,21.0
+DJAVAN,44,Joaninha,31,9,8,v1,*m.9,VI,0,major,21.5
+DJAVAN,44,Joaninha,32,9,7,v1,*m.9,VI,0,major,22.0
+DJAVAN,44,Joaninha,33,9,6,v1,*m.9,VI,0,major,22.5
+DJAVAN,44,Joaninha,34,2,2,z2,*m7.9,II,0,major,23.0
+DJAVAN,44,Joaninha,35,5,9,Z0,*M7,IV,0,major,23.5
+DJAVAN,44,Joaninha,36,0,0,z1,*m6,Im7,0,major,24.0
+DJAVAN,44,Joaninha,37,4,4,Y4.1,*7(b13),V/VI,0,major,24.5
+DJAVAN,44,Joaninha,38,9,9,v1,*m.9,VI,0,major,25.0
+DJAVAN,45,Flor do medo,1,9,9,z0,*m7,II,7,major,1.0
+DJAVAN,45,Flor do medo,2,0,0,z1,*m6,IVm7,7,major,2.0
+DJAVAN,45,Flor do medo,3,11,11,z0,*m7,III,7,major,3.0
+DJAVAN,45,Flor do medo,4,10,10,x3,*°7(b13),bIII°,7,major,4.0
+DJAVAN,45,Flor do medo,5,9,9,z0,*m7,II,7,major,5.0
+DJAVAN,45,Flor do medo,6,0,0,z1,*m6,IVm7,7,major,6.0
+DJAVAN,45,Flor do medo,7,11,11,z0,*m7,III,7,major,7.0
+DJAVAN,45,Flor do medo,8,10,10,x3,*°7(b13),bIII°,7,major,8.0
+DJAVAN,45,Flor do medo,9,10,10,z1,*m6,bIIIm7,7,major,8.5
+DJAVAN,45,Flor do medo,10,9,9,z0,*m7,II,7,major,9.0
+DJAVAN,45,Flor do medo,11,0,0,z1,*m6,IVm7,7,major,10.0
+DJAVAN,45,Flor do medo,12,11,11,z0,*m7,III,7,major,11.0
+DJAVAN,45,Flor do medo,13,10,10,x3,*°7(b13),bIII°,7,major,12.0
+DJAVAN,45,Flor do medo,14,9,9,z0,*m7,II,7,major,13.0
+DJAVAN,45,Flor do medo,15,0,0,z1,*m6,IVm7,7,major,14.0
+DJAVAN,45,Flor do medo,16,7,7,Z0,*M7,I,7,major,15.0
+DJAVAN,45,Flor do medo,17,2,2,z0,*m7,IV,9,minor,17.0
+DJAVAN,45,Flor do medo,18,4,4,z0,*m7,Vm7,9,minor,18.0
+DJAVAN,45,Flor do medo,19,2,2,z0,*m7,IV,9,minor,19.0
+DJAVAN,45,Flor do medo,20,9,9,z0,*m7,I,9,minor,20.0
+DJAVAN,45,Flor do medo,21,0,0,z0,*m7,II,10,major,21.0
+DJAVAN,45,Flor do medo,22,5,5,Y2,*7.9,V,10,major,21.5
+DJAVAN,45,Flor do medo,23,10,10,Z0,*M7,I,10,major,22.0
+DJAVAN,45,Flor do medo,24,3,3,Y2,*7.9,IV7,10,major,22.5
+DJAVAN,45,Flor do medo,25,9,9,z0,*m7,I,9,minor,23.0
+DJAVAN,45,Flor do medo,26,4,4,Y0,*7,V,9,minor,24.0
+DJAVAN,45,Flor do medo,27,4,4,z2,*m7.9,VI,7,major,25.0
+DJAVAN,45,Flor do medo,28,0,0,z1,*m6,IVm7,7,major,26.0
+DJAVAN,45,Flor do medo,29,7,7,Z0,*M7,I,7,major,27.0
+DJAVAN,46,Silaba,1,9,9,z3,*m7.11,I,9,minor,1.0
+DJAVAN,46,Silaba,2,9,7,z0,*m7,I,9,minor,2.0
+DJAVAN,46,Silaba,3,5,5,Z3,*M7(#11),VI,9,minor,3.0
+DJAVAN,46,Silaba,4,9,7,z0,*m7,I,9,minor,4.0
+DJAVAN,46,Silaba,5,4,4,Y2.3,*7(b9),V,9,minor,4.5
+DJAVAN,46,Silaba,6,9,9,z3,*m7.11,I,9,minor,5.0
+DJAVAN,46,Silaba,7,9,7,z0,*m7,I,9,minor,6.0
+DJAVAN,46,Silaba,8,5,5,Z3,*M7(#11),VI,9,minor,7.0
+DJAVAN,46,Silaba,9,9,7,z0,*m7,I,9,minor,8.0
+DJAVAN,46,Silaba,10,4,4,Y2.3,*7(b9),V,9,minor,8.5
+DJAVAN,46,Silaba,11,9,9,z0,*m7,I,9,minor,9.0
+DJAVAN,46,Silaba,12,8,8,x3,*°7(b13),V°,9,minor,10.0
+DJAVAN,46,Silaba,13,7,7,z0,*m7,II,5,major,11.0
+DJAVAN,46,Silaba,14,0,0,Y1.1,*4.7.9,V,5,major,11.5
+DJAVAN,46,Silaba,15,5,5,Z0,*M7,I,5,major,12.0
+DJAVAN,46,Silaba,16,6,6,x0,*°7,?,5,major,12.5
+DJAVAN,46,Silaba,17,9,9,z0,*m7,III,5,major,13.0
+DJAVAN,46,Silaba,18,4,4,Y4.1,*7(b13),aSubV,5,major,13.5
+DJAVAN,46,Silaba,19,5,5,Z0,*M7,I,5,major,14.0
+DJAVAN,46,Silaba,20,11,6,Y0,*7,?,5,major,14.5
+DJAVAN,46,Silaba,21,2,2,z0,*m7,I,2,minor,15.0
+DJAVAN,46,Silaba,22,9,9,Y4.1,*7(b13),V,2,minor,15.5
+DJAVAN,46,Silaba,23,10,10,Y0,*7,SubV/V,2,minor,16.0
+DJAVAN,46,Silaba,24,9,9,Y0,*7,V,2,minor,16.5
+DJAVAN,46,Silaba,25,2,2,z0,*m7,I,2,minor,17.0
+DJAVAN,46,Silaba,26,4,4,z0,*m7,II,2,minor,17.5
+DJAVAN,46,Silaba,27,5,5,Z1,*6,III,2,minor,18.0
+DJAVAN,46,Silaba,28,9,9,z0,*m7,I,9,minor,19.0
+DJAVAN,47,Que foi my love,1,0,0,Y2,*7.9,I,0,major,1.0
+DJAVAN,47,Que foi my love,2,5,5,Y0,*7,IV7,0,major,2.0
+DJAVAN,47,Que foi my love,3,0,0,Y2,*7.9,I,0,major,3.0
+DJAVAN,47,Que foi my love,4,5,5,Y0,*7,IV7,0,major,4.0
+DJAVAN,47,Que foi my love,5,0,0,Y2,*7.9,I,0,major,5.0
+DJAVAN,47,Que foi my love,6,5,5,Y0,*7,IV7,0,major,6.0
+DJAVAN,47,Que foi my love,7,0,0,Y2,*7.9,I,0,major,7.0
+DJAVAN,47,Que foi my love,8,5,5,Y0,*7,IV7,0,major,8.0
+DJAVAN,47,Que foi my love,9,3,3,Y2,*7.9,?,0,major,9.0
+DJAVAN,47,Que foi my love,10,8,8,Y0,*7,SubV/V,0,major,10.0
+DJAVAN,47,Que foi my love,11,3,3,Y2,*7.9,?,0,major,11.0
+DJAVAN,47,Que foi my love,12,7,7,Y0,*7,V,0,major,12.0
+DJAVAN,47,Que foi my love,13,0,0,Y2,*7.9,I,0,major,13.0
+DJAVAN,47,Que foi my love,14,5,5,Y0,*7,IV7,0,major,14.0
+DJAVAN,47,Que foi my love,15,0,0,Y2,*7.9,I,0,major,15.0
+DJAVAN,47,Que foi my love,16,5,5,Y0,*7,IV7,0,major,16.0
+DJAVAN,47,Que foi my love,17,7,7,Y0,*7,V,0,major,17.0
+DJAVAN,47,Que foi my love,18,8,8,Y0,*7,SubV/V,0,major,18.0
+DJAVAN,47,Que foi my love,19,7,7,Y0,*7,V,0,major,19.0
+DJAVAN,47,Que foi my love,20,5,5,Y0,*7,IV7,0,major,20.0
+DJAVAN,47,Que foi my love,21,0,0,Y2,*7.9,I,0,major,21.0
+DJAVAN,47,Que foi my love,22,5,5,Y0,*7,IV7,0,major,22.0
+DJAVAN,47,Que foi my love,23,0,0,Y2,*7.9,I,0,major,23.0
+DJAVAN,47,Que foi my love,24,5,5,Y0,*7,IV7,0,major,24.0
+DJAVAN,47,Que foi my love,25,6,6,Y0,*7,aSubV/V,0,major,24.3
+DJAVAN,47,Que foi my love,26,7,7,Y0,*7,V,0,major,24.6
+DJAVAN,47,Que foi my love,27,7,7,z0,*m7,Vm7,0,major,25.0
+DJAVAN,47,Que foi my love,28,0,0,Y2,*7.9,I,0,major,26.0
+DJAVAN,47,Que foi my love,29,7,7,z0,*m7,Vm7,0,major,27.0
+DJAVAN,47,Que foi my love,30,0,0,Y2,*7.9,I,0,major,28.0
+DJAVAN,47,Que foi my love,31,9,9,z0,*m7,VI,0,major,29.0
+DJAVAN,47,Que foi my love,32,4,8,Y0,*7,V/VI,0,major,30.0
+DJAVAN,47,Que foi my love,33,7,7,z0,*m7,Vm7,0,major,31.0
+DJAVAN,47,Que foi my love,34,0,0,Y2,*7.9,I,0,major,32.0
+DJAVAN,47,Que foi my love,35,7,7,z0,*m7,Vm7,0,major,33.0
+DJAVAN,47,Que foi my love,36,0,0,Y2,*7.9,I,0,major,34.0
+DJAVAN,47,Que foi my love,37,9,9,z0,*m7,VI,0,major,35.0
+DJAVAN,47,Que foi my love,38,4,8,Y0,*7,V/VI,0,major,36.0
+DJAVAN,47,Que foi my love,39,7,7,z0,*m7,Vm7,0,major,37.0
+DJAVAN,47,Que foi my love,40,5,5,Y0,*7,IV7,0,major,38.0
+DJAVAN,47,Que foi my love,41,6,6,Y0,*7,aSubV/V,0,major,38.3
+DJAVAN,47,Que foi my love,42,7,7,Y0,*7,V,0,major,38.6
+DJAVAN,47,Que foi my love,43,0,0,Y2,*7.9,I,0,major,39.0
+DJAVAN,48,Doidice,1,7,7,z0,*m7,I,7,minor,1.0
+DJAVAN,48,Doidice,2,0,0,Y2,*7.9,IV7,7,minor,1.5
+DJAVAN,48,Doidice,3,7,7,z0,*m7,I,7,minor,2.0
+DJAVAN,48,Doidice,4,9,9,z0,*m7,II,7,minor,2.5
+DJAVAN,48,Doidice,5,2,2,Y2.3,*7(b9),V,7,minor,2.75
+DJAVAN,48,Doidice,6,7,7,z0,*m7,I,7,minor,3.0
+DJAVAN,48,Doidice,7,9,9,Y2.3,*7(b9),V/V,7,minor,3.5
+DJAVAN,48,Doidice,8,2,2,Y2,*7.9,V,7,minor,4.0
+DJAVAN,48,Doidice,9,7,7,Y0,*7,V/IV,7,minor,5.0
+DJAVAN,48,Doidice,10,7,7,z0,*m7,I,7,minor,5.5
+DJAVAN,48,Doidice,11,0,0,Y2,*7.9,IV7,7,minor,5.75
+DJAVAN,48,Doidice,12,2,2,z3,*m7.11,Vm7,7,minor,6.0
+DJAVAN,48,Doidice,13,10,10,Z0,*M7,I,10,major,7.0
+DJAVAN,48,Doidice,14,9,9,Y4.1,*7(b13),V/III,10,major,7.5
+DJAVAN,48,Doidice,15,5,5,Z2,*M7.9,?,10,major,8.0
+DJAVAN,48,Doidice,16,11,11,Y3,*7(#11),SubV,10,major,8.5
+DJAVAN,48,Doidice,17,10,10,Z0,*M7,I,10,major,9.0
+DJAVAN,48,Doidice,18,9,9,Y4.1,*7(b13),V/III,10,major,9.5
+DJAVAN,48,Doidice,19,5,5,Z2,*M7.9,?,10,major,10.0
+DJAVAN,48,Doidice,20,0,0,z0,*m7,II,10,major,10.5
+DJAVAN,48,Doidice,21,5,5,Y2,*7.9,V,7,minor,10.75
+DJAVAN,48,Doidice,22,10,10,Z0,*M7,I,10,major,11.0
+DJAVAN,48,Doidice,23,9,9,Y4.1,*7(b13),V/III,10,major,11.5
+DJAVAN,48,Doidice,24,5,5,Z2,*M7.9,?,10,major,12.0
+DJAVAN,48,Doidice,25,9,9,y0,*Ø,II,7,minor,12.5
+DJAVAN,48,Doidice,26,2,2,Y2.3,*7(b9),V,7,minor,13.0
+DJAVAN,48,Doidice,27,7,7,z0,*m7,I,7,minor,13.5
+DJAVAN,48,Doidice,28,0,0,Y2,*7.9,IV7,7,minor,13.75
+DJAVAN,48,Doidice,29,7,7,z0,*m7,I,7,minor,14.0
+DJAVAN,48,Doidice,30,9,9,z0,*m7,II,7,minor,14.5
+DJAVAN,48,Doidice,31,2,2,Y2.3,*7(b9),V,7,minor,14.75
+DJAVAN,48,Doidice,32,7,7,z0,*m7,I,7,minor,15.0
+DJAVAN,49,Serene,1,0,0,Z2,*M7.9,I,0,major,1.0
+DJAVAN,49,Serene,2,9,9,z2,*m7.9,VI,0,major,2.0
+DJAVAN,49,Serene,3,2,2,z2,*m7.9,II,0,major,3.0
+DJAVAN,49,Serene,4,7,7,Y1.1,*4.7.9,V,0,major,4.0
+DJAVAN,49,Serene,5,7,7,Y2.2,*7.9.13,V,0,major,4.5
+DJAVAN,49,Serene,6,0,0,Z2,*M7.9,I,0,major,5.0
+DJAVAN,49,Serene,7,9,9,z2,*m7.9,VI,0,major,6.0
+DJAVAN,49,Serene,8,2,2,z2,*m7.9,II,0,major,7.0
+DJAVAN,49,Serene,9,7,7,Y1.1,*4.7.9,V,0,major,8.0
+DJAVAN,49,Serene,10,7,7,Y2,*7.9,V,0,major,8.5
+DJAVAN,49,Serene,11,7,7,Y2.2.1,*7(b9)13,V,0,major,8.75
+DJAVAN,49,Serene,12,9,9,z2,*m7.9,VI,0,major,9.0
+DJAVAN,49,Serene,13,4,4,z2,*m7.9,III,0,major,9.5
+DJAVAN,49,Serene,14,2,2,Y2,*7.9,V/V,0,major,10.0
+DJAVAN,49,Serene,15,9,9,z0,*m7,VI,0,major,11.0
+DJAVAN,49,Serene,16,9,9,w0,*mM7,VI,0,major,11.5
+DJAVAN,49,Serene,17,4,4,z2,*m7.9,III,0,major,11.75
+DJAVAN,49,Serene,18,2,2,Y2,*7.9,V/V,0,major,12.0
+DJAVAN,49,Serene,19,5,5,z1.1,*m6.9,IVm7,0,major,12.5
+DJAVAN,49,Serene,20,0,0,Z2,*M7.9,I,0,major,13.0
+DJAVAN,49,Serene,21,2,2,z2,*m7.9,II,0,major,14.0
+DJAVAN,49,Serene,22,7,7,Y1.1,*4.7.9,V,0,major,14.5
+DJAVAN,49,Serene,23,7,7,Y2,*7.9,V,0,major,14.75
+DJAVAN,49,Serene,24,0,0,Z2,*M7.9,I,0,major,15.0
+DJAVAN,50,Atitude,1,9,9,z1,*m6,VI,0,major,1.0
+DJAVAN,50,Atitude,2,2,2,z0,*m7,II,0,major,2.0
+DJAVAN,50,Atitude,3,10,10,Y2.1,*7.9(#11),bVII7,0,major,2.5
+DJAVAN,50,Atitude,4,4,4,z0,*m7,III,0,major,3.0
+DJAVAN,50,Atitude,5,3,3,x3,*°7(b13),bIII°,0,major,4.0
+DJAVAN,50,Atitude,6,3,3,z1,*m6,bIIIm7,0,major,4.5
+DJAVAN,50,Atitude,7,2,2,z0,*m7,II,0,major,5.0
+DJAVAN,50,Atitude,8,7,7,Y1.1,*4.7.9,V,0,major,6.0
+DJAVAN,50,Atitude,9,7,7,Y1.1.3,*4.7(b9),V,0,major,6.5
+DJAVAN,50,Atitude,10,0,7,Z1.1,*6.9,I,0,major,7.0
+DJAVAN,50,Atitude,11,10,10,Y2.1,*7.9(#11),SubV/VI,0,major,8.0
+DJAVAN,50,Atitude,12,9,9,Y2.3,*7(b9),V/II,0,major,8.5
+DJAVAN,50,Atitude,13,9,9,z1,*m6,VI,0,major,9.0
+DJAVAN,50,Atitude,14,2,2,z0,*m7,II,0,major,10.0
+DJAVAN,50,Atitude,15,10,10,Y2.1,*7.9(#11),bVII7,0,major,10.5
+DJAVAN,50,Atitude,16,4,4,z0,*m7,III,0,major,11.0
+DJAVAN,50,Atitude,17,3,3,x3,*°7(b13),bIII°,0,major,12.0
+DJAVAN,50,Atitude,18,3,3,z1,*m6,bIIIm7,0,major,12.5
+DJAVAN,50,Atitude,19,2,2,z0,*m7,II,0,major,13.0
+DJAVAN,50,Atitude,20,7,7,Y1.1,*4.7.9,V,0,major,14.0
+DJAVAN,50,Atitude,21,7,7,Y1.1.3,*4.7(b9),V,0,major,14.5
+DJAVAN,50,Atitude,22,0,0,Z1.1,*6.9,I,0,major,15.0
+DJAVAN,50,Atitude,23,6,6,y0,*Ø,II__X,0,major,16.0
+DJAVAN,50,Atitude,24,11,11,Y2.3,*7(b9),V/III,0,major,16.5
+DJAVAN,50,Atitude,25,4,4,z2,*m7.9,I,4,minor,17.0
+DJAVAN,50,Atitude,26,6,6,z0,*m7,II,4,minor,18.0
+DJAVAN,50,Atitude,27,11,11,Y2.3,*7(b9),V,4,minor,18.5
+DJAVAN,50,Atitude,28,4,4,z2,*m7.9,I,4,minor,19.0
+DJAVAN,50,Atitude,29,6,6,y0,*Ø,II,4,minor,20.0
+DJAVAN,50,Atitude,30,5,5,Y3,*7(#11),SubV,4,minor,20.5
+DJAVAN,50,Atitude,31,4,4,z2,*m7.9,I,4,minor,21.0
+DJAVAN,50,Atitude,32,6,6,z0,*m7,II,4,minor,22.0
+DJAVAN,50,Atitude,33,11,11,Y2.3,*7(b9),V,4,minor,22.5
+DJAVAN,50,Atitude,34,11,11,z2,*m7.9,II__X,4,minor,23.0
+DJAVAN,50,Atitude,35,4,4,Y2,*7.9,V/IV,4,minor,23.5
+DJAVAN,50,Atitude,36,9,9,z2,*m7.9,IV,4,minor,24.0
+DJAVAN,50,Atitude,37,0,0,z1,*m6,bVIm7,4,minor,24.5
+DJAVAN,50,Atitude,38,7,7,Y1.1,*4.7.9,V,0,major,25.0
+DJAVAN,50,Atitude,39,8,8,Y1.1,*4.7.9,SubV/V,0,major,26.5
+DJAVAN,50,Atitude,40,7,7,Y2,*7.9,V,0,major,27.0
+DJAVAN,50,Atitude,41,7,7,Y2.2.1,*7(b9)13,V,0,major,28.5
+DJAVAN,50,Atitude,42,0,0,Z2,*M7.9,I,0,major,29.0
+DJAVAN,50,Atitude,43,2,2,z2,*m7.9,II,0,major,29.5
+DJAVAN,50,Atitude,44,4,4,z2,*m7.9,III,0,major,30.0
+DJAVAN,50,Atitude,45,9,9,Y3,*7(#11),V/II,0,major,30.5
+DJAVAN,50,Atitude,46,7,7,Y1.1,*4.7.9,V,0,major,31.0

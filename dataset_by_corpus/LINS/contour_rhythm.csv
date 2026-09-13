@@ -1,0 +1,856 @@
+corpus_id,composition_id,composition_name,word_index,c_word,r_word
+LINS,1,A cor do por do sol,1,a,i
+LINS,1,A cor do por do sol,2,PPppppPP,ossb
+LINS,1,A cor do por do sol,3,PPppppPPa,ossi
+LINS,1,A cor do por do sol,4,pP,s
+LINS,1,A cor do por do sol,5,pP,s
+LINS,1,A cor do por do sol,6,pPa,jbb
+LINS,1,A cor do por do sol,7,pPs,jbb
+LINS,1,A cor do por do sol,8,PPpPs,jjbb
+LINS,1,A cor do por do sol,9,PPpPs,jjbb
+LINS,1,A cor do por do sol,10,ppPs,ejbb
+LINS,1,A cor do por do sol,11,pPsSP,jbbeb
+LINS,1,A cor do por do sol,12,PPppppPPa,ossi
+LINS,1,A cor do por do sol,13,PPppppPP,ossb
+LINS,1,A cor do por do sol,14,PPppppPPa,ossi
+LINS,1,A cor do por do sol,15,pP,s
+LINS,1,A cor do por do sol,16,pP,s
+LINS,1,A cor do por do sol,17,pPu,sb
+LINS,1,A cor do por do sol,18,pPa,jbb
+LINS,1,A cor do por do sol,19,pPs,jbb
+LINS,1,A cor do por do sol,20,PPpPs,jjbb
+LINS,1,A cor do por do sol,21,PPpPs,jjbb
+LINS,1,A cor do por do sol,22,ppPs,ejbb
+LINS,1,A cor do por do sol,23,pPsSP,jbbeb
+LINS,1,A cor do por do sol,24,PPppppPPa,ossi
+LINS,1,A cor do por do sol,25,PPppppPP,ossb
+LINS,1,A cor do por do sol,26,PPppppPPa,ossi
+LINS,1,A cor do por do sol,27,pP,s
+LINS,1,A cor do por do sol,28,pP,s
+LINS,1,A cor do por do sol,29,pP,s
+LINS,2,A noite,1,Suuupp,gtpc
+LINS,2,A noite,2,pSuPap,jjjc
+LINS,2,A noite,3,pSuPap,jjjc
+LINS,2,A noite,4,pSuPap,jjjc
+LINS,2,A noite,5,pAuPap,jjjc
+LINS,2,A noite,6,pSuuPapaa,jtpeeb
+LINS,2,A noite,7,Su,jaab
+LINS,2,A noite,8,pPsSa,fdkdb
+LINS,2,A noite,9,S,j
+LINS,2,A noite,10,pPpPa,fdkdb
+LINS,2,A noite,11,Suuupp,gtpc
+LINS,2,A noite,12,pSuPapp,jjjp
+LINS,2,A noite,13,SuuPapp,pppp
+LINS,2,A noite,14,SuuPapp,pppp
+LINS,2,A noite,15,uuuPap,pppe
+LINS,2,A noite,16,uuuPapSa,pppeeb
+LINS,2,A noite,17,SpPa,ebbabb
+LINS,3,Abre alas,1,uupuupuuP,ossj
+LINS,3,Abre alas,2,uPuPuP,pppe
+LINS,3,Abre alas,3,uupuupuuP,ossj
+LINS,3,Abre alas,4,uPuPuP,pppe
+LINS,3,Abre alas,5,uuAuuppuPpuPpppa,fsssssb
+LINS,3,Abre alas,6,ppppSa,gst
+LINS,3,Abre alas,7,pSa,gt
+LINS,3,Abre alas,8,uuAuuppuPpuPpppa,fsssssb
+LINS,3,Abre alas,9,ppppSa,gst
+LINS,3,Abre alas,10,pSa,gt
+LINS,4,Acaso,1,sSsS,bjeb
+LINS,4,Acaso,2,AppsSpa,ejbjeb
+LINS,4,Acaso,3,AppsSsS,ejbjeb
+LINS,4,Acaso,4,ApppppP,ejbjeb
+LINS,4,Acaso,5,SPPu,dkdb
+LINS,4,Acaso,6,SsAp,kdbb
+LINS,4,Acaso,7,SsAAsAAp,ekdkdbe
+LINS,4,Acaso,8,SupPupPupPu,esssj
+LINS,4,Acaso,9,PPppAp,jjjb
+LINS,4,Acaso,10,PPPsSsS,ejbjeb
+LINS,4,Acaso,11,AppsSpa,ejbjeb
+LINS,4,Acaso,12,AppsSsS,ejbjeb
+LINS,4,Acaso,13,AappuPP,ejbjeb
+LINS,4,Acaso,14,A,bb
+LINS,4,Acaso,15,AaA,eeee
+LINS,4,Acaso,16,A,bb
+LINS,4,Acaso,17,S,bb
+LINS,4,Acaso,18,A,bb
+LINS,4,Acaso,19,Aap,bbabb
+LINS,4,Acaso,20,PPspuPPu,ejbjebb
+LINS,4,Acaso,21,AppsSsS,ejbjeb
+LINS,4,Acaso,22,AappuPP,ejbjeb
+LINS,5,Agora,1,SpP,obb
+LINS,5,Agora,2,Sppapu,ojjb
+LINS,5,Agora,3,SpP,obb
+LINS,5,Agora,4,Spappu,ojjb
+LINS,5,Agora,5,SpP,obb
+LINS,5,Agora,6,Spp,ebbb
+LINS,5,Agora,7,Spp,sb
+LINS,5,Agora,8,AApPppp,sbbbbb
+LINS,5,Agora,9,AApPppp,sbbbbb
+LINS,5,Agora,10,AAuPsSpppPP,sjejjj
+LINS,5,Agora,11,SpppP,ejjb
+LINS,5,Agora,12,pppppPP,kdvb
+LINS,5,Agora,13,upppppPP,ekdvb
+LINS,5,Agora,14,SppPAPsAp,ebphlj
+LINS,5,Agora,15,SppPAPsAp,ebphlj
+LINS,5,Agora,16,SppPAPsAp,ebphlj
+LINS,6,Ai ai ai,1,uuaAup,jjbj
+LINS,6,Ai ai ai,2,uaAPa,ejbj
+LINS,6,Ai ai ai,3,pP,eee
+LINS,6,Ai ai ai,4,uuaAup,jjbj
+LINS,6,Ai ai ai,5,uaAPa,ejbj
+LINS,6,Ai ai ai,6,ppp,eeeb
+LINS,6,Ai ai ai,7,uuaSup,jjbj
+LINS,6,Ai ai ai,8,uaSuPaS,ejbjabae
+LINS,6,Ai ai ai,9,uupAup,jjbj
+LINS,6,Ai ai ai,10,ppppA,fdkdb
+LINS,6,Ai ai ai,11,pp,ebb
+LINS,6,Ai ai ai,12,ppuuupupup,ejjjjbb
+LINS,6,Ai ai ai,13,pp,ebb
+LINS,6,Ai ai ai,14,ppuuupupup,ejjjjbb
+LINS,7,Ainda te procuro,1,APuupPp,ptmc
+LINS,7,Ainda te procuro,2,upPuPpp,gtqc
+LINS,7,Ainda te procuro,3,APuuupppp,pjjejc
+LINS,7,Ainda te procuro,4,APuupPp,ptmc
+LINS,7,Ainda te procuro,5,pPPpp,tmc
+LINS,7,Ainda te procuro,6,APuuupppp,pjjejc
+LINS,7,Ainda te procuro,7,APuupAp,ptmc
+LINS,7,Ainda te procuro,8,pPpPPpup,ptmh
+LINS,7,Ainda te procuro,9,puupApPppPuuaa,gtmestm
+LINS,7,Ainda te procuro,10,pppPpApppP,ptppp
+LINS,7,Ainda te procuro,11,ppuupApSa,ptmeeb
+LINS,7,Ainda te procuro,12,APuupPp,ptmc
+LINS,7,Ainda te procuro,13,APpPPpp,ptmc
+LINS,7,Ainda te procuro,14,AuuaApppu,gtppp
+LINS,7,Ainda te procuro,15,APuupPp,ptmc
+LINS,7,Ainda te procuro,16,APpPPpp,ptmc
+LINS,7,Ainda te procuro,17,APuuuupppu,ptppp
+LINS,7,Ainda te procuro,18,pPa,pcb
+LINS,8,Amor,1,Auu,kdb
+LINS,8,Amor,2,pAuuupppAuu,ekdjjkdb
+LINS,8,Amor,3,PPu,kdb
+LINS,8,Amor,4,pPPuuppASu,ekdkdkdb
+LINS,8,Amor,5,upP,kdb
+LINS,8,Amor,6,ppupPPppupP,jkdbjkdb
+LINS,8,Amor,7,upP,kdb
+LINS,8,Amor,8,ppupPpApp,jkdjjb
+LINS,8,Amor,9,Auu,kdb
+LINS,8,Amor,10,pAuupppAuu,ekdbjkdb
+LINS,8,Amor,11,Auu,kdb
+LINS,8,Amor,12,pPPuuppASu,ekdkdkdb
+LINS,8,Amor,13,upP,kdb
+LINS,8,Amor,14,ppupPPppupP,jkdbjkdb
+LINS,8,Amor,15,upP,kdb
+LINS,8,Amor,16,ppupPpApp,jkdjjb
+LINS,8,Amor,17,upaaa,ebjeb
+LINS,8,Amor,18,AAAPa,kdbj
+LINS,8,Amor,19,uppps,ebjeb
+LINS,8,Amor,20,AAApPa,jjbj
+LINS,9,Anjo de mim,1,usA,sb
+LINS,9,Anjo de mim,2,usA,kdb
+LINS,9,Anjo de mim,3,uap,kdb
+LINS,9,Anjo de mim,4,usA,kdb
+LINS,9,Anjo de mim,5,usA,kdb
+LINS,9,Anjo de mim,6,upp,kdb
+LINS,9,Anjo de mim,7,usA,kdb
+LINS,9,Anjo de mim,8,usA,kdb
+LINS,9,Anjo de mim,9,upp,kdb
+LINS,9,Anjo de mim,10,upP,kdb
+LINS,9,Anjo de mim,11,upP,kdb
+LINS,9,Anjo de mim,12,upp,kdb
+LINS,9,Anjo de mim,13,usA,kdb
+LINS,9,Anjo de mim,14,usAAuuap,kdbekdb
+LINS,9,Anjo de mim,15,usA,kdb
+LINS,9,Anjo de mim,16,usA,kdb
+LINS,9,Anjo de mim,17,upp,kdb
+LINS,9,Anjo de mim,18,usA,kdb
+LINS,9,Anjo de mim,19,usA,kdb
+LINS,9,Anjo de mim,20,upp,kdb
+LINS,9,Anjo de mim,21,upP,kdb
+LINS,9,Anjo de mim,22,upP,kdb
+LINS,9,Anjo de mim,23,upp,kdb
+LINS,9,Anjo de mim,24,ps,ebb
+LINS,9,Anjo de mim,25,ps,ebb
+LINS,9,Anjo de mim,26,ps,ebb
+LINS,9,Anjo de mim,27,usA,kdb
+LINS,9,Anjo de mim,28,upp,kdb
+LINS,9,Anjo de mim,29,uuu,kdb
+LINS,9,Anjo de mim,30,upP,kdb
+LINS,9,Anjo de mim,31,upp,kdb
+LINS,9,Anjo de mim,32,ps,ebb
+LINS,9,Anjo de mim,33,ps,ebb
+LINS,9,Anjo de mim,34,ps,ebb
+LINS,10,Aos nossos filhos,1,SuuuPsAu,elelebb
+LINS,10,Aos nossos filhos,2,SuuuPsAu,elelebb
+LINS,10,Aos nossos filhos,3,SuuupaPu,elelebb
+LINS,10,Aos nossos filhos,4,upppaa,ebeleb
+LINS,10,Aos nossos filhos,5,SuuuppAu,elelebb
+LINS,10,Aos nossos filhos,6,SuuuppS,eleleb
+LINS,10,Aos nossos filhos,7,usuuPPAu,elelebb
+LINS,10,Aos nossos filhos,8,usuPPA,ebbleb
+LINS,10,Aos nossos filhos,9,SuuuPsAu,elelebb
+LINS,10,Aos nossos filhos,10,SuuuPsAu,elelebb
+LINS,10,Aos nossos filhos,11,SuuupaPu,elelebab
+LINS,10,Aos nossos filhos,12,pppaa,fdleb
+LINS,10,Aos nossos filhos,13,uuuPsAu,lelebb
+LINS,10,Aos nossos filhos,14,uuuPsAu,lelebb
+LINS,10,Aos nossos filhos,15,uuupaPu,lelebab
+LINS,10,Aos nossos filhos,16,pppaa,fdleb
+LINS,10,Aos nossos filhos,17,uuuppAu,lelebb
+LINS,10,Aos nossos filhos,18,uuuppSu,lelebab
+LINS,10,Aos nossos filhos,19,suuPPAu,lelebab
+LINS,10,Aos nossos filhos,20,suuPPA,leleb
+LINS,10,Aos nossos filhos,21,suuPPA,leleb
+LINS,11,Bilhete,1,uAAAu,fsbb
+LINS,11,Bilhete,2,uAAPu,fsbb
+LINS,11,Bilhete,3,PppP,fsb
+LINS,11,Bilhete,4,uAAPu,fsbb
+LINS,11,Bilhete,5,AppAu,fsbb
+LINS,11,Bilhete,6,AppA,jjb
+LINS,11,Bilhete,7,uuupPu,osbb
+LINS,11,Bilhete,8,uuAAPu,osbb
+LINS,11,Bilhete,9,PPppAu,osbb
+LINS,11,Bilhete,10,PPpppu,osbb
+LINS,11,Bilhete,11,PPppp,osb
+LINS,11,Bilhete,12,PPppuu,obobb
+LINS,11,Bilhete,13,uuupPu,osbb
+LINS,11,Bilhete,14,uuAAPu,osbb
+LINS,11,Bilhete,15,PPppAu,osbb
+LINS,11,Bilhete,16,PPpppu,osbb
+LINS,11,Bilhete,17,PPppp,osb
+LINS,11,Bilhete,18,PPppu,okdb
+LINS,11,Bilhete,19,PPppu,okdb
+LINS,11,Bilhete,20,PPppu,okdb
+LINS,12,Cantor da noite,1,PPuusSsSpsS,jkdkdbaabbb
+LINS,12,Cantor da noite,2,PPuusSsSpsS,jkdkdbaabbb
+LINS,12,Cantor da noite,3,PSusSsSpsS,jbdkdbaabbb
+LINS,12,Cantor da noite,4,PPuusSsSpsS,jkdkdbaabbb
+LINS,12,Cantor da noite,5,ppsS,ekdb
+LINS,12,Cantor da noite,6,ppAa,ekdb
+LINS,12,Cantor da noite,7,PPPPApppppa,fdkdkdkdb
+LINS,12,Cantor da noite,8,APuusSsSpsS,jkdkdbaabbb
+LINS,12,Cantor da noite,9,PPuusSsSpsS,jkdkdbaabbb
+LINS,12,Cantor da noite,10,PSuusSsSpsS,jkdkdbaabbb
+LINS,12,Cantor da noite,11,PPuusSsS,jkdkdb
+LINS,12,Cantor da noite,12,PAuusSsS,jkdkdb
+LINS,12,Cantor da noite,13,ApuusSsSpp,jkdkdbaabb
+LINS,12,Cantor da noite,14,ApuusSsSpp,jkdkdbaabb
+LINS,13,Choro das aguas,1,ppuusSusSu,eokdkdbb
+LINS,13,Choro das aguas,2,ppuusSusSu,eokdkdbb
+LINS,13,Choro das aguas,3,paauaAuPPu,kdkdkdbb
+LINS,13,Choro das aguas,4,pppaPu,jjjb
+LINS,13,Choro das aguas,5,ppuusSusSu,eokdkdbb
+LINS,13,Choro das aguas,6,ppuusSusSu,ejkdkdj
+LINS,13,Choro das aguas,7,ApaauauAuPPu,ekdkokdbb
+LINS,13,Choro das aguas,8,ppppaPu,ejjjb
+LINS,14,Daquilo que eu sei,1,PpAp,ejbb
+LINS,14,Daquilo que eu sei,2,PuuupAp,ekdbjae
+LINS,14,Daquilo que eu sei,3,PuuupSp,ekdbjae
+LINS,14,Daquilo que eu sei,4,PuuapSp,ekdbjae
+LINS,14,Daquilo que eu sei,5,uuaSu,kdajae
+LINS,14,Daquilo que eu sei,6,uuaSu,kdajae
+LINS,14,Daquilo que eu sei,7,uuuaA,ebebeb
+LINS,14,Daquilo que eu sei,8,uuuupPaAu,ebekdbebe
+LINS,14,Daquilo que eu sei,9,uuupu,ebjaj
+LINS,14,Daquilo que eu sei,10,upupaPS,jajabfdb
+LINS,14,Daquilo que eu sei,11,auuaAu,bbjajae
+LINS,14,Daquilo que eu sei,12,uuaAP,bjajae
+LINS,14,Daquilo que eu sei,13,uuaSPpp,bjajaeaeb
+LINS,15,Depois dos temporais,1,pppppppPu,sstab
+LINS,15,Depois dos temporais,2,pppppppAu,sstab
+LINS,15,Depois dos temporais,3,uPPAu,fsbb
+LINS,15,Depois dos temporais,4,uPPAu,fsbb
+LINS,15,Depois dos temporais,5,uuPPAu,osbb
+LINS,15,Depois dos temporais,6,pppppu,osbb
+LINS,15,Depois dos temporais,7,pppaapPu,ossab
+LINS,15,Depois dos temporais,8,uPPPusS,fssb
+LINS,15,Depois dos temporais,9,uPPPuuppu,fssnb
+LINS,15,Depois dos temporais,10,uPuppaA,ssi
+LINS,15,Depois dos temporais,11,uppAp,fsk
+LINS,15,Depois dos temporais,12,pSp,nk
+LINS,15,Depois dos temporais,13,aSp,nk
+LINS,15,Depois dos temporais,14,aS,nb
+LINS,15,Depois dos temporais,15,PPPAa,ejjb
+LINS,15,Depois dos temporais,16,ppppppu,esjbb
+LINS,15,Depois dos temporais,17,pppppppAu,sstab
+LINS,15,Depois dos temporais,18,PPAu,sbb
+LINS,15,Depois dos temporais,19,PPAu,sbb
+LINS,15,Depois dos temporais,20,PPAp,sbb
+LINS,15,Depois dos temporais,21,pppppu,osbb
+LINS,15,Depois dos temporais,22,pPpPPppupupuu,ornosbb
+LINS,15,Depois dos temporais,23,upPpPPppuuppuu,urnosbb
+LINS,15,Depois dos temporais,24,pPpPPppuuppuu,ornosbb
+LINS,15,Depois dos temporais,25,pPpPPpp,ornc
+LINS,15,Depois dos temporais,26,ppPu,ebebb
+LINS,16,Dinorah Dinorah,1,pppAaP,jjt
+LINS,16,Dinorah Dinorah,2,ppaAPPu,ejete
+LINS,16,Dinorah Dinorah,3,ppPppp,bpbq
+LINS,16,Dinorah Dinorah,4,pppAaP,jjt
+LINS,16,Dinorah Dinorah,5,ppaAPPu,ejete
+LINS,16,Dinorah Dinorah,6,ppPppp,bpbq
+LINS,16,Dinorah Dinorah,7,AaSuPpppP,kdjsbb
+LINS,16,Dinorah Dinorah,8,AaSuPpppP,kdjsbb
+LINS,16,Dinorah Dinorah,9,AaSPppuus,kdkdbbbab
+LINS,17,Doce presenca,1,AAAaSppaapPA,sjojpj
+LINS,17,Doce presenca,2,AAAaSppaapPP,sjojpbb
+LINS,17,Doce presenca,3,paAP,boj
+LINS,17,Doce presenca,4,PPpaAP,oboj
+LINS,17,Doce presenca,5,APPAsAsap,ujjbbb
+LINS,17,Doce presenca,6,PpsA,tp
+LINS,17,Doce presenca,7,PPPpsA,ptp
+LINS,17,Doce presenca,8,PPPpsSsSppP,ptpgsb
+LINS,17,Doce presenca,9,PpsSupppAaPs,tpeojpb
+LINS,17,Doce presenca,10,pppApppu,jjjjb
+LINS,17,Doce presenca,11,AAAaSppaapPA,sjojpj
+LINS,17,Doce presenca,12,AAAaSppaapPP,sjojpbb
+LINS,17,Doce presenca,13,paAP,boj
+LINS,17,Doce presenca,14,PPpaAP,oboj
+LINS,17,Doce presenca,15,APPAsAsap,ujjbbb
+LINS,17,Doce presenca,16,APPAsAsSp,ujjbbb
+LINS,18,Essa mare,1,APP,nn
+LINS,18,Essa mare,2,uuu,nn
+LINS,18,Essa mare,3,ppupp,nnn
+LINS,18,Essa mare,4,psApp,nnn
+LINS,18,Essa mare,5,AAAPa,nnn
+LINS,18,Essa mare,6,AAS,nn
+LINS,18,Essa mare,7,uuu,nn
+LINS,18,Essa mare,8,Spp,nn
+LINS,18,Essa mare,9,uAap,nnc
+LINS,18,Essa mare,10,PAApp,jbabgae
+LINS,18,Essa mare,11,AAP,nn
+LINS,18,Essa mare,12,uuu,nn
+LINS,18,Essa mare,13,uAp,nn
+LINS,18,Essa mare,14,upup,nnc
+LINS,18,Essa mare,15,aaAp,jbabg
+LINS,18,Essa mare,16,aaAp,gnaabg
+LINS,18,Essa mare,17,sS,bn
+LINS,18,Essa mare,18,S,n
+LINS,18,Essa mare,19,Appppp,nnr
+LINS,18,Essa mare,20,u,bg
+LINS,18,Essa mare,21,AppApp,nnr
+LINS,18,Essa mare,22,pp,bn
+LINS,18,Essa mare,23,Apppp,ncng
+LINS,18,Essa mare,24,SaaSa,ngng
+LINS,18,Essa mare,25,Sppp,ngn
+LINS,18,Essa mare,26,aaAp,gnaabg
+LINS,18,Essa mare,27,aa,gn
+LINS,19,Fogueiras,1,PPppsAa,ejkdbb
+LINS,19,Fogueiras,2,pPPPppppp,pkdkdbb
+LINS,19,Fogueiras,3,uPPppsAa,ekdkdbb
+LINS,19,Fogueiras,4,ppppuApppppu,jjbbjsbb
+LINS,19,Fogueiras,5,PPppsAa,ejkdbb
+LINS,19,Fogueiras,6,uPPppppp,jokdbb
+LINS,19,Fogueiras,7,PPppsAu,kdkdbb
+LINS,19,Fogueiras,8,uppppuApppppu,sjbbsjbb
+LINS,20,Guarde nos olhos,1,uaAu,kdbb
+LINS,20,Guarde nos olhos,2,AuaAuaSu,ekdkdbb
+LINS,20,Guarde nos olhos,3,Sauppu,fdkdbb
+LINS,20,Guarde nos olhos,4,Ppppa,fdkdb
+LINS,20,Guarde nos olhos,5,uPpp,kdbb
+LINS,20,Guarde nos olhos,6,PaASp,fdkdb
+LINS,20,Guarde nos olhos,7,uAaP,kdbb
+LINS,20,Guarde nos olhos,8,PpaaS,fdkdb
+LINS,20,Guarde nos olhos,9,uaAu,kdbb
+LINS,20,Guarde nos olhos,10,AuaAuaSu,ekdkdbb
+LINS,20,Guarde nos olhos,11,Sauppu,fdkdbb
+LINS,20,Guarde nos olhos,12,Ppppa,fdkdb
+LINS,20,Guarde nos olhos,13,uuppu,ekdbb
+LINS,20,Guarde nos olhos,14,Ppppa,fdkdb
+LINS,20,Guarde nos olhos,15,ppuppu,fdkdbb
+LINS,20,Guarde nos olhos,16,Ppppa,fdkdb
+LINS,21,Ituverava,1,uApAppp,jebjeb
+LINS,21,Ituverava,2,uAaAs,jebj
+LINS,21,Ituverava,3,uuuPPu,jebbbab
+LINS,21,Ituverava,4,uAsSsA,jebje
+LINS,21,Ituverava,5,uApAppp,jebjeb
+LINS,21,Ituverava,6,uAaAs,jebj
+LINS,21,Ituverava,7,uuuPPu,jebbbab
+LINS,21,Ituverava,8,aPuAsSsA,jjebje
+LINS,22,Iluminados,1,uuuuuuu,ntmab
+LINS,22,Iluminados,2,uuuuuup,ntmab
+LINS,22,Iluminados,3,uuuuSpa,ntmab
+LINS,22,Iluminados,4,uuuuSpP,ntmab
+LINS,22,Iluminados,5,uuaAPpa,osoab
+LINS,22,Iluminados,6,uuaApua,osoab
+LINS,22,Iluminados,7,uuuupu,oso
+LINS,22,Iluminados,8,uuuuPa,oso
+LINS,22,Iluminados,9,uuAAAua,osoab
+LINS,23,Joana dos barcos,1,uuAs,gsb
+LINS,23,Joana dos barcos,2,uppPuAs,fssb
+LINS,23,Joana dos barcos,3,uuAs,gsb
+LINS,23,Joana dos barcos,4,uppPuAs,fssb
+LINS,23,Joana dos barcos,5,uuAu,gsb
+LINS,23,Joana dos barcos,6,uppsPSu,fssb
+LINS,23,Joana dos barcos,7,uppsPSu,fssb
+LINS,23,Joana dos barcos,8,upppASu,fsjj
+LINS,23,Joana dos barcos,9,PPuPp,jjj
+LINS,23,Joana dos barcos,10,upppAAu,fsjj
+LINS,23,Joana dos barcos,11,uPppuuuPppuPa,fsssjj
+LINS,24,Lembra de mim,1,upP,kdb
+LINS,24,Lembra de mim,2,pPPpppPupP,ejjjkdb
+LINS,24,Lembra de mim,3,pPPpppPupP,ejjjkdb
+LINS,24,Lembra de mim,4,pPPpppPupP,ejjjkdb
+LINS,24,Lembra de mim,5,upP,kdb
+LINS,24,Lembra de mim,6,pPPpppPupP,ejjjkdb
+LINS,24,Lembra de mim,7,pPPpppPupP,ejjjkdb
+LINS,24,Lembra de mim,8,upPAsupP,kdbbkdb
+LINS,24,Lembra de mim,9,upP,kdb
+LINS,24,Lembra de mim,10,upP,kdb
+LINS,24,Lembra de mim,11,pPPpppPupP,ejjjkdb
+LINS,24,Lembra de mim,12,pPPpppPupP,ejjjkdb
+LINS,24,Lembra de mim,13,pPPpppPupP,ejjjkdb
+LINS,24,Lembra de mim,14,upP,kdb
+LINS,24,Lembra de mim,15,pPPpppPupP,ejjjkdb
+LINS,24,Lembra de mim,16,pPPpppPupP,ejjjkdb
+LINS,24,Lembra de mim,17,upPAsupP,kdbbkdb
+LINS,24,Lembra de mim,18,upP,kdb
+LINS,25,Lembra,1,A,j
+LINS,25,Lembra,2,AAAupuaA,sjjj
+LINS,25,Lembra,3,AASupuaA,sjjj
+LINS,25,Lembra,4,AASupuaA,sjjj
+LINS,25,Lembra,5,A,j
+LINS,25,Lembra,6,S,j
+LINS,25,Lembra,7,uASupuaA,sjjj
+LINS,25,Lembra,8,AASupuaA,sjjj
+LINS,25,Lembra,9,AASupuaP,sjjj
+LINS,25,Lembra,10,uppAppppA,easjjj
+LINS,25,Lembra,11,AAAupuaA,sjjj
+LINS,25,Lembra,12,AASupuaA,sjjj
+LINS,25,Lembra,13,AASupuaA,sjjj
+LINS,25,Lembra,14,Ap,jaab
+LINS,25,Lembra,15,A,j
+LINS,26,Leva e traz,1,pApA,bnan
+LINS,26,Leva e traz,2,PpA,nan
+LINS,26,Leva e traz,3,Spupa,nann
+LINS,26,Leva e traz,4,sSpu,bnan
+LINS,26,Leva e traz,5,Sp,ng
+LINS,26,Leva e traz,6,sSpppAps,gnnnn
+LINS,26,Leva e traz,7,sSpAsS,bebnaj
+LINS,26,Leva e traz,8,AsSpu,nanan
+LINS,26,Leva e traz,9,sSpA,bnan
+LINS,26,Leva e traz,10,SpAsSpu,jananan
+LINS,26,Leva e traz,11,sS,beb
+LINS,26,Leva e traz,12,ppppppp,enrn
+LINS,26,Leva e traz,13,pppaapu,gnrn
+LINS,26,Leva e traz,14,psSpapp,gnrn
+LINS,26,Leva e traz,15,sAu,bebb
+LINS,26,Leva e traz,16,ppppppp,gnrn
+LINS,26,Leva e traz,17,pppaapu,gnrn
+LINS,26,Leva e traz,18,psSpaaA,gnrn
+LINS,27,Madalena,1,APPs,uh
+LINS,27,Madalena,2,SPppAa,ugq
+LINS,27,Madalena,3,SPpppAs,unmc
+LINS,27,Madalena,4,SPppPs,unm
+LINS,27,Madalena,5,AAApa,crn
+LINS,27,Madalena,6,uuu,pj
+LINS,27,Madalena,7,uPpppAu,ugqe
+LINS,27,Madalena,8,uPpppAs,ugqe
+LINS,27,Madalena,9,uPpppAu,ugqe
+LINS,27,Madalena,10,pppP,bjj
+LINS,27,Madalena,11,pPPapPu,ntnc
+LINS,27,Madalena,12,uuPppuP,nntc
+LINS,27,Madalena,13,pPPpppu,ntmab
+LINS,27,Madalena,14,uuuu,um
+LINS,27,Madalena,15,uPuAApa,ptmc
+LINS,27,Madalena,16,uuuuuus,ptmc
+LINS,27,Madalena,17,APppSps,ntnc
+LINS,27,Madalena,18,ppPpppPPs,bnnnjb
+LINS,27,Madalena,19,A,n
+LINS,27,Madalena,20,AP,u
+LINS,27,Madalena,21,APP,ub
+LINS,27,Madalena,22,APPuuuuPasS,uvvb
+LINS,27,Madalena,23,AP,u
+LINS,27,Madalena,24,APP,ub
+LINS,27,Madalena,25,APPuuuuPas,uvv
+LINS,28,Meu pais,1,SusSpu,ejebj
+LINS,28,Meu pais,2,SusSpsA,ejebje
+LINS,28,Meu pais,3,SusSpu,ejjaj
+LINS,28,Meu pais,4,SusSpaA,ejebje
+LINS,28,Meu pais,5,AuppupuuaA,ejejejj
+LINS,28,Meu pais,6,upSpapp,ebjatb
+LINS,28,Meu pais,7,uuu,jaj
+LINS,28,Meu pais,8,AAPp,jbj
+LINS,28,Meu pais,9,ppps,jbj
+LINS,29,Mudanca dos ventos,1,Ppppau,osbb
+LINS,29,Mudanca dos ventos,2,PppapA,osbb
+LINS,29,Mudanca dos ventos,3,Ppppau,osj
+LINS,29,Mudanca dos ventos,4,uAAAuu,ejjbb
+LINS,29,Mudanca dos ventos,5,Ppppau,osj
+LINS,29,Mudanca dos ventos,6,uAASuu,ejjj
+LINS,29,Mudanca dos ventos,7,upppuu,ejjj
+LINS,29,Mudanca dos ventos,8,ppppuu,ejjbb
+LINS,29,Mudanca dos ventos,9,ppppuu,osbb
+LINS,29,Mudanca dos ventos,10,ppppuu,osbb
+LINS,29,Mudanca dos ventos,11,ppppuu,sjbb
+LINS,29,Mudanca dos ventos,12,pppppu,sjbb
+LINS,29,Mudanca dos ventos,13,Ppppau,osbb
+LINS,29,Mudanca dos ventos,14,PppapA,osbb
+LINS,29,Mudanca dos ventos,15,Ppppau,osj
+LINS,29,Mudanca dos ventos,16,uAAAuu,ejjbb
+LINS,29,Mudanca dos ventos,17,Ppppau,osj
+LINS,29,Mudanca dos ventos,18,uAASuu,ejjj
+LINS,29,Mudanca dos ventos,19,upppuu,ejjj
+LINS,29,Mudanca dos ventos,20,ppppuu,ejjj
+LINS,29,Mudanca dos ventos,21,ppppuu,ejjj
+LINS,29,Mudanca dos ventos,22,ppppuu,eojj
+LINS,29,Mudanca dos ventos,23,ppppuu,eojj
+LINS,29,Mudanca dos ventos,24,pppppu,ejjbb
+LINS,29,Mudanca dos ventos,25,AAuP,ejbb
+LINS,29,Mudanca dos ventos,26,uP,bbb
+LINS,29,Mudanca dos ventos,27,AAuP,ejbb
+LINS,29,Mudanca dos ventos,28,uP,bbb
+LINS,29,Mudanca dos ventos,29,AAuP,ejbb
+LINS,29,Mudanca dos ventos,30,uP,bbb
+LINS,29,Mudanca dos ventos,31,Ppppau,osbb
+LINS,30,Na areia na beira do mar,1,uuAAP,njj
+LINS,30,Na areia na beira do mar,2,uuAPu,njj
+LINS,30,Na areia na beira do mar,3,uuuaApuuppppppppp,nrrrrlj
+LINS,30,Na areia na beira do mar,4,uuAAP,njj
+LINS,30,Na areia na beira do mar,5,uuAPu,njj
+LINS,30,Na areia na beira do mar,6,uuuaApuuppppppppp,nrrrrlj
+LINS,30,Na areia na beira do mar,7,uuuuppup,gvuc
+LINS,30,Na areia na beira do mar,8,upPPppu,grlj
+LINS,30,Na areia na beira do mar,9,upPPppup,gvuc
+LINS,30,Na areia na beira do mar,10,PpPPppp,grlj
+LINS,30,Na areia na beira do mar,11,uAPPppAa,gvuc
+LINS,30,Na areia na beira do mar,12,PppA,gv
+LINS,30,Na areia na beira do mar,13,pp,gj
+LINS,31,Novo tempo,1,AAua,jjae
+LINS,31,Novo tempo,2,PPpppp,ejeje
+LINS,31,Novo tempo,3,uAAuu,ejje
+LINS,31,Novo tempo,4,uAAPu,ejje
+LINS,31,Novo tempo,5,uAAAu,ejjae
+LINS,31,Novo tempo,6,ppsS,fdbj
+LINS,31,Novo tempo,7,pppu,fdbj
+LINS,31,Novo tempo,8,ppPp,fdbj
+LINS,31,Novo tempo,9,AAua,jjae
+LINS,31,Novo tempo,10,PPpppp,ejeje
+LINS,31,Novo tempo,11,uAAuu,ejje
+LINS,31,Novo tempo,12,uAAPu,ejje
+LINS,31,Novo tempo,13,uAAAu,ejjae
+LINS,31,Novo tempo,14,ppsS,fdbj
+LINS,31,Novo tempo,15,pppu,fdbj
+LINS,31,Novo tempo,16,ppPp,fdbj
+LINS,31,Novo tempo,17,pppppS,ejejae
+LINS,31,Novo tempo,18,pppppuS,ejejbe
+LINS,31,Novo tempo,19,pppppS,ejejae
+LINS,31,Novo tempo,20,pppppS,ejejae
+LINS,31,Novo tempo,21,PP,fdb
+LINS,31,Novo tempo,22,a,bb
+LINS,32,O amor e meu pais,1,AAP,oj
+LINS,32,O amor e meu pais,2,AAP,pj
+LINS,32,O amor e meu pais,3,AAPupPP,ojsb
+LINS,32,O amor e meu pais,4,AAP,oj
+LINS,32,O amor e meu pais,5,ASP,pj
+LINS,32,O amor e meu pais,6,AAPu,ojab
+LINS,32,O amor e meu pais,7,Pp,ej
+LINS,32,O amor e meu pais,8,ASp,pj
+LINS,32,O amor e meu pais,9,Sup,obb
+LINS,32,O amor e meu pais,10,usAAus,ebsj
+LINS,32,O amor e meu pais,11,Sp,ob
+LINS,32,O amor e meu pais,12,PPuPuPu,bbrt
+LINS,32,O amor e meu pais,13,ppppp,sjb
+LINS,32,O amor e meu pais,14,PPuPuPu,prt
+LINS,32,O amor e meu pais,15,ppppp,sjb
+LINS,32,O amor e meu pais,16,PPupPpP,prt
+LINS,32,O amor e meu pais,17,PPupPpP,prt
+LINS,32,O amor e meu pais,18,APupPpP,prt
+LINS,32,O amor e meu pais,19,SpuPpp,srb
+LINS,32,O amor e meu pais,20,uuuuuPP,prt
+LINS,32,O amor e meu pais,21,PppupPAS,srt
+LINS,32,O amor e meu pais,22,ppP,ub
+LINS,32,O amor e meu pais,23,App,blb
+LINS,32,O amor e meu pais,24,pppu,bqb
+LINS,32,O amor e meu pais,25,usAAP,ebaet
+LINS,33,Porta entreaberta,1,uuPaaAuuPaaAuuPaaA,fssssss
+LINS,33,Porta entreaberta,2,uuPaaAPuPaaSuuPaaA,fssssss
+LINS,33,Porta entreaberta,3,uuPaaAuuPaaAuuPaaA,fssssss
+LINS,33,Porta entreaberta,4,uuPaaSuuPaaSuuPaaA,fssssss
+LINS,33,Porta entreaberta,5,pppApp,gaauu
+LINS,33,Porta entreaberta,6,pppppa,uug
+LINS,33,Porta entreaberta,7,pppAppAppppA,gaaosssb
+LINS,33,Porta entreaberta,8,upppppa,gaauug
+LINS,33,Porta entreaberta,9,ppppP,uu
+LINS,33,Porta entreaberta,10,pppAp,epr
+LINS,33,Porta entreaberta,11,ppppP,uu
+LINS,33,Porta entreaberta,12,pppAp,epr
+LINS,33,Porta entreaberta,13,ppppP,uu
+LINS,33,Porta entreaberta,14,pppAp,epr
+LINS,34,Quadras de roda,1,usuSp,ptb
+LINS,34,Quadras de roda,2,uusuuApu,gttj
+LINS,34,Quadras de roda,3,usuSp,ptb
+LINS,34,Quadras de roda,4,uusuuApu,gttj
+LINS,34,Quadras de roda,5,uuuAA,prb
+LINS,34,Quadras de roda,6,Apappu,nnt
+LINS,34,Quadras de roda,7,uuuuPPa,nnre
+LINS,34,Quadras de roda,8,uSpuuu,nrm
+LINS,34,Quadras de roda,9,uuuPPu,nrj
+LINS,34,Quadras de roda,10,uupppau,ntnc
+LINS,34,Quadras de roda,11,uuuApu,nrj
+LINS,34,Quadras de roda,12,uupppau,ntnc
+LINS,34,Quadras de roda,13,uuuuPPu,urj
+LINS,34,Quadras de roda,14,Sppppuu,jntc
+LINS,34,Quadras de roda,15,uuuPPu,nrj
+LINS,34,Quadras de roda,16,Sppppuu,jntc
+LINS,34,Quadras de roda,17,uuuaA,nrb
+LINS,34,Quadras de roda,18,uuuppu,nrj
+LINS,34,Quadras de roda,19,uuuuAupu,nrjj
+LINS,34,Quadras de roda,20,uupps,nlbb
+LINS,35,Rio de maio,1,uPPppppA,baaaaoss
+LINS,35,Rio de maio,2,p,ee
+LINS,35,Rio de maio,3,uPPppppA,baaaaoss
+LINS,35,Rio de maio,4,PP,ebab
+LINS,35,Rio de maio,5,uPPppppA,baaaaoss
+LINS,35,Rio de maio,6,A,eb
+LINS,35,Rio de maio,7,uuPPppppu,ebaaaaoss
+LINS,35,Rio de maio,8,S,eb
+LINS,35,Rio de maio,9,A,eb
+LINS,35,Rio de maio,10,S,eb
+LINS,35,Rio de maio,11,SppPApppaaS,ebaaaaossi
+LINS,35,Rio de maio,12,pPApppaaS,ossi
+LINS,35,Rio de maio,13,pPApppaaS,ossi
+LINS,35,Rio de maio,14,Puaa,ekdb
+LINS,35,Rio de maio,15,PPppaaSuaa,ossfdb
+LINS,35,Rio de maio,16,PPppaaSuaa,ossfdb
+LINS,35,Rio de maio,17,PPppaaSuaa,ossfdb
+LINS,35,Rio de maio,18,Auaa,ekdb
+LINS,35,Rio de maio,19,Puaa,ekdb
+LINS,35,Rio de maio,20,PPppaaSuaa,ossfdb
+LINS,35,Rio de maio,21,PPppaaSuaa,ossfdb
+LINS,35,Rio de maio,22,PPppaaSpp,ossabb
+LINS,35,Rio de maio,23,ppuaA,ebababaaeb
+LINS,36,Saindo de mim,1,uPPPPPA,ebokdb
+LINS,36,Saindo de mim,2,PaaaSP,okdbb
+LINS,36,Saindo de mim,3,PPppA,jkdb
+LINS,36,Saindo de mim,4,psAA,obj
+LINS,36,Saindo de mim,5,pp,bbaaab
+LINS,36,Saindo de mim,6,uPPPPPA,ebokdb
+LINS,36,Saindo de mim,7,PaaaSP,okdbb
+LINS,36,Saindo de mim,8,PPppA,okdb
+LINS,36,Saindo de mim,9,uAAu,bbjab
+LINS,36,Saindo de mim,10,pp,bbaaab
+LINS,36,Saindo de mim,11,SaPPAaa,ebokdb
+LINS,36,Saindo de mim,12,PPppAu,okdbab
+LINS,36,Saindo de mim,13,PPAaau,jkdbab
+LINS,36,Saindo de mim,14,PPpsSu,esebab
+LINS,36,Saindo de mim,15,uaPPAaa,ebokdb
+LINS,36,Saindo de mim,16,PPppAu,ejjbab
+LINS,36,Saindo de mim,17,PPaSaau,ojobab
+LINS,36,Saindo de mim,18,pppsSu,ejobab
+LINS,36,Saindo de mim,19,papppu,ejobab
+LINS,37,Sertaneja,1,uuuPau,jebje
+LINS,37,Sertaneja,2,aPpPAu,ebbkdb
+LINS,37,Sertaneja,3,uuuPau,jebje
+LINS,37,Sertaneja,4,aPuPpP,ebbkdb
+LINS,37,Sertaneja,5,uuuPau,jebje
+LINS,37,Sertaneja,6,aPpPAu,ebbkdb
+LINS,37,Sertaneja,7,uuuPau,jebje
+LINS,37,Sertaneja,8,aPuPpP,ebbkdb
+LINS,37,Sertaneja,9,uuuPPu,jebje
+LINS,37,Sertaneja,10,apup,ebje
+LINS,37,Sertaneja,11,APPu,ebje
+LINS,37,Sertaneja,12,apup,ebje
+LINS,37,Sertaneja,13,APPu,ebje
+LINS,37,Sertaneja,14,apuppP,ebbkdb
+LINS,37,Sertaneja,15,uuuPPu,jebje
+LINS,37,Sertaneja,16,apup,ebje
+LINS,37,Sertaneja,17,APPu,ebje
+LINS,37,Sertaneja,18,apup,ebje
+LINS,37,Sertaneja,19,APPu,ebje
+LINS,37,Sertaneja,20,apuppP,ebbkdb
+LINS,38,Soberana rosa,1,Auu,pl
+LINS,38,Soberana rosa,2,PaAuu,vl
+LINS,38,Soberana rosa,3,PaAuu,vl
+LINS,38,Soberana rosa,4,Papu,vb
+LINS,38,Soberana rosa,5,AAAu,ul
+LINS,38,Soberana rosa,6,pppPu,vl
+LINS,38,Soberana rosa,7,AAAu,ul
+LINS,38,Soberana rosa,8,pppP,vb
+LINS,38,Soberana rosa,9,ppu,pl
+LINS,38,Soberana rosa,10,PaAuu,vl
+LINS,38,Soberana rosa,11,PaAuu,vl
+LINS,38,Soberana rosa,12,Papu,ot
+LINS,39,Tens,1,uuuu,jjb
+LINS,39,Tens,2,uuuPuu,ejjj
+LINS,39,Tens,3,uuuuuuuuuuPuu,jjjjjjj
+LINS,39,Tens,4,uuSu,jjb
+LINS,39,Tens,5,PppuPp,jjbabaaab
+LINS,39,Tens,6,uuuu,jjb
+LINS,39,Tens,7,uuuPuu,ejjj
+LINS,39,Tens,8,pupppSuuuuPpu,jjjjjjj
+LINS,39,Tens,9,uuuuuupupuPpPp,jjjjjjbaabab
+LINS,39,Tens,10,uuuu,jjb
+LINS,39,Tens,11,uuuPuu,ejjj
+LINS,39,Tens,12,uuuuuuuuuuPuu,jjjjjjj
+LINS,39,Tens,13,uuSu,jjb
+LINS,39,Tens,14,PppuPp,jjbabaaab
+LINS,39,Tens,15,uuuu,jjb
+LINS,39,Tens,16,uuuPuu,ejjj
+LINS,39,Tens,17,pupppSuuuuPpu,jjjjjjj
+LINS,39,Tens,18,uuuuuuupuppPPpPp,ejjjjbjjbabab
+LINS,40,Um fado,1,upPuPPu,kdkdbb
+LINS,40,Um fado,2,upPuPPu,kdkdbb
+LINS,40,Um fado,3,upauaau,kdkdk
+LINS,40,Um fado,4,pppPu,dbobb
+LINS,40,Um fado,5,AupPuPPu,ekdkdbb
+LINS,40,Um fado,6,upPuPPu,ebdkdbb
+LINS,40,Um fado,7,uupauaau,ekdkdk
+LINS,40,Um fado,8,pppPu,dbobb
+LINS,40,Um fado,9,upPuPPu,kdkdbb
+LINS,40,Um fado,10,upPuPPu,ebdkdbb
+LINS,40,Um fado,11,ppuapu,okdk
+LINS,40,Um fado,12,Suapu,dkdk
+LINS,40,Um fado,13,SuapupsP,dkdkdbab
+LINS,40,Um fado,14,upPuPPu,kdkdbb
+LINS,40,Um fado,15,upPuPPu,kdkdbb
+LINS,40,Um fado,16,upaPpaau,bobsk
+LINS,40,Um fado,17,pppPu,dbobb
+LINS,41,Velas icadas,1,uAsuAsuAsuApa,kdkdkdkdbb
+LINS,41,Velas icadas,2,uAsuAsuAsuAp,kdkdkdkdb
+LINS,41,Velas icadas,3,uAsuAsuAsuApa,kdkdkdkdbb
+LINS,41,Velas icadas,4,uAsuAsuAAusA,kdkdkdkdb
+LINS,41,Velas icadas,5,upAppaP,kdbobb
+LINS,41,Velas icadas,6,upApppP,kdkdbb
+LINS,41,Velas icadas,7,upAppaA,kdkdbb
+LINS,41,Velas icadas,8,uAsuAsuAsuApa,kdkdkdkdbb
+LINS,41,Velas icadas,9,uAsuAsupAuuu,kdkdkdkdb
+LINS,42,Vitoriosa,1,pp,bp
+LINS,42,Vitoriosa,2,PPPPSps,osjae
+LINS,42,Vitoriosa,3,pPPPPSP,ejjjb
+LINS,42,Vitoriosa,4,PpupupPPaaup,ejjjjbeaj
+LINS,42,Vitoriosa,5,uuuupp,jjbj
+LINS,42,Vitoriosa,6,uppp,oje
+LINS,42,Vitoriosa,7,uuuupp,jjbj
+LINS,42,Vitoriosa,8,uppp,oje
+LINS,42,Vitoriosa,9,uupPPP,jjbj
+LINS,42,Vitoriosa,10,ppppPPaa,ejjjbe
+LINS,42,Vitoriosa,11,PpA,ebj
+LINS,42,Vitoriosa,12,PpA,ebj
+LINS,42,Vitoriosa,13,pp,bp
+LINS,42,Vitoriosa,14,PPPPSps,osjae
+LINS,42,Vitoriosa,15,pPPPPSP,ejjjb
+LINS,42,Vitoriosa,16,PpupupPPaa,ejjjjbe
+LINS,42,Vitoriosa,17,ApppPpPPapp,ejojobp
+LINS,43,Antes que seja tarde,1,uPppau,etnc
+LINS,43,Antes que seja tarde,2,Aaapu,tnc
+LINS,43,Antes que seja tarde,3,PPAS,tn
+LINS,43,Antes que seja tarde,4,uppApsu,jumc
+LINS,43,Antes que seja tarde,5,uuuupPu,gste
+LINS,43,Antes que seja tarde,6,AAApuu,gote
+LINS,43,Antes que seja tarde,7,PPAPpu,gote
+LINS,43,Antes que seja tarde,8,ppappp,gote
+LINS,43,Antes que seja tarde,9,uuupPu,gote
+LINS,43,Antes que seja tarde,10,AAApuu,gote
+LINS,43,Antes que seja tarde,11,PPAPpu,gote
+LINS,43,Antes que seja tarde,12,ppappp,gote
+LINS,44,Arlequim desconhecido,1,APu,ejb
+LINS,44,Arlequim desconhecido,2,APu,ejb
+LINS,44,Arlequim desconhecido,3,APuupap,ejbbbbb
+LINS,44,Arlequim desconhecido,4,APu,ejb
+LINS,44,Arlequim desconhecido,5,APu,ejb
+LINS,44,Arlequim desconhecido,6,APuuppu,ejbbbbb
+LINS,44,Arlequim desconhecido,7,uuuuuuuuPpua,fdkdkdkdbab
+LINS,44,Arlequim desconhecido,8,uuuuuuuuPpua,fdkdkdkdbab
+LINS,44,Arlequim desconhecido,9,uuuuuPpas,fdkdkdbb
+LINS,44,Arlequim desconhecido,10,uuuuuPpas,fdkdkdbb
+LINS,44,Arlequim desconhecido,11,uuuuuPpppaSp,fdkdkdkdbaaab
+LINS,45,Aparecida,1,upaau,banng
+LINS,45,Aparecida,2,SupPuupppas,gsslnab
+LINS,45,Aparecida,3,uuuuppp,gssb
+LINS,45,Aparecida,4,uuuupaa,fssb
+LINS,45,Aparecida,5,AuuuppAp,gssl
+LINS,45,Aparecida,6,AuuuaaS,gssb
+LINS,45,Aparecida,7,upaau,banng
+LINS,45,Aparecida,8,sPAaAu,baosg
+LINS,45,Aparecida,9,sAaAu,baasj
+LINS,45,Aparecida,10,PPPPPuu,orne
+LINS,45,Aparecida,11,puu,oj
+LINS,45,Aparecida,12,up,naab
+LINS,45,Aparecida,13,upaau,banng
+LINS,45,Aparecida,14,pupaau,gbanng
+LINS,46,Bonito,1,pppPpppaSppPpppaSppPpppPPAup,uvvvvvvj
+LINS,46,Bonito,2,pppPpppPpppPPPPsuPPPPPPpApp,uvvvvvvb
+LINS,46,Bonito,3,pppPpppPpppp,uvvj
+LINS,46,Bonito,4,uuuuuPPPPPAp,uvvl
+LINS,46,Bonito,5,AAApupupPPua,uvvl
+LINS,46,Bonito,6,ppApPpppPpppSpppAp,uvvtul
+LINS,46,Bonito,7,ppPaaaSaaaSu,uvvh
+LINS,46,Bonito,8,PPPpPPPpPPPu,uvvj
+LINS,46,Bonito,9,SaaaA,gvb
+LINS,46,Bonito,10,AaaaAapPSp,gvvl
+LINS,46,Bonito,11,SpPa,gleb
+LINS,46,Bonito,12,pppPpppPpppp,uvvl
+LINS,46,Bonito,13,pppPpppPPAup,uvvl
+LINS,46,Bonito,14,pppPpppPpppPPPPsuPPPPPPpApp,uvvvvvvb
+LINS,46,Bonito,15,pppaAPPPPPpp,uvvl
+LINS,46,Bonito,16,pPppaaSaaaAu,uvvl
+LINS,47,Camaleao,1,uuuaS,rnb
+LINS,47,Camaleao,2,uuuaPp,rnh
+LINS,47,Camaleao,3,uuuaSaa,rnbj
+LINS,47,Camaleao,4,uuuaS,rnb
+LINS,47,Camaleao,5,uuuaA,rnb
+LINS,47,Camaleao,6,uuuaSpu,rnbj
+LINS,48,Bandeira do divino,1,aaAuupp,jbbbebb
+LINS,48,Bandeira do divino,2,sPAupPa,jbbbebb
+LINS,48,Bandeira do divino,3,PPuuupp,jbbbebb
+LINS,48,Bandeira do divino,4,PPupaaAua,jbbbebbbab
+LINS,48,Bandeira do divino,5,aaAuupp,jbbbebb
+LINS,48,Bandeira do divino,6,sPAupPa,jbbbebb
+LINS,48,Bandeira do divino,7,PPuuupp,jbbbebb
+LINS,48,Bandeira do divino,8,PPupaaAua,jbbbebbbab
+LINS,49,Coragem mulher,1,uSupu,pmp
+LINS,49,Coragem mulher,2,uAuAup,mpme
+LINS,49,Coragem mulher,3,uSupu,ppp
+LINS,49,Coragem mulher,4,uAuSua,mpme
+LINS,49,Coragem mulher,5,uSupu,pmp
+LINS,49,Coragem mulher,6,PsASua,mpme
+LINS,49,Coragem mulher,7,uPupupppu,pmpmeb
+LINS,49,Coragem mulher,8,uA,ej
+LINS,49,Coragem mulher,9,pSp,ejab
+LINS,49,Coragem mulher,10,uSPa,ejaabb
+LINS,49,Coragem mulher,11,uA,ej
+LINS,49,Coragem mulher,12,pSp,ejab
+LINS,49,Coragem mulher,13,uSP,ejaab
+LINS,49,Coragem mulher,14,uSupu,pmp
+LINS,49,Coragem mulher,15,uAuAup,mpme
+LINS,49,Coragem mulher,16,uSupu,ppp
+LINS,49,Coragem mulher,17,uAuSuua,mpmj
+LINS,49,Coragem mulher,18,uSupu,pmp
+LINS,49,Coragem mulher,19,PsASua,mpme
+LINS,49,Coragem mulher,20,uSupu,pmp
+LINS,49,Coragem mulher,21,ppu,meb
+LINS,49,Coragem mulher,22,uA,ej
+LINS,49,Coragem mulher,23,pSp,ejab
+LINS,49,Coragem mulher,24,uSPa,ejaabb
+LINS,49,Coragem mulher,25,uA,ej
+LINS,49,Coragem mulher,26,pSp,ejab
+LINS,49,Coragem mulher,27,uSPa,ejaabb
+LINS,49,Coragem mulher,28,uA,ej
+LINS,49,Coragem mulher,29,pSp,ejab
+LINS,49,Coragem mulher,30,uSPa,ejaabb
+LINS,49,Coragem mulher,31,uA,ej
+LINS,49,Coragem mulher,32,pSp,ejab
+LINS,49,Coragem mulher,33,uS,ej
+LINS,50,Cartomante,1,AupPPs,jjbj
+LINS,50,Cartomante,2,upPP,ejbb
+LINS,50,Cartomante,3,AupPPs,jjbj
+LINS,50,Cartomante,4,upPP,ejbb
+LINS,50,Cartomante,5,AupPPs,jjbj
+LINS,50,Cartomante,6,upPP,ejbb
+LINS,50,Cartomante,7,AupPPs,jjbj
+LINS,50,Cartomante,8,upPP,ejbb
+LINS,50,Cartomante,9,sAAupP,jjbj
+LINS,50,Cartomante,10,AAup,ejbb
+LINS,50,Cartomante,11,sASupu,jjbj
+LINS,50,Cartomante,12,ASup,ejbb
+LINS,50,Cartomante,13,sAAupP,jjbj
+LINS,50,Cartomante,14,AAup,ejbb
+LINS,50,Cartomante,15,sASupu,jjbj
+LINS,50,Cartomante,16,PSupP,ejbbb
+LINS,50,Cartomante,17,AupPP,jjbb
+LINS,50,Cartomante,18,AupPP,jjbb
+LINS,50,Cartomante,19,AupP,jjb
+LINS,50,Cartomante,20,AupPP,eejbb
+LINS,50,Cartomante,21,AupPP,jjbb
+LINS,50,Cartomante,22,AupPP,jjbb
+LINS,50,Cartomante,23,AupP,jjb
+LINS,50,Cartomante,24,AupPP,eejbb

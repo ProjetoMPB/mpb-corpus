@@ -1,0 +1,796 @@
+corpus_id,composition_id,composition_name,word_index,c_word,r_word
+MILTON,1,A sede do peixe,1,uAPP,baaakeb
+MILTON,1,A sede do peixe,2,pup,eaej
+MILTON,1,A sede do peixe,3,PppP,ebaeeb
+MILTON,1,A sede do peixe,4,pa,eaaee
+MILTON,1,A sede do peixe,5,uAPP,baaakeb
+MILTON,1,A sede do peixe,6,pup,eaej
+MILTON,1,A sede do peixe,7,PppP,ebaeeb
+MILTON,1,A sede do peixe,8,pa,eabb
+MILTON,1,A sede do peixe,9,uAPPp,eaaaakdbab
+MILTON,1,A sede do peixe,10,paP,kdb
+MILTON,1,A sede do peixe,11,Ap,ej
+MILTON,1,A sede do peixe,12,AApa,eeebb
+MILTON,2,A terceira margem do rio,1,AuAuu,jjbb
+MILTON,2,A terceira margem do rio,2,uuuuuu,ejjj
+MILTON,2,A terceira margem do rio,3,AuAuu,jjbb
+MILTON,2,A terceira margem do rio,4,uupp,ejbb
+MILTON,2,A terceira margem do rio,5,AuAuu,jjbb
+MILTON,2,A terceira margem do rio,6,uuuuuu,ejjj
+MILTON,2,A terceira margem do rio,7,AuAuu,jjbb
+MILTON,2,A terceira margem do rio,8,uupp,ejbb
+MILTON,2,A terceira margem do rio,9,uuuuu,jjbb
+MILTON,2,A terceira margem do rio,10,uuaupu,ejjj
+MILTON,2,A terceira margem do rio,11,uuuuu,jjbb
+MILTON,2,A terceira margem do rio,12,uuPupu,ejjj
+MILTON,2,A terceira margem do rio,13,uuuuu,jjbb
+MILTON,2,A terceira margem do rio,14,uuaupPup,ejkdfabaaab
+MILTON,2,A terceira margem do rio,15,AuAAuu,jjjb
+MILTON,2,A terceira margem do rio,16,uuuPPp,ejkj
+MILTON,2,A terceira margem do rio,17,AuAAu,jjbb
+MILTON,2,A terceira margem do rio,18,uuuAup,ejjj
+MILTON,2,A terceira margem do rio,19,AuAA,jjb
+MILTON,2,A terceira margem do rio,20,puuuPPP,eejjj
+MILTON,2,A terceira margem do rio,21,AuAAuu,jjjb
+MILTON,2,A terceira margem do rio,22,uuPp,ejbb
+MILTON,2,A terceira margem do rio,23,uuuuu,jjbb
+MILTON,2,A terceira margem do rio,24,uuaupu,ejjj
+MILTON,2,A terceira margem do rio,25,uuuuu,jjbb
+MILTON,2,A terceira margem do rio,26,uuPupu,ejjj
+MILTON,2,A terceira margem do rio,27,uuuuu,jjbb
+MILTON,2,A terceira margem do rio,28,uuaupuPp,ejjjbaaab
+MILTON,2,A terceira margem do rio,29,uuuuu,jjbb
+MILTON,2,A terceira margem do rio,30,uuAupu,ejjj
+MILTON,2,A terceira margem do rio,31,uuuuu,jjbb
+MILTON,2,A terceira margem do rio,32,uuaupu,ejjj
+MILTON,2,A terceira margem do rio,33,uuuuu,jjbb
+MILTON,2,A terceira margem do rio,34,pPpupuu,eojjb
+MILTON,3,Amor amigo,1,uuPpa,oiafb
+MILTON,3,Amor amigo,2,uuuuSpP,fibjaai
+MILTON,3,Amor amigo,3,uuPpa,fso
+MILTON,3,Amor amigo,4,uuuuS,gsi
+MILTON,3,Amor amigo,5,uPpP,bjai
+MILTON,3,Amor amigo,6,uuuuuAap,goskb
+MILTON,3,Amor amigo,7,pPupPPpa,osio
+MILTON,3,Amor amigo,8,PuaP,esb
+MILTON,3,Amor amigo,9,aPPaa,jjeb
+MILTON,3,Amor amigo,10,uuuuuPpu,ossb
+MILTON,3,Amor amigo,11,uuPpuPpS,osin
+MILTON,4,Cais,1,puPuPu,oiob
+MILTON,4,Cais,2,PPa,kdb
+MILTON,4,Cais,3,PPapuAuAu,kdbebjaj
+MILTON,4,Cais,4,PPapuPuPu,ebddjkdb
+MILTON,4,Cais,5,PPa,ejb
+MILTON,4,Cais,6,PPa,ebee
+MILTON,4,Cais,7,PPppp,jeat
+MILTON,4,Cais,8,puPuPu,ojeeb
+MILTON,4,Cais,9,PPa,ejb
+MILTON,4,Cais,10,PPa,ebee
+MILTON,4,Cais,11,PPppp,jeat
+MILTON,5,Cancao amiga,1,uuAupu,jbbjb
+MILTON,5,Cancao amiga,2,uupuPupua,jjbjebb
+MILTON,5,Cancao amiga,3,uupPupup,jjebje
+MILTON,5,Cancao amiga,4,auAuPPuA,jjbbbbe
+MILTON,5,Cancao amiga,5,uAuuPpa,ejjebe
+MILTON,5,Cancao amiga,6,uuPppuap,jjbbbbb
+MILTON,5,Cancao amiga,7,uuPaPup,jjabbbb
+MILTON,5,Cancao amiga,8,uuauupuP,jbjjbb
+MILTON,5,Cancao amiga,9,uuPuPup,jjeebae
+MILTON,5,Cancao amiga,10,upuPpu,ejbbaj
+MILTON,5,Cancao amiga,11,uuPuPu,ejjeb
+MILTON,5,Cancao amiga,12,PuPuPua,eebjebb
+MILTON,5,Cancao amiga,13,uuPupup,jbjebb
+MILTON,5,Cancao amiga,14,uuuupuap,jjbjeb
+MILTON,5,Cancao amiga,15,PuauPup,jbjebb
+MILTON,5,Cancao amiga,16,SupuuuP,jbbbbbb
+MILTON,6,Catavento,1,PPPpppppp,prnjb
+MILTON,6,Catavento,2,upPP,nnb
+MILTON,6,Catavento,3,PPPpppppp,prnjb
+MILTON,6,Catavento,4,upPP,nnb
+MILTON,6,Catavento,5,PPauuPPau,prnjb
+MILTON,6,Catavento,6,SpPa,nnb
+MILTON,6,Catavento,7,PPauuPPau,prnjb
+MILTON,6,Catavento,8,SpPP,nnb
+MILTON,6,Catavento,9,PPPpppppP,prnjb
+MILTON,6,Catavento,10,Apuu,nnb
+MILTON,6,Catavento,11,PPPppp,prn
+MILTON,6,Catavento,12,PPPppp,prn
+MILTON,6,Catavento,13,PPPppp,prn
+MILTON,6,Catavento,14,pPP,gnb
+MILTON,7,Caxanga,1,uuuPp,rjaab
+MILTON,7,Caxanga,2,uuuPP,rjab
+MILTON,7,Caxanga,3,auppapPu,erjej
+MILTON,7,Caxanga,4,auppapPu,erjej
+MILTON,7,Caxanga,5,uuAPp,jjj
+MILTON,7,Caxanga,6,Apuuppu,jtmb
+MILTON,7,Caxanga,7,uuuupu,ejjj
+MILTON,7,Caxanga,8,uPPPp,jjj
+MILTON,7,Caxanga,9,AppAuppp,jtnj
+MILTON,7,Caxanga,10,Puupu,jjj
+MILTON,7,Caxanga,11,uPPPp,jjj
+MILTON,7,Caxanga,12,AppAuppp,jtnj
+MILTON,7,Caxanga,13,uPuuu,jjj
+MILTON,8,Clube da Esquina 2,1,PuAuupu,pnjj
+MILTON,8,Clube da Esquina 2,2,SupuPup,lnjj
+MILTON,8,Clube da Esquina 2,3,AuupuPp,lnjj
+MILTON,8,Clube da Esquina 2,4,PPaapP,pnt
+MILTON,8,Clube da Esquina 2,5,papPpP,ntm
+MILTON,8,Clube da Esquina 2,6,PpPpPpPpPpPpP,rtmrt
+MILTON,8,Clube da Esquina 2,7,Sps,babbb
+MILTON,8,Clube da Esquina 2,8,paA,bbbe
+MILTON,8,Clube da Esquina 2,9,u,be
+MILTON,9,Coracao civil,1,uuuuu,jbjb
+MILTON,9,Coracao civil,2,pauAa,ejbbb
+MILTON,9,Coracao civil,3,uuuuu,jbjb
+MILTON,9,Coracao civil,4,pauAa,ejbbb
+MILTON,9,Coracao civil,5,PPuupppuuuA,lbbjjbjb
+MILTON,9,Coracao civil,6,PPuuuppaAuu,jbjjjbbb
+MILTON,9,Coracao civil,7,uu,jb
+MILTON,9,Coracao civil,8,AuuupppPpuppp,grjjrnb
+MILTON,9,Coracao civil,9,uuu,rb
+MILTON,9,Coracao civil,10,AuuupppuPpuppp,grtntmb
+MILTON,9,Coracao civil,11,uuupuuuu,ttmb
+MILTON,9,Coracao civil,12,uuuupupp,pmtj
+MILTON,9,Coracao civil,13,PPuAuu,ttb
+MILTON,9,Coracao civil,14,auu,gmb
+MILTON,9,Coracao civil,15,uuuaAuu,ptlb
+MILTON,9,Coracao civil,16,uupPp,glmb
+MILTON,10,Credo,1,uuuuuu,jks
+MILTON,10,Credo,2,uauuup,ejjbb
+MILTON,10,Credo,3,uuuuuuuuuu,jjjjt
+MILTON,10,Credo,4,upP,es
+MILTON,10,Credo,5,p,bb
+MILTON,10,Credo,6,uuuuuu,jks
+MILTON,10,Credo,7,uauuuP,ejajbb
+MILTON,10,Credo,8,P,eb
+MILTON,10,Credo,9,puuuuuuuuuuau,ejjjjjjb
+MILTON,10,Credo,10,uuuuuuuauuupp,jjjjjjbb
+MILTON,10,Credo,11,uuuuuuuauuupp,jjjjjjbb
+MILTON,11,Crenca,1,AAAu,ebbbb
+MILTON,11,Crenca,2,Pp,eeab
+MILTON,11,Crenca,3,PAapppAPa,ejeeejbe
+MILTON,11,Crenca,4,pPA,ebj
+MILTON,11,Crenca,5,uup,kdb
+MILTON,11,Crenca,6,pPPppppu,oigoi
+MILTON,11,Crenca,7,AApPPu,ejaeebe
+MILTON,11,Crenca,8,AAApPP,jjeabb
+MILTON,11,Crenca,9,AAAuApa,ebbbbbbe
+MILTON,11,Crenca,10,aaSppP,kdbbbb
+MILTON,11,Crenca,11,ppuPaPpp,fdbebeje
+MILTON,11,Crenca,12,Ppu,idb
+MILTON,12,Danca dos meninos,1,ppupP,jjj
+MILTON,12,Danca dos meninos,2,upPPuP,jsm
+MILTON,12,Danca dos meninos,3,pupP,gjj
+MILTON,12,Danca dos meninos,4,upP,jj
+MILTON,12,Danca dos meninos,5,upP,jj
+MILTON,12,Danca dos meninos,6,pAupPpppp,okjkdb
+MILTON,12,Danca dos meninos,7,ppAppuAppuAa,jtjqjb
+MILTON,12,Danca dos meninos,8,pp,mb
+MILTON,12,Danca dos meninos,9,ApPPu,jqb
+MILTON,12,Danca dos meninos,10,PAu,qb
+MILTON,12,Danca dos meninos,11,PAuapuPAu,qqqb
+MILTON,12,Danca dos meninos,12,PAuuP,slb
+MILTON,12,Danca dos meninos,13,pupP,ejj
+MILTON,12,Danca dos meninos,14,upPA,teb
+MILTON,12,Danca dos meninos,15,paPupP,gjjj
+MILTON,12,Danca dos meninos,16,upP,jj
+MILTON,12,Danca dos meninos,17,upPupA,jjs
+MILTON,12,Danca dos meninos,18,pPpppp,ejkdb
+MILTON,12,Danca dos meninos,19,ppAppu,jtj
+MILTON,12,Danca dos meninos,20,ppuAa,qjb
+MILTON,12,Danca dos meninos,21,pp,mb
+MILTON,12,Danca dos meninos,22,ApPPu,jqb
+MILTON,12,Danca dos meninos,23,PAu,qb
+MILTON,12,Danca dos meninos,24,PAuapuPAu,qqqb
+MILTON,12,Danca dos meninos,25,PAuuP,slb
+MILTON,13,E dai,1,uuPPPppp,eeebbjaeb
+MILTON,13,E dai,2,Pp,bbaaab
+MILTON,13,E dai,3,ppupp,kdjb
+MILTON,13,E dai,4,uPuupuupp,jeajjob
+MILTON,13,E dai,5,uS,ej
+MILTON,13,E dai,6,uuaAPp,ejjabaab
+MILTON,13,E dai,7,uuPPPppp,jjjbaeb
+MILTON,13,E dai,8,uP,ej
+MILTON,13,E dai,9,upppp,bjjb
+MILTON,13,E dai,10,uuAu,ejeb
+MILTON,13,E dai,11,ppp,es
+MILTON,13,E dai,12,S,eb
+MILTON,13,E dai,13,uuaAP,kdjab
+MILTON,13,E dai,14,uu,kd
+MILTON,13,E dai,15,uuSP,ejbb
+MILTON,13,E dai,16,uu,ebb
+MILTON,13,E dai,17,uuSpp,eabjaaaeb
+MILTON,13,E dai,18,uuuuuup,ebbbbjaaab
+MILTON,13,E dai,19,uuuuu,ebkdb
+MILTON,13,E dai,20,pppp,eaaeabaaeb
+MILTON,14,Maria Maria,1,AuuuPpu,ejjej
+MILTON,14,Maria Maria,2,uuPps,ejej
+MILTON,14,Maria Maria,3,uuuup,ejej
+MILTON,14,Maria Maria,4,Aa,bbb
+MILTON,14,Maria Maria,5,uuuAPa,jjej
+MILTON,14,Maria Maria,6,uuuuP,ejej
+MILTON,14,Maria Maria,7,uupuu,ejej
+MILTON,14,Maria Maria,8,uppp,ejp
+MILTON,14,Maria Maria,9,uuuuuu,jjej
+MILTON,14,Maria Maria,10,uuuuu,ejej
+MILTON,14,Maria Maria,11,uuuup,ejej
+MILTON,14,Maria Maria,12,Aa,bbb
+MILTON,14,Maria Maria,13,uuuAPa,jjej
+MILTON,14,Maria Maria,14,uuuuP,ejej
+MILTON,14,Maria Maria,15,uupuu,ejej
+MILTON,14,Maria Maria,16,uppp,ejp
+MILTON,15,Maria tres filhos,1,uuSuAu,ntn
+MILTON,15,Maria tres filhos,2,uuSuAu,ntm
+MILTON,15,Maria tres filhos,3,PPppppp,nvh
+MILTON,15,Maria tres filhos,4,pppp,gnj
+MILTON,15,Maria tres filhos,5,pupu,tn
+MILTON,15,Maria tres filhos,6,uuSuAu,ntn
+MILTON,15,Maria tres filhos,7,uuSuAu,ntm
+MILTON,15,Maria tres filhos,8,PPppppp,nvh
+MILTON,15,Maria tres filhos,9,pppp,gnj
+MILTON,15,Maria tres filhos,10,pupu,tn
+MILTON,15,Maria tres filhos,11,uuuuuu,njjc
+MILTON,15,Maria tres filhos,12,suAPAAa,gjjt
+MILTON,15,Maria tres filhos,13,uuuuaAu,vjj
+MILTON,15,Maria tres filhos,14,uuuuaAP,vjj
+MILTON,16,Milagre dos peixes,1,uuuPPuuu,ejjbbbb
+MILTON,16,Milagre dos peixes,2,uAu,ejb
+MILTON,16,Milagre dos peixes,3,uuuPPuuu,ejjbbbb
+MILTON,16,Milagre dos peixes,4,uAu,ejb
+MILTON,16,Milagre dos peixes,5,uuup,ejbb
+MILTON,16,Milagre dos peixes,6,uuAuAup,jjjbb
+MILTON,16,Milagre dos peixes,7,uuAuAup,jjjbb
+MILTON,16,Milagre dos peixes,8,pup,bbabb
+MILTON,16,Milagre dos peixes,9,upu,bbbb
+MILTON,16,Milagre dos peixes,10,ppuuuAuAup,ejjjjbb
+MILTON,16,Milagre dos peixes,11,uuAuAup,jjjbb
+MILTON,16,Milagre dos peixes,12,pup,bbabb
+MILTON,16,Milagre dos peixes,13,upu,bbbb
+MILTON,16,Milagre dos peixes,14,uuuPppuuPP,bbbbbbbbbbb
+MILTON,16,Milagre dos peixes,15,uuuuPpPpup,ejbbbbbbbb
+MILTON,16,Milagre dos peixes,16,uuuuP,ejbbb
+MILTON,16,Milagre dos peixes,17,uuPup,ejbbb
+MILTON,16,Milagre dos peixes,18,uuuuP,ejbbb
+MILTON,16,Milagre dos peixes,19,PPuPa,bbbbbb
+MILTON,16,Milagre dos peixes,20,PPuPP,bbbbbb
+MILTON,16,Milagre dos peixes,21,uuu,ejb
+MILTON,17,Morro Velho,1,au,jb
+MILTON,17,Morro Velho,2,AApa,eibb
+MILTON,17,Morro Velho,3,uuuuA,ooi
+MILTON,17,Morro Velho,4,uuuPu,oio
+MILTON,17,Morro Velho,5,Sppppup,dsdebb
+MILTON,17,Morro Velho,6,uuuuAu,ssb
+MILTON,17,Morro Velho,7,uuuPu,oii
+MILTON,17,Morro Velho,8,Sppppau,eijebb
+MILTON,17,Morro Velho,9,ppppau,oeaobb
+MILTON,17,Morro Velho,10,Aupua,dsbab
+MILTON,17,Morro Velho,11,uAauuAa,eioib
+MILTON,17,Morro Velho,12,uAuauuuu,sjjeab
+MILTON,17,Morro Velho,13,uuAu,si
+MILTON,17,Morro Velho,14,pua,obb
+MILTON,17,Morro Velho,15,uuPaauuupua,ososbb
+MILTON,17,Morro Velho,16,u,db
+MILTON,17,Morro Velho,17,uupua,fsbb
+MILTON,17,Morro Velho,18,AuuPa,fsi
+MILTON,17,Morro Velho,19,uuupua,osbb
+MILTON,17,Morro Velho,20,apau,baaebee
+MILTON,17,Morro Velho,21,Aap,ebadb
+MILTON,17,Morro Velho,22,aAppp,beeaej
+MILTON,17,Morro Velho,23,App,eeaaaj
+MILTON,18,Nada sera como antes,1,uuPuupuuP,ejejeje
+MILTON,18,Nada sera como antes,2,uuPuuppu,ejejej
+MILTON,18,Nada sera como antes,3,APPuupppP,ejejejab
+MILTON,18,Nada sera como antes,4,Ps,bbb
+MILTON,18,Nada sera como antes,5,APPuu,ejej
+MILTON,18,Nada sera como antes,6,APP,eje
+MILTON,18,Nada sera como antes,7,APPuu,ejej
+MILTON,18,Nada sera como antes,8,AA,ej
+MILTON,18,Nada sera como antes,9,PPuuu,ejej
+MILTON,18,Nada sera como antes,10,pu,ej
+MILTON,18,Nada sera como antes,11,PPuuu,ejej
+MILTON,18,Nada sera como antes,12,pu,ej
+MILTON,18,Nada sera como antes,13,PPuuu,ejej
+MILTON,18,Nada sera como antes,14,upuup,ejej
+MILTON,18,Nada sera como antes,15,upu,ejae
+MILTON,19,Olha,1,SuuupAu,ejeeej
+MILTON,19,Olha,2,uppuuups,ejjeeeb
+MILTON,19,Olha,3,SuuuupSu,ejejej
+MILTON,19,Olha,4,upau,ebje
+MILTON,19,Olha,5,upa,ebj
+MILTON,19,Olha,6,Suuu,ebjb
+MILTON,19,Olha,7,auuPuauuPua,jejejeeeb
+MILTON,19,Olha,8,Suuupau,ejebbbb
+MILTON,19,Olha,9,upAu,kdi
+MILTON,19,Olha,10,upu,iai
+MILTON,20,Os povos,1,uuPpu,bbbbbab
+MILTON,20,Os povos,2,uPpu,jebe
+MILTON,20,Os povos,3,puu,ejab
+MILTON,20,Os povos,4,uA,ej
+MILTON,20,Os povos,5,uuPpu,eeaebeab
+MILTON,20,Os povos,6,uPp,ebj
+MILTON,20,Os povos,7,upuuuAu,ejbjj
+MILTON,20,Os povos,8,uuPpu,ejebe
+MILTON,20,Os povos,9,uPpu,jebb
+MILTON,20,Os povos,10,upuu,jjae
+MILTON,20,Os povos,11,Au,bj
+MILTON,20,Os povos,12,uuPpu,ejje
+MILTON,20,Os povos,13,uPAPPAPP,ejbebjaab
+MILTON,20,Os povos,14,,b
+MILTON,20,Os povos,15,up,je
+MILTON,20,Os povos,16,pupupP,ejejb
+MILTON,20,Os povos,17,upu,ebj
+MILTON,20,Os povos,18,up,je
+MILTON,20,Os povos,19,pP,ebb
+MILTON,20,Os povos,20,APPAPuP,ejkdk
+MILTON,20,Os povos,21,appP,dkdb
+MILTON,21,Outubro,1,uuSuaup,obsj
+MILTON,21,Outubro,2,puSu,si
+MILTON,21,Outubro,3,uuSuaup,okse
+MILTON,21,Outubro,4,puP,oj
+MILTON,21,Outubro,5,uuSuau,soi
+MILTON,21,Outubro,6,uuPupu,obsb
+MILTON,21,Outubro,7,upuP,ooe
+MILTON,21,Outubro,8,uuAupu,oboeb
+MILTON,21,Outubro,9,uuuuPu,oboo
+MILTON,21,Outubro,10,uuuu,febeb
+MILTON,21,Outubro,11,Pu,dj
+MILTON,21,Outubro,12,uuuuA,efsb
+MILTON,21,Outubro,13,pup,doae
+MILTON,21,Outubro,14,uuuAppup,sidbbd
+MILTON,21,Outubro,15,uuuSapP,iobajb
+MILTON,21,Outubro,16,uuuuA,baaaaebob
+MILTON,21,Outubro,17,pup,obb
+MILTON,21,Outubro,18,uuuA,os
+MILTON,21,Outubro,19,uup,obb
+MILTON,21,Outubro,20,uuuSapP,sidfd
+MILTON,22,Pieta,1,apapPAp,lanjl
+MILTON,22,Pieta,2,apapPSp,lanjl
+MILTON,22,Pieta,3,AaA,gjb
+MILTON,22,Pieta,4,AaA,gjb
+MILTON,22,Pieta,5,AaApapPu,gjrjb
+MILTON,22,Pieta,6,AaA,gjb
+MILTON,22,Pieta,7,AaA,gjb
+MILTON,22,Pieta,8,AaApapPu,gjrjb
+MILTON,22,Pieta,9,apapPAp,lanjl
+MILTON,22,Pieta,10,apapPSp,lanjl
+MILTON,22,Pieta,11,AaA,gjb
+MILTON,22,Pieta,12,AaA,gjb
+MILTON,22,Pieta,13,AapuuuaA,gjrjb
+MILTON,22,Pieta,14,AaA,gjb
+MILTON,22,Pieta,15,AaA,gjb
+MILTON,22,Pieta,16,AaApapPu,gjrjb
+MILTON,22,Pieta,17,PPuuupp,jrjb
+MILTON,22,Pieta,18,pSpapP,jrj
+MILTON,22,Pieta,19,PPuuupp,jrjb
+MILTON,22,Pieta,20,pSpapPu,jrjb
+MILTON,22,Pieta,21,PPuuupp,jrjb
+MILTON,22,Pieta,22,pSpapP,jrj
+MILTON,22,Pieta,23,PPuuupp,jrjb
+MILTON,22,Pieta,24,pSpapP,jrj
+MILTON,23,Primeiro de maio,1,sPPPPPup,babfbfbfk
+MILTON,23,Primeiro de maio,2,PPpppSp,okaobb
+MILTON,23,Primeiro de maio,3,PPPPPAp,obffbbf
+MILTON,23,Primeiro de maio,4,pp,s
+MILTON,23,Primeiro de maio,5,ppAp,oif
+MILTON,23,Primeiro de maio,6,pAppPa,okbdf
+MILTON,23,Primeiro de maio,7,uPP,sb
+MILTON,23,Primeiro de maio,8,auuPP,sbfb
+MILTON,23,Primeiro de maio,9,pPp,fs
+MILTON,23,Primeiro de maio,10,PPppua,obbbbb
+MILTON,23,Primeiro de maio,11,sPP,babfb
+MILTON,23,Primeiro de maio,12,AAP,dkb
+MILTON,23,Primeiro de maio,13,sPPP,babbbb
+MILTON,23,Primeiro de maio,14,Au,ffd
+MILTON,23,Primeiro de maio,15,p,bab
+MILTON,23,Primeiro de maio,16,pppp,baffi
+MILTON,23,Primeiro de maio,17,Pppp,kod
+MILTON,23,Primeiro de maio,18,pAppP,fidbb
+MILTON,23,Primeiro de maio,19,uauPP,fkffb
+MILTON,23,Primeiro de maio,20,auPPP,ffbfbb
+MILTON,23,Primeiro de maio,21,Ppa,obf
+MILTON,23,Primeiro de maio,22,Pppua,fbbbbb
+MILTON,24,Rio vermelho,1,pPpaa,ejjb
+MILTON,24,Rio vermelho,2,AAPp,jebe
+MILTON,24,Rio vermelho,3,uuuuP,ejej
+MILTON,24,Rio vermelho,4,aaPPAa,ebjebb
+MILTON,24,Rio vermelho,5,uuP,eej
+MILTON,24,Rio vermelho,6,puuPa,ebjeb
+MILTON,24,Rio vermelho,7,uuA,eebb
+MILTON,24,Rio vermelho,8,uuuuP,ejej
+MILTON,24,Rio vermelho,9,uAap,ebje
+MILTON,24,Rio vermelho,10,upuua,ejej
+MILTON,24,Rio vermelho,11,upAauu,ebjeeb
+MILTON,24,Rio vermelho,12,PAuuuPu,eejejb
+MILTON,24,Rio vermelho,13,A,ee
+MILTON,24,Rio vermelho,14,PAuuuuuP,eejejee
+MILTON,24,Rio vermelho,15,uuuPauPap,ebjejje
+MILTON,24,Rio vermelho,16,uuupAa,eeidj
+MILTON,24,Rio vermelho,17,uuuup,ekdbb
+MILTON,24,Rio vermelho,18,PAuuuP,fdkdbb
+MILTON,25,River Phoenix,1,ppPPpaP,ejjeeb
+MILTON,25,River Phoenix,2,ppPPpaA,sbbeeb
+MILTON,25,River Phoenix,3,ppPPppSppp,sjejaob
+MILTON,25,River Phoenix,4,ppPPppS,fseob
+MILTON,25,River Phoenix,5,uuuPuPuupp,kdjjbabj
+MILTON,25,River Phoenix,6,uuuuPuPup,eojojaaab
+MILTON,25,River Phoenix,7,ppPPpaPu,ejjeebab
+MILTON,25,River Phoenix,8,ppPPpaA,ejjbbb
+MILTON,25,River Phoenix,9,ppPPpaPA,ebsbebe
+MILTON,25,River Phoenix,10,PPPPPPp,ejjjb
+MILTON,25,River Phoenix,11,PpApppuSp,ebjjebbab
+MILTON,25,River Phoenix,12,PpAupuppP,ejjbebbb
+MILTON,26,Roupa nova,1,uuua,jje
+MILTON,26,Roupa nova,2,Spp,bbbb
+MILTON,26,Roupa nova,3,uuua,jje
+MILTON,26,Roupa nova,4,SppP,bbbbb
+MILTON,26,Roupa nova,5,uuua,jje
+MILTON,26,Roupa nova,6,SppP,bbbbb
+MILTON,26,Roupa nova,7,uuu,jj
+MILTON,26,Roupa nova,8,uppp,ebbbb
+MILTON,26,Roupa nova,9,uuua,jje
+MILTON,26,Roupa nova,10,Spp,bbbb
+MILTON,26,Roupa nova,11,uuua,jje
+MILTON,26,Roupa nova,12,SppP,bbbbb
+MILTON,26,Roupa nova,13,uuua,jje
+MILTON,26,Roupa nova,14,SppP,bbbbb
+MILTON,26,Roupa nova,15,uuu,jj
+MILTON,26,Roupa nova,16,uppp,ebbbb
+MILTON,26,Roupa nova,17,uuup,jje
+MILTON,26,Roupa nova,18,upuu,jej
+MILTON,26,Roupa nova,19,uuupu,jjeb
+MILTON,26,Roupa nova,20,puu,bbbb
+MILTON,26,Roupa nova,21,puuu,jje
+MILTON,26,Roupa nova,22,Ppp,bbbb
+MILTON,26,Roupa nova,23,uuu,jj
+MILTON,26,Roupa nova,24,auuuppp,ebjjeb
+MILTON,27,Saudades dos avioes da Panair,1,uuuu,jjb
+MILTON,27,Saudades dos avioes da Panair,2,uuuuuppu,jjtj
+MILTON,27,Saudades dos avioes da Panair,3,uuuu,jjb
+MILTON,27,Saudades dos avioes da Panair,4,uuuuuppu,jjtj
+MILTON,27,Saudades dos avioes da Panair,5,uuuu,jjb
+MILTON,27,Saudades dos avioes da Panair,6,Suuuuppp,jjtj
+MILTON,27,Saudades dos avioes da Panair,7,uuuuppau,jjlje
+MILTON,27,Saudades dos avioes da Panair,8,uuuppa,ejlj
+MILTON,27,Saudades dos avioes da Panair,9,Puupu,ejjb
+MILTON,27,Saudades dos avioes da Panair,10,puPp,bjbb
+MILTON,27,Saudades dos avioes da Panair,11,PpupuPp,ejbjbb
+MILTON,27,Saudades dos avioes da Panair,12,PpApuPp,ejbjbb
+MILTON,27,Saudades dos avioes da Panair,13,Ppu,ejb
+MILTON,27,Saudades dos avioes da Panair,14,uuuppu,jjebb
+MILTON,27,Saudades dos avioes da Panair,15,Aupa,ejbb
+MILTON,27,Saudades dos avioes da Panair,16,uuAup,jjeb
+MILTON,28,Tarde,1,AP,ej
+MILTON,28,Tarde,2,Ppu,sb
+MILTON,28,Tarde,3,PppP,esb
+MILTON,28,Tarde,4,pu,eeb
+MILTON,28,Tarde,5,PppPPpu,esbeaeb
+MILTON,28,Tarde,6,PpPa,esb
+MILTON,28,Tarde,7,pu,eeb
+MILTON,28,Tarde,8,Ppu,baeeb
+MILTON,28,Tarde,9,PppP,esb
+MILTON,28,Tarde,10,pu,eeb
+MILTON,28,Tarde,11,PppA,esb
+MILTON,28,Tarde,12,pu,eeb
+MILTON,28,Tarde,13,PppP,ojb
+MILTON,28,Tarde,14,Ppu,jdb
+MILTON,28,Tarde,15,PppP,esb
+MILTON,28,Tarde,16,pu,eeb
+MILTON,28,Tarde,17,PpPaASu,esbbbaaaae
+MILTON,28,Tarde,18,uPppP,kbu
+MILTON,28,Tarde,19,APuPp,ubeb
+MILTON,28,Tarde,20,PpppPp,ekdbaaeb
+MILTON,28,Tarde,21,p,eb
+MILTON,29,Tema de Tostao,1,uu,je
+MILTON,29,Tema de Tostao,2,uuu,ebbb
+MILTON,29,Tema de Tostao,3,uu,je
+MILTON,29,Tema de Tostao,4,uuu,ebbb
+MILTON,29,Tema de Tostao,5,uu,je
+MILTON,29,Tema de Tostao,6,Suuup,ebbbbb
+MILTON,29,Tema de Tostao,7,p,baab
+MILTON,29,Tema de Tostao,8,uuu,jeb
+MILTON,29,Tema de Tostao,9,uuap,bbbbaab
+MILTON,29,Tema de Tostao,10,uu,je
+MILTON,29,Tema de Tostao,11,Puu,ebbb
+MILTON,29,Tema de Tostao,12,uu,je
+MILTON,29,Tema de Tostao,13,Puu,ebbb
+MILTON,29,Tema de Tostao,14,uu,je
+MILTON,29,Tema de Tostao,15,Puu,ebbb
+MILTON,29,Tema de Tostao,16,uu,je
+MILTON,29,Tema de Tostao,17,Puuup,ebbbbb
+MILTON,30,Travessia,1,usSuPuP,eejajbe
+MILTON,30,Travessia,2,paAuua,jbjaj
+MILTON,30,Travessia,3,usSuAuP,ejebje
+MILTON,30,Travessia,4,pauAua,jbeeaj
+MILTON,30,Travessia,5,SuAuPu,ejajeb
+MILTON,30,Travessia,6,Pppa,jaej
+MILTON,30,Travessia,7,Aau,jeb
+MILTON,30,Travessia,8,pa,ej
+MILTON,30,Travessia,9,Spau,jajab
+MILTON,30,Travessia,10,puAppu,ejajeb
+MILTON,30,Travessia,11,Su,ej
+MILTON,30,Travessia,12,pAp,obab
+MILTON,30,Travessia,13,pppaS,ejej
+MILTON,30,Travessia,14,ppAAAp,ejecbae
+MILTON,30,Travessia,15,pauPa,bebje
+MILTON,30,Travessia,16,Su,beb
+MILTON,30,Travessia,17,pAp,obe
+MILTON,30,Travessia,18,pppaS,eaaebjb
+MILTON,30,Travessia,19,ppAAAp,ejecbae
+MILTON,30,Travessia,20,pappu,bebabj
+MILTON,31,Tres Pontas,1,pPPap,bbeebe
+MILTON,31,Tres Pontas,2,aPp,eebb
+MILTON,31,Tres Pontas,3,AaAPAP,leebeb
+MILTON,31,Tres Pontas,4,u,j
+MILTON,31,Tres Pontas,5,pPPap,bakdbe
+MILTON,31,Tres Pontas,6,aPp,lee
+MILTON,31,Tres Pontas,7,AaAPAP,ekdkd
+MILTON,31,Tres Pontas,8,P,eb
+MILTON,31,Tres Pontas,9,ApPpaaa,jbakdbe
+MILTON,31,Tres Pontas,10,AAPpPPp,jbakdbe
+MILTON,31,Tres Pontas,11,uuu,es
+MILTON,31,Tres Pontas,12,APPpPPp,ekakdbe
+MILTON,31,Tres Pontas,13,pPpPPPp,eebjebe
+MILTON,31,Tres Pontas,14,pu,je
+MILTON,31,Tres Pontas,15,p,eb
+MILTON,32,Tristesse,1,ppuppPs,bbbbabbabb
+MILTON,32,Tristesse,2,ppSppaPu,bbbbabkabb
+MILTON,32,Tristesse,3,ppSupupuP,bbbkabbabbe
+MILTON,32,Tristesse,4,paApa,bbbbabb
+MILTON,32,Tristesse,5,uuuuu,jeebb
+MILTON,32,Tristesse,6,uuuppP,jjeeb
+MILTON,32,Tristesse,7,uupAu,jeebb
+MILTON,32,Tristesse,8,puuupAp,jjeebe
+MILTON,32,Tristesse,9,paApa,bbbbabb
+MILTON,33,Um gosto de sol,1,uAuuPuu,jesbb
+MILTON,33,Um gosto de sol,2,upupPuu,eejejaab
+MILTON,33,Um gosto de sol,3,upupPuu,ebebeje
+MILTON,33,Um gosto de sol,4,upupPuu,ejbjeab
+MILTON,33,Um gosto de sol,5,upupPuu,ejbjeab
+MILTON,33,Um gosto de sol,6,upupPuu,ebebajbb
+MILTON,33,Um gosto de sol,7,upupPuu,ejbjbb
+MILTON,33,Um gosto de sol,8,uupuupPu,jjbjbb
+MILTON,33,Um gosto de sol,9,upupPuu,ebaaaaajejab
+MILTON,33,Um gosto de sol,10,upuppuu,ebejje
+MILTON,34,Vera Cruz,1,PpppPP,baabbbbbb
+MILTON,34,Vera Cruz,2,ppPPu,bbbbbb
+MILTON,34,Vera Cruz,3,pppPu,bbakdb
+MILTON,34,Vera Cruz,4,pppPP,bbbbbb
+MILTON,34,Vera Cruz,5,pppPP,ebakdb
+MILTON,34,Vera Cruz,6,ppppP,bbbbbb
+MILTON,34,Vera Cruz,7,uuPuPuPup,sejjj
+MILTON,34,Vera Cruz,8,pp,ob
+MILTON,34,Vera Cruz,9,upuuu,esj
+MILTON,34,Vera Cruz,10,uAuPu,ejjb
+MILTON,34,Vera Cruz,11,paaAP,ejjb
+MILTON,34,Vera Cruz,12,paaAP,ebsb
+MILTON,35,Vida,1,Sp,bbaab
+MILTON,35,Vida,2,ppAp,ofbe
+MILTON,35,Vida,3,upAp,ooab
+MILTON,35,Vida,4,Ps,eeab
+MILTON,35,Vida,5,uSp,obe
+MILTON,35,Vida,6,puuup,eeajbd
+MILTON,35,Vida,7,pA,jb
+MILTON,35,Vida,8,ppP,jaeb
+MILTON,35,Vida,9,pAuuPPpa,ebbebbkab
+MILTON,35,Vida,10,AuuPPp,eeaeebde
+MILTON,35,Vida,11,uuuuppAu,ebaaobobaab
+MILTON,35,Vida,12,Pp,ebb
+MILTON,35,Vida,13,aAPpP,ebbbabab
+MILTON,36,Vidro e corte,1,uuPuPus,jjjbb
+MILTON,36,Vidro e corte,2,uusSuuPp,jbbjjb
+MILTON,36,Vidro e corte,3,uuPuPuppp,jjjlh
+MILTON,36,Vidro e corte,4,uusSuuP,obbjbb
+MILTON,36,Vidro e corte,5,Puuuuup,jjjbb
+MILTON,36,Vidro e corte,6,AupaAu,jbbjb
+MILTON,36,Vidro e corte,7,ppPuuPuPuppp,ujjjtb
+MILTON,36,Vidro e corte,8,PupppPPu,otbjb
+MILTON,36,Vidro e corte,9,uuPuPus,jjjbb
+MILTON,36,Vidro e corte,10,uus,jbb
+MILTON,36,Vidro e corte,11,uuP,jbb
+MILTON,36,Vidro e corte,12,Auuupup,jjjbb
+MILTON,36,Vidro e corte,13,APauSup,jbbjbb
+MILTON,36,Vidro e corte,14,AupupupA,jjjjb
+MILTON,36,Vidro e corte,15,ppsSpp,obbkb
+MILTON,36,Vidro e corte,16,Apua,jjb
+MILTON,36,Vidro e corte,17,Apua,jjb
+MILTON,36,Vidro e corte,18,Aupp,jjb
+MILTON,36,Vidro e corte,19,AuPuPp,jjjab
+MILTON,37,Pelo amor de Deus,1,uuuuapu,jqebb
+MILTON,37,Pelo amor de Deus,2,AuAAuuuuapu,sjbjjbb
+MILTON,37,Pelo amor de Deus,3,AAAPu,esj
+MILTON,37,Pelo amor de Deus,4,PPpA,qp
+MILTON,37,Pelo amor de Deus,5,PpPp,jpe
+MILTON,37,Pelo amor de Deus,6,upPpuau,ggbtm
+MILTON,37,Pelo amor de Deus,7,uuuuapu,jqebb
+MILTON,37,Pelo amor de Deus,8,AuAAuuuuapu,sjbjjbb
+MILTON,37,Pelo amor de Deus,9,AAAPu,esj
+MILTON,37,Pelo amor de Deus,10,PPpAuupP,jobbbj
+MILTON,37,Pelo amor de Deus,11,PpPpPpP,bbegrb
+MILTON,37,Pelo amor de Deus,12,pPpP,ghm
+MILTON,37,Pelo amor de Deus,13,pPpP,grb
+MILTON,38,Cravo e canela,1,puuuSup,lrjb
+MILTON,38,Cravo e canela,2,Aupupu,grjb
+MILTON,38,Cravo e canela,3,Aupup,grj
+MILTON,38,Cravo e canela,4,puuuSup,lrjb
+MILTON,38,Cravo e canela,5,Aupupu,grjb
+MILTON,38,Cravo e canela,6,Aupup,grj
+MILTON,38,Cravo e canela,7,uupPu,grh
+MILTON,38,Cravo e canela,8,Auppu,grh
+MILTON,38,Cravo e canela,9,Auppp,grh
+MILTON,38,Cravo e canela,10,uPuuu,grj
+MILTON,38,Cravo e canela,11,uupPu,grh
+MILTON,38,Cravo e canela,12,Auppu,grh
+MILTON,38,Cravo e canela,13,Auppp,grh
+MILTON,38,Cravo e canela,14,uPuuu,grj
+MILTON,39,Saidas e bandeiras,1,Auuuup,ejjj
+MILTON,39,Saidas e bandeiras,2,pSuuuupp,jjjbbb
+MILTON,39,Saidas e bandeiras,3,Auuuup,ejjj
+MILTON,39,Saidas e bandeiras,4,pSuuuP,jjjb
+MILTON,39,Saidas e bandeiras,5,uuAPuuuup,jjjjbb
+MILTON,39,Saidas e bandeiras,6,ppppPuuuuppa,bjjjjbbj
+MILTON,40,San Vicente,1,uuPuPupa,jjjlb
+MILTON,40,San Vicente,2,uupuPuPp,mbjjj
+MILTON,40,San Vicente,3,Auupup,ejjbb
+MILTON,40,San Vicente,4,pupupupP,mbjcq
+MILTON,40,San Vicente,5,Puupupp,ejjebb
+MILTON,40,San Vicente,6,PPpppaP,jbjcbb
+MILTON,40,San Vicente,7,uuAuupp,jjjbb
+MILTON,40,San Vicente,8,pupppaP,jbjebb
+MILTON,41,A lagrima e o rio,1,pPupP,osb
+MILTON,41,A lagrima e o rio,2,pppuPP,sjeb
+MILTON,41,A lagrima e o rio,3,pPupP,osb
+MILTON,41,A lagrima e o rio,4,pppPP,sbeb
+MILTON,41,A lagrima e o rio,5,uPPp,sk
+MILTON,41,A lagrima e o rio,6,ppppA,fokb
+MILTON,41,A lagrima e o rio,7,uuPPP,esi
+MILTON,41,A lagrima e o rio,8,Apau,os
+MILTON,41,A lagrima e o rio,9,pPupPu,osj
+MILTON,41,A lagrima e o rio,10,pppPP,sbeb
+MILTON,41,A lagrima e o rio,11,pPupP,osb
+MILTON,41,A lagrima e o rio,12,ppppp,ss
+MILTON,41,A lagrima e o rio,13,uPPpp,fos
+MILTON,41,A lagrima e o rio,14,SupPpP,ejoi
+MILTON,41,A lagrima e o rio,15,suPPPPPP,fsiob
+MILTON,41,A lagrima e o rio,16,AuPpppppP,esus
+MILTON,41,A lagrima e o rio,17,Pa,ob
+MILTON,41,A lagrima e o rio,18,PPPPAppp,ovs
+MILTON,41,A lagrima e o rio,19,uuSppP,ses
+MILTON,41,A lagrima e o rio,20,uPPAppP,eskeb
+MILTON,42,Ao que vai nascer,1,uuAuPup,odoebe
+MILTON,42,Ao que vai nascer,2,uuPu,ejj
+MILTON,42,Ao que vai nascer,3,uauu,jej
+MILTON,42,Ao que vai nascer,4,uuuPuuauu,ejbjjj
+MILTON,42,Ao que vai nascer,5,Auuuu,ook
+MILTON,42,Ao que vai nascer,6,uuuupPPP,oejeej
+MILTON,42,Ao que vai nascer,7,Pppupu,ebeabeeb
+MILTON,42,Ao que vai nascer,8,uuuupuuu,essi
+MILTON,42,Ao que vai nascer,9,uuuuSs,osj
+MILTON,42,Ao que vai nascer,10,uuuuA,ojj
+MILTON,42,Ao que vai nascer,11,uuuuupu,uis
+MILTON,42,Ao que vai nascer,12,uuuuS,ojeb
+MILTON,42,Ao que vai nascer,13,uuuA,oob
+MILTON,42,Ao que vai nascer,14,Puupu,esj
+MILTON,42,Ao que vai nascer,15,uuuSu,esj
+MILTON,42,Ao que vai nascer,16,uPpup,ejjae
+MILTON,42,Ao que vai nascer,17,PpuuPpu,esoi
+MILTON,42,Ao que vai nascer,18,upu,es
+MILTON,42,Ao que vai nascer,19,uuPpup,ejbjab
+MILTON,42,Ao que vai nascer,20,PpuP,ejj
+MILTON,42,Ao que vai nascer,21,puPupu,osi
+MILTON,43,Cade,1,APPAA,ejje
+MILTON,43,Cade,2,pp,q
+MILTON,43,Cade,3,APPAA,ejje
+MILTON,43,Cade,4,pp,q
+MILTON,43,Cade,5,uuuuAp,jjje
+MILTON,43,Cade,6,uup,eebb
+MILTON,43,Cade,7,uuuuAp,jjje
+MILTON,43,Cade,8,uuuupu,jjje
+MILTON,43,Cade,9,uup,eebb
+MILTON,43,Cade,10,uuuA,jjb
+MILTON,43,Cade,11,PP,je
+MILTON,44,Coisas de Minas,1,Ppap,baajgb
+MILTON,44,Coisas de Minas,2,aAap,baajgb
+MILTON,44,Coisas de Minas,3,uuuppsu,rrh
+MILTON,44,Coisas de Minas,4,Suuuupp,grrb
+MILTON,44,Coisas de Minas,5,uuuuupp,rrh
+MILTON,44,Coisas de Minas,6,uuuAuuuupp,grrrb
+MILTON,44,Coisas de Minas,7,uuu,eob
+MILTON,44,Coisas de Minas,8,Pua,oeae
+MILTON,44,Coisas de Minas,9,uuuAAP,fojeb
+MILTON,44,Coisas de Minas,10,uuuPAP,eoij
+MILTON,44,Coisas de Minas,11,AuuuuPp,bajejbb
+MILTON,44,Coisas de Minas,12,ap,ej
+MILTON,44,Coisas de Minas,13,uuuaAaAaAuaAuuP,jjjjrjjb
+MILTON,44,Coisas de Minas,14,puuuaAaAaAua,rjjjrb
+MILTON,44,Coisas de Minas,15,uPuupuu,jjrb
+MILTON,44,Coisas de Minas,16,SuuPpuuP,jjrj
+MILTON,44,Coisas de Minas,17,SuuP,kob
+MILTON,44,Coisas de Minas,18,aAaAaAaAa,ejjjjb
+MILTON,44,Coisas de Minas,19,uuuuPP,ejjj
+MILTON,45,O cavaleiro,1,uuSp,jebb
+MILTON,45,O cavaleiro,2,AaAap,jjj
+MILTON,45,O cavaleiro,3,uuSp,jebb
+MILTON,45,O cavaleiro,4,AaAap,jjj
+MILTON,45,O cavaleiro,5,uuSp,jebb
+MILTON,45,O cavaleiro,6,AuuuP,jjj
+MILTON,45,O cavaleiro,7,ausA,jebb
+MILTON,45,O cavaleiro,8,Pu,eeb
+MILTON,45,O cavaleiro,9,uuSp,jebb
+MILTON,45,O cavaleiro,10,AaAap,jjj
+MILTON,45,O cavaleiro,11,uuSp,jebb
+MILTON,45,O cavaleiro,12,PpPpp,jjj
+MILTON,45,O cavaleiro,13,uuSp,jebb
+MILTON,45,O cavaleiro,14,Auppu,jjj
+MILTON,45,O cavaleiro,15,Puap,jebb
+MILTON,45,O cavaleiro,16,AuupA,jjbb
+MILTON,45,O cavaleiro,17,aAap,ejbb
+MILTON,45,O cavaleiro,18,AuupA,jjbb
+MILTON,45,O cavaleiro,19,aAap,ejbb
+MILTON,45,O cavaleiro,20,Ap,beab
+MILTON,45,O cavaleiro,21,aAaa,ejbb
+MILTON,45,O cavaleiro,22,auApp,jebaaaeb
+MILTON,46,Estrelada,1,Spp,bbbe
+MILTON,46,Estrelada,2,upu,ejb
+MILTON,46,Estrelada,3,Aap,eebe
+MILTON,46,Estrelada,4,upu,ejb
+MILTON,46,Estrelada,5,App,eebe
+MILTON,46,Estrelada,6,upu,ejb
+MILTON,46,Estrelada,7,AapA,jabj
+MILTON,46,Estrelada,8,uppp,ejbe
+MILTON,46,Estrelada,9,Apu,bbbb
+MILTON,46,Estrelada,10,upau,ejbb
+MILTON,46,Estrelada,11,Apu,ecbe
+MILTON,46,Estrelada,12,upu,ejb
+MILTON,46,Estrelada,13,App,bbbe
+MILTON,46,Estrelada,14,upua,ejbb
+MILTON,46,Estrelada,15,aPu,ecbe
+MILTON,46,Estrelada,16,upu,ejb
+MILTON,47,Gira girou,1,APuAPp,jbeiab
+MILTON,47,Gira girou,2,PaaAp,eejbb
+MILTON,47,Gira girou,3,pppap,bbaobb
+MILTON,47,Gira girou,4,AAp,ok
+MILTON,47,Gira girou,5,ApPP,jbaabb
+MILTON,47,Gira girou,6,Pppu,jbeb
+MILTON,47,Gira girou,7,ApPppup,ebaaaajbej
+MILTON,47,Gira girou,8,pPpppup,baaejagajb
+MILTON,47,Gira girou,9,upP,lo
+MILTON,47,Gira girou,10,uppuupP,grjj
+MILTON,47,Gira girou,11,PppaupP,njjj
+MILTON,47,Gira girou,12,uupuupPupu,grjjnb
+MILTON,48,Leila,1,u,bb
+MILTON,48,Leila,2,uuupPSP,jjbbbb
+MILTON,48,Leila,3,PpPpPpP,jjbbbb
+MILTON,48,Leila,4,PpPpPuP,jjbbbb
+MILTON,48,Leila,5,PpPpPuP,jjbebb
+MILTON,48,Leila,6,PpPpPaP,jjbbbb
+MILTON,48,Leila,7,PpPpPPP,jjbbbb
+MILTON,48,Leila,8,PpPppPP,jjbbbb
+MILTON,48,Leila,9,PpPpP,jjbb
+MILTON,49,Lilia,1,uPu,eej
+MILTON,49,Lilia,2,uuuu,eeje
+MILTON,49,Lilia,3,uuuu,eeej
+MILTON,49,Lilia,4,uuupPpp,eeeeqb
+MILTON,49,Lilia,5,uuAu,eeej
+MILTON,49,Lilia,6,upu,eje
+MILTON,49,Lilia,7,Auuppu,ejeje
+MILTON,49,Lilia,8,Auuup,ejej
+MILTON,49,Lilia,9,pA,ebab
+MILTON,49,Lilia,10,uuuu,eeej
+MILTON,49,Lilia,11,ppu,eje
+MILTON,49,Lilia,12,Aupp,ejeb
+MILTON,49,Lilia,13,uPu,eej
+MILTON,49,Lilia,14,uuu,eje
+MILTON,49,Lilia,15,uuuuu,eeeje
+MILTON,49,Lilia,16,uuu,eeeb
+MILTON,50,Novena,1,PuPpp,beaaeabaaaeb
+MILTON,50,Novena,2,PuP,beaaeab
+MILTON,50,Novena,3,ppppP,beabeabe
+MILTON,50,Novena,4,PpPpPa,beabaabbeb
+MILTON,50,Novena,5,PAp,geagaab
+MILTON,50,Novena,6,PAp,beaeab
+MILTON,50,Novena,7,pupApup,bjeeje
+MILTON,50,Novena,8,pupApup,bjeeje
+MILTON,50,Novena,9,pupA,bjeb
+MILTON,50,Novena,10,upup,ebebe
+MILTON,50,Novena,11,p,be
+MILTON,50,Novena,12,p,be

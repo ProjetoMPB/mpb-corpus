@@ -1,0 +1,1574 @@
+corpus_id,composition_id,composition_name,mode,note_index,scale_degree,note_function
+LINS,2,A noite,major,1,5,1
+LINS,2,A noite,major,2,5,5
+LINS,2,A noite,major,3,4,x
+LINS,2,A noite,major,4,3,3
+LINS,2,A noite,major,5,2,x
+LINS,2,A noite,major,6,1,1
+LINS,2,A noite,major,7,5,9
+LINS,2,A noite,major,8,6,3
+LINS,2,A noite,major,9,4,7
+LINS,2,A noite,major,10,3,13
+LINS,2,A noite,major,11,2,x
+LINS,2,A noite,major,12,1,5
+LINS,2,A noite,major,13,5,9
+LINS,2,A noite,major,14,#5/b6,3
+LINS,2,A noite,major,15,4,1
+LINS,2,A noite,major,16,#2/b3,7
+LINS,2,A noite,major,17,2,x
+LINS,2,A noite,major,18,1,5
+LINS,2,A noite,major,19,5,9
+LINS,2,A noite,major,20,#5/b6,3
+LINS,2,A noite,major,21,4,1
+LINS,2,A noite,major,22,#2/b3,7
+LINS,2,A noite,major,23,2,x
+LINS,2,A noite,major,24,1,5
+LINS,2,A noite,major,25,4,5
+LINS,2,A noite,major,26,5,6
+LINS,2,A noite,major,27,#2/b3,1
+LINS,2,A noite,major,28,#1/b2,7
+LINS,2,A noite,major,29,1,x
+LINS,2,A noite,major,30,#6/b7,5
+LINS,2,A noite,major,31,4,3
+LINS,2,A noite,major,32,5,11
+LINS,2,A noite,major,33,3,13
+LINS,2,A noite,major,34,2,5
+LINS,2,A noite,major,35,7,3
+LINS,2,A noite,major,36,5,5
+LINS,2,A noite,major,37,5,1
+LINS,2,A noite,major,38,5,5
+LINS,2,A noite,major,39,5,9
+LINS,2,A noite,major,40,4,x
+LINS,2,A noite,major,41,3,7
+LINS,2,A noite,major,42,4,5
+LINS,2,A noite,major,43,#5/b6,7
+LINS,2,A noite,major,44,5,13
+LINS,2,A noite,major,45,3,3
+LINS,2,A noite,major,46,3,1
+LINS,2,A noite,major,47,3,5
+LINS,2,A noite,major,48,3,3
+LINS,2,A noite,major,49,3,7
+LINS,2,A noite,major,50,2,x
+LINS,2,A noite,major,51,1,5
+LINS,2,A noite,major,52,2,b9/#9
+LINS,2,A noite,major,53,1,b9/#9
+LINS,2,A noite,major,54,2,b9/#9
+LINS,2,A noite,major,55,7,5
+LINS,2,A noite,major,56,5,1
+LINS,2,A noite,major,57,3,13
+LINS,2,A noite,major,58,2,5
+LINS,2,A noite,major,59,3,13
+LINS,2,A noite,major,60,1,5
+LINS,2,A noite,major,61,1,7
+LINS,2,A noite,major,62,1,7
+LINS,2,A noite,major,63,1,1
+LINS,8,Amor,major,1,1,1
+LINS,8,Amor,major,2,3,3
+LINS,8,Amor,major,3,2,x
+LINS,8,Amor,major,4,1,3
+LINS,8,Amor,major,5,3,5
+LINS,8,Amor,major,6,2,x
+LINS,8,Amor,major,7,1,3
+LINS,8,Amor,major,8,7,5
+LINS,8,Amor,major,9,2,7
+LINS,8,Amor,major,10,6,7
+LINS,8,Amor,major,11,#6/b7,x
+LINS,8,Amor,major,12,1,9
+LINS,8,Amor,major,13,#6/b7,x
+LINS,8,Amor,major,14,6,13
+LINS,8,Amor,major,15,#6/b7,x
+LINS,8,Amor,major,16,1,1
+LINS,8,Amor,major,17,#6/b7,x
+LINS,8,Amor,major,18,6,3
+LINS,8,Amor,major,19,1,5
+LINS,8,Amor,major,20,6,3
+LINS,8,Amor,major,21,6,7
+LINS,8,Amor,major,22,#5/b6,x
+LINS,8,Amor,major,23,6,7
+LINS,8,Amor,major,24,7,1
+LINS,8,Amor,major,25,#6/b7,x
+LINS,8,Amor,major,26,6,3
+LINS,8,Amor,major,27,#5/b6,x
+LINS,8,Amor,major,28,6,3
+LINS,8,Amor,major,29,7,5
+LINS,8,Amor,major,30,6,x
+LINS,8,Amor,major,31,#5/b6,7
+LINS,8,Amor,major,32,#4/b5,#11
+LINS,8,Amor,major,33,6,7
+LINS,8,Amor,major,34,#5/b6,5
+LINS,8,Amor,major,35,5,x
+LINS,8,Amor,major,36,#5/b6,5
+LINS,8,Amor,major,37,#6/b7,6
+LINS,8,Amor,major,38,6,x
+LINS,8,Amor,major,39,#5/b6,5
+LINS,8,Amor,major,40,5,x
+LINS,8,Amor,major,41,#5/b6,b9/#9
+LINS,8,Amor,major,42,5,1
+LINS,8,Amor,major,43,#6/b7,b9/#9
+LINS,8,Amor,major,44,#5/b6,x
+LINS,8,Amor,major,45,5,5
+LINS,8,Amor,major,46,1,1
+LINS,8,Amor,major,47,1,5
+LINS,8,Amor,major,48,7,#11
+LINS,8,Amor,major,49,5,9
+LINS,8,Amor,major,50,3,7
+LINS,8,Amor,major,51,1,5
+LINS,8,Amor,major,52,5,13
+LINS,8,Amor,major,53,1,9
+LINS,8,Amor,major,54,3,#11
+LINS,8,Amor,major,55,6,6
+LINS,8,Amor,major,56,7,7
+LINS,8,Amor,major,57,5,5
+LINS,8,Amor,major,58,4,9
+LINS,8,Amor,major,59,4,3
+LINS,8,Amor,major,60,3,x
+LINS,8,Amor,major,61,2,1
+LINS,8,Amor,major,62,1,7
+LINS,8,Amor,major,63,4,3
+LINS,8,Amor,major,64,5,1
+LINS,8,Amor,major,65,7,3
+LINS,8,Amor,major,66,2,5
+LINS,8,Amor,major,67,5,1
+LINS,8,Amor,major,68,4,x
+LINS,8,Amor,major,69,5,5
+LINS,8,Amor,major,70,3,3
+LINS,9,Anjo de mim,major,1,1,1
+LINS,9,Anjo de mim,major,2,3,3
+LINS,9,Anjo de mim,major,3,6,5
+LINS,9,Anjo de mim,major,4,1,7
+LINS,9,Anjo de mim,major,5,3,9
+LINS,9,Anjo de mim,major,6,6,9
+LINS,9,Anjo de mim,major,7,2,5
+LINS,9,Anjo de mim,major,8,7,3
+LINS,9,Anjo de mim,major,9,6,6
+LINS,9,Anjo de mim,major,10,1,3
+LINS,9,Anjo de mim,major,11,3,5
+LINS,9,Anjo de mim,major,12,6,5
+LINS,9,Anjo de mim,major,13,1,7
+LINS,9,Anjo de mim,major,14,3,9
+LINS,9,Anjo de mim,major,15,6,9
+LINS,9,Anjo de mim,major,16,5,1
+LINS,9,Anjo de mim,major,17,4,x
+LINS,9,Anjo de mim,major,18,3,5
+LINS,9,Anjo de mim,major,19,3,3
+LINS,9,Anjo de mim,major,20,6,6
+LINS,9,Anjo de mim,major,21,1,5
+LINS,9,Anjo de mim,major,22,3,9
+LINS,9,Anjo de mim,major,23,6,5
+LINS,9,Anjo de mim,major,24,1,9
+LINS,9,Anjo de mim,major,25,5,13
+LINS,9,Anjo de mim,major,26,4,x
+LINS,9,Anjo de mim,major,27,3,1
+LINS,9,Anjo de mim,major,28,4,b13
+LINS,9,Anjo de mim,major,29,3,x
+LINS,9,Anjo de mim,major,30,4,9
+LINS,9,Anjo de mim,major,31,4,13
+LINS,9,Anjo de mim,major,32,3,x
+LINS,9,Anjo de mim,major,33,4,3
+LINS,9,Anjo de mim,major,34,5,11
+LINS,9,Anjo de mim,major,35,2,7
+LINS,9,Anjo de mim,major,36,1,3
+LINS,9,Anjo de mim,major,37,6,5
+LINS,9,Anjo de mim,major,38,5,1
+LINS,9,Anjo de mim,major,39,6,9
+LINS,9,Anjo de mim,major,40,6,1
+LINS,9,Anjo de mim,major,41,5,11
+LINS,9,Anjo de mim,major,42,6,5
+LINS,9,Anjo de mim,major,43,6,1
+LINS,9,Anjo de mim,major,44,5,11
+LINS,9,Anjo de mim,major,45,6,5
+LINS,9,Anjo de mim,major,46,6,3
+LINS,10,Aos nossos filhos,major,1,6,1
+LINS,10,Aos nossos filhos,major,2,3,9
+LINS,10,Aos nossos filhos,major,3,4,3
+LINS,10,Aos nossos filhos,major,4,6,5
+LINS,10,Aos nossos filhos,major,5,2,5
+LINS,10,Aos nossos filhos,major,6,6,9
+LINS,10,Aos nossos filhos,major,7,3,9
+LINS,10,Aos nossos filhos,major,8,4,3
+LINS,10,Aos nossos filhos,major,9,6,5
+LINS,10,Aos nossos filhos,major,10,2,5
+LINS,10,Aos nossos filhos,major,11,5,1
+LINS,10,Aos nossos filhos,major,12,2,5
+LINS,10,Aos nossos filhos,major,13,1,1
+LINS,10,Aos nossos filhos,major,14,5,5
+LINS,10,Aos nossos filhos,major,15,6,3
+LINS,10,Aos nossos filhos,major,16,2,3
+LINS,10,Aos nossos filhos,major,17,2,3
+LINS,10,Aos nossos filhos,major,18,#1/b2,x
+LINS,10,Aos nossos filhos,major,19,1,x
+LINS,10,Aos nossos filhos,major,20,7,5
+LINS,10,Aos nossos filhos,major,21,#5/b6,3
+LINS,10,Aos nossos filhos,major,22,3,6
+LINS,10,Aos nossos filhos,major,23,1,1
+LINS,10,Aos nossos filhos,major,24,1,5
+LINS,10,Aos nossos filhos,major,25,7,#11
+LINS,10,Aos nossos filhos,major,26,6,3
+LINS,10,Aos nossos filhos,major,27,2,5
+LINS,10,Aos nossos filhos,major,28,5,1
+LINS,10,Aos nossos filhos,major,29,3,3
+LINS,10,Aos nossos filhos,major,30,2,9
+LINS,10,Aos nossos filhos,major,31,1,1
+LINS,10,Aos nossos filhos,major,32,5,5
+LINS,10,Aos nossos filhos,major,33,5,13
+LINS,10,Aos nossos filhos,major,34,#6/b7,1
+LINS,10,Aos nossos filhos,major,35,1,9
+LINS,10,Aos nossos filhos,major,36,2,3
+LINS,10,Aos nossos filhos,major,37,5,3
+LINS,10,Aos nossos filhos,major,38,5,13
+LINS,10,Aos nossos filhos,major,39,#6/b7,1
+LINS,10,Aos nossos filhos,major,40,1,9
+LINS,10,Aos nossos filhos,major,41,2,3
+LINS,10,Aos nossos filhos,major,42,5,5
+LINS,11,Bilhete,major,1,5,5
+LINS,11,Bilhete,major,2,1,1
+LINS,11,Bilhete,major,3,3,3
+LINS,11,Bilhete,major,4,5,5
+LINS,11,Bilhete,major,5,1,1
+LINS,11,Bilhete,major,6,3,3
+LINS,11,Bilhete,major,7,4,7
+LINS,11,Bilhete,major,8,3,1
+LINS,11,Bilhete,major,9,4,b9/#9
+LINS,11,Bilhete,major,10,3,x
+LINS,11,Bilhete,major,11,2,7
+LINS,11,Bilhete,major,12,3,5
+LINS,11,Bilhete,major,13,5,7
+LINS,11,Bilhete,major,14,1,3
+LINS,11,Bilhete,major,15,3,5
+LINS,11,Bilhete,major,16,4,7
+LINS,11,Bilhete,major,17,2,5
+LINS,11,Bilhete,major,18,4,7
+LINS,11,Bilhete,major,19,3,x
+LINS,11,Bilhete,major,20,2,5
+LINS,11,Bilhete,major,21,5,1
+LINS,11,Bilhete,major,22,3,13
+LINS,11,Bilhete,major,23,5,1
+LINS,11,Bilhete,major,24,4,x
+LINS,11,Bilhete,major,25,3,13
+LINS,11,Bilhete,major,26,6,3
+LINS,11,Bilhete,major,27,6,1
+LINS,11,Bilhete,major,28,5,7
+LINS,11,Bilhete,major,29,6,3
+LINS,11,Bilhete,major,30,1,5
+LINS,11,Bilhete,major,31,4,1
+LINS,11,Bilhete,major,32,6,3
+LINS,11,Bilhete,major,33,7,11
+LINS,11,Bilhete,major,34,6,7
+LINS,11,Bilhete,major,35,7,x
+LINS,11,Bilhete,major,36,1,b9/#9
+LINS,11,Bilhete,major,37,7,x
+LINS,11,Bilhete,major,38,6,7
+LINS,11,Bilhete,major,39,1,1
+LINS,11,Bilhete,major,40,#5/b6,x
+LINS,11,Bilhete,major,41,#6/b7,5
+LINS,11,Bilhete,major,42,1,6
+LINS,11,Bilhete,major,43,#6/b7,5
+LINS,11,Bilhete,major,44,#5/b6,x
+LINS,11,Bilhete,major,45,5,11
+LINS,11,Bilhete,major,46,4,x
+LINS,11,Bilhete,major,47,5,5
+LINS,11,Bilhete,major,48,6,3
+LINS,11,Bilhete,major,49,5,x
+LINS,11,Bilhete,major,50,#4/b5,x
+LINS,11,Bilhete,major,51,4,5
+LINS,11,Bilhete,major,52,3,x
+LINS,11,Bilhete,major,53,4,5
+LINS,11,Bilhete,major,54,5,b9/#9
+LINS,11,Bilhete,major,55,4,b9/#9
+LINS,11,Bilhete,major,56,3,1
+LINS,11,Bilhete,major,57,3,5
+LINS,14,Daquilo que eu sei,major,1,3,13
+LINS,14,Daquilo que eu sei,major,2,4,x
+LINS,14,Daquilo que eu sei,major,3,3,13
+LINS,14,Daquilo que eu sei,major,4,6,9
+LINS,14,Daquilo que eu sei,major,5,5,5
+LINS,14,Daquilo que eu sei,major,6,3,3
+LINS,14,Daquilo que eu sei,major,7,4,7
+LINS,14,Daquilo que eu sei,major,8,4,b13
+LINS,14,Daquilo que eu sei,major,9,3,5
+LINS,14,Daquilo que eu sei,major,10,5,9
+LINS,14,Daquilo que eu sei,major,11,4,1
+LINS,14,Daquilo que eu sei,major,12,3,7
+LINS,14,Daquilo que eu sei,major,13,4,b9/#9
+LINS,14,Daquilo que eu sei,major,14,3,1
+LINS,14,Daquilo que eu sei,major,15,2,11
+LINS,14,Daquilo que eu sei,major,16,1,3
+LINS,14,Daquilo que eu sei,major,17,3,5
+LINS,14,Daquilo que eu sei,major,18,4,7
+LINS,14,Daquilo que eu sei,major,19,2,9
+LINS,14,Daquilo que eu sei,major,20,1,1
+LINS,14,Daquilo que eu sei,major,21,2,13
+LINS,14,Daquilo que eu sei,major,22,1,5
+LINS,14,Daquilo que eu sei,major,23,3,3
+LINS,14,Daquilo que eu sei,major,24,1,1
+LINS,14,Daquilo que eu sei,major,25,5,9
+LINS,14,Daquilo que eu sei,major,26,5,1
+LINS,14,Daquilo que eu sei,major,27,2,5
+LINS,14,Daquilo que eu sei,major,28,2,5
+LINS,14,Daquilo que eu sei,major,29,5,1
+LINS,14,Daquilo que eu sei,major,30,5,5
+LINS,14,Daquilo que eu sei,major,31,3,3
+LINS,14,Daquilo que eu sei,major,32,6,1
+LINS,14,Daquilo que eu sei,major,33,6,3
+LINS,14,Daquilo que eu sei,major,34,#5/b6,x
+LINS,14,Daquilo que eu sei,major,35,6,3
+LINS,14,Daquilo que eu sei,major,36,#4/b5,1
+LINS,14,Daquilo que eu sei,major,37,7,1
+LINS,14,Daquilo que eu sei,major,38,7,5
+LINS,14,Daquilo que eu sei,major,39,6,5
+LINS,14,Daquilo que eu sei,major,40,6,b9/#9
+LINS,14,Daquilo que eu sei,major,41,#5/b6,1
+LINS,14,Daquilo que eu sei,major,42,7,5
+LINS,14,Daquilo que eu sei,major,43,6,11
+LINS,14,Daquilo que eu sei,major,44,#4/b5,x
+LINS,14,Daquilo que eu sei,major,45,5,3
+LINS,14,Daquilo que eu sei,major,46,#4/b5,13
+LINS,14,Daquilo que eu sei,major,47,5,7
+LINS,14,Daquilo que eu sei,major,48,2,5
+LINS,14,Daquilo que eu sei,major,49,7,3
+LINS,14,Daquilo que eu sei,major,50,3,3
+LINS,14,Daquilo que eu sei,major,51,2,1
+LINS,14,Daquilo que eu sei,major,52,7,13
+LINS,14,Daquilo que eu sei,major,53,3,5
+LINS,14,Daquilo que eu sei,major,54,#4/b5,5
+LINS,14,Daquilo que eu sei,major,55,2,7
+LINS,14,Daquilo que eu sei,major,56,7,5
+LINS,14,Daquilo que eu sei,major,57,6,1
+LINS,14,Daquilo que eu sei,major,58,7,9
+LINS,14,Daquilo que eu sei,major,59,#6/b7,x
+LINS,14,Daquilo que eu sei,major,60,6,5
+LINS,14,Daquilo que eu sei,major,61,5,1
+LINS,16,Dinorah Dinorah,minor,1,5,11
+LINS,16,Dinorah Dinorah,minor,2,#4/b5,x
+LINS,16,Dinorah Dinorah,minor,3,4,7
+LINS,16,Dinorah Dinorah,minor,4,3,b13
+LINS,16,Dinorah Dinorah,minor,5,5,11
+LINS,16,Dinorah Dinorah,minor,6,3,9
+LINS,16,Dinorah Dinorah,minor,7,4,11
+LINS,16,Dinorah Dinorah,minor,8,#3,11
+LINS,16,Dinorah Dinorah,minor,9,3,11
+LINS,16,Dinorah Dinorah,minor,10,1,9
+LINS,16,Dinorah Dinorah,minor,11,3,1
+LINS,16,Dinorah Dinorah,minor,12,4,x
+LINS,16,Dinorah Dinorah,minor,13,5,11
+LINS,16,Dinorah Dinorah,minor,14,5,5
+LINS,16,Dinorah Dinorah,minor,15,4,11
+LINS,16,Dinorah Dinorah,minor,16,3,x
+LINS,16,Dinorah Dinorah,minor,17,4,11
+LINS,16,Dinorah Dinorah,minor,18,3,7
+LINS,16,Dinorah Dinorah,minor,19,2,x
+LINS,16,Dinorah Dinorah,minor,20,1,5
+LINS,16,Dinorah Dinorah,minor,21,5,11
+LINS,16,Dinorah Dinorah,minor,22,#4/b5,x
+LINS,16,Dinorah Dinorah,minor,23,4,7
+LINS,16,Dinorah Dinorah,minor,24,3,b13
+LINS,16,Dinorah Dinorah,minor,25,5,11
+LINS,16,Dinorah Dinorah,minor,26,3,9
+LINS,16,Dinorah Dinorah,minor,27,4,11
+LINS,16,Dinorah Dinorah,minor,28,#3,11
+LINS,16,Dinorah Dinorah,minor,29,3,11
+LINS,16,Dinorah Dinorah,minor,30,1,9
+LINS,16,Dinorah Dinorah,minor,31,3,1
+LINS,16,Dinorah Dinorah,minor,32,4,x
+LINS,16,Dinorah Dinorah,minor,33,5,11
+LINS,16,Dinorah Dinorah,minor,34,5,5
+LINS,16,Dinorah Dinorah,minor,35,4,11
+LINS,16,Dinorah Dinorah,minor,36,3,x
+LINS,16,Dinorah Dinorah,minor,37,4,11
+LINS,16,Dinorah Dinorah,minor,38,3,7
+LINS,16,Dinorah Dinorah,minor,39,2,x
+LINS,16,Dinorah Dinorah,minor,40,1,5
+LINS,17,Doce presenca,major,1,6,5
+LINS,17,Doce presenca,major,2,1,7
+LINS,17,Doce presenca,major,3,3,9
+LINS,17,Doce presenca,major,4,5,1
+LINS,17,Doce presenca,major,5,3,13
+LINS,17,Doce presenca,major,6,2,9
+LINS,17,Doce presenca,major,7,1,x
+LINS,17,Doce presenca,major,8,7,7
+LINS,17,Doce presenca,major,9,5,5
+LINS,17,Doce presenca,major,10,3,3
+LINS,17,Doce presenca,major,11,2,x
+LINS,17,Doce presenca,major,12,3,3
+LINS,17,Doce presenca,major,13,5,5
+LINS,17,Doce presenca,major,14,5,7
+LINS,17,Doce presenca,major,15,6,5
+LINS,17,Doce presenca,major,16,1,7
+LINS,17,Doce presenca,major,17,3,9
+LINS,17,Doce presenca,major,18,5,1
+LINS,17,Doce presenca,major,19,3,13
+LINS,17,Doce presenca,major,20,2,5
+LINS,17,Doce presenca,major,21,1,x
+LINS,17,Doce presenca,major,22,7,7
+LINS,17,Doce presenca,major,23,5,5
+LINS,17,Doce presenca,major,24,3,3
+LINS,17,Doce presenca,major,25,2,x
+LINS,17,Doce presenca,major,26,3,11
+LINS,17,Doce presenca,major,27,4,1
+LINS,17,Doce presenca,major,28,3,5
+LINS,17,Doce presenca,major,29,2,11
+LINS,17,Doce presenca,major,30,6,5
+LINS,17,Doce presenca,major,31,2,1
+LINS,17,Doce presenca,major,32,3,9
+LINS,17,Doce presenca,major,33,1,7
+LINS,17,Doce presenca,major,34,2,x
+LINS,17,Doce presenca,major,35,3,5
+LINS,17,Doce presenca,major,36,2,11
+LINS,17,Doce presenca,major,37,6,1
+LINS,17,Doce presenca,major,38,2,1
+LINS,17,Doce presenca,major,39,3,9
+LINS,17,Doce presenca,major,40,6,5
+LINS,17,Doce presenca,major,41,1,7
+LINS,17,Doce presenca,major,42,2,x
+LINS,17,Doce presenca,major,43,3,7
+LINS,17,Doce presenca,major,44,6,3
+LINS,17,Doce presenca,major,45,2,7
+LINS,17,Doce presenca,major,46,5,3
+LINS,17,Doce presenca,major,47,1,7
+LINS,17,Doce presenca,major,48,6,9
+LINS,17,Doce presenca,major,49,5,5
+LINS,17,Doce presenca,major,50,7,9
+LINS,17,Doce presenca,major,51,1,x
+LINS,17,Doce presenca,major,52,7,9
+LINS,17,Doce presenca,major,53,3,5
+LINS,17,Doce presenca,major,54,6,5
+LINS,17,Doce presenca,major,55,5,x
+LINS,17,Doce presenca,major,56,6,x
+LINS,17,Doce presenca,major,57,7,3
+LINS,17,Doce presenca,major,58,1,x
+LINS,17,Doce presenca,major,59,7,3
+LINS,17,Doce presenca,major,60,3,13
+LINS,17,Doce presenca,major,61,6,9
+LINS,17,Doce presenca,major,62,5,1
+LINS,17,Doce presenca,major,63,6,x
+LINS,17,Doce presenca,major,64,7,7
+LINS,17,Doce presenca,major,65,1,x
+LINS,17,Doce presenca,major,66,7,7
+LINS,17,Doce presenca,major,67,3,3
+LINS,17,Doce presenca,major,68,7,1
+LINS,17,Doce presenca,major,69,3,11
+LINS,17,Doce presenca,major,70,2,7
+LINS,17,Doce presenca,major,71,1,x
+LINS,17,Doce presenca,major,72,7,5
+LINS,17,Doce presenca,major,73,1,3
+LINS,17,Doce presenca,major,74,5,11
+LINS,17,Doce presenca,major,75,#5/b6,x
+LINS,17,Doce presenca,major,76,5,11
+LINS,17,Doce presenca,major,77,#5/b6,5
+LINS,17,Doce presenca,major,78,#5/b6,1
+LINS,17,Doce presenca,major,79,#5/b6,b9/#9
+LINS,17,Doce presenca,major,80,5,1
+LINS,17,Doce presenca,major,81,4,x
+LINS,17,Doce presenca,major,82,3,3
+LINS,17,Doce presenca,major,83,5,b9/#9
+LINS,17,Doce presenca,major,84,2,7
+LINS,17,Doce presenca,major,85,3,1
+LINS,17,Doce presenca,major,86,5,7
+LINS,17,Doce presenca,major,87,5,3
+LINS,17,Doce presenca,major,88,#4/b5,x
+LINS,17,Doce presenca,major,89,4,x
+LINS,17,Doce presenca,major,90,3,1
+LINS,17,Doce presenca,major,91,5,3
+LINS,17,Doce presenca,major,92,#4/b5,x
+LINS,17,Doce presenca,major,93,4,x
+LINS,17,Doce presenca,major,94,3,1
+LINS,17,Doce presenca,major,95,3,5
+LINS,20,Guarde nos olhos,major,1,5,5
+LINS,20,Guarde nos olhos,major,2,3,3
+LINS,20,Guarde nos olhos,major,3,5,5
+LINS,20,Guarde nos olhos,major,4,3,3
+LINS,20,Guarde nos olhos,major,5,5,5
+LINS,20,Guarde nos olhos,major,6,3,3
+LINS,20,Guarde nos olhos,major,7,5,7
+LINS,20,Guarde nos olhos,major,8,3,5
+LINS,20,Guarde nos olhos,major,9,2,11
+LINS,20,Guarde nos olhos,major,10,1,3
+LINS,20,Guarde nos olhos,major,11,5,7
+LINS,20,Guarde nos olhos,major,12,3,7
+LINS,20,Guarde nos olhos,major,13,2,x
+LINS,20,Guarde nos olhos,major,14,1,5
+LINS,20,Guarde nos olhos,major,15,7,#11
+LINS,20,Guarde nos olhos,major,16,1,x
+LINS,20,Guarde nos olhos,major,17,7,3
+LINS,20,Guarde nos olhos,major,18,6,x
+LINS,20,Guarde nos olhos,major,19,5,1
+LINS,20,Guarde nos olhos,major,20,3,3
+LINS,20,Guarde nos olhos,major,21,3,13
+LINS,20,Guarde nos olhos,major,22,4,x
+LINS,20,Guarde nos olhos,major,23,3,13
+LINS,20,Guarde nos olhos,major,24,2,5
+LINS,20,Guarde nos olhos,major,25,2,7
+LINS,20,Guarde nos olhos,major,26,3,1
+LINS,20,Guarde nos olhos,major,27,1,3
+LINS,20,Guarde nos olhos,major,28,3,5
+LINS,20,Guarde nos olhos,major,29,1,3
+LINS,20,Guarde nos olhos,major,30,7,5
+LINS,20,Guarde nos olhos,major,31,6,3
+LINS,20,Guarde nos olhos,major,32,1,5
+LINS,20,Guarde nos olhos,major,33,5,9
+LINS,20,Guarde nos olhos,major,34,6,3
+LINS,20,Guarde nos olhos,major,35,5,3
+LINS,20,Guarde nos olhos,major,36,6,x
+LINS,20,Guarde nos olhos,major,37,5,7
+LINS,20,Guarde nos olhos,major,38,3,5
+LINS,20,Guarde nos olhos,major,39,1,3
+LINS,20,Guarde nos olhos,major,40,2,1
+LINS,21,Ituverava,major,1,3,3
+LINS,21,Ituverava,major,2,5,5
+LINS,21,Ituverava,major,3,4,1
+LINS,21,Ituverava,major,4,6,3
+LINS,21,Ituverava,major,5,5,5
+LINS,21,Ituverava,major,6,4,x
+LINS,21,Ituverava,major,7,3,3
+LINS,21,Ituverava,major,8,6,3
+LINS,21,Ituverava,major,9,1,5
+LINS,21,Ituverava,major,10,5,3
+LINS,21,Ituverava,major,11,1,7
+LINS,21,Ituverava,major,12,4,3
+LINS,21,Ituverava,major,13,2,3
+LINS,21,Ituverava,major,14,2,3
+LINS,21,Ituverava,major,15,3,3
+LINS,21,Ituverava,major,16,4,9
+LINS,21,Ituverava,major,17,4,13
+LINS,21,Ituverava,major,18,5,11
+LINS,21,Ituverava,major,19,7,3
+LINS,21,Ituverava,major,20,4,7
+LINS,21,Ituverava,major,21,7,3
+LINS,21,Ituverava,major,22,3,3
+LINS,21,Ituverava,major,23,5,5
+LINS,21,Ituverava,major,24,5,9
+LINS,21,Ituverava,major,25,3,3
+LINS,21,Ituverava,major,26,5,5
+LINS,21,Ituverava,major,27,4,1
+LINS,21,Ituverava,major,28,6,3
+LINS,21,Ituverava,major,29,5,1
+LINS,21,Ituverava,major,30,4,x
+LINS,21,Ituverava,major,31,3,3
+LINS,21,Ituverava,major,32,6,3
+LINS,21,Ituverava,major,33,1,5
+LINS,21,Ituverava,major,34,5,3
+LINS,21,Ituverava,major,35,1,6
+LINS,21,Ituverava,major,36,4,3
+LINS,21,Ituverava,major,37,2,3
+LINS,21,Ituverava,major,38,2,3
+LINS,21,Ituverava,major,39,3,5
+LINS,21,Ituverava,major,40,4,9
+LINS,21,Ituverava,major,41,4,13
+LINS,21,Ituverava,major,42,#5/b6,1
+LINS,21,Ituverava,major,43,4,x
+LINS,21,Ituverava,major,44,5,11
+LINS,21,Ituverava,major,45,7,3
+LINS,21,Ituverava,major,46,4,7
+LINS,21,Ituverava,major,47,7,3
+LINS,21,Ituverava,major,48,3,3
+LINS,21,Ituverava,major,49,5,5
+LINS,23,Joana dos barcos,major,1,3,3
+LINS,23,Joana dos barcos,major,2,5,5
+LINS,23,Joana dos barcos,major,3,1,1
+LINS,23,Joana dos barcos,major,4,3,3
+LINS,23,Joana dos barcos,major,5,2,x
+LINS,23,Joana dos barcos,major,6,1,1
+LINS,23,Joana dos barcos,major,7,2,9
+LINS,23,Joana dos barcos,major,8,4,3
+LINS,23,Joana dos barcos,major,9,5,5
+LINS,23,Joana dos barcos,major,10,3,3
+LINS,23,Joana dos barcos,major,11,5,5
+LINS,23,Joana dos barcos,major,12,1,1
+LINS,23,Joana dos barcos,major,13,3,3
+LINS,23,Joana dos barcos,major,14,2,x
+LINS,23,Joana dos barcos,major,15,1,1
+LINS,23,Joana dos barcos,major,16,2,9
+LINS,23,Joana dos barcos,major,17,4,3
+LINS,23,Joana dos barcos,major,18,5,5
+LINS,23,Joana dos barcos,major,19,6,13
+LINS,23,Joana dos barcos,major,20,6,3
+LINS,23,Joana dos barcos,major,21,1,5
+LINS,23,Joana dos barcos,major,22,7,x
+LINS,23,Joana dos barcos,major,23,6,3
+LINS,23,Joana dos barcos,major,24,7,5
+LINS,23,Joana dos barcos,major,25,1,6
+LINS,23,Joana dos barcos,major,26,7,5
+LINS,23,Joana dos barcos,major,27,7,x
+LINS,23,Joana dos barcos,major,28,6,x
+LINS,23,Joana dos barcos,major,29,5,3
+LINS,23,Joana dos barcos,major,30,7,x
+LINS,23,Joana dos barcos,major,31,1,7
+LINS,23,Joana dos barcos,major,32,6,5
+LINS,23,Joana dos barcos,major,33,5,x
+LINS,23,Joana dos barcos,major,34,4,3
+LINS,23,Joana dos barcos,major,35,3,9
+LINS,23,Joana dos barcos,major,36,5,3
+LINS,23,Joana dos barcos,major,37,2,7
+LINS,23,Joana dos barcos,major,38,1,x
+LINS,23,Joana dos barcos,major,39,2,7
+LINS,23,Joana dos barcos,major,40,3,7
+LINS,23,Joana dos barcos,major,41,4,x
+LINS,23,Joana dos barcos,major,42,3,7
+LINS,23,Joana dos barcos,major,43,2,x
+LINS,23,Joana dos barcos,major,44,1,5
+LINS,23,Joana dos barcos,major,45,7,5
+LINS,23,Joana dos barcos,major,46,2,7
+LINS,23,Joana dos barcos,major,47,5,3
+LINS,23,Joana dos barcos,major,48,5,3
+LINS,23,Joana dos barcos,major,49,#5/b6,x
+LINS,23,Joana dos barcos,major,50,5,3
+LINS,23,Joana dos barcos,major,51,#4/b5,3
+LINS,23,Joana dos barcos,major,52,5,x
+LINS,23,Joana dos barcos,major,53,#4/b5,3
+LINS,23,Joana dos barcos,major,54,4,3
+LINS,23,Joana dos barcos,major,55,5,#11
+LINS,23,Joana dos barcos,major,56,3,3
+LINS,24,Lembra de mim,major,1,3,3
+LINS,24,Lembra de mim,major,2,2,x
+LINS,24,Lembra de mim,major,3,3,3
+LINS,24,Lembra de mim,major,4,3,3
+LINS,24,Lembra de mim,major,5,2,x
+LINS,24,Lembra de mim,major,6,3,3
+LINS,24,Lembra de mim,major,7,4,b9/#9
+LINS,24,Lembra de mim,major,8,3,x
+LINS,24,Lembra de mim,major,9,2,7
+LINS,24,Lembra de mim,major,10,1,x
+LINS,24,Lembra de mim,major,11,2,11
+LINS,24,Lembra de mim,major,12,1,x
+LINS,24,Lembra de mim,major,13,2,11
+LINS,24,Lembra de mim,major,14,2,11
+LINS,24,Lembra de mim,major,15,1,x
+LINS,24,Lembra de mim,major,16,2,11
+LINS,24,Lembra de mim,major,17,3,3
+LINS,24,Lembra de mim,major,18,2,x
+LINS,24,Lembra de mim,major,19,1,1
+LINS,24,Lembra de mim,major,20,7,x
+LINS,24,Lembra de mim,major,21,1,5
+LINS,24,Lembra de mim,major,22,7,x
+LINS,24,Lembra de mim,major,23,1,5
+LINS,24,Lembra de mim,major,24,1,5
+LINS,24,Lembra de mim,major,25,7,x
+LINS,24,Lembra de mim,major,26,1,5
+LINS,24,Lembra de mim,major,27,2,b9/#9
+LINS,24,Lembra de mim,major,28,1,x
+LINS,24,Lembra de mim,major,29,7,1
+LINS,24,Lembra de mim,major,30,6,x
+LINS,24,Lembra de mim,major,31,7,5
+LINS,24,Lembra de mim,major,32,6,x
+LINS,24,Lembra de mim,major,33,7,5
+LINS,24,Lembra de mim,major,34,5,11
+LINS,24,Lembra de mim,major,35,4,x
+LINS,24,Lembra de mim,major,36,5,11
+LINS,24,Lembra de mim,major,37,5,5
+LINS,24,Lembra de mim,major,38,4,x
+LINS,24,Lembra de mim,major,39,5,5
+LINS,24,Lembra de mim,major,40,6,3
+LINS,24,Lembra de mim,major,41,5,x
+LINS,24,Lembra de mim,major,42,4,1
+LINS,24,Lembra de mim,major,43,3,x
+LINS,24,Lembra de mim,major,44,4,5
+LINS,24,Lembra de mim,major,45,3,x
+LINS,24,Lembra de mim,major,46,4,5
+LINS,24,Lembra de mim,major,47,4,b9/#9
+LINS,24,Lembra de mim,major,48,3,x
+LINS,24,Lembra de mim,major,49,4,b9/#9
+LINS,24,Lembra de mim,major,50,5,b9/#9
+LINS,24,Lembra de mim,major,51,4,x
+LINS,24,Lembra de mim,major,52,3,1
+LINS,24,Lembra de mim,major,53,2,x
+LINS,24,Lembra de mim,major,54,3,5
+LINS,24,Lembra de mim,major,55,2,x
+LINS,24,Lembra de mim,major,56,3,5
+LINS,24,Lembra de mim,major,57,3,9
+LINS,24,Lembra de mim,major,58,2,9
+LINS,24,Lembra de mim,major,59,3,9
+LINS,24,Lembra de mim,major,60,6,5
+LINS,24,Lembra de mim,major,61,2,5
+LINS,24,Lembra de mim,major,62,1,x
+LINS,24,Lembra de mim,major,63,2,5
+LINS,27,Madalena,major,1,5,5
+LINS,27,Madalena,major,2,1,1
+LINS,27,Madalena,major,3,2,x
+LINS,27,Madalena,major,4,3,3
+LINS,27,Madalena,major,5,5,5
+LINS,27,Madalena,major,6,5,5
+LINS,27,Madalena,major,7,3,3
+LINS,27,Madalena,major,8,4,3
+LINS,27,Madalena,major,9,3,x
+LINS,27,Madalena,major,10,2,5
+LINS,27,Madalena,major,11,5,1
+LINS,27,Madalena,major,12,3,3
+LINS,27,Madalena,major,13,5,5
+LINS,27,Madalena,major,14,3,3
+LINS,27,Madalena,major,15,4,3
+LINS,27,Madalena,major,16,3,x
+LINS,27,Madalena,major,17,2,1
+LINS,27,Madalena,major,18,1,3
+LINS,27,Madalena,major,19,3,3
+LINS,27,Madalena,major,20,5,5
+LINS,27,Madalena,major,21,5,5
+LINS,27,Madalena,major,22,3,3
+LINS,27,Madalena,major,23,4,3
+LINS,27,Madalena,major,24,3,x
+LINS,27,Madalena,major,25,2,1
+LINS,27,Madalena,major,26,3,13
+LINS,27,Madalena,major,27,5,5
+LINS,27,Madalena,major,28,6,13
+LINS,27,Madalena,major,29,1,1
+LINS,27,Madalena,major,30,3,3
+LINS,27,Madalena,major,31,6,13
+LINS,27,Madalena,major,32,5,5
+LINS,27,Madalena,major,33,3,3
+LINS,27,Madalena,major,34,6,13
+LINS,27,Madalena,major,35,3,3
+LINS,27,Madalena,major,36,4,7
+LINS,27,Madalena,major,37,3,x
+LINS,27,Madalena,major,38,2,5
+LINS,27,Madalena,major,39,1,3
+LINS,27,Madalena,major,40,3,13
+LINS,27,Madalena,major,41,3,3
+LINS,27,Madalena,major,42,4,7
+LINS,27,Madalena,major,43,3,x
+LINS,27,Madalena,major,44,2,5
+LINS,27,Madalena,major,45,1,3
+LINS,27,Madalena,major,46,3,13
+LINS,27,Madalena,major,47,3,3
+LINS,27,Madalena,major,48,4,7
+LINS,27,Madalena,major,49,3,x
+LINS,27,Madalena,major,50,2,5
+LINS,27,Madalena,major,51,1,3
+LINS,27,Madalena,major,52,3,13
+LINS,27,Madalena,major,53,3,11
+LINS,27,Madalena,major,54,6,1
+LINS,27,Madalena,major,55,5,7
+LINS,27,Madalena,major,56,4,x
+LINS,27,Madalena,major,57,3,9
+LINS,27,Madalena,major,58,4,3
+LINS,27,Madalena,major,59,3,x
+LINS,27,Madalena,major,60,4,11
+LINS,27,Madalena,major,61,5,5
+LINS,27,Madalena,major,62,3,x
+LINS,27,Madalena,major,63,2,13
+LINS,27,Madalena,major,64,3,11
+LINS,27,Madalena,major,65,3,1
+LINS,27,Madalena,major,66,4,x
+LINS,27,Madalena,major,67,3,1
+LINS,27,Madalena,major,68,2,7
+LINS,27,Madalena,major,69,2,11
+LINS,27,Madalena,major,70,3,5
+LINS,27,Madalena,major,71,2,11
+LINS,27,Madalena,major,72,1,x
+LINS,27,Madalena,major,73,2,11
+LINS,27,Madalena,major,74,3,x
+LINS,27,Madalena,major,75,2,11
+LINS,27,Madalena,major,76,1,3
+LINS,27,Madalena,major,77,7,11
+LINS,27,Madalena,major,78,5,1
+LINS,27,Madalena,major,79,5,5
+LINS,27,Madalena,major,80,3,3
+LINS,27,Madalena,major,81,4,3
+LINS,27,Madalena,major,82,6,5
+LINS,27,Madalena,major,83,1,7
+LINS,27,Madalena,major,84,7,5
+LINS,27,Madalena,major,85,5,3
+LINS,27,Madalena,major,86,7,3
+LINS,27,Madalena,major,87,2,5
+LINS,27,Madalena,major,88,5,1
+LINS,27,Madalena,major,89,7,3
+LINS,27,Madalena,major,90,1,7
+LINS,27,Madalena,major,91,7,x
+LINS,27,Madalena,major,92,6,5
+LINS,27,Madalena,major,93,3,9
+LINS,27,Madalena,major,94,2,5
+LINS,27,Madalena,major,95,5,1
+LINS,29,Mudanca dos ventos,major,1,7,3
+LINS,29,Mudanca dos ventos,major,2,1,x
+LINS,29,Mudanca dos ventos,major,3,7,3
+LINS,29,Mudanca dos ventos,major,4,6,x
+LINS,29,Mudanca dos ventos,major,5,5,1
+LINS,29,Mudanca dos ventos,major,6,3,3
+LINS,29,Mudanca dos ventos,major,7,7,7
+LINS,29,Mudanca dos ventos,major,8,1,x
+LINS,29,Mudanca dos ventos,major,9,7,7
+LINS,29,Mudanca dos ventos,major,10,6,6
+LINS,29,Mudanca dos ventos,major,11,3,3
+LINS,29,Mudanca dos ventos,major,12,2,5
+LINS,29,Mudanca dos ventos,major,13,5,1
+LINS,29,Mudanca dos ventos,major,14,7,#11
+LINS,29,Mudanca dos ventos,major,15,1,x
+LINS,29,Mudanca dos ventos,major,16,7,#11
+LINS,29,Mudanca dos ventos,major,17,6,3
+LINS,29,Mudanca dos ventos,major,18,5,9
+LINS,29,Mudanca dos ventos,major,19,3,1
+LINS,29,Mudanca dos ventos,major,20,1,1
+LINS,29,Mudanca dos ventos,major,21,3,3
+LINS,29,Mudanca dos ventos,major,22,5,5
+LINS,29,Mudanca dos ventos,major,23,1,1
+LINS,29,Mudanca dos ventos,major,24,1,5
+LINS,29,Mudanca dos ventos,major,25,7,x
+LINS,29,Mudanca dos ventos,major,26,1,5
+LINS,29,Mudanca dos ventos,major,27,7,x
+LINS,29,Mudanca dos ventos,major,28,6,3
+LINS,29,Mudanca dos ventos,major,29,5,b9/#9
+LINS,29,Mudanca dos ventos,major,30,3,1
+LINS,29,Mudanca dos ventos,major,31,1,6
+LINS,29,Mudanca dos ventos,major,32,3,1
+LINS,29,Mudanca dos ventos,major,33,5,3
+LINS,29,Mudanca dos ventos,major,34,2,7
+LINS,29,Mudanca dos ventos,major,35,2,11
+LINS,29,Mudanca dos ventos,major,36,1,x
+LINS,29,Mudanca dos ventos,major,37,7,9
+LINS,29,Mudanca dos ventos,major,38,6,1
+LINS,29,Mudanca dos ventos,major,39,6,11
+LINS,29,Mudanca dos ventos,major,40,#6/b7,x
+LINS,29,Mudanca dos ventos,major,41,6,1
+LINS,29,Mudanca dos ventos,major,42,5,x
+LINS,29,Mudanca dos ventos,major,43,4,5
+LINS,29,Mudanca dos ventos,major,44,3,9
+LINS,29,Mudanca dos ventos,major,45,6,9
+LINS,29,Mudanca dos ventos,major,46,5,x
+LINS,29,Mudanca dos ventos,major,47,4,7
+LINS,29,Mudanca dos ventos,major,48,3,x
+LINS,29,Mudanca dos ventos,major,49,2,1
+LINS,29,Mudanca dos ventos,major,50,2,9
+LINS,29,Mudanca dos ventos,major,51,#6/b7,7
+LINS,29,Mudanca dos ventos,major,52,6,x
+LINS,29,Mudanca dos ventos,major,53,5,5
+LINS,29,Mudanca dos ventos,major,54,4,x
+LINS,29,Mudanca dos ventos,major,55,3,3
+LINS,29,Mudanca dos ventos,major,56,3,7
+LINS,29,Mudanca dos ventos,major,57,2,6
+LINS,29,Mudanca dos ventos,major,58,1,x
+LINS,29,Mudanca dos ventos,major,59,7,x
+LINS,29,Mudanca dos ventos,major,60,6,3
+LINS,29,Mudanca dos ventos,major,61,5,9
+LINS,29,Mudanca dos ventos,major,62,5,3
+LINS,29,Mudanca dos ventos,major,63,2,x
+LINS,29,Mudanca dos ventos,major,64,1,13
+LINS,29,Mudanca dos ventos,major,65,7,x
+LINS,29,Mudanca dos ventos,major,66,#6/b7,5
+LINS,29,Mudanca dos ventos,major,67,#4/b5,x
+LINS,29,Mudanca dos ventos,major,68,5,11
+LINS,31,Novo tempo,major,1,1,3
+LINS,31,Novo tempo,major,2,3,13
+LINS,31,Novo tempo,major,3,5,1
+LINS,31,Novo tempo,major,4,5,5
+LINS,31,Novo tempo,major,5,3,3
+LINS,31,Novo tempo,major,6,3,3
+LINS,31,Novo tempo,major,7,4,x
+LINS,31,Novo tempo,major,8,5,5
+LINS,31,Novo tempo,major,9,4,x
+LINS,31,Novo tempo,major,10,3,3
+LINS,31,Novo tempo,major,11,2,9
+LINS,31,Novo tempo,major,12,1,1
+LINS,31,Novo tempo,major,13,1,5
+LINS,31,Novo tempo,major,14,3,7
+LINS,31,Novo tempo,major,15,5,9
+LINS,31,Novo tempo,major,16,5,5
+LINS,31,Novo tempo,major,17,1,1
+LINS,31,Novo tempo,major,18,3,3
+LINS,31,Novo tempo,major,19,5,5
+LINS,31,Novo tempo,major,20,6,11
+LINS,31,Novo tempo,major,21,7,5
+LINS,31,Novo tempo,major,22,3,1
+LINS,31,Novo tempo,major,23,5,3
+LINS,31,Novo tempo,major,24,7,9
+LINS,31,Novo tempo,major,25,7,9
+LINS,31,Novo tempo,major,26,6,x
+LINS,31,Novo tempo,major,27,5,7
+LINS,31,Novo tempo,major,28,1,3
+LINS,31,Novo tempo,major,29,5,11
+LINS,31,Novo tempo,major,30,4,5
+LINS,31,Novo tempo,major,31,3,x
+LINS,31,Novo tempo,major,32,2,7
+LINS,31,Novo tempo,major,33,1,13
+LINS,31,Novo tempo,major,34,1,3
+LINS,31,Novo tempo,major,35,7,11
+LINS,31,Novo tempo,major,36,6,x
+LINS,31,Novo tempo,major,37,5,5
+LINS,31,Novo tempo,major,38,6,x
+LINS,31,Novo tempo,major,39,5,9
+LINS,31,Novo tempo,major,40,1,3
+LINS,31,Novo tempo,major,41,3,13
+LINS,31,Novo tempo,major,42,5,1
+LINS,31,Novo tempo,major,43,5,1
+LINS,31,Novo tempo,major,44,3,3
+LINS,31,Novo tempo,major,45,3,3
+LINS,31,Novo tempo,major,46,4,x
+LINS,31,Novo tempo,major,47,5,5
+LINS,31,Novo tempo,major,48,4,x
+LINS,31,Novo tempo,major,49,3,3
+LINS,31,Novo tempo,major,50,2,9
+LINS,31,Novo tempo,major,51,1,1
+LINS,31,Novo tempo,major,52,1,5
+LINS,31,Novo tempo,major,53,3,7
+LINS,31,Novo tempo,major,54,5,9
+LINS,31,Novo tempo,major,55,5,5
+LINS,31,Novo tempo,major,56,1,1
+LINS,31,Novo tempo,major,57,3,3
+LINS,31,Novo tempo,major,58,5,5
+LINS,31,Novo tempo,major,59,6,11
+LINS,31,Novo tempo,major,60,7,5
+LINS,31,Novo tempo,major,61,3,1
+LINS,31,Novo tempo,major,62,5,3
+LINS,31,Novo tempo,major,63,7,9
+LINS,31,Novo tempo,major,64,7,9
+LINS,31,Novo tempo,major,65,6,x
+LINS,31,Novo tempo,major,66,5,7
+LINS,31,Novo tempo,major,67,1,3
+LINS,31,Novo tempo,major,68,5,11
+LINS,31,Novo tempo,major,69,4,5
+LINS,31,Novo tempo,major,70,3,x
+LINS,31,Novo tempo,major,71,2,7
+LINS,31,Novo tempo,major,72,1,13
+LINS,31,Novo tempo,major,73,1,3
+LINS,31,Novo tempo,major,74,7,11
+LINS,31,Novo tempo,major,75,6,x
+LINS,31,Novo tempo,major,76,5,5
+LINS,31,Novo tempo,major,77,6,x
+LINS,31,Novo tempo,major,78,5,9
+LINS,31,Novo tempo,major,79,4,7
+LINS,31,Novo tempo,major,80,3,x
+LINS,31,Novo tempo,major,81,2,5
+LINS,31,Novo tempo,major,82,1,x
+LINS,31,Novo tempo,major,83,7,3
+LINS,31,Novo tempo,major,84,6,3
+LINS,31,Novo tempo,major,85,5,9
+LINS,31,Novo tempo,major,86,4,7
+LINS,31,Novo tempo,major,87,3,x
+LINS,31,Novo tempo,major,88,2,5
+LINS,31,Novo tempo,major,89,1,x
+LINS,31,Novo tempo,major,90,7,3
+LINS,31,Novo tempo,major,91,6,3
+LINS,31,Novo tempo,major,92,5,9
+LINS,31,Novo tempo,major,93,4,x
+LINS,31,Novo tempo,major,94,3,3
+LINS,31,Novo tempo,major,95,2,9
+LINS,31,Novo tempo,major,96,1,x
+LINS,31,Novo tempo,major,97,7,7
+LINS,31,Novo tempo,major,98,6,1
+LINS,31,Novo tempo,major,99,6,1
+LINS,31,Novo tempo,major,100,5,x
+LINS,31,Novo tempo,major,101,#4/b5,3
+LINS,31,Novo tempo,major,102,3,9
+LINS,31,Novo tempo,major,103,2,x
+LINS,31,Novo tempo,major,104,1,7
+LINS,31,Novo tempo,major,105,7,5
+LINS,31,Novo tempo,major,106,7,5
+LINS,31,Novo tempo,major,107,7,9
+LINS,31,Novo tempo,major,108,7,5
+LINS,31,Novo tempo,major,109,7,9
+LINS,31,Novo tempo,major,110,#1/b2,3
+LINS,31,Novo tempo,major,111,2,5
+LINS,31,Novo tempo,major,112,2,9
+LINS,31,Novo tempo,major,113,3,3
+LINS,31,Novo tempo,major,114,1,3
+LINS,32,O amor e meu pais,major,1,3,3
+LINS,32,O amor e meu pais,major,2,5,5
+LINS,32,O amor e meu pais,major,3,1,x
+LINS,32,O amor e meu pais,major,4,2,9
+LINS,32,O amor e meu pais,major,5,3,3
+LINS,32,O amor e meu pais,major,6,5,5
+LINS,32,O amor e meu pais,major,7,1,x
+LINS,32,O amor e meu pais,major,8,2,9
+LINS,32,O amor e meu pais,major,9,3,3
+LINS,32,O amor e meu pais,major,10,5,5
+LINS,32,O amor e meu pais,major,11,1,x
+LINS,32,O amor e meu pais,major,12,2,9
+LINS,32,O amor e meu pais,major,13,3,3
+LINS,32,O amor e meu pais,major,14,5,5
+LINS,32,O amor e meu pais,major,15,1,1
+LINS,32,O amor e meu pais,major,16,3,3
+LINS,32,O amor e meu pais,major,17,5,x
+LINS,32,O amor e meu pais,major,18,6,3
+LINS,32,O amor e meu pais,major,19,6,3
+LINS,32,O amor e meu pais,major,20,5,9
+LINS,32,O amor e meu pais,major,21,6,x
+LINS,32,O amor e meu pais,major,22,5,5
+LINS,32,O amor e meu pais,major,23,5,5
+LINS,32,O amor e meu pais,major,24,1,1
+LINS,32,O amor e meu pais,major,25,6,x
+LINS,32,O amor e meu pais,major,26,5,7
+LINS,32,O amor e meu pais,major,27,5,x
+LINS,32,O amor e meu pais,major,28,4,5
+LINS,32,O amor e meu pais,major,29,4,3
+LINS,32,O amor e meu pais,major,30,6,3
+LINS,32,O amor e meu pais,major,31,1,5
+LINS,32,O amor e meu pais,major,32,4,1
+LINS,32,O amor e meu pais,major,33,6,3
+LINS,32,O amor e meu pais,major,34,6,9
+LINS,32,O amor e meu pais,major,35,7,3
+LINS,32,O amor e meu pais,major,36,2,5
+LINS,32,O amor e meu pais,major,37,6,9
+LINS,32,O amor e meu pais,major,38,5,3
+LINS,32,O amor e meu pais,major,39,2,9
+LINS,32,O amor e meu pais,major,40,3,3
+LINS,32,O amor e meu pais,major,41,4,7
+LINS,32,O amor e meu pais,major,42,5,1
+LINS,32,O amor e meu pais,major,43,6,9
+LINS,32,O amor e meu pais,major,44,3,13
+LINS,32,O amor e meu pais,major,45,2,5
+LINS,32,O amor e meu pais,major,46,1,x
+LINS,32,O amor e meu pais,major,47,7,7
+LINS,32,O amor e meu pais,major,48,6,x
+LINS,32,O amor e meu pais,major,49,5,5
+LINS,32,O amor e meu pais,major,50,2,9
+LINS,32,O amor e meu pais,major,51,3,x
+LINS,32,O amor e meu pais,major,52,4,7
+LINS,32,O amor e meu pais,major,53,5,1
+LINS,32,O amor e meu pais,major,54,6,9
+LINS,32,O amor e meu pais,major,55,3,13
+LINS,32,O amor e meu pais,major,56,2,5
+LINS,32,O amor e meu pais,major,57,1,x
+LINS,32,O amor e meu pais,major,58,7,7
+LINS,32,O amor e meu pais,major,59,6,x
+LINS,32,O amor e meu pais,major,60,5,5
+LINS,32,O amor e meu pais,major,61,2,9
+LINS,32,O amor e meu pais,major,62,3,x
+LINS,32,O amor e meu pais,major,63,2,5
+LINS,32,O amor e meu pais,major,64,1,x
+LINS,32,O amor e meu pais,major,65,2,5
+LINS,32,O amor e meu pais,major,66,1,x
+LINS,32,O amor e meu pais,major,67,2,5
+LINS,32,O amor e meu pais,major,68,1,x
+LINS,32,O amor e meu pais,major,69,2,5
+LINS,32,O amor e meu pais,major,70,3,3
+LINS,32,O amor e meu pais,major,71,2,x
+LINS,32,O amor e meu pais,major,72,3,3
+LINS,32,O amor e meu pais,major,73,2,x
+LINS,32,O amor e meu pais,major,74,3,3
+LINS,32,O amor e meu pais,major,75,1,1
+LINS,32,O amor e meu pais,major,76,3,3
+LINS,32,O amor e meu pais,major,77,#4/b5,1
+LINS,32,O amor e meu pais,major,78,5,x
+LINS,32,O amor e meu pais,major,79,#4/b5,1
+LINS,32,O amor e meu pais,major,80,5,x
+LINS,32,O amor e meu pais,major,81,#4/b5,5
+LINS,32,O amor e meu pais,major,82,7,1
+LINS,32,O amor e meu pais,major,83,7,1
+LINS,32,O amor e meu pais,major,84,6,7
+LINS,32,O amor e meu pais,major,85,5,11
+LINS,32,O amor e meu pais,major,86,7,x
+LINS,32,O amor e meu pais,major,87,6,11
+LINS,32,O amor e meu pais,major,88,5,3
+LINS,32,O amor e meu pais,major,89,3,1
+LINS,32,O amor e meu pais,major,90,3,3
+LINS,32,O amor e meu pais,major,91,#4/b5,x
+LINS,32,O amor e meu pais,major,92,5,5
+LINS,32,O amor e meu pais,major,93,#4/b5,#11
+LINS,32,O amor e meu pais,major,94,5,x
+LINS,32,O amor e meu pais,major,95,#4/b5,#11
+LINS,32,O amor e meu pais,major,96,3,5
+LINS,32,O amor e meu pais,major,97,2,x
+LINS,32,O amor e meu pais,major,98,3,11
+LINS,32,O amor e meu pais,major,99,5,5
+LINS,32,O amor e meu pais,major,100,2,9
+LINS,32,O amor e meu pais,major,101,7,7
+LINS,32,O amor e meu pais,major,102,6,x
+LINS,32,O amor e meu pais,major,103,5,x
+LINS,32,O amor e meu pais,major,104,6,5
+LINS,32,O amor e meu pais,major,105,5,3
+LINS,32,O amor e meu pais,major,106,7,3
+LINS,32,O amor e meu pais,major,107,6,x
+LINS,32,O amor e meu pais,major,108,5,1
+LINS,32,O amor e meu pais,major,109,1,3
+LINS,32,O amor e meu pais,major,110,7,3
+LINS,32,O amor e meu pais,major,111,6,9
+LINS,32,O amor e meu pais,major,112,5,1
+LINS,32,O amor e meu pais,major,113,5,5
+LINS,32,O amor e meu pais,major,114,1,1
+LINS,32,O amor e meu pais,major,115,3,3
+LINS,32,O amor e meu pais,major,116,5,x
+LINS,32,O amor e meu pais,major,117,6,5
+LINS,36,Saindo de mim,major,1,5,5
+LINS,36,Saindo de mim,major,2,6,x
+LINS,36,Saindo de mim,major,3,7,7
+LINS,36,Saindo de mim,major,4,1,b13
+LINS,36,Saindo de mim,major,5,2,x
+LINS,36,Saindo de mim,major,6,3,1
+LINS,36,Saindo de mim,major,7,5,7
+LINS,36,Saindo de mim,major,8,6,1
+LINS,36,Saindo de mim,major,9,3,5
+LINS,36,Saindo de mim,major,10,#1/b2,3
+LINS,36,Saindo de mim,major,11,6,1
+LINS,36,Saindo de mim,major,12,3,x
+LINS,36,Saindo de mim,major,13,4,3
+LINS,36,Saindo de mim,major,14,2,1
+LINS,36,Saindo de mim,major,15,3,x
+LINS,36,Saindo de mim,major,16,4,3
+LINS,36,Saindo de mim,major,17,3,x
+LINS,36,Saindo de mim,major,18,2,1
+LINS,36,Saindo de mim,major,19,4,3
+LINS,36,Saindo de mim,major,20,3,3
+LINS,36,Saindo de mim,major,21,2,9
+LINS,36,Saindo de mim,major,22,5,5
+LINS,36,Saindo de mim,major,23,7,7
+LINS,36,Saindo de mim,major,24,2,3
+LINS,36,Saindo de mim,major,25,5,9
+LINS,36,Saindo de mim,major,26,4,5
+LINS,36,Saindo de mim,major,27,3,3
+LINS,36,Saindo de mim,major,28,5,9
+LINS,36,Saindo de mim,major,29,5,5
+LINS,36,Saindo de mim,major,30,6,x
+LINS,36,Saindo de mim,major,31,7,7
+LINS,36,Saindo de mim,major,32,1,b13
+LINS,36,Saindo de mim,major,33,2,x
+LINS,36,Saindo de mim,major,34,3,1
+LINS,36,Saindo de mim,major,35,5,7
+LINS,36,Saindo de mim,major,36,6,1
+LINS,36,Saindo de mim,major,37,3,5
+LINS,36,Saindo de mim,major,38,#1/b2,3
+LINS,36,Saindo de mim,major,39,6,1
+LINS,36,Saindo de mim,major,40,3,x
+LINS,36,Saindo de mim,major,41,4,3
+LINS,36,Saindo de mim,major,42,2,1
+LINS,36,Saindo de mim,major,43,3,x
+LINS,36,Saindo de mim,major,44,4,3
+LINS,36,Saindo de mim,major,45,3,x
+LINS,36,Saindo de mim,major,46,2,1
+LINS,36,Saindo de mim,major,47,4,7
+LINS,36,Saindo de mim,major,48,5,1
+LINS,36,Saindo de mim,major,49,7,3
+LINS,36,Saindo de mim,major,50,2,5
+LINS,36,Saindo de mim,major,51,5,9
+LINS,36,Saindo de mim,major,52,4,5
+LINS,36,Saindo de mim,major,53,3,3
+LINS,36,Saindo de mim,major,54,1,#11
+LINS,36,Saindo de mim,major,55,6,3
+LINS,36,Saindo de mim,major,56,4,1
+LINS,36,Saindo de mim,major,57,5,x
+LINS,36,Saindo de mim,major,58,6,9
+LINS,36,Saindo de mim,major,59,2,5
+LINS,36,Saindo de mim,major,60,7,3
+LINS,36,Saindo de mim,major,61,5,5
+LINS,36,Saindo de mim,major,62,3,3
+LINS,36,Saindo de mim,major,63,4,x
+LINS,36,Saindo de mim,major,64,5,13
+LINS,36,Saindo de mim,major,65,4,x
+LINS,36,Saindo de mim,major,66,3,3
+LINS,36,Saindo de mim,major,67,6,3
+LINS,36,Saindo de mim,major,68,#4/b5,1
+LINS,36,Saindo de mim,major,69,5,x
+LINS,36,Saindo de mim,major,70,6,7
+LINS,36,Saindo de mim,major,71,2,b9/#9
+LINS,36,Saindo de mim,major,72,7,1
+LINS,36,Saindo de mim,major,73,5,5
+LINS,36,Saindo de mim,major,74,5,11
+LINS,36,Saindo de mim,major,75,3,3
+LINS,36,Saindo de mim,major,76,4,5
+LINS,36,Saindo de mim,major,77,5,x
+LINS,36,Saindo de mim,major,78,4,5
+LINS,36,Saindo de mim,major,79,6,7
+LINS,36,Saindo de mim,major,80,6,1
+LINS,36,Saindo de mim,major,81,6,5
+LINS,36,Saindo de mim,major,82,6,9
+LINS,36,Saindo de mim,major,83,4,7
+LINS,36,Saindo de mim,major,84,5,x
+LINS,36,Saindo de mim,major,85,6,9
+LINS,36,Saindo de mim,major,86,2,5
+LINS,36,Saindo de mim,major,87,7,3
+LINS,36,Saindo de mim,major,88,5,5
+LINS,36,Saindo de mim,major,89,3,3
+LINS,36,Saindo de mim,major,90,4,5
+LINS,36,Saindo de mim,major,91,5,x
+LINS,36,Saindo de mim,major,92,4,x
+LINS,36,Saindo de mim,major,93,3,3
+LINS,36,Saindo de mim,major,94,6,3
+LINS,36,Saindo de mim,major,95,#4/b5,1
+LINS,36,Saindo de mim,major,96,5,x
+LINS,36,Saindo de mim,major,97,6,7
+LINS,36,Saindo de mim,major,98,#4/b5,5
+LINS,36,Saindo de mim,major,99,2,b9/#9
+LINS,36,Saindo de mim,major,100,7,1
+LINS,36,Saindo de mim,major,101,5,5
+LINS,36,Saindo de mim,major,102,5,11
+LINS,36,Saindo de mim,major,103,1,9
+LINS,36,Saindo de mim,major,104,7,9
+LINS,36,Saindo de mim,major,105,6,1
+LINS,36,Saindo de mim,major,106,5,7
+LINS,36,Saindo de mim,major,107,6,1
+LINS,36,Saindo de mim,major,108,3,9
+LINS,36,Saindo de mim,major,109,6,9
+LINS,36,Saindo de mim,major,110,#5/b6,9
+LINS,36,Saindo de mim,major,111,4,7
+LINS,36,Saindo de mim,major,112,3,13
+LINS,36,Saindo de mim,major,113,2,x
+LINS,36,Saindo de mim,major,114,1,1
+LINS,40,Um fado,major,1,1,1
+LINS,40,Um fado,major,2,7,x
+LINS,40,Um fado,major,3,1,3
+LINS,40,Um fado,major,4,2,x
+LINS,40,Um fado,major,5,3,3
+LINS,40,Um fado,major,6,4,1
+LINS,40,Um fado,major,7,3,x
+LINS,40,Um fado,major,8,4,5
+LINS,40,Um fado,major,9,5,x
+LINS,40,Um fado,major,10,6,3
+LINS,40,Um fado,major,11,1,1
+LINS,40,Um fado,major,12,7,7
+LINS,40,Um fado,major,13,5,7
+LINS,40,Um fado,major,14,3,5
+LINS,40,Um fado,major,15,1,7
+LINS,40,Um fado,major,16,3,9
+LINS,40,Um fado,major,17,2,5
+LINS,40,Um fado,major,18,1,x
+LINS,40,Um fado,major,19,7,x
+LINS,40,Um fado,major,20,1,1
+LINS,40,Um fado,major,21,5,1
+LINS,40,Um fado,major,22,1,1
+LINS,40,Um fado,major,23,7,x
+LINS,40,Um fado,major,24,1,3
+LINS,40,Um fado,major,25,2,x
+LINS,40,Um fado,major,26,3,3
+LINS,40,Um fado,major,27,4,7
+LINS,40,Um fado,major,28,4,1
+LINS,40,Um fado,major,29,3,x
+LINS,40,Um fado,major,30,4,5
+LINS,40,Um fado,major,31,5,x
+LINS,40,Um fado,major,32,6,3
+LINS,40,Um fado,major,33,1,9
+LINS,40,Um fado,major,34,1,1
+LINS,40,Um fado,major,35,7,7
+LINS,40,Um fado,major,36,5,7
+LINS,40,Um fado,major,37,3,5
+LINS,40,Um fado,major,38,1,7
+LINS,40,Um fado,major,39,3,9
+LINS,40,Um fado,major,40,2,5
+LINS,40,Um fado,major,41,1,x
+LINS,40,Um fado,major,42,7,x
+LINS,40,Um fado,major,43,1,1
+LINS,40,Um fado,major,44,1,1
+LINS,40,Um fado,major,45,7,x
+LINS,40,Um fado,major,46,1,3
+LINS,40,Um fado,major,47,2,x
+LINS,40,Um fado,major,48,3,3
+LINS,40,Um fado,major,49,3,13
+LINS,40,Um fado,major,50,5,3
+LINS,40,Um fado,major,51,#4/b5,x
+LINS,40,Um fado,major,52,5,7
+LINS,40,Um fado,major,53,6,x
+LINS,40,Um fado,major,54,#6/b7,5
+LINS,40,Um fado,major,55,1,x
+LINS,40,Um fado,major,56,#6/b7,b9/#9
+LINS,40,Um fado,major,57,6,5
+LINS,40,Um fado,major,58,#4/b5,3
+LINS,40,Um fado,major,59,3,9
+LINS,40,Um fado,major,60,2,1
+LINS,40,Um fado,major,61,6,5
+LINS,40,Um fado,major,62,#4/b5,3
+LINS,40,Um fado,major,63,3,9
+LINS,40,Um fado,major,64,2,1
+LINS,40,Um fado,major,65,2,5
+LINS,40,Um fado,major,66,7,3
+LINS,40,Um fado,major,67,6,9
+LINS,40,Um fado,major,68,5,1
+LINS,40,Um fado,major,69,6,9
+LINS,40,Um fado,major,70,#5/b6,5
+LINS,40,Um fado,major,71,1,1
+LINS,40,Um fado,major,72,7,x
+LINS,40,Um fado,major,73,1,3
+LINS,40,Um fado,major,74,2,x
+LINS,40,Um fado,major,75,3,3
+LINS,40,Um fado,major,76,4,1
+LINS,40,Um fado,major,77,3,x
+LINS,40,Um fado,major,78,4,5
+LINS,40,Um fado,major,79,5,x
+LINS,40,Um fado,major,80,6,3
+LINS,40,Um fado,major,81,1,1
+LINS,40,Um fado,major,82,7,7
+LINS,40,Um fado,major,83,5,7
+LINS,40,Um fado,major,84,6,x
+LINS,40,Um fado,major,85,5,7
+LINS,40,Um fado,major,86,3,5
+LINS,40,Um fado,major,87,1,7
+LINS,40,Um fado,major,88,3,9
+LINS,40,Um fado,major,89,2,5
+LINS,40,Um fado,major,90,1,x
+LINS,40,Um fado,major,91,7,x
+LINS,40,Um fado,major,92,1,7
+LINS,40,Um fado,major,93,1,3
+LINS,40,Um fado,major,94,1,7
+LINS,40,Um fado,major,95,1,3
+LINS,40,Um fado,major,96,1,7
+LINS,40,Um fado,major,97,1,3
+LINS,40,Um fado,major,98,1,1
+LINS,41,Velas icadas,major,1,3,9
+LINS,41,Velas icadas,major,2,5,11
+LINS,41,Velas icadas,major,3,1,7
+LINS,41,Velas icadas,major,4,3,9
+LINS,41,Velas icadas,major,5,6,9
+LINS,41,Velas icadas,major,6,1,3
+LINS,41,Velas icadas,major,7,4,1
+LINS,41,Velas icadas,major,8,6,3
+LINS,41,Velas icadas,major,9,5,5
+LINS,41,Velas icadas,major,10,3,3
+LINS,41,Velas icadas,major,11,3,9
+LINS,41,Velas icadas,major,12,5,11
+LINS,41,Velas icadas,major,13,1,7
+LINS,41,Velas icadas,major,14,3,9
+LINS,41,Velas icadas,major,15,6,9
+LINS,41,Velas icadas,major,16,1,3
+LINS,41,Velas icadas,major,17,4,7
+LINS,41,Velas icadas,major,18,6,9
+LINS,41,Velas icadas,major,19,5,3
+LINS,41,Velas icadas,major,20,5,9
+LINS,41,Velas icadas,major,21,#6/b7,11
+LINS,41,Velas icadas,major,22,#2/b3,7
+LINS,41,Velas icadas,major,23,5,9
+LINS,41,Velas icadas,major,24,1,9
+LINS,41,Velas icadas,major,25,#2/b3,3
+LINS,41,Velas icadas,major,26,#5/b6,7
+LINS,41,Velas icadas,major,27,1,9
+LINS,41,Velas icadas,major,28,#6/b7,5
+LINS,41,Velas icadas,major,29,5,3
+LINS,41,Velas icadas,major,30,3,9
+LINS,41,Velas icadas,major,31,5,11
+LINS,41,Velas icadas,major,32,1,7
+LINS,41,Velas icadas,major,33,3,9
+LINS,41,Velas icadas,major,34,6,9
+LINS,41,Velas icadas,major,35,1,3
+LINS,41,Velas icadas,major,36,4,7
+LINS,41,Velas icadas,major,37,7,3
+LINS,41,Velas icadas,major,38,3,3
+LINS,41,Velas icadas,major,39,3,11
+LINS,41,Velas icadas,major,40,2,3
+LINS,41,Velas icadas,major,41,4,b9/#9
+LINS,41,Velas icadas,major,42,3,x
+LINS,41,Velas icadas,major,43,2,7
+LINS,41,Velas icadas,major,44,7,x
+LINS,41,Velas icadas,major,45,1,3
+LINS,41,Velas icadas,major,46,#5/b6,5
+LINS,41,Velas icadas,major,47,5,11
+LINS,41,Velas icadas,major,48,#6/b7,b9/#9
+LINS,41,Velas icadas,major,49,#5/b6,x
+LINS,41,Velas icadas,major,50,5,1
+LINS,41,Velas icadas,major,51,4,x
+LINS,41,Velas icadas,major,52,5,5
+LINS,41,Velas icadas,major,53,3,11
+LINS,41,Velas icadas,major,54,2,3
+LINS,41,Velas icadas,major,55,4,b9/#9
+LINS,41,Velas icadas,major,56,3,x
+LINS,41,Velas icadas,major,57,2,7
+LINS,41,Velas icadas,major,58,7,9
+LINS,41,Velas icadas,major,59,3,5
+LINS,41,Velas icadas,major,60,3,13
+LINS,41,Velas icadas,major,61,5,3
+LINS,41,Velas icadas,major,62,1,7
+LINS,41,Velas icadas,major,63,3,9
+LINS,41,Velas icadas,major,64,6,9
+LINS,41,Velas icadas,major,65,1,11
+LINS,41,Velas icadas,major,66,4,7
+LINS,41,Velas icadas,major,67,6,9
+LINS,41,Velas icadas,major,68,5,5
+LINS,41,Velas icadas,major,69,3,3
+LINS,41,Velas icadas,major,70,3,9
+LINS,41,Velas icadas,major,71,5,3
+LINS,41,Velas icadas,major,72,1,7
+LINS,41,Velas icadas,major,73,3,9
+LINS,41,Velas icadas,major,74,6,9
+LINS,41,Velas icadas,major,75,5,1
+LINS,41,Velas icadas,major,76,1,11
+LINS,41,Velas icadas,major,77,1,1
+LINS,41,Velas icadas,major,78,#6/b7,3
+LINS,41,Velas icadas,major,79,6,x
+LINS,41,Velas icadas,major,80,5,1
+LINS,41,Velas icadas,major,81,1,1
+LINS,42,Vitoriosa,major,1,3,3
+LINS,42,Vitoriosa,major,2,2,x
+LINS,42,Vitoriosa,major,3,1,1
+LINS,42,Vitoriosa,major,4,1,x
+LINS,42,Vitoriosa,major,5,2,5
+LINS,42,Vitoriosa,major,6,3,13
+LINS,42,Vitoriosa,major,7,4,x
+LINS,42,Vitoriosa,major,8,5,1
+LINS,42,Vitoriosa,major,9,2,5
+LINS,42,Vitoriosa,major,10,1,1
+LINS,42,Vitoriosa,major,11,3,3
+LINS,42,Vitoriosa,major,12,2,5
+LINS,42,Vitoriosa,major,13,1,x
+LINS,42,Vitoriosa,major,14,2,5
+LINS,42,Vitoriosa,major,15,3,13
+LINS,42,Vitoriosa,major,16,4,x
+LINS,42,Vitoriosa,major,17,5,1
+LINS,42,Vitoriosa,major,18,2,5
+LINS,42,Vitoriosa,major,19,3,3
+LINS,42,Vitoriosa,major,20,3,3
+LINS,42,Vitoriosa,major,21,4,3
+LINS,42,Vitoriosa,major,22,3,9
+LINS,42,Vitoriosa,major,23,2,3
+LINS,42,Vitoriosa,major,24,#1/b2,x
+LINS,42,Vitoriosa,major,25,2,7
+LINS,42,Vitoriosa,major,26,3,1
+LINS,42,Vitoriosa,major,27,1,3
+LINS,42,Vitoriosa,major,28,6,5
+LINS,42,Vitoriosa,major,29,5,11
+LINS,42,Vitoriosa,major,30,5,1
+LINS,42,Vitoriosa,major,31,2,11
+LINS,42,Vitoriosa,major,32,1,3
+LINS,42,Vitoriosa,major,33,7,5
+LINS,42,Vitoriosa,major,34,6,11
+LINS,42,Vitoriosa,major,35,5,3
+LINS,42,Vitoriosa,major,36,#4/b5,9
+LINS,42,Vitoriosa,major,37,3,5
+LINS,42,Vitoriosa,major,38,2,11
+LINS,42,Vitoriosa,major,39,1,3
+LINS,42,Vitoriosa,major,40,7,5
+LINS,42,Vitoriosa,major,41,6,11
+LINS,42,Vitoriosa,major,42,5,3
+LINS,42,Vitoriosa,major,43,#4/b5,9
+LINS,42,Vitoriosa,major,44,3,1
+LINS,42,Vitoriosa,major,45,1,5
+LINS,42,Vitoriosa,major,46,7,x
+LINS,42,Vitoriosa,major,47,1,5
+LINS,42,Vitoriosa,major,48,2,x
+LINS,42,Vitoriosa,major,49,3,7
+LINS,42,Vitoriosa,major,50,7,x
+LINS,42,Vitoriosa,major,51,#6/b7,x
+LINS,42,Vitoriosa,major,52,6,x
+LINS,42,Vitoriosa,major,53,#5/b6,b9/#9
+LINS,42,Vitoriosa,major,54,5,x
+LINS,42,Vitoriosa,major,55,#5/b6,b9/#9
+LINS,42,Vitoriosa,major,56,#6/b7,b9/#9
+LINS,42,Vitoriosa,major,57,5,5
+LINS,42,Vitoriosa,major,58,3,3
+LINS,42,Vitoriosa,major,59,3,x
+LINS,42,Vitoriosa,major,60,4,7
+LINS,42,Vitoriosa,major,61,3,13
+LINS,42,Vitoriosa,major,62,5,5
+LINS,42,Vitoriosa,major,63,5,7
+LINS,42,Vitoriosa,major,64,7,x
+LINS,42,Vitoriosa,major,65,1,7
+LINS,42,Vitoriosa,major,66,7,13
+LINS,42,Vitoriosa,major,67,2,5
+LINS,43,Antes que seja tarde,minor,1,1,1
+LINS,43,Antes que seja tarde,minor,2,2,x
+LINS,43,Antes que seja tarde,minor,3,1,1
+LINS,43,Antes que seja tarde,minor,4,b7,7
+LINS,43,Antes que seja tarde,minor,5,5,5
+LINS,43,Antes que seja tarde,minor,6,#6,6
+LINS,43,Antes que seja tarde,minor,7,1,1
+LINS,43,Antes que seja tarde,minor,8,#6,6
+LINS,43,Antes que seja tarde,minor,9,4,x
+LINS,43,Antes que seja tarde,minor,10,3,3
+LINS,43,Antes que seja tarde,minor,11,1,1
+LINS,43,Antes que seja tarde,minor,12,2,x
+LINS,43,Antes que seja tarde,minor,13,3,3
+LINS,43,Antes que seja tarde,minor,14,5,5
+LINS,43,Antes que seja tarde,minor,15,3,3
+LINS,43,Antes que seja tarde,minor,16,2,x
+LINS,43,Antes que seja tarde,minor,17,1,1
+LINS,43,Antes que seja tarde,minor,18,3,3
+LINS,43,Antes que seja tarde,minor,19,2,9
+LINS,43,Antes que seja tarde,minor,20,5,5
+LINS,43,Antes que seja tarde,minor,21,1,1
+LINS,43,Antes que seja tarde,minor,22,b7,7
+LINS,43,Antes que seja tarde,minor,23,1,1
+LINS,43,Antes que seja tarde,minor,24,1,5
+LINS,43,Antes que seja tarde,minor,25,4,5
+LINS,43,Antes que seja tarde,minor,26,6,7
+LINS,43,Antes que seja tarde,minor,27,1,9
+LINS,43,Antes que seja tarde,minor,28,3,x
+LINS,43,Antes que seja tarde,minor,29,2,3
+LINS,43,Antes que seja tarde,minor,30,2,7
+LINS,43,Antes que seja tarde,minor,31,6,7
+LINS,43,Antes que seja tarde,minor,32,b7,x
+LINS,43,Antes que seja tarde,minor,33,1,9
+LINS,43,Antes que seja tarde,minor,34,3,1
+LINS,43,Antes que seja tarde,minor,35,4,x
+LINS,43,Antes que seja tarde,minor,36,3,5
+LINS,43,Antes que seja tarde,minor,37,2,1
+LINS,43,Antes que seja tarde,minor,38,1,x
+LINS,43,Antes que seja tarde,minor,39,7,6
+LINS,43,Antes que seja tarde,minor,40,6,b9/#9
+LINS,43,Antes que seja tarde,minor,41,5,x
+LINS,43,Antes que seja tarde,minor,42,4,11
+LINS,43,Antes que seja tarde,minor,43,3,3
+LINS,45,Aparecida,minor,1,3,3
+LINS,45,Aparecida,minor,2,3,7
+LINS,45,Aparecida,minor,3,2,3
+LINS,45,Aparecida,minor,4,b7,1
+LINS,45,Aparecida,minor,5,5,3
+LINS,45,Aparecida,minor,6,5,1
+LINS,45,Aparecida,minor,7,3,3
+LINS,45,Aparecida,minor,8,2,x
+LINS,45,Aparecida,minor,9,3,3
+LINS,45,Aparecida,minor,10,2,9
+LINS,45,Aparecida,minor,11,1,1
+LINS,45,Aparecida,minor,12,b7,7
+LINS,45,Aparecida,minor,13,5,9
+LINS,45,Aparecida,minor,14,1,5
+LINS,45,Aparecida,minor,15,1,9
+LINS,45,Aparecida,minor,16,b7,x
+LINS,45,Aparecida,minor,17,6,7
+LINS,45,Aparecida,minor,18,5,13
+LINS,45,Aparecida,minor,19,4,5
+LINS,45,Aparecida,minor,20,b7,1
+LINS,45,Aparecida,minor,21,1,13
+LINS,45,Aparecida,minor,22,b7,5
+LINS,45,Aparecida,minor,23,5,3
+LINS,45,Aparecida,minor,24,3,1
+LINS,45,Aparecida,minor,25,#4/b5,3
+LINS,45,Aparecida,minor,26,4,b9/#9
+LINS,45,Aparecida,minor,27,3,b9/#9
+LINS,45,Aparecida,minor,28,#4/b5,3
+LINS,45,Aparecida,minor,29,4,b9/#9
+LINS,45,Aparecida,minor,30,3,b9/#9
+LINS,45,Aparecida,minor,31,6,1
+LINS,45,Aparecida,minor,32,3,5
+LINS,45,Aparecida,minor,33,1,3
+LINS,45,Aparecida,minor,34,5,1
+LINS,45,Aparecida,minor,35,3,3
+LINS,45,Aparecida,minor,36,3,7
+LINS,45,Aparecida,minor,37,2,3
+LINS,45,Aparecida,minor,38,b7,1
+LINS,45,Aparecida,minor,39,5,3
+LINS,45,Aparecida,minor,40,#1/b2,5
+LINS,45,Aparecida,minor,41,#4/b5,x
+LINS,45,Aparecida,minor,42,5,5
+LINS,45,Aparecida,minor,43,1,1
+LINS,45,Aparecida,minor,44,5,5
+LINS,45,Aparecida,minor,45,1,5
+LINS,50,Cartomante,minor,1,3,3
+LINS,50,Cartomante,minor,2,5,5
+LINS,50,Cartomante,minor,3,1,1
+LINS,50,Cartomante,minor,4,3,3
+LINS,50,Cartomante,minor,5,3,3
+LINS,50,Cartomante,minor,6,2,x
+LINS,50,Cartomante,minor,7,3,5
+LINS,50,Cartomante,minor,8,5,7
+LINS,50,Cartomante,minor,9,1,3
+LINS,50,Cartomante,minor,10,3,5
+LINS,50,Cartomante,minor,11,3,x
+LINS,50,Cartomante,minor,12,2,3
+LINS,50,Cartomante,minor,13,#1/b2,1
+LINS,50,Cartomante,minor,14,3,9
+LINS,50,Cartomante,minor,15,5,3
+LINS,50,Cartomante,minor,16,#1/b2,7
+LINS,50,Cartomante,minor,17,#1/b2,x
+LINS,50,Cartomante,minor,18,1,7
+LINS,50,Cartomante,minor,19,1,7
+LINS,50,Cartomante,minor,20,2,1
+LINS,50,Cartomante,minor,21,#4/b5,3
+LINS,50,Cartomante,minor,22,1,7
+LINS,50,Cartomante,minor,23,1,x
+LINS,50,Cartomante,minor,24,7,3
+LINS,50,Cartomante,minor,25,3,3
+LINS,50,Cartomante,minor,26,5,5
+LINS,50,Cartomante,minor,27,1,1
+LINS,50,Cartomante,minor,28,3,3
+LINS,50,Cartomante,minor,29,3,3
+LINS,50,Cartomante,minor,30,2,x
+LINS,50,Cartomante,minor,31,3,5
+LINS,50,Cartomante,minor,32,5,7
+LINS,50,Cartomante,minor,33,1,3
+LINS,50,Cartomante,minor,34,3,5
+LINS,50,Cartomante,minor,35,3,x
+LINS,50,Cartomante,minor,36,2,3
+LINS,50,Cartomante,minor,37,#1/b2,1
+LINS,50,Cartomante,minor,38,3,9
+LINS,50,Cartomante,minor,39,5,3
+LINS,50,Cartomante,minor,40,#1/b2,7
+LINS,50,Cartomante,minor,41,#1/b2,x
+LINS,50,Cartomante,minor,42,1,7
+LINS,50,Cartomante,minor,43,1,7
+LINS,50,Cartomante,minor,44,2,1
+LINS,50,Cartomante,minor,45,#4/b5,3
+LINS,50,Cartomante,minor,46,1,7
+LINS,50,Cartomante,minor,47,1,x
+LINS,50,Cartomante,minor,48,7,3
+LINS,50,Cartomante,minor,49,1,1

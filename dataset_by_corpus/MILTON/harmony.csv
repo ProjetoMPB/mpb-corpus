@@ -1,0 +1,1397 @@
+corpus_id,composition_id,composition_name,chord_index,root,bass,chord_type,chord_symbol,functional_category,key,mode,position
+MILTON,1,A sede do peixe,1,9,9,z0,*m7,I,9,minor,1.0
+MILTON,1,A sede do peixe,2,11,9,Y0,*7,V/V,9,minor,5.0
+MILTON,1,A sede do peixe,3,10,9,Z0,*M7,bII7M,9,minor,6.0
+MILTON,1,A sede do peixe,4,9,9,z0,*m7,I,9,minor,7.0
+MILTON,1,A sede do peixe,5,4,9,z2,*m7.9,Vm7,9,minor,8.0
+MILTON,1,A sede do peixe,6,9,9,z0,*m7,I,9,minor,9.0
+MILTON,1,A sede do peixe,7,2,9,V0,*,IV7,9,minor,10.0
+MILTON,1,A sede do peixe,8,4,9,V0,*,V,9,minor,11.0
+MILTON,1,A sede do peixe,9,9,9,z0,*m7,I,9,minor,12.0
+MILTON,1,A sede do peixe,10,11,9,Y0,*7,V/V,9,minor,13.0
+MILTON,1,A sede do peixe,11,10,9,Z0,*M7,bII7M,9,minor,14.0
+MILTON,1,A sede do peixe,12,9,9,z0,*m7,I,9,minor,15.0
+MILTON,1,A sede do peixe,13,4,9,z2,*m7.9,Vm7,9,minor,16.0
+MILTON,1,A sede do peixe,14,2,2,z2,*m7.9,IV,9,minor,17.0
+MILTON,1,A sede do peixe,15,4,4,z2,*m7.9,Vm7,9,minor,19.0
+MILTON,1,A sede do peixe,16,2,2,V3,*(#11),IV7,9,minor,21.0
+MILTON,1,A sede do peixe,17,2,2,V0,*,IV7,9,minor,22.0
+MILTON,1,A sede do peixe,18,2,2,z2,*m7.9,IV,9,minor,23.0
+MILTON,1,A sede do peixe,19,4,4,z2,*m7.9,Vm7,9,minor,23.5
+MILTON,1,A sede do peixe,20,7,5,Y0,*7,bVII7,9,minor,24.0
+MILTON,1,A sede do peixe,21,9,9,V3,*(#11),I,9,minor,25.0
+MILTON,2,A terceira margem do rio,1,4,4,z2,*m7.9,I,4,minor,1.0
+MILTON,2,A terceira margem do rio,2,4,4,z1.1,*m6.9,I,4,minor,2.0
+MILTON,2,A terceira margem do rio,3,4,4,z2,*m7.9,I,4,minor,3.0
+MILTON,2,A terceira margem do rio,4,4,4,z1.1,*m6.9,I,4,minor,4.0
+MILTON,2,A terceira margem do rio,5,4,4,z2,*m7.9,I,4,minor,5.0
+MILTON,2,A terceira margem do rio,6,4,4,z1.1,*m6.9,I,4,minor,6.0
+MILTON,2,A terceira margem do rio,7,4,4,z2,*m7.9,I,4,minor,7.0
+MILTON,2,A terceira margem do rio,8,4,4,z1.1,*m6.9,I,4,minor,8.0
+MILTON,2,A terceira margem do rio,9,0,0,V0,*,bVII7M,2,major,9.0
+MILTON,2,A terceira margem do rio,10,2,2,V0,*,I,2,major,10.0
+MILTON,2,A terceira margem do rio,11,11,11,v0,*m,VI,2,major,10.25
+MILTON,2,A terceira margem do rio,12,9,9,v0,*m,Vm7,2,major,10.75
+MILTON,2,A terceira margem do rio,13,0,0,V0,*,bVII7M,2,major,11.0
+MILTON,2,A terceira margem do rio,14,2,2,V0,*,I,2,major,12.0
+MILTON,2,A terceira margem do rio,15,4,4,v0,*m,II,2,major,12.5
+MILTON,2,A terceira margem do rio,16,2,2,V0,*,I,2,major,12.75
+MILTON,2,A terceira margem do rio,17,0,0,V0,*,bVII7M,2,major,13.0
+MILTON,2,A terceira margem do rio,18,2,2,V0,*,I,2,major,14.0
+MILTON,2,A terceira margem do rio,19,11,11,v0,*m,VI,2,major,14.5
+MILTON,2,A terceira margem do rio,20,9,9,v0,*m,Vm7,2,major,14.75
+MILTON,2,A terceira margem do rio,21,2,2,V0,*,I,2,major,15.0
+MILTON,2,A terceira margem do rio,22,4,4,z2,*m7.9,I,4,minor,17.0
+MILTON,3,Amor amigo,1,2,2,z2,*m7.9,I,2,minor,1.0
+MILTON,3,Amor amigo,2,4,4,Y3,*7(#11),V/V,2,minor,3.0
+MILTON,3,Amor amigo,3,4,4,Y2.2.1,*7(b9)13,V/V,2,minor,4.0
+MILTON,3,Amor amigo,4,5,5,Y2.2.1,*7(b9)13,V/VI,2,minor,4.25
+MILTON,3,Amor amigo,5,6,6,Y2.2.1,*7(b9)13,?,2,minor,4.5
+MILTON,3,Amor amigo,6,9,9,Y2.2.1,*7(b9)13,V,2,minor,4.75
+MILTON,3,Amor amigo,7,2,2,z2,*m7.9,I,2,minor,5.0
+MILTON,3,Amor amigo,8,11,11,y0,*Ø,VI,2,minor,7.0
+MILTON,3,Amor amigo,9,10,10,Y3,*7(#11),SubV/V,2,minor,8.0
+MILTON,3,Amor amigo,10,10,10,Z3,*M7(#11),Np/V,2,minor,9.0
+MILTON,3,Amor amigo,11,5,5,z2,*m7.9,?,2,minor,10.0
+MILTON,3,Amor amigo,12,9,9,z2,*m7.9,Vm7,2,minor,11.0
+MILTON,3,Amor amigo,13,2,2,Y2,*7.9,I,2,minor,12.0
+MILTON,3,Amor amigo,14,7,11,V0,*,IV7,2,minor,13.0
+MILTON,3,Amor amigo,15,7,11,Y3,*7(#11),IV7,2,minor,13.25
+MILTON,3,Amor amigo,16,7,10,v0,*m,IV,2,minor,14.0
+MILTON,3,Amor amigo,17,9,9,z0,*m7,Vm7,2,minor,14.75
+MILTON,3,Amor amigo,18,2,2,z2,*m7.9,I,2,minor,15.0
+MILTON,4,Cais,1,0,0,z2,*m7.9,I,0,minor,1.0
+MILTON,4,Cais,2,0,0,z1.1,*m6.9,I,0,minor,2.0
+MILTON,4,Cais,3,0,0,z2,*m7.9,I,0,minor,3.0
+MILTON,4,Cais,4,0,0,z1.1,*m6.9,I,0,minor,3.5
+MILTON,4,Cais,5,1,0,Z0,*M7,bII7M,0,minor,4.0
+MILTON,4,Cais,6,5,3,z0,*m7,IV,0,minor,6.0
+MILTON,4,Cais,7,3,7,Z0,*M7,III,0,minor,7.0
+MILTON,4,Cais,8,10,10,z3,*m7.11,bVIIm7,0,minor,8.0
+MILTON,4,Cais,9,7,7,z3,*m7.11,Vm7,0,minor,8.5
+MILTON,4,Cais,10,10,10,z3,*m7.11,bVIIm7,0,minor,9.0
+MILTON,4,Cais,11,7,7,z3,*m7.11,Vm7,0,minor,9.5
+MILTON,4,Cais,12,0,0,z2,*m7.9,I,0,minor,10.0
+MILTON,4,Cais,13,0,0,z1.1,*m6.9,I,0,minor,11.0
+MILTON,4,Cais,14,5,3,z0,*m7,IV,0,minor,12.0
+MILTON,4,Cais,15,3,7,Z0,*M7,III,0,minor,13.0
+MILTON,4,Cais,16,10,10,z3,*m7.11,bVIIm7,0,minor,14.0
+MILTON,4,Cais,17,7,7,z3,*m7.11,Vm7,0,minor,14.5
+MILTON,4,Cais,18,10,10,z3,*m7.11,bVIIm7,0,minor,15.0
+MILTON,4,Cais,19,7,7,z3,*m7.11,Vm7,0,minor,15.5
+MILTON,4,Cais,20,0,0,z2,*m7.9,I,0,minor,16.0
+MILTON,4,Cais,21,0,0,z1.1,*m6.9,I,0,minor,19.0
+MILTON,5,Cancao amiga,1,2,2,v0,*m,I,2,minor,1.0
+MILTON,5,Cancao amiga,2,2,2,w0,*mM7,I,2,minor,1.5
+MILTON,5,Cancao amiga,3,2,2,z0,*m7,I,2,minor,2.0
+MILTON,5,Cancao amiga,4,2,2,z1,*m6,I,2,minor,2.5
+MILTON,5,Cancao amiga,5,9,9,v0,*m,Vm7,2,minor,3.0
+MILTON,5,Cancao amiga,6,9,9,w0,*mM7,Vm7,2,minor,3.5
+MILTON,5,Cancao amiga,7,9,9,z0,*m7,Vm7,2,minor,4.0
+MILTON,5,Cancao amiga,8,7,7,z0,*m7,IV,2,minor,5.0
+MILTON,5,Cancao amiga,9,10,2,V0,*,VI,2,minor,6.5
+MILTON,5,Cancao amiga,10,9,9,z0,*m7,Vm7,2,minor,7.0
+MILTON,5,Cancao amiga,11,0,4,V0,*,bVII7M,2,minor,7.5
+MILTON,5,Cancao amiga,12,2,2,v0,*m,I,2,minor,9.0
+MILTON,5,Cancao amiga,13,2,2,w0,*mM7,I,2,minor,9.5
+MILTON,5,Cancao amiga,14,2,2,z0,*m7,I,2,minor,10.0
+MILTON,5,Cancao amiga,15,2,2,z1,*m6,I,2,minor,10.5
+MILTON,5,Cancao amiga,16,9,9,z0,*m7,Vm7,2,minor,11.0
+MILTON,5,Cancao amiga,17,7,7,z0,*m7,IV,2,minor,13.0
+MILTON,5,Cancao amiga,18,10,2,V0,*,VI,2,minor,14.0
+MILTON,5,Cancao amiga,19,0,0,Y1.1,*4.7.9,bVII7,2,minor,15.0
+MILTON,5,Cancao amiga,20,2,2,V0,*,I,2,major,16.25
+MILTON,5,Cancao amiga,21,2,2,Z0,*M7,I,2,major,18.0
+MILTON,5,Cancao amiga,22,2,2,Z1,*6,I,2,major,19.0
+MILTON,5,Cancao amiga,23,7,11,V0,*,IV,2,major,21.0
+MILTON,5,Cancao amiga,24,7,7,V0,*,IV,2,major,22.0
+MILTON,5,Cancao amiga,25,0,4,V0,*,bVII7M,2,major,23.0
+MILTON,5,Cancao amiga,26,9,9,z0,*m7,Vm7,2,major,24.0
+MILTON,5,Cancao amiga,27,2,2,v0,*m,I,2,minor,25.0
+MILTON,5,Cancao amiga,28,2,2,w0,*mM7,I,2,minor,25.5
+MILTON,5,Cancao amiga,29,2,2,z0,*m7,I,2,minor,26.0
+MILTON,5,Cancao amiga,30,2,2,z1,*m6,I,2,minor,26.5
+MILTON,5,Cancao amiga,31,9,9,z3,*m7.11,Vm7,2,minor,27.0
+MILTON,5,Cancao amiga,32,7,7,z0,*m7,IV,2,minor,29.0
+MILTON,5,Cancao amiga,33,10,2,V0,*,VI,2,minor,29.5
+MILTON,5,Cancao amiga,34,9,9,z0,*m7,Vm7,2,minor,30.0
+MILTON,5,Cancao amiga,35,2,2,V0,*,I,2,minor,31.0
+MILTON,6,Catavento,1,0,0,Z0,*M7,IV,7,major,1.0
+MILTON,6,Catavento,2,11,11,Y0,*7,V/VI,7,major,2.0
+MILTON,6,Catavento,3,9,9,z2,*m7.9,II,7,major,3.0
+MILTON,6,Catavento,4,7,7,V3,*(#11),I,7,major,4.0
+MILTON,6,Catavento,5,0,0,Z0,*M7,I,7,major,5.0
+MILTON,6,Catavento,6,11,11,Y0,*7,V/VI,7,major,6.0
+MILTON,6,Catavento,7,9,9,z2,*m7.9,II,7,major,7.0
+MILTON,6,Catavento,8,7,7,V3,*(#11),I,7,major,8.0
+MILTON,6,Catavento,9,7,7,V0,*,I,7,major,9.0
+MILTON,6,Catavento,10,7,6,Z0,*M7,I,7,major,10.0
+MILTON,6,Catavento,11,7,5,Y0,*7,V/IV,7,major,10.5
+MILTON,6,Catavento,12,0,4,V0,*,IV,7,major,11.0
+MILTON,6,Catavento,13,5,0,V0,*,bVII7M,7,major,12.0
+MILTON,6,Catavento,14,4,4,z0,*m7,VI,7,major,12.5
+MILTON,6,Catavento,15,7,7,V0,*,I,7,major,13.0
+MILTON,6,Catavento,16,7,6,Z0,*M7,I,7,major,14.0
+MILTON,6,Catavento,17,7,5,Y0,*7,V/IV,7,major,14.5
+MILTON,6,Catavento,18,0,4,V0,*,IV,7,major,15.0
+MILTON,6,Catavento,19,5,0,V0,*,bVII7M,7,major,16.0
+MILTON,6,Catavento,20,7,7,V0,*,I,7,major,16.5
+MILTON,6,Catavento,21,0,0,Z0,*M7,IV,7,major,17.0
+MILTON,6,Catavento,22,2,0,Y0,*7,V,7,major,18.0
+MILTON,6,Catavento,23,11,11,z3,*m7.11,III,7,major,19.0
+MILTON,6,Catavento,24,11,11,w0,*mM7,III,7,major,20.0
+MILTON,6,Catavento,25,7,7,V0,*,I,7,major,21.0
+MILTON,6,Catavento,26,7,6,Z0,*M7,I,7,major,23.0
+MILTON,6,Catavento,27,7,5,Y0,*7,V/IV,7,major,25.0
+MILTON,6,Catavento,28,0,4,V0,*,IV,7,major,27.0
+MILTON,6,Catavento,29,5,0,V0,*,bVII7M,7,major,28.0
+MILTON,6,Catavento,30,7,7,V0,*,I,7,major,28.5
+MILTON,7,Caxanga,1,9,9,z0,*m7,I,9,minor,1.0
+MILTON,7,Caxanga,2,2,9,Y1.1,*4.7.9,IV7,9,minor,1.5
+MILTON,7,Caxanga,3,9,9,z0,*m7,I,9,minor,2.0
+MILTON,7,Caxanga,4,2,9,Y1.1,*4.7.9,IV7,9,minor,2.5
+MILTON,7,Caxanga,5,9,9,z0,*m7,I,9,minor,3.0
+MILTON,7,Caxanga,6,2,9,Y1.1,*4.7.9,IV7,9,minor,3.5
+MILTON,7,Caxanga,7,9,9,z0,*m7,I,9,minor,4.0
+MILTON,7,Caxanga,8,2,9,Y1.1,*4.7.9,IV7,9,minor,4.5
+MILTON,7,Caxanga,9,5,0,Z0,*M7,VI,9,minor,5.0
+MILTON,7,Caxanga,10,7,2,Z1,*6,bVII7M,9,minor,5.5
+MILTON,7,Caxanga,11,5,0,Z0,*M7,VI,9,minor,6.0
+MILTON,7,Caxanga,12,7,2,Z1,*6,bVII7M,9,minor,6.5
+MILTON,7,Caxanga,13,5,0,Z0,*M7,VI,9,minor,7.0
+MILTON,7,Caxanga,14,7,2,Z1,*6,bVII7M,9,minor,7.5
+MILTON,7,Caxanga,15,9,9,z0,*m7,I,9,minor,8.0
+MILTON,7,Caxanga,16,2,9,Y1.1,*4.7.9,IV7,9,minor,8.5
+MILTON,7,Caxanga,17,4,4,Y1.1,*4.7.9,I,4,major,9.0
+MILTON,7,Caxanga,18,9,9,v1,*m.9,IVm7,4,major,11.0
+MILTON,7,Caxanga,19,9,9,w0,*mM7,IVm7,4,major,12.0
+MILTON,7,Caxanga,20,9,9,z0,*m7,IVm7,4,major,12.5
+MILTON,7,Caxanga,21,0,0,V1,*4,I,0,major,13.0
+MILTON,7,Caxanga,22,0,0,Z2,*M7.9,I,0,major,14.5
+MILTON,7,Caxanga,23,9,9,v1,*m.9,VI,0,major,15.0
+MILTON,7,Caxanga,24,9,9,v0,*m,VI,0,major,16.0
+MILTON,7,Caxanga,25,9,9,w0,*mM7,VI,0,major,16.5
+MILTON,7,Caxanga,26,9,9,z0,*m7,VI,0,major,16.75
+MILTON,7,Caxanga,27,0,0,V2,*9,I,0,major,17.0
+MILTON,7,Caxanga,28,0,0,Z2,*M7.9,I,0,major,17.5
+MILTON,7,Caxanga,29,7,7,z3,*m7.11,Vm7,0,major,18.0
+MILTON,7,Caxanga,30,4,4,z2,*m7.9,I,4,minor,19.0
+MILTON,7,Caxanga,31,5,4,Z0,*M7,SubV,4,minor,20.0
+MILTON,7,Caxanga,32,4,4,z2,*m7.9,I,4,minor,21.0
+MILTON,7,Caxanga,33,5,4,Z0,*M7,SubV,4,minor,22.0
+MILTON,7,Caxanga,34,9,9,z2,*m7.9,I,9,minor,23.0
+MILTON,8,Clube da Esquina 2,1,3,3,Z0,*M7,IV,10,major,1.0
+MILTON,8,Clube da Esquina 2,2,2,2,z3,*m7.11,III,10,major,2.0
+MILTON,8,Clube da Esquina 2,3,0,0,z0,*m7,II,10,major,3.0
+MILTON,8,Clube da Esquina 2,4,2,2,z3,*m7.11,III,10,major,4.0
+MILTON,8,Clube da Esquina 2,5,3,3,Z0,*M7,IV,10,major,5.0
+MILTON,8,Clube da Esquina 2,6,2,2,z3,*m7.11,III,10,major,6.0
+MILTON,8,Clube da Esquina 2,7,0,0,z0,*m7,II,10,major,7.0
+MILTON,8,Clube da Esquina 2,8,5,5,Y1.1,*4.7.9,V,10,major,8.0
+MILTON,8,Clube da Esquina 2,9,0,0,z0,*m7,II,10,major,9.0
+MILTON,8,Clube da Esquina 2,10,3,7,V2,*9,IV,10,major,9.5
+MILTON,8,Clube da Esquina 2,11,5,5,Z1,*6,V,10,major,9.75
+MILTON,8,Clube da Esquina 2,12,10,10,Z0,*M7,I,10,major,10.0
+MILTON,8,Clube da Esquina 2,13,10,5,Z0,*M7,I,10,major,10.5
+MILTON,8,Clube da Esquina 2,14,3,3,Z0,*M7,IV,10,major,10.75
+MILTON,8,Clube da Esquina 2,15,5,9,V2,*9,V,10,major,11.0
+MILTON,8,Clube da Esquina 2,16,3,10,Z0,*M7,IV,10,major,11.5
+MILTON,8,Clube da Esquina 2,17,5,9,V0,*,V,10,major,12.0
+MILTON,8,Clube da Esquina 2,18,5,5,Y1.1,*4.7.9,V,10,major,12.5
+MILTON,9,Coracao civil,1,7,2,V0,*,I,7,major,1.0
+MILTON,9,Coracao civil,2,0,2,V0,*,IV,7,major,3.0
+MILTON,9,Coracao civil,3,9,2,V0,*,V/V,7,major,4.0
+MILTON,9,Coracao civil,4,7,2,V0,*,I,7,major,5.0
+MILTON,9,Coracao civil,5,0,2,V0,*,IV,7,major,7.0
+MILTON,9,Coracao civil,6,9,2,V0,*,V/V,7,major,8.0
+MILTON,9,Coracao civil,7,5,2,V0,*,bVII7M,7,major,9.0
+MILTON,9,Coracao civil,8,0,2,V0,*,IV,7,major,11.0
+MILTON,9,Coracao civil,9,7,2,V0,*,I,7,major,12.0
+MILTON,9,Coracao civil,10,4,4,z0,*m7,II__X,7,major,14.0
+MILTON,9,Coracao civil,11,9,9,Y1,*4.7,V/V,7,major,15.0
+MILTON,9,Coracao civil,12,9,9,Y0,*7,V/V,7,major,15.5
+MILTON,9,Coracao civil,13,2,2,Y1,*4.7,V,7,major,16.0
+MILTON,9,Coracao civil,14,2,2,Y0,*7,V,7,major,16.5
+MILTON,9,Coracao civil,15,7,7,V0,*,I,7,major,17.0
+MILTON,10,Credo,1,5,5,V0,*,I,5,major,1.0
+MILTON,10,Credo,2,5,5,Z0,*M7,I,5,major,2.0
+MILTON,10,Credo,3,5,5,z0,*m7,Im7,5,major,3.0
+MILTON,10,Credo,4,10,5,V0,*,IV,5,major,5.0
+MILTON,10,Credo,5,0,7,V0,*,V,5,major,7.0
+MILTON,10,Credo,6,10,5,V0,*,IV,5,major,8.6
+MILTON,10,Credo,7,5,5,V0,*,I,5,major,9.0
+MILTON,10,Credo,8,5,5,Z0,*M7,I,5,major,10.0
+MILTON,10,Credo,9,5,5,z0,*m7,Im7,5,major,11.0
+MILTON,10,Credo,10,10,5,V0,*,IV,5,major,13.0
+MILTON,10,Credo,11,0,7,V0,*,V,5,major,15.0
+MILTON,10,Credo,12,10,5,V0,*,IV,5,major,16.0
+MILTON,10,Credo,13,5,5,z0,*m7,Im7,5,major,16.3
+MILTON,10,Credo,14,7,7,z0,*m7,II,5,major,17.0
+MILTON,10,Credo,15,5,5,V0,*,I,5,major,17.3
+MILTON,10,Credo,16,5,5,Z0,*M7,I,5,major,20.0
+MILTON,10,Credo,17,5,5,z0,*m7,Im7,5,major,21.0
+MILTON,11,Crenca,1,0,0,z0,*m7,I,0,minor,1.0
+MILTON,11,Crenca,2,1,0,Z0,*M7,bII7M,0,minor,3.0
+MILTON,11,Crenca,3,0,0,z0,*m7,I,0,minor,4.0
+MILTON,11,Crenca,4,3,3,Z2,*M7.9,III,0,minor,5.0
+MILTON,11,Crenca,5,3,3,Y1.1,*4.7.9,?,0,minor,6.0
+MILTON,11,Crenca,6,5,0,V0,*,IV,0,minor,7.0
+MILTON,11,Crenca,7,0,0,z0,*m7,I,0,major,8.0
+MILTON,11,Crenca,8,0,0,Z2,*M7.9,I,0,major,9.0
+MILTON,11,Crenca,9,0,0,z2,*m7.9,Im7,0,major,10.0
+MILTON,11,Crenca,10,0,0,Z2,*M7.9,I,0,major,11.0
+MILTON,11,Crenca,11,0,0,z2,*m7.9,Im7,0,major,12.0
+MILTON,11,Crenca,12,10,10,z0,*m7,bVIIm7,0,major,13.0
+MILTON,11,Crenca,13,0,0,z2,*m7.9,Im7,0,major,14.0
+MILTON,11,Crenca,14,0,10,z0,*m7,Im7,0,major,14.5
+MILTON,11,Crenca,15,5,9,V0,*,IV,0,major,15.0
+MILTON,11,Crenca,16,8,8,z1,*m6,bVIm7,0,major,16.0
+MILTON,11,Crenca,17,0,0,Z2,*M7.9,I,0,major,17.0
+MILTON,11,Crenca,18,7,7,Y1.1,*4.7.9,V,0,major,18.0
+MILTON,11,Crenca,19,8,8,x0,*°7,V°/VI,0,major,18.5
+MILTON,11,Crenca,20,9,9,z3,*m7.11,VI,0,major,19.0
+MILTON,11,Crenca,21,2,2,y0,*Ø,IIm7(b5),0,major,20.0
+MILTON,11,Crenca,22,4,4,z2,*m7.9,III,0,major,21.0
+MILTON,11,Crenca,23,6,6,y2,*Ø.11,II__X,0,major,22.0
+MILTON,11,Crenca,24,11,11,Y2.3,*7(b9),V/III,0,major,22.5
+MILTON,11,Crenca,25,4,4,y0,*Ø,II__X,0,major,23.0
+MILTON,11,Crenca,26,9,9,Y4.1,*7(b13),V/II,0,major,23.5
+MILTON,11,Crenca,27,2,2,Y2.4,*7(#9),V/V,0,major,24.0
+MILTON,11,Crenca,28,7,7,Y4.1,*7(b13),V,0,minor,24.5
+MILTON,11,Crenca,29,0,0,z0,*m7,I,0,minor,25.0
+MILTON,12,Danca dos meninos,1,2,2,Z1,*6,I,2,major,1.0
+MILTON,12,Danca dos meninos,2,7,7,V0,*,IV,2,major,3.5
+MILTON,12,Danca dos meninos,3,4,4,v0,*m,II,2,major,4.0
+MILTON,12,Danca dos meninos,4,9,1,V0,*,V,2,major,4.5
+MILTON,12,Danca dos meninos,5,2,2,Z1,*6,I,2,major,5.0
+MILTON,12,Danca dos meninos,6,9,9,v0,*m,Vm7,2,major,7.0
+MILTON,12,Danca dos meninos,7,7,7,V0,*,IV,2,major,11.0
+MILTON,12,Danca dos meninos,8,2,9,V0,*,I,2,major,12.0
+MILTON,12,Danca dos meninos,9,2,2,V0,*,I,2,major,12.5
+MILTON,12,Danca dos meninos,10,9,9,V0,*,V,2,major,13.0
+MILTON,12,Danca dos meninos,11,2,2,V0,*,I,2,major,14.0
+MILTON,12,Danca dos meninos,12,2,6,V0,*,I,2,major,14.5
+MILTON,12,Danca dos meninos,13,2,2,V0,*,I,2,major,15.0
+MILTON,12,Danca dos meninos,14,9,1,V0,*,V,2,major,16.0
+MILTON,12,Danca dos meninos,15,9,9,V0,*,V,2,major,17.0
+MILTON,12,Danca dos meninos,16,2,2,V0,*,I,2,major,18.0
+MILTON,12,Danca dos meninos,17,2,6,V0,*,I,2,major,18.5
+MILTON,12,Danca dos meninos,18,2,2,V0,*,I,2,major,19.0
+MILTON,12,Danca dos meninos,19,2,6,V0,*,I,2,major,19.5
+MILTON,12,Danca dos meninos,20,2,2,V0,*,I,2,major,20.0
+MILTON,12,Danca dos meninos,21,2,6,V0,*,I,2,major,20.5
+MILTON,12,Danca dos meninos,22,2,2,V0,*,I,2,major,21.0
+MILTON,12,Danca dos meninos,23,2,6,V0,*,I,2,major,21.5
+MILTON,12,Danca dos meninos,24,2,2,V0,*,I,2,major,22.0
+MILTON,12,Danca dos meninos,25,2,6,V0,*,I,2,major,22.5
+MILTON,12,Danca dos meninos,26,9,9,V0,*,V,2,major,23.0
+MILTON,12,Danca dos meninos,27,10,10,x0,*°7,V°,2,major,24.0
+MILTON,12,Danca dos meninos,28,7,7,V0,*,I,7,major,25.0
+MILTON,12,Danca dos meninos,29,0,4,V0,*,IV,7,major,28.0
+MILTON,12,Danca dos meninos,30,2,6,V0,*,V,7,major,28.5
+MILTON,12,Danca dos meninos,31,7,7,V0,*,I,7,major,29.0
+MILTON,12,Danca dos meninos,32,2,2,z0,*m7,Vm7,7,major,31.0
+MILTON,12,Danca dos meninos,33,7,7,V0,*,I,7,major,32.0
+MILTON,12,Danca dos meninos,34,2,2,V0,*,I,2,major,33.0
+MILTON,12,Danca dos meninos,35,7,7,V0,*,IV,2,major,34.0
+MILTON,12,Danca dos meninos,36,2,2,V0,*,I,2,major,36.0
+MILTON,12,Danca dos meninos,37,7,7,V0,*,IV,2,major,38.0
+MILTON,12,Danca dos meninos,38,2,2,V0,*,I,2,major,43.0
+MILTON,12,Danca dos meninos,39,9,9,V0,*,V,2,major,44.0
+MILTON,12,Danca dos meninos,40,2,2,V0,*,I,2,major,45.0
+MILTON,13,E dai,1,2,2,V0,*,I,2,major,1.0
+MILTON,13,E dai,2,2,2,Z0,*M7,I,2,major,5.0
+MILTON,13,E dai,3,11,11,z0,*m7,VI,2,major,7.0
+MILTON,13,E dai,4,2,9,V0,*,I,2,major,9.0
+MILTON,13,E dai,5,7,7,V0,*,IV,2,major,11.0
+MILTON,13,E dai,6,7,6,Z0,*M7,IV,2,major,12.0
+MILTON,13,E dai,7,4,4,z0,*m7,II,2,major,13.0
+MILTON,13,E dai,8,6,6,z3,*m7.11,III,2,major,15.0
+MILTON,13,E dai,9,9,9,V1,*4,V,2,major,17.0
+MILTON,13,E dai,10,9,9,V0,*,V,2,major,18.0
+MILTON,13,E dai,11,2,2,V0,*,I,2,major,19.0
+MILTON,13,E dai,12,2,2,Z0,*M7,I,2,major,21.0
+MILTON,13,E dai,13,11,11,z0,*m7,VI,2,major,23.0
+MILTON,13,E dai,14,2,9,V0,*,I,2,major,25.0
+MILTON,13,E dai,15,6,6,z3,*m7.11,III,2,major,27.0
+MILTON,13,E dai,16,7,7,V0,*,IV,2,major,29.0
+MILTON,13,E dai,17,7,6,Z0,*M7,IV,2,major,31.0
+MILTON,13,E dai,18,4,4,z0,*m7,II,2,major,33.0
+MILTON,13,E dai,19,6,6,z3,*m7.11,III,2,major,35.0
+MILTON,13,E dai,20,9,9,V1,*4,V,2,major,37.0
+MILTON,13,E dai,21,9,9,V0,*,V,2,major,39.0
+MILTON,13,E dai,22,0,4,V0,*,bVII7M,2,major,41.0
+MILTON,13,E dai,23,0,0,V0,*,bVII7M,2,major,43.0
+MILTON,13,E dai,24,0,7,V0,*,bVII7M,2,major,47.0
+MILTON,13,E dai,25,7,7,V0,*,IV,2,major,48.0
+MILTON,13,E dai,26,9,9,V1,*4,V,2,major,51.0
+MILTON,13,E dai,27,9,9,V0,*,V,2,major,53.0
+MILTON,13,E dai,28,7,11,V0,*,IV,2,major,55.0
+MILTON,13,E dai,29,9,1,V2,*9,V,2,major,59.0
+MILTON,13,E dai,30,7,11,V0,*,IV,2,major,63.0
+MILTON,13,E dai,31,9,1,V2,*9,V,2,major,67.0
+MILTON,13,E dai,32,2,2,V0,*,I,2,major,71.0
+MILTON,14,Maria Maria,1,7,7,V0,*,I,7,major,1.0
+MILTON,14,Maria Maria,2,2,7,V0,*,V,7,major,2.0
+MILTON,14,Maria Maria,3,10,7,V0,*,bIII7M,7,major,2.5
+MILTON,14,Maria Maria,4,0,7,V0,*,IV,7,major,3.0
+MILTON,14,Maria Maria,5,8,7,Z0,*M7,bII7M,7,major,3.5
+MILTON,14,Maria Maria,6,7,7,V0,*,I,7,major,4.0
+MILTON,14,Maria Maria,7,7,6,Z0,*M7,I,7,major,4.5
+MILTON,14,Maria Maria,8,4,4,z0,*m7,VI,7,major,5.0
+MILTON,14,Maria Maria,9,4,2,z0,*m7,VI,7,major,5.5
+MILTON,14,Maria Maria,10,0,0,V0,*,IV,7,major,6.0
+MILTON,14,Maria Maria,11,5,5,V0,*,bVII7M,7,major,7.0
+MILTON,14,Maria Maria,12,4,4,V4,*(#5),?,7,major,7.5
+MILTON,14,Maria Maria,13,0,3,v0,*m,IVm7,7,major,8.0
+MILTON,14,Maria Maria,14,7,7,V0,*,I,7,major,8.5
+MILTON,14,Maria Maria,15,2,7,V0,*,V,7,major,10.0
+MILTON,14,Maria Maria,16,10,7,V0,*,bIII7M,7,major,10.5
+MILTON,14,Maria Maria,17,0,7,V0,*,IV,7,major,11.0
+MILTON,14,Maria Maria,18,8,7,Z0,*M7,bII7M,7,major,11.5
+MILTON,14,Maria Maria,19,7,7,V0,*,I,7,major,12.0
+MILTON,14,Maria Maria,20,7,6,Z0,*M7,I,7,major,12.5
+MILTON,14,Maria Maria,21,4,4,z0,*m7,VI,7,major,13.0
+MILTON,14,Maria Maria,22,4,2,z0,*m7,VI,7,major,13.5
+MILTON,14,Maria Maria,23,0,0,V0,*,IV,7,major,14.0
+MILTON,14,Maria Maria,24,5,5,V0,*,bVII7M,7,major,15.0
+MILTON,14,Maria Maria,25,4,4,V4,*(#5),?,7,major,15.5
+MILTON,14,Maria Maria,26,0,3,v0,*m,IVm7,7,major,16.0
+MILTON,14,Maria Maria,27,7,7,V0,*,I,7,major,16.5
+MILTON,15,Maria tres filhos,1,5,0,Y1.1.2,*4.7.9.13,I,5,major,1.0
+MILTON,15,Maria tres filhos,2,9,9,z3,*m7.11,III,5,major,2.0
+MILTON,15,Maria tres filhos,3,5,0,Y1.1.2,*4.7.9.13,I,5,major,3.0
+MILTON,15,Maria tres filhos,4,9,9,z3,*m7.11,III,5,major,4.0
+MILTON,15,Maria tres filhos,5,5,0,Y1.1.2,*4.7.9.13,I,5,major,5.0
+MILTON,15,Maria tres filhos,6,9,9,z3,*m7.11,III,5,major,6.0
+MILTON,15,Maria tres filhos,7,5,0,Y1.1.2,*4.7.9.13,I,5,major,7.0
+MILTON,15,Maria tres filhos,8,9,9,z3,*m7.11,III,5,major,8.0
+MILTON,15,Maria tres filhos,9,9,9,z2,*m7.9,II,7,minor,9.0
+MILTON,15,Maria tres filhos,10,7,7,z0,*m7,I,7,minor,10.0
+MILTON,15,Maria tres filhos,11,4,4,Y1.1,*4.7.9,?,7,minor,12.0
+MILTON,15,Maria tres filhos,12,7,7,z0,*m7,I,7,minor,13.0
+MILTON,15,Maria tres filhos,13,4,4,Y1.1,*4.7.9,?,7,minor,15.0
+MILTON,15,Maria tres filhos,14,7,7,z0,*m7,I,7,minor,16.0
+MILTON,15,Maria tres filhos,15,4,4,Y1.1,*4.7.9,aSubV,7,minor,18.0
+MILTON,15,Maria tres filhos,16,7,0,Y1.1.2,*4.7.9.13,I,5,major,19.0
+MILTON,16,Milagre dos peixes,1,9,9,Z0,*M7,I,9,major,1.0
+MILTON,16,Milagre dos peixes,2,8,9,Z0,*M7,?,9,major,3.0
+MILTON,16,Milagre dos peixes,3,4,4,z2,*m7.9,Vm7,9,major,5.0
+MILTON,16,Milagre dos peixes,4,0,0,z3,*m7.11,bIIIm7,9,major,7.0
+MILTON,16,Milagre dos peixes,5,4,4,V0,*,V,9,major,9.0
+MILTON,16,Milagre dos peixes,6,3,4,V0,*,Np/IV,9,major,11.0
+MILTON,16,Milagre dos peixes,7,2,4,V0,*,IV,9,major,13.0
+MILTON,16,Milagre dos peixes,8,1,4,V0,*,?,9,major,15.0
+MILTON,16,Milagre dos peixes,9,0,4,Z0,*M7,bIII7M,9,major,17.0
+MILTON,16,Milagre dos peixes,10,11,4,V0,*,V/V,9,major,19.0
+MILTON,16,Milagre dos peixes,11,10,4,V0,*,bII7M,9,major,21.0
+MILTON,16,Milagre dos peixes,12,4,4,Y1,*4.7,V,9,major,23.0
+MILTON,16,Milagre dos peixes,13,4,4,Y0,*7,V,9,major,24.0
+MILTON,16,Milagre dos peixes,14,9,9,V0,*,I,9,major,25.0
+MILTON,16,Milagre dos peixes,15,11,9,Y0,*7,V/V,9,major,26.0
+MILTON,16,Milagre dos peixes,16,0,9,V0,*,bIII7M,9,major,27.0
+MILTON,16,Milagre dos peixes,17,2,9,V0,*,IV,9,major,28.0
+MILTON,16,Milagre dos peixes,18,2,9,v0,*m,IVm7,9,major,29.0
+MILTON,16,Milagre dos peixes,19,0,9,V0,*,bIII7M,9,major,30.0
+MILTON,16,Milagre dos peixes,20,11,9,V0,*,V/V,9,major,31.0
+MILTON,16,Milagre dos peixes,21,10,9,Z0,*M7,bII7M,9,major,32.0
+MILTON,16,Milagre dos peixes,22,9,9,V0,*,I,9,major,33.0
+MILTON,16,Milagre dos peixes,23,11,9,Y0,*7,V/V,9,major,34.0
+MILTON,16,Milagre dos peixes,24,0,9,V0,*,bIII7M,9,major,35.0
+MILTON,16,Milagre dos peixes,25,2,9,V0,*,IV,9,major,36.0
+MILTON,16,Milagre dos peixes,26,2,9,v0,*m,IVm7,9,major,37.0
+MILTON,16,Milagre dos peixes,27,0,9,V0,*,bIII7M,9,major,38.0
+MILTON,16,Milagre dos peixes,28,11,9,V0,*,V/V,9,major,39.0
+MILTON,16,Milagre dos peixes,29,10,9,Z0,*M7,bII7M,9,major,40.0
+MILTON,16,Milagre dos peixes,30,9,9,Z2,*M7.9,I,9,major,41.0
+MILTON,16,Milagre dos peixes,31,9,9,z2,*m7.9,I,9,minor,45.0
+MILTON,16,Milagre dos peixes,32,9,9,v0,*m,I,9,minor,46.0
+MILTON,16,Milagre dos peixes,33,10,9,Z0,*M7,bII7M,9,minor,46.5
+MILTON,16,Milagre dos peixes,34,9,9,v0,*m,I,9,minor,47.0
+MILTON,16,Milagre dos peixes,35,7,7,V0,*,bVII7M,9,minor,48.0
+MILTON,16,Milagre dos peixes,36,5,4,Z0,*M7,VI,9,minor,49.5
+MILTON,16,Milagre dos peixes,37,4,4,z2,*m7.9,Vm7,9,minor,50.0
+MILTON,16,Milagre dos peixes,38,5,4,Z0,*M7,VI,9,minor,51.0
+MILTON,16,Milagre dos peixes,39,5,4,Y3,*7(#11),SubV/V,9,minor,52.0
+MILTON,16,Milagre dos peixes,40,4,4,V0,*,V,9,major,54.0
+MILTON,17,Morro Velho,1,9,9,V2,*9,I,9,major,1.0
+MILTON,17,Morro Velho,2,9,9,Y2,*7.9,I,9,major,2.0
+MILTON,17,Morro Velho,3,9,9,Z2,*M7.9,I,9,major,3.0
+MILTON,17,Morro Velho,4,9,9,z2,*m7.9,Im7,9,major,4.0
+MILTON,17,Morro Velho,5,9,9,Z3,*M7(#11),I,9,major,5.0
+MILTON,17,Morro Velho,6,9,9,z2,*m7.9,I,9,major,6.0
+MILTON,17,Morro Velho,7,9,9,Y2,*7.9,V/IV,9,major,7.0
+MILTON,17,Morro Velho,8,9,9,Y2.3,*7(b9),V/IV,9,major,7.5
+MILTON,17,Morro Velho,9,2,2,Z2,*M7.9,IV,9,major,8.0
+MILTON,17,Morro Velho,10,2,2,Z1,*6,IV,9,major,8.5
+MILTON,17,Morro Velho,11,3,3,y0,*Ø,?,9,major,9.0
+MILTON,17,Morro Velho,12,7,7,Y2.1,*7.9(#11),bVII7,9,major,10.0
+MILTON,17,Morro Velho,13,2,2,z2,*m7.9,IVm7,9,major,10.5
+MILTON,17,Morro Velho,14,7,7,Y4,*7.13,bVII7,9,major,10.75
+MILTON,17,Morro Velho,15,9,9,Z2,*M7.9,I,9,major,11.0
+MILTON,17,Morro Velho,16,9,9,z2,*m7.9,Im7,9,major,12.0
+MILTON,17,Morro Velho,17,9,9,Z2,*M7.9,I,9,major,13.0
+MILTON,17,Morro Velho,18,9,9,z2,*m7.9,Im7,9,major,14.0
+MILTON,17,Morro Velho,19,9,4,V0,*,I,9,major,15.0
+MILTON,17,Morro Velho,20,6,6,z3,*m7.11,I,6,minor,17.0
+MILTON,17,Morro Velho,21,9,9,z2,*m7.9,?,6,minor,17.5
+MILTON,17,Morro Velho,22,6,6,z3,*m7.11,I,6,minor,18.0
+MILTON,17,Morro Velho,23,9,9,z2,*m7.9,?,6,minor,18.5
+MILTON,17,Morro Velho,24,6,6,z3,*m7.11,I,6,minor,19.0
+MILTON,17,Morro Velho,25,4,4,z2,*m7.9,bVIIm7,6,minor,19.5
+MILTON,17,Morro Velho,26,6,6,z3,*m7.11,I,6,minor,20.0
+MILTON,17,Morro Velho,27,4,4,z2,*m7.9,bVIIm7,6,minor,20.5
+MILTON,17,Morro Velho,28,6,6,z3,*m7.11,I,6,minor,21.0
+MILTON,17,Morro Velho,29,9,9,z2,*m7.9,?,6,minor,21.5
+MILTON,17,Morro Velho,30,6,6,z3,*m7.11,I,6,minor,22.0
+MILTON,17,Morro Velho,31,9,9,z2,*m7.9,?,6,minor,22.5
+MILTON,17,Morro Velho,32,6,6,z3,*m7.11,I,6,minor,23.0
+MILTON,17,Morro Velho,33,4,4,z2,*m7.9,bVIIm7,6,minor,23.5
+MILTON,17,Morro Velho,34,6,6,z3,*m7.11,I,6,minor,24.0
+MILTON,17,Morro Velho,35,9,9,Z2,*M7.9,I,9,major,25.0
+MILTON,17,Morro Velho,36,11,9,Y0,*7,V/V,9,major,25.5
+MILTON,17,Morro Velho,37,8,8,z0,*m7,VIIm7,9,major,26.0
+MILTON,17,Morro Velho,38,7,7,V0,*,bVII7M,9,major,27.0
+MILTON,17,Morro Velho,39,9,7,Y0,*7,V/IV,9,major,27.5
+MILTON,17,Morro Velho,40,6,6,z0,*m7,VI,9,major,28.0
+MILTON,17,Morro Velho,41,9,9,V2,*9,I,9,major,29.0
+MILTON,17,Morro Velho,42,8,8,z0,*m7,VIIm7,9,major,30.0
+MILTON,17,Morro Velho,43,7,7,V0,*,bVII7M,9,major,31.0
+MILTON,17,Morro Velho,44,7,7,V3,*(#11),bVII7M,9,major,31.25
+MILTON,17,Morro Velho,45,7,7,V0,*,bVII7M,9,major,31.5
+MILTON,17,Morro Velho,46,7,7,Z1,*6,bVII7M,9,major,31.75
+MILTON,17,Morro Velho,47,11,11,z2,*m7.9,II,9,major,32.0
+MILTON,17,Morro Velho,48,9,9,V1,*4,I,9,major,32.75
+MILTON,17,Morro Velho,49,8,8,z0,*m7,VIIm7,9,major,33.0
+MILTON,17,Morro Velho,50,1,1,z2,*m7.9,III,9,major,33.25
+MILTON,17,Morro Velho,51,11,11,z2,*m7.9,II,9,major,33.5
+MILTON,17,Morro Velho,52,4,4,Y3.1,*7(#11)13,V,9,major,33.75
+MILTON,17,Morro Velho,53,9,9,Z2,*M7.9,I,9,major,34.0
+MILTON,18,Nada sera como antes,1,2,2,z0,*m7,I,2,minor,1.0
+MILTON,18,Nada sera como antes,2,2,2,Y1.1,*4.7.9,I,2,minor,2.0
+MILTON,18,Nada sera como antes,3,2,2,z0,*m7,I,2,minor,3.0
+MILTON,18,Nada sera como antes,4,0,0,z0,*m7,II__X,2,minor,4.0
+MILTON,18,Nada sera como antes,5,5,5,Y4,*7.13,V/VI,2,minor,5.0
+MILTON,18,Nada sera como antes,6,10,10,Z0,*M7,VI,2,minor,6.0
+MILTON,18,Nada sera como antes,7,3,3,Z0,*M7,bII7M,2,minor,7.0
+MILTON,18,Nada sera como antes,8,7,7,z0,*m7,IV,2,minor,9.0
+MILTON,18,Nada sera como antes,9,2,2,z2,*m7.9,I,2,minor,11.0
+MILTON,18,Nada sera como antes,10,2,2,z0,*m7,I,2,minor,13.0
+MILTON,18,Nada sera como antes,11,7,2,Y0,*7,IV7,2,minor,15.0
+MILTON,18,Nada sera como antes,12,6,2,Y0,*7,SubV/III,2,minor,18.0
+MILTON,18,Nada sera como antes,13,5,2,Y0,*7,V/VI,2,minor,18.5
+MILTON,18,Nada sera como antes,14,4,2,Y0,*7,V/V,2,minor,19.0
+MILTON,18,Nada sera como antes,15,3,2,Z0,*M7,bII7M,2,minor,20.0
+MILTON,18,Nada sera como antes,16,2,2,z0,*m7,I,2,minor,21.0
+MILTON,18,Nada sera como antes,17,0,0,Z0,*M7,IV,7,major,23.0
+MILTON,18,Nada sera como antes,18,0,0,z0,*m7,IVm7,7,major,25.0
+MILTON,18,Nada sera como antes,19,7,7,V0,*,I,7,major,27.0
+MILTON,18,Nada sera como antes,20,7,7,z0,*m7,I,7,minor,29.0
+MILTON,18,Nada sera como antes,21,10,10,z3,*m7.11,bIIIm7,7,minor,31.0
+MILTON,18,Nada sera como antes,22,5,5,z0,*m7,bVIIm7,7,minor,31.5
+MILTON,18,Nada sera como antes,23,7,7,z0,*m7,I,7,minor,32.0
+MILTON,18,Nada sera como antes,24,10,10,z3,*m7.11,bIIIm7,7,minor,33.0
+MILTON,18,Nada sera como antes,25,5,5,z0,*m7,bVIIm7,7,minor,33.5
+MILTON,18,Nada sera como antes,26,7,7,z0,*m7,I,7,minor,34.0
+MILTON,18,Nada sera como antes,27,2,2,z0,*m7,I,2,minor,37.0
+MILTON,19,Olha,1,2,2,z2,*m7.9,I,2,minor,1.0
+MILTON,19,Olha,2,2,2,Y1.1,*4.7.9,I,2,minor,2.0
+MILTON,19,Olha,3,4,4,z2,*m7.9,II,2,minor,3.0
+MILTON,19,Olha,4,4,11,z0,*m7,II,2,minor,4.5
+MILTON,19,Olha,5,4,9,z0,*m7,II,2,minor,4.75
+MILTON,19,Olha,6,2,2,z2,*m7.9,I,2,minor,5.0
+MILTON,19,Olha,7,4,4,z2,*m7.9,II,2,minor,7.0
+MILTON,19,Olha,8,10,5,V0,*,IV,5,major,9.0
+MILTON,19,Olha,9,7,7,z0,*m7,II,5,major,10.5
+MILTON,19,Olha,10,5,9,V2,*9,I,5,major,11.0
+MILTON,19,Olha,11,0,0,V0,*,V,5,major,12.0
+MILTON,19,Olha,12,0,4,V2,*9,V,5,major,12.5
+MILTON,19,Olha,13,2,0,Y0,*7,V/II,5,major,14.0
+MILTON,19,Olha,14,0,10,Y0,*7,V,5,major,15.0
+MILTON,19,Olha,15,2,2,z2,*m7.9,I,2,minor,16.0
+MILTON,19,Olha,16,5,5,Z1,*6,III,2,minor,16.5
+MILTON,19,Olha,17,7,7,V0,*,IV7,2,minor,17.5
+MILTON,19,Olha,18,2,2,z2,*m7.9,I,2,minor,18.0
+MILTON,19,Olha,19,5,5,Z1,*6,III,2,minor,18.5
+MILTON,19,Olha,20,7,7,V0,*,IV7,2,minor,19.5
+MILTON,19,Olha,21,2,2,z2,*m7.9,I,2,minor,20.0
+MILTON,20,Os povos,1,2,2,Z1.1,*6.9,I,2,major,1.0
+MILTON,20,Os povos,2,7,2,Z1.1,*6.9,IV,2,major,4.0
+MILTON,20,Os povos,3,2,2,Z2,*M7.9,I,2,major,6.0
+MILTON,20,Os povos,4,7,2,Z1.1,*6.9,IV,2,major,9.0
+MILTON,20,Os povos,5,11,6,z3,*m7.11,VI,2,major,12.0
+MILTON,20,Os povos,6,6,6,z3,*m7.11,III,2,major,15.0
+MILTON,20,Os povos,7,0,2,Z2.1,*M7.9(#11),bVII7M,2,major,17.0
+MILTON,20,Os povos,8,2,2,Z1.1,*6.9,I,2,major,20.0
+MILTON,20,Os povos,9,2,2,z2.1,*m7.9.11,I,2,minor,27.0
+MILTON,20,Os povos,10,3,2,Z0,*M7,bII7M,2,minor,31.0
+MILTON,20,Os povos,11,10,2,Z2,*M7.9,VI,2,minor,33.0
+MILTON,20,Os povos,12,0,0,z0,*m7,bVIIm7,2,minor,34.0
+MILTON,20,Os povos,13,2,2,z0,*m7,I,2,minor,35.0
+MILTON,20,Os povos,14,7,9,Y1,*4.7,IV7,2,minor,36.0
+MILTON,20,Os povos,15,2,2,Z2,*M7.9,I,2,major,37.0
+MILTON,21,Outubro,1,2,2,z3,*m7.11,I,2,minor,1.0
+MILTON,21,Outubro,2,2,2,Y1.1,*4.7.9,I,2,minor,3.0
+MILTON,21,Outubro,3,2,2,z3,*m7.11,I,2,minor,5.0
+MILTON,21,Outubro,4,6,6,z3,*m7.11,?,2,minor,7.0
+MILTON,21,Outubro,5,11,11,Y2.4,*7(#9),?,2,minor,8.0
+MILTON,21,Outubro,6,7,7,z0,*m7,IV,2,minor,9.0
+MILTON,21,Outubro,7,0,0,Y1.1,*4.7.9,bVII7,2,minor,10.0
+MILTON,21,Outubro,8,0,0,Y2,*7.9,bVII7,2,minor,10.5
+MILTON,21,Outubro,9,6,6,z0,*m7,?,2,minor,11.0
+MILTON,21,Outubro,10,11,11,Y2.1,*7.9(#11),?,2,minor,12.0
+MILTON,21,Outubro,11,10,4,V4,*(#5),Np/V,2,minor,13.0
+MILTON,21,Outubro,12,10,4,V0,*,Np/V,2,minor,13.5
+MILTON,21,Outubro,13,9,9,z3,*m7.11,Vm7,2,minor,14.0
+MILTON,21,Outubro,14,11,11,z3,*m7.11,?,2,minor,15.0
+MILTON,21,Outubro,15,9,9,Y1.1,*4.7.9,V/V,7,major,17.0
+MILTON,21,Outubro,16,0,0,Y1.1,*4.7.9,IV7,7,major,19.0
+MILTON,21,Outubro,17,2,2,Y1.1,*4.7.9,V,7,major,21.0
+MILTON,21,Outubro,18,2,2,Y1.1.3,*4.7(b9),V,7,major,24.0
+MILTON,21,Outubro,19,7,7,V0,*,I,7,major,25.0
+MILTON,21,Outubro,20,7,6,Z0,*M7,I,7,major,25.5
+MILTON,21,Outubro,21,4,4,z0,*m7,VI,7,major,26.0
+MILTON,21,Outubro,22,7,7,Y1.1,*4.7.9,I,7,major,27.0
+MILTON,21,Outubro,23,7,7,Y1.1.3,*4.7(b9),I,7,major,27.5
+MILTON,21,Outubro,24,7,7,Z1,*6,I,7,major,28.0
+MILTON,21,Outubro,25,0,0,w0,*mM7,IVm7,7,major,29.0
+MILTON,21,Outubro,26,5,5,Y2.1,*7.9(#11),bVII7,7,major,30.0
+MILTON,21,Outubro,27,9,9,z2,*m7.9,II,7,major,31.0
+MILTON,21,Outubro,28,2,2,Y2.4,*7(#9),V,7,major,32.0
+MILTON,21,Outubro,29,7,7,V0,*,I,7,major,33.0
+MILTON,21,Outubro,30,7,6,Z0,*M7,I,7,major,33.5
+MILTON,21,Outubro,31,4,4,z0,*m7,VI,7,major,34.0
+MILTON,21,Outubro,32,7,7,Y1.1,*4.7.9,I,7,major,35.0
+MILTON,21,Outubro,33,7,7,Z1,*6,I,7,major,36.0
+MILTON,21,Outubro,34,0,0,z2,*m7.9,IVm7,7,major,37.0
+MILTON,21,Outubro,35,5,5,Y2.1,*7.9(#11),bVII7,7,major,38.0
+MILTON,21,Outubro,36,6,6,z3,*m7.11,II,4,major,39.0
+MILTON,21,Outubro,37,11,11,Y1.1,*4.7.9,V,4,major,39.5
+MILTON,21,Outubro,38,4,4,Z2,*M7.9,I,4,major,40.0
+MILTON,22,Pieta,1,9,9,z0,*m7,I,9,minor,1.0
+MILTON,22,Pieta,2,9,9,Y3,*7(#11),I,9,minor,1.5
+MILTON,22,Pieta,3,9,9,z0,*m7,I,9,minor,2.0
+MILTON,22,Pieta,4,9,9,Y3,*7(#11),I,9,minor,2.5
+MILTON,22,Pieta,5,9,9,z0,*m7,I,9,minor,3.0
+MILTON,22,Pieta,6,9,9,Y3,*7(#11),I,9,minor,3.5
+MILTON,22,Pieta,7,9,9,z0,*m7,I,9,minor,4.0
+MILTON,22,Pieta,8,9,9,Y3,*7(#11),I,9,minor,4.5
+MILTON,22,Pieta,9,0,0,z3,*m7.11,bIIIm7,9,minor,5.0
+MILTON,22,Pieta,10,9,9,z0,*m7,I,9,minor,6.0
+MILTON,22,Pieta,11,0,0,z3,*m7.11,bIIIm7,9,minor,7.0
+MILTON,22,Pieta,12,9,9,z0,*m7,I,9,minor,8.0
+MILTON,22,Pieta,13,9,9,z0,*m7,I,9,minor,9.0
+MILTON,22,Pieta,14,9,9,Y3,*7(#11),I,9,minor,9.5
+MILTON,22,Pieta,15,9,9,z0,*m7,I,9,minor,10.0
+MILTON,22,Pieta,16,9,9,Y3,*7(#11),I,9,minor,10.5
+MILTON,22,Pieta,17,9,9,z0,*m7,I,9,minor,11.0
+MILTON,22,Pieta,18,0,0,z3,*m7.11,bIIIm7,9,minor,12.0
+MILTON,22,Pieta,19,2,2,z3,*m7.11,IV,9,minor,12.5
+MILTON,22,Pieta,20,9,9,z0,*m7,I,9,minor,13.0
+MILTON,22,Pieta,21,9,9,Y3,*7(#11),I,9,minor,14.0
+MILTON,22,Pieta,22,9,9,z0,*m7,I,9,minor,15.0
+MILTON,22,Pieta,23,0,0,z3,*m7.11,bIIIm7,9,minor,16.0
+MILTON,22,Pieta,24,2,2,z3,*m7.11,IV,9,minor,16.5
+MILTON,22,Pieta,25,11,11,z0,*m7,I,11,minor,17.0
+MILTON,22,Pieta,26,2,2,z3,*m7.11,bIIIm7,11,minor,20.0
+MILTON,22,Pieta,27,9,9,z0,*m7,I,9,minor,21.0
+MILTON,22,Pieta,28,9,9,Y3,*7(#11),I,9,minor,22.0
+MILTON,22,Pieta,29,9,9,z0,*m7,I,9,minor,23.0
+MILTON,22,Pieta,30,0,0,z3,*m7.11,bIIIm7,9,minor,24.0
+MILTON,22,Pieta,31,2,2,z3,*m7.11,IV,9,minor,24.5
+MILTON,22,Pieta,32,9,9,z0,*m7,I,9,minor,25.0
+MILTON,22,Pieta,33,0,0,z3,*m7.11,bIIIm7,9,minor,26.0
+MILTON,22,Pieta,34,9,9,z0,*m7,I,9,minor,27.0
+MILTON,22,Pieta,35,0,0,z3,*m7.11,bIIIm7,9,minor,28.0
+MILTON,22,Pieta,36,9,9,z0,*m7,I,9,minor,29.0
+MILTON,22,Pieta,37,0,0,z3,*m7.11,bIIIm7,9,minor,30.0
+MILTON,22,Pieta,38,9,9,z0,*m7,I,9,minor,31.0
+MILTON,22,Pieta,39,0,0,z3,*m7.11,bIIIm7,9,minor,32.0
+MILTON,22,Pieta,40,9,9,z0,*m7,I,9,minor,33.0
+MILTON,23,Primeiro de maio,1,2,2,z0,*m7,I,2,minor,1.0
+MILTON,23,Primeiro de maio,2,2,2,z1,*m6,I,2,minor,1.5
+MILTON,23,Primeiro de maio,3,2,2,w0,*mM7,I,2,minor,2.0
+MILTON,23,Primeiro de maio,4,2,2,z1,*m6,I,2,minor,2.5
+MILTON,23,Primeiro de maio,5,4,4,y0,*Ø,II,2,minor,3.0
+MILTON,23,Primeiro de maio,6,2,2,Y3,*7(#11),V/V,2,minor,5.0
+MILTON,23,Primeiro de maio,7,1,9,V0,*,V,2,minor,6.75
+MILTON,23,Primeiro de maio,8,2,2,w0,*mM7,I,2,minor,7.0
+MILTON,23,Primeiro de maio,9,2,2,z0,*m7,I,2,minor,8.0
+MILTON,23,Primeiro de maio,10,0,7,V0,*,bVII7M,2,minor,9.0
+MILTON,23,Primeiro de maio,11,6,6,y0,*Ø,?,2,minor,10.0
+MILTON,23,Primeiro de maio,12,10,5,Z0,*M7,VI,2,minor,10.5
+MILTON,23,Primeiro de maio,13,9,4,Z0,*M7,?,2,minor,11.0
+MILTON,23,Primeiro de maio,14,8,3,Z0,*M7,?,2,minor,12.0
+MILTON,23,Primeiro de maio,15,4,4,y0,*Ø,II,2,minor,13.0
+MILTON,23,Primeiro de maio,16,4,4,W2,*(#5)7.9,V/V,2,minor,14.25
+MILTON,23,Primeiro de maio,17,4,4,Y2.2.1,*7(b9)13,V/V,2,minor,14.5
+MILTON,23,Primeiro de maio,18,9,9,Y2.2.1,*7(b9)13,V,2,minor,14.75
+MILTON,23,Primeiro de maio,19,2,2,z3,*m7.11,I,2,minor,15.0
+MILTON,23,Primeiro de maio,20,0,0,Z0,*M7,I,0,major,17.0
+MILTON,23,Primeiro de maio,21,2,0,V0,*,V/V,0,major,19.0
+MILTON,23,Primeiro de maio,22,11,11,z0,*m7,I,11,minor,21.0
+MILTON,23,Primeiro de maio,23,4,4,z0,*m7,IV,11,minor,23.0
+MILTON,23,Primeiro de maio,24,4,4,y0,*Ø,II,2,minor,24.0
+MILTON,23,Primeiro de maio,25,9,9,Y2.2.1,*7(b9)13,V,2,minor,24.5
+MILTON,23,Primeiro de maio,26,2,2,z1,*m6,I,2,minor,25.0
+MILTON,23,Primeiro de maio,27,2,2,z0,*m7,I,2,minor,27.0
+MILTON,23,Primeiro de maio,28,0,7,V0,*,bVII7M,2,minor,28.0
+MILTON,23,Primeiro de maio,29,0,7,Z1,*6,bVII7M,2,minor,29.0
+MILTON,23,Primeiro de maio,30,6,6,y0,*Ø,?,2,minor,29.5
+MILTON,23,Primeiro de maio,31,10,5,Z0,*M7,VI,2,minor,30.0
+MILTON,23,Primeiro de maio,32,9,4,Z0,*M7,?,2,minor,31.0
+MILTON,23,Primeiro de maio,33,8,3,Z0,*M7,?,2,minor,32.0
+MILTON,23,Primeiro de maio,34,4,4,y0,*Ø,II,2,minor,34.0
+MILTON,23,Primeiro de maio,35,10,4,V3,*(#11),?,2,minor,34.5
+MILTON,23,Primeiro de maio,36,4,4,y0,*Ø,II,2,minor,35.0
+MILTON,23,Primeiro de maio,37,4,4,W2,*(#5)7.9,V/V,2,minor,35.25
+MILTON,23,Primeiro de maio,38,4,4,Y2.2.1,*7(b9)13,V/V,2,minor,35.5
+MILTON,23,Primeiro de maio,39,9,9,Y2.2.1,*7(b9)13,V,2,minor,35.75
+MILTON,23,Primeiro de maio,40,2,2,z3,*m7.11,I,2,minor,36.0
+MILTON,24,Rio vermelho,1,9,2,v0,*m,I,2,minor,1.0
+MILTON,24,Rio vermelho,2,7,9,V0,*,V,2,minor,1.5
+MILTON,24,Rio vermelho,3,9,2,v0,*m,I,2,minor,2.0
+MILTON,24,Rio vermelho,4,7,9,V0,*,V,2,minor,2.5
+MILTON,24,Rio vermelho,5,9,2,v0,*m,I,2,minor,3.0
+MILTON,24,Rio vermelho,6,7,9,V0,*,V,2,minor,3.5
+MILTON,24,Rio vermelho,7,9,2,v0,*m,I,2,minor,4.0
+MILTON,24,Rio vermelho,8,7,9,V0,*,V,2,minor,4.5
+MILTON,24,Rio vermelho,9,9,2,v0,*m,I,2,minor,5.0
+MILTON,24,Rio vermelho,10,7,9,V0,*,V,2,minor,5.5
+MILTON,24,Rio vermelho,11,9,2,v0,*m,I,2,minor,6.0
+MILTON,24,Rio vermelho,12,7,9,V0,*,V,2,minor,6.5
+MILTON,24,Rio vermelho,13,9,2,v0,*m,I,2,minor,7.0
+MILTON,24,Rio vermelho,14,7,9,V0,*,V,2,minor,7.5
+MILTON,24,Rio vermelho,15,9,2,v0,*m,I,2,minor,8.0
+MILTON,24,Rio vermelho,16,7,9,V0,*,V,2,minor,8.5
+MILTON,24,Rio vermelho,17,7,5,z1,*m6,IV,2,minor,9.0
+MILTON,24,Rio vermelho,18,4,4,x0,*°7,II,2,minor,13.0
+MILTON,24,Rio vermelho,19,9,9,Y2.3,*7(b9),V,2,minor,14.0
+MILTON,24,Rio vermelho,20,9,2,v0,*m,I,2,minor,15.0
+MILTON,24,Rio vermelho,21,7,9,V0,*,V,2,minor,15.5
+MILTON,24,Rio vermelho,22,9,2,v0,*m,I,2,minor,16.0
+MILTON,24,Rio vermelho,23,7,9,V0,*,V,2,minor,16.5
+MILTON,24,Rio vermelho,24,2,2,Z1.1,*6.9,I,2,major,17.0
+MILTON,24,Rio vermelho,25,2,2,Z2,*M7.9,I,2,major,23.0
+MILTON,24,Rio vermelho,26,2,2,Z1.1,*6.9,I,2,major,23.5
+MILTON,24,Rio vermelho,27,2,2,Z2,*M7.9,I,2,major,24.0
+MILTON,24,Rio vermelho,28,2,2,Z1.1,*6.9,I,2,major,24.5
+MILTON,24,Rio vermelho,29,2,2,Z2,*M7.9,I,2,major,25.0
+MILTON,24,Rio vermelho,30,2,2,Z1.1,*6.9,I,2,major,25.5
+MILTON,24,Rio vermelho,31,10,10,Z1,*6,bVI7M,2,major,26.0
+MILTON,24,Rio vermelho,32,2,2,V1,*4,I,2,major,28.0
+MILTON,24,Rio vermelho,33,9,2,v0,*m,I,2,minor,30.0
+MILTON,24,Rio vermelho,34,7,9,V0,*,V,2,minor,30.5
+MILTON,24,Rio vermelho,35,9,2,v0,*m,I,2,minor,31.0
+MILTON,24,Rio vermelho,36,7,9,V0,*,V,2,minor,31.5
+MILTON,25,River Phoenix,1,2,2,V0,*,I,2,major,1.0
+MILTON,25,River Phoenix,2,2,6,V0,*,I,2,major,1.5
+MILTON,25,River Phoenix,3,7,11,Z1,*6,IV,2,major,2.0
+MILTON,25,River Phoenix,4,4,4,z0,*m7,II,2,major,4.0
+MILTON,25,River Phoenix,5,9,1,V2,*9,V,2,major,6.0
+MILTON,25,River Phoenix,6,4,2,z0,*m7,II,2,major,7.0
+MILTON,25,River Phoenix,7,9,9,V1,*4,V,2,major,7.5
+MILTON,25,River Phoenix,8,2,2,V0,*,I,2,major,8.0
+MILTON,25,River Phoenix,9,9,9,V1,*4,V,2,major,10.0
+MILTON,25,River Phoenix,10,9,9,V0,*,V,2,major,10.5
+MILTON,25,River Phoenix,11,7,7,V0,*,IV,2,major,11.0
+MILTON,25,River Phoenix,12,6,6,z0,*m7,III,2,major,12.0
+MILTON,25,River Phoenix,13,11,11,z0,*m7,VI,2,major,13.0
+MILTON,25,River Phoenix,14,11,9,z0,*m7,II__X,2,major,13.5
+MILTON,25,River Phoenix,15,4,4,Y0,*7,V/V,2,major,14.0
+MILTON,25,River Phoenix,16,9,9,V1,*4,V,2,major,15.0
+MILTON,25,River Phoenix,17,9,9,V0,*,V,2,major,16.0
+MILTON,25,River Phoenix,18,2,2,V0,*,I,2,major,17.0
+MILTON,25,River Phoenix,19,7,11,Z1,*6,IV,2,major,18.0
+MILTON,25,River Phoenix,20,4,4,z0,*m7,II,2,major,20.0
+MILTON,25,River Phoenix,21,9,1,V2,*9,V,2,major,22.0
+MILTON,25,River Phoenix,22,9,9,V0,*,V,2,major,23.0
+MILTON,25,River Phoenix,23,7,7,V0,*,IV,2,major,23.5
+MILTON,25,River Phoenix,24,2,2,V0,*,I,2,major,24.0
+MILTON,25,River Phoenix,25,7,11,V0,*,IV,2,major,26.0
+MILTON,25,River Phoenix,26,7,7,V0,*,IV,2,major,26.5
+MILTON,25,River Phoenix,27,9,9,V1,*4,V,2,major,27.0
+MILTON,25,River Phoenix,28,9,9,V0,*,V,2,major,28.0
+MILTON,25,River Phoenix,29,11,11,z0,*m7,VI,2,major,29.0
+MILTON,26,Roupa nova,1,4,4,V0,*,I,4,major,1.0
+MILTON,26,Roupa nova,2,4,2,Y0,*7,I,4,major,1.5
+MILTON,26,Roupa nova,3,4,11,V0,*,I,4,major,2.0
+MILTON,26,Roupa nova,4,4,2,Y0,*7,I,4,major,2.5
+MILTON,26,Roupa nova,5,4,4,V0,*,I,4,major,3.0
+MILTON,26,Roupa nova,6,4,2,Y0,*7,I,4,major,3.5
+MILTON,26,Roupa nova,7,4,11,V0,*,I,4,major,4.0
+MILTON,26,Roupa nova,8,4,2,Y0,*7,I,4,major,4.5
+MILTON,26,Roupa nova,9,9,9,V0,*,IV,4,major,5.0
+MILTON,26,Roupa nova,10,9,7,Y0,*7,IV,4,major,5.5
+MILTON,26,Roupa nova,11,9,4,V0,*,IV,4,major,6.0
+MILTON,26,Roupa nova,12,9,7,Y0,*7,IV,4,major,6.5
+MILTON,26,Roupa nova,13,4,4,V0,*,I,4,major,7.0
+MILTON,26,Roupa nova,14,4,2,Y0,*7,I,4,major,7.5
+MILTON,26,Roupa nova,15,4,11,V0,*,I,4,major,8.0
+MILTON,26,Roupa nova,16,4,2,Y0,*7,I,4,major,8.5
+MILTON,26,Roupa nova,17,9,9,V0,*,IV,4,major,9.0
+MILTON,26,Roupa nova,18,9,7,Y0,*7,IV,4,major,9.5
+MILTON,26,Roupa nova,19,9,4,V0,*,IV,4,major,10.0
+MILTON,26,Roupa nova,20,9,7,Y0,*7,IV,4,major,10.5
+MILTON,26,Roupa nova,21,4,4,V0,*,I,4,major,11.0
+MILTON,26,Roupa nova,22,4,2,Y0,*7,I,4,major,11.5
+MILTON,26,Roupa nova,23,4,11,V0,*,I,4,major,12.0
+MILTON,26,Roupa nova,24,4,2,Y0,*7,I,4,major,12.5
+MILTON,26,Roupa nova,25,11,11,z0,*m7,Vm7,4,major,13.0
+MILTON,26,Roupa nova,26,8,8,z0,*m7,III,4,major,14.0
+MILTON,26,Roupa nova,27,9,9,Z0,*M7,IV,4,major,15.0
+MILTON,26,Roupa nova,28,11,11,Z0,*M7,?,4,major,16.0
+MILTON,26,Roupa nova,29,9,9,Z0,*M7,IV,4,major,17.0
+MILTON,26,Roupa nova,30,8,8,Z0,*M7,?,4,major,18.0
+MILTON,26,Roupa nova,31,7,7,Z0,*M7,bIII7M,4,major,19.0
+MILTON,26,Roupa nova,32,11,11,Y1.1,*4.7.9,V,4,major,20.0
+MILTON,26,Roupa nova,33,4,4,V0,*,I,4,major,21.0
+MILTON,27,Saudades dos avioes da Panair,1,2,2,z0,*m7,I,2,minor,1.0
+MILTON,27,Saudades dos avioes da Panair,2,10,5,V0,*,IV,5,major,5.0
+MILTON,27,Saudades dos avioes da Panair,3,0,4,V0,*,I,5,major,6.0
+MILTON,27,Saudades dos avioes da Panair,4,5,5,V0,*,I,5,major,7.0
+MILTON,27,Saudades dos avioes da Panair,5,7,5,Y0,*7,V,0,major,7.5
+MILTON,27,Saudades dos avioes da Panair,6,0,0,V0,*,I,0,major,8.0
+MILTON,27,Saudades dos avioes da Panair,7,7,5,Y0,*7,V,0,major,8.5
+MILTON,27,Saudades dos avioes da Panair,8,0,0,V0,*,I,0,major,9.0
+MILTON,27,Saudades dos avioes da Panair,9,5,5,V0,*,I,0,major,10.0
+MILTON,27,Saudades dos avioes da Panair,10,7,5,Y0,*7,V,0,major,10.5
+MILTON,27,Saudades dos avioes da Panair,11,0,0,V0,*,I,0,major,11.0
+MILTON,27,Saudades dos avioes da Panair,12,7,5,Y0,*7,V,0,major,11.5
+MILTON,27,Saudades dos avioes da Panair,13,0,0,V0,*,I,0,major,12.0
+MILTON,27,Saudades dos avioes da Panair,14,9,9,z0,*m7,I,9,minor,13.0
+MILTON,27,Saudades dos avioes da Panair,15,0,0,Z1,*6,III,9,minor,14.0
+MILTON,27,Saudades dos avioes da Panair,16,10,10,Z1,*6,bII7M,9,minor,15.0
+MILTON,27,Saudades dos avioes da Panair,17,9,9,Y1.1,*4.7.9,V,2,minor,16.0
+MILTON,27,Saudades dos avioes da Panair,18,9,9,Y1,*4.7,V,2,minor,16.5
+MILTON,27,Saudades dos avioes da Panair,19,9,9,Y0,*7,V,2,minor,16.75
+MILTON,27,Saudades dos avioes da Panair,20,2,2,z0,*m7,I,2,minor,17.0
+MILTON,28,Tarde,1,4,4,z2,*m7.9,I,4,minor,1.0
+MILTON,28,Tarde,2,6,4,W0,*(#5)7,V/V,4,minor,2.0
+MILTON,28,Tarde,3,6,4,Y0,*7,V/V,4,minor,2.5
+MILTON,28,Tarde,4,4,4,z2,*m7.9,I,4,minor,3.0
+MILTON,28,Tarde,5,4,4,Y1.1,*4.7.9,V/IV,4,minor,4.0
+MILTON,28,Tarde,6,4,4,Y2.2.1,*7(b9)13,V/IV,4,minor,4.5
+MILTON,28,Tarde,7,9,9,w0,*mM7,IV,4,minor,5.0
+MILTON,28,Tarde,8,9,9,z0,*m7,II,7,major,5.5
+MILTON,28,Tarde,9,2,2,Y1.1,*4.7.9,V,7,major,6.0
+MILTON,28,Tarde,10,2,2,Y2.3,*7(b9),V,7,major,6.5
+MILTON,28,Tarde,11,7,7,Z4,*(#5)M7,I,7,major,7.0
+MILTON,28,Tarde,12,0,0,Z0,*M7,IV,7,major,7.5
+MILTON,28,Tarde,13,6,6,z1,*m6,II__X,7,major,8.0
+MILTON,28,Tarde,14,11,11,Y2.4,*7(#9),V/VI,7,major,8.5
+MILTON,28,Tarde,15,9,1,V2,*9,V/V,7,major,9.0
+MILTON,28,Tarde,16,2,1,Y0,*7,V,7,major,10.0
+MILTON,28,Tarde,17,7,11,V2,*9,I,7,major,11.0
+MILTON,28,Tarde,18,0,0,Z0,*M7,IV,7,major,12.0
+MILTON,28,Tarde,19,1,1,W2,*(#5)7.9,V/II,4,minor,13.0
+MILTON,28,Tarde,20,6,6,Y2.2.1,*7(b9)13,V/V,4,minor,14.0
+MILTON,28,Tarde,21,6,6,Y2.2.1.1,*7(b9.b13),V/V,4,minor,14.5
+MILTON,28,Tarde,22,11,11,Y1.1,*4.7.9,V,4,minor,15.0
+MILTON,28,Tarde,23,4,4,Z2,*M7.9,I,4,major,17.0
+MILTON,28,Tarde,24,6,4,W0,*(#5)7,V/V,4,major,18.0
+MILTON,28,Tarde,25,6,4,Y0,*7,V/V,4,major,18.5
+MILTON,28,Tarde,26,4,4,Z2,*M7.9,I,4,major,19.0
+MILTON,28,Tarde,27,4,4,Y1.1,*4.7.9,V/IV,4,major,20.0
+MILTON,28,Tarde,28,4,4,Y2.2.1,*7(b9)13,V/IV,4,major,20.5
+MILTON,28,Tarde,29,9,9,Z0,*M7,IV,4,major,21.0
+MILTON,28,Tarde,30,11,9,Y0,*7,V,4,major,22.0
+MILTON,28,Tarde,31,2,2,Z2,*M7.9,bVII7M,4,major,22.5
+MILTON,28,Tarde,32,8,8,z2,*m7.9,II__X,4,major,23.0
+MILTON,28,Tarde,33,1,1,Y2.4,*7(#9),V/II,4,major,24.0
+MILTON,28,Tarde,34,6,6,z0,*m7,II,4,major,25.0
+MILTON,28,Tarde,35,6,4,z0,*m7,II,4,major,25.5
+MILTON,28,Tarde,36,3,3,z2,*m7.9,II__X,4,major,26.0
+MILTON,28,Tarde,37,8,8,Y4.1,*7(b13),V/VI,4,major,26.5
+MILTON,28,Tarde,38,1,1,w1,*mM7.9,II__X,4,major,27.0
+MILTON,28,Tarde,39,1,1,z2,*m7.9,II__X,4,major,27.5
+MILTON,28,Tarde,40,6,6,Y4,*7.13,V/V,4,major,28.0
+MILTON,28,Tarde,41,2,2,Y1.1,*4.7.9,bVII7,4,major,29.0
+MILTON,29,Tema de Tostao,1,2,2,V0,*,I,2,major,1.0
+MILTON,29,Tema de Tostao,2,0,2,V0,*,bVII7M,2,major,2.0
+MILTON,29,Tema de Tostao,3,2,2,V0,*,I,2,major,3.0
+MILTON,29,Tema de Tostao,4,0,2,V0,*,bVII7M,2,major,4.0
+MILTON,29,Tema de Tostao,5,2,2,V0,*,I,2,major,5.0
+MILTON,29,Tema de Tostao,6,4,2,Y0,*7,V/V,2,major,6.0
+MILTON,29,Tema de Tostao,7,2,2,V0,*,I,2,major,7.0
+MILTON,29,Tema de Tostao,8,7,9,V0,*,IV,2,major,9.0
+MILTON,29,Tema de Tostao,9,2,9,V0,*,I,2,major,10.0
+MILTON,29,Tema de Tostao,10,9,9,V0,*,V,2,major,11.0
+MILTON,29,Tema de Tostao,11,4,9,V0,*,V/V,2,major,12.0
+MILTON,29,Tema de Tostao,12,7,9,V0,*,IV,2,major,13.0
+MILTON,29,Tema de Tostao,13,2,9,V0,*,I,2,major,14.0
+MILTON,29,Tema de Tostao,14,9,9,V0,*,V,2,major,15.0
+MILTON,29,Tema de Tostao,15,4,9,V0,*,V/V,2,major,16.0
+MILTON,30,Travessia,1,9,9,Z2,*M7.9,I,9,major,1.0
+MILTON,30,Travessia,2,3,3,z0,*m7,?,9,major,2.0
+MILTON,30,Travessia,3,4,2,Y0,*7,V,9,major,2.5
+MILTON,30,Travessia,4,9,9,Z2,*M7.9,I,9,major,3.0
+MILTON,30,Travessia,5,4,4,Y1,*4.7,V,9,major,3.5
+MILTON,30,Travessia,6,9,9,Z2,*M7.9,I,9,major,4.0
+MILTON,30,Travessia,7,4,4,Y1,*4.7,V,9,major,4.5
+MILTON,30,Travessia,8,9,9,Z2,*M7.9,I,9,major,5.0
+MILTON,30,Travessia,9,4,8,V2,*9,V,9,major,5.5
+MILTON,30,Travessia,10,6,6,z3,*m7.11,VI,9,major,6.0
+MILTON,30,Travessia,11,11,11,z2,*m7.9,II,9,major,6.5
+MILTON,30,Travessia,12,9,9,Y1.1,*4.7.9,V/IV,9,major,7.0
+MILTON,30,Travessia,13,9,9,Y2.3,*7(b9),V/IV,9,major,7.5
+MILTON,30,Travessia,14,9,9,Y4,*7.13,V/IV,9,major,8.0
+MILTON,30,Travessia,15,2,9,Z1,*6,IV,9,major,8.5
+MILTON,30,Travessia,16,2,2,Z0,*M7,IV,9,major,9.0
+MILTON,30,Travessia,17,7,7,Z0,*M7,bVII7M,9,major,9.5
+MILTON,30,Travessia,18,8,8,z3,*m7.11,VIIm7,9,major,10.0
+MILTON,30,Travessia,19,1,1,z2,*m7.9,III,9,major,10.5
+MILTON,30,Travessia,20,6,6,z0,*m7,VI,9,major,11.0
+MILTON,30,Travessia,21,6,4,z0,*m7,VI,9,major,11.5
+MILTON,30,Travessia,22,3,3,z0,*m7,?,9,major,12.0
+MILTON,30,Travessia,23,4,2,Y0,*7,V,9,major,12.5
+MILTON,30,Travessia,24,9,9,Z2,*M7.9,I,9,major,13.0
+MILTON,30,Travessia,25,4,4,Y1.1,*4.7.9,V,9,major,13.5
+MILTON,30,Travessia,26,9,9,Z2,*M7.9,I,9,major,14.0
+MILTON,30,Travessia,27,6,6,z3,*m7.11,VI,9,major,14.5
+MILTON,30,Travessia,28,11,11,z2,*m7.9,II,9,major,15.0
+MILTON,30,Travessia,29,4,4,z1,*m6,Vm7,9,major,15.5
+MILTON,30,Travessia,30,9,4,V2,*9,I,9,major,16.0
+MILTON,30,Travessia,31,4,4,Y1,*4.7,V,9,major,17.0
+MILTON,30,Travessia,32,9,4,V2,*9,I,9,major,18.0
+MILTON,30,Travessia,33,4,4,Y1,*4.7,V,9,major,19.0
+MILTON,30,Travessia,34,9,9,Z2,*M7.9,I,9,major,20.0
+MILTON,30,Travessia,35,9,9,Y1.1,*4.7.9,V/IV,9,major,21.0
+MILTON,30,Travessia,36,6,6,z0,*m7,VI,9,major,22.0
+MILTON,30,Travessia,37,1,1,z0,*m7,III,9,major,23.0
+MILTON,30,Travessia,38,2,2,Z0,*M7,IV,9,major,24.0
+MILTON,30,Travessia,39,4,2,Y0,*7,V,9,major,25.0
+MILTON,30,Travessia,40,6,6,z0,*m7,VI,9,major,26.0
+MILTON,30,Travessia,41,11,11,z0,*m7,II,9,major,26.5
+MILTON,30,Travessia,42,4,4,z0,*m7,Vm7,9,major,27.0
+MILTON,30,Travessia,43,4,4,Y2.3,*7(b9),V,9,major,27.5
+MILTON,30,Travessia,44,9,9,Z2,*M7.9,I,9,major,28.0
+MILTON,30,Travessia,45,9,9,Y1.1,*4.7.9,V/IV,9,major,29.0
+MILTON,30,Travessia,46,6,6,z0,*m7,VI,9,major,30.0
+MILTON,30,Travessia,47,1,1,z0,*m7,III,9,major,31.0
+MILTON,30,Travessia,48,2,2,Z0,*M7,IV,9,major,32.0
+MILTON,30,Travessia,49,4,2,Y0,*7,V,9,major,33.0
+MILTON,30,Travessia,50,11,11,z0,*m7,II,9,major,34.0
+MILTON,30,Travessia,51,4,4,z0,*m7,Vm7,9,major,34.5
+MILTON,30,Travessia,52,9,4,V2,*9,I,9,major,35.0
+MILTON,31,Tres Pontas,1,0,0,Y1.1,*4.7.9,I,0,major,1.0
+MILTON,31,Tres Pontas,2,9,9,z3,*m7.11,VI,0,major,2.0
+MILTON,31,Tres Pontas,3,0,0,Y1.1,*4.7.9,I,0,major,3.0
+MILTON,31,Tres Pontas,4,9,9,z3,*m7.11,VI,0,major,4.0
+MILTON,31,Tres Pontas,5,0,0,Y1.1,*4.7.9,I,0,major,5.0
+MILTON,31,Tres Pontas,6,0,0,Y2,*7.9,I,0,major,6.0
+MILTON,31,Tres Pontas,7,0,0,Y1.1,*4.7.9,I,0,major,7.0
+MILTON,31,Tres Pontas,8,0,0,Y2,*7.9,I,0,major,8.0
+MILTON,31,Tres Pontas,9,0,0,Y1.1,*4.7.9,I,0,major,9.0
+MILTON,31,Tres Pontas,10,0,0,Y1.1,*4.7.9,I,0,major,10.0
+MILTON,31,Tres Pontas,11,9,9,z3,*m7.11,VI,0,major,11.0
+MILTON,31,Tres Pontas,12,0,0,Y1.1,*4.7.9,I,0,major,12.0
+MILTON,31,Tres Pontas,13,9,9,z3,*m7.11,VI,0,major,13.0
+MILTON,31,Tres Pontas,14,0,0,Y1.1,*4.7.9,I,0,major,14.0
+MILTON,31,Tres Pontas,15,0,7,V0,*,I,0,major,15.0
+MILTON,31,Tres Pontas,16,11,11,z3,*m7.11,VIIm7,0,major,16.0
+MILTON,31,Tres Pontas,17,9,9,z3,*m7.11,VI,0,major,18.0
+MILTON,31,Tres Pontas,18,11,11,z3,*m7.11,VIIm7,0,major,19.0
+MILTON,31,Tres Pontas,19,5,0,V0,*,IV,0,major,20.0
+MILTON,31,Tres Pontas,20,10,10,z3,*m7.11,bIIm7,2,major,21.0
+MILTON,31,Tres Pontas,21,9,9,V0,*,I,2,major,22.0
+MILTON,31,Tres Pontas,22,9,9,Y1.1,*4.7.9,I,2,major,24.0
+MILTON,31,Tres Pontas,23,9,9,Y2,*7.9,I,2,major,25.0
+MILTON,31,Tres Pontas,24,0,0,Z1.1,*6.9,I,0,major,26.0
+MILTON,31,Tres Pontas,25,7,7,Y1.1,*4.7.9,V,0,major,27.0
+MILTON,31,Tres Pontas,26,7,7,Y2.1.2,*7(b9.#11),V,0,major,27.5
+MILTON,31,Tres Pontas,27,0,0,Z1.1,*6.9,I,0,major,28.0
+MILTON,31,Tres Pontas,28,0,0,Z0,*M7,I,0,major,29.0
+MILTON,31,Tres Pontas,29,0,0,Y1.1,*4.7.9,I,0,major,30.0
+MILTON,32,Tristesse,1,6,6,z0,*m7,I,6,minor,1.0
+MILTON,32,Tristesse,2,2,6,Z0,*M7,VI,6,minor,2.0
+MILTON,32,Tristesse,3,6,6,z0,*m7,I,6,minor,3.0
+MILTON,32,Tristesse,4,2,6,Z0,*M7,VI,6,minor,4.0
+MILTON,32,Tristesse,5,6,6,z0,*m7,I,6,minor,5.0
+MILTON,32,Tristesse,6,4,8,Y0,*7,bVII7,6,minor,6.0
+MILTON,32,Tristesse,7,7,10,v0,*m,bIIm7,6,minor,7.0
+MILTON,32,Tristesse,8,7,11,V0,*,bII7M,6,minor,8.0
+MILTON,32,Tristesse,9,6,9,z0,*m7,I,6,minor,8.5
+MILTON,32,Tristesse,10,8,8,Y0,*7,V/V,6,minor,9.0
+MILTON,32,Tristesse,11,1,1,Y0,*7,V,6,minor,10.0
+MILTON,32,Tristesse,12,6,6,z0,*m7,I,6,minor,11.0
+MILTON,32,Tristesse,13,1,10,Y0,*7,V/V,6,minor,12.0
+MILTON,32,Tristesse,14,6,10,V2,*9,V,11,minor,13.0
+MILTON,32,Tristesse,15,11,11,z0,*m7,I,11,minor,14.0
+MILTON,32,Tristesse,16,7,11,Z0,*M7,VI,11,minor,15.0
+MILTON,32,Tristesse,17,11,11,z0,*m7,I,11,minor,16.0
+MILTON,32,Tristesse,18,7,11,Z0,*M7,VI,11,minor,17.0
+MILTON,32,Tristesse,19,11,11,z0,*m7,I,11,minor,18.0
+MILTON,32,Tristesse,20,7,11,Z0,*M7,VI,11,minor,19.0
+MILTON,32,Tristesse,21,11,11,z0,*m7,I,11,minor,20.0
+MILTON,32,Tristesse,22,7,11,Z1,*6,VI,11,minor,21.0
+MILTON,32,Tristesse,23,11,11,z0,*m7,I,11,minor,22.0
+MILTON,32,Tristesse,24,9,1,V0,*,bVII7,11,minor,23.0
+MILTON,32,Tristesse,25,0,3,v0,*m,bIIm7,11,minor,24.0
+MILTON,32,Tristesse,26,0,4,Z1,*6,bII7M,11,minor,25.0
+MILTON,32,Tristesse,27,11,2,v0,*m,I,11,minor,25.5
+MILTON,32,Tristesse,28,1,1,Y0,*7,V/V,11,minor,26.0
+MILTON,32,Tristesse,29,6,6,Y0,*7,V,11,minor,27.0
+MILTON,32,Tristesse,30,11,11,z0,*m7,I,11,minor,28.0
+MILTON,33,Um gosto de sol,1,0,0,V0,*,I,0,major,1.0
+MILTON,33,Um gosto de sol,2,7,0,V0,*,V,0,major,2.0
+MILTON,33,Um gosto de sol,3,7,0,v0,*m,Vm7,0,major,3.0
+MILTON,33,Um gosto de sol,4,5,0,v0,*m,IVm7,0,major,4.0
+MILTON,33,Um gosto de sol,5,0,0,V0,*,I,0,major,5.0
+MILTON,33,Um gosto de sol,6,8,0,x0,*°7,V°/VI,0,major,6.0
+MILTON,33,Um gosto de sol,7,9,0,v0,*m,VI,0,major,7.0
+MILTON,33,Um gosto de sol,8,0,0,V4,*(#5),I,0,major,8.0
+MILTON,33,Um gosto de sol,9,0,0,V0,*,I,0,major,9.0
+MILTON,33,Um gosto de sol,10,2,0,Y0,*7,V/V,0,major,10.0
+MILTON,33,Um gosto de sol,11,5,0,v0,*m,IVm7,0,major,11.0
+MILTON,33,Um gosto de sol,12,0,0,Y1.1,*4.7.9,I,0,major,12.0
+MILTON,33,Um gosto de sol,13,0,0,V0,*,I,0,major,13.0
+MILTON,33,Um gosto de sol,14,2,0,Y0,*7,V/V,0,major,14.0
+MILTON,33,Um gosto de sol,15,5,0,Z1,*6,IVm7,0,major,15.0
+MILTON,33,Um gosto de sol,16,9,0,v0,*m,VI,0,major,16.0
+MILTON,33,Um gosto de sol,17,0,0,V0,*,I,0,major,17.0
+MILTON,33,Um gosto de sol,18,8,0,x0,*°7,V°/VI,0,major,18.0
+MILTON,33,Um gosto de sol,19,9,0,v0,*m,VI,0,major,19.0
+MILTON,33,Um gosto de sol,20,0,0,Y1.1,*4.7.9,I,0,major,20.0
+MILTON,34,Vera Cruz,1,7,7,z0,*m7,I,7,minor,1.0
+MILTON,34,Vera Cruz,2,7,7,z1,*m6,I,7,minor,2.0
+MILTON,34,Vera Cruz,3,7,7,w0,*mM7,I,7,minor,3.0
+MILTON,34,Vera Cruz,4,7,7,z0,*m7,I,7,minor,4.0
+MILTON,34,Vera Cruz,5,3,3,Z0,*M7,VI,7,minor,5.0
+MILTON,34,Vera Cruz,6,2,2,z3,*m7.11,Vm7,7,minor,6.0
+MILTON,34,Vera Cruz,7,0,0,z3,*m7.11,IV,7,minor,7.0
+MILTON,34,Vera Cruz,8,11,11,z3,*m7.11,?,7,minor,9.0
+MILTON,34,Vera Cruz,9,10,10,Y4,*7.13,V/VI,7,minor,10.0
+MILTON,34,Vera Cruz,10,3,3,Z0,*M7,VI,7,minor,11.0
+MILTON,34,Vera Cruz,11,2,2,z3,*m7.11,Vm7,7,minor,12.0
+MILTON,34,Vera Cruz,12,0,0,z3,*m7.11,IV,7,minor,13.0
+MILTON,34,Vera Cruz,13,8,3,Z0,*M7,bII7M,7,minor,14.0
+MILTON,34,Vera Cruz,14,9,4,Y0,*7,?,7,minor,14.5
+MILTON,34,Vera Cruz,15,7,7,w0,*mM7,I,7,minor,15.0
+MILTON,34,Vera Cruz,16,7,7,z0,*m7,I,7,minor,15.5
+MILTON,34,Vera Cruz,17,10,10,w0,*mM7,bVIm7,7,minor,16.0
+MILTON,34,Vera Cruz,18,10,10,z0,*m7,bVIm7,7,minor,16.5
+MILTON,34,Vera Cruz,19,9,9,w0,*mM7,II,7,minor,17.0
+MILTON,34,Vera Cruz,20,9,9,z0,*m7,II,7,minor,17.5
+MILTON,34,Vera Cruz,21,8,8,w0,*mM7,bIIm7,7,minor,18.0
+MILTON,34,Vera Cruz,22,8,8,z0,*m7,bIIm7,7,minor,18.5
+MILTON,34,Vera Cruz,23,3,7,V0,*,VI,7,minor,19.0
+MILTON,34,Vera Cruz,24,7,7,v0,*m,I,7,minor,20.0
+MILTON,34,Vera Cruz,25,7,7,v2,*m.11,I,7,minor,21.0
+MILTON,34,Vera Cruz,26,9,7,Y0,*7,V/V,7,minor,22.0
+MILTON,34,Vera Cruz,27,2,2,z3,*m7.11,Vm7,7,minor,23.0
+MILTON,34,Vera Cruz,28,7,7,z0,*m7,I,7,minor,24.0
+MILTON,35,Vida,1,9,9,z0,*m7,I,9,minor,1.0
+MILTON,35,Vida,2,2,9,Y1.1,*4.7.9,IV7,9,minor,2.0
+MILTON,35,Vida,3,9,9,z0,*m7,I,9,minor,3.0
+MILTON,35,Vida,4,2,9,Y1.1,*4.7.9,IV7,9,minor,4.0
+MILTON,35,Vida,5,9,9,z0,*m7,I,9,minor,5.0
+MILTON,35,Vida,6,2,9,Y1.1,*4.7.9,IV7,9,minor,6.0
+MILTON,35,Vida,7,9,9,z3,*m7.11,I,9,minor,7.0
+MILTON,35,Vida,8,9,9,z0,*m7,I,9,minor,8.0
+MILTON,35,Vida,9,2,9,z0,*m7,IV,9,minor,9.0
+MILTON,35,Vida,10,9,9,z0,*m7,I,9,minor,11.0
+MILTON,35,Vida,11,5,0,V0,*,VI,9,minor,13.0
+MILTON,35,Vida,12,7,7,Y1.1,*4.7.9,bVII7,9,minor,14.0
+MILTON,35,Vida,13,9,9,z0,*m7,I,9,minor,15.0
+MILTON,35,Vida,14,2,6,Y0,*7,V/V,0,major,17.0
+MILTON,35,Vida,15,7,5,Y0,*7,V,0,major,19.0
+MILTON,35,Vida,16,0,4,Y0,*7,V/IV,0,major,21.0
+MILTON,35,Vida,17,7,2,Y0,*7,V,0,major,23.0
+MILTON,35,Vida,18,5,5,Z0,*M7,IV,0,major,25.0
+MILTON,35,Vida,19,6,6,y0,*Ø,#IVm7(b5),0,major,27.0
+MILTON,35,Vida,20,7,5,Y0,*7,V,0,major,29.0
+MILTON,35,Vida,21,11,11,Y4.1,*7(b13),V/V,9,minor,31.0
+MILTON,35,Vida,22,4,11,V0,*,V,9,minor,32.0
+MILTON,35,Vida,23,9,9,z0,*m7,I,9,minor,33.0
+MILTON,36,Vidro e corte,1,9,9,z0,*m7,I,9,minor,1.0
+MILTON,36,Vidro e corte,2,9,7,z0,*m7,I,9,minor,2.0
+MILTON,36,Vidro e corte,3,5,5,Z0,*M7,VI,9,minor,3.0
+MILTON,36,Vidro e corte,4,11,11,Y1.3.1,*4.7(b13),V/V,9,minor,4.0
+MILTON,36,Vidro e corte,5,4,10,V3,*(#11),V,9,minor,4.5
+MILTON,36,Vidro e corte,6,9,9,z0,*m7,I,9,minor,5.0
+MILTON,36,Vidro e corte,7,7,11,Z1,*6,bVII7M,9,minor,6.0
+MILTON,36,Vidro e corte,8,5,0,Z0,*M7,VI,9,minor,7.0
+MILTON,36,Vidro e corte,9,11,11,Y1.3.1,*4.7(b13),V/V,9,minor,8.0
+MILTON,36,Vidro e corte,10,4,10,V3,*(#11),V,9,minor,8.5
+MILTON,36,Vidro e corte,11,9,9,w0,*mM7,I,9,minor,9.0
+MILTON,36,Vidro e corte,12,9,9,z0,*m7,I,9,minor,9.5
+MILTON,36,Vidro e corte,13,9,7,z0,*m7,I,9,minor,10.0
+MILTON,36,Vidro e corte,14,5,5,Z0,*M7,VI,9,minor,11.0
+MILTON,36,Vidro e corte,15,10,10,Y3,*7(#11),SubV,9,minor,12.0
+MILTON,36,Vidro e corte,16,9,9,z0,*m7,I,9,minor,13.0
+MILTON,36,Vidro e corte,17,7,11,Z1,*6,bVII7M,9,minor,14.0
+MILTON,36,Vidro e corte,18,5,0,Z0,*M7,VI,9,minor,15.0
+MILTON,36,Vidro e corte,19,10,10,Y3,*7(#11),?,9,minor,15.5
+MILTON,36,Vidro e corte,20,11,11,Y1.1,*4.7.9,?,9,minor,16.0
+MILTON,36,Vidro e corte,21,6,6,y0,*Ø,VI,9,minor,17.0
+MILTON,36,Vidro e corte,22,5,5,Z3,*M7(#11),VI,9,minor,19.0
+MILTON,36,Vidro e corte,23,4,4,Y1,*4.7,V,9,minor,20.0
+MILTON,36,Vidro e corte,24,4,4,Y0,*7,V,9,minor,20.5
+MILTON,36,Vidro e corte,25,9,0,v0,*m,I,9,minor,21.0
+MILTON,36,Vidro e corte,26,11,2,v0,*m,II,9,minor,22.0
+MILTON,36,Vidro e corte,27,1,4,v0,*m,?,9,minor,23.0
+MILTON,36,Vidro e corte,28,9,0,v0,*m,I,9,minor,24.0
+MILTON,36,Vidro e corte,29,5,0,V0,*,VI,9,minor,25.0
+MILTON,36,Vidro e corte,30,4,4,y0,*Ø,II__X,9,minor,26.0
+MILTON,36,Vidro e corte,31,9,9,Y4,*7.13,V/IV,9,minor,26.5
+MILTON,36,Vidro e corte,32,5,0,V0,*,VI,9,minor,27.0
+MILTON,36,Vidro e corte,33,11,11,Y1.3.1,*4.7(b13),V/V,9,minor,28.0
+MILTON,36,Vidro e corte,34,4,10,V3,*(#11),V,9,minor,28.5
+MILTON,36,Vidro e corte,35,9,9,z0,*m7,I,9,minor,29.0
+MILTON,36,Vidro e corte,36,2,9,Y1.1,*4.7.9,IV7,9,minor,30.0
+MILTON,36,Vidro e corte,37,5,0,V0,*,VI,9,minor,30.5
+MILTON,36,Vidro e corte,38,2,2,z0,*m7,IV,9,minor,31.0
+MILTON,36,Vidro e corte,39,10,10,Y3,*7(#11),SubV,9,minor,32.0
+MILTON,36,Vidro e corte,40,9,9,z0,*m7,I,9,minor,33.0
+MILTON,37,Pelo amor de Deus,1,3,3,z0,*m7,?,9,minor,1.0
+MILTON,37,Pelo amor de Deus,2,9,9,z0,*m7,I,9,minor,2.0
+MILTON,37,Pelo amor de Deus,3,3,3,z0,*m7,?,9,minor,3.0
+MILTON,37,Pelo amor de Deus,4,9,9,z0,*m7,I,9,minor,4.0
+MILTON,37,Pelo amor de Deus,5,0,0,V0,*,III,9,minor,5.0
+MILTON,37,Pelo amor de Deus,6,10,10,Z0,*M7,bII7M,9,minor,6.0
+MILTON,37,Pelo amor de Deus,7,10,9,Z0,*M7,bII7M,9,minor,6.75
+MILTON,37,Pelo amor de Deus,8,7,7,z0,*m7,bVIIm7,9,minor,7.0
+MILTON,37,Pelo amor de Deus,9,9,9,Z0,*M7,I,9,major,8.0
+MILTON,38,Cravo e canela,1,0,0,V0,*,IV,7,major,1.0
+MILTON,38,Cravo e canela,2,7,7,V0,*,I,7,major,1.3
+MILTON,38,Cravo e canela,3,2,2,V0,*,V,7,major,1.6
+MILTON,38,Cravo e canela,4,0,0,V0,*,IV,7,major,2.0
+MILTON,38,Cravo e canela,5,7,7,V0,*,I,7,major,2.3
+MILTON,38,Cravo e canela,6,2,2,V0,*,V,7,major,2.6
+MILTON,38,Cravo e canela,7,0,0,V0,*,IV,7,major,3.0
+MILTON,38,Cravo e canela,8,7,7,V0,*,I,7,major,3.3
+MILTON,38,Cravo e canela,9,2,2,V0,*,V,7,major,3.6
+MILTON,38,Cravo e canela,10,0,0,V0,*,IV,7,major,4.0
+MILTON,38,Cravo e canela,11,7,7,V0,*,I,7,major,4.3
+MILTON,38,Cravo e canela,12,2,2,V0,*,V,7,major,4.6
+MILTON,38,Cravo e canela,13,5,5,Z2,*M7.9,I,5,major,5.0
+MILTON,38,Cravo e canela,14,4,4,z3,*m7.11,VIIm7,5,major,6.0
+MILTON,38,Cravo e canela,15,2,2,z2,*m7.9,VI,5,major,7.0
+MILTON,38,Cravo e canela,16,4,4,z3,*m7.11,VIIm7,5,major,8.0
+MILTON,38,Cravo e canela,17,5,5,Z2,*M7.9,I,5,major,9.0
+MILTON,38,Cravo e canela,18,4,4,z3,*m7.11,VIIm7,5,major,10.0
+MILTON,38,Cravo e canela,19,2,2,z2,*m7.9,VI,5,major,11.0
+MILTON,38,Cravo e canela,20,4,4,z3,*m7.11,VIIm7,5,major,12.0
+MILTON,38,Cravo e canela,21,0,0,V0,*,IV,7,major,13.0
+MILTON,38,Cravo e canela,22,7,7,V0,*,I,7,major,13.3
+MILTON,38,Cravo e canela,23,2,2,V0,*,V,7,major,13.6
+MILTON,38,Cravo e canela,24,0,0,V0,*,IV,7,major,14.0
+MILTON,38,Cravo e canela,25,7,7,V0,*,I,7,major,14.3
+MILTON,38,Cravo e canela,26,2,2,V0,*,V,7,major,14.6
+MILTON,38,Cravo e canela,27,0,0,V0,*,IV,7,major,15.0
+MILTON,38,Cravo e canela,28,7,7,V0,*,I,7,major,15.3
+MILTON,38,Cravo e canela,29,2,2,V0,*,V,7,major,15.6
+MILTON,38,Cravo e canela,30,0,0,V0,*,IV,7,major,16.0
+MILTON,38,Cravo e canela,31,7,7,V0,*,I,7,major,16.3
+MILTON,39,Saidas e bandeiras,1,4,4,Y1.1,*4.7.9,I,4,major,1.0
+MILTON,39,Saidas e bandeiras,2,4,4,z3,*m7.11,Im7,4,major,5.0
+MILTON,39,Saidas e bandeiras,3,4,4,Y1.1,*4.7.9,I,4,major,6.0
+MILTON,40,San Vicente,1,9,9,V0,*,I,9,major,1.0
+MILTON,40,San Vicente,2,2,6,V0,*,IV,9,major,1.5
+MILTON,40,San Vicente,3,5,8,V0,*,V,9,major,2.0
+MILTON,40,San Vicente,4,2,6,V0,*,IV,9,major,3.0
+MILTON,40,San Vicente,5,5,8,V0,*,V,9,major,4.0
+MILTON,40,San Vicente,6,9,9,V0,*,I,9,major,5.0
+MILTON,40,San Vicente,7,2,2,V0,*,IV,9,major,6.0
+MILTON,40,San Vicente,8,2,2,V3,*(#11),IV,9,major,7.0
+MILTON,40,San Vicente,9,2,2,V0,*,IV,9,major,7.5
+MILTON,40,San Vicente,10,9,7,Y2,*7.9,V/IV,9,major,8.0
+MILTON,40,San Vicente,11,2,2,V0,*,IV,9,major,9.0
+MILTON,40,San Vicente,12,9,9,V0,*,I,9,major,9.5
+MILTON,40,San Vicente,13,4,4,V0,*,V,9,major,10.0
+MILTON,40,San Vicente,14,9,9,V0,*,I,9,major,10.5
+MILTON,40,San Vicente,15,4,8,V0,*,V,9,major,11.0
+MILTON,40,San Vicente,16,6,6,z0,*m7,VI,9,major,12.0
+MILTON,40,San Vicente,17,9,9,V0,*,I,9,major,13.0
+MILTON,40,San Vicente,18,3,9,y0,*Ø,#IVm7(b5),9,major,14.0
+MILTON,40,San Vicente,19,2,9,Z0,*M7,IV,9,major,15.0
+MILTON,40,San Vicente,20,9,9,V0,*,I,9,major,16.0
+MILTON,41,A lagrima e o rio,1,4,4,V2,*9,I,4,major,1.0
+MILTON,41,A lagrima e o rio,2,8,3,z0,*m7,III,4,major,2.0
+MILTON,41,A lagrima e o rio,3,6,1,z0,*m7,II,4,major,3.0
+MILTON,41,A lagrima e o rio,4,9,0,z1,*m6,IVm7,4,major,4.0
+MILTON,41,A lagrima e o rio,5,4,4,V2,*9,I,4,major,5.0
+MILTON,41,A lagrima e o rio,6,8,3,z0,*m7,III,4,major,6.0
+MILTON,41,A lagrima e o rio,7,6,1,z0,*m7,II,4,major,7.0
+MILTON,41,A lagrima e o rio,8,9,0,z1,*m6,IVm7,4,major,8.0
+MILTON,41,A lagrima e o rio,9,9,9,V2,*9,IV,4,major,9.0
+MILTON,41,A lagrima e o rio,10,6,6,z0,*m7,II,4,major,10.0
+MILTON,41,A lagrima e o rio,11,11,11,z0,*m7,VI,2,major,11.0
+MILTON,41,A lagrima e o rio,12,11,11,w0,*mM7,VI,2,major,12.0
+MILTON,41,A lagrima e o rio,13,11,11,z0,*m7,VI,2,major,12.5
+MILTON,41,A lagrima e o rio,14,4,4,Y1.1,*4.7.9,V/V,2,major,13.0
+MILTON,41,A lagrima e o rio,15,9,9,Y1.1,*4.7.9,V,2,major,14.0
+MILTON,41,A lagrima e o rio,16,2,2,Z2,*M7.9,I,2,major,15.0
+MILTON,41,A lagrima e o rio,17,9,9,Y1.1,*4.7.9,V,2,major,16.0
+MILTON,41,A lagrima e o rio,18,2,2,Z0,*M7,I,2,major,17.0
+MILTON,41,A lagrima e o rio,19,6,1,z0,*m7,III,2,major,18.0
+MILTON,41,A lagrima e o rio,20,11,11,z0,*m7,VI,2,major,19.0
+MILTON,41,A lagrima e o rio,21,2,9,V0,*,I,2,major,20.0
+MILTON,41,A lagrima e o rio,22,7,7,V2,*9,IV,2,major,21.0
+MILTON,41,A lagrima e o rio,23,4,4,z0,*m7,II,2,major,22.0
+MILTON,41,A lagrima e o rio,24,9,9,w0,*mM7,VI,0,major,23.0
+MILTON,41,A lagrima e o rio,25,2,2,Y1.1,*4.7.9,V/V,0,major,24.0
+MILTON,41,A lagrima e o rio,26,7,7,Y1.1,*4.7.9,V,0,major,25.0
+MILTON,41,A lagrima e o rio,27,0,0,V2,*9,I,0,major,26.0
+MILTON,41,A lagrima e o rio,28,0,0,z2,*m7.9,I,0,minor,28.0
+MILTON,41,A lagrima e o rio,29,8,8,z1,*m6,bVIm7,0,minor,29.0
+MILTON,41,A lagrima e o rio,30,0,0,z2,*m7.9,I,0,minor,30.0
+MILTON,41,A lagrima e o rio,31,7,7,Y4.1,*7(b13),V,0,minor,31.0
+MILTON,41,A lagrima e o rio,32,0,0,z2,*m7.9,I,0,minor,32.0
+MILTON,41,A lagrima e o rio,33,8,8,z1,*m6,bVIm7,0,minor,33.0
+MILTON,41,A lagrima e o rio,34,0,0,z2,*m7.9,I,0,minor,34.0
+MILTON,41,A lagrima e o rio,35,0,0,Y2.4,*7(#9),V/IV,0,minor,35.0
+MILTON,41,A lagrima e o rio,36,5,8,z1,*m6,IV,0,minor,36.0
+MILTON,41,A lagrima e o rio,37,10,7,Y0,*7,V/III,0,minor,37.0
+MILTON,41,A lagrima e o rio,38,3,7,V2,*9,III,0,minor,38.0
+MILTON,41,A lagrima e o rio,39,8,6,Y0,*7,IV7,3,major,39.0
+MILTON,41,A lagrima e o rio,40,5,5,z0,*m7,II,3,major,40.0
+MILTON,41,A lagrima e o rio,41,10,10,Y2.2.1,*7(b9)13,V,3,major,41.0
+MILTON,41,A lagrima e o rio,42,3,3,Z0,*M7,I,3,major,42.0
+MILTON,41,A lagrima e o rio,43,11,11,Y1.1,*4.7.9,V,4,major,43.5
+MILTON,41,A lagrima e o rio,44,4,4,V2,*9,I,4,major,44.0
+MILTON,42,Ao que vai nascer,1,10,10,V1,*4,I,10,major,1.0
+MILTON,42,Ao que vai nascer,2,10,10,z3,*m7.11,I,10,major,3.0
+MILTON,42,Ao que vai nascer,3,10,10,Y1,*4.7,I,10,major,5.0
+MILTON,42,Ao que vai nascer,4,10,10,z3,*m7.11,I,10,major,7.0
+MILTON,42,Ao que vai nascer,5,10,10,Y1.1,*4.7.9,I,10,major,9.0
+MILTON,42,Ao que vai nascer,6,10,10,Y1.1.1,*4.7.9(#11),I,10,major,11.0
+MILTON,42,Ao que vai nascer,7,1,1,V0,*,bII7M,0,minor,13.0
+MILTON,42,Ao que vai nascer,8,8,8,V0,*,VI,0,minor,13.5
+MILTON,42,Ao que vai nascer,9,10,10,V0,*,bVII7M,0,minor,14.0
+MILTON,42,Ao que vai nascer,10,0,0,z3,*m7.11,I,0,minor,15.0
+MILTON,42,Ao que vai nascer,11,2,0,V3,*(#11),?,11,minor,18.0
+MILTON,42,Ao que vai nascer,12,11,11,z1,*m6,I,11,minor,20.0
+MILTON,42,Ao que vai nascer,13,1,1,V3,*(#11),?,10,minor,22.0
+MILTON,42,Ao que vai nascer,14,10,10,z1,*m6,I,10,minor,24.0
+MILTON,42,Ao que vai nascer,15,9,9,Y4.1,*7(b13),V,2,minor,26.0
+MILTON,42,Ao que vai nascer,16,2,2,z2,*m7.9,I,2,minor,28.0
+MILTON,42,Ao que vai nascer,17,8,8,Y4.1,*7(b13),V,1,minor,30.0
+MILTON,42,Ao que vai nascer,18,1,1,z2,*m7.9,I,1,minor,32.0
+MILTON,42,Ao que vai nascer,19,7,7,Y4.1,*7(b13),V,0,minor,34.0
+MILTON,43,Cade,1,4,4,V1,*4,V,9,major,1.0
+MILTON,43,Cade,2,2,4,V1,*4,IV,9,major,2.0
+MILTON,43,Cade,3,9,4,V0,*,I,9,major,3.0
+MILTON,43,Cade,4,9,4,z0,*m7,Im7,9,major,4.0
+MILTON,43,Cade,5,4,4,V1,*4,V,9,major,5.0
+MILTON,43,Cade,6,2,4,V1,*4,IV,9,major,6.0
+MILTON,43,Cade,7,9,4,V0,*,I,9,major,7.0
+MILTON,43,Cade,8,9,4,z0,*m7,Im7,9,major,8.0
+MILTON,43,Cade,9,9,4,Y1.1,*4.7.9,I,9,major,9.0
+MILTON,43,Cade,10,11,4,Y1.1,*4.7.9,?,9,major,10.0
+MILTON,43,Cade,11,1,4,Y1.1,*4.7.9,aSubV/IV,9,major,11.0
+MILTON,43,Cade,12,2,4,Y1.1,*4.7.9,IV7,9,major,12.0
+MILTON,43,Cade,13,9,4,Y1.1,*4.7.9,I,9,major,13.0
+MILTON,43,Cade,14,11,4,Y1.1,*4.7.9,?,9,major,14.0
+MILTON,43,Cade,15,1,4,Y1.1,*4.7.9,SubV/III,9,minor,15.0
+MILTON,43,Cade,16,0,4,V0,*,III,9,minor,16.0
+MILTON,43,Cade,17,9,9,z0,*m7,I,9,minor,18.0
+MILTON,44,Coisas de Minas,1,2,2,V0,*,I,2,major,1.0
+MILTON,44,Coisas de Minas,2,9,9,Y0,*7,V,2,major,1.5
+MILTON,44,Coisas de Minas,3,2,2,V0,*,I,2,major,2.0
+MILTON,44,Coisas de Minas,4,9,9,Y0,*7,V,2,major,2.5
+MILTON,44,Coisas de Minas,5,2,2,V0,*,I,2,major,3.0
+MILTON,44,Coisas de Minas,6,9,9,Y0,*7,V,2,major,3.5
+MILTON,44,Coisas de Minas,7,2,2,V0,*,I,2,major,4.0
+MILTON,44,Coisas de Minas,8,9,9,Y0,*7,V,2,major,4.5
+MILTON,44,Coisas de Minas,9,2,2,V0,*,I,2,major,5.0
+MILTON,44,Coisas de Minas,10,9,9,Y0,*7,V,2,major,5.5
+MILTON,44,Coisas de Minas,11,2,2,V0,*,I,2,major,6.0
+MILTON,44,Coisas de Minas,12,9,9,Y0,*7,V,2,major,6.5
+MILTON,44,Coisas de Minas,13,2,2,V0,*,I,2,major,7.0
+MILTON,44,Coisas de Minas,14,4,2,Y0,*7,V/V,2,major,7.5
+MILTON,44,Coisas de Minas,15,11,11,z0,*m7,VI,2,major,8.0
+MILTON,44,Coisas de Minas,16,4,2,Y0,*7,V/V,2,major,9.0
+MILTON,44,Coisas de Minas,17,7,7,V0,*,IV,2,major,9.5
+MILTON,44,Coisas de Minas,18,6,11,v0,*m,III,2,major,10.0
+MILTON,44,Coisas de Minas,19,4,2,Y0,*7,V/V,2,major,11.0
+MILTON,44,Coisas de Minas,20,11,11,z0,*m7,VI,2,major,12.0
+MILTON,44,Coisas de Minas,21,4,2,Y0,*7,V/V,2,major,13.0
+MILTON,44,Coisas de Minas,22,7,7,V0,*,IV,2,major,13.5
+MILTON,44,Coisas de Minas,23,2,2,Z1,*6,I,2,major,14.0
+MILTON,44,Coisas de Minas,24,0,0,Y2,*7.9,I,0,major,15.0
+MILTON,44,Coisas de Minas,25,5,5,Y4,*7.13,IV7,0,major,19.0
+MILTON,44,Coisas de Minas,26,0,0,Y2,*7.9,I,0,major,21.0
+MILTON,44,Coisas de Minas,27,7,7,Y4,*7.13,V,0,major,23.0
+MILTON,44,Coisas de Minas,28,5,5,Y4,*7.13,IV7,0,major,24.0
+MILTON,44,Coisas de Minas,29,0,0,Y2,*7.9,I,0,major,25.0
+MILTON,44,Coisas de Minas,30,2,2,V0,*,I,2,major,27.0
+MILTON,45,O cavaleiro,1,7,11,Z5,*6.M7,VI,11,minor,1.0
+MILTON,45,O cavaleiro,2,6,6,z3,*m7.11,Vm7,11,minor,2.0
+MILTON,45,O cavaleiro,3,7,7,Z1.1,*6.9,VI,11,minor,3.0
+MILTON,45,O cavaleiro,4,4,4,z1,*m6,IV,11,minor,4.0
+MILTON,45,O cavaleiro,5,4,2,z1,*m6,IV,11,minor,5.0
+MILTON,45,O cavaleiro,6,1,1,Y1.1,*4.7.9,V/V,11,minor,6.0
+MILTON,45,O cavaleiro,7,6,6,Y3.1.1,*7(#11.b13),V,11,minor,7.0
+MILTON,45,O cavaleiro,8,4,2,z1,*m6,IV,11,minor,8.0
+MILTON,45,O cavaleiro,9,9,1,Y1.1,*4.7.9,V/III,11,minor,9.0
+MILTON,45,O cavaleiro,10,7,11,V2,*9,VI,11,minor,10.0
+MILTON,45,O cavaleiro,11,9,9,Y1.1,*4.7.9,V/III,11,minor,11.0
+MILTON,45,O cavaleiro,12,9,1,Y1,*4.7,V/III,11,minor,12.0
+MILTON,45,O cavaleiro,13,0,0,V2,*9,bII7M,11,minor,12.5
+MILTON,45,O cavaleiro,14,7,11,V0,*,VI,11,minor,13.0
+MILTON,45,O cavaleiro,15,7,7,V2,*9,VI,11,minor,14.0
+MILTON,45,O cavaleiro,16,6,10,Y2.3,*7(b9),V,11,minor,15.0
+MILTON,45,O cavaleiro,17,11,11,z0,*m7,I,11,minor,16.0
+MILTON,45,O cavaleiro,18,11,11,Y1.1,*4.7.9,V/IV,11,minor,17.0
+MILTON,45,O cavaleiro,19,7,7,V2,*9,VI,11,minor,18.0
+MILTON,45,O cavaleiro,20,2,2,V0,*,III,11,minor,19.0
+MILTON,45,O cavaleiro,21,4,4,z1,*m6,IV,11,minor,20.0
+MILTON,45,O cavaleiro,22,4,2,z1,*m6,IV,11,minor,21.0
+MILTON,45,O cavaleiro,23,0,0,Z5.2,*6.M7(#11),bII7M,11,minor,22.0
+MILTON,45,O cavaleiro,24,9,9,Y1.1,*4.7.9,I,9,major,23.0
+MILTON,45,O cavaleiro,25,9,9,z0,*m7,?,11,minor,27.0
+MILTON,45,O cavaleiro,26,4,4,z1,*m6,IV,11,minor,28.0
+MILTON,45,O cavaleiro,27,8,8,y0,*Ø,VI,11,minor,29.0
+MILTON,45,O cavaleiro,28,7,7,V0,*,VI,11,minor,29.5
+MILTON,45,O cavaleiro,29,7,6,Z0,*M7,VI,11,minor,30.5
+MILTON,45,O cavaleiro,30,11,11,z0,*m7,I,11,minor,31.0
+MILTON,45,O cavaleiro,31,11,11,w2,*mM711,I,11,minor,32.0
+MILTON,45,O cavaleiro,32,8,8,z0,*m7,?,11,minor,33.0
+MILTON,45,O cavaleiro,33,0,0,z0,*m7,bIIm7,11,minor,33.75
+MILTON,45,O cavaleiro,34,11,11,Y2.3,*7(b9),V/IV,11,minor,34.0
+MILTON,45,O cavaleiro,35,4,4,y0,*Ø,IV,11,minor,35.0
+MILTON,45,O cavaleiro,36,7,3,V1,*4,VI,11,minor,35.75
+MILTON,45,O cavaleiro,37,7,2,V1,*4,VI,11,minor,36.5
+MILTON,45,O cavaleiro,38,6,1,V1,*4,V,11,minor,37.0
+MILTON,45,O cavaleiro,39,0,0,Z5.2,*6.M7(#11),bII7M,11,minor,38.0
+MILTON,45,O cavaleiro,40,0,0,Y0,*7,SubV,11,minor,38.5
+MILTON,45,O cavaleiro,41,11,11,z0,*m7,I,11,minor,39.0
+MILTON,46,Estrelada,1,2,2,V0,*,I,2,major,1.0
+MILTON,46,Estrelada,2,0,2,V0,*,bVII7M,2,major,2.0
+MILTON,46,Estrelada,3,2,2,V0,*,I,2,major,3.0
+MILTON,46,Estrelada,4,0,2,V0,*,bVII7M,2,major,4.0
+MILTON,46,Estrelada,5,0,0,V0,*,bVII7M,2,major,5.0
+MILTON,46,Estrelada,6,7,7,V0,*,IV,2,major,6.0
+MILTON,46,Estrelada,7,0,0,V0,*,bVII7M,2,major,7.0
+MILTON,46,Estrelada,8,2,2,V0,*,I,2,major,8.0
+MILTON,46,Estrelada,9,0,2,V0,*,bVII7M,2,major,10.0
+MILTON,46,Estrelada,10,2,2,V0,*,I,2,major,11.0
+MILTON,46,Estrelada,11,0,2,V0,*,bVII7M,2,major,12.0
+MILTON,46,Estrelada,12,0,0,V0,*,bVII7M,2,major,13.0
+MILTON,46,Estrelada,13,7,7,V0,*,IV,2,major,14.0
+MILTON,46,Estrelada,14,0,0,V0,*,bVII7M,2,major,15.0
+MILTON,46,Estrelada,15,7,7,V0,*,IV,2,major,16.0
+MILTON,46,Estrelada,16,2,2,V0,*,I,2,major,17.0
+MILTON,46,Estrelada,17,7,7,V0,*,I,7,major,19.0
+MILTON,46,Estrelada,18,2,2,Y0,*7,V,7,major,20.0
+MILTON,46,Estrelada,19,9,9,z0,*m7,II,7,major,21.0
+MILTON,46,Estrelada,20,4,4,z0,*m7,VI,7,major,22.0
+MILTON,46,Estrelada,21,7,7,V0,*,I,7,major,23.0
+MILTON,46,Estrelada,22,2,2,Y0,*7,V,7,major,24.0
+MILTON,46,Estrelada,23,9,9,z0,*m7,II,7,major,25.0
+MILTON,46,Estrelada,24,4,4,z0,*m7,VI,7,major,26.0
+MILTON,46,Estrelada,25,2,2,Y0,*7,V,7,major,28.0
+MILTON,46,Estrelada,26,9,9,Y0,*7,V/V,7,major,29.0
+MILTON,46,Estrelada,27,2,2,Y0,*7,V,7,major,30.0
+MILTON,46,Estrelada,28,7,7,Y0,*7,V/IV,7,major,31.0
+MILTON,46,Estrelada,29,0,0,Y2,*7.9,IV7,7,major,32.0
+MILTON,46,Estrelada,30,7,7,Y0,*7,IV7,2,major,33.0
+MILTON,46,Estrelada,31,9,9,Y0,*7,V,2,major,34.0
+MILTON,46,Estrelada,32,2,2,V0,*,I,2,major,35.0
+MILTON,47,Gira girou,1,2,2,z0,*m7,I,2,minor,1.0
+MILTON,47,Gira girou,2,2,2,z1,*m6,I,2,minor,3.0
+MILTON,47,Gira girou,3,7,7,z0,*m7,IV,2,minor,5.0
+MILTON,47,Gira girou,4,7,7,z1,*m6,IV,2,minor,5.5
+MILTON,47,Gira girou,5,9,9,z2,*m7.9,Vm7,2,minor,6.0
+MILTON,47,Gira girou,6,4,4,z2,*m7.9,II,2,minor,7.0
+MILTON,47,Gira girou,7,9,9,z2,*m7.9,Vm7,2,minor,7.5
+MILTON,47,Gira girou,8,2,2,V0,*,I,2,major,8.0
+MILTON,47,Gira girou,9,9,9,V0,*,I,9,major,9.0
+MILTON,47,Gira girou,10,7,7,V0,*,bVII7M,9,major,9.25
+MILTON,47,Gira girou,11,9,9,V0,*,I,9,major,9.5
+MILTON,47,Gira girou,12,10,10,V0,*,bII7M,9,major,9.75
+MILTON,47,Gira girou,13,9,9,V0,*,I,9,major,10.0
+MILTON,47,Gira girou,14,7,7,V0,*,bVII7M,9,major,10.25
+MILTON,47,Gira girou,15,9,9,V0,*,I,9,major,10.5
+MILTON,47,Gira girou,16,7,7,V0,*,bVII7M,9,major,10.75
+MILTON,47,Gira girou,17,2,2,V0,*,I,2,major,11.0
+MILTON,47,Gira girou,18,0,0,V0,*,bVII7M,2,major,11.25
+MILTON,47,Gira girou,19,2,2,V0,*,I,2,major,11.5
+MILTON,47,Gira girou,20,3,3,V0,*,bII7M,2,major,11.75
+MILTON,47,Gira girou,21,9,9,V0,*,I,9,major,12.0
+MILTON,47,Gira girou,22,7,7,V0,*,bVII7M,9,major,12.25
+MILTON,47,Gira girou,23,9,9,V0,*,I,9,major,12.5
+MILTON,47,Gira girou,24,10,10,V0,*,bII7M,9,major,12.75
+MILTON,47,Gira girou,25,9,9,V0,*,I,9,major,13.0
+MILTON,47,Gira girou,26,7,7,V0,*,bVII7M,9,major,13.25
+MILTON,47,Gira girou,27,9,9,V0,*,I,9,major,13.5
+MILTON,47,Gira girou,28,7,7,V0,*,bVII7M,9,major,13.75
+MILTON,47,Gira girou,29,4,4,V0,*,I,4,major,14.0
+MILTON,47,Gira girou,30,2,2,V0,*,bVII7M,4,major,14.25
+MILTON,47,Gira girou,31,4,4,V0,*,I,4,major,14.5
+MILTON,47,Gira girou,32,2,2,V0,*,I,2,major,15.0
+MILTON,47,Gira girou,33,0,0,V0,*,bVII7M,2,major,15.25
+MILTON,47,Gira girou,34,2,2,V0,*,I,2,major,15.5
+MILTON,47,Gira girou,35,9,9,V0,*,I,9,major,16.0
+MILTON,47,Gira girou,36,7,7,V0,*,bVII7M,9,major,16.25
+MILTON,47,Gira girou,37,9,9,V0,*,V,2,minor,16.5
+MILTON,47,Gira girou,38,2,2,z0,*m7,I,2,minor,17.0
+MILTON,48,Leila,1,9,9,Z2,*M7.9,I,9,major,1.0
+MILTON,48,Leila,2,7,9,Z1,*6,bVII7M,9,major,3.0
+MILTON,48,Leila,3,6,9,Y0,*7,V/II,9,major,4.0
+MILTON,48,Leila,4,5,9,Z0,*M7,bVI7M,9,major,5.0
+MILTON,48,Leila,5,7,7,Y1.1.2,*4.7.9.13,V/bIII,9,major,7.0
+MILTON,48,Leila,6,0,0,z3,*m7.11,bIIIm7,9,major,8.0
+MILTON,48,Leila,7,0,0,Z5,*6.M7,bIII7M,9,major,9.0
+MILTON,48,Leila,8,11,11,X1,*4(b5)7,V/V,9,major,11.0
+MILTON,48,Leila,9,4,10,V3,*(#11),V,9,major,12.0
+MILTON,48,Leila,10,9,9,Z0,*M7,I,9,major,13.0
+MILTON,48,Leila,11,8,8,Z0,*M7,aNP,9,major,14.0
+MILTON,48,Leila,12,9,9,Z0,*M7,I,9,major,15.0
+MILTON,48,Leila,13,4,4,z2,*m7.9,Vm7,9,major,16.0
+MILTON,48,Leila,14,9,9,Z0,*M7,I,9,major,17.0
+MILTON,49,Lilia,1,9,9,v1,*m.9,I,9,minor,1.0
+MILTON,49,Lilia,2,0,0,V2,*9,III,9,minor,1.5
+MILTON,49,Lilia,3,7,7,Z1,*6,bVII7M,9,minor,1.75
+MILTON,49,Lilia,4,9,9,v1,*m.9,I,9,minor,2.0
+MILTON,49,Lilia,5,0,0,V2,*9,III,9,minor,2.5
+MILTON,49,Lilia,6,7,7,Z1,*6,bVII7M,9,minor,2.75
+MILTON,49,Lilia,7,9,9,v1,*m.9,I,9,minor,3.0
+MILTON,49,Lilia,8,0,0,V2,*9,III,9,minor,3.5
+MILTON,49,Lilia,9,7,7,Z1,*6,bVII7M,9,minor,3.75
+MILTON,49,Lilia,10,9,9,v1,*m.9,I,9,minor,4.0
+MILTON,49,Lilia,11,0,0,V2,*9,III,9,minor,4.5
+MILTON,49,Lilia,12,7,7,Z1,*6,bVII7M,9,minor,4.75
+MILTON,49,Lilia,13,2,2,v1,*m.9,I,2,minor,5.0
+MILTON,49,Lilia,14,5,5,Z2,*M7.9,III,2,minor,5.5
+MILTON,49,Lilia,15,0,0,V0,*,bVII7M,2,minor,5.75
+MILTON,49,Lilia,16,2,2,v1,*m.9,I,2,minor,6.0
+MILTON,49,Lilia,17,5,5,Z2,*M7.9,III,2,minor,6.5
+MILTON,49,Lilia,18,0,0,V0,*,bVII7M,2,minor,6.75
+MILTON,49,Lilia,19,7,7,V0,*,I,7,major,7.0
+MILTON,49,Lilia,20,7,7,Z0,*M7,I,7,major,9.0
+MILTON,49,Lilia,21,5,5,Z0,*M7,Np/VI,7,major,10.0
+MILTON,49,Lilia,22,4,4,z2,*m7.9,VI,7,major,11.0
+MILTON,49,Lilia,23,0,0,V0,*,IV,7,major,12.0
+MILTON,49,Lilia,24,7,7,V0,*,I,7,major,12.75
+MILTON,49,Lilia,25,0,0,V0,*,IV,7,major,13.0
+MILTON,49,Lilia,26,7,7,V0,*,I,7,major,13.75
+MILTON,49,Lilia,27,9,9,v1,*m.9,I,9,minor,14.0
+MILTON,50,Novena,1,2,2,z0,*m7,I,2,minor,1.0
+MILTON,50,Novena,2,7,2,V0,*,IV7,2,minor,1.5
+MILTON,50,Novena,3,8,2,V0,*,?,2,minor,3.0
+MILTON,50,Novena,4,2,2,z0,*m7,I,2,minor,3.5
+MILTON,50,Novena,5,7,2,V0,*,IV7,2,minor,4.5
+MILTON,50,Novena,6,8,2,V0,*,?,2,minor,6.0
+MILTON,50,Novena,7,7,2,V0,*,IV7,2,minor,7.5
+MILTON,50,Novena,8,6,2,V0,*,?,2,minor,8.0
+MILTON,50,Novena,9,2,2,z0,*m7,I,2,minor,8.5
+MILTON,50,Novena,10,4,2,Y4,*7.13,V/V,2,minor,9.0
+MILTON,50,Novena,11,9,9,Y1,*4.7,V,2,minor,12.0
+MILTON,50,Novena,12,9,9,Y4.1,*7(b13),V,2,minor,12.5
+MILTON,50,Novena,13,2,2,z0,*m7,I,2,minor,13.0
+MILTON,50,Novena,14,7,7,z0,*m7,IV,2,minor,15.0
+MILTON,50,Novena,15,3,3,Y4.1,*7(b13),SubV,2,minor,17.0
+MILTON,50,Novena,16,7,7,z0,*m7,IV,2,minor,19.0
+MILTON,50,Novena,17,8,8,z0,*m7,?,2,minor,21.0
+MILTON,50,Novena,18,7,11,V0,*,IV7,2,minor,23.0
+MILTON,50,Novena,19,10,10,x0,*°7,V°/III,2,minor,24.0
+MILTON,50,Novena,20,5,9,V0,*,III,2,minor,25.0
+MILTON,50,Novena,21,8,8,x0,*°7,?,2,minor,27.0
+MILTON,50,Novena,22,10,4,V0,*,Np/V,2,minor,28.0
+MILTON,50,Novena,23,9,9,V0,*,V,2,minor,29.0
+MILTON,50,Novena,24,9,9,V1,*4,V,2,minor,30.0
+MILTON,50,Novena,25,9,9,Y0,*7,V,2,minor,30.5
+MILTON,50,Novena,26,2,2,z0,*m7,I,2,minor,31.0

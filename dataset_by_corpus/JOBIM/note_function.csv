@@ -1,0 +1,2249 @@
+corpus_id,composition_id,composition_name,mode,note_index,scale_degree,note_function
+JOBIM,1,Absolute Lee,major,1,5,11
+JOBIM,1,Absolute Lee,major,2,5,11
+JOBIM,1,Absolute Lee,major,3,#5/b6,5
+JOBIM,1,Absolute Lee,major,4,4,7
+JOBIM,1,Absolute Lee,major,5,5,1
+JOBIM,1,Absolute Lee,major,6,#5/b6,b9/#9
+JOBIM,1,Absolute Lee,major,7,5,1
+JOBIM,1,Absolute Lee,major,8,4,7
+JOBIM,1,Absolute Lee,major,9,3,3
+JOBIM,1,Absolute Lee,major,10,3,x
+JOBIM,1,Absolute Lee,major,11,3,11
+JOBIM,1,Absolute Lee,major,12,4,5
+JOBIM,1,Absolute Lee,major,13,2,3
+JOBIM,1,Absolute Lee,major,14,2,7
+JOBIM,1,Absolute Lee,major,15,3,1
+JOBIM,1,Absolute Lee,major,16,4,b9/#9
+JOBIM,1,Absolute Lee,major,17,3,1
+JOBIM,1,Absolute Lee,major,18,2,7
+JOBIM,1,Absolute Lee,major,19,#1/b2,3
+JOBIM,1,Absolute Lee,major,20,#1/b2,3
+JOBIM,1,Absolute Lee,major,21,#1/b2,3
+JOBIM,1,Absolute Lee,major,22,#1/b2,x
+JOBIM,1,Absolute Lee,major,23,2,5
+JOBIM,1,Absolute Lee,major,24,7,3
+JOBIM,1,Absolute Lee,major,25,7,7
+JOBIM,1,Absolute Lee,major,26,#1/b2,1
+JOBIM,1,Absolute Lee,major,27,2,b9/#9
+JOBIM,1,Absolute Lee,major,28,#1/b2,1
+JOBIM,1,Absolute Lee,major,29,7,7
+JOBIM,1,Absolute Lee,major,30,#6/b7,3
+JOBIM,1,Absolute Lee,major,31,#6/b7,3
+JOBIM,1,Absolute Lee,major,32,#6/b7,3
+JOBIM,1,Absolute Lee,major,33,#6/b7,3
+JOBIM,1,Absolute Lee,major,34,#6/b7,3
+JOBIM,1,Absolute Lee,major,35,6,9
+JOBIM,1,Absolute Lee,major,36,6,9
+JOBIM,1,Absolute Lee,major,37,#6/b7,7
+JOBIM,1,Absolute Lee,major,38,1,1
+JOBIM,1,Absolute Lee,major,39,#1/b2,b9/#9
+JOBIM,1,Absolute Lee,major,40,3,x
+JOBIM,1,Absolute Lee,major,41,4,3
+JOBIM,1,Absolute Lee,major,42,5,9
+JOBIM,1,Absolute Lee,major,43,4,x
+JOBIM,1,Absolute Lee,major,44,5,9
+JOBIM,1,Absolute Lee,major,45,5,9
+JOBIM,1,Absolute Lee,major,46,4,1
+JOBIM,1,Absolute Lee,major,47,#5/b6,5
+JOBIM,1,Absolute Lee,major,48,5,11
+JOBIM,1,Absolute Lee,major,49,#5/b6,5
+JOBIM,1,Absolute Lee,major,50,4,3
+JOBIM,1,Absolute Lee,major,51,4,7
+JOBIM,1,Absolute Lee,major,52,5,x
+JOBIM,1,Absolute Lee,major,53,#5/b6,b9/#9
+JOBIM,1,Absolute Lee,major,54,5,x
+JOBIM,1,Absolute Lee,major,55,4,7
+JOBIM,1,Absolute Lee,major,56,3,3
+JOBIM,1,Absolute Lee,major,57,3,3
+JOBIM,1,Absolute Lee,major,58,3,3
+JOBIM,1,Absolute Lee,major,59,3,3
+JOBIM,1,Absolute Lee,major,60,3,11
+JOBIM,1,Absolute Lee,major,61,4,5
+JOBIM,1,Absolute Lee,major,62,2,3
+JOBIM,1,Absolute Lee,major,63,2,7
+JOBIM,1,Absolute Lee,major,64,3,x
+JOBIM,1,Absolute Lee,major,65,4,b9/#9
+JOBIM,1,Absolute Lee,major,66,3,x
+JOBIM,1,Absolute Lee,major,67,2,7
+JOBIM,1,Absolute Lee,major,68,#1/b2,3
+JOBIM,1,Absolute Lee,major,69,4,b13
+JOBIM,1,Absolute Lee,major,70,3,x
+JOBIM,1,Absolute Lee,major,71,2,1
+JOBIM,1,Absolute Lee,major,72,2,1
+JOBIM,1,Absolute Lee,major,73,2,5
+JOBIM,1,Absolute Lee,major,74,3,x
+JOBIM,1,Absolute Lee,major,75,4,x
+JOBIM,1,Absolute Lee,major,76,5,3
+JOBIM,1,Absolute Lee,major,77,5,3
+JOBIM,1,Absolute Lee,major,78,5,7
+JOBIM,1,Absolute Lee,major,79,4,x
+JOBIM,1,Absolute Lee,major,80,3,x
+JOBIM,1,Absolute Lee,major,81,2,1
+JOBIM,1,Absolute Lee,major,82,2,1
+JOBIM,1,Absolute Lee,major,83,2,5
+JOBIM,1,Absolute Lee,major,84,1,x
+JOBIM,1,Absolute Lee,major,85,7,x
+JOBIM,1,Absolute Lee,major,86,6,6
+JOBIM,1,Absolute Lee,major,87,6,6
+JOBIM,1,Absolute Lee,major,88,6,6
+JOBIM,1,Absolute Lee,major,89,6,1
+JOBIM,1,Absolute Lee,major,90,5,7
+JOBIM,1,Absolute Lee,major,91,6,5
+JOBIM,1,Absolute Lee,major,92,6,5
+JOBIM,1,Absolute Lee,major,93,5,11
+JOBIM,1,Absolute Lee,major,94,7,b13
+JOBIM,1,Absolute Lee,major,95,7,b13
+JOBIM,1,Absolute Lee,major,96,6,5
+JOBIM,1,Absolute Lee,major,97,7,5
+JOBIM,1,Absolute Lee,major,98,7,5
+JOBIM,1,Absolute Lee,major,99,6,11
+JOBIM,1,Absolute Lee,major,100,1,b13
+JOBIM,1,Absolute Lee,major,101,1,b13
+JOBIM,1,Absolute Lee,major,102,1,b13
+JOBIM,1,Absolute Lee,major,103,7,5
+JOBIM,1,Absolute Lee,major,104,2,6
+JOBIM,1,Absolute Lee,major,105,1,5
+JOBIM,1,Absolute Lee,major,106,3,7
+JOBIM,1,Absolute Lee,major,107,2,6
+JOBIM,1,Absolute Lee,major,108,7,13
+JOBIM,1,Absolute Lee,major,109,7,13
+JOBIM,1,Absolute Lee,major,110,7,13
+JOBIM,1,Absolute Lee,major,111,7,x
+JOBIM,1,Absolute Lee,major,112,6,x
+JOBIM,1,Absolute Lee,major,113,5,1
+JOBIM,1,Absolute Lee,major,114,#5/b6,1
+JOBIM,1,Absolute Lee,major,115,6,1
+JOBIM,1,Absolute Lee,major,116,6,x
+JOBIM,1,Absolute Lee,major,117,5,x
+JOBIM,1,Absolute Lee,major,118,4,3
+JOBIM,1,Absolute Lee,major,119,#4/b5,x
+JOBIM,1,Absolute Lee,major,120,5,7
+JOBIM,1,Absolute Lee,major,121,5,x
+JOBIM,1,Absolute Lee,major,122,4,x
+JOBIM,1,Absolute Lee,major,123,3,9
+JOBIM,1,Absolute Lee,major,124,1,7
+JOBIM,1,Absolute Lee,major,125,2,1
+JOBIM,1,Absolute Lee,major,126,1,x
+JOBIM,1,Absolute Lee,major,127,2,x
+JOBIM,1,Absolute Lee,major,128,#2/b3,7
+JOBIM,1,Absolute Lee,major,129,1,5
+JOBIM,1,Absolute Lee,major,130,2,6
+JOBIM,1,Absolute Lee,major,131,1,x
+JOBIM,1,Absolute Lee,major,132,2,x
+JOBIM,1,Absolute Lee,major,133,3,9
+JOBIM,1,Absolute Lee,major,134,1,7
+JOBIM,1,Absolute Lee,major,135,3,9
+JOBIM,1,Absolute Lee,major,136,1,7
+JOBIM,1,Absolute Lee,major,137,1,3
+JOBIM,1,Absolute Lee,major,138,2,5
+JOBIM,1,Absolute Lee,major,139,1,1
+JOBIM,2,Agua de beber,minor,1,1,1
+JOBIM,2,Agua de beber,minor,2,3,3
+JOBIM,2,Agua de beber,minor,3,5,5
+JOBIM,2,Agua de beber,minor,4,#4/b5,3
+JOBIM,2,Agua de beber,minor,5,5,5
+JOBIM,2,Agua de beber,minor,6,3,7
+JOBIM,2,Agua de beber,minor,7,1,5
+JOBIM,2,Agua de beber,minor,8,3,3
+JOBIM,2,Agua de beber,minor,9,1,1
+JOBIM,2,Agua de beber,minor,10,1,5
+JOBIM,2,Agua de beber,minor,11,3,7
+JOBIM,2,Agua de beber,minor,12,5,9
+JOBIM,2,Agua de beber,minor,13,b7,11
+JOBIM,2,Agua de beber,minor,14,1,5
+JOBIM,2,Agua de beber,minor,15,5,13
+JOBIM,2,Agua de beber,minor,16,4,5
+JOBIM,2,Agua de beber,minor,17,5,3
+JOBIM,2,Agua de beber,minor,18,1,6
+JOBIM,2,Agua de beber,minor,19,3,1
+JOBIM,2,Agua de beber,minor,20,5,3
+JOBIM,2,Agua de beber,minor,21,#4/b5,3
+JOBIM,2,Agua de beber,minor,22,5,3
+JOBIM,2,Agua de beber,minor,23,3,3
+JOBIM,2,Agua de beber,minor,24,4,x
+JOBIM,2,Agua de beber,minor,25,3,1
+JOBIM,2,Agua de beber,minor,26,1,6
+JOBIM,2,Agua de beber,minor,27,3,b9/#9
+JOBIM,2,Agua de beber,minor,28,3,b9/#9
+JOBIM,2,Agua de beber,minor,29,3,b9/#9
+JOBIM,2,Agua de beber,minor,30,3,b9/#9
+JOBIM,2,Agua de beber,minor,31,4,x
+JOBIM,2,Agua de beber,minor,32,3,b9/#9
+JOBIM,2,Agua de beber,minor,33,2,5
+JOBIM,2,Agua de beber,minor,34,#6,9
+JOBIM,2,Agua de beber,minor,35,1,3
+JOBIM,2,Agua de beber,minor,36,3,3
+JOBIM,2,Agua de beber,minor,37,2,1
+JOBIM,2,Agua de beber,minor,38,1,1
+JOBIM,2,Agua de beber,minor,39,1,1
+JOBIM,2,Agua de beber,minor,40,3,3
+JOBIM,2,Agua de beber,minor,41,5,5
+JOBIM,2,Agua de beber,minor,42,4,1
+JOBIM,2,Agua de beber,minor,43,5,x
+JOBIM,2,Agua de beber,minor,44,4,1
+JOBIM,2,Agua de beber,minor,45,3,7
+JOBIM,2,Agua de beber,minor,46,1,5
+JOBIM,2,Agua de beber,minor,47,3,7
+JOBIM,2,Agua de beber,minor,48,1,1
+JOBIM,2,Agua de beber,minor,49,1,1
+JOBIM,2,Agua de beber,minor,50,1,1
+JOBIM,2,Agua de beber,minor,51,1,1
+JOBIM,2,Agua de beber,minor,52,1,1
+JOBIM,2,Agua de beber,minor,53,3,3
+JOBIM,2,Agua de beber,minor,54,5,5
+JOBIM,2,Agua de beber,minor,55,4,1
+JOBIM,2,Agua de beber,minor,56,5,x
+JOBIM,2,Agua de beber,minor,57,4,1
+JOBIM,2,Agua de beber,minor,58,3,7
+JOBIM,2,Agua de beber,minor,59,1,5
+JOBIM,2,Agua de beber,minor,60,3,7
+JOBIM,2,Agua de beber,minor,61,1,1
+JOBIM,2,Agua de beber,minor,62,1,1
+JOBIM,2,Agua de beber,minor,63,1,1
+JOBIM,2,Agua de beber,minor,64,1,13
+JOBIM,2,Agua de beber,minor,65,b7,5
+JOBIM,2,Agua de beber,minor,66,1,13
+JOBIM,3,Ai quem me dera,major,1,6,5
+JOBIM,3,Ai quem me dera,major,2,4,3
+JOBIM,3,Ai quem me dera,major,3,3,9
+JOBIM,3,Ai quem me dera,major,4,7,x
+JOBIM,3,Ai quem me dera,major,5,6,9
+JOBIM,3,Ai quem me dera,major,6,4,7
+JOBIM,3,Ai quem me dera,major,7,3,13
+JOBIM,3,Ai quem me dera,major,8,7,3
+JOBIM,3,Ai quem me dera,major,9,6,6
+JOBIM,3,Ai quem me dera,major,10,3,3
+JOBIM,3,Ai quem me dera,major,11,5,5
+JOBIM,3,Ai quem me dera,major,12,7,7
+JOBIM,3,Ai quem me dera,major,13,6,6
+JOBIM,3,Ai quem me dera,major,14,4,x
+JOBIM,3,Ai quem me dera,major,15,3,3
+JOBIM,3,Ai quem me dera,major,16,7,7
+JOBIM,3,Ai quem me dera,major,17,6,5
+JOBIM,3,Ai quem me dera,major,18,4,3
+JOBIM,3,Ai quem me dera,major,19,3,9
+JOBIM,3,Ai quem me dera,major,20,7,x
+JOBIM,3,Ai quem me dera,major,21,6,9
+JOBIM,3,Ai quem me dera,major,22,5,1
+JOBIM,3,Ai quem me dera,major,23,#4/b5,x
+JOBIM,3,Ai quem me dera,major,24,5,1
+JOBIM,3,Ai quem me dera,major,25,6,x
+JOBIM,3,Ai quem me dera,major,26,5,1
+JOBIM,3,Ai quem me dera,major,27,#4/b5,x
+JOBIM,3,Ai quem me dera,major,28,5,1
+JOBIM,3,Ai quem me dera,major,29,#6/b7,7
+JOBIM,3,Ai quem me dera,major,30,6,13
+JOBIM,3,Ai quem me dera,major,31,6,13
+JOBIM,3,Ai quem me dera,major,32,5,5
+JOBIM,3,Ai quem me dera,major,33,4,1
+JOBIM,3,Ai quem me dera,major,34,3,7
+JOBIM,3,Ai quem me dera,major,35,2,x
+JOBIM,3,Ai quem me dera,major,36,3,7
+JOBIM,3,Ai quem me dera,major,37,4,5
+JOBIM,3,Ai quem me dera,major,38,#5/b6,7
+JOBIM,3,Ai quem me dera,major,39,5,13
+JOBIM,3,Ai quem me dera,major,40,4,5
+JOBIM,3,Ai quem me dera,major,41,3,5
+JOBIM,3,Ai quem me dera,major,42,2,x
+JOBIM,3,Ai quem me dera,major,43,1,3
+JOBIM,3,Ai quem me dera,major,44,2,x
+JOBIM,3,Ai quem me dera,major,45,3,6
+JOBIM,3,Ai quem me dera,major,46,4,x
+JOBIM,3,Ai quem me dera,major,47,3,5
+JOBIM,3,Ai quem me dera,major,48,2,9
+JOBIM,3,Ai quem me dera,major,49,6,5
+JOBIM,3,Ai quem me dera,major,50,4,3
+JOBIM,3,Ai quem me dera,major,51,3,9
+JOBIM,3,Ai quem me dera,major,52,7,x
+JOBIM,3,Ai quem me dera,major,53,6,9
+JOBIM,3,Ai quem me dera,major,54,7,3
+JOBIM,3,Ai quem me dera,major,55,1,x
+JOBIM,3,Ai quem me dera,major,56,2,5
+JOBIM,3,Ai quem me dera,major,57,1,1
+JOBIM,3,Ai quem me dera,major,58,6,1
+JOBIM,3,Ai quem me dera,major,59,6,5
+JOBIM,3,Ai quem me dera,major,60,5,x
+JOBIM,3,Ai quem me dera,major,61,4,3
+JOBIM,3,Ai quem me dera,major,62,3,x
+JOBIM,3,Ai quem me dera,major,63,2,5
+JOBIM,3,Ai quem me dera,major,64,3,x
+JOBIM,3,Ai quem me dera,major,65,4,7
+JOBIM,3,Ai quem me dera,major,66,6,9
+JOBIM,3,Ai quem me dera,major,67,5,5
+JOBIM,3,Ai quem me dera,major,68,4,x
+JOBIM,3,Ai quem me dera,major,69,3,3
+JOBIM,3,Ai quem me dera,major,70,4,x
+JOBIM,3,Ai quem me dera,major,71,5,5
+JOBIM,3,Ai quem me dera,major,72,6,5
+JOBIM,3,Ai quem me dera,major,73,6,5
+JOBIM,3,Ai quem me dera,major,74,5,x
+JOBIM,3,Ai quem me dera,major,75,4,3
+JOBIM,3,Ai quem me dera,major,76,3,x
+JOBIM,3,Ai quem me dera,major,77,2,5
+JOBIM,3,Ai quem me dera,major,78,3,x
+JOBIM,3,Ai quem me dera,major,79,4,7
+JOBIM,3,Ai quem me dera,major,80,6,9
+JOBIM,3,Ai quem me dera,major,81,5,5
+JOBIM,3,Ai quem me dera,major,82,4,x
+JOBIM,3,Ai quem me dera,major,83,3,3
+JOBIM,3,Ai quem me dera,major,84,4,x
+JOBIM,3,Ai quem me dera,major,85,5,5
+JOBIM,3,Ai quem me dera,major,86,2,9
+JOBIM,3,Ai quem me dera,major,87,3,9
+JOBIM,3,Ai quem me dera,major,88,2,1
+JOBIM,3,Ai quem me dera,major,89,1,7
+JOBIM,3,Ai quem me dera,major,90,7,x
+JOBIM,3,Ai quem me dera,major,91,6,9
+JOBIM,3,Ai quem me dera,major,92,7,3
+JOBIM,3,Ai quem me dera,major,93,1,x
+JOBIM,3,Ai quem me dera,major,94,3,x
+JOBIM,3,Ai quem me dera,major,95,2,9
+JOBIM,3,Ai quem me dera,major,96,1,1
+JOBIM,3,Ai quem me dera,major,97,7,x
+JOBIM,3,Ai quem me dera,major,98,1,1
+JOBIM,3,Ai quem me dera,major,99,2,11
+JOBIM,3,Ai quem me dera,major,100,4,x
+JOBIM,3,Ai quem me dera,major,101,3,5
+JOBIM,3,Ai quem me dera,major,102,7,9
+JOBIM,3,Ai quem me dera,major,103,6,5
+JOBIM,3,Ai quem me dera,major,104,4,3
+JOBIM,3,Ai quem me dera,major,105,3,9
+JOBIM,3,Ai quem me dera,major,106,7,x
+JOBIM,3,Ai quem me dera,major,107,6,9
+JOBIM,3,Ai quem me dera,major,108,7,3
+JOBIM,3,Ai quem me dera,major,109,1,x
+JOBIM,3,Ai quem me dera,major,110,2,5
+JOBIM,3,Ai quem me dera,major,111,1,9
+JOBIM,4,Angela,major,1,7,11
+JOBIM,4,Angela,major,2,1,x
+JOBIM,4,Angela,major,3,7,11
+JOBIM,4,Angela,major,4,6,3
+JOBIM,4,Angela,major,5,1,b9/#9
+JOBIM,4,Angela,major,6,7,x
+JOBIM,4,Angela,major,7,#6/b7,x
+JOBIM,4,Angela,major,8,6,x
+JOBIM,4,Angela,major,9,5,b13
+JOBIM,4,Angela,major,10,#4/b5,5
+JOBIM,4,Angela,major,11,6,11
+JOBIM,4,Angela,major,12,6,11
+JOBIM,4,Angela,major,13,5,3
+JOBIM,4,Angela,major,14,#6/b7,b9/#9
+JOBIM,4,Angela,major,15,6,x
+JOBIM,4,Angela,major,16,#5/b6,x
+JOBIM,4,Angela,major,17,5,x
+JOBIM,4,Angela,major,18,4,b13
+JOBIM,4,Angela,major,19,3,5
+JOBIM,4,Angela,major,20,5,11
+JOBIM,4,Angela,major,21,5,11
+JOBIM,4,Angela,major,22,4,3
+JOBIM,4,Angela,major,23,#5/b6,b9/#9
+JOBIM,4,Angela,major,24,5,x
+JOBIM,4,Angela,major,25,#4/b5,x
+JOBIM,4,Angela,major,26,4,7
+JOBIM,4,Angela,major,27,#1/b2,x
+JOBIM,4,Angela,major,28,2,5
+JOBIM,4,Angela,major,29,3,3
+JOBIM,4,Angela,major,30,4,3
+JOBIM,4,Angela,major,31,5,3
+JOBIM,4,Angela,major,32,#5/b6,3
+JOBIM,4,Angela,major,33,5,5
+JOBIM,4,Angela,major,34,1,1
+JOBIM,4,Angela,major,35,2,x
+JOBIM,4,Angela,major,36,3,7
+JOBIM,4,Angela,major,37,4,x
+JOBIM,4,Angela,major,38,3,7
+JOBIM,4,Angela,major,39,2,6
+JOBIM,4,Angela,major,40,5,9
+JOBIM,4,Angela,major,41,#4/b5,x
+JOBIM,4,Angela,major,42,4,x
+JOBIM,4,Angela,major,43,3,7
+JOBIM,4,Angela,major,44,#2/b3,7
+JOBIM,4,Angela,major,45,2,6
+JOBIM,4,Angela,major,46,6,11
+JOBIM,4,Angela,major,47,7,x
+JOBIM,4,Angela,major,48,6,11
+JOBIM,4,Angela,major,49,5,3
+JOBIM,4,Angela,major,50,#6/b7,b9/#9
+JOBIM,4,Angela,major,51,6,x
+JOBIM,4,Angela,major,52,#5/b6,x
+JOBIM,4,Angela,major,53,5,7
+JOBIM,4,Angela,major,54,4,b13
+JOBIM,4,Angela,major,55,3,5
+JOBIM,4,Angela,major,56,7,#11
+JOBIM,4,Angela,major,57,1,x
+JOBIM,4,Angela,major,58,7,#11
+JOBIM,4,Angela,major,59,3,7
+JOBIM,4,Angela,major,60,5,11
+JOBIM,4,Angela,major,61,#4/b5,x
+JOBIM,4,Angela,major,62,4,x
+JOBIM,4,Angela,major,63,3,9
+JOBIM,4,Angela,major,64,#1/b2,#11
+JOBIM,4,Angela,major,65,#1/b2,#11
+JOBIM,4,Angela,major,66,2,x
+JOBIM,4,Angela,major,67,2,9
+JOBIM,4,Angela,major,68,1,1
+JOBIM,4,Angela,major,69,7,9
+JOBIM,4,Angela,major,70,1,x
+JOBIM,4,Angela,major,71,7,9
+JOBIM,5,Bebel,major,1,6,6
+JOBIM,5,Bebel,major,2,5,5
+JOBIM,5,Bebel,major,3,#6/b7,b13
+JOBIM,5,Bebel,major,4,6,7
+JOBIM,5,Bebel,major,5,7,6
+JOBIM,5,Bebel,major,6,6,5
+JOBIM,5,Bebel,major,7,1,7
+JOBIM,5,Bebel,major,8,7,b13
+JOBIM,5,Bebel,major,9,2,7
+JOBIM,5,Bebel,major,10,1,6
+JOBIM,5,Bebel,major,11,2,7
+JOBIM,5,Bebel,major,12,1,b13
+JOBIM,5,Bebel,major,13,3,7
+JOBIM,5,Bebel,major,14,2,6
+JOBIM,5,Bebel,major,15,3,7
+JOBIM,5,Bebel,major,16,2,6
+JOBIM,5,Bebel,major,17,2,7
+JOBIM,5,Bebel,major,18,1,6
+JOBIM,5,Bebel,major,19,2,11
+JOBIM,5,Bebel,major,20,1,3
+JOBIM,5,Bebel,major,21,7,11
+JOBIM,5,Bebel,major,22,6,3
+JOBIM,5,Bebel,major,23,1,b9/#9
+JOBIM,5,Bebel,major,24,7,1
+JOBIM,5,Bebel,major,25,6,11
+JOBIM,5,Bebel,major,26,5,3
+JOBIM,5,Bebel,major,27,#6/b7,b9/#9
+JOBIM,5,Bebel,major,28,6,1
+JOBIM,5,Bebel,major,29,5,11
+JOBIM,5,Bebel,major,30,4,3
+JOBIM,5,Bebel,major,31,#4/b5,b9/#9
+JOBIM,5,Bebel,major,32,7,3
+JOBIM,5,Bebel,major,33,3,3
+JOBIM,5,Bebel,major,34,3,3
+JOBIM,5,Bebel,major,35,7,6
+JOBIM,5,Bebel,major,36,3,3
+JOBIM,5,Bebel,major,37,3,3
+JOBIM,5,Bebel,major,38,5,5
+JOBIM,5,Bebel,major,39,6,6
+JOBIM,5,Bebel,major,40,5,5
+JOBIM,5,Bebel,major,41,#6/b7,7
+JOBIM,5,Bebel,major,42,5,5
+JOBIM,5,Bebel,major,43,6,5
+JOBIM,5,Bebel,major,44,5,11
+JOBIM,5,Bebel,major,45,#6/b7,6
+JOBIM,5,Bebel,major,46,4,3
+JOBIM,5,Bebel,major,47,6,9
+JOBIM,5,Bebel,major,48,4,1
+JOBIM,5,Bebel,major,49,6,x
+JOBIM,5,Bebel,major,50,#6/b7,13
+JOBIM,5,Bebel,major,51,7,7
+JOBIM,5,Bebel,major,52,6,6
+JOBIM,5,Bebel,major,53,1,#11
+JOBIM,5,Bebel,major,54,7,x
+JOBIM,5,Bebel,major,55,1,x
+JOBIM,5,Bebel,major,56,#1/b2,x
+JOBIM,5,Bebel,major,57,2,6
+JOBIM,5,Bebel,major,58,1,5
+JOBIM,5,Bebel,major,59,3,7
+JOBIM,5,Bebel,major,60,1,5
+JOBIM,5,Bebel,major,61,2,6
+JOBIM,5,Bebel,major,62,3,7
+JOBIM,5,Bebel,major,63,4,x
+JOBIM,5,Bebel,major,64,#4/b5,x
+JOBIM,5,Bebel,major,65,5,3
+JOBIM,5,Bebel,major,66,3,1
+JOBIM,5,Bebel,major,67,7,b13
+JOBIM,5,Bebel,major,68,7,b13
+JOBIM,5,Bebel,major,69,6,5
+JOBIM,5,Bebel,major,70,#5/b6,5
+JOBIM,5,Bebel,major,71,6,x
+JOBIM,5,Bebel,major,72,#6/b7,x
+JOBIM,5,Bebel,major,73,7,6
+JOBIM,5,Bebel,major,74,3,13
+JOBIM,5,Bebel,major,75,3,13
+JOBIM,5,Bebel,major,76,5,1
+JOBIM,5,Bebel,major,77,2,7
+JOBIM,5,Bebel,major,78,#2/b3,x
+JOBIM,5,Bebel,major,79,3,1
+JOBIM,5,Bebel,major,80,5,3
+JOBIM,5,Bebel,major,81,6,1
+JOBIM,5,Bebel,major,82,1,b9/#9
+JOBIM,5,Bebel,major,83,6,1
+JOBIM,5,Bebel,major,84,#1/b2,3
+JOBIM,5,Bebel,major,85,2,1
+JOBIM,5,Bebel,major,86,1,7
+JOBIM,5,Bebel,major,87,6,5
+JOBIM,5,Bebel,major,88,4,3
+JOBIM,5,Bebel,major,89,3,9
+JOBIM,5,Bebel,major,90,5,11
+JOBIM,5,Bebel,major,91,2,1
+JOBIM,6,Bonita,major,1,2,9
+JOBIM,6,Bonita,major,2,2,9
+JOBIM,6,Bonita,major,3,2,x
+JOBIM,6,Bonita,major,4,3,5
+JOBIM,6,Bonita,major,5,1,3
+JOBIM,6,Bonita,major,6,2,11
+JOBIM,6,Bonita,major,7,1,3
+JOBIM,6,Bonita,major,8,7,13
+JOBIM,6,Bonita,major,9,7,13
+JOBIM,6,Bonita,major,10,2,1
+JOBIM,6,Bonita,major,11,3,9
+JOBIM,6,Bonita,major,12,3,9
+JOBIM,6,Bonita,major,13,4,5
+JOBIM,6,Bonita,major,14,5,6
+JOBIM,6,Bonita,major,15,3,11
+JOBIM,6,Bonita,major,16,4,5
+JOBIM,6,Bonita,major,17,5,6
+JOBIM,6,Bonita,major,18,#5/b6,#11
+JOBIM,6,Bonita,major,19,7,13
+JOBIM,6,Bonita,major,20,6,5
+JOBIM,6,Bonita,major,21,6,5
+JOBIM,6,Bonita,major,22,3,9
+JOBIM,6,Bonita,major,23,3,13
+JOBIM,6,Bonita,major,24,4,3
+JOBIM,6,Bonita,major,25,4,3
+JOBIM,6,Bonita,major,26,3,3
+JOBIM,6,Bonita,major,27,4,3
+JOBIM,6,Bonita,major,28,4,3
+JOBIM,6,Bonita,major,29,3,3
+JOBIM,6,Bonita,major,30,4,7
+JOBIM,6,Bonita,major,31,4,7
+JOBIM,6,Bonita,major,32,2,x
+JOBIM,6,Bonita,major,33,4,7
+JOBIM,6,Bonita,major,34,4,7
+JOBIM,6,Bonita,major,35,1,5
+JOBIM,6,Bonita,major,36,2,6
+JOBIM,6,Bonita,major,37,2,6
+JOBIM,6,Bonita,major,38,1,9
+JOBIM,6,Bonita,major,39,2,9
+JOBIM,6,Bonita,major,40,3,3
+JOBIM,6,Bonita,major,41,1,1
+JOBIM,6,Bonita,major,42,6,1
+JOBIM,6,Bonita,major,43,7,9
+JOBIM,6,Bonita,major,44,2,11
+JOBIM,6,Bonita,major,45,1,7
+JOBIM,6,Bonita,major,46,7,7
+JOBIM,6,Bonita,major,47,7,14
+JOBIM,6,Bonita,major,48,1,1
+JOBIM,7,Brigas nunca mais,major,1,5,#11
+JOBIM,7,Brigas nunca mais,major,2,6,6
+JOBIM,7,Brigas nunca mais,major,3,5,5
+JOBIM,7,Brigas nunca mais,major,4,6,7
+JOBIM,7,Brigas nunca mais,major,5,5,x
+JOBIM,7,Brigas nunca mais,major,6,6,7
+JOBIM,7,Brigas nunca mais,major,7,#6/b7,1
+JOBIM,7,Brigas nunca mais,major,8,6,x
+JOBIM,7,Brigas nunca mais,major,9,5,6
+JOBIM,7,Brigas nunca mais,major,10,4,b13
+JOBIM,7,Brigas nunca mais,major,11,3,x
+JOBIM,7,Brigas nunca mais,major,12,4,b13
+JOBIM,7,Brigas nunca mais,major,13,#4/b5,x
+JOBIM,7,Brigas nunca mais,major,14,5,11
+JOBIM,7,Brigas nunca mais,major,15,4,3
+JOBIM,7,Brigas nunca mais,major,16,5,6
+JOBIM,7,Brigas nunca mais,major,17,4,x
+JOBIM,7,Brigas nunca mais,major,18,5,11
+JOBIM,7,Brigas nunca mais,major,19,6,x
+JOBIM,7,Brigas nunca mais,major,20,5,11
+JOBIM,7,Brigas nunca mais,major,21,4,x
+JOBIM,7,Brigas nunca mais,major,22,3,13
+JOBIM,7,Brigas nunca mais,major,23,2,x
+JOBIM,7,Brigas nunca mais,major,24,3,13
+JOBIM,7,Brigas nunca mais,major,25,4,x
+JOBIM,7,Brigas nunca mais,major,26,5,5
+JOBIM,7,Brigas nunca mais,major,27,3,3
+JOBIM,7,Brigas nunca mais,major,28,2,x
+JOBIM,7,Brigas nunca mais,major,29,1,1
+JOBIM,7,Brigas nunca mais,major,30,7,b13
+JOBIM,7,Brigas nunca mais,major,31,2,14
+JOBIM,7,Brigas nunca mais,major,32,1,7
+JOBIM,7,Brigas nunca mais,major,33,6,5
+JOBIM,7,Brigas nunca mais,major,34,7,11
+JOBIM,7,Brigas nunca mais,major,35,7,11
+JOBIM,7,Brigas nunca mais,major,36,7,11
+JOBIM,7,Brigas nunca mais,major,37,3,b13
+JOBIM,7,Brigas nunca mais,major,38,1,3
+JOBIM,7,Brigas nunca mais,major,39,2,x
+JOBIM,7,Brigas nunca mais,major,40,3,5
+JOBIM,7,Brigas nunca mais,major,41,5,7
+JOBIM,7,Brigas nunca mais,major,42,6,5
+JOBIM,7,Brigas nunca mais,major,43,7,13
+JOBIM,7,Brigas nunca mais,major,44,2,1
+JOBIM,7,Brigas nunca mais,major,45,#2/b3,b13
+JOBIM,7,Brigas nunca mais,major,46,5,1
+JOBIM,7,Brigas nunca mais,major,47,6,6
+JOBIM,7,Brigas nunca mais,major,48,5,5
+JOBIM,7,Brigas nunca mais,major,49,6,7
+JOBIM,7,Brigas nunca mais,major,50,5,x
+JOBIM,7,Brigas nunca mais,major,51,6,7
+JOBIM,7,Brigas nunca mais,major,52,#6/b7,x
+JOBIM,7,Brigas nunca mais,major,53,6,7
+JOBIM,7,Brigas nunca mais,major,54,5,6
+JOBIM,7,Brigas nunca mais,major,55,4,b13
+JOBIM,7,Brigas nunca mais,major,56,3,x
+JOBIM,7,Brigas nunca mais,major,57,4,b13
+JOBIM,7,Brigas nunca mais,major,58,#4/b5,x
+JOBIM,7,Brigas nunca mais,major,59,5,11
+JOBIM,7,Brigas nunca mais,major,60,4,3
+JOBIM,7,Brigas nunca mais,major,61,5,6
+JOBIM,7,Brigas nunca mais,major,62,4,x
+JOBIM,7,Brigas nunca mais,major,63,5,11
+JOBIM,7,Brigas nunca mais,major,64,6,x
+JOBIM,7,Brigas nunca mais,major,65,5,11
+JOBIM,7,Brigas nunca mais,major,66,4,3
+JOBIM,7,Brigas nunca mais,major,67,3,13
+JOBIM,7,Brigas nunca mais,major,68,2,x
+JOBIM,7,Brigas nunca mais,major,69,3,13
+JOBIM,7,Brigas nunca mais,major,70,4,7
+JOBIM,7,Brigas nunca mais,major,71,5,5
+JOBIM,7,Brigas nunca mais,major,72,3,3
+JOBIM,7,Brigas nunca mais,major,73,2,x
+JOBIM,7,Brigas nunca mais,major,74,1,1
+JOBIM,7,Brigas nunca mais,major,75,#6/b7,b13
+JOBIM,7,Brigas nunca mais,major,76,3,3
+JOBIM,7,Brigas nunca mais,major,77,2,9
+JOBIM,7,Brigas nunca mais,major,78,1,1
+JOBIM,7,Brigas nunca mais,major,79,6,3
+JOBIM,7,Brigas nunca mais,major,80,4,1
+JOBIM,7,Brigas nunca mais,major,81,3,7
+JOBIM,7,Brigas nunca mais,major,82,4,x
+JOBIM,7,Brigas nunca mais,major,83,3,7
+JOBIM,7,Brigas nunca mais,major,84,2,6
+JOBIM,7,Brigas nunca mais,major,85,5,5
+JOBIM,7,Brigas nunca mais,major,86,3,3
+JOBIM,7,Brigas nunca mais,major,87,6,5
+JOBIM,7,Brigas nunca mais,major,88,4,3
+JOBIM,7,Brigas nunca mais,major,89,5,5
+JOBIM,7,Brigas nunca mais,major,90,3,3
+JOBIM,7,Brigas nunca mais,major,91,2,1
+JOBIM,7,Brigas nunca mais,major,92,5,5
+JOBIM,7,Brigas nunca mais,major,93,3,3
+JOBIM,7,Brigas nunca mais,major,94,2,1
+JOBIM,7,Brigas nunca mais,major,95,3,11
+JOBIM,7,Brigas nunca mais,major,96,1,1
+JOBIM,9,Caminhos cruzados,major,1,3,3
+JOBIM,9,Caminhos cruzados,major,2,4,x
+JOBIM,9,Caminhos cruzados,major,3,3,3
+JOBIM,9,Caminhos cruzados,major,4,4,x
+JOBIM,9,Caminhos cruzados,major,5,5,5
+JOBIM,9,Caminhos cruzados,major,6,6,x
+JOBIM,9,Caminhos cruzados,major,7,5,5
+JOBIM,9,Caminhos cruzados,major,8,3,3
+JOBIM,9,Caminhos cruzados,major,9,2,6
+JOBIM,9,Caminhos cruzados,major,10,3,7
+JOBIM,9,Caminhos cruzados,major,11,2,6
+JOBIM,9,Caminhos cruzados,major,12,3,x
+JOBIM,9,Caminhos cruzados,major,13,4,1
+JOBIM,9,Caminhos cruzados,major,14,5,9
+JOBIM,9,Caminhos cruzados,major,15,3,3
+JOBIM,9,Caminhos cruzados,major,16,4,x
+JOBIM,9,Caminhos cruzados,major,17,3,3
+JOBIM,9,Caminhos cruzados,major,18,4,x
+JOBIM,9,Caminhos cruzados,major,19,5,5
+JOBIM,9,Caminhos cruzados,major,20,6,13
+JOBIM,9,Caminhos cruzados,major,21,5,5
+JOBIM,9,Caminhos cruzados,major,22,3,3
+JOBIM,9,Caminhos cruzados,major,23,2,6
+JOBIM,9,Caminhos cruzados,major,24,3,7
+JOBIM,9,Caminhos cruzados,major,25,2,6
+JOBIM,9,Caminhos cruzados,major,26,3,7
+JOBIM,9,Caminhos cruzados,major,27,4,1
+JOBIM,9,Caminhos cruzados,major,28,7,7
+JOBIM,9,Caminhos cruzados,major,29,5,5
+JOBIM,9,Caminhos cruzados,major,30,6,x
+JOBIM,9,Caminhos cruzados,major,31,7,1
+JOBIM,9,Caminhos cruzados,major,32,2,b9/#9
+JOBIM,9,Caminhos cruzados,major,33,1,b9/#9
+JOBIM,9,Caminhos cruzados,major,34,5,1
+JOBIM,9,Caminhos cruzados,major,35,5,7
+JOBIM,9,Caminhos cruzados,major,36,3,5
+JOBIM,9,Caminhos cruzados,major,37,4,x
+JOBIM,9,Caminhos cruzados,major,38,5,1
+JOBIM,9,Caminhos cruzados,major,39,#6/b7,b9/#9
+JOBIM,9,Caminhos cruzados,major,40,6,1
+JOBIM,9,Caminhos cruzados,major,41,5,x
+JOBIM,9,Caminhos cruzados,major,42,4,b13
+JOBIM,9,Caminhos cruzados,major,43,3,5
+JOBIM,9,Caminhos cruzados,major,44,3,5
+JOBIM,9,Caminhos cruzados,major,45,4,x
+JOBIM,9,Caminhos cruzados,major,46,3,5
+JOBIM,9,Caminhos cruzados,major,47,5,b13
+JOBIM,9,Caminhos cruzados,major,48,3,3
+JOBIM,9,Caminhos cruzados,major,49,4,x
+JOBIM,9,Caminhos cruzados,major,50,3,3
+JOBIM,9,Caminhos cruzados,major,51,4,x
+JOBIM,9,Caminhos cruzados,major,52,5,5
+JOBIM,9,Caminhos cruzados,major,53,6,13
+JOBIM,9,Caminhos cruzados,major,54,5,5
+JOBIM,9,Caminhos cruzados,major,55,3,3
+JOBIM,9,Caminhos cruzados,major,56,2,6
+JOBIM,9,Caminhos cruzados,major,57,3,7
+JOBIM,9,Caminhos cruzados,major,58,2,6
+JOBIM,9,Caminhos cruzados,major,59,3,7
+JOBIM,9,Caminhos cruzados,major,60,4,1
+JOBIM,9,Caminhos cruzados,major,61,5,9
+JOBIM,9,Caminhos cruzados,major,62,3,3
+JOBIM,9,Caminhos cruzados,major,63,4,x
+JOBIM,9,Caminhos cruzados,major,64,3,3
+JOBIM,9,Caminhos cruzados,major,65,4,x
+JOBIM,9,Caminhos cruzados,major,66,5,5
+JOBIM,9,Caminhos cruzados,major,67,6,13
+JOBIM,9,Caminhos cruzados,major,68,5,5
+JOBIM,9,Caminhos cruzados,major,69,3,3
+JOBIM,9,Caminhos cruzados,major,70,2,3
+JOBIM,9,Caminhos cruzados,major,71,2,7
+JOBIM,9,Caminhos cruzados,major,72,1,5
+JOBIM,9,Caminhos cruzados,major,73,1,5
+JOBIM,9,Caminhos cruzados,major,74,7,#11
+JOBIM,9,Caminhos cruzados,major,75,2,b9/#9
+JOBIM,9,Caminhos cruzados,major,76,1,b9/#9
+JOBIM,9,Caminhos cruzados,major,77,7,1
+JOBIM,9,Caminhos cruzados,major,78,6,7
+JOBIM,9,Caminhos cruzados,major,79,#5/b6,b9/#9
+JOBIM,9,Caminhos cruzados,major,80,#6/b7,1
+JOBIM,9,Caminhos cruzados,major,81,6,7
+JOBIM,9,Caminhos cruzados,major,82,5,x
+JOBIM,9,Caminhos cruzados,major,83,4,x
+JOBIM,9,Caminhos cruzados,major,84,3,9
+JOBIM,9,Caminhos cruzados,major,85,#6/b7,b9/#9
+JOBIM,9,Caminhos cruzados,major,86,6,1
+JOBIM,9,Caminhos cruzados,major,87,5,7
+JOBIM,9,Caminhos cruzados,major,88,4,x
+JOBIM,9,Caminhos cruzados,major,89,3,9
+JOBIM,9,Caminhos cruzados,major,90,3,9
+JOBIM,9,Caminhos cruzados,major,91,2,x
+JOBIM,9,Caminhos cruzados,major,92,3,13
+JOBIM,11,Chega de saudade,minor,1,3,3
+JOBIM,11,Chega de saudade,minor,2,5,5
+JOBIM,11,Chega de saudade,minor,3,1,1
+JOBIM,11,Chega de saudade,minor,4,3,3
+JOBIM,11,Chega de saudade,minor,5,2,1
+JOBIM,11,Chega de saudade,minor,6,#6,5
+JOBIM,11,Chega de saudade,minor,7,1,7
+JOBIM,11,Chega de saudade,minor,8,2,1
+JOBIM,11,Chega de saudade,minor,9,3,5
+JOBIM,11,Chega de saudade,minor,10,6,1
+JOBIM,11,Chega de saudade,minor,11,7,3
+JOBIM,11,Chega de saudade,minor,12,3,b13
+JOBIM,11,Chega de saudade,minor,13,2,9
+JOBIM,11,Chega de saudade,minor,14,1,1
+JOBIM,11,Chega de saudade,minor,15,3,3
+JOBIM,11,Chega de saudade,minor,16,2,x
+JOBIM,11,Chega de saudade,minor,17,1,3
+JOBIM,11,Chega de saudade,minor,18,5,#11
+JOBIM,11,Chega de saudade,minor,19,3,3
+JOBIM,11,Chega de saudade,minor,20,5,5
+JOBIM,11,Chega de saudade,minor,21,#6,5
+JOBIM,11,Chega de saudade,minor,22,1,7
+JOBIM,11,Chega de saudade,minor,23,b7,3
+JOBIM,11,Chega de saudade,minor,24,2,5
+JOBIM,11,Chega de saudade,minor,25,2,5
+JOBIM,11,Chega de saudade,minor,26,1,x
+JOBIM,11,Chega de saudade,minor,27,b7,3
+JOBIM,11,Chega de saudade,minor,28,b7,9
+JOBIM,11,Chega de saudade,minor,29,6,1
+JOBIM,11,Chega de saudade,minor,30,3,5
+JOBIM,11,Chega de saudade,minor,31,2,x
+JOBIM,11,Chega de saudade,minor,32,1,3
+JOBIM,11,Chega de saudade,minor,33,1,3
+JOBIM,11,Chega de saudade,minor,34,7,3
+JOBIM,11,Chega de saudade,minor,35,2,5
+JOBIM,11,Chega de saudade,minor,36,7,3
+JOBIM,11,Chega de saudade,minor,37,6,b9/#9
+JOBIM,11,Chega de saudade,minor,38,3,3
+JOBIM,11,Chega de saudade,minor,39,5,5
+JOBIM,11,Chega de saudade,minor,40,1,1
+JOBIM,11,Chega de saudade,minor,41,3,3
+JOBIM,11,Chega de saudade,minor,42,2,1
+JOBIM,11,Chega de saudade,minor,43,#6,5
+JOBIM,11,Chega de saudade,minor,44,1,7
+JOBIM,11,Chega de saudade,minor,45,2,x
+JOBIM,11,Chega de saudade,minor,46,3,5
+JOBIM,11,Chega de saudade,minor,47,6,1
+JOBIM,11,Chega de saudade,minor,48,7,3
+JOBIM,11,Chega de saudade,minor,49,3,b13
+JOBIM,11,Chega de saudade,minor,50,2,9
+JOBIM,11,Chega de saudade,minor,51,1,1
+JOBIM,11,Chega de saudade,minor,52,7,x
+JOBIM,11,Chega de saudade,minor,53,1,1
+JOBIM,11,Chega de saudade,minor,54,#1/b2,b9/#9
+JOBIM,11,Chega de saudade,minor,55,b7,7
+JOBIM,11,Chega de saudade,minor,56,#3,3
+JOBIM,11,Chega de saudade,minor,57,5,5
+JOBIM,11,Chega de saudade,minor,58,4,1
+JOBIM,11,Chega de saudade,minor,59,6,3
+JOBIM,11,Chega de saudade,minor,60,7,3
+JOBIM,11,Chega de saudade,minor,61,5,1
+JOBIM,11,Chega de saudade,minor,62,4,11
+JOBIM,11,Chega de saudade,minor,63,3,3
+JOBIM,11,Chega de saudade,minor,64,5,5
+JOBIM,11,Chega de saudade,minor,65,3,3
+JOBIM,11,Chega de saudade,minor,66,1,1
+JOBIM,11,Chega de saudade,minor,67,2,5
+JOBIM,11,Chega de saudade,minor,68,b7,3
+JOBIM,11,Chega de saudade,minor,69,5,1
+JOBIM,11,Chega de saudade,minor,70,2,5
+JOBIM,11,Chega de saudade,minor,71,3,5
+JOBIM,11,Chega de saudade,minor,72,1,3
+JOBIM,11,Chega de saudade,minor,73,#6,1
+JOBIM,11,Chega de saudade,minor,74,2,11
+JOBIM,11,Chega de saudade,minor,75,3,5
+JOBIM,11,Chega de saudade,minor,76,7,3
+JOBIM,11,Chega de saudade,minor,77,6,1
+JOBIM,11,Chega de saudade,minor,78,3,b13
+JOBIM,11,Chega de saudade,minor,79,1,1
+JOBIM,12,Corcovado,major,1,3,5
+JOBIM,12,Corcovado,major,2,2,x
+JOBIM,12,Corcovado,major,3,3,5
+JOBIM,12,Corcovado,major,4,2,x
+JOBIM,12,Corcovado,major,5,3,5
+JOBIM,12,Corcovado,major,6,2,x
+JOBIM,12,Corcovado,major,7,3,5
+JOBIM,12,Corcovado,major,8,3,b13
+JOBIM,12,Corcovado,major,9,2,x
+JOBIM,12,Corcovado,major,10,3,b13
+JOBIM,12,Corcovado,major,11,2,x
+JOBIM,12,Corcovado,major,12,3,b13
+JOBIM,12,Corcovado,major,13,2,x
+JOBIM,12,Corcovado,major,14,3,b13
+JOBIM,12,Corcovado,major,15,2,5
+JOBIM,12,Corcovado,major,16,1,x
+JOBIM,12,Corcovado,major,17,2,5
+JOBIM,12,Corcovado,major,18,1,x
+JOBIM,12,Corcovado,major,19,2,9
+JOBIM,12,Corcovado,major,20,1,1
+JOBIM,12,Corcovado,major,21,4,3
+JOBIM,12,Corcovado,major,22,3,3
+JOBIM,12,Corcovado,major,23,3,7
+JOBIM,12,Corcovado,major,24,2,6
+JOBIM,12,Corcovado,major,25,5,9
+JOBIM,12,Corcovado,major,26,4,x
+JOBIM,12,Corcovado,major,27,5,9
+JOBIM,12,Corcovado,major,28,4,x
+JOBIM,12,Corcovado,major,29,5,9
+JOBIM,12,Corcovado,major,30,4,x
+JOBIM,12,Corcovado,major,31,5,9
+JOBIM,12,Corcovado,major,32,4,b9/#9
+JOBIM,12,Corcovado,major,33,3,x
+JOBIM,12,Corcovado,major,34,4,b9/#9
+JOBIM,12,Corcovado,major,35,3,x
+JOBIM,12,Corcovado,major,36,4,b13
+JOBIM,12,Corcovado,major,37,3,x
+JOBIM,12,Corcovado,major,38,4,b13
+JOBIM,12,Corcovado,major,39,3,9
+JOBIM,12,Corcovado,major,40,2,x
+JOBIM,12,Corcovado,major,41,3,9
+JOBIM,12,Corcovado,major,42,2,x
+JOBIM,12,Corcovado,major,43,3,9
+JOBIM,12,Corcovado,major,44,2,x
+JOBIM,12,Corcovado,major,45,3,9
+JOBIM,12,Corcovado,major,46,2,x
+JOBIM,12,Corcovado,major,47,4,7
+JOBIM,12,Corcovado,major,48,3,13
+JOBIM,12,Corcovado,major,49,4,x
+JOBIM,12,Corcovado,major,50,3,13
+JOBIM,12,Corcovado,major,51,4,7
+JOBIM,12,Corcovado,major,52,3,x
+JOBIM,12,Corcovado,major,53,2,5
+JOBIM,12,Corcovado,major,54,1,3
+JOBIM,12,Corcovado,major,55,3,5
+JOBIM,12,Corcovado,major,56,2,x
+JOBIM,12,Corcovado,major,57,3,5
+JOBIM,12,Corcovado,major,58,2,x
+JOBIM,12,Corcovado,major,59,3,5
+JOBIM,12,Corcovado,major,60,2,x
+JOBIM,12,Corcovado,major,61,3,5
+JOBIM,12,Corcovado,major,62,3,b13
+JOBIM,12,Corcovado,major,63,2,x
+JOBIM,12,Corcovado,major,64,3,b13
+JOBIM,12,Corcovado,major,65,2,x
+JOBIM,12,Corcovado,major,66,3,b13
+JOBIM,12,Corcovado,major,67,2,x
+JOBIM,12,Corcovado,major,68,3,b13
+JOBIM,12,Corcovado,major,69,5,14
+JOBIM,12,Corcovado,major,70,2,5
+JOBIM,12,Corcovado,major,71,1,11
+JOBIM,12,Corcovado,major,72,2,x
+JOBIM,12,Corcovado,major,73,1,11
+JOBIM,12,Corcovado,major,74,2,9
+JOBIM,12,Corcovado,major,75,1,1
+JOBIM,12,Corcovado,major,76,4,3
+JOBIM,12,Corcovado,major,77,3,3
+JOBIM,12,Corcovado,major,78,3,7
+JOBIM,12,Corcovado,major,79,2,6
+JOBIM,12,Corcovado,major,80,1,5
+JOBIM,12,Corcovado,major,81,#6/b7,x
+JOBIM,12,Corcovado,major,82,#5/b6,3
+JOBIM,12,Corcovado,major,83,5,x
+JOBIM,12,Corcovado,major,84,4,1
+JOBIM,12,Corcovado,major,85,3,x
+JOBIM,12,Corcovado,major,86,2,6
+JOBIM,12,Corcovado,major,87,7,5
+JOBIM,12,Corcovado,major,88,6,x
+JOBIM,12,Corcovado,major,89,5,3
+JOBIM,12,Corcovado,major,90,4,x
+JOBIM,12,Corcovado,major,91,3,1
+JOBIM,12,Corcovado,major,92,2,x
+JOBIM,12,Corcovado,major,93,1,3
+JOBIM,12,Corcovado,major,94,6,5
+JOBIM,12,Corcovado,major,95,5,x
+JOBIM,12,Corcovado,major,96,4,3
+JOBIM,12,Corcovado,major,97,3,x
+JOBIM,12,Corcovado,major,98,2,1
+JOBIM,12,Corcovado,major,99,1,3
+JOBIM,12,Corcovado,major,100,7,5
+JOBIM,12,Corcovado,major,101,1,x
+JOBIM,12,Corcovado,major,102,2,7
+JOBIM,12,Corcovado,major,103,5,b9/#9
+JOBIM,12,Corcovado,major,104,6,5
+JOBIM,12,Corcovado,major,105,5,x
+JOBIM,12,Corcovado,major,106,4,3
+JOBIM,12,Corcovado,major,107,3,x
+JOBIM,12,Corcovado,major,108,2,1
+JOBIM,12,Corcovado,major,109,1,3
+JOBIM,12,Corcovado,major,110,7,3
+JOBIM,12,Corcovado,major,111,1,x
+JOBIM,12,Corcovado,major,112,2,5
+JOBIM,12,Corcovado,major,113,1,1
+JOBIM,15,Desafinado,major,1,5,6
+JOBIM,15,Desafinado,major,2,6,x
+JOBIM,15,Desafinado,major,3,7,x
+JOBIM,15,Desafinado,major,4,1,1
+JOBIM,15,Desafinado,major,5,7,7
+JOBIM,15,Desafinado,major,6,6,6
+JOBIM,15,Desafinado,major,7,#5/b6,x
+JOBIM,15,Desafinado,major,8,6,6
+JOBIM,15,Desafinado,major,9,1,7
+JOBIM,15,Desafinado,major,10,#5/b6,#11
+JOBIM,15,Desafinado,major,11,5,x
+JOBIM,15,Desafinado,major,12,7,x
+JOBIM,15,Desafinado,major,13,1,7
+JOBIM,15,Desafinado,major,14,2,x
+JOBIM,15,Desafinado,major,15,1,7
+JOBIM,15,Desafinado,major,16,7,3
+JOBIM,15,Desafinado,major,17,#6/b7,x
+JOBIM,15,Desafinado,major,18,7,3
+JOBIM,15,Desafinado,major,19,5,3
+JOBIM,15,Desafinado,major,20,#6/b7,5
+JOBIM,15,Desafinado,major,21,6,1
+JOBIM,15,Desafinado,major,22,5,7
+JOBIM,15,Desafinado,major,23,4,3
+JOBIM,15,Desafinado,major,24,3,x
+JOBIM,15,Desafinado,major,25,2,1
+JOBIM,15,Desafinado,major,26,4,b9/#9
+JOBIM,15,Desafinado,major,27,3,1
+JOBIM,15,Desafinado,major,28,#6/b7,#11
+JOBIM,15,Desafinado,major,29,7,5
+JOBIM,15,Desafinado,major,30,#1/b2,3
+JOBIM,15,Desafinado,major,31,3,5
+JOBIM,15,Desafinado,major,32,#1/b2,3
+JOBIM,15,Desafinado,major,33,#5/b6,7
+JOBIM,15,Desafinado,major,34,#6/b7,b9/#9
+JOBIM,15,Desafinado,major,35,3,9
+JOBIM,15,Desafinado,major,36,2,x
+JOBIM,15,Desafinado,major,37,1,7
+JOBIM,15,Desafinado,major,38,6,5
+JOBIM,15,Desafinado,major,39,#2/b3,b9/#9
+JOBIM,15,Desafinado,major,40,2,1
+JOBIM,15,Desafinado,major,41,1,7
+JOBIM,15,Desafinado,major,42,6,5
+JOBIM,15,Desafinado,major,43,1,7
+JOBIM,15,Desafinado,major,44,#5/b6,5
+JOBIM,15,Desafinado,major,45,5,5
+JOBIM,15,Desafinado,major,46,6,x
+JOBIM,15,Desafinado,major,47,7,7
+JOBIM,15,Desafinado,major,48,1,x
+JOBIM,15,Desafinado,major,49,7,7
+JOBIM,15,Desafinado,major,50,6,6
+JOBIM,15,Desafinado,major,51,#5/b6,x
+JOBIM,15,Desafinado,major,52,6,6
+JOBIM,15,Desafinado,major,53,1,7
+JOBIM,15,Desafinado,major,54,#5/b6,#11
+JOBIM,15,Desafinado,major,55,6,5
+JOBIM,15,Desafinado,major,56,7,x
+JOBIM,15,Desafinado,major,57,1,7
+JOBIM,15,Desafinado,major,58,2,x
+JOBIM,15,Desafinado,major,59,1,7
+JOBIM,15,Desafinado,major,60,7,3
+JOBIM,15,Desafinado,major,61,#6/b7,x
+JOBIM,15,Desafinado,major,62,7,3
+JOBIM,15,Desafinado,major,63,6,11
+JOBIM,15,Desafinado,major,64,#6/b7,5
+JOBIM,15,Desafinado,major,65,#6/b7,b9/#9
+JOBIM,15,Desafinado,major,66,5,11
+JOBIM,15,Desafinado,major,67,4,3
+JOBIM,15,Desafinado,major,68,3,x
+JOBIM,15,Desafinado,major,69,2,1
+JOBIM,15,Desafinado,major,70,4,b9/#9
+JOBIM,15,Desafinado,major,71,3,1
+JOBIM,15,Desafinado,major,72,2,7
+JOBIM,15,Desafinado,major,73,1,b13
+JOBIM,15,Desafinado,major,74,2,11
+JOBIM,15,Desafinado,major,75,1,3
+JOBIM,15,Desafinado,major,76,2,11
+JOBIM,15,Desafinado,major,77,2,b9/#9
+JOBIM,15,Desafinado,major,78,5,5
+JOBIM,15,Desafinado,major,79,6,x
+JOBIM,15,Desafinado,major,80,5,5
+JOBIM,15,Desafinado,major,81,6,x
+JOBIM,15,Desafinado,major,82,5,b13
+JOBIM,15,Desafinado,major,83,5,b13
+JOBIM,15,Desafinado,major,84,#2/b3,3
+JOBIM,15,Desafinado,major,85,4,x
+JOBIM,15,Desafinado,major,86,5,13
+JOBIM,15,Desafinado,major,87,#5/b6,x
+JOBIM,15,Desafinado,major,88,5,13
+JOBIM,15,Desafinado,major,89,#5/b6,x
+JOBIM,15,Desafinado,major,90,5,7
+JOBIM,15,Desafinado,major,91,3,#11
+JOBIM,15,Desafinado,major,92,5,5
+JOBIM,15,Desafinado,major,93,6,x
+JOBIM,15,Desafinado,major,94,5,5
+JOBIM,15,Desafinado,major,95,6,x
+JOBIM,15,Desafinado,major,96,5,5
+JOBIM,15,Desafinado,major,97,4,x
+JOBIM,15,Desafinado,major,98,3,3
+JOBIM,15,Desafinado,major,99,4,x
+JOBIM,15,Desafinado,major,100,5,11
+JOBIM,15,Desafinado,major,101,2,1
+JOBIM,15,Desafinado,major,102,5,11
+JOBIM,15,Desafinado,major,103,5,1
+JOBIM,15,Desafinado,major,104,3,13
+JOBIM,15,Desafinado,major,105,5,5
+JOBIM,15,Desafinado,major,106,6,x
+JOBIM,15,Desafinado,major,107,7,7
+JOBIM,15,Desafinado,major,108,1,x
+JOBIM,15,Desafinado,major,109,2,9
+JOBIM,15,Desafinado,major,110,3,1
+JOBIM,15,Desafinado,major,111,5,3
+JOBIM,15,Desafinado,major,112,6,x
+JOBIM,15,Desafinado,major,113,7,11
+JOBIM,15,Desafinado,major,114,1,x
+JOBIM,15,Desafinado,major,115,7,11
+JOBIM,15,Desafinado,major,116,1,x
+JOBIM,15,Desafinado,major,117,7,#11
+JOBIM,15,Desafinado,major,118,2,5
+JOBIM,15,Desafinado,major,119,3,x
+JOBIM,15,Desafinado,major,120,2,5
+JOBIM,15,Desafinado,major,121,3,x
+JOBIM,15,Desafinado,major,122,2,5
+JOBIM,15,Desafinado,major,123,1,x
+JOBIM,15,Desafinado,major,124,7,3
+JOBIM,15,Desafinado,major,125,1,x
+JOBIM,15,Desafinado,major,126,2,11
+JOBIM,15,Desafinado,major,127,6,1
+JOBIM,15,Desafinado,major,128,2,11
+JOBIM,15,Desafinado,major,129,2,1
+JOBIM,15,Desafinado,major,130,3,x
+JOBIM,15,Desafinado,major,131,4,3
+JOBIM,15,Desafinado,major,132,3,x
+JOBIM,15,Desafinado,major,133,4,3
+JOBIM,15,Desafinado,major,134,3,9
+JOBIM,15,Desafinado,major,135,5,6
+JOBIM,15,Desafinado,major,136,4,5
+JOBIM,15,Desafinado,major,137,3,x
+JOBIM,15,Desafinado,major,138,4,5
+JOBIM,15,Desafinado,major,139,2,1
+JOBIM,15,Desafinado,major,140,2,5
+JOBIM,17,Discussao,major,1,7,7
+JOBIM,17,Discussao,major,2,6,x
+JOBIM,17,Discussao,major,3,7,7
+JOBIM,17,Discussao,major,4,6,x
+JOBIM,17,Discussao,major,5,7,7
+JOBIM,17,Discussao,major,6,6,5
+JOBIM,17,Discussao,major,7,7,b13
+JOBIM,17,Discussao,major,8,2,14
+JOBIM,17,Discussao,major,9,1,7
+JOBIM,17,Discussao,major,10,7,6
+JOBIM,17,Discussao,major,11,1,x
+JOBIM,17,Discussao,major,12,7,6
+JOBIM,17,Discussao,major,13,1,7
+JOBIM,17,Discussao,major,14,7,x
+JOBIM,17,Discussao,major,15,1,5
+JOBIM,17,Discussao,major,16,3,b9/#9
+JOBIM,17,Discussao,major,17,2,9
+JOBIM,17,Discussao,major,18,1,1
+JOBIM,17,Discussao,major,19,2,x
+JOBIM,17,Discussao,major,20,1,1
+JOBIM,17,Discussao,major,21,2,7
+JOBIM,17,Discussao,major,22,1,x
+JOBIM,17,Discussao,major,23,2,7
+JOBIM,17,Discussao,major,24,4,b9/#9
+JOBIM,17,Discussao,major,25,3,7
+JOBIM,17,Discussao,major,26,2,6
+JOBIM,17,Discussao,major,27,3,x
+JOBIM,17,Discussao,major,28,2,6
+JOBIM,17,Discussao,major,29,3,7
+JOBIM,17,Discussao,major,30,2,x
+JOBIM,17,Discussao,major,31,3,7
+JOBIM,17,Discussao,major,32,4,1
+JOBIM,17,Discussao,major,33,7,7
+JOBIM,17,Discussao,major,34,6,x
+JOBIM,17,Discussao,major,35,7,7
+JOBIM,17,Discussao,major,36,6,6
+JOBIM,17,Discussao,major,37,7,7
+JOBIM,17,Discussao,major,38,6,5
+JOBIM,17,Discussao,major,39,7,b13
+JOBIM,17,Discussao,major,40,6,x
+JOBIM,17,Discussao,major,41,5,1
+JOBIM,17,Discussao,major,42,4,7
+JOBIM,17,Discussao,major,43,5,x
+JOBIM,17,Discussao,major,44,4,7
+JOBIM,17,Discussao,major,45,5,1
+JOBIM,17,Discussao,major,46,4,x
+JOBIM,17,Discussao,major,47,5,7
+JOBIM,17,Discussao,major,48,4,x
+JOBIM,17,Discussao,major,49,3,5
+JOBIM,17,Discussao,major,50,2,1
+JOBIM,17,Discussao,major,51,3,x
+JOBIM,17,Discussao,major,52,2,1
+JOBIM,17,Discussao,major,53,3,9
+JOBIM,17,Discussao,major,54,2,x
+JOBIM,17,Discussao,major,55,3,5
+JOBIM,17,Discussao,major,56,2,11
+JOBIM,17,Discussao,major,57,1,7
+JOBIM,17,Discussao,major,58,7,6
+JOBIM,17,Discussao,major,59,1,x
+JOBIM,17,Discussao,major,60,7,6
+JOBIM,17,Discussao,major,61,1,7
+JOBIM,17,Discussao,major,62,7,3
+JOBIM,17,Discussao,major,63,2,5
+JOBIM,17,Discussao,major,64,1,x
+JOBIM,17,Discussao,major,65,7,7
+JOBIM,17,Discussao,major,66,6,6
+JOBIM,17,Discussao,major,67,7,x
+JOBIM,17,Discussao,major,68,6,6
+JOBIM,17,Discussao,major,69,7,b13
+JOBIM,17,Discussao,major,70,6,5
+JOBIM,17,Discussao,major,71,7,b13
+JOBIM,17,Discussao,major,72,2,14
+JOBIM,17,Discussao,major,73,1,7
+JOBIM,17,Discussao,major,74,7,6
+JOBIM,17,Discussao,major,75,1,x
+JOBIM,17,Discussao,major,76,7,6
+JOBIM,17,Discussao,major,77,1,7
+JOBIM,17,Discussao,major,78,7,x
+JOBIM,17,Discussao,major,79,1,5
+JOBIM,17,Discussao,major,80,3,b9/#9
+JOBIM,17,Discussao,major,81,2,9
+JOBIM,17,Discussao,major,82,1,1
+JOBIM,17,Discussao,major,83,2,x
+JOBIM,17,Discussao,major,84,1,1
+JOBIM,17,Discussao,major,85,2,9
+JOBIM,17,Discussao,major,86,1,x
+JOBIM,17,Discussao,major,87,2,7
+JOBIM,17,Discussao,major,88,4,b9/#9
+JOBIM,17,Discussao,major,89,3,7
+JOBIM,17,Discussao,major,90,2,6
+JOBIM,17,Discussao,major,91,3,x
+JOBIM,17,Discussao,major,92,2,6
+JOBIM,17,Discussao,major,93,3,7
+JOBIM,17,Discussao,major,94,2,x
+JOBIM,17,Discussao,major,95,3,7
+JOBIM,17,Discussao,major,96,4,1
+JOBIM,17,Discussao,major,97,7,7
+JOBIM,17,Discussao,major,98,6,x
+JOBIM,17,Discussao,major,99,7,7
+JOBIM,17,Discussao,major,100,6,x
+JOBIM,17,Discussao,major,101,7,b13
+JOBIM,17,Discussao,major,102,6,x
+JOBIM,17,Discussao,major,103,7,b13
+JOBIM,17,Discussao,major,104,6,x
+JOBIM,17,Discussao,major,105,5,1
+JOBIM,17,Discussao,major,106,4,7
+JOBIM,17,Discussao,major,107,5,x
+JOBIM,17,Discussao,major,108,4,7
+JOBIM,17,Discussao,major,109,5,1
+JOBIM,17,Discussao,major,110,4,x
+JOBIM,17,Discussao,major,111,5,7
+JOBIM,17,Discussao,major,112,4,x
+JOBIM,17,Discussao,major,113,3,5
+JOBIM,17,Discussao,major,114,2,x
+JOBIM,17,Discussao,major,115,3,5
+JOBIM,17,Discussao,major,116,2,x
+JOBIM,17,Discussao,major,117,3,9
+JOBIM,17,Discussao,major,118,2,x
+JOBIM,17,Discussao,major,119,1,7
+JOBIM,17,Discussao,major,120,7,6
+JOBIM,17,Discussao,major,121,2,9
+JOBIM,17,Discussao,major,122,1,5
+JOBIM,17,Discussao,major,123,7,x
+JOBIM,17,Discussao,major,124,1,1
+JOBIM,19,Ela e carioca,major,1,7,7
+JOBIM,19,Ela e carioca,major,2,1,x
+JOBIM,19,Ela e carioca,major,3,2,9
+JOBIM,19,Ela e carioca,major,4,1,x
+JOBIM,19,Ela e carioca,major,5,2,9
+JOBIM,19,Ela e carioca,major,6,2,9
+JOBIM,19,Ela e carioca,major,7,7,7
+JOBIM,19,Ela e carioca,major,8,1,x
+JOBIM,19,Ela e carioca,major,9,2,11
+JOBIM,19,Ela e carioca,major,10,1,x
+JOBIM,19,Ela e carioca,major,11,2,11
+JOBIM,19,Ela e carioca,major,12,3,9
+JOBIM,19,Ela e carioca,major,13,7,13
+JOBIM,19,Ela e carioca,major,14,#6/b7,b13
+JOBIM,19,Ela e carioca,major,15,2,1
+JOBIM,19,Ela e carioca,major,16,6,5
+JOBIM,19,Ela e carioca,major,17,3,9
+JOBIM,19,Ela e carioca,major,18,4,x
+JOBIM,19,Ela e carioca,major,19,3,9
+JOBIM,19,Ela e carioca,major,20,4,3
+JOBIM,19,Ela e carioca,major,21,3,9
+JOBIM,19,Ela e carioca,major,22,5,6
+JOBIM,19,Ela e carioca,major,23,4,5
+JOBIM,19,Ela e carioca,major,24,6,5
+JOBIM,19,Ela e carioca,major,25,6,5
+JOBIM,19,Ela e carioca,major,26,1,7
+JOBIM,19,Ela e carioca,major,27,2,5
+JOBIM,19,Ela e carioca,major,28,3,13
+JOBIM,19,Ela e carioca,major,29,4,3
+JOBIM,19,Ela e carioca,major,30,3,3
+JOBIM,19,Ela e carioca,major,31,5,5
+JOBIM,19,Ela e carioca,major,32,4,3
+JOBIM,19,Ela e carioca,major,33,3,3
+JOBIM,19,Ela e carioca,major,34,2,9
+JOBIM,19,Ela e carioca,major,35,4,x
+JOBIM,19,Ela e carioca,major,36,3,3
+JOBIM,19,Ela e carioca,major,37,2,1
+JOBIM,19,Ela e carioca,major,38,6,5
+JOBIM,19,Ela e carioca,major,39,2,1
+JOBIM,19,Ela e carioca,major,40,1,5
+JOBIM,19,Ela e carioca,major,41,7,x
+JOBIM,19,Ela e carioca,major,42,1,5
+JOBIM,19,Ela e carioca,major,43,2,9
+JOBIM,19,Ela e carioca,major,44,1,x
+JOBIM,19,Ela e carioca,major,45,2,b9/#9
+JOBIM,19,Ela e carioca,major,46,6,7
+JOBIM,19,Ela e carioca,major,47,#6/b7,x
+JOBIM,19,Ela e carioca,major,48,1,9
+JOBIM,19,Ela e carioca,major,49,#6/b7,x
+JOBIM,19,Ela e carioca,major,50,1,b9/#9
+JOBIM,19,Ela e carioca,major,51,5,7
+JOBIM,19,Ela e carioca,major,52,#5/b6,x
+JOBIM,19,Ela e carioca,major,53,#6/b7,9
+JOBIM,19,Ela e carioca,major,54,#5/b6,x
+JOBIM,19,Ela e carioca,major,55,#6/b7,9
+JOBIM,21,Este seu olhar,major,1,3,3
+JOBIM,21,Este seu olhar,major,2,4,x
+JOBIM,21,Este seu olhar,major,3,5,5
+JOBIM,21,Este seu olhar,major,4,6,x
+JOBIM,21,Este seu olhar,major,5,5,5
+JOBIM,21,Este seu olhar,major,6,4,3
+JOBIM,21,Este seu olhar,major,7,5,x
+JOBIM,21,Este seu olhar,major,8,6,5
+JOBIM,21,Este seu olhar,major,9,7,x
+JOBIM,21,Este seu olhar,major,10,6,5
+JOBIM,21,Este seu olhar,major,11,5,5
+JOBIM,21,Este seu olhar,major,12,6,x
+JOBIM,21,Este seu olhar,major,13,7,7
+JOBIM,21,Este seu olhar,major,14,1,x
+JOBIM,21,Este seu olhar,major,15,7,5
+JOBIM,21,Este seu olhar,major,16,1,x
+JOBIM,21,Este seu olhar,major,17,2,7
+JOBIM,21,Este seu olhar,major,18,3,x
+JOBIM,21,Este seu olhar,major,19,2,6
+JOBIM,21,Este seu olhar,major,20,1,x
+JOBIM,21,Este seu olhar,major,21,2,x
+JOBIM,21,Este seu olhar,major,22,3,7
+JOBIM,21,Este seu olhar,major,23,2,6
+JOBIM,21,Este seu olhar,major,24,2,9
+JOBIM,21,Este seu olhar,major,25,1,x
+JOBIM,21,Este seu olhar,major,26,7,7
+JOBIM,21,Este seu olhar,major,27,1,7
+JOBIM,21,Este seu olhar,major,28,7,x
+JOBIM,21,Este seu olhar,major,29,6,5
+JOBIM,21,Este seu olhar,major,30,1,7
+JOBIM,21,Este seu olhar,major,31,7,x
+JOBIM,21,Este seu olhar,major,32,6,5
+JOBIM,21,Este seu olhar,major,33,7,3
+JOBIM,21,Este seu olhar,major,34,7,5
+JOBIM,21,Este seu olhar,major,35,6,x
+JOBIM,21,Este seu olhar,major,36,5,3
+JOBIM,21,Este seu olhar,major,37,6,1
+JOBIM,21,Este seu olhar,major,38,#2/b3,x
+JOBIM,21,Este seu olhar,major,39,3,5
+JOBIM,21,Este seu olhar,major,40,6,5
+JOBIM,21,Este seu olhar,major,41,5,x
+JOBIM,21,Este seu olhar,major,42,4,3
+JOBIM,21,Este seu olhar,major,43,5,1
+JOBIM,21,Este seu olhar,major,44,3,3
+JOBIM,21,Este seu olhar,major,45,4,x
+JOBIM,21,Este seu olhar,major,46,5,5
+JOBIM,21,Este seu olhar,major,47,6,x
+JOBIM,21,Este seu olhar,major,48,5,5
+JOBIM,21,Este seu olhar,major,49,4,3
+JOBIM,21,Este seu olhar,major,50,5,x
+JOBIM,21,Este seu olhar,major,51,6,5
+JOBIM,21,Este seu olhar,major,52,7,x
+JOBIM,21,Este seu olhar,major,53,6,5
+JOBIM,21,Este seu olhar,major,54,5,5
+JOBIM,21,Este seu olhar,major,55,6,x
+JOBIM,21,Este seu olhar,major,56,7,7
+JOBIM,21,Este seu olhar,major,57,1,x
+JOBIM,21,Este seu olhar,major,58,7,5
+JOBIM,21,Este seu olhar,major,59,1,x
+JOBIM,21,Este seu olhar,major,60,2,7
+JOBIM,21,Este seu olhar,major,61,3,x
+JOBIM,21,Este seu olhar,major,62,2,6
+JOBIM,21,Este seu olhar,major,63,3,x
+JOBIM,21,Este seu olhar,major,64,2,6
+JOBIM,21,Este seu olhar,major,65,3,x
+JOBIM,21,Este seu olhar,major,66,2,6
+JOBIM,21,Este seu olhar,major,67,2,14
+JOBIM,21,Este seu olhar,major,68,1,7
+JOBIM,21,Este seu olhar,major,69,7,x
+JOBIM,21,Este seu olhar,major,70,1,7
+JOBIM,21,Este seu olhar,major,71,7,x
+JOBIM,21,Este seu olhar,major,72,6,5
+JOBIM,21,Este seu olhar,major,73,5,1
+JOBIM,21,Este seu olhar,major,74,#5/b6,b13
+JOBIM,21,Este seu olhar,major,75,6,x
+JOBIM,21,Este seu olhar,major,76,2,1
+JOBIM,21,Este seu olhar,major,77,2,x
+JOBIM,21,Este seu olhar,major,78,3,13
+JOBIM,21,Este seu olhar,major,79,1,1
+JOBIM,24,Eu sei que vou te amar,major,1,5,5
+JOBIM,24,Eu sei que vou te amar,major,2,7,7
+JOBIM,24,Eu sei que vou te amar,major,3,7,b13
+JOBIM,24,Eu sei que vou te amar,major,4,6,x
+JOBIM,24,Eu sei que vou te amar,major,5,7,b13
+JOBIM,24,Eu sei que vou te amar,major,6,1,x
+JOBIM,24,Eu sei que vou te amar,major,7,7,b13
+JOBIM,24,Eu sei que vou te amar,major,8,6,11
+JOBIM,24,Eu sei que vou te amar,major,9,1,7
+JOBIM,24,Eu sei que vou te amar,major,10,7,7
+JOBIM,24,Eu sei que vou te amar,major,11,7,x
+JOBIM,24,Eu sei que vou te amar,major,12,1,7
+JOBIM,24,Eu sei que vou te amar,major,13,2,x
+JOBIM,24,Eu sei que vou te amar,major,14,1,7
+JOBIM,24,Eu sei que vou te amar,major,15,7,b13
+JOBIM,24,Eu sei que vou te amar,major,16,2,7
+JOBIM,24,Eu sei que vou te amar,major,17,2,7
+JOBIM,24,Eu sei que vou te amar,major,18,1,x
+JOBIM,24,Eu sei que vou te amar,major,19,2,7
+JOBIM,24,Eu sei que vou te amar,major,20,3,x
+JOBIM,24,Eu sei que vou te amar,major,21,2,7
+JOBIM,24,Eu sei que vou te amar,major,22,1,b13
+JOBIM,24,Eu sei que vou te amar,major,23,3,7
+JOBIM,24,Eu sei que vou te amar,major,24,3,7
+JOBIM,24,Eu sei que vou te amar,major,25,4,x
+JOBIM,24,Eu sei que vou te amar,major,26,5,3
+JOBIM,24,Eu sei que vou te amar,major,27,1,x
+JOBIM,24,Eu sei que vou te amar,major,28,7,1
+JOBIM,24,Eu sei que vou te amar,major,29,6,7
+JOBIM,24,Eu sei que vou te amar,major,30,4,3
+JOBIM,24,Eu sei que vou te amar,major,31,7,x
+JOBIM,24,Eu sei que vou te amar,major,32,6,9
+JOBIM,24,Eu sei que vou te amar,major,33,5,1
+JOBIM,24,Eu sei que vou te amar,major,34,3,1
+JOBIM,24,Eu sei que vou te amar,major,35,3,x
+JOBIM,24,Eu sei que vou te amar,major,36,4,b13
+JOBIM,24,Eu sei que vou te amar,major,37,3,x
+JOBIM,24,Eu sei que vou te amar,major,38,2,1
+JOBIM,24,Eu sei que vou te amar,major,39,#2/b3,b13
+JOBIM,24,Eu sei que vou te amar,major,40,5,1
+JOBIM,24,Eu sei que vou te amar,major,41,7,7
+JOBIM,24,Eu sei que vou te amar,major,42,7,b13
+JOBIM,24,Eu sei que vou te amar,major,43,6,x
+JOBIM,24,Eu sei que vou te amar,major,44,7,b13
+JOBIM,24,Eu sei que vou te amar,major,45,1,x
+JOBIM,24,Eu sei que vou te amar,major,46,7,b13
+JOBIM,24,Eu sei que vou te amar,major,47,6,5
+JOBIM,24,Eu sei que vou te amar,major,48,1,7
+JOBIM,24,Eu sei que vou te amar,major,49,1,7
+JOBIM,24,Eu sei que vou te amar,major,50,7,x
+JOBIM,24,Eu sei que vou te amar,major,51,1,7
+JOBIM,24,Eu sei que vou te amar,major,52,2,x
+JOBIM,24,Eu sei que vou te amar,major,53,1,7
+JOBIM,24,Eu sei que vou te amar,major,54,7,b13
+JOBIM,24,Eu sei que vou te amar,major,55,2,5
+JOBIM,24,Eu sei que vou te amar,major,56,2,9
+JOBIM,24,Eu sei que vou te amar,major,57,1,x
+JOBIM,24,Eu sei que vou te amar,major,58,2,9
+JOBIM,24,Eu sei que vou te amar,major,59,3,x
+JOBIM,24,Eu sei que vou te amar,major,60,2,9
+JOBIM,24,Eu sei que vou te amar,major,61,1,x
+JOBIM,24,Eu sei que vou te amar,major,62,3,7
+JOBIM,24,Eu sei que vou te amar,major,63,5,9
+JOBIM,24,Eu sei que vou te amar,major,64,7,7
+JOBIM,24,Eu sei que vou te amar,major,65,7,b13
+JOBIM,24,Eu sei que vou te amar,major,66,6,x
+JOBIM,24,Eu sei que vou te amar,major,67,7,b13
+JOBIM,24,Eu sei que vou te amar,major,68,1,x
+JOBIM,24,Eu sei que vou te amar,major,69,7,b13
+JOBIM,24,Eu sei que vou te amar,major,70,6,5
+JOBIM,24,Eu sei que vou te amar,major,71,5,3
+JOBIM,24,Eu sei que vou te amar,major,72,5,7
+JOBIM,24,Eu sei que vou te amar,major,73,3,x
+JOBIM,24,Eu sei que vou te amar,major,74,4,b13
+JOBIM,24,Eu sei que vou te amar,major,75,5,x
+JOBIM,24,Eu sei que vou te amar,major,76,4,b13
+JOBIM,24,Eu sei que vou te amar,major,77,3,5
+JOBIM,24,Eu sei que vou te amar,major,78,1,7
+JOBIM,24,Eu sei que vou te amar,major,79,1,3
+JOBIM,24,Eu sei que vou te amar,major,80,7,x
+JOBIM,24,Eu sei que vou te amar,major,81,1,3
+JOBIM,24,Eu sei que vou te amar,major,82,2,x
+JOBIM,24,Eu sei que vou te amar,major,83,1,3
+JOBIM,24,Eu sei que vou te amar,major,84,7,3
+JOBIM,24,Eu sei que vou te amar,major,85,2,1
+JOBIM,24,Eu sei que vou te amar,major,86,1,7
+JOBIM,24,Eu sei que vou te amar,major,87,1,5
+JOBIM,24,Eu sei que vou te amar,major,88,1,1
+JOBIM,26,Garota de Ipanema,major,1,2,9
+JOBIM,26,Garota de Ipanema,major,2,7,7
+JOBIM,26,Garota de Ipanema,major,3,6,6
+JOBIM,26,Garota de Ipanema,major,4,2,9
+JOBIM,26,Garota de Ipanema,major,5,7,7
+JOBIM,26,Garota de Ipanema,major,6,6,6
+JOBIM,26,Garota de Ipanema,major,7,2,1
+JOBIM,26,Garota de Ipanema,major,8,7,13
+JOBIM,26,Garota de Ipanema,major,9,6,5
+JOBIM,26,Garota de Ipanema,major,10,2,1
+JOBIM,26,Garota de Ipanema,major,11,7,5
+JOBIM,26,Garota de Ipanema,major,12,6,13
+JOBIM,26,Garota de Ipanema,major,13,1,7
+JOBIM,26,Garota de Ipanema,major,14,6,5
+JOBIM,26,Garota de Ipanema,major,15,4,11
+JOBIM,26,Garota de Ipanema,major,16,7,7
+JOBIM,26,Garota de Ipanema,major,17,5,#11
+JOBIM,26,Garota de Ipanema,major,18,4,3
+JOBIM,26,Garota de Ipanema,major,19,5,5
+JOBIM,26,Garota de Ipanema,major,20,7,7
+JOBIM,26,Garota de Ipanema,major,21,1,x
+JOBIM,26,Garota de Ipanema,major,22,7,7
+JOBIM,26,Garota de Ipanema,major,23,6,6
+JOBIM,26,Garota de Ipanema,major,24,7,x
+JOBIM,26,Garota de Ipanema,major,25,6,6
+JOBIM,26,Garota de Ipanema,major,26,5,9
+JOBIM,26,Garota de Ipanema,major,27,6,3
+JOBIM,26,Garota de Ipanema,major,28,7,7
+JOBIM,26,Garota de Ipanema,major,29,1,x
+JOBIM,26,Garota de Ipanema,major,30,7,7
+JOBIM,26,Garota de Ipanema,major,31,6,6
+JOBIM,26,Garota de Ipanema,major,32,7,x
+JOBIM,26,Garota de Ipanema,major,33,6,6
+JOBIM,26,Garota de Ipanema,major,34,5,9
+JOBIM,26,Garota de Ipanema,major,35,6,3
+JOBIM,26,Garota de Ipanema,major,36,3,9
+JOBIM,26,Garota de Ipanema,major,37,4,x
+JOBIM,26,Garota de Ipanema,major,38,3,9
+JOBIM,26,Garota de Ipanema,major,39,2,1
+JOBIM,26,Garota de Ipanema,major,40,3,x
+JOBIM,26,Garota de Ipanema,major,41,2,1
+JOBIM,26,Garota de Ipanema,major,42,1,9
+JOBIM,26,Garota de Ipanema,major,43,2,3
+JOBIM,26,Garota de Ipanema,major,44,3,x
+JOBIM,26,Garota de Ipanema,major,45,4,3
+JOBIM,26,Garota de Ipanema,major,46,5,3
+JOBIM,26,Garota de Ipanema,major,47,6,x
+JOBIM,26,Garota de Ipanema,major,48,7,5
+JOBIM,26,Garota de Ipanema,major,49,1,x
+JOBIM,26,Garota de Ipanema,major,50,2,7
+JOBIM,26,Garota de Ipanema,major,51,#2/b3,#11
+JOBIM,26,Garota de Ipanema,major,52,3,5
+JOBIM,26,Garota de Ipanema,major,53,4,3
+JOBIM,26,Garota de Ipanema,major,54,5,x
+JOBIM,26,Garota de Ipanema,major,55,6,5
+JOBIM,26,Garota de Ipanema,major,56,7,x
+JOBIM,26,Garota de Ipanema,major,57,1,7
+JOBIM,26,Garota de Ipanema,major,58,#1/b2,#11
+JOBIM,26,Garota de Ipanema,major,59,2,5
+JOBIM,28,Insensatez,minor,1,5,5
+JOBIM,28,Insensatez,minor,2,6,x
+JOBIM,28,Insensatez,minor,3,5,5
+JOBIM,28,Insensatez,minor,4,6,x
+JOBIM,28,Insensatez,minor,5,5,b13
+JOBIM,28,Insensatez,minor,6,6,x
+JOBIM,28,Insensatez,minor,7,5,b13
+JOBIM,28,Insensatez,minor,8,6,x
+JOBIM,28,Insensatez,minor,9,5,6
+JOBIM,28,Insensatez,minor,10,#4/b5,x
+JOBIM,28,Insensatez,minor,11,5,6
+JOBIM,28,Insensatez,minor,12,b7,5
+JOBIM,28,Insensatez,minor,13,#6,x
+JOBIM,28,Insensatez,minor,14,6,x
+JOBIM,28,Insensatez,minor,15,5,3
+JOBIM,28,Insensatez,minor,16,5,9
+JOBIM,28,Insensatez,minor,17,4,1
+JOBIM,28,Insensatez,minor,18,4,6
+JOBIM,28,Insensatez,minor,19,5,7
+JOBIM,28,Insensatez,minor,20,4,6
+JOBIM,28,Insensatez,minor,21,5,7
+JOBIM,28,Insensatez,minor,22,4,3
+JOBIM,28,Insensatez,minor,23,5,#11
+JOBIM,28,Insensatez,minor,24,4,3
+JOBIM,28,Insensatez,minor,25,5,#11
+JOBIM,28,Insensatez,minor,26,4,3
+JOBIM,28,Insensatez,minor,27,#3,x
+JOBIM,28,Insensatez,minor,28,4,3
+JOBIM,28,Insensatez,minor,29,6,b9/#9
+JOBIM,28,Insensatez,minor,30,5,x
+JOBIM,28,Insensatez,minor,31,#4/b5,x
+JOBIM,28,Insensatez,minor,32,4,7
+JOBIM,28,Insensatez,minor,33,4,11
+JOBIM,28,Insensatez,minor,34,3,3
+JOBIM,28,Insensatez,minor,35,3,1
+JOBIM,28,Insensatez,minor,36,4,x
+JOBIM,28,Insensatez,minor,37,3,1
+JOBIM,28,Insensatez,minor,38,4,x
+JOBIM,28,Insensatez,minor,39,3,5
+JOBIM,28,Insensatez,minor,40,4,x
+JOBIM,28,Insensatez,minor,41,3,5
+JOBIM,28,Insensatez,minor,42,4,x
+JOBIM,28,Insensatez,minor,43,5,9
+JOBIM,28,Insensatez,minor,44,3,7
+JOBIM,28,Insensatez,minor,45,1,3
+JOBIM,28,Insensatez,minor,46,2,x
+JOBIM,28,Insensatez,minor,47,1,3
+JOBIM,28,Insensatez,minor,48,2,x
+JOBIM,28,Insensatez,minor,49,3,3
+JOBIM,28,Insensatez,minor,50,3,1
+JOBIM,28,Insensatez,minor,51,4,x
+JOBIM,28,Insensatez,minor,52,3,1
+JOBIM,28,Insensatez,minor,53,4,x
+JOBIM,28,Insensatez,minor,54,2,1
+JOBIM,28,Insensatez,minor,55,3,b9/#9
+JOBIM,28,Insensatez,minor,56,2,1
+JOBIM,28,Insensatez,minor,57,3,b9/#9
+JOBIM,28,Insensatez,minor,58,2,6
+JOBIM,28,Insensatez,minor,59,#1/b2,x
+JOBIM,28,Insensatez,minor,60,2,6
+JOBIM,28,Insensatez,minor,61,4,7
+JOBIM,28,Insensatez,minor,62,#3,x
+JOBIM,28,Insensatez,minor,63,3,x
+JOBIM,28,Insensatez,minor,64,2,5
+JOBIM,28,Insensatez,minor,65,2,#11
+JOBIM,28,Insensatez,minor,66,1,5
+JOBIM,31,Ligia,major,1,5,x
+JOBIM,31,Ligia,major,2,6,5
+JOBIM,31,Ligia,major,3,5,x
+JOBIM,31,Ligia,major,4,6,5
+JOBIM,31,Ligia,major,5,5,x
+JOBIM,31,Ligia,major,6,6,9
+JOBIM,31,Ligia,major,7,5,x
+JOBIM,31,Ligia,major,8,6,9
+JOBIM,31,Ligia,major,9,5,x
+JOBIM,31,Ligia,major,10,7,5
+JOBIM,31,Ligia,major,11,6,x
+JOBIM,31,Ligia,major,12,7,5
+JOBIM,31,Ligia,major,13,6,x
+JOBIM,31,Ligia,major,14,7,b13
+JOBIM,31,Ligia,major,15,6,5
+JOBIM,31,Ligia,major,16,1,7
+JOBIM,31,Ligia,major,17,7,5
+JOBIM,31,Ligia,major,18,5,11
+JOBIM,31,Ligia,major,19,4,x
+JOBIM,31,Ligia,major,20,5,11
+JOBIM,31,Ligia,major,21,4,x
+JOBIM,31,Ligia,major,22,3,13
+JOBIM,31,Ligia,major,23,2,x
+JOBIM,31,Ligia,major,24,3,13
+JOBIM,31,Ligia,major,25,7,3
+JOBIM,31,Ligia,major,26,1,x
+JOBIM,31,Ligia,major,27,2,7
+JOBIM,31,Ligia,major,28,3,1
+JOBIM,31,Ligia,major,29,1,5
+JOBIM,31,Ligia,major,30,2,x
+JOBIM,31,Ligia,major,31,3,7
+JOBIM,31,Ligia,major,32,1,5
+JOBIM,31,Ligia,major,33,2,x
+JOBIM,31,Ligia,major,34,3,7
+JOBIM,31,Ligia,major,35,1,5
+JOBIM,31,Ligia,major,36,2,x
+JOBIM,31,Ligia,major,37,#2/b3,7
+JOBIM,31,Ligia,major,38,1,5
+JOBIM,31,Ligia,major,39,#2/b3,7
+JOBIM,31,Ligia,major,40,1,5
+JOBIM,31,Ligia,major,41,7,5
+JOBIM,31,Ligia,major,42,1,x
+JOBIM,31,Ligia,major,43,6,x
+JOBIM,31,Ligia,major,44,7,5
+JOBIM,31,Ligia,major,45,5,3
+JOBIM,31,Ligia,major,46,6,11
+JOBIM,31,Ligia,major,47,3,5
+JOBIM,31,Ligia,major,48,5,7
+JOBIM,31,Ligia,major,49,6,x
+JOBIM,31,Ligia,major,50,7,9
+JOBIM,31,Ligia,major,51,1,5
+JOBIM,31,Ligia,major,52,6,3
+JOBIM,31,Ligia,major,53,7,11
+JOBIM,31,Ligia,major,54,1,5
+JOBIM,31,Ligia,major,55,6,3
+JOBIM,31,Ligia,major,56,7,11
+JOBIM,31,Ligia,major,57,1,5
+JOBIM,31,Ligia,major,58,6,3
+JOBIM,31,Ligia,major,59,7,1
+JOBIM,31,Ligia,major,60,1,b9/#9
+JOBIM,31,Ligia,major,61,6,7
+JOBIM,31,Ligia,major,62,7,1
+JOBIM,31,Ligia,major,63,1,b9/#9
+JOBIM,31,Ligia,major,64,6,7
+JOBIM,31,Ligia,major,65,7,5
+JOBIM,31,Ligia,major,66,7,9
+JOBIM,31,Ligia,major,67,6,5
+JOBIM,31,Ligia,major,68,7,x
+JOBIM,31,Ligia,major,69,6,5
+JOBIM,31,Ligia,major,70,#5/b6,5
+JOBIM,31,Ligia,major,71,#6/b7,x
+JOBIM,31,Ligia,major,72,#5/b6,5
+JOBIM,35,Meditacao,major,1,6,6
+JOBIM,35,Meditacao,major,2,5,5
+JOBIM,35,Meditacao,major,3,6,1
+JOBIM,35,Meditacao,major,4,#6/b7,x
+JOBIM,35,Meditacao,major,5,6,7
+JOBIM,35,Meditacao,major,6,#4/b5,x
+JOBIM,35,Meditacao,major,7,5,13
+JOBIM,35,Meditacao,major,8,6,6
+JOBIM,35,Meditacao,major,9,5,5
+JOBIM,35,Meditacao,major,10,7,7
+JOBIM,35,Meditacao,major,11,5,5
+JOBIM,35,Meditacao,major,12,6,11
+JOBIM,35,Meditacao,major,13,7,5
+JOBIM,35,Meditacao,major,14,6,11
+JOBIM,35,Meditacao,major,15,6,1
+JOBIM,35,Meditacao,major,16,4,3
+JOBIM,35,Meditacao,major,17,3,9
+JOBIM,35,Meditacao,major,18,5,9
+JOBIM,35,Meditacao,major,19,#4/b5,x
+JOBIM,35,Meditacao,major,20,4,1
+JOBIM,35,Meditacao,major,21,1,5
+JOBIM,35,Meditacao,major,22,2,x
+JOBIM,35,Meditacao,major,23,3,1
+JOBIM,35,Meditacao,major,24,#2/b3,x
+JOBIM,35,Meditacao,major,25,3,1
+JOBIM,35,Meditacao,major,26,4,b13
+JOBIM,35,Meditacao,major,27,3,5
+JOBIM,35,Meditacao,major,28,4,x
+JOBIM,35,Meditacao,major,29,5,11
+JOBIM,35,Meditacao,major,30,#4/b5,x
+JOBIM,35,Meditacao,major,31,5,11
+JOBIM,35,Meditacao,major,32,6,9
+JOBIM,35,Meditacao,major,33,1,5
+JOBIM,35,Meditacao,major,34,7,#11
+JOBIM,35,Meditacao,major,35,2,6
+JOBIM,35,Meditacao,major,36,#1/b2,x
+JOBIM,35,Meditacao,major,37,2,5
+JOBIM,35,Meditacao,major,38,7,#11
+JOBIM,35,Meditacao,major,39,2,9
+JOBIM,35,Meditacao,major,40,#1/b2,x
+JOBIM,35,Meditacao,major,41,1,1
+JOBIM,35,Meditacao,major,42,7,7
+JOBIM,35,Meditacao,major,43,2,14
+JOBIM,35,Meditacao,major,44,#1/b2,x
+JOBIM,35,Meditacao,major,45,1,7
+JOBIM,35,Meditacao,major,46,7,11
+JOBIM,35,Meditacao,major,47,6,5
+JOBIM,35,Meditacao,major,48,6,9
+JOBIM,37,O amor em paz,major,1,6,5
+JOBIM,37,O amor em paz,major,2,5,9
+JOBIM,37,O amor em paz,major,3,3,1
+JOBIM,37,O amor em paz,major,4,4,b13
+JOBIM,37,O amor em paz,major,5,5,x
+JOBIM,37,O amor em paz,major,6,6,5
+JOBIM,37,O amor em paz,major,7,6,5
+JOBIM,37,O amor em paz,major,8,1,7
+JOBIM,37,O amor em paz,major,9,7,x
+JOBIM,37,O amor em paz,major,10,6,5
+JOBIM,37,O amor em paz,major,11,7,5
+JOBIM,37,O amor em paz,major,12,5,3
+JOBIM,37,O amor em paz,major,13,3,1
+JOBIM,37,O amor em paz,major,14,5,5
+JOBIM,37,O amor em paz,major,15,5,9
+JOBIM,37,O amor em paz,major,16,4,1
+JOBIM,37,O amor em paz,major,17,2,3
+JOBIM,37,O amor em paz,major,18,2,3
+JOBIM,37,O amor em paz,major,19,3,x
+JOBIM,37,O amor em paz,major,20,4,5
+JOBIM,37,O amor em paz,major,21,5,b13
+JOBIM,37,O amor em paz,major,22,4,x
+JOBIM,37,O amor em paz,major,23,3,1
+JOBIM,37,O amor em paz,major,24,2,7
+JOBIM,37,O amor em paz,major,25,4,b9/#9
+JOBIM,37,O amor em paz,major,26,3,x
+JOBIM,37,O amor em paz,major,27,2,x
+JOBIM,37,O amor em paz,major,28,#1/b2,3
+JOBIM,37,O amor em paz,major,29,4,b13
+JOBIM,37,O amor em paz,major,30,3,5
+JOBIM,37,O amor em paz,major,31,6,5
+JOBIM,37,O amor em paz,major,32,6,9
+JOBIM,37,O amor em paz,major,33,5,1
+JOBIM,37,O amor em paz,major,34,3,3
+JOBIM,37,O amor em paz,major,35,4,b13
+JOBIM,37,O amor em paz,major,36,5,x
+JOBIM,37,O amor em paz,major,37,6,5
+JOBIM,37,O amor em paz,major,38,6,5
+JOBIM,37,O amor em paz,major,39,1,7
+JOBIM,37,O amor em paz,major,40,7,x
+JOBIM,37,O amor em paz,major,41,6,5
+JOBIM,37,O amor em paz,major,42,7,5
+JOBIM,37,O amor em paz,major,43,5,3
+JOBIM,37,O amor em paz,major,44,3,1
+JOBIM,37,O amor em paz,major,45,5,5
+JOBIM,37,O amor em paz,major,46,4,11
+JOBIM,37,O amor em paz,major,47,2,3
+JOBIM,37,O amor em paz,major,48,2,3
+JOBIM,37,O amor em paz,major,49,3,x
+JOBIM,37,O amor em paz,major,50,4,5
+JOBIM,37,O amor em paz,major,51,3,11
+JOBIM,37,O amor em paz,major,52,5,b13
+JOBIM,37,O amor em paz,major,53,4,x
+JOBIM,37,O amor em paz,major,54,3,1
+JOBIM,37,O amor em paz,major,55,2,7
+JOBIM,37,O amor em paz,major,56,4,b9/#9
+JOBIM,37,O amor em paz,major,57,3,1
+JOBIM,37,O amor em paz,major,58,4,x
+JOBIM,37,O amor em paz,major,59,3,3
+JOBIM,37,O amor em paz,major,60,5,5
+JOBIM,37,O amor em paz,major,61,4,1
+JOBIM,37,O amor em paz,major,62,#2/b3,7
+JOBIM,37,O amor em paz,major,63,5,9
+JOBIM,37,O amor em paz,major,64,4,1
+JOBIM,37,O amor em paz,major,65,3,3
+JOBIM,37,O amor em paz,major,66,5,5
+JOBIM,37,O amor em paz,major,67,4,11
+JOBIM,37,O amor em paz,major,68,6,3
+JOBIM,37,O amor em paz,major,69,6,3
+JOBIM,37,O amor em paz,major,70,7,x
+JOBIM,37,O amor em paz,major,71,1,5
+JOBIM,37,O amor em paz,major,72,7,11
+JOBIM,37,O amor em paz,major,73,2,b13
+JOBIM,37,O amor em paz,major,74,#1/b2,x
+JOBIM,37,O amor em paz,major,75,1,5
+JOBIM,37,O amor em paz,major,76,7,x
+JOBIM,37,O amor em paz,major,77,1,5
+JOBIM,37,O amor em paz,major,78,#5/b6,3
+JOBIM,37,O amor em paz,major,79,7,9
+JOBIM,37,O amor em paz,major,80,6,11
+JOBIM,37,O amor em paz,major,81,6,#11
+JOBIM,37,O amor em paz,major,82,6,#11
+JOBIM,37,O amor em paz,major,83,7,b13
+JOBIM,37,O amor em paz,major,84,1,7
+JOBIM,37,O amor em paz,major,85,7,13
+JOBIM,37,O amor em paz,major,86,2,1
+JOBIM,37,O amor em paz,major,87,#1/b2,x
+JOBIM,37,O amor em paz,major,88,1,7
+JOBIM,37,O amor em paz,major,89,7,x
+JOBIM,37,O amor em paz,major,90,1,7
+JOBIM,37,O amor em paz,major,91,#5/b6,#11
+JOBIM,37,O amor em paz,major,92,7,9
+JOBIM,37,O amor em paz,major,93,6,1
+JOBIM,37,O amor em paz,major,94,6,7
+JOBIM,40,Samba de uma nota so,major,1,5,3
+JOBIM,40,Samba de uma nota so,major,2,5,3
+JOBIM,40,Samba de uma nota so,major,3,5,11
+JOBIM,40,Samba de uma nota so,major,4,5,#11
+JOBIM,40,Samba de uma nota so,major,5,5,3
+JOBIM,40,Samba de uma nota so,major,6,5,3
+JOBIM,40,Samba de uma nota so,major,7,5,11
+JOBIM,40,Samba de uma nota so,major,8,5,#11
+JOBIM,40,Samba de uma nota so,major,9,1,11
+JOBIM,40,Samba de uma nota so,major,10,1,#11
+JOBIM,40,Samba de uma nota so,major,11,1,5
+JOBIM,40,Samba de uma nota so,major,12,1,5
+JOBIM,40,Samba de uma nota so,major,13,5,9
+JOBIM,40,Samba de uma nota so,major,14,5,3
+JOBIM,40,Samba de uma nota so,major,15,5,3
+JOBIM,40,Samba de uma nota so,major,16,5,11
+JOBIM,40,Samba de uma nota so,major,17,5,#11
+JOBIM,40,Samba de uma nota so,major,18,5,#11
+JOBIM,40,Samba de uma nota so,major,19,1,1
+JOBIM,40,Samba de uma nota so,major,20,6,5
+JOBIM,40,Samba de uma nota so,major,21,7,x
+JOBIM,40,Samba de uma nota so,major,22,1,7
+JOBIM,40,Samba de uma nota so,major,23,2,x
+JOBIM,40,Samba de uma nota so,major,24,1,7
+JOBIM,40,Samba de uma nota so,major,25,7,x
+JOBIM,40,Samba de uma nota so,major,26,6,5
+JOBIM,40,Samba de uma nota so,major,27,5,x
+JOBIM,40,Samba de uma nota so,major,28,4,7
+JOBIM,40,Samba de uma nota so,major,29,3,x
+JOBIM,40,Samba de uma nota so,major,30,2,5
+JOBIM,40,Samba de uma nota so,major,31,1,x
+JOBIM,40,Samba de uma nota so,major,32,7,3
+JOBIM,40,Samba de uma nota so,major,33,1,x
+JOBIM,40,Samba de uma nota so,major,34,2,5
+JOBIM,40,Samba de uma nota so,major,35,3,13
+JOBIM,40,Samba de uma nota so,major,36,7,7
+JOBIM,40,Samba de uma nota so,major,37,6,3
+JOBIM,40,Samba de uma nota so,major,38,7,x
+JOBIM,40,Samba de uma nota so,major,39,1,5
+JOBIM,40,Samba de uma nota so,major,40,3,7
+JOBIM,40,Samba de uma nota so,major,41,7,7
+JOBIM,40,Samba de uma nota so,major,42,6,3
+JOBIM,40,Samba de uma nota so,major,43,6,5
+JOBIM,40,Samba de uma nota so,major,44,7,x
+JOBIM,40,Samba de uma nota so,major,45,1,7
+JOBIM,40,Samba de uma nota so,major,46,2,x
+JOBIM,40,Samba de uma nota so,major,47,1,7
+JOBIM,40,Samba de uma nota so,major,48,7,x
+JOBIM,40,Samba de uma nota so,major,49,6,5
+JOBIM,40,Samba de uma nota so,major,50,5,x
+JOBIM,40,Samba de uma nota so,major,51,4,7
+JOBIM,40,Samba de uma nota so,major,52,3,x
+JOBIM,40,Samba de uma nota so,major,53,2,5
+JOBIM,40,Samba de uma nota so,major,54,1,x
+JOBIM,40,Samba de uma nota so,major,55,7,3
+JOBIM,40,Samba de uma nota so,major,56,1,x
+JOBIM,40,Samba de uma nota so,major,57,2,5
+JOBIM,40,Samba de uma nota so,major,58,3,13
+JOBIM,40,Samba de uma nota so,major,59,7,7
+JOBIM,40,Samba de uma nota so,major,60,6,3
+JOBIM,40,Samba de uma nota so,major,61,7,x
+JOBIM,40,Samba de uma nota so,major,62,1,5
+JOBIM,40,Samba de uma nota so,major,63,3,7
+JOBIM,40,Samba de uma nota so,major,64,5,5
+JOBIM,40,Samba de uma nota so,major,65,5,#11
+JOBIM,40,Samba de uma nota so,major,66,5,3
+JOBIM,40,Samba de uma nota so,major,67,5,3
+JOBIM,40,Samba de uma nota so,major,68,5,11
+JOBIM,40,Samba de uma nota so,major,69,5,#11
+JOBIM,40,Samba de uma nota so,major,70,5,3
+JOBIM,40,Samba de uma nota so,major,71,5,3
+JOBIM,40,Samba de uma nota so,major,72,5,11
+JOBIM,40,Samba de uma nota so,major,73,5,#11
+JOBIM,40,Samba de uma nota so,major,74,1,11
+JOBIM,40,Samba de uma nota so,major,75,1,#11
+JOBIM,40,Samba de uma nota so,major,76,1,5
+JOBIM,40,Samba de uma nota so,major,77,1,5
+JOBIM,40,Samba de uma nota so,major,78,1,6
+JOBIM,40,Samba de uma nota so,major,79,1,7
+JOBIM,40,Samba de uma nota so,major,80,1,7
+JOBIM,40,Samba de uma nota so,major,81,1,7
+JOBIM,40,Samba de uma nota so,major,82,1,1
+JOBIM,41,Samba do aviao,major,1,7,7
+JOBIM,41,Samba do aviao,major,2,6,x
+JOBIM,41,Samba do aviao,major,3,#5/b6,1
+JOBIM,41,Samba do aviao,major,4,6,b9/#9
+JOBIM,41,Samba do aviao,major,5,1,7
+JOBIM,41,Samba do aviao,major,6,7,b13
+JOBIM,41,Samba do aviao,major,7,2,7
+JOBIM,41,Samba do aviao,major,8,1,x
+JOBIM,41,Samba do aviao,major,9,7,5
+JOBIM,41,Samba do aviao,major,10,1,x
+JOBIM,41,Samba do aviao,major,11,2,7
+JOBIM,41,Samba do aviao,major,12,3,1
+JOBIM,41,Samba do aviao,major,13,3,7
+JOBIM,41,Samba do aviao,major,14,2,6
+JOBIM,41,Samba do aviao,major,15,5,9
+JOBIM,41,Samba do aviao,major,16,7,7
+JOBIM,41,Samba do aviao,major,17,6,6
+JOBIM,41,Samba do aviao,major,18,2,14
+JOBIM,41,Samba do aviao,major,19,#1/b2,x
+JOBIM,41,Samba do aviao,major,20,1,x
+JOBIM,41,Samba do aviao,major,21,7,b13
+JOBIM,41,Samba do aviao,major,22,5,3
+JOBIM,41,Samba do aviao,major,23,6,1
+JOBIM,41,Samba do aviao,major,24,3,9
+JOBIM,41,Samba do aviao,major,25,3,b9/#9
+JOBIM,41,Samba do aviao,major,26,3,13
+JOBIM,41,Samba do aviao,major,27,3,6
+JOBIM,41,Samba do aviao,major,28,3,13
+JOBIM,41,Samba do aviao,major,29,7,7
+JOBIM,41,Samba do aviao,major,30,6,6
+JOBIM,41,Samba do aviao,major,31,#5/b6,1
+JOBIM,41,Samba do aviao,major,32,6,b9/#9
+JOBIM,41,Samba do aviao,major,33,1,7
+JOBIM,41,Samba do aviao,major,34,7,b13
+JOBIM,41,Samba do aviao,major,35,#6/b7,x
+JOBIM,41,Samba do aviao,major,36,7,b13
+JOBIM,41,Samba do aviao,major,37,2,7
+JOBIM,41,Samba do aviao,major,38,1,x
+JOBIM,41,Samba do aviao,major,39,7,5
+JOBIM,41,Samba do aviao,major,40,1,x
+JOBIM,41,Samba do aviao,major,41,2,7
+JOBIM,41,Samba do aviao,major,42,3,1
+JOBIM,41,Samba do aviao,major,43,3,7
+JOBIM,41,Samba do aviao,major,44,2,6
+JOBIM,41,Samba do aviao,major,45,5,9
+JOBIM,41,Samba do aviao,major,46,#4/b5,x
+JOBIM,41,Samba do aviao,major,47,4,1
+JOBIM,41,Samba do aviao,major,48,1,5
+JOBIM,41,Samba do aviao,major,49,5,9
+JOBIM,41,Samba do aviao,major,50,#4/b5,x
+JOBIM,41,Samba do aviao,major,51,4,1
+JOBIM,41,Samba do aviao,major,52,2,9
+JOBIM,41,Samba do aviao,major,53,#1/b2,x
+JOBIM,41,Samba do aviao,major,54,1,1
+JOBIM,41,Samba do aviao,major,55,5,5
+JOBIM,41,Samba do aviao,major,56,2,14
+JOBIM,41,Samba do aviao,major,57,#1/b2,x
+JOBIM,41,Samba do aviao,major,58,1,1
+JOBIM,41,Samba do aviao,major,59,5,9
+JOBIM,41,Samba do aviao,major,60,#4/b5,x
+JOBIM,41,Samba do aviao,major,61,4,1
+JOBIM,41,Samba do aviao,major,62,1,5
+JOBIM,41,Samba do aviao,major,63,5,9
+JOBIM,41,Samba do aviao,major,64,#4/b5,x
+JOBIM,41,Samba do aviao,major,65,4,1
+JOBIM,41,Samba do aviao,major,66,3,1
+JOBIM,41,Samba do aviao,major,67,4,b13
+JOBIM,41,Samba do aviao,major,68,2,1
+JOBIM,41,Samba do aviao,major,69,3,13
+JOBIM,41,Samba do aviao,major,70,5,3
+JOBIM,41,Samba do aviao,major,71,6,11
+JOBIM,41,Samba do aviao,major,72,4,b13
+JOBIM,41,Samba do aviao,major,73,5,7
+JOBIM,41,Samba do aviao,major,74,6,5
+JOBIM,41,Samba do aviao,major,75,4,3
+JOBIM,41,Samba do aviao,major,76,6,5
+JOBIM,41,Samba do aviao,major,77,1,7
+JOBIM,41,Samba do aviao,major,78,6,5
+JOBIM,41,Samba do aviao,major,79,1,7
+JOBIM,41,Samba do aviao,major,80,3,9
+JOBIM,41,Samba do aviao,major,81,1,7
+JOBIM,41,Samba do aviao,major,82,3,9
+JOBIM,41,Samba do aviao,major,83,5,11
+JOBIM,41,Samba do aviao,major,84,3,9
+JOBIM,41,Samba do aviao,major,85,5,11
+JOBIM,41,Samba do aviao,major,86,7,6
+JOBIM,41,Samba do aviao,major,87,1,7
+JOBIM,41,Samba do aviao,major,88,6,5
+JOBIM,41,Samba do aviao,major,89,1,7
+JOBIM,41,Samba do aviao,major,90,7,7
+JOBIM,41,Samba do aviao,major,91,1,1
+JOBIM,44,So tinha de ser com voce,major,1,5,5
+JOBIM,44,So tinha de ser com voce,major,2,#6/b7,b9/#9
+JOBIM,44,So tinha de ser com voce,major,3,#5/b6,b9/#9
+JOBIM,44,So tinha de ser com voce,major,4,5,5
+JOBIM,44,So tinha de ser com voce,major,5,7,7
+JOBIM,44,So tinha de ser com voce,major,6,6,13
+JOBIM,44,So tinha de ser com voce,major,7,5,1
+JOBIM,44,So tinha de ser com voce,major,8,6,13
+JOBIM,44,So tinha de ser com voce,major,9,5,5
+JOBIM,44,So tinha de ser com voce,major,10,3,7
+JOBIM,44,So tinha de ser com voce,major,11,5,9
+JOBIM,44,So tinha de ser com voce,major,12,1,5
+JOBIM,44,So tinha de ser com voce,major,13,3,1
+JOBIM,44,So tinha de ser com voce,major,14,5,7
+JOBIM,44,So tinha de ser com voce,major,15,1,b9/#9
+JOBIM,44,So tinha de ser com voce,major,16,3,9
+JOBIM,44,So tinha de ser com voce,major,17,5,1
+JOBIM,44,So tinha de ser com voce,major,18,1,3
+JOBIM,44,So tinha de ser com voce,major,19,3,3
+JOBIM,44,So tinha de ser com voce,major,20,7,7
+JOBIM,44,So tinha de ser com voce,major,21,6,x
+JOBIM,44,So tinha de ser com voce,major,22,7,13
+JOBIM,44,So tinha de ser com voce,major,23,6,x
+JOBIM,44,So tinha de ser com voce,major,24,7,7
+JOBIM,44,So tinha de ser com voce,major,25,6,6
+JOBIM,44,So tinha de ser com voce,major,26,1,7
+JOBIM,44,So tinha de ser com voce,major,27,1,7
+JOBIM,44,So tinha de ser com voce,major,28,7,7
+JOBIM,44,So tinha de ser com voce,major,29,7,7
+JOBIM,44,So tinha de ser com voce,major,30,5,1
+JOBIM,44,So tinha de ser com voce,major,31,4,7
+JOBIM,44,So tinha de ser com voce,major,32,5,1
+JOBIM,44,So tinha de ser com voce,major,33,6,13
+JOBIM,44,So tinha de ser com voce,major,34,5,5
+JOBIM,44,So tinha de ser com voce,major,35,6,3
+JOBIM,44,So tinha de ser com voce,major,36,5,9
+JOBIM,44,So tinha de ser com voce,major,37,4,1
+JOBIM,44,So tinha de ser com voce,major,38,5,b9/#9
+JOBIM,44,So tinha de ser com voce,major,39,1,b13
+JOBIM,44,So tinha de ser com voce,major,40,4,b13
+JOBIM,44,So tinha de ser com voce,major,41,#1/b2,3
+JOBIM,44,So tinha de ser com voce,major,42,3,9
+JOBIM,44,So tinha de ser com voce,major,43,1,7
+JOBIM,44,So tinha de ser com voce,major,44,#2/b3,b13
+JOBIM,44,So tinha de ser com voce,major,45,7,3
+JOBIM,44,So tinha de ser com voce,major,46,1,1
+JOBIM,44,So tinha de ser com voce,major,47,4,1
+JOBIM,44,So tinha de ser com voce,major,48,1,9
+JOBIM,44,So tinha de ser com voce,major,49,#2/b3,1
+JOBIM,44,So tinha de ser com voce,major,50,1,13
+JOBIM,44,So tinha de ser com voce,major,51,1,b9/#9
+JOBIM,44,So tinha de ser com voce,major,52,#2/b3,b13
+JOBIM,44,So tinha de ser com voce,major,53,2,9
+JOBIM,44,So tinha de ser com voce,major,54,1,1
+JOBIM,44,So tinha de ser com voce,major,55,2,6
+JOBIM,44,So tinha de ser com voce,major,56,1,5
+JOBIM,44,So tinha de ser com voce,major,57,2,9
+JOBIM,44,So tinha de ser com voce,major,58,1,1
+JOBIM,44,So tinha de ser com voce,major,59,#2/b3,b9/#9
+JOBIM,44,So tinha de ser com voce,major,60,#2/b3,b13
+JOBIM,44,So tinha de ser com voce,major,61,2,5
+JOBIM,44,So tinha de ser com voce,major,62,2,9
+JOBIM,44,So tinha de ser com voce,major,63,1,1
+JOBIM,44,So tinha de ser com voce,major,64,#6/b7,b9/#9
+JOBIM,44,So tinha de ser com voce,major,65,#5/b6,b9/#9
+JOBIM,44,So tinha de ser com voce,major,66,#6/b7,7
+JOBIM,44,So tinha de ser com voce,major,67,1,1
+JOBIM,44,So tinha de ser com voce,major,68,6,13
+JOBIM,44,So tinha de ser com voce,major,69,1,5
+JOBIM,44,So tinha de ser com voce,major,70,6,9
+JOBIM,44,So tinha de ser com voce,major,71,4,1
+JOBIM,44,So tinha de ser com voce,major,72,1,b13
+JOBIM,44,So tinha de ser com voce,major,73,4,b9/#9
+JOBIM,44,So tinha de ser com voce,major,74,1,b13
+JOBIM,44,So tinha de ser com voce,major,75,#2/b3,5
+JOBIM,44,So tinha de ser com voce,major,76,1,3
+JOBIM,44,So tinha de ser com voce,major,77,5,#11
+JOBIM,44,So tinha de ser com voce,major,78,1,7
+JOBIM,44,So tinha de ser com voce,major,79,3,3
+JOBIM,44,So tinha de ser com voce,major,80,1,1
+JOBIM,47,Triste,major,1,1,1
+JOBIM,47,Triste,major,2,7,x
+JOBIM,47,Triste,major,3,1,1
+JOBIM,47,Triste,major,4,7,7
+JOBIM,47,Triste,major,5,6,6
+JOBIM,47,Triste,major,6,3,3
+JOBIM,47,Triste,major,7,4,x
+JOBIM,47,Triste,major,8,5,7
+JOBIM,47,Triste,major,9,1,1
+JOBIM,47,Triste,major,10,7,x
+JOBIM,47,Triste,major,11,1,1
+JOBIM,47,Triste,major,12,7,7
+JOBIM,47,Triste,major,13,6,6
+JOBIM,47,Triste,major,14,3,3
+JOBIM,47,Triste,major,15,4,x
+JOBIM,47,Triste,major,16,5,3
+JOBIM,47,Triste,major,17,5,7
+JOBIM,47,Triste,major,18,6,5
+JOBIM,47,Triste,major,19,5,11
+JOBIM,47,Triste,major,20,6,x
+JOBIM,47,Triste,major,21,5,b13
+JOBIM,47,Triste,major,22,4,x
+JOBIM,47,Triste,major,23,3,3
+JOBIM,47,Triste,major,24,7,5
+JOBIM,47,Triste,major,25,2,11
+JOBIM,47,Triste,major,26,7,9
+JOBIM,47,Triste,major,27,1,3
+JOBIM,47,Triste,major,28,3,5
+JOBIM,47,Triste,major,29,5,7
+JOBIM,47,Triste,major,30,7,9
+JOBIM,47,Triste,major,31,2,b9/#9
+JOBIM,47,Triste,major,32,1,b9/#9
+JOBIM,47,Triste,major,33,2,7
+JOBIM,47,Triste,major,34,7,5
+JOBIM,47,Triste,major,35,7,1
+JOBIM,47,Triste,major,36,#5/b6,13
+JOBIM,47,Triste,major,37,4,b9/#9
+JOBIM,47,Triste,major,38,3,1
+JOBIM,47,Triste,major,39,3,5
+JOBIM,47,Triste,major,40,6,5
+JOBIM,47,Triste,major,41,5,11
+JOBIM,47,Triste,major,42,5,1
+JOBIM,47,Triste,major,43,1,1
+JOBIM,47,Triste,major,44,7,x
+JOBIM,47,Triste,major,45,1,1
+JOBIM,47,Triste,major,46,7,7
+JOBIM,47,Triste,major,47,6,6
+JOBIM,47,Triste,major,48,3,3
+JOBIM,47,Triste,major,49,4,x
+JOBIM,47,Triste,major,50,5,5
+JOBIM,47,Triste,major,51,1,1
+JOBIM,47,Triste,major,52,7,x
+JOBIM,47,Triste,major,53,1,1
+JOBIM,47,Triste,major,54,7,7
+JOBIM,47,Triste,major,55,6,6
+JOBIM,47,Triste,major,56,3,3
+JOBIM,47,Triste,major,57,4,x
+JOBIM,47,Triste,major,58,5,1
+JOBIM,47,Triste,major,59,5,5
+JOBIM,47,Triste,major,60,1,5
+JOBIM,47,Triste,major,61,1,5
+JOBIM,47,Triste,major,62,2,x
+JOBIM,47,Triste,major,63,3,7
+JOBIM,47,Triste,major,64,4,x
+JOBIM,47,Triste,major,65,5,9
+JOBIM,47,Triste,major,66,#4/b5,x
+JOBIM,47,Triste,major,67,4,1
+JOBIM,47,Triste,major,68,5,3
+JOBIM,47,Triste,major,69,4,x
+JOBIM,47,Triste,major,70,3,1
+JOBIM,47,Triste,major,71,2,7
+JOBIM,47,Triste,major,72,1,x
+JOBIM,47,Triste,major,73,2,14
+JOBIM,47,Triste,major,74,4,3
+JOBIM,47,Triste,major,75,1,x
+JOBIM,47,Triste,major,76,4,3
+JOBIM,47,Triste,major,77,2,5
+JOBIM,47,Triste,major,78,3,13
+JOBIM,47,Triste,major,79,1,3
+JOBIM,47,Triste,major,80,2,x
+JOBIM,47,Triste,major,81,1,1
+JOBIM,49,Voce vai ver,major,1,3,b9/#9
+JOBIM,49,Voce vai ver,major,2,5,#11
+JOBIM,49,Voce vai ver,major,3,6,b13
+JOBIM,49,Voce vai ver,major,4,3,3
+JOBIM,49,Voce vai ver,major,5,5,5
+JOBIM,49,Voce vai ver,major,6,6,x
+JOBIM,49,Voce vai ver,major,7,7,7
+JOBIM,49,Voce vai ver,major,8,1,1
+JOBIM,49,Voce vai ver,major,9,6,6
+JOBIM,49,Voce vai ver,major,10,7,11
+JOBIM,49,Voce vai ver,major,11,1,5
+JOBIM,49,Voce vai ver,major,12,6,3
+JOBIM,49,Voce vai ver,major,13,7,x
+JOBIM,49,Voce vai ver,major,14,1,5
+JOBIM,49,Voce vai ver,major,15,6,3
+JOBIM,49,Voce vai ver,major,16,7,1
+JOBIM,49,Voce vai ver,major,17,#4/b5,5
+JOBIM,49,Voce vai ver,major,18,6,7
+JOBIM,49,Voce vai ver,major,19,#6/b7,1
+JOBIM,49,Voce vai ver,major,20,5,6
+JOBIM,49,Voce vai ver,major,21,3,#11
+JOBIM,49,Voce vai ver,major,22,4,5
+JOBIM,49,Voce vai ver,major,23,5,x
+JOBIM,49,Voce vai ver,major,24,6,7
+JOBIM,49,Voce vai ver,major,25,3,#11
+JOBIM,49,Voce vai ver,major,26,5,7
+JOBIM,49,Voce vai ver,major,27,2,1
+JOBIM,49,Voce vai ver,major,28,3,9
+JOBIM,49,Voce vai ver,major,29,1,7
+JOBIM,49,Voce vai ver,major,30,2,1
+JOBIM,49,Voce vai ver,major,31,3,9
+JOBIM,49,Voce vai ver,major,32,1,7
+JOBIM,49,Voce vai ver,major,33,2,5
+JOBIM,49,Voce vai ver,major,34,3,x
+JOBIM,49,Voce vai ver,major,35,4,7
+JOBIM,49,Voce vai ver,major,36,6,x
+JOBIM,49,Voce vai ver,major,37,7,7
+JOBIM,49,Voce vai ver,major,38,5,5
+JOBIM,49,Voce vai ver,major,39,6,6
+JOBIM,49,Voce vai ver,major,40,7,7
+JOBIM,49,Voce vai ver,major,41,5,5
+JOBIM,49,Voce vai ver,major,42,6,6
+JOBIM,49,Voce vai ver,major,43,7,11
+JOBIM,49,Voce vai ver,major,44,1,5
+JOBIM,49,Voce vai ver,major,45,6,x
+JOBIM,49,Voce vai ver,major,46,7,11
+JOBIM,49,Voce vai ver,major,47,1,5
+JOBIM,49,Voce vai ver,major,48,6,x
+JOBIM,49,Voce vai ver,major,49,7,1
+JOBIM,49,Voce vai ver,major,50,6,7
+JOBIM,49,Voce vai ver,major,51,4,x
+JOBIM,49,Voce vai ver,major,52,#4/b5,5
+JOBIM,49,Voce vai ver,major,53,7,5
+JOBIM,49,Voce vai ver,major,54,#6/b7,5
+JOBIM,49,Voce vai ver,major,55,6,5
+JOBIM,49,Voce vai ver,major,56,3,9
+JOBIM,49,Voce vai ver,major,57,5,#11
+JOBIM,49,Voce vai ver,major,58,6,b13
+JOBIM,49,Voce vai ver,major,59,3,3
+JOBIM,49,Voce vai ver,major,60,5,5
+JOBIM,49,Voce vai ver,major,61,6,x
+JOBIM,49,Voce vai ver,major,62,7,7
+JOBIM,49,Voce vai ver,major,63,1,1
+JOBIM,49,Voce vai ver,major,64,6,x
+JOBIM,49,Voce vai ver,major,65,7,11
+JOBIM,49,Voce vai ver,major,66,1,5
+JOBIM,49,Voce vai ver,major,67,6,x
+JOBIM,49,Voce vai ver,major,68,7,11
+JOBIM,49,Voce vai ver,major,69,1,5
+JOBIM,49,Voce vai ver,major,70,6,x
+JOBIM,49,Voce vai ver,major,71,7,1
+JOBIM,49,Voce vai ver,major,72,#4/b5,5
+JOBIM,49,Voce vai ver,major,73,6,7
+JOBIM,49,Voce vai ver,major,74,#6/b7,1
+JOBIM,49,Voce vai ver,major,75,5,6
+JOBIM,49,Voce vai ver,major,76,3,#11
+JOBIM,49,Voce vai ver,major,77,4,5
+JOBIM,49,Voce vai ver,major,78,5,x
+JOBIM,49,Voce vai ver,major,79,6,7
+JOBIM,49,Voce vai ver,major,80,3,#11
+JOBIM,49,Voce vai ver,major,81,5,7
+JOBIM,49,Voce vai ver,major,82,2,1
+JOBIM,49,Voce vai ver,major,83,3,9
+JOBIM,49,Voce vai ver,major,84,1,7
+JOBIM,49,Voce vai ver,major,85,2,1
+JOBIM,49,Voce vai ver,major,86,3,9
+JOBIM,49,Voce vai ver,major,87,1,x
+JOBIM,49,Voce vai ver,major,88,2,5
+JOBIM,49,Voce vai ver,major,89,3,13
+JOBIM,49,Voce vai ver,major,90,4,7
+JOBIM,49,Voce vai ver,major,91,6,11
+JOBIM,49,Voce vai ver,major,92,7,5
+JOBIM,49,Voce vai ver,major,93,5,x
+JOBIM,49,Voce vai ver,major,94,6,11
+JOBIM,49,Voce vai ver,major,95,7,5
+JOBIM,49,Voce vai ver,major,96,5,x
+JOBIM,49,Voce vai ver,major,97,6,1
+JOBIM,49,Voce vai ver,major,98,7,9
+JOBIM,49,Voce vai ver,major,99,1,x
+JOBIM,49,Voce vai ver,major,100,#1/b2,x
+JOBIM,49,Voce vai ver,major,101,2,1
+JOBIM,49,Voce vai ver,major,102,3,9
+JOBIM,49,Voce vai ver,major,103,1,7
+JOBIM,49,Voce vai ver,major,104,2,1
+JOBIM,49,Voce vai ver,major,105,6,5
+JOBIM,49,Voce vai ver,major,106,7,x
+JOBIM,49,Voce vai ver,major,107,1,7
+JOBIM,49,Voce vai ver,major,108,2,1
+JOBIM,49,Voce vai ver,major,109,1,x
+JOBIM,49,Voce vai ver,major,110,7,3
+JOBIM,49,Voce vai ver,major,111,3,1
+JOBIM,49,Voce vai ver,major,112,5,7
+JOBIM,49,Voce vai ver,major,113,4,x
+JOBIM,49,Voce vai ver,major,114,3,5
+JOBIM,49,Voce vai ver,major,115,2,1
+JOBIM,49,Voce vai ver,major,116,3,9
+JOBIM,49,Voce vai ver,major,117,1,7
+JOBIM,49,Voce vai ver,major,118,2,1
+JOBIM,49,Voce vai ver,major,119,6,5
+JOBIM,49,Voce vai ver,major,120,7,x
+JOBIM,49,Voce vai ver,major,121,1,3
+JOBIM,49,Voce vai ver,major,122,2,5
+JOBIM,49,Voce vai ver,major,123,1,x
+JOBIM,49,Voce vai ver,major,124,7,3
+JOBIM,49,Voce vai ver,major,125,1,5
+JOBIM,50,Wave,major,1,6,3
+JOBIM,50,Wave,major,2,1,5
+JOBIM,50,Wave,major,3,7,x
+JOBIM,50,Wave,major,4,5,5
+JOBIM,50,Wave,major,5,3,3
+JOBIM,50,Wave,major,6,4,5
+JOBIM,50,Wave,major,7,#5/b6,1
+JOBIM,50,Wave,major,8,7,3
+JOBIM,50,Wave,major,9,2,5
+JOBIM,50,Wave,major,10,4,x
+JOBIM,50,Wave,major,11,3,b13
+JOBIM,50,Wave,major,12,5,1
+JOBIM,50,Wave,major,13,5,5
+JOBIM,50,Wave,major,14,6,x
+JOBIM,50,Wave,major,15,5,9
+JOBIM,50,Wave,major,16,4,1
+JOBIM,50,Wave,major,17,3,x
+JOBIM,50,Wave,major,18,4,1
+JOBIM,50,Wave,major,19,3,x
+JOBIM,50,Wave,major,20,4,1
+JOBIM,50,Wave,major,21,5,9
+JOBIM,50,Wave,major,22,3,1
+JOBIM,50,Wave,major,23,3,5
+JOBIM,50,Wave,major,24,5,7
+JOBIM,50,Wave,major,25,#4/b5,x
+JOBIM,50,Wave,major,26,4,b13
+JOBIM,50,Wave,major,27,3,5
+JOBIM,50,Wave,major,28,3,9
+JOBIM,50,Wave,major,29,1,7
+JOBIM,50,Wave,major,30,6,5
+JOBIM,50,Wave,major,31,1,7
+JOBIM,50,Wave,major,32,2,x
+JOBIM,50,Wave,major,33,#2/b3,5
+JOBIM,50,Wave,major,34,1,3
+JOBIM,50,Wave,major,35,#6/b7,9
+JOBIM,50,Wave,major,36,#4/b5,7
+JOBIM,50,Wave,major,37,4,7
+JOBIM,50,Wave,major,38,#2/b3,b13
+JOBIM,50,Wave,major,39,#2/b3,3
+JOBIM,50,Wave,major,40,1,1
+JOBIM,50,Wave,major,41,6,5
+JOBIM,50,Wave,major,42,5,11
+JOBIM,50,Wave,major,43,4,x
+JOBIM,50,Wave,major,44,3,9
+JOBIM,50,Wave,major,45,2,1
+JOBIM,50,Wave,major,46,3,9
+JOBIM,50,Wave,major,47,4,3
+JOBIM,50,Wave,major,48,6,5
+JOBIM,50,Wave,major,49,5,3
+JOBIM,50,Wave,major,50,6,9
+JOBIM,50,Wave,major,51,5,1
+JOBIM,50,Wave,major,52,4,7
+JOBIM,50,Wave,major,53,3,x
+JOBIM,50,Wave,major,54,2,1
+JOBIM,50,Wave,major,55,3,9
+JOBIM,50,Wave,major,56,4,3
+JOBIM,50,Wave,major,57,6,5
+JOBIM,50,Wave,major,58,5,3

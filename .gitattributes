@@ -1,0 +1,21 @@
+# Line endings
+#
+# Every text file in this repository is stored and checked out with LF
+# endings, on every platform. This is not cosmetic: the dataset's format
+# contract specifies LF, `scripts/mpb_corpus.py check` enforces it, and any
+# published checksum assumes it. Without the rules below, a clone on Windows
+# converts the CSVs to CRLF, the check then fails and the checksums do not
+# match — through no fault of the person verifying them.
+
+* text=auto eol=lf
+
+# Be explicit for the dataset itself rather than relying on auto-detection.
+*.csv   text eol=lf
+*.md    text eol=lf
+*.py    text eol=lf
+*.ipynb text eol=lf
+*.toml  text eol=lf
+*.lock  text eol=lf
+
+# Binary: never transformed, never diffed as text.
+*.pdf binary

@@ -1,0 +1,2239 @@
+corpus_id,composition_id,composition_name,chord_index,root,bass,chord_type,chord_symbol,functional_category,key,mode,position
+LINS,1,A cor do por do sol,1,11,11,z2.1,*m7.9.11,I,11,minor,1.0
+LINS,1,A cor do por do sol,2,6,6,z0,*m7,Vm7,11,minor,2.0
+LINS,1,A cor do por do sol,3,11,11,z2.1,*m7.9.11,I,11,minor,3.0
+LINS,1,A cor do por do sol,4,6,6,z0,*m7,Vm7,11,minor,4.0
+LINS,1,A cor do por do sol,5,11,11,z2.1,*m7.9.11,I,11,minor,5.0
+LINS,1,A cor do por do sol,6,6,6,z0,*m7,Vm7,11,minor,6.0
+LINS,1,A cor do por do sol,7,9,9,Y4,*7.13,V/III,11,minor,6.5
+LINS,1,A cor do por do sol,8,8,8,Y1.1,*4.7.9,V/II,11,minor,7.0
+LINS,1,A cor do por do sol,9,8,8,Y2,*7.9,V/II,11,minor,7.5
+LINS,1,A cor do por do sol,10,1,1,Y1.1.2,*4.7.9.13,V/V,11,minor,8.0
+LINS,1,A cor do por do sol,11,1,1,Y0,*7,V/V,11,minor,8.5
+LINS,1,A cor do por do sol,12,11,11,z2.1,*m7.9.11,I,11,minor,9.0
+LINS,1,A cor do por do sol,13,6,6,z0,*m7,Vm7,11,minor,10.0
+LINS,1,A cor do por do sol,14,11,11,z2.1,*m7.9.11,I,11,minor,11.0
+LINS,1,A cor do por do sol,15,6,6,z0,*m7,Vm7,11,minor,12.0
+LINS,1,A cor do por do sol,16,11,11,z2.1,*m7.9.11,I,11,minor,13.0
+LINS,1,A cor do por do sol,17,6,6,z0,*m7,Vm7,11,minor,14.0
+LINS,1,A cor do por do sol,18,9,9,Y4,*7.13,V/III,11,minor,14.5
+LINS,1,A cor do por do sol,19,8,8,Y1.1,*4.7.9,V/II,11,minor,15.0
+LINS,1,A cor do por do sol,20,8,8,Y2,*7.9,V/II,11,minor,15.5
+LINS,1,A cor do por do sol,21,1,1,Y1.1.2,*4.7.9.13,V/V,11,minor,16.0
+LINS,1,A cor do por do sol,22,1,1,Y0,*7,V/V,11,minor,16.5
+LINS,1,A cor do por do sol,23,2,2,Z2,*M7.9,I,2,major,17.0
+LINS,1,A cor do por do sol,24,11,3,Y0,*7,V/II,2,major,18.0
+LINS,1,A cor do por do sol,25,9,4,V1,*4,V,2,major,19.0
+LINS,1,A cor do por do sol,26,6,6,z2,*m7.9,III,2,major,19.5
+LINS,1,A cor do por do sol,27,2,2,z2.1,*m7.9.11,II,0,major,20.0
+LINS,1,A cor do por do sol,28,7,7,Y2.2,*7.9.13,V,0,major,20.5
+LINS,1,A cor do por do sol,29,0,0,Z2,*M7.9,I,0,major,21.0
+LINS,1,A cor do por do sol,30,0,0,Z2,*M7.9,bII7M,11,minor,21.5
+LINS,1,A cor do por do sol,31,6,6,z2,*m7.9,II__X,11,minor,22.0
+LINS,1,A cor do por do sol,32,11,11,Y0,*7,V/IV,11,minor,22.5
+LINS,1,A cor do por do sol,33,4,4,Y1.1,*4.7.9,IV7,11,minor,23.0
+LINS,1,A cor do por do sol,34,8,8,y0,*Ø,II__X,11,minor,24.0
+LINS,1,A cor do por do sol,35,1,1,Y2.3,*7(b9),V/V,11,minor,24.5
+LINS,1,A cor do por do sol,36,11,11,z2.1,*m7.9.11,I,11,minor,25.0
+LINS,1,A cor do por do sol,37,6,6,z0,*m7,Vm7,11,minor,26.0
+LINS,1,A cor do por do sol,38,11,11,z2.1,*m7.9.11,I,11,minor,27.0
+LINS,1,A cor do por do sol,39,6,6,z0,*m7,Vm7,11,minor,28.0
+LINS,1,A cor do por do sol,40,11,11,z2.1,*m7.9.11,I,11,minor,29.0
+LINS,1,A cor do por do sol,41,6,6,z0,*m7,Vm7,11,minor,30.0
+LINS,1,A cor do por do sol,42,9,9,Y4,*7.13,V/III,11,minor,30.5
+LINS,1,A cor do por do sol,43,8,8,Y1.1,*4.7.9,V/II,11,minor,31.0
+LINS,1,A cor do por do sol,44,8,8,Y2,*7.9,V/II,11,minor,31.5
+LINS,1,A cor do por do sol,45,1,1,Y1.1.2,*4.7.9.13,V/V,11,minor,32.0
+LINS,1,A cor do por do sol,46,1,1,Y0,*7,V/V,11,minor,32.5
+LINS,1,A cor do por do sol,47,6,6,z2,*m7.9,Vm7,11,minor,33.0
+LINS,1,A cor do por do sol,48,7,7,z2,*m7.9,III,3,major,35.0
+LINS,1,A cor do por do sol,49,3,3,Z2,*M7.9,I,3,major,36.0
+LINS,1,A cor do por do sol,50,0,4,Y0,*7,V/II,3,major,37.0
+LINS,1,A cor do por do sol,51,10,5,V2,*9,V,3,major,38.0
+LINS,1,A cor do por do sol,52,7,7,z2,*m7.9,III,3,major,38.5
+LINS,1,A cor do por do sol,53,3,3,z2.1,*m7.9.11,II,1,major,39.0
+LINS,1,A cor do por do sol,54,8,8,Y2.2,*7.9.13,V,1,major,39.5
+LINS,1,A cor do por do sol,55,1,1,Z2,*M7.9,I,1,major,40.0
+LINS,1,A cor do por do sol,56,1,1,Z1.1,*6.9,I,1,major,40.5
+LINS,1,A cor do por do sol,57,7,7,z2,*m7.9,II__X,1,major,41.0
+LINS,1,A cor do por do sol,58,0,0,Y0,*7,V/III,1,major,41.5
+LINS,1,A cor do por do sol,59,5,5,Y1.1,*4.7.9,V/VI,1,major,42.0
+LINS,1,A cor do por do sol,60,9,9,y0,*Ø,II__X,0,minor,43.0
+LINS,1,A cor do por do sol,61,2,2,Y2.3,*7(b9),V/V,0,minor,43.5
+LINS,1,A cor do por do sol,62,0,0,z2.1,*m7.9.11,I,0,minor,44.0
+LINS,1,A cor do por do sol,63,7,7,z0,*m7,Vm7,0,minor,45.0
+LINS,1,A cor do por do sol,64,0,0,z2.1,*m7.9.11,I,0,minor,46.0
+LINS,1,A cor do por do sol,65,7,7,z0,*m7,Vm7,0,minor,47.0
+LINS,1,A cor do por do sol,66,0,0,z2.1,*m7.9.11,I,0,minor,48.0
+LINS,1,A cor do por do sol,67,7,7,z0,*m7,Vm7,0,minor,49.0
+LINS,1,A cor do por do sol,68,10,10,Y4.1,*7(b13),SubV/II,7,minor,49.5
+LINS,1,A cor do por do sol,69,9,9,Y1.1,*4.7.9,V/V,7,minor,50.0
+LINS,1,A cor do por do sol,70,9,9,Y2,*7.9,V/V,7,minor,50.5
+LINS,1,A cor do por do sol,71,2,2,Y1.1.2,*4.7.9.13,V,7,minor,51.0
+LINS,1,A cor do por do sol,72,2,2,Y0,*7,V,7,minor,51.5
+LINS,1,A cor do por do sol,73,7,7,z2,*m7.9,I,7,minor,52.0
+LINS,2,A noite,1,6,6,V0,*,I,6,major,1.0
+LINS,2,A noite,2,6,6,Y0,*7,V/IV,6,major,1.5
+LINS,2,A noite,3,11,3,Z0,*M7,IV,6,major,2.0
+LINS,2,A noite,4,1,1,Y2,*7.9,V/V,6,major,2.5
+LINS,2,A noite,5,11,6,z0,*m7,IVm7,6,major,3.0
+LINS,2,A noite,6,11,6,z1,*m6,IVm7,6,major,3.5
+LINS,2,A noite,7,11,6,z0,*m7,IVm7,6,major,4.0
+LINS,2,A noite,8,11,6,z1,*m6,IVm7,6,major,4.5
+LINS,2,A noite,9,4,4,z0,*m7,II__X,6,major,5.0
+LINS,2,A noite,10,9,9,Y0,*7,SubV/II,6,major,5.5
+LINS,2,A noite,11,8,8,z2,*m7.9,II,6,major,6.0
+LINS,2,A noite,12,1,1,Y4,*7.13,V,6,major,6.5
+LINS,2,A noite,13,6,6,Z0,*M7,I,6,major,7.0
+LINS,2,A noite,14,9,9,Y4,*7.13,SubV/II,6,major,7.5
+LINS,2,A noite,15,8,8,z0,*m7,II,6,major,8.0
+LINS,2,A noite,16,10,10,z0,*m7,III,6,major,8.25
+LINS,2,A noite,17,11,11,z0,*m7,II,9,major,8.5
+LINS,2,A noite,18,4,4,Y2,*7.9,V,9,major,8.75
+LINS,2,A noite,19,9,9,Z0,*M7,I,9,major,9.0
+LINS,2,A noite,20,9,9,Y4,*7.13,V/IV,9,major,9.5
+LINS,2,A noite,21,2,9,Z0,*M7,IV,9,major,10.0
+LINS,2,A noite,22,7,7,Y1.1,*4.7.9,bVII7,9,major,10.5
+LINS,2,A noite,23,7,7,Y2,*7.9,bVII7M,9,major,10.75
+LINS,2,A noite,24,9,4,Z0,*M7,I,9,major,11.0
+LINS,2,A noite,25,1,1,Y2.4,*7(#9),V/VI,9,major,11.5
+LINS,2,A noite,26,6,6,z0,*m7,VI,9,major,12.0
+LINS,2,A noite,27,9,4,Y0,*7,V/IV,9,major,12.5
+LINS,2,A noite,28,3,3,y0,*Ø,II__X,9,major,13.0
+LINS,2,A noite,29,8,8,W0,*(#5)7,V/III,9,major,13.5
+LINS,2,A noite,30,1,1,Y1.1,*4.7.9,V/VI,9,major,14.0
+LINS,2,A noite,31,1,1,Y1.1.2.2,*4.7(b9)13,V/VI,9,major,15.0
+LINS,2,A noite,32,1,1,Y2.2.1,*7(b9)13,V/VI,6,major,15.5
+LINS,2,A noite,33,6,6,V0,*,I,6,major,16.0
+LINS,2,A noite,34,6,6,Y0,*7,V/IV,6,major,16.5
+LINS,2,A noite,35,11,3,Z0,*M7,IV,6,major,17.0
+LINS,2,A noite,36,1,1,Y2,*7.9,V/V,6,major,17.5
+LINS,2,A noite,37,11,6,z0,*m7,IVm7,6,major,18.0
+LINS,2,A noite,38,11,6,z1,*m6,IVm7,6,major,18.5
+LINS,2,A noite,39,11,6,z0,*m7,IVm7,6,major,19.0
+LINS,2,A noite,40,11,6,z1,*m6,IVm7,6,major,19.5
+LINS,2,A noite,41,4,4,z0,*m7,II__X,6,major,20.0
+LINS,2,A noite,42,9,9,Y0,*7,SubV/II,6,major,20.5
+LINS,2,A noite,43,8,8,z2,*m7.9,II,6,major,21.0
+LINS,2,A noite,44,1,1,Y4,*7.13,V,6,major,21.5
+LINS,2,A noite,45,6,6,Z0,*M7,I,6,major,22.0
+LINS,2,A noite,46,9,9,Y4,*7.13,SubV/II,6,major,22.5
+LINS,2,A noite,47,8,8,z2,*m7.9,II,6,major,23.0
+LINS,2,A noite,48,1,1,Y2.2.1,*7(b9)13,V,6,major,23.5
+LINS,2,A noite,49,11,11,Z0,*M7,IV,6,major,24.0
+LINS,2,A noite,50,11,10,Z0,*M7,IV,6,major,24.75
+LINS,2,A noite,51,8,8,z0,*m7,II,6,major,27.0
+LINS,2,A noite,52,7,7,Z3,*M7(#11),bII7M,6,major,27.5
+LINS,2,A noite,53,6,6,Z3,*M7(#11),I,6,major,28.0
+LINS,3,Abre alas,1,11,11,z2,*m7.9,II,9,major,1.0
+LINS,3,Abre alas,2,4,4,Y1,*4.7,V,9,major,2.0
+LINS,3,Abre alas,3,6,6,z0,*m7,VI,9,major,3.0
+LINS,3,Abre alas,4,11,11,z2,*m7.9,II,9,major,5.0
+LINS,3,Abre alas,5,4,4,Y1,*4.7,V,9,major,6.0
+LINS,3,Abre alas,6,6,6,z0,*m7,VI,9,major,7.0
+LINS,3,Abre alas,7,2,2,V1,*4,IV,9,major,9.0
+LINS,3,Abre alas,8,4,2,Y0,*7,V,9,major,10.0
+LINS,3,Abre alas,9,9,1,Z0,*M7,I,9,major,11.0
+LINS,3,Abre alas,10,6,6,z2,*m7.9,VI,9,major,12.0
+LINS,3,Abre alas,11,11,11,z2,*m7.9,II,9,major,13.0
+LINS,3,Abre alas,12,4,4,Y1.3,*4.7.13,V,9,major,14.0
+LINS,3,Abre alas,13,4,4,Y0,*7,V,9,major,14.5
+LINS,3,Abre alas,14,9,9,Z0,*M7,I,9,major,15.0
+LINS,3,Abre alas,15,9,9,Z4,*(#5)M7,I,9,major,15.5
+LINS,3,Abre alas,16,9,9,Z5,*6.M7,I,9,major,16.0
+LINS,3,Abre alas,17,9,9,Y0,*7,V/IV,9,major,16.5
+LINS,3,Abre alas,18,2,2,V1,*4,IV,9,major,17.0
+LINS,3,Abre alas,19,4,2,Y0,*7,V,9,major,18.0
+LINS,3,Abre alas,20,9,1,Z0,*M7,I,9,major,19.0
+LINS,3,Abre alas,21,6,6,z2,*m7.9,VI,9,major,20.0
+LINS,3,Abre alas,22,11,11,z2,*m7.9,II,9,major,21.0
+LINS,3,Abre alas,23,4,4,Y1.3,*4.7.13,V,9,major,22.0
+LINS,3,Abre alas,24,4,4,Y0,*7,V,9,major,22.5
+LINS,3,Abre alas,25,1,1,Y0,*7,V/VI,9,major,23.0
+LINS,4,Acaso,1,11,11,z2.1,*m7.9.11,II,9,major,1.0
+LINS,4,Acaso,2,4,4,Y1.1,*4.7.9,V,9,major,2.0
+LINS,4,Acaso,3,4,4,Y2,*7.9,V,9,major,2.5
+LINS,4,Acaso,4,6,6,z2,*m7.9,VI,9,major,3.0
+LINS,4,Acaso,5,6,6,z1.1,*m6.9,VI,9,major,4.5
+LINS,4,Acaso,6,11,11,z2.1,*m7.9.11,II,9,major,5.0
+LINS,4,Acaso,7,4,4,Y1.1,*4.7.9,V,9,major,6.0
+LINS,4,Acaso,8,4,4,Y2,*7.9,V,9,major,6.5
+LINS,4,Acaso,9,6,6,z2,*m7.9,VI,9,major,7.0
+LINS,4,Acaso,10,6,6,z1.1,*m6.9,VI,9,major,8.5
+LINS,4,Acaso,11,2,2,Z2,*M7.9,IV,9,major,9.0
+LINS,4,Acaso,12,7,7,Y1.1.2,*4.7.9.13,bVII7,9,major,10.0
+LINS,4,Acaso,13,7,7,Y2.2,*7.9.13,bVII7,9,major,10.5
+LINS,4,Acaso,14,9,1,Z2,*M7.9,I,9,major,11.0
+LINS,4,Acaso,15,6,6,Y4.1,*7(b13),V/II,9,major,12.0
+LINS,4,Acaso,16,6,6,Y0,*7,V/II,9,major,12.5
+LINS,4,Acaso,17,11,11,Y2,*7.9,V/V,9,major,13.0
+LINS,4,Acaso,18,11,11,Y1.1,*4.7.9,V/V,9,major,13.5
+LINS,4,Acaso,19,11,11,Y2.1,*7.9(#11),V/V,9,major,14.0
+LINS,4,Acaso,20,11,11,Y2,*7.9,V/V,9,major,14.5
+LINS,4,Acaso,21,4,4,Y1.1,*4.7.9,V,9,major,15.0
+LINS,4,Acaso,22,8,8,y0,*Ø,II__X,9,major,16.0
+LINS,4,Acaso,23,1,1,Y2.3,*7(b9),V/VI,9,major,16.5
+LINS,4,Acaso,24,11,11,z2.1,*m7.9.11,II,9,major,17.0
+LINS,4,Acaso,25,4,4,Y1.1,*4.7.9,V,9,major,18.0
+LINS,4,Acaso,26,4,4,Y2,*7.9,V,9,major,18.5
+LINS,4,Acaso,27,6,6,z2,*m7.9,VI,9,major,19.0
+LINS,4,Acaso,28,6,6,z1.1,*m6.9,VI,9,major,20.5
+LINS,4,Acaso,29,11,11,z2.1,*m7.9.11,II,9,major,21.0
+LINS,4,Acaso,30,4,4,Y1.1,*4.7.9,V,9,major,22.0
+LINS,4,Acaso,31,4,4,Y2,*7.9,V,9,major,22.5
+LINS,4,Acaso,32,5,9,Z3,*M7(#11),bVI7M,9,major,23.0
+LINS,4,Acaso,33,9,9,Z2,*M7.9,I,9,major,24.0
+LINS,4,Acaso,34,11,11,z2.1,*m7.9.11,II,9,major,25.0
+LINS,4,Acaso,35,4,4,Y1.3,*4.7.13,V,9,major,26.0
+LINS,4,Acaso,36,2,2,z2,*m7.9,IVm7,9,major,26.5
+LINS,4,Acaso,37,3,3,z2.1,*m7.9.11,III,9,major,27.0
+LINS,4,Acaso,38,6,6,z2,*m7.9,VI,9,major,28.0
+LINS,4,Acaso,39,6,6,y1,*Ø.9,VI,9,major,28.5
+LINS,4,Acaso,40,11,11,z2.1,*m7.9.11,II,9,major,29.0
+LINS,4,Acaso,41,4,4,Y1.3,*4.7.13,V,9,major,30.0
+LINS,4,Acaso,42,4,4,Y2.3,*7(b9),V,9,major,30.5
+LINS,4,Acaso,43,6,6,z2.1,*m7.9.11,VI,9,major,31.0
+LINS,4,Acaso,44,6,6,z1.1,*m6.9,VI,9,major,32.0
+LINS,5,Agora,1,0,0,V0,*,I,0,major,1.0
+LINS,5,Agora,2,0,0,Z0,*M7,I,0,major,2.0
+LINS,5,Agora,3,0,0,Z1,*6,I,0,major,3.0
+LINS,5,Agora,4,0,0,Z0,*M7,I,0,major,4.0
+LINS,5,Agora,5,0,0,Y0,*7,V/IV,0,major,4.5
+LINS,5,Agora,6,5,5,Z0,*M7,IV,0,major,5.0
+LINS,5,Agora,7,11,11,z2,*m7.9,II__X,0,major,6.0
+LINS,5,Agora,8,4,4,Y2.3,*7(b9),V/VI,0,major,6.5
+LINS,5,Agora,9,9,9,v1,*m.9,VI,0,major,7.0
+LINS,5,Agora,10,9,9,y0,*Ø,VI,0,major,8.0
+LINS,5,Agora,11,9,9,z2,*m7.9,VI,0,major,8.5
+LINS,5,Agora,12,2,2,Y1.1,*4.7.9,V/V,0,major,9.0
+LINS,5,Agora,13,3,3,Z2,*M7.9,I,3,major,10.0
+LINS,5,Agora,14,2,2,Y1.1,*4.7.9,aSubV,3,major,11.0
+LINS,5,Agora,15,3,3,Z2,*M7.9,I,3,major,12.0
+LINS,5,Agora,16,5,5,Y1.1,*4.7.9,V/V,3,major,12.5
+LINS,5,Agora,17,10,10,V1,*4,V,3,major,13.0
+LINS,5,Agora,18,2,9,z0,*m7,VIIm7,3,major,13.5
+LINS,5,Agora,19,7,7,z0,*m7,III,3,major,14.0
+LINS,5,Agora,20,10,5,V0,*,V,3,major,14.5
+LINS,5,Agora,21,10,10,Y1.1,*4.7.9,V,3,major,15.0
+LINS,5,Agora,22,3,3,Z2,*M7.9,I,3,major,17.0
+LINS,5,Agora,23,2,2,z2,*m7.9,II,0,major,18.0
+LINS,5,Agora,24,7,7,Y1.1,*4.7.9,V,0,major,18.5
+LINS,5,Agora,25,0,0,V1,*4,I,0,major,19.0
+LINS,5,Agora,26,10,10,V1,*4,bVII7M,0,major,20.0
+LINS,5,Agora,27,0,0,V1,*4,I,0,major,21.0
+LINS,5,Agora,28,10,10,V1,*4,bVII7M,0,major,22.0
+LINS,5,Agora,29,0,0,V1,*4,I,0,major,23.0
+LINS,6,Ai ai ai,1,7,7,z2,*m7.9,I,7,minor,1.0
+LINS,6,Ai ai ai,2,7,2,z1,*m6,I,7,minor,1.5
+LINS,6,Ai ai ai,3,7,7,z2,*m7.9,I,7,minor,2.0
+LINS,6,Ai ai ai,4,7,2,z1,*m6,I,7,minor,2.5
+LINS,6,Ai ai ai,5,0,0,z0,*m7,IV,7,minor,3.0
+LINS,6,Ai ai ai,6,0,0,z1,*m6,IV,7,minor,3.5
+LINS,6,Ai ai ai,7,0,0,z0,*m7,IV,7,minor,4.0
+LINS,6,Ai ai ai,8,0,0,z1,*m6,IV,7,minor,4.5
+LINS,6,Ai ai ai,9,5,5,Y1.1,*4.7.9,bVII7,7,minor,5.0
+LINS,6,Ai ai ai,10,5,5,Y2,*7.9,bVII7,7,minor,5.5
+LINS,6,Ai ai ai,11,5,5,Y1.1,*4.7.9,bVII7,7,minor,6.0
+LINS,6,Ai ai ai,12,5,5,Y2,*7.9,bVII7,7,minor,6.5
+LINS,6,Ai ai ai,13,7,7,z2,*m7.9,I,7,minor,7.0
+LINS,6,Ai ai ai,14,7,2,z1,*m6,I,7,minor,7.5
+LINS,6,Ai ai ai,15,7,7,z2,*m7.9,I,7,minor,8.0
+LINS,6,Ai ai ai,16,7,2,z1,*m6,I,7,minor,8.5
+LINS,6,Ai ai ai,17,10,10,V1,*4,I,10,major,9.0
+LINS,6,Ai ai ai,18,0,10,Y0,*7,V/V,10,major,9.5
+LINS,6,Ai ai ai,19,10,10,V1,*4,I,10,major,10.0
+LINS,6,Ai ai ai,20,0,10,Y0,*7,V/V,10,major,10.5
+LINS,6,Ai ai ai,21,5,9,V0,*,V,10,major,11.0
+LINS,6,Ai ai ai,22,10,10,Y1.1,*4.7.9,V/IV,10,major,12.0
+LINS,6,Ai ai ai,23,10,10,Y2,*7.9,V/IV,10,major,12.5
+LINS,6,Ai ai ai,24,9,9,z3,*m7.11,II,7,minor,13.0
+LINS,6,Ai ai ai,25,2,2,Y2.3,*7(b9),V,7,minor,13.5
+LINS,6,Ai ai ai,26,9,9,z3,*m7.11,II,7,minor,14.0
+LINS,6,Ai ai ai,27,2,2,Y2.3,*7(b9),V,7,minor,14.5
+LINS,6,Ai ai ai,28,7,7,z2,*m7.9,I,7,minor,15.0
+LINS,6,Ai ai ai,29,7,2,z1,*m6,I,7,minor,15.5
+LINS,6,Ai ai ai,30,7,7,z2,*m7.9,I,7,minor,16.0
+LINS,6,Ai ai ai,31,7,2,z1,*m6,I,7,minor,16.5
+LINS,7,Ainda te procuro,1,1,1,z0,*m7,I,1,minor,1.0
+LINS,7,Ainda te procuro,2,9,9,Z1.1.1,*6.9(#11),VI,1,minor,1.5
+LINS,7,Ainda te procuro,3,8,8,Y4.1,*7(b13),V,1,minor,2.0
+LINS,7,Ainda te procuro,4,1,1,z3,*m7.11,I,1,minor,2.5
+LINS,7,Ainda te procuro,5,6,6,Y1.1.2,*4.7.9.13,IV7,1,minor,3.0
+LINS,7,Ainda te procuro,6,6,6,Y2.2,*7.9.13,IV7,1,minor,3.5
+LINS,7,Ainda te procuro,7,9,1,Z0,*M7,VI,1,minor,4.0
+LINS,7,Ainda te procuro,8,11,11,Y2.2,*7.9.13,bVII7,1,minor,4.5
+LINS,7,Ainda te procuro,9,1,1,z0,*m7,I,1,minor,5.0
+LINS,7,Ainda te procuro,10,9,9,Z1.1.1,*6.9(#11),VI,1,minor,5.5
+LINS,7,Ainda te procuro,11,8,8,Y4.1,*7(b13),V,1,minor,6.0
+LINS,7,Ainda te procuro,12,1,1,z3,*m7.11,I,1,minor,6.5
+LINS,7,Ainda te procuro,13,6,6,Y1.1.2,*4.7.9.13,IV7,1,minor,7.0
+LINS,7,Ainda te procuro,14,6,6,Y2.2,*7.9.13,IV7,1,minor,7.5
+LINS,7,Ainda te procuro,15,9,1,Z0,*M7,VI,1,minor,8.0
+LINS,7,Ainda te procuro,16,11,11,Y2.2,*7.9.13,bVII7,1,minor,8.5
+LINS,7,Ainda te procuro,17,3,3,y0,*Ø,II,1,minor,9.0
+LINS,7,Ainda te procuro,18,8,8,Y0,*7,V,1,minor,9.5
+LINS,7,Ainda te procuro,19,1,1,w1,*mM7.9,I,1,minor,10.0
+LINS,7,Ainda te procuro,20,1,1,z2,*m7.9,I,1,minor,10.25
+LINS,7,Ainda te procuro,21,11,11,z3,*m7.11,II__X,1,minor,10.5
+LINS,7,Ainda te procuro,22,4,4,Y2.2,*7.9.13,V/VI,1,minor,10.75
+LINS,7,Ainda te procuro,23,10,10,z3,*m7.11,II,8,minor,11.0
+LINS,7,Ainda te procuro,24,3,3,Y2.2.1.1,*7(b9.b13),V,8,minor,11.5
+LINS,7,Ainda te procuro,25,8,8,z2,*m7.9,I,8,minor,12.0
+LINS,7,Ainda te procuro,26,6,6,z2,*m7.9,II__X,9,major,13.0
+LINS,7,Ainda te procuro,27,11,11,Y4,*7.13,V/V,9,major,13.5
+LINS,7,Ainda te procuro,28,11,11,Y0,*7,V/V,9,major,13.75
+LINS,7,Ainda te procuro,29,4,4,Y1.1,*4.7.9,V,9,major,14.0
+LINS,7,Ainda te procuro,30,4,8,Y2,*7.9,V,9,major,14.25
+LINS,7,Ainda te procuro,31,9,9,Y1.1.2,*4.7.9.13,V/IV,9,major,14.5
+LINS,7,Ainda te procuro,32,1,1,y0,*Ø,IIIm7(b5),9,major,14.75
+LINS,7,Ainda te procuro,33,3,3,z3,*m7.11,II,1,minor,15.0
+LINS,7,Ainda te procuro,34,8,8,Y2.3,*7(b9),V,1,minor,15.5
+LINS,7,Ainda te procuro,35,1,1,z3,*m7.11,I,1,minor,16.0
+LINS,7,Ainda te procuro,36,9,9,Z1.1,*6.9,VI,1,minor,16.5
+LINS,7,Ainda te procuro,37,11,11,V0,*,bVII7M,1,minor,16.75
+LINS,7,Ainda te procuro,38,1,1,z3,*m7.11,I,1,minor,17.0
+LINS,7,Ainda te procuro,39,9,9,Z1.1,*6.9,VI,1,minor,17.5
+LINS,7,Ainda te procuro,40,11,11,V0,*,bVII7M,1,minor,17.75
+LINS,7,Ainda te procuro,41,1,1,z0,*m7,I,1,minor,18.0
+LINS,7,Ainda te procuro,42,9,9,Z1.1.1,*6.9(#11),VI,1,minor,18.5
+LINS,7,Ainda te procuro,43,8,8,Y4.1,*7(b13),V,1,minor,19.0
+LINS,7,Ainda te procuro,44,1,1,z3,*m7.11,I,1,minor,19.5
+LINS,7,Ainda te procuro,45,6,6,Y1.1.2,*4.7.9.13,IV7,1,minor,20.0
+LINS,7,Ainda te procuro,46,6,6,Y2.2,*7.9.13,IV7,1,minor,20.5
+LINS,7,Ainda te procuro,47,9,1,Z0,*M7,VI,1,minor,21.0
+LINS,7,Ainda te procuro,48,11,11,Y2.2,*7.9.13,bVII7,1,minor,21.5
+LINS,7,Ainda te procuro,49,1,1,z0,*m7,I,1,minor,22.0
+LINS,7,Ainda te procuro,50,9,9,Z1.1.1,*6.9(#11),VI,1,minor,22.5
+LINS,7,Ainda te procuro,51,8,8,Y4.1,*7(b13),V,1,minor,23.0
+LINS,7,Ainda te procuro,52,1,1,z3,*m7.11,I,1,minor,23.5
+LINS,7,Ainda te procuro,53,6,6,Y1.1.2,*4.7.9.13,IV7,1,minor,24.0
+LINS,7,Ainda te procuro,54,6,6,Y2.2,*7.9.13,IV7,1,minor,24.5
+LINS,7,Ainda te procuro,55,9,1,Z0,*M7,VI,1,minor,25.0
+LINS,7,Ainda te procuro,56,11,11,Y2.2,*7.9.13,bVII7,1,minor,25.5
+LINS,7,Ainda te procuro,57,1,1,z0,*m7,I,1,minor,26.0
+LINS,7,Ainda te procuro,58,9,9,Z1.1,*6.9,VI,1,minor,26.5
+LINS,7,Ainda te procuro,59,11,11,V0,*,bVII7M,1,minor,26.75
+LINS,7,Ainda te procuro,60,1,1,z0,*m7,I,1,minor,27.0
+LINS,7,Ainda te procuro,61,9,9,Z1.1,*6.9,VI,1,minor,27.5
+LINS,7,Ainda te procuro,62,11,11,V0,*,bVII7M,1,minor,27.75
+LINS,7,Ainda te procuro,63,1,1,z0,*m7,I,1,minor,28.0
+LINS,7,Ainda te procuro,64,9,9,Z1.1,*6.9,VI,1,minor,28.5
+LINS,7,Ainda te procuro,65,11,11,V0,*,bVII7M,1,minor,28.75
+LINS,7,Ainda te procuro,66,6,6,V0,*,I,6,major,29.0
+LINS,8,Amor,1,4,4,V1,*4,I,4,major,1.0
+LINS,8,Amor,2,1,1,z2,*m7.9,VI,4,major,2.0
+LINS,8,Amor,3,8,8,z2,*m7.9,III,4,major,3.0
+LINS,8,Amor,4,8,8,z3,*m7.11,III,4,major,4.0
+LINS,8,Amor,5,2,6,Z2,*M7.9,bVII7M,4,major,5.0
+LINS,8,Amor,6,4,4,Y1.1.3,*4.7(b9),V/IV,4,major,6.0
+LINS,8,Amor,7,4,4,Y4,*7.13,V/IV,4,major,6.5
+LINS,8,Amor,8,9,9,Z0,*M7,IV,4,major,7.0
+LINS,8,Amor,9,9,9,Z1,*6,IV,4,major,7.5
+LINS,8,Amor,10,9,9,Z4,*(#5)M7,IV,4,major,8.0
+LINS,8,Amor,11,9,9,Z5,*6.M7,IV,4,major,8.5
+LINS,8,Amor,12,3,3,Y1,*4.7,V/III,4,major,9.0
+LINS,8,Amor,13,3,3,Y0,*7,V/III,4,major,9.5
+LINS,8,Amor,14,8,8,Y1,*4.7,V/VI,4,major,10.0
+LINS,8,Amor,15,8,8,Y0,*7,V/VI,4,major,10.5
+LINS,8,Amor,16,1,1,Z0,*M7,VIM7,4,major,11.0
+LINS,8,Amor,17,0,0,Y1.1,*4.7.9,SubV/V,4,major,12.0
+LINS,8,Amor,18,0,0,Y2,*7.9,SubV/V,4,major,12.5
+LINS,8,Amor,19,5,5,Z0,*M7,bII7M,4,major,13.0
+LINS,8,Amor,20,6,6,y0,*Ø,IIm7(b5),4,major,14.0
+LINS,8,Amor,21,11,11,Y2.4,*7(#9),V,4,major,14.5
+LINS,8,Amor,22,4,4,Z2,*M7.9,I,4,major,15.0
+LINS,8,Amor,23,11,11,Y1.1,*4.7.9,V,4,major,16.0
+LINS,8,Amor,24,2,2,Y1.1.2,*4.7.9.13,bVII7,4,major,16.5
+LINS,8,Amor,25,2,2,Y2.2,*7.9.13,bVII7,4,major,16.75
+LINS,8,Amor,26,4,4,V1,*4,I,4,major,17.0
+LINS,8,Amor,27,1,1,z2,*m7.9,VI,4,major,18.0
+LINS,8,Amor,28,8,8,z2,*m7.9,III,4,major,19.0
+LINS,8,Amor,29,8,8,z3,*m7.11,III,4,major,20.0
+LINS,8,Amor,30,2,6,Z2,*M7.9,bVII7M,4,major,21.0
+LINS,8,Amor,31,4,4,Y1.1.3,*4.7(b9),V/IV,4,major,22.0
+LINS,8,Amor,32,4,4,Y4,*7.13,V/IV,4,major,22.5
+LINS,8,Amor,33,9,9,Z0,*M7,IV,4,major,23.0
+LINS,8,Amor,34,9,9,Z1,*6,IV,4,major,23.5
+LINS,8,Amor,35,9,9,Z4,*(#5)M7,IV,4,major,24.0
+LINS,8,Amor,36,9,9,Z5,*6.M7,IV,4,major,24.5
+LINS,8,Amor,37,3,3,Y1,*4.7,V/III,4,major,25.0
+LINS,8,Amor,38,3,3,Y0,*7,V/III,4,major,25.5
+LINS,8,Amor,39,8,8,Y1,*4.7,V/VI,4,major,26.0
+LINS,8,Amor,40,8,8,Y0,*7,V/VI,4,major,26.5
+LINS,8,Amor,41,1,1,Z0,*M7,VIM7,4,major,27.0
+LINS,8,Amor,42,0,0,Y1.1,*4.7.9,SubV/V,4,major,28.0
+LINS,8,Amor,43,0,0,Y2,*7.9,SubV/V,4,major,28.5
+LINS,8,Amor,44,5,5,Z0,*M7,bII7M,4,major,29.0
+LINS,8,Amor,45,6,6,y0,*Ø,IIm7(b5),4,major,30.0
+LINS,8,Amor,46,11,11,Y2.4,*7(#9),V,4,major,30.5
+LINS,8,Amor,47,4,4,Z2,*M7.9,I,4,major,31.0
+LINS,8,Amor,48,4,4,Y1.3,*4.7.13,V/IV,4,major,32.0
+LINS,8,Amor,49,4,4,Y4,*7.13,V/IV,4,major,32.5
+LINS,8,Amor,50,9,9,Z2,*M7.9,IV,4,major,33.0
+LINS,8,Amor,51,2,2,Y1.1.2,*4.7.9.13,bVII7,4,major,34.0
+LINS,8,Amor,52,2,2,Y2.2,*7.9.13,bVII7,4,major,34.5
+LINS,8,Amor,53,4,8,Z0,*M7,I,4,major,35.0
+LINS,8,Amor,54,7,7,Z2,*M7.9,bIII7M,4,major,36.0
+LINS,8,Amor,55,7,7,Z1,*6,bIII7M,4,major,36.5
+LINS,8,Amor,56,6,6,z0,*m7,II,4,major,37.0
+LINS,8,Amor,57,11,11,Y1.1,*4.7.9,V,4,major,38.0
+LINS,8,Amor,58,11,11,Y2,*7.9,V,4,major,38.5
+LINS,8,Amor,59,4,4,Z2,*M7.9,I,4,major,39.0
+LINS,9,Anjo de mim,1,11,11,z2,*m7.9,II,9,major,1.0
+LINS,9,Anjo de mim,2,4,4,Y1.1.2,*4.7.9.13,V,9,major,2.0
+LINS,9,Anjo de mim,3,4,4,Y1.1.2,*4.7.9.13,V,9,major,2.25
+LINS,9,Anjo de mim,4,4,4,Y1.1.3,*4.7(b9),V,9,major,2.5
+LINS,9,Anjo de mim,5,4,4,Y2.3,*7(b9),V,9,major,2.75
+LINS,9,Anjo de mim,6,9,9,Z5,*6.M7,I,9,major,3.0
+LINS,9,Anjo de mim,7,6,6,z2.1,*m7.9.11,VI,9,major,4.0
+LINS,9,Anjo de mim,8,6,6,y1,*Ø.9,VI,9,major,4.25
+LINS,9,Anjo de mim,9,6,6,z0,*m7,VI,9,major,4.75
+LINS,9,Anjo de mim,10,11,11,z2,*m7.9,II,9,major,5.0
+LINS,9,Anjo de mim,11,4,4,Y1.1.3,*4.7(b9),V,9,major,6.0
+LINS,9,Anjo de mim,12,5,5,x4,*°7.14,V°/VI,9,major,6.5
+LINS,9,Anjo de mim,13,6,6,z2,*m7.9,VI,9,major,7.0
+LINS,9,Anjo de mim,14,9,9,Y2.2,*7.9.13,V/IV,9,major,8.0
+LINS,9,Anjo de mim,15,9,9,Y2.3,*7(b9),V/IV,9,major,8.5
+LINS,9,Anjo de mim,16,2,2,Z2,*M7.9,IV,9,major,9.0
+LINS,9,Anjo de mim,17,11,11,z2.1,*m7.9.11,II,9,major,9.5
+LINS,9,Anjo de mim,18,7,7,Y1.1.2,*4.7.9.13,bVII7,9,major,10.0
+LINS,9,Anjo de mim,19,7,7,Y2.2,*7.9.13,bVII7,9,major,10.5
+LINS,9,Anjo de mim,20,1,1,Y4,*7.13,V/VI,9,major,11.0
+LINS,9,Anjo de mim,21,1,1,Y4.1,*7(b13),V/VI,9,major,11.5
+LINS,9,Anjo de mim,22,6,6,Y1.1,*4.7.9,V/II,9,major,12.0
+LINS,9,Anjo de mim,23,6,6,Y2.3,*7(b9),V/II,9,major,12.5
+LINS,9,Anjo de mim,24,0,0,z2,*m7.9,II__X,9,major,13.0
+LINS,9,Anjo de mim,25,5,5,Y2,*7.9,SubV/VI,9,major,13.5
+LINS,9,Anjo de mim,26,11,11,z0,*m7,II,9,major,14.0
+LINS,9,Anjo de mim,27,9,9,z3,*m7.11,Im7,9,major,14.25
+LINS,9,Anjo de mim,28,8,8,y0,*Ø,II__X,9,major,14.5
+LINS,9,Anjo de mim,29,1,1,Y0,*7,V/VI,9,major,14.75
+LINS,9,Anjo de mim,30,6,6,z2,*m7.9,VI,9,major,15.0
+LINS,9,Anjo de mim,31,6,6,W2.2,*(#5)7(#9),V/II,9,major,16.0
+LINS,10,Aos nossos filhos,1,1,1,z2,*m7.9,II,11,major,1.0
+LINS,10,Aos nossos filhos,2,6,6,Y1.1,*4.7.9,V,11,major,2.0
+LINS,10,Aos nossos filhos,3,6,6,Y2,*7.9,V,11,major,2.5
+LINS,10,Aos nossos filhos,4,1,1,w1,*mM7.9,II,11,major,3.0
+LINS,10,Aos nossos filhos,5,1,1,z2,*m7.9,II,11,major,3.5
+LINS,10,Aos nossos filhos,6,6,6,Y1.1,*4.7.9,V,11,major,4.0
+LINS,10,Aos nossos filhos,7,6,6,Y2,*7.9,V,11,major,4.5
+LINS,10,Aos nossos filhos,8,6,6,z2,*m7.9,II__X,11,major,5.0
+LINS,10,Aos nossos filhos,9,11,11,Y1,*4.7,V/IV,11,major,5.5
+LINS,10,Aos nossos filhos,10,11,11,Y0,*7,V/IV,11,major,5.75
+LINS,10,Aos nossos filhos,11,4,4,Z0,*M7,IV,11,major,6.0
+LINS,10,Aos nossos filhos,12,9,9,Z0,*M7,bVII7M,11,major,6.5
+LINS,10,Aos nossos filhos,13,10,10,y0,*Ø,II__X,11,major,7.0
+LINS,10,Aos nossos filhos,14,3,3,Y2.3,*7(b9),V/VI,11,major,7.5
+LINS,10,Aos nossos filhos,15,6,9,z1,*m6,Vm7,11,major,8.0
+LINS,10,Aos nossos filhos,16,8,8,Y0,*7,V/II,11,major,8.5
+LINS,10,Aos nossos filhos,17,1,1,z2,*m7.9,II,11,major,9.0
+LINS,10,Aos nossos filhos,18,6,6,Y1.1,*4.7.9,V,11,major,10.0
+LINS,10,Aos nossos filhos,19,6,6,Y2,*7.9,V,11,major,10.5
+LINS,10,Aos nossos filhos,20,1,1,w1,*mM7.9,II,11,major,11.0
+LINS,10,Aos nossos filhos,21,1,1,z2,*m7.9,II,11,major,11.5
+LINS,10,Aos nossos filhos,22,6,6,Y1.1,*4.7.9,V,11,major,12.0
+LINS,10,Aos nossos filhos,23,6,6,Y2,*7.9,V,11,major,12.5
+LINS,10,Aos nossos filhos,24,6,6,z2,*m7.9,II__X,11,major,13.0
+LINS,10,Aos nossos filhos,25,11,11,Y1,*4.7,V/IV,11,major,13.5
+LINS,10,Aos nossos filhos,26,11,11,Y0,*7,V/IV,11,major,13.75
+LINS,10,Aos nossos filhos,27,5,5,z0,*m7,?,11,major,14.0
+LINS,10,Aos nossos filhos,28,4,4,Z0,*M7,IV,11,major,14.5
+LINS,10,Aos nossos filhos,29,9,9,Z0,*M7,bVII7M,11,major,14.75
+LINS,10,Aos nossos filhos,30,10,10,y0,*Ø,II__X,11,major,15.0
+LINS,10,Aos nossos filhos,31,3,3,Y2.3,*7(b9),V/VI,11,major,15.5
+LINS,10,Aos nossos filhos,32,8,8,z3,*m7.11,VI,11,major,16.0
+LINS,10,Aos nossos filhos,33,4,4,Z2,*M7.9,IV,11,major,17.0
+LINS,10,Aos nossos filhos,34,6,4,Y0,*7,V,11,major,18.0
+LINS,10,Aos nossos filhos,35,11,11,V1,*4,I,11,major,19.0
+LINS,10,Aos nossos filhos,36,11,11,Z2,*M7.9,I,11,major,19.5
+LINS,10,Aos nossos filhos,37,11,3,Z2,*M7.9,I,11,major,20.0
+LINS,10,Aos nossos filhos,38,9,9,Y1.1.3,*4.7(b9),V,2,major,21.0
+LINS,10,Aos nossos filhos,39,9,9,Y2.2,*7.9.13,V,2,major,21.5
+LINS,10,Aos nossos filhos,40,2,9,Y0,*7,I,2,major,22.0
+LINS,10,Aos nossos filhos,41,9,9,Y1.1.3,*4.7(b9),V,2,major,23.0
+LINS,10,Aos nossos filhos,42,9,9,Y2.2,*7.9.13,V,2,major,23.5
+LINS,10,Aos nossos filhos,43,11,11,Z2,*M7.9,I,11,major,24.0
+LINS,10,Aos nossos filhos,44,8,8,z2,*m7.9,VI,11,major,25.0
+LINS,11,Bilhete,1,2,9,Z0,*M7,I,2,major,1.0
+LINS,11,Bilhete,2,9,9,Y1.1,*4.7.9,V,2,major,2.0
+LINS,11,Bilhete,3,6,6,Y4.1,*7(b13),V/VI,2,major,2.5
+LINS,11,Bilhete,4,11,11,w0,*mM7,VI,2,major,3.0
+LINS,11,Bilhete,5,11,11,z0,*m7,VI,2,major,3.5
+LINS,11,Bilhete,6,11,11,z1,*m6,VI,2,major,4.0
+LINS,11,Bilhete,7,11,11,z0,*m7,VI,2,major,4.5
+LINS,11,Bilhete,8,9,9,Y1.1,*4.7.9,V,2,major,5.0
+LINS,11,Bilhete,9,9,7,Y0,*7,V,2,major,6.0
+LINS,11,Bilhete,10,6,6,Y1.1,*4.7.9,V/VI,2,major,7.0
+LINS,11,Bilhete,11,11,11,z0,*m7,VI,2,major,8.0
+LINS,11,Bilhete,12,11,9,z0,*m7,VI,2,major,8.5
+LINS,11,Bilhete,13,7,7,Z0,*M7,IV,2,major,9.0
+LINS,11,Bilhete,14,8,8,z2,*m7.9,II__X,2,major,10.0
+LINS,11,Bilhete,15,1,1,X2.1,*(b5)7(b9),V/III,2,major,10.5
+LINS,11,Bilhete,16,2,6,V0,*,I,2,major,11.0
+LINS,11,Bilhete,17,10,5,V0,*,bVI7M,2,major,12.0
+LINS,11,Bilhete,18,5,5,Z5,*6.M7,bIII7M,2,major,12.5
+LINS,11,Bilhete,19,4,4,z2,*m7.9,II,2,major,13.0
+LINS,11,Bilhete,20,2,2,z2,*m7.9,Im7,2,major,13.5
+LINS,11,Bilhete,21,7,7,Y4,*7.13,IV7,2,major,13.75
+LINS,11,Bilhete,22,1,1,y1,*Ø.9,II__X,2,major,14.0
+LINS,11,Bilhete,23,6,6,Y4.1,*7(b13),V/VI,2,major,14.5
+LINS,11,Bilhete,24,11,11,y1,*Ø.9,VI,2,major,15.0
+LINS,11,Bilhete,25,11,11,z2,*m7.9,VI,2,major,15.5
+LINS,11,Bilhete,26,9,9,z2,*m7.9,II__X,2,major,16.0
+LINS,11,Bilhete,27,2,2,Y2,*7.9,V/IV,2,major,16.5
+LINS,11,Bilhete,28,7,7,Z4,*(#5)M7,IV,2,major,17.0
+LINS,11,Bilhete,29,7,7,Z0,*M7,IV,2,major,17.5
+LINS,11,Bilhete,30,8,8,z2,*m7.9,II__X,2,major,18.0
+LINS,11,Bilhete,31,1,1,X2.1,*(b5)7(b9),V/III,2,major,18.5
+LINS,11,Bilhete,32,2,6,V0,*,I,2,major,19.0
+LINS,11,Bilhete,33,10,5,V0,*,bVI7M,2,major,20.0
+LINS,11,Bilhete,34,5,5,Z5,*6.M7,bIII7M,2,major,20.5
+LINS,11,Bilhete,35,4,4,z2,*m7.9,II,2,major,21.0
+LINS,11,Bilhete,36,2,2,z2,*m7.9,Im7,2,major,21.5
+LINS,11,Bilhete,37,7,7,Y4,*7.13,IV7,2,major,21.75
+LINS,11,Bilhete,38,1,1,y1,*Ø.9,II__X,2,major,22.0
+LINS,11,Bilhete,39,6,6,Y4.1,*7(b13),V/VI,2,major,22.5
+LINS,11,Bilhete,40,11,11,y1,*Ø.9,VI,2,major,23.0
+LINS,11,Bilhete,41,11,11,z2,*m7.9,VI,2,major,23.5
+LINS,11,Bilhete,42,4,4,z2.1,*m7.9.11,II,2,major,24.0
+LINS,11,Bilhete,43,9,9,Y4,*7.13,V,2,major,24.5
+LINS,11,Bilhete,44,11,11,Z0,*M7,VIM7,2,major,25.0
+LINS,11,Bilhete,45,4,4,Z2,*M7.9,?,2,major,26.0
+LINS,11,Bilhete,46,0,0,Y2.1,*7.9(#11),SubV/VI,2,major,26.5
+LINS,11,Bilhete,47,11,11,z2.1,*m7.9.11,VI,2,major,27.0
+LINS,12,Cantor da noite,1,7,7,z2,*m7.9,II,5,major,1.0
+LINS,12,Cantor da noite,2,0,0,Y2.2,*7.9.13,V,5,major,2.0
+LINS,12,Cantor da noite,3,0,0,Y4,*7.13,V,5,major,2.5
+LINS,12,Cantor da noite,4,5,5,Z2,*M7.9,I,5,major,3.0
+LINS,12,Cantor da noite,5,2,2,Y1.1,*4.7.9,V/II,5,major,4.0
+LINS,12,Cantor da noite,6,2,2,Y2,*7.9,V/II,5,major,4.5
+LINS,12,Cantor da noite,7,7,7,z2,*m7.9,II,5,major,5.0
+LINS,12,Cantor da noite,8,0,0,Y2.2,*7.9.13,V,5,major,6.0
+LINS,12,Cantor da noite,9,0,0,Y4,*7.13,V,5,major,6.5
+LINS,12,Cantor da noite,10,0,0,z2,*m7.9,II__X,5,major,7.0
+LINS,12,Cantor da noite,11,5,5,Y4,*7.13,V/IV,5,major,8.0
+LINS,12,Cantor da noite,12,4,4,Y1.1,*4.7.9,V/III,5,major,9.0
+LINS,12,Cantor da noite,13,4,4,Y2.2.1,*7(b9)13,V/III,5,major,10.0
+LINS,12,Cantor da noite,14,1,1,Y1.1.2,*4.7.9.13,SubV/V,5,major,11.0
+LINS,12,Cantor da noite,15,1,1,Y2.1,*7.9(#11),SubV/V,5,major,12.0
+LINS,12,Cantor da noite,16,7,7,z2,*m7.9,II,5,major,13.0
+LINS,12,Cantor da noite,17,0,0,Y1.3,*4.7.13,V,5,major,14.0
+LINS,12,Cantor da noite,18,0,0,Y4,*7.13,V,5,major,14.5
+LINS,12,Cantor da noite,19,4,4,z2.1,*m7.9.11,II__X,5,major,15.0
+LINS,12,Cantor da noite,20,9,9,Y2.3,*7(b9),V/VI,5,major,16.0
+LINS,12,Cantor da noite,21,2,2,z2,*m7.9,II__X,5,major,17.0
+LINS,12,Cantor da noite,22,7,7,Y2.2,*7.9.13,V/V,5,major,18.0
+LINS,12,Cantor da noite,23,2,2,w1,*mM7.9,II__X,5,major,19.0
+LINS,12,Cantor da noite,24,2,2,z2,*m7.9,II__X,5,major,19.5
+LINS,12,Cantor da noite,25,7,7,Y2.2,*7.9.13,V/V,5,major,20.0
+LINS,12,Cantor da noite,26,10,10,Z2,*M7.9,IV,5,major,21.0
+LINS,12,Cantor da noite,27,3,3,Y1.1,*4.7.9,bVII7,5,major,22.0
+LINS,12,Cantor da noite,28,3,3,Y2,*7.9,bVII7,5,major,22.5
+LINS,12,Cantor da noite,29,5,5,Z2,*M7.9,I,5,major,23.0
+LINS,12,Cantor da noite,30,2,2,z2,*m7.9,VI,5,major,24.0
+LINS,12,Cantor da noite,31,8,8,z2,*m7.9,II,6,major,25.0
+LINS,12,Cantor da noite,32,1,1,Y1.3,*4.7.13,V,6,major,26.0
+LINS,12,Cantor da noite,33,1,1,Y4,*7.13,V,6,major,26.5
+LINS,12,Cantor da noite,34,6,6,Z2,*M7.9,I,6,major,27.0
+LINS,12,Cantor da noite,35,3,3,z2.1,*m7.9.11,VI,6,major,28.0
+LINS,12,Cantor da noite,36,1,1,Y1.3,*4.7.13,V,6,major,29.0
+LINS,12,Cantor da noite,37,1,1,Y4,*7.13,V,6,major,29.5
+LINS,12,Cantor da noite,38,1,1,z2.1,*m7.9.11,II__X,6,major,30.0
+LINS,12,Cantor da noite,39,6,6,Y1.1,*4.7.9,V/IV,6,major,31.0
+LINS,12,Cantor da noite,40,6,6,Y2,*7.9,V/IV,6,major,31.5
+LINS,12,Cantor da noite,41,5,5,Y1.1,*4.7.9,V/III,6,major,32.0
+LINS,12,Cantor da noite,42,5,5,Y2,*7.9,V/III,6,major,33.0
+LINS,12,Cantor da noite,43,2,2,Y1.1.2,*4.7.9.13,V/II,5,major,34.0
+LINS,12,Cantor da noite,44,2,2,Y2.2,*7.9.13,V/II,5,major,35.0
+LINS,12,Cantor da noite,45,7,7,z2,*m7.9,II,5,major,36.0
+LINS,12,Cantor da noite,46,0,0,Y2.1,*7.9(#11),V,5,major,37.0
+LINS,12,Cantor da noite,47,8,8,z2,*m7.9,II__X,5,major,38.0
+LINS,12,Cantor da noite,48,1,1,Y4,*7.13,SubV/V,5,major,39.0
+LINS,12,Cantor da noite,49,7,7,z2,*m7.9,II,5,major,40.0
+LINS,12,Cantor da noite,50,0,0,Y4,*7.13,V,5,major,41.0
+LINS,12,Cantor da noite,51,5,5,Z1.1,*6.9,I,5,major,42.0
+LINS,12,Cantor da noite,52,2,2,Y1.3,*4.7.13,V/II,5,major,43.0
+LINS,12,Cantor da noite,53,2,2,Y2.2,*7.9.13,V/II,5,major,43.5
+LINS,12,Cantor da noite,54,2,2,W2.2,*(#5)7(#9),V/II,5,major,44.0
+LINS,12,Cantor da noite,55,7,7,z2,*m7.9,II,5,major,45.0
+LINS,12,Cantor da noite,56,0,0,Y1.3,*4.7.13,V,5,major,46.0
+LINS,12,Cantor da noite,57,6,6,Z2,*M7.9,bII7M,5,major,47.0
+LINS,13,Choro das aguas,1,11,3,Z2,*M7.9,I,11,major,1.0
+LINS,13,Choro das aguas,2,1,1,z2.1,*m7.9.11,II,11,major,2.0
+LINS,13,Choro das aguas,3,11,3,Z2,*M7.9,I,11,major,3.0
+LINS,13,Choro das aguas,4,1,1,z2.1,*m7.9.11,II,11,major,4.0
+LINS,13,Choro das aguas,5,11,3,Z2,*M7.9,I,11,major,5.0
+LINS,13,Choro das aguas,6,1,1,z2.1,*m7.9.11,II,11,major,6.0
+LINS,13,Choro das aguas,7,11,3,Z2,*M7.9,I,11,major,7.0
+LINS,13,Choro das aguas,8,1,1,z2.1,*m7.9.11,II,11,major,8.0
+LINS,13,Choro das aguas,9,8,3,v0,*m,VI,11,major,9.0
+LINS,13,Choro das aguas,10,3,3,Y4.1,*7(b13),V/VI,11,major,10.0
+LINS,13,Choro das aguas,11,11,3,Z2,*M7.9,I,11,major,11.0
+LINS,13,Choro das aguas,12,3,3,Y4.1,*7(b13),V/VI,11,major,12.0
+LINS,13,Choro das aguas,13,8,3,v0,*m,VI,11,major,13.0
+LINS,13,Choro das aguas,14,3,3,Y4.1,*7(b13),V/VI,11,major,14.0
+LINS,13,Choro das aguas,15,11,3,Z2,*M7.9,I,11,major,15.0
+LINS,13,Choro das aguas,16,11,11,Y1.1.2,*4.7.9.13,V/IV,11,major,16.0
+LINS,13,Choro das aguas,17,11,11,Y2.2,*7.9.13,V/IV,11,major,16.5
+LINS,13,Choro das aguas,18,4,4,Z0,*M7,IV,11,major,17.0
+LINS,13,Choro das aguas,19,8,3,z0,*m7,VI,11,major,17.5
+LINS,13,Choro das aguas,20,1,1,z0,*m7,II,11,major,18.0
+LINS,13,Choro das aguas,21,8,11,z0,*m7,VI,11,major,18.5
+LINS,13,Choro das aguas,22,10,10,z2,*m7.9,II__X,11,major,19.0
+LINS,13,Choro das aguas,23,3,3,Y2.2.1.1,*7(b9.b13),V/VI,11,major,20.0
+LINS,13,Choro das aguas,24,11,3,Z0,*M7,I,11,major,21.0
+LINS,13,Choro das aguas,25,1,1,z2.1,*m7.9.11,II,11,major,22.0
+LINS,13,Choro das aguas,26,11,3,Z0,*M7,I,11,major,23.0
+LINS,13,Choro das aguas,27,1,1,z2.1,*m7.9.11,II,11,major,24.0
+LINS,13,Choro das aguas,28,9,1,V1,*4,IV,4,major,25.0
+LINS,13,Choro das aguas,29,11,11,Y1,*4.7,V/V,4,major,26.0
+LINS,13,Choro das aguas,30,11,11,Y0,*7,V/V,4,major,26.5
+LINS,13,Choro das aguas,31,4,4,Z0,*M7,I,4,major,27.0
+LINS,13,Choro das aguas,32,5,5,z0,*m7,bIIm7,4,major,28.0
+LINS,13,Choro das aguas,33,1,5,V0,*,V/VI,4,major,28.5
+LINS,13,Choro das aguas,34,6,6,Y1,*4.7,V/II,4,major,29.0
+LINS,13,Choro das aguas,35,8,8,Y0,*7,aNP/IV,4,major,30.0
+LINS,13,Choro das aguas,36,9,9,Z1,*6,IV,4,major,31.0
+LINS,13,Choro das aguas,37,11,9,Y0,*7,V,4,major,31.5
+LINS,13,Choro das aguas,38,0,10,Y0,*7,SubV/V,4,major,32.0
+LINS,13,Choro das aguas,39,2,2,Y4,*7.13,bVII7,4,major,32.5
+LINS,13,Choro das aguas,40,2,0,Y0,*7,bVII7,4,major,32.75
+LINS,13,Choro das aguas,41,4,11,Z0,*M7,I,4,major,38.0
+LINS,13,Choro das aguas,42,11,11,Y1.1.2,*4.7.9.13,V,4,major,40.0
+LINS,13,Choro das aguas,43,9,9,Y2.1.1,*7.9(#11)13,bVII7,11,major,41.0
+LINS,13,Choro das aguas,44,11,3,Z0,*M7,I,11,major,42.0
+LINS,13,Choro das aguas,45,1,1,z2.1,*m7.9.11,II,11,major,43.0
+LINS,13,Choro das aguas,46,11,3,Z0,*M7,I,11,major,44.0
+LINS,13,Choro das aguas,47,1,1,z2.1,*m7.9.11,II,11,major,45.0
+LINS,13,Choro das aguas,48,11,3,Z0,*M7,I,11,major,46.0
+LINS,13,Choro das aguas,49,1,1,z2.1,*m7.9.11,II,11,major,47.0
+LINS,13,Choro das aguas,50,11,3,Z0,*M7,I,11,major,48.0
+LINS,14,Daquilo que eu sei,1,9,9,Y1.1,*4.7.9,V,2,major,1.0
+LINS,14,Daquilo que eu sei,2,9,9,Y2,*7.9,V,2,major,1.5
+LINS,14,Daquilo que eu sei,3,2,2,Z2,*M7.9,I,2,major,2.0
+LINS,14,Daquilo que eu sei,4,2,2,Z1.1,*6.9,I,2,major,2.5
+LINS,14,Daquilo que eu sei,5,9,9,y0,*Ø,Vm7,2,major,3.0
+LINS,14,Daquilo que eu sei,6,11,11,Y2.2.1.1,*7(b9.b13),V/II,2,major,3.5
+LINS,14,Daquilo que eu sei,7,7,7,Z0,*M7,IV,2,major,4.0
+LINS,14,Daquilo que eu sei,8,7,7,Z1,*6,IV,2,major,4.5
+LINS,14,Daquilo que eu sei,9,6,6,Y4.1,*7(b13),V/VI,2,major,5.0
+LINS,14,Daquilo que eu sei,10,11,11,z0,*m7,VI,2,major,6.0
+LINS,14,Daquilo que eu sei,11,9,9,z0,*m7,II__X,2,major,7.0
+LINS,14,Daquilo que eu sei,12,2,2,Y2,*7.9,V/IV,2,major,7.5
+LINS,14,Daquilo que eu sei,13,7,7,Y1.1,*4.7.9,V/V,5,major,8.0
+LINS,14,Daquilo que eu sei,14,7,7,Y2,*7.9,V/V,5,major,8.25
+LINS,14,Daquilo que eu sei,15,0,0,Y1.1,*4.7.9,V,5,major,8.5
+LINS,14,Daquilo que eu sei,16,5,5,Z0,*M7,I,5,major,9.0
+LINS,14,Daquilo que eu sei,17,10,10,Y1.1,*4.7.9,IV7,5,major,9.5
+LINS,14,Daquilo que eu sei,18,10,10,Y2,*7.9,IV7,5,major,10.0
+LINS,14,Daquilo que eu sei,19,0,0,Z2,*M7.9,?,5,major,11.0
+LINS,14,Daquilo que eu sei,20,0,0,Z1.1,*6.9,?,5,major,11.5
+LINS,14,Daquilo que eu sei,21,9,9,Y1.1,*4.7.9,V/VI,5,major,12.0
+LINS,14,Daquilo que eu sei,22,9,9,Y2,*7.9,V/VI,5,major,12.5
+LINS,14,Daquilo que eu sei,23,2,9,V0,*,I,2,major,13.0
+LINS,14,Daquilo que eu sei,24,11,9,Y0,*7,V/II,2,major,14.0
+LINS,14,Daquilo que eu sei,25,8,8,z0,*m7,II,6,major,15.0
+LINS,14,Daquilo que eu sei,26,1,1,Y1.1,*4.7.9,V,6,major,16.0
+LINS,14,Daquilo que eu sei,27,1,1,Y2,*7.9,V,6,major,16.5
+LINS,14,Daquilo que eu sei,28,6,6,Z0,*M7,I,6,major,17.0
+LINS,14,Daquilo que eu sei,29,6,6,Z1,*6,I,6,major,17.5
+LINS,14,Daquilo que eu sei,30,5,5,y1,*Ø.9,II__X,6,major,18.0
+LINS,14,Daquilo que eu sei,31,10,10,Y2.2.1.1,*7(b9.b13),V/VI,6,major,18.5
+LINS,14,Daquilo que eu sei,32,3,3,z2,*m7.9,II__X,6,major,19.0
+LINS,14,Daquilo que eu sei,33,8,8,Y3,*7(#11),V/V,6,major,20.0
+LINS,14,Daquilo que eu sei,34,6,1,V0,*,I,6,major,21.0
+LINS,14,Daquilo que eu sei,35,11,1,Z4,*(#5)M7,IV,6,major,22.0
+LINS,14,Daquilo que eu sei,36,1,1,Y1.3,*4.7.13,V,6,major,23.0
+LINS,14,Daquilo que eu sei,37,8,11,z0,*m7,II,6,major,24.0
+LINS,14,Daquilo que eu sei,38,9,9,Y2.3,*7(b9),V,6,major,24.5
+LINS,14,Daquilo que eu sei,39,3,3,z2,*m7.9,II__X,6,major,25.0
+LINS,14,Daquilo que eu sei,40,8,8,Y3,*7(#11),V/V,6,major,26.0
+LINS,14,Daquilo que eu sei,41,1,1,Y1.1,*4.7.9,V,6,major,27.0
+LINS,14,Daquilo que eu sei,42,9,9,Y1.1,*4.7.9,V,2,major,28.0
+LINS,14,Daquilo que eu sei,43,2,2,Z2,*M7.9,I,2,major,29.0
+LINS,14,Daquilo que eu sei,44,2,2,Z1.1,*6.9,I,2,major,29.5
+LINS,14,Daquilo que eu sei,45,7,2,z1,*m6,IVm7,2,major,30.0
+LINS,14,Daquilo que eu sei,46,2,2,Z2,*M7.9,I,2,major,31.0
+LINS,14,Daquilo que eu sei,47,2,2,Z1.1,*6.9,I,2,major,31.5
+LINS,14,Daquilo que eu sei,48,11,11,Y1.1,*4.7.9,V/II,2,major,32.0
+LINS,14,Daquilo que eu sei,49,11,11,Y4,*7.13,V/II,2,major,32.5
+LINS,14,Daquilo que eu sei,50,4,4,z2.1,*m7.9.11,II,2,major,33.0
+LINS,14,Daquilo que eu sei,51,9,9,Y1.1,*4.7.9,V,2,major,34.0
+LINS,14,Daquilo que eu sei,52,6,6,Y2.2.1.1,*7(b9.b13),V/VI,2,major,34.5
+LINS,14,Daquilo que eu sei,53,11,11,Y1.1,*4.7.9,V/II,2,major,35.0
+LINS,14,Daquilo que eu sei,54,9,9,Y1.1,*4.7.9,V,2,major,36.0
+LINS,14,Daquilo que eu sei,55,9,9,Y2,*7.9,V,2,major,36.5
+LINS,15,Depois dos temporais,1,6,11,z3,*m7.11,Vm7,11,minor,1.0
+LINS,15,Depois dos temporais,2,11,11,z2,*m7.9,I,11,minor,2.0
+LINS,15,Depois dos temporais,3,6,11,z3,*m7.11,Vm7,11,minor,3.0
+LINS,15,Depois dos temporais,4,11,11,z2,*m7.9,I,11,minor,4.0
+LINS,15,Depois dos temporais,5,11,9,z2,*m7.9,I,11,minor,4.5
+LINS,15,Depois dos temporais,6,7,7,Z2,*M7.9,VI,11,minor,5.0
+LINS,15,Depois dos temporais,7,7,7,Z2.1,*M7.9(#11),VI,11,minor,6.0
+LINS,15,Depois dos temporais,8,7,7,Z2,*M7.9,VI,11,minor,7.0
+LINS,15,Depois dos temporais,9,7,7,Z2.1,*M7.9(#11),VI,11,minor,8.0
+LINS,15,Depois dos temporais,10,6,6,z3,*m7.11,Vm7,11,minor,8.5
+LINS,15,Depois dos temporais,11,4,4,z2,*m7.9,IV,11,minor,9.0
+LINS,15,Depois dos temporais,12,9,9,Y1.1.2,*4.7.9.13,V/III,11,minor,11.0
+LINS,15,Depois dos temporais,13,9,9,Y2,*7.9,V/III,11,minor,12.0
+LINS,15,Depois dos temporais,14,9,9,z2,*m7.9,II__X,11,minor,13.0
+LINS,15,Depois dos temporais,15,2,2,Y1.1.2,*4.7.9.13,V/VI,11,minor,14.0
+LINS,15,Depois dos temporais,16,2,2,Y2.2,*7.9.13,V/VI,11,minor,14.5
+LINS,15,Depois dos temporais,17,7,7,Z2,*M7.9,VI,11,minor,15.0
+LINS,15,Depois dos temporais,18,1,1,y0,*Ø,II,11,minor,17.0
+LINS,15,Depois dos temporais,19,1,1,y1,*Ø.9,II,11,minor,17.5
+LINS,15,Depois dos temporais,20,6,6,Y2.2.1.1,*7(b9.b13),V,11,minor,18.0
+LINS,15,Depois dos temporais,21,6,11,z3,*m7.11,Vm7,11,minor,19.0
+LINS,15,Depois dos temporais,22,11,11,z2,*m7.9,I,11,minor,20.0
+LINS,15,Depois dos temporais,23,6,11,z3,*m7.11,Vm7,11,minor,21.0
+LINS,15,Depois dos temporais,24,11,11,z2,*m7.9,I,11,minor,22.0
+LINS,15,Depois dos temporais,25,11,9,z2,*m7.9,I,11,minor,22.5
+LINS,15,Depois dos temporais,26,7,7,Z0,*M7,VI,11,minor,23.0
+LINS,15,Depois dos temporais,27,4,4,z0,*m7,II__X,11,minor,25.0
+LINS,15,Depois dos temporais,28,9,9,z1.1,*m6.9,V/III,11,minor,26.0
+LINS,15,Depois dos temporais,29,9,9,Y2,*7.9,V/III,11,minor,26.5
+LINS,15,Depois dos temporais,30,2,9,Z0,*M7,III,11,minor,27.0
+LINS,15,Depois dos temporais,31,6,11,z0,*m7,Vm7,11,minor,29.0
+LINS,15,Depois dos temporais,32,11,11,z2,*m7.9,I,11,minor,30.0
+LINS,15,Depois dos temporais,33,7,11,Z2,*M7.9,VI,11,minor,31.0
+LINS,15,Depois dos temporais,34,9,9,z1.1,*m6.9,bVIIm7,11,minor,33.0
+LINS,15,Depois dos temporais,35,9,9,Y2,*7.9,V/III,11,minor,34.0
+LINS,15,Depois dos temporais,36,2,9,Z0,*M7,III,11,minor,35.0
+LINS,15,Depois dos temporais,37,6,11,z0,*m7,Vm7,11,minor,37.0
+LINS,15,Depois dos temporais,38,11,11,z2,*m7.9,I,11,minor,38.0
+LINS,15,Depois dos temporais,39,7,11,Z1,*6,VI,11,minor,39.0
+LINS,15,Depois dos temporais,40,9,9,Y1.1.3,*4.7(b9),V/III,11,minor,41.0
+LINS,15,Depois dos temporais,41,10,10,x0,*°7,V°,11,minor,42.0
+LINS,15,Depois dos temporais,42,6,11,z3,*m7.11,Vm7,11,minor,43.0
+LINS,15,Depois dos temporais,43,11,11,z2,*m7.9,I,11,minor,44.0
+LINS,15,Depois dos temporais,44,6,11,z3,*m7.11,Vm7,11,minor,45.0
+LINS,15,Depois dos temporais,45,11,11,z2,*m7.9,I,11,minor,46.0
+LINS,15,Depois dos temporais,46,11,9,z2,*m7.9,I,11,minor,46.5
+LINS,15,Depois dos temporais,47,7,7,Z2,*M7.9,VI,11,minor,47.0
+LINS,15,Depois dos temporais,48,7,7,Z2.1,*M7.9(#11),VI,11,minor,48.0
+LINS,15,Depois dos temporais,49,7,7,Z2,*M7.9,VI,11,minor,49.0
+LINS,15,Depois dos temporais,50,7,7,Z2.1,*M7.9(#11),VI,11,minor,50.0
+LINS,15,Depois dos temporais,51,6,6,z3,*m7.11,Vm7,11,minor,50.5
+LINS,15,Depois dos temporais,52,4,4,z2,*m7.9,IV,11,minor,51.0
+LINS,15,Depois dos temporais,53,9,9,Y1.1.2,*4.7.9.13,V/III,11,minor,53.0
+LINS,15,Depois dos temporais,54,9,9,Y2,*7.9,V/III,11,minor,54.0
+LINS,15,Depois dos temporais,55,9,9,z2,*m7.9,II__X,11,minor,55.0
+LINS,15,Depois dos temporais,56,2,2,Y1.1.2,*4.7.9.13,V/VI,11,minor,56.0
+LINS,15,Depois dos temporais,57,2,2,Y2.2,*7.9.13,V/VI,11,minor,56.5
+LINS,15,Depois dos temporais,58,7,7,Z2,*M7.9,VI,11,minor,57.0
+LINS,15,Depois dos temporais,59,1,1,y0,*Ø,II,11,minor,59.0
+LINS,15,Depois dos temporais,60,1,1,y1,*Ø.9,II,11,minor,59.5
+LINS,15,Depois dos temporais,61,6,6,Y2.2.1.1,*7(b9.b13),V,11,minor,60.0
+LINS,15,Depois dos temporais,62,6,11,z3,*m7.11,Vm7,11,minor,61.0
+LINS,15,Depois dos temporais,63,11,11,z2,*m7.9,I,11,minor,62.0
+LINS,15,Depois dos temporais,64,6,11,z3,*m7.11,Vm7,11,minor,63.0
+LINS,15,Depois dos temporais,65,11,11,z2,*m7.9,I,11,minor,64.0
+LINS,15,Depois dos temporais,66,11,9,z2,*m7.9,I,11,minor,64.5
+LINS,15,Depois dos temporais,67,7,7,Z2,*M7.9,VI,11,minor,65.0
+LINS,15,Depois dos temporais,68,7,7,Z2.1,*M7.9(#11),VI,11,minor,66.0
+LINS,15,Depois dos temporais,69,7,7,Z2,*M7.9,VI,11,minor,67.0
+LINS,15,Depois dos temporais,70,11,11,z2,*m7.9,I,11,minor,67.5
+LINS,15,Depois dos temporais,71,11,9,z2,*m7.9,I,11,minor,68.0
+LINS,15,Depois dos temporais,72,7,7,Z2,*M7.9,VI,11,minor,69.0
+LINS,15,Depois dos temporais,73,1,1,Y1.1.2,*4.7.9.13,V/V,11,minor,70.0
+LINS,15,Depois dos temporais,74,1,1,Y2,*7.9,V/V,11,minor,70.5
+LINS,15,Depois dos temporais,75,6,6,Z2,*M7.9,I,6,major,71.0
+LINS,15,Depois dos temporais,76,3,3,z1.2,*m6.11,VI,6,major,73.0
+LINS,15,Depois dos temporais,77,11,11,Z0,*M7,IV,6,major,75.0
+LINS,15,Depois dos temporais,78,11,11,Z2.1,*M7.9(#11),IV,6,major,76.0
+LINS,15,Depois dos temporais,79,11,11,Z1,*6,IV,6,major,77.0
+LINS,15,Depois dos temporais,80,6,11,Z0,*M7,I,6,major,78.0
+LINS,15,Depois dos temporais,81,3,3,z2.1,*m7.9.11,VI,6,major,79.0
+LINS,16,Dinorah Dinorah,1,10,10,y1,*Ø.9,II,8,minor,1.0
+LINS,16,Dinorah Dinorah,2,3,3,Y2.3,*7(b9),V,8,minor,1.5
+LINS,16,Dinorah Dinorah,3,9,9,Y2,*7.9,SubV,8,minor,1.75
+LINS,16,Dinorah Dinorah,4,8,8,z3,*m7.11,I,8,minor,2.0
+LINS,16,Dinorah Dinorah,5,7,7,z3,*m7.11,?,8,minor,2.25
+LINS,16,Dinorah Dinorah,6,6,6,z3,*m7.11,II__X,8,minor,2.5
+LINS,16,Dinorah Dinorah,7,11,11,Y2.2,*7.9.13,SubV/II,8,minor,2.75
+LINS,16,Dinorah Dinorah,8,10,10,y1,*Ø.9,II,8,minor,3.0
+LINS,16,Dinorah Dinorah,9,3,3,Y2.3,*7(b9),V,8,minor,3.5
+LINS,16,Dinorah Dinorah,10,8,8,z3,*m7.11,I,8,minor,4.0
+LINS,16,Dinorah Dinorah,11,1,1,Y2,*7.9,IV7,8,minor,4.5
+LINS,16,Dinorah Dinorah,12,10,10,y1,*Ø.9,II,8,minor,5.0
+LINS,16,Dinorah Dinorah,13,3,3,Y2.3,*7(b9),V,8,minor,5.5
+LINS,16,Dinorah Dinorah,14,9,9,Y2,*7.9,SubV,8,minor,5.75
+LINS,16,Dinorah Dinorah,15,8,8,z3,*m7.11,I,8,minor,6.0
+LINS,16,Dinorah Dinorah,16,7,7,z3,*m7.11,?,8,minor,6.25
+LINS,16,Dinorah Dinorah,17,6,6,z3,*m7.11,II__X,8,minor,6.5
+LINS,16,Dinorah Dinorah,18,11,11,Y2.2,*7.9.13,SubV/II,8,minor,6.75
+LINS,16,Dinorah Dinorah,19,10,10,y1,*Ø.9,II,8,minor,7.0
+LINS,16,Dinorah Dinorah,20,3,3,Y2.3,*7(b9),V,8,minor,7.5
+LINS,16,Dinorah Dinorah,21,8,8,z3,*m7.11,I,8,minor,8.0
+LINS,16,Dinorah Dinorah,22,1,1,Y2,*7.9,IV7,8,minor,8.5
+LINS,16,Dinorah Dinorah,23,6,6,Y1.3,*4.7.13,V/III,8,minor,9.0
+LINS,16,Dinorah Dinorah,24,4,4,z2.1,*m7.9.11,II,2,major,11.0
+LINS,16,Dinorah Dinorah,25,9,9,Y1.1.2,*4.7.9.13,V,2,major,12.0
+LINS,16,Dinorah Dinorah,26,7,7,z2,*m7.9,IVm7,2,major,13.0
+LINS,16,Dinorah Dinorah,27,0,0,Y1.3,*4.7.13,bVII7,2,major,14.0
+LINS,16,Dinorah Dinorah,28,0,0,Y4,*7.13,bVII7,2,major,14.5
+LINS,16,Dinorah Dinorah,29,2,2,Z2,*M7.9,I,2,major,15.0
+LINS,16,Dinorah Dinorah,30,11,11,Y1.3,*4.7.13,SubV/II,8,minor,16.0
+LINS,16,Dinorah Dinorah,31,11,11,Y4,*7.13,SubV/II,8,minor,16.5
+LINS,17,Doce presenca,1,4,6,z2,*m7.9,II,2,major,1.0
+LINS,17,Doce presenca,2,4,4,z0,*m7,II,2,major,1.25
+LINS,17,Doce presenca,3,9,9,Y1.1.2,*4.7.9.13,V,2,major,1.5
+LINS,17,Doce presenca,4,9,1,Y2,*7.9,V,2,major,1.75
+LINS,17,Doce presenca,5,2,4,Z2,*M7.9,I,2,major,2.0
+LINS,17,Doce presenca,6,2,2,Z0,*M7,I,2,major,2.25
+LINS,17,Doce presenca,7,2,1,Z0,*M7,I,2,major,2.5
+LINS,17,Doce presenca,8,11,11,z3,*m7.11,VI,2,major,2.75
+LINS,17,Doce presenca,9,4,6,z2,*m7.9,II,2,major,3.0
+LINS,17,Doce presenca,10,4,4,z0,*m7,II,2,major,3.25
+LINS,17,Doce presenca,11,9,9,Y1.1.2,*4.7.9.13,V,2,major,3.5
+LINS,17,Doce presenca,12,9,1,Y2,*7.9,V,2,major,3.75
+LINS,17,Doce presenca,13,2,4,Z2,*M7.9,I,2,major,4.0
+LINS,17,Doce presenca,14,2,2,Z0,*M7,I,2,major,4.25
+LINS,17,Doce presenca,15,1,1,z2.1,*m7.9.11,VIIm7,2,major,4.5
+LINS,17,Doce presenca,16,7,7,z1,*m6,IVm7,2,major,4.75
+LINS,17,Doce presenca,17,11,6,w1,*mM7.9,II__X,2,major,5.0
+LINS,17,Doce presenca,18,11,11,z2,*m7.9,II__X,2,major,5.25
+LINS,17,Doce presenca,19,4,4,Y1.1.2,*4.7.9.13,V/V,2,major,5.5
+LINS,17,Doce presenca,20,4,4,Y2.1.1,*7.9(#11)13,V/V,2,major,5.75
+LINS,17,Doce presenca,21,11,6,w1,*mM7.9,II__X,2,major,6.0
+LINS,17,Doce presenca,22,11,11,z2,*m7.9,II__X,2,major,6.25
+LINS,17,Doce presenca,23,4,4,Y1.1.2,*4.7.9.13,V/V,2,major,6.5
+LINS,17,Doce presenca,24,4,4,Y2.1.1,*7.9(#11)13,V/V,2,major,6.75
+LINS,17,Doce presenca,25,7,7,Z2,*M7.9,IV,2,major,7.0
+LINS,17,Doce presenca,26,6,6,z3,*m7.11,III,2,major,7.25
+LINS,17,Doce presenca,27,4,4,z2.1,*m7.9.11,II,2,major,7.5
+LINS,17,Doce presenca,28,9,9,Y1.1.2,*4.7.9.13,V,2,major,7.75
+LINS,17,Doce presenca,29,2,2,Z2,*M7.9,I,2,major,8.0
+LINS,17,Doce presenca,30,11,11,X2.1,*(b5)7(b9),V/II,2,major,8.5
+LINS,17,Doce presenca,31,7,7,z2,*m7.9,II__X,10,major,9.0
+LINS,17,Doce presenca,32,0,0,Y2,*7.9,V/V,10,major,9.5
+LINS,17,Doce presenca,33,5,5,Y1.1.2,*4.7.9.13,V,10,major,10.0
+LINS,17,Doce presenca,34,5,5,Y2.2,*7.9.13,V,10,major,10.5
+LINS,17,Doce presenca,35,10,10,Z2,*M7.9,I,10,major,11.0
+LINS,17,Doce presenca,36,9,9,z3,*m7.11,II__X,10,major,11.5
+LINS,17,Doce presenca,37,2,2,Y2.2.1.1,*7(b9.b13),V/VI,10,major,11.75
+LINS,17,Doce presenca,38,7,7,w1,*mM7.9,VI,10,major,12.0
+LINS,17,Doce presenca,39,7,7,z2,*m7.9,VI,10,major,12.5
+LINS,17,Doce presenca,40,4,4,y2,*Ø.11,IIm7(b5),2,major,13.0
+LINS,17,Doce presenca,41,10,10,z1,*m6,bVIm7,2,major,13.5
+LINS,17,Doce presenca,42,9,9,Y4.1,*7(b13),V,2,major,13.75
+LINS,17,Doce presenca,43,2,2,Z2,*M7.9,I,2,major,14.0
+LINS,17,Doce presenca,44,6,6,W2.2,*(#5)7(#9),V/VI,2,major,14.25
+LINS,17,Doce presenca,45,11,11,z2,*m7.9,VI,2,major,14.5
+LINS,17,Doce presenca,46,6,6,y0,*Ø,II__X,2,major,15.0
+LINS,17,Doce presenca,47,11,11,Y1.1,*4.7.9,V/II,2,major,16.0
+LINS,17,Doce presenca,48,11,11,Y2.2.1,*7(b9)13,V/II,2,major,16.5
+LINS,17,Doce presenca,49,11,11,Y2.2.1.1,*7(b9.b13),V/II,2,major,16.75
+LINS,18,Essa mare,1,9,9,z2,*m7.9,I,9,minor,1.0
+LINS,18,Essa mare,2,11,9,z0,*m7,II,9,minor,2.0
+LINS,18,Essa mare,3,9,9,z2,*m7.9,I,9,minor,3.0
+LINS,18,Essa mare,4,11,9,z0,*m7,II,9,minor,4.0
+LINS,18,Essa mare,5,9,9,z2,*m7.9,I,9,minor,5.0
+LINS,18,Essa mare,6,2,2,z2.1,*m7.9.11,IV,9,minor,7.0
+LINS,18,Essa mare,7,7,7,Y1.1.2,*4.7.9.13,V,0,major,9.0
+LINS,18,Essa mare,8,7,7,Y2.1,*7.9(#11),V,0,major,10.0
+LINS,18,Essa mare,9,4,7,z2,*m7.9,III,0,major,11.0
+LINS,18,Essa mare,10,6,6,Y3,*7(#11),SubV/IV,0,major,12.0
+LINS,18,Essa mare,11,5,5,Z0,*M7,IV,0,major,13.0
+LINS,18,Essa mare,12,4,4,Y4.1,*7(b13),V/VI,0,major,14.0
+LINS,18,Essa mare,13,5,5,z2,*m7.9,II__X,0,major,15.0
+LINS,18,Essa mare,14,10,10,Y4,*7.13,SubV/VI,0,major,15.5
+LINS,18,Essa mare,15,4,4,z2,*m7.9,II__X,0,major,16.0
+LINS,18,Essa mare,16,9,9,Y4,*7.13,V/II,0,major,16.5
+LINS,18,Essa mare,17,3,3,z2,*m7.9,II__X,0,major,17.0
+LINS,18,Essa mare,18,8,8,Y4,*7.13,SubV/V,0,major,17.5
+LINS,18,Essa mare,19,2,2,z2,*m7.9,II,0,major,18.0
+LINS,18,Essa mare,20,7,7,Y4,*7.13,V,0,major,18.5
+LINS,18,Essa mare,21,0,0,Z2,*M7.9,I,0,major,19.0
+LINS,18,Essa mare,22,0,0,Y1.1,*4.7.9,V/IV,0,major,20.0
+LINS,18,Essa mare,23,6,6,Y3,*7(#11),SubV/IV,0,major,20.5
+LINS,18,Essa mare,24,5,5,Z2,*M7.9,IV,0,major,21.0
+LINS,18,Essa mare,25,11,11,W2.2,*(#5)7(#9),V/III,0,major,22.0
+LINS,18,Essa mare,26,4,4,Y4.1,*7(b13),V/VI,0,major,22.5
+LINS,18,Essa mare,27,9,9,z2,*m7.9,VI,0,major,23.0
+LINS,18,Essa mare,28,7,7,z2,*m7.9,II__X,0,major,24.0
+LINS,18,Essa mare,29,0,0,Y4,*7.13,V/IV,0,major,24.5
+LINS,18,Essa mare,30,6,6,x3,*°7(b13),V°/V,0,major,25.0
+LINS,18,Essa mare,31,5,5,z1,*m6,IVm7,0,major,26.0
+LINS,18,Essa mare,32,0,4,V1,*4,I,0,major,27.0
+LINS,18,Essa mare,33,3,3,Y2,*7.9,SubV/IV,9,minor,28.0
+LINS,18,Essa mare,34,2,2,z2,*m7.9,IV,9,minor,29.0
+LINS,18,Essa mare,35,2,0,z2,*m7.9,IV,9,minor,30.0
+LINS,18,Essa mare,36,11,11,y1,*Ø.9,II,9,minor,31.0
+LINS,18,Essa mare,37,4,4,Y2.2.1.1,*7(b9.b13),V,9,minor,32.0
+LINS,18,Essa mare,38,5,5,Z2,*M7.9,VI,9,minor,33.0
+LINS,18,Essa mare,39,10,10,Y1.1.2,*4.7.9.13,SubV,9,minor,34.0
+LINS,18,Essa mare,40,9,9,z2,*m7.9,I,9,minor,35.0
+LINS,18,Essa mare,41,9,7,z2,*m7.9,I,9,minor,36.0
+LINS,18,Essa mare,42,6,6,y0,*Ø,II__X,9,minor,37.0
+LINS,18,Essa mare,43,11,11,Y2.2.1.1,*7(b9.b13),V/V,9,minor,38.0
+LINS,18,Essa mare,44,4,4,z2.1,*m7.9.11,II__X,9,minor,39.0
+LINS,18,Essa mare,45,3,3,Y2,*7.9,SubV/IV,9,minor,40.0
+LINS,18,Essa mare,46,2,2,z2,*m7.9,IV,9,minor,41.0
+LINS,18,Essa mare,47,7,7,z2,*m7.9,bVIIm7,9,minor,42.0
+LINS,18,Essa mare,48,11,11,z3,*m7.11,II,9,minor,43.0
+LINS,18,Essa mare,49,4,4,Y2.2.1,*7(b9)13,V,9,minor,44.0
+LINS,18,Essa mare,50,9,9,z2,*m7.9,I,9,minor,45.0
+LINS,18,Essa mare,51,4,4,Y1.1,*4.7.9,V,9,minor,46.0
+LINS,18,Essa mare,52,9,9,z2,*m7.9,I,9,minor,47.0
+LINS,19,Fogueiras,1,4,4,x0,*°7,V°/IV,0,major,1.0
+LINS,19,Fogueiras,2,5,5,Z5,*6.M7,IV,0,major,2.0
+LINS,19,Fogueiras,3,2,6,Y0,*7,V/V,0,major,3.0
+LINS,19,Fogueiras,4,0,7,V1,*4,I,0,major,4.0
+LINS,19,Fogueiras,5,4,4,y0,*Ø,II__X,0,major,5.0
+LINS,19,Fogueiras,6,9,9,Y0,*7,V/II,0,major,5.5
+LINS,19,Fogueiras,7,2,2,Y1,*4.7,V/V,0,major,6.0
+LINS,19,Fogueiras,8,2,2,Y0,*7,V/V,0,major,6.5
+LINS,19,Fogueiras,9,7,7,Y1.1.2,*4.7.9.13,V,0,major,7.0
+LINS,19,Fogueiras,10,7,7,Y2.2,*7.9.13,V,0,major,7.5
+LINS,19,Fogueiras,11,0,0,Z2,*M7.9,I,0,major,8.0
+LINS,19,Fogueiras,12,4,4,x0,*°7,V°/IV,0,major,9.0
+LINS,19,Fogueiras,13,5,5,Z5,*6.M7,IV,0,major,10.0
+LINS,19,Fogueiras,14,2,6,Y0,*7,V/V,0,major,11.0
+LINS,19,Fogueiras,15,0,7,V1,*4,I,0,major,12.0
+LINS,19,Fogueiras,16,4,4,y0,*Ø,II__X,0,major,13.0
+LINS,19,Fogueiras,17,9,9,Y0,*7,V/II,0,major,13.5
+LINS,19,Fogueiras,18,2,2,Y1,*4.7,V/V,0,major,14.0
+LINS,19,Fogueiras,19,2,2,Y0,*7,V/V,0,major,14.5
+LINS,19,Fogueiras,20,7,7,Y1.1.2,*4.7.9.13,V,0,major,15.0
+LINS,19,Fogueiras,21,7,7,Y2.2,*7.9.13,V,0,major,15.5
+LINS,19,Fogueiras,22,0,0,Z1.1,*6.9,I,0,major,16.0
+LINS,19,Fogueiras,23,0,0,V1,*4,I,0,major,16.5
+LINS,19,Fogueiras,24,0,0,Z1.1,*6.9,I,0,major,17.0
+LINS,19,Fogueiras,25,0,0,V1,*4,I,0,major,17.5
+LINS,19,Fogueiras,26,5,5,Z1,*6,IV,0,major,18.0
+LINS,19,Fogueiras,27,5,5,Z5.1,*6.M7.9,IV,0,major,18.5
+LINS,19,Fogueiras,28,7,7,Y4,*7.13,V,0,major,19.0
+LINS,19,Fogueiras,29,7,7,Y0,*7,V,0,major,19.5
+LINS,19,Fogueiras,30,7,7,Y1.1,*4.7.9,V,0,major,19.75
+LINS,19,Fogueiras,31,0,7,V0,*,I,0,major,20.0
+LINS,20,Guarde nos olhos,1,0,0,Z2,*M7.9,I,0,major,1.0
+LINS,20,Guarde nos olhos,2,0,0,Z1,*6,I,0,major,1.5
+LINS,20,Guarde nos olhos,3,0,0,Z2,*M7.9,I,0,major,2.0
+LINS,20,Guarde nos olhos,4,0,0,Z1,*6,I,0,major,2.5
+LINS,20,Guarde nos olhos,5,9,9,Y1.1,*4.7.9,V/II,0,major,3.0
+LINS,20,Guarde nos olhos,6,9,9,z2,*m7.9,VI,0,major,3.5
+LINS,20,Guarde nos olhos,7,9,9,Y1.1,*4.7.9,V/II,0,major,4.0
+LINS,20,Guarde nos olhos,8,9,9,z2,*m7.9,VI,0,major,4.5
+LINS,20,Guarde nos olhos,9,5,5,Z2,*M7.9,IV,0,major,5.0
+LINS,20,Guarde nos olhos,10,5,5,Z1,*6,IV,0,major,5.5
+LINS,20,Guarde nos olhos,11,5,5,Z3,*M7(#11),IV,0,major,6.0
+LINS,20,Guarde nos olhos,12,7,7,Y1.1,*4.7.9,V,0,major,6.5
+LINS,20,Guarde nos olhos,13,7,7,Y2,*7.9,V,0,major,6.75
+LINS,20,Guarde nos olhos,14,0,0,Z2,*M7.9,I,0,major,7.0
+LINS,20,Guarde nos olhos,15,0,0,Z1,*6,I,0,major,7.5
+LINS,20,Guarde nos olhos,16,0,0,Z2,*M7.9,I,0,major,8.0
+LINS,20,Guarde nos olhos,17,0,0,Z1,*6,I,0,major,8.5
+LINS,20,Guarde nos olhos,18,7,7,Y1.1.2,*4.7.9.13,V,0,major,9.0
+LINS,20,Guarde nos olhos,19,7,7,Y2,*7.9,V,0,major,9.5
+LINS,20,Guarde nos olhos,20,4,4,z2.1,*m7.9.11,III,0,major,10.0
+LINS,20,Guarde nos olhos,21,9,9,z2.1,*m7.9.11,VI,0,major,10.5
+LINS,20,Guarde nos olhos,22,4,2,Y0,*7,V/VI,0,major,11.0
+LINS,20,Guarde nos olhos,23,1,1,z2,*m7.9,?,0,major,12.0
+LINS,20,Guarde nos olhos,24,6,6,z2,*m7.9,?,0,major,12.5
+LINS,20,Guarde nos olhos,25,5,5,Z2,*M7.9,IV,0,major,13.0
+LINS,20,Guarde nos olhos,26,5,5,Z1,*6,IV,0,major,13.5
+LINS,20,Guarde nos olhos,27,4,4,z2.1,*m7.9.11,III,0,major,14.0
+LINS,20,Guarde nos olhos,28,9,9,z2.1,*m7.9.11,VI,0,major,14.5
+LINS,20,Guarde nos olhos,29,2,2,Y4,*7.13,V/V,0,major,15.0
+LINS,20,Guarde nos olhos,30,2,2,Y4.1,*7(b13),V/V,0,major,15.5
+LINS,20,Guarde nos olhos,31,7,7,Y1.1,*4.7.9,V,0,major,16.0
+LINS,20,Guarde nos olhos,32,7,7,Y2.2.1,*7(b9)13,V,0,major,16.5
+LINS,20,Guarde nos olhos,33,0,0,Z2,*M7.9,I,0,major,17.0
+LINS,20,Guarde nos olhos,34,0,0,Z1,*6,I,0,major,17.5
+LINS,20,Guarde nos olhos,35,0,0,Z2,*M7.9,I,0,major,18.0
+LINS,20,Guarde nos olhos,36,0,0,Z1,*6,I,0,major,18.5
+LINS,20,Guarde nos olhos,37,9,9,Y1.1,*4.7.9,V/II,0,major,19.0
+LINS,20,Guarde nos olhos,38,9,9,z2,*m7.9,VI,0,major,19.5
+LINS,20,Guarde nos olhos,39,9,9,Y1.1,*4.7.9,V/II,0,major,20.0
+LINS,20,Guarde nos olhos,40,9,9,z2,*m7.9,VI,0,major,20.5
+LINS,20,Guarde nos olhos,41,5,5,Z2,*M7.9,IV,0,major,21.0
+LINS,20,Guarde nos olhos,42,5,5,Z1,*6,IV,0,major,21.5
+LINS,20,Guarde nos olhos,43,5,5,Z3,*M7(#11),IV,0,major,22.0
+LINS,20,Guarde nos olhos,44,7,7,Y1.1,*4.7.9,V,0,major,22.5
+LINS,20,Guarde nos olhos,45,7,7,Y2,*7.9,V,0,major,22.75
+LINS,20,Guarde nos olhos,46,0,0,Z2,*M7.9,I,0,major,23.0
+LINS,20,Guarde nos olhos,47,0,0,Z1,*6,I,0,major,23.5
+LINS,20,Guarde nos olhos,48,7,7,z0,*m7,II__X,0,major,24.0
+LINS,20,Guarde nos olhos,49,0,0,Y0,*7,V/IV,0,major,24.5
+LINS,20,Guarde nos olhos,50,5,5,Z2,*M7.9,IV,0,major,25.0
+LINS,20,Guarde nos olhos,51,5,5,Z1,*6,IV,0,major,25.5
+LINS,20,Guarde nos olhos,52,5,5,Z3,*M7(#11),IV,0,major,26.0
+LINS,20,Guarde nos olhos,53,7,7,Y1.1,*4.7.9,V,0,major,26.5
+LINS,20,Guarde nos olhos,54,7,7,Y2,*7.9,V,0,major,26.75
+LINS,20,Guarde nos olhos,55,0,0,Z2,*M7.9,I,0,major,27.0
+LINS,21,Ituverava,1,11,11,Z2,*M7.9,I,11,major,1.0
+LINS,21,Ituverava,2,8,8,z2,*m7.9,VI,11,major,1.5
+LINS,21,Ituverava,3,4,4,z1.2,*m6.11,IVm7,11,major,2.0
+LINS,21,Ituverava,4,6,6,Y1,*4.7,V,11,major,2.5
+LINS,21,Ituverava,5,11,11,Z2,*M7.9,I,11,major,3.0
+LINS,21,Ituverava,6,8,8,z2,*m7.9,VI,11,major,3.5
+LINS,21,Ituverava,7,4,4,z1.2,*m6.11,IVm7,11,major,4.0
+LINS,21,Ituverava,8,6,6,Y1,*4.7,V,11,major,4.5
+LINS,21,Ituverava,9,11,11,Z2,*M7.9,I,11,major,5.0
+LINS,21,Ituverava,10,8,8,z2,*m7.9,VI,11,major,5.5
+LINS,21,Ituverava,11,0,0,z0,*m7,II,11,major,6.0
+LINS,21,Ituverava,12,6,6,Y1,*4.7,V,11,major,6.25
+LINS,21,Ituverava,13,6,4,Y0,*7,V,11,major,6.5
+LINS,21,Ituverava,14,3,3,z2.1,*m7.9.11,III,11,major,7.0
+LINS,21,Ituverava,15,4,4,z2.1,*m7.9.11,IVm7,11,major,7.5
+LINS,21,Ituverava,16,1,1,z0,*m7,II,11,major,8.0
+LINS,21,Ituverava,17,6,6,Y1,*4.7,V,11,major,8.5
+LINS,21,Ituverava,18,1,8,Z0,*M7,IV,4,major,9.0
+LINS,21,Ituverava,19,6,6,z1,*m6,II,4,major,9.25
+LINS,21,Ituverava,20,11,11,Y2,*7.9,V,4,major,9.5
+LINS,21,Ituverava,21,4,8,Z0,*M7,I,4,major,10.0
+LINS,21,Ituverava,22,1,1,z0,*m7,VI,4,major,10.5
+LINS,21,Ituverava,23,7,6,Z0,*M7,IV,2,major,11.0
+LINS,21,Ituverava,24,4,4,z1,*m6,II,2,major,11.25
+LINS,21,Ituverava,25,9,9,Y2,*7.9,V,2,major,11.5
+LINS,21,Ituverava,26,2,6,Z0,*M7,I,2,major,12.0
+LINS,21,Ituverava,27,11,11,z0,*m7,VI,2,major,12.5
+LINS,21,Ituverava,28,5,4,Z0,*M7,IV,0,major,13.0
+LINS,21,Ituverava,29,2,2,z1,*m6,II,0,major,13.25
+LINS,21,Ituverava,30,7,7,Y2,*7.9,V,0,major,13.5
+LINS,21,Ituverava,31,0,4,V0,*,I,0,major,14.0
+LINS,21,Ituverava,32,0,0,V0,*,I,0,major,14.5
+LINS,21,Ituverava,33,1,1,z0,*m7,II,11,major,15.0
+LINS,21,Ituverava,34,6,6,Y1,*4.7,V,11,major,15.5
+LINS,21,Ituverava,35,11,11,Z2,*M7.9,I,11,major,16.0
+LINS,21,Ituverava,36,8,8,z2,*m7.9,VI,11,major,16.5
+LINS,21,Ituverava,37,4,4,z1.2,*m6.11,IVm7,11,major,17.0
+LINS,21,Ituverava,38,6,6,Y1,*4.7,V,11,major,17.5
+LINS,21,Ituverava,39,11,11,Z2,*M7.9,I,11,major,18.0
+LINS,21,Ituverava,40,8,8,z2,*m7.9,VI,11,major,18.5
+LINS,21,Ituverava,41,4,4,z1.2,*m6.11,IVm7,11,major,19.0
+LINS,21,Ituverava,42,6,6,Y1,*4.7,V,11,major,19.5
+LINS,22,Iluminados,1,2,2,Z0,*M7,I,2,major,1.0
+LINS,22,Iluminados,2,7,2,Z0,*M7,IV,2,major,2.0
+LINS,22,Iluminados,3,9,2,V0,*,V,2,major,3.0
+LINS,22,Iluminados,4,7,7,Z0,*M7,IV,2,major,5.0
+LINS,22,Iluminados,5,6,6,z0,*m7,III,2,major,6.0
+LINS,22,Iluminados,6,4,4,z0,*m7,II,2,major,7.0
+LINS,22,Iluminados,7,7,2,Z0,*M7,IV,2,major,8.0
+LINS,22,Iluminados,8,0,0,Z5,*6.M7,bVII7M,2,major,9.0
+LINS,22,Iluminados,9,11,11,Y1,*4.7,V/II,2,major,10.0
+LINS,22,Iluminados,10,11,11,Y0,*7,V/II,2,major,10.5
+LINS,22,Iluminados,11,5,5,z2,*m7.9,II__X,2,major,11.0
+LINS,22,Iluminados,12,10,10,Y4,*7.13,SubV/V,2,major,12.0
+LINS,22,Iluminados,13,4,4,z0,*m7,II,2,major,13.0
+LINS,22,Iluminados,14,9,9,Y0,*7,V,2,major,14.0
+LINS,22,Iluminados,15,9,2,V0,*,V,2,major,15.0
+LINS,22,Iluminados,16,7,2,Z0,*M7,IV,2,major,16.0
+LINS,23,Joana dos barcos,1,0,0,Z2,*M7.9,I,0,major,1.0
+LINS,23,Joana dos barcos,2,0,0,Y1.1.2,*4.7.9.13,V/IV,0,major,3.0
+LINS,23,Joana dos barcos,3,0,0,Z2,*M7.9,I,0,major,5.0
+LINS,23,Joana dos barcos,4,0,0,Y1.1.2,*4.7.9.13,V/IV,0,major,7.0
+LINS,23,Joana dos barcos,5,0,0,Z2,*M7.9,I,0,major,9.0
+LINS,23,Joana dos barcos,6,0,0,Y1.1.2,*4.7.9.13,V/IV,0,major,11.0
+LINS,23,Joana dos barcos,7,0,0,Z2,*M7.9,I,0,major,13.0
+LINS,23,Joana dos barcos,8,0,0,Y1.1.2,*4.7.9.13,V/IV,0,major,15.0
+LINS,23,Joana dos barcos,9,5,5,Z2,*M7.9,IV,0,major,17.0
+LINS,23,Joana dos barcos,10,4,4,z2.1,*m7.9.11,III,0,major,18.0
+LINS,23,Joana dos barcos,11,2,2,z2.1,*m7.9.11,II,0,major,21.0
+LINS,23,Joana dos barcos,12,4,4,z2.1,*m7.9.11,III,0,major,23.0
+LINS,23,Joana dos barcos,13,5,5,Z2,*M7.9,IV,0,major,25.0
+LINS,23,Joana dos barcos,14,4,4,z2.1,*m7.9.11,III,0,major,27.0
+LINS,23,Joana dos barcos,15,3,3,Z1.1,*6.9,Np/II,0,major,28.0
+LINS,23,Joana dos barcos,16,2,2,Y2,*7.9,V/V,0,major,29.0
+LINS,23,Joana dos barcos,17,1,1,Z2,*M7.9,bII7M,0,major,30.0
+LINS,23,Joana dos barcos,18,0,0,Z2,*M7.9,I,0,major,31.0
+LINS,23,Joana dos barcos,19,0,0,Y1.1.2,*4.7.9.13,V/IV,0,major,33.0
+LINS,23,Joana dos barcos,20,0,0,Z2,*M7.9,I,0,major,35.0
+LINS,23,Joana dos barcos,21,0,0,Y1.1.2,*4.7.9.13,V/IV,0,major,37.0
+LINS,23,Joana dos barcos,22,0,0,Z2,*M7.9,I,0,major,39.0
+LINS,24,Lembra de mim,1,0,0,Z2,*M7.9,I,0,major,1.0
+LINS,24,Lembra de mim,2,11,11,z2.1,*m7.9.11,II__X,0,major,2.0
+LINS,24,Lembra de mim,3,4,4,Y2.2.3,*7.9(b13),V/VI,0,major,2.5
+LINS,24,Lembra de mim,4,9,9,z2,*m7.9,VI,0,major,3.0
+LINS,24,Lembra de mim,5,9,7,z2,*m7.9,VI,0,major,3.5
+LINS,24,Lembra de mim,6,6,6,y1,*Ø.9,II__X,0,major,4.0
+LINS,24,Lembra de mim,7,11,11,Y2.2.3,*7.9(b13),V/III,0,major,4.5
+LINS,24,Lembra de mim,8,4,4,w1,*mM7.9,II__X,0,major,5.0
+LINS,24,Lembra de mim,9,4,4,z2,*m7.9,II__X,0,major,5.5
+LINS,24,Lembra de mim,10,9,9,Y1.1.2,*4.7.9.13,V/II,0,major,6.0
+LINS,24,Lembra de mim,11,9,9,Y2.2,*7.9.13,V/II,0,major,6.5
+LINS,24,Lembra de mim,12,2,2,Y1.1,*4.7.9,V/V,0,major,7.0
+LINS,24,Lembra de mim,13,2,2,Y2,*7.9,V/V,0,major,7.5
+LINS,24,Lembra de mim,14,7,7,Y2.2.3,*7.9(b13),V,0,major,8.0
+LINS,24,Lembra de mim,15,10,2,Z0,*M7,bVII7M,0,major,8.5
+LINS,24,Lembra de mim,16,1,1,Y2.2.1,*7(b9)13,SubV,0,major,8.75
+LINS,24,Lembra de mim,17,0,0,Y2.2.3,*7.9(b13),V/III,1,major,9.0
+LINS,24,Lembra de mim,18,0,0,Y2.1.1,*7.9(#11)13,V/III,1,major,9.5
+LINS,24,Lembra de mim,19,5,5,z2.1,*m7.9.11,II__X,1,major,10.0
+LINS,24,Lembra de mim,20,10,10,Y2.2.3,*7.9(b13),V/II,1,major,11.0
+LINS,24,Lembra de mim,21,10,10,Y2.1.1,*7.9(#11)13,V/II,1,major,11.5
+LINS,24,Lembra de mim,22,3,3,z2.1,*m7.9.11,II,1,major,12.0
+LINS,24,Lembra de mim,23,8,8,Y2.2.3,*7.9(b13),V,1,major,13.0
+LINS,24,Lembra de mim,24,8,8,Y2.1.1,*7.9(#11)13,V,1,major,13.5
+LINS,24,Lembra de mim,25,1,1,Z2,*M7.9,I,1,major,14.0
+LINS,24,Lembra de mim,26,2,2,y1,*Ø.9,IIm7(b5),0,major,15.0
+LINS,24,Lembra de mim,27,7,7,Y2.2.2,*7(#9)13,V,0,major,15.5
+LINS,24,Lembra de mim,28,0,0,Z2,*M7.9,I,0,major,16.0
+LINS,24,Lembra de mim,29,11,11,z2.1,*m7.9.11,II__X,0,major,17.0
+LINS,24,Lembra de mim,30,4,4,Y2.2.3,*7.9(b13),V/VI,0,major,17.5
+LINS,24,Lembra de mim,31,9,9,z2,*m7.9,VI,0,major,18.0
+LINS,24,Lembra de mim,32,9,7,z2,*m7.9,VI,0,major,18.5
+LINS,24,Lembra de mim,33,6,6,y1,*Ø.9,II__X,0,major,19.0
+LINS,24,Lembra de mim,34,11,11,Y2.2.3,*7.9(b13),V/III,0,major,19.5
+LINS,24,Lembra de mim,35,4,4,w1,*mM7.9,II__X,0,major,20.0
+LINS,24,Lembra de mim,36,4,4,z2,*m7.9,II__X,0,major,20.5
+LINS,24,Lembra de mim,37,9,9,Y1.1.2,*4.7.9.13,V/II,0,major,21.0
+LINS,24,Lembra de mim,38,9,9,Y2.2,*7.9.13,V/II,0,major,21.5
+LINS,24,Lembra de mim,39,2,2,Y1.1,*4.7.9,V/V,0,major,22.0
+LINS,24,Lembra de mim,40,2,2,Y2,*7.9,V/V,0,major,22.5
+LINS,24,Lembra de mim,41,7,7,Y2.2.3,*7.9(b13),V,0,major,23.0
+LINS,24,Lembra de mim,42,7,7,Y2.2.1,*7(b9)13,V,0,major,23.5
+LINS,24,Lembra de mim,43,0,0,Z2,*M7.9,I,0,major,24.0
+LINS,24,Lembra de mim,44,9,9,z0,*m7,VI,0,major,24.5
+LINS,24,Lembra de mim,45,2,2,z2,*m7.9,II,0,major,25.0
+LINS,24,Lembra de mim,46,7,7,Y2.2.3,*7.9(b13),V,0,major,25.25
+LINS,24,Lembra de mim,47,0,0,Z2,*M7.9,I,0,major,26.0
+LINS,25,Lembra,1,4,4,Z2,*M7.9,I,4,major,1.0
+LINS,25,Lembra,2,8,8,Y2.2.2.1,*7(#9.b13),V/VI,4,major,2.5
+LINS,25,Lembra,3,1,1,z2.1,*m7.9.11,VI,4,major,3.0
+LINS,25,Lembra,4,4,11,Z0,*M7,I,4,major,4.5
+LINS,25,Lembra,5,9,9,Z0,*M7,IV,4,major,5.0
+LINS,25,Lembra,6,10,10,y0,*Ø,II__X,4,major,6.0
+LINS,25,Lembra,7,3,3,Y2.4,*7(#9),V/III,4,major,6.5
+LINS,25,Lembra,8,3,3,Y4.1,*7(b13),V/III,4,major,6.75
+LINS,25,Lembra,9,8,8,z2,*m7.9,II__X,4,major,7.0
+LINS,25,Lembra,10,1,1,Y2.2,*7.9.13,V/II,4,major,8.0
+LINS,25,Lembra,11,1,1,Y2.2.1.1,*7(b9.b13),V/II,4,major,8.5
+LINS,25,Lembra,12,6,6,z2,*m7.9,II,4,major,9.0
+LINS,25,Lembra,13,4,4,z2,*m7.9,II__X,4,major,10.0
+LINS,25,Lembra,14,9,9,Y2.2,*7.9.13,SubV/III,4,major,10.5
+LINS,25,Lembra,15,3,3,y0,*Ø,II__X,4,major,11.0
+LINS,25,Lembra,16,8,8,Y2.2.1,*7(b9)13,V/VI,4,major,12.0
+LINS,25,Lembra,17,8,8,Y4.1,*7(b13),V/VI,4,major,12.5
+LINS,25,Lembra,18,1,1,w1,*mM7.9,II__X,4,major,13.0
+LINS,25,Lembra,19,1,1,z2,*m7.9,II__X,4,major,13.5
+LINS,25,Lembra,20,6,6,Y2.2,*7.9.13,V/V,4,major,14.0
+LINS,25,Lembra,21,11,11,Y1.1,*4.7.9,V,4,major,15.0
+LINS,25,Lembra,22,11,11,Y1.1.3,*4.7(b9),V,4,major,16.0
+LINS,25,Lembra,23,4,4,Z4,*(#5)M7,I,4,major,17.0
+LINS,25,Lembra,24,4,4,Z3,*M7(#11),I,4,major,17.25
+LINS,25,Lembra,25,4,4,Z0,*M7,I,4,major,17.5
+LINS,25,Lembra,26,4,4,V1,*4,I,4,major,19.0
+LINS,25,Lembra,27,4,4,V1.1,*4.9,I,4,major,20.0
+LINS,25,Lembra,28,4,4,V1,*4,I,4,major,21.0
+LINS,25,Lembra,29,4,4,V1.1,*4.9,I,4,major,22.0
+LINS,25,Lembra,30,7,7,V1,*4,I,7,major,23.0
+LINS,25,Lembra,31,7,7,V1.1,*4.9,I,7,major,24.0
+LINS,25,Lembra,32,7,7,V1,*4,I,7,major,25.0
+LINS,25,Lembra,33,7,7,V1.1,*4.9,I,7,major,26.0
+LINS,25,Lembra,34,7,7,Z2,*M7.9,I,7,major,27.0
+LINS,25,Lembra,35,11,11,Y2.2.1,*7(b9)13,V/VI,7,major,28.5
+LINS,25,Lembra,36,4,4,z2.1,*m7.9.11,VI,7,major,29.0
+LINS,25,Lembra,37,7,2,Z0,*M7,I,7,major,30.5
+LINS,25,Lembra,38,0,0,Z0,*M7,IV,7,major,31.0
+LINS,25,Lembra,39,1,1,y1,*Ø.9,II__X,7,major,32.0
+LINS,25,Lembra,40,6,6,Y4.1,*7(b13),V/III,7,major,32.5
+LINS,25,Lembra,41,11,11,z2,*m7.9,II__X,7,major,33.0
+LINS,25,Lembra,42,4,4,Y2.2,*7.9.13,V/II,7,major,34.0
+LINS,25,Lembra,43,4,4,Y2.2.1.1,*7(b9.b13),V/II,7,major,34.5
+LINS,25,Lembra,44,9,9,z2,*m7.9,II,7,major,35.0
+LINS,25,Lembra,45,7,7,z2,*m7.9,II__X,7,major,36.0
+LINS,25,Lembra,46,0,0,Y4,*7.13,SubV/III,7,major,36.5
+LINS,25,Lembra,47,6,6,y1,*Ø.9,II__X,7,major,37.0
+LINS,25,Lembra,48,11,11,Y2.2.1.1,*7(b9.b13),V/VI,7,major,38.0
+LINS,25,Lembra,49,4,4,w1,*mM7.9,II__X,7,major,39.0
+LINS,25,Lembra,50,4,4,z2,*m7.9,II__X,7,major,39.5
+LINS,25,Lembra,51,9,9,Y2.2,*7.9.13,V/V,7,major,40.0
+LINS,25,Lembra,52,2,2,Y1.1,*4.7.9,V,7,major,41.0
+LINS,25,Lembra,53,2,2,Y1.1.3,*4.7(b9),V,7,major,42.0
+LINS,25,Lembra,54,7,7,Z4,*(#5)M7,I,7,major,43.0
+LINS,25,Lembra,55,7,7,Z3,*M7(#11),I,7,major,43.5
+LINS,25,Lembra,56,7,7,Z0,*M7,I,7,major,44.0
+LINS,26,Leva e traz,1,0,0,Z2,*M7.9,I,0,major,1.0
+LINS,26,Leva e traz,2,9,9,Y2.2.1.1,*7(b9.b13),V/II,0,major,6.0
+LINS,26,Leva e traz,3,2,2,Y2,*7.9,V/V,0,major,7.0
+LINS,26,Leva e traz,4,11,11,y0,*Ø,II__X,0,major,9.0
+LINS,26,Leva e traz,5,4,4,Y0,*7,V/VI,0,major,10.0
+LINS,26,Leva e traz,6,11,11,y0,*Ø,II__X,0,major,11.0
+LINS,26,Leva e traz,7,4,4,Y0,*7,V/VI,0,major,12.0
+LINS,26,Leva e traz,8,11,11,y0,*Ø,II__X,0,major,13.0
+LINS,26,Leva e traz,9,4,4,Y0,*7,V/VI,0,major,14.0
+LINS,26,Leva e traz,10,9,9,z0,*m7,II__X,0,major,15.0
+LINS,26,Leva e traz,11,2,2,Y2,*7.9,V/V,0,major,16.0
+LINS,26,Leva e traz,12,7,7,Y1.1.2,*4.7.9.13,V,0,major,17.0
+LINS,26,Leva e traz,13,7,7,Y2.2,*7.9.13,V,0,major,18.0
+LINS,26,Leva e traz,14,7,7,Y1.1.2,*4.7.9.13,V,0,major,19.0
+LINS,26,Leva e traz,15,7,7,Y2.2,*7.9.13,V,0,major,20.0
+LINS,26,Leva e traz,16,7,7,Y1.1.2,*4.7.9.13,V,0,major,21.0
+LINS,26,Leva e traz,17,7,7,Y2.2,*7.9.13,V,0,major,22.0
+LINS,26,Leva e traz,18,0,0,Z2,*M7.9,I,0,major,23.0
+LINS,26,Leva e traz,19,0,0,Z1.1,*6.9,I,0,major,24.0
+LINS,26,Leva e traz,20,7,7,Y1.1.2,*4.7.9.13,V,0,major,25.0
+LINS,26,Leva e traz,21,7,7,Y2.2,*7.9.13,V,0,major,26.0
+LINS,26,Leva e traz,22,7,7,Y1.1.2,*4.7.9.13,V,0,major,27.0
+LINS,26,Leva e traz,23,7,7,Y2.2,*7.9.13,V,0,major,28.0
+LINS,26,Leva e traz,24,7,7,Y1.1.2,*4.7.9.13,V,0,major,29.0
+LINS,26,Leva e traz,25,7,7,Y2.2,*7.9.13,V,0,major,30.0
+LINS,26,Leva e traz,26,0,0,Z2,*M7.9,I,0,major,31.0
+LINS,26,Leva e traz,27,0,0,Z1.1,*6.9,I,0,major,32.0
+LINS,26,Leva e traz,28,5,5,Z2,*M7.9,IV,0,major,33.0
+LINS,26,Leva e traz,29,5,5,Z1.1,*6.9,IV,0,major,34.0
+LINS,26,Leva e traz,30,10,10,Y1.1,*4.7.9,bVII7,0,major,35.0
+LINS,26,Leva e traz,31,10,10,Y2,*7.9,bVII7,0,major,36.0
+LINS,26,Leva e traz,32,0,4,V0,*,I,0,major,37.0
+LINS,26,Leva e traz,33,9,9,Y1.1.2,*4.7.9.13,V/II,0,major,39.0
+LINS,26,Leva e traz,34,9,9,Y2.2,*7.9.13,V/II,0,major,40.0
+LINS,26,Leva e traz,35,2,2,Y2,*7.9,V/V,0,major,41.0
+LINS,26,Leva e traz,36,7,7,Y1.1.2,*4.7.9.13,V,0,major,43.0
+LINS,26,Leva e traz,37,7,7,Y2.2,*7.9.13,V,0,major,44.0
+LINS,26,Leva e traz,38,0,0,Y1.1,*4.7.9,V/IV,0,major,45.0
+LINS,26,Leva e traz,39,0,0,Y2,*7.9,V/IV,0,major,46.0
+LINS,26,Leva e traz,40,0,0,z2,*m7.9,Im7,0,major,47.0
+LINS,26,Leva e traz,41,0,0,Y2,*7.9,V/IV,0,major,48.0
+LINS,26,Leva e traz,42,5,5,Z2,*M7.9,IV,0,major,49.0
+LINS,26,Leva e traz,43,5,5,Z1.1,*6.9,IV,0,major,50.0
+LINS,26,Leva e traz,44,10,10,Y1.1,*4.7.9,bVII7,0,major,51.0
+LINS,26,Leva e traz,45,10,10,Y2,*7.9,bVII7,0,major,52.0
+LINS,26,Leva e traz,46,0,4,V0,*,I,0,major,53.0
+LINS,26,Leva e traz,47,9,9,Y1.1.2,*4.7.9.13,V/II,0,major,54.0
+LINS,26,Leva e traz,48,9,9,Y2.2,*7.9.13,V/II,0,major,55.0
+LINS,26,Leva e traz,49,2,2,Y2,*7.9,V/V,0,major,56.0
+LINS,26,Leva e traz,50,7,7,Y1.1.2,*4.7.9.13,V,0,major,57.0
+LINS,26,Leva e traz,51,7,7,Y2.2,*7.9.13,V,0,major,58.0
+LINS,26,Leva e traz,52,0,0,Z2,*M7.9,I,0,major,59.0
+LINS,26,Leva e traz,53,5,0,Z5,*6.M7,IV,0,major,60.0
+LINS,26,Leva e traz,54,0,0,Z2,*M7.9,I,0,major,61.0
+LINS,26,Leva e traz,55,5,0,Z5,*6.M7,IV,0,major,62.0
+LINS,27,Madalena,1,0,0,Z2,*M7.9,I,0,major,1.0
+LINS,27,Madalena,2,0,0,Z1.1,*6.9,I,0,major,1.5
+LINS,27,Madalena,3,2,2,z2,*m7.9,II,0,major,2.0
+LINS,27,Madalena,4,7,7,Y4,*7.13,V,0,major,2.5
+LINS,27,Madalena,5,0,0,Z2,*M7.9,I,0,major,3.0
+LINS,27,Madalena,6,0,0,Z1.1,*6.9,I,0,major,3.5
+LINS,27,Madalena,7,2,2,z2,*m7.9,II,0,major,4.0
+LINS,27,Madalena,8,7,7,Y4,*7.13,V,0,major,4.5
+LINS,27,Madalena,9,0,0,Z2,*M7.9,I,0,major,5.0
+LINS,27,Madalena,10,0,0,Z1.1,*6.9,I,0,major,5.5
+LINS,27,Madalena,11,2,2,z2,*m7.9,II,0,major,6.0
+LINS,27,Madalena,12,7,7,Y4,*7.13,V,0,major,6.5
+LINS,27,Madalena,13,0,0,Y1.1,*4.7.9,V/IV,0,major,7.0
+LINS,27,Madalena,14,0,0,Y4,*7.13,V/IV,0,major,8.5
+LINS,27,Madalena,15,5,5,Z0,*M7,IV,0,major,9.0
+LINS,27,Madalena,16,5,5,Z1,*6,IV,0,major,9.5
+LINS,27,Madalena,17,0,0,Y1.1,*4.7.9,V/IV,0,major,10.0
+LINS,27,Madalena,18,0,0,Y2,*7.9,V/IV,0,major,10.5
+LINS,27,Madalena,19,5,5,Z0,*M7,IV,0,major,11.0
+LINS,27,Madalena,20,5,5,Z1,*6,IV,0,major,11.5
+LINS,27,Madalena,21,0,0,Y1.1,*4.7.9,V/IV,0,major,12.0
+LINS,27,Madalena,22,0,0,Y2,*7.9,V/IV,0,major,12.5
+LINS,27,Madalena,23,5,5,Z0,*M7,IV,0,major,13.0
+LINS,27,Madalena,24,5,5,Z1,*6,IV,0,major,13.5
+LINS,27,Madalena,25,0,0,Y1.1,*4.7.9,V/IV,0,major,14.0
+LINS,27,Madalena,26,4,4,z2,*m7.9,II__X,0,major,15.0
+LINS,27,Madalena,27,9,9,Y2.2.2.1,*7(#9.b13),V/II,0,major,16.0
+LINS,27,Madalena,28,2,2,z2,*m7.9,II,0,major,17.0
+LINS,27,Madalena,29,0,0,z2,*m7.9,II__X,0,major,18.0
+LINS,27,Madalena,30,5,5,Y4,*7.13,SubV/III,0,major,18.5
+LINS,27,Madalena,31,11,11,z2.1,*m7.9.11,II__X,0,major,19.0
+LINS,27,Madalena,32,4,4,Y2.2.1,*7(b9)13,V/VI,0,major,20.0
+LINS,27,Madalena,33,9,9,z2,*m7.9,VI,0,major,21.0
+LINS,27,Madalena,34,9,7,z2,*m7.9,VI,0,major,22.0
+LINS,27,Madalena,35,6,6,z2,*m7.9,II,4,major,23.0
+LINS,27,Madalena,36,11,11,Y2.2.1,*7(b9)13,V,4,major,24.0
+LINS,27,Madalena,37,4,4,Z2,*M7.9,I,4,major,25.0
+LINS,27,Madalena,38,6,6,z2,*m7.9,II,4,major,26.0
+LINS,27,Madalena,39,8,8,z2,*m7.9,III,4,major,27.0
+LINS,27,Madalena,40,7,7,Z2,*M7.9,I,7,major,29.0
+LINS,27,Madalena,41,2,2,Y1.1.2,*4.7.9.13,V,7,major,30.0
+LINS,27,Madalena,42,7,7,Y1.1.2,*4.7.9.13,V,0,major,31.0
+LINS,27,Madalena,43,7,7,Y2.2,*7.9.13,V,0,major,32.0
+LINS,27,Madalena,44,0,0,Z2,*M7.9,I,0,major,33.0
+LINS,27,Madalena,45,0,0,Z1.1,*6.9,I,0,major,33.5
+LINS,27,Madalena,46,2,2,z2,*m7.9,II,0,major,34.0
+LINS,27,Madalena,47,7,7,Y4,*7.13,V,0,major,34.5
+LINS,27,Madalena,48,0,0,Z2,*M7.9,I,0,major,35.0
+LINS,27,Madalena,49,0,0,Z1.1,*6.9,I,0,major,35.5
+LINS,28,Meu pais,1,9,9,V1,*4,I,9,major,1.0
+LINS,28,Meu pais,2,4,11,Y1,*4.7,V,9,major,1.5
+LINS,28,Meu pais,3,4,4,Y1,*4.7,V,9,major,1.75
+LINS,28,Meu pais,4,9,9,V1,*4,I,9,major,2.0
+LINS,28,Meu pais,5,4,11,Y1,*4.7,V,9,major,2.5
+LINS,28,Meu pais,6,4,4,Y1,*4.7,V,9,major,2.75
+LINS,28,Meu pais,7,9,9,V1,*4,I,9,major,3.0
+LINS,28,Meu pais,8,4,11,Y1,*4.7,V,9,major,3.5
+LINS,28,Meu pais,9,4,4,Y1,*4.7,V,9,major,3.75
+LINS,28,Meu pais,10,9,9,V1,*4,I,9,major,4.0
+LINS,28,Meu pais,11,4,11,Y1,*4.7,V,9,major,4.5
+LINS,28,Meu pais,12,4,4,Y1,*4.7,V,9,major,4.75
+LINS,28,Meu pais,13,9,9,V1,*4,I,9,major,5.0
+LINS,28,Meu pais,14,4,11,Y1,*4.7,V,9,major,5.5
+LINS,28,Meu pais,15,4,4,Y1,*4.7,V,9,major,5.75
+LINS,28,Meu pais,16,9,9,V1,*4,I,9,major,6.0
+LINS,28,Meu pais,17,4,11,Y1,*4.7,V,9,major,6.5
+LINS,28,Meu pais,18,4,4,Y1,*4.7,V,9,major,6.75
+LINS,28,Meu pais,19,8,8,z3,*m7.11,II__X,9,major,9.0
+LINS,28,Meu pais,20,1,1,Y0,*7,V/VI,9,major,9.5
+LINS,28,Meu pais,21,2,2,Z1.1,*6.9,IV,9,major,10.0
+LINS,28,Meu pais,22,11,3,V1,*4,V/V,9,major,11.0
+LINS,28,Meu pais,23,8,8,Y0,*7,V/III,9,major,11.5
+LINS,28,Meu pais,24,1,1,z0,*m7,II__X,9,major,12.0
+LINS,28,Meu pais,25,6,6,Y0,*7,V/II,9,major,12.5
+LINS,28,Meu pais,26,11,11,Y2,*7.9,V/V,9,major,13.0
+LINS,28,Meu pais,27,4,4,Y1,*4.7,V,9,major,13.5
+LINS,28,Meu pais,28,9,9,V1,*4,I,9,major,14.0
+LINS,28,Meu pais,29,4,11,Y1,*4.7,V,9,major,14.5
+LINS,28,Meu pais,30,4,4,Y1,*4.7,V,9,major,14.75
+LINS,28,Meu pais,31,9,9,V1,*4,I,9,major,15.0
+LINS,28,Meu pais,32,4,11,Y1,*4.7,V,9,major,15.5
+LINS,28,Meu pais,33,4,4,Y1,*4.7,V,9,major,15.75
+LINS,28,Meu pais,34,2,2,z2,*m7.9,IVm7,9,major,16.0
+LINS,28,Meu pais,35,2,4,z1.1,*m6.9,IVm7,9,major,16.5
+LINS,28,Meu pais,36,5,5,Z0,*M7,bVI7M,9,major,17.0
+LINS,28,Meu pais,37,7,7,Y2.2,*7.9.13,bVII7,9,major,17.5
+LINS,28,Meu pais,38,11,11,z2.1,*m7.9.11,II,9,major,18.0
+LINS,28,Meu pais,39,9,1,V1,*4,I,9,major,18.5
+LINS,28,Meu pais,40,2,2,Z0,*M7,IV,9,major,19.0
+LINS,28,Meu pais,41,4,4,Y1,*4.7,V,9,major,19.5
+LINS,28,Meu pais,42,9,9,V1,*4,I,9,major,20.0
+LINS,28,Meu pais,43,4,11,Y1,*4.7,V,9,major,20.5
+LINS,28,Meu pais,44,4,4,Y1,*4.7,V,9,major,20.75
+LINS,28,Meu pais,45,9,9,V1,*4,I,9,major,21.0
+LINS,28,Meu pais,46,4,11,Y1,*4.7,V,9,major,21.5
+LINS,28,Meu pais,47,4,4,Y1,*4.7,V,9,major,21.75
+LINS,29,Mudanca dos ventos,1,4,4,Y1.3,*4.7.13,V,9,major,1.0
+LINS,29,Mudanca dos ventos,2,9,9,Z2,*M7.9,I,9,major,2.0
+LINS,29,Mudanca dos ventos,3,9,9,Z1.1,*6.9,I,9,major,2.5
+LINS,29,Mudanca dos ventos,4,4,4,Y1.1,*4.7.9,V,9,major,3.0
+LINS,29,Mudanca dos ventos,5,2,2,Z1.1.1,*6.9(#11),IV,9,major,3.5
+LINS,29,Mudanca dos ventos,6,1,1,z0,*m7,III,9,major,4.0
+LINS,29,Mudanca dos ventos,7,9,9,Y1.1,*4.7.9,V/IV,9,major,4.5
+LINS,29,Mudanca dos ventos,8,9,9,Y2,*7.9,V/IV,9,major,4.75
+LINS,29,Mudanca dos ventos,9,2,2,Z0,*M7,IV,9,major,5.0
+LINS,29,Mudanca dos ventos,10,3,3,x0,*°7,bIII°,9,major,5.5
+LINS,29,Mudanca dos ventos,11,1,1,z2,*m7.9,III,9,major,6.0
+LINS,29,Mudanca dos ventos,12,6,6,z2,*m7.9,VI,9,major,7.0
+LINS,29,Mudanca dos ventos,13,1,1,z2.1,*m7.9.11,II__X,9,major,8.0
+LINS,29,Mudanca dos ventos,14,6,6,Y1.1,*4.7.9,V/II,9,major,8.5
+LINS,29,Mudanca dos ventos,15,11,11,Y1.1,*4.7.9,V/V,9,major,9.0
+LINS,29,Mudanca dos ventos,16,11,11,Y3,*7(#11),V/V,9,major,9.25
+LINS,29,Mudanca dos ventos,17,4,4,Y1.1,*4.7.9,V,9,major,9.5
+LINS,29,Mudanca dos ventos,18,4,4,Y2,*7.9,V,9,major,9.75
+LINS,29,Mudanca dos ventos,19,9,9,Y1.1,*4.7.9,V/IV,9,major,10.0
+LINS,29,Mudanca dos ventos,20,9,9,Y2,*7.9,V/IV,9,major,10.5
+LINS,29,Mudanca dos ventos,21,3,3,y1,*Ø.9,#IVm7(b5),9,major,11.0
+LINS,29,Mudanca dos ventos,22,2,2,z1.1,*m6.9,IVm7,9,major,11.5
+LINS,29,Mudanca dos ventos,23,1,1,z2,*m7.9,III,9,major,12.0
+LINS,29,Mudanca dos ventos,24,0,0,Y1.1,*4.7.9,SubV/II,9,major,12.5
+LINS,29,Mudanca dos ventos,25,11,11,z2,*m7.9,II,9,major,13.0
+LINS,30,Na areia na beira do mar,1,7,7,V1,*4,I,7,major,1.0
+LINS,30,Na areia na beira do mar,2,0,7,V1,*4,IV,7,major,3.0
+LINS,30,Na areia na beira do mar,3,7,7,V1,*4,I,7,major,5.0
+LINS,30,Na areia na beira do mar,4,4,4,z2,*m7.9,VI,7,major,6.0
+LINS,30,Na areia na beira do mar,5,9,9,z2,*m7.9,II,7,major,7.0
+LINS,30,Na areia na beira do mar,6,2,2,Y1.1,*4.7.9,V,7,major,8.0
+LINS,30,Na areia na beira do mar,7,7,7,V1,*4,I,7,major,9.0
+LINS,30,Na areia na beira do mar,8,7,6,Z0,*M7,I,7,major,10.5
+LINS,30,Na areia na beira do mar,9,2,2,Y1.1,*4.7.9,V,7,major,11.0
+LINS,30,Na areia na beira do mar,10,2,0,Y0,*7,V,7,major,12.0
+LINS,30,Na areia na beira do mar,11,7,11,V0,*,I,7,major,12.5
+LINS,30,Na areia na beira do mar,12,4,4,z2,*m7.9,VI,7,major,13.0
+LINS,30,Na areia na beira do mar,13,9,9,z2,*m7.9,II,7,major,14.0
+LINS,30,Na areia na beira do mar,14,2,2,Y1.1,*4.7.9,V,7,major,15.0
+LINS,30,Na areia na beira do mar,15,7,7,V1,*4,I,7,major,16.0
+LINS,30,Na areia na beira do mar,16,6,6,z3,*m7.11,II__X,7,major,18.0
+LINS,30,Na areia na beira do mar,17,11,11,Y4.1,*7(b13),V/VI,7,major,19.0
+LINS,30,Na areia na beira do mar,18,4,4,z2.1,*m7.9.11,II__X,7,major,20.0
+LINS,30,Na areia na beira do mar,19,9,9,Y0,*7,V/V,7,major,21.0
+LINS,30,Na areia na beira do mar,20,2,2,z2.1,*m7.9.11,II__X,7,major,22.0
+LINS,30,Na areia na beira do mar,21,7,7,Y2,*7.9,V/IV,7,major,23.0
+LINS,30,Na areia na beira do mar,22,0,0,V0,*,IV,7,major,24.0
+LINS,30,Na areia na beira do mar,23,7,11,V0,*,I,7,major,24.5
+LINS,30,Na areia na beira do mar,24,9,9,z0,*m7,II,7,major,25.0
+LINS,30,Na areia na beira do mar,25,9,9,Y0,*7,V/V,7,major,26.0
+LINS,30,Na areia na beira do mar,26,2,2,Y1.1,*4.7.9,V,7,major,27.0
+LINS,30,Na areia na beira do mar,27,2,6,V0,*,V,7,major,27.5
+LINS,30,Na areia na beira do mar,28,7,7,V1,*4,I,7,major,28.0
+LINS,30,Na areia na beira do mar,29,0,7,V1,*4,IV,7,major,30.0
+LINS,31,Novo tempo,1,9,9,V0,*,I,9,major,1.0
+LINS,31,Novo tempo,2,9,9,Z0,*M7,I,9,major,2.0
+LINS,31,Novo tempo,3,9,9,Y1,*4.7,V/IV,9,major,3.0
+LINS,31,Novo tempo,4,2,6,V1,*4,IV,9,major,4.0
+LINS,31,Novo tempo,5,9,9,V0,*,I,9,major,5.0
+LINS,31,Novo tempo,6,1,1,z2.1,*m7.9.11,III,9,major,6.0
+LINS,31,Novo tempo,7,6,6,z2,*m7.9,VI,9,major,7.0
+LINS,31,Novo tempo,8,6,6,z1.1,*m6.9,VI,9,major,8.0
+LINS,31,Novo tempo,9,11,11,z0,*m7,II,9,major,9.0
+LINS,31,Novo tempo,10,9,9,z1.1,*m6.9,Im7,9,major,9.5
+LINS,31,Novo tempo,11,8,8,y0,*Ø,II__X,9,major,10.0
+LINS,31,Novo tempo,12,1,1,Y2.3,*7(b9),V/VI,9,major,10.5
+LINS,31,Novo tempo,13,6,6,z0,*m7,VI,9,major,11.0
+LINS,31,Novo tempo,14,3,3,y0,*Ø,#IVm7(b5),9,major,12.0
+LINS,31,Novo tempo,15,9,4,Z0,*M7,I,9,major,12.5
+LINS,31,Novo tempo,16,2,6,V0,*,IV,9,major,13.0
+LINS,31,Novo tempo,17,11,11,z0,*m7,II,9,major,13.5
+LINS,31,Novo tempo,18,4,4,Y1,*4.7,V,9,major,14.0
+LINS,31,Novo tempo,19,4,2,Y0,*7,V,9,major,15.0
+LINS,31,Novo tempo,20,2,2,V0,*,IV,9,major,16.0
+LINS,31,Novo tempo,21,4,2,Y0,*7,V,9,major,17.0
+LINS,31,Novo tempo,22,2,2,V0,*,IV,9,major,18.0
+LINS,31,Novo tempo,23,9,1,V0,*,I,9,major,19.0
+LINS,31,Novo tempo,24,6,6,Y1,*4.7,V/II,9,major,20.0
+LINS,31,Novo tempo,25,6,6,Y0,*7,V/II,9,major,20.5
+LINS,31,Novo tempo,26,11,11,Y1,*4.7,V/V,9,major,21.0
+LINS,31,Novo tempo,27,11,11,Y0,*7,V/V,9,major,21.5
+LINS,31,Novo tempo,28,1,1,Z0,*M7,I,1,major,22.0
+LINS,31,Novo tempo,29,6,1,Z0,*M7,IV,1,major,23.0
+LINS,31,Novo tempo,30,1,1,Z0,*M7,I,1,major,24.0
+LINS,31,Novo tempo,31,6,1,Z0,*M7,IV,1,major,25.0
+LINS,31,Novo tempo,32,4,4,Z0,*M7,I,4,major,26.0
+LINS,31,Novo tempo,33,9,4,Z0,*M7,IV,1,major,27.0
+LINS,31,Novo tempo,34,4,4,Y1,*4.7,V,9,major,28.0
+LINS,31,Novo tempo,35,4,4,z0,*m7,Vm7,9,major,29.0
+LINS,32,O amor e meu pais,1,9,9,V0,*,I,9,major,1.0
+LINS,32,O amor e meu pais,2,9,9,Z0,*M7,I,9,major,1.5
+LINS,32,O amor e meu pais,3,9,9,Z1,*6,I,9,major,2.0
+LINS,32,O amor e meu pais,4,9,9,Z0,*M7,I,9,major,2.5
+LINS,32,O amor e meu pais,5,9,9,Y1.1,*4.7.9,V/IV,9,major,3.0
+LINS,32,O amor e meu pais,6,9,9,Y4,*7.13,V/IV,9,major,3.5
+LINS,32,O amor e meu pais,7,2,2,Z0,*M7,IV,9,major,4.0
+LINS,32,O amor e meu pais,8,3,3,x0,*°7,V°/V,9,major,4.5
+LINS,32,O amor e meu pais,9,9,4,V0,*,I,9,major,5.0
+LINS,32,O amor e meu pais,10,6,6,z0,*m7,VI,9,major,5.5
+LINS,32,O amor e meu pais,11,7,7,Z0,*M7,bVII7M,9,major,6.0
+LINS,32,O amor e meu pais,12,9,9,Y1.1,*4.7.9,V/IV,9,major,6.5
+LINS,32,O amor e meu pais,13,10,10,Z0,*M7,bII7M,9,major,7.0
+LINS,32,O amor e meu pais,14,0,0,Y1.1,*4.7.9,V,5,major,7.5
+LINS,32,O amor e meu pais,15,5,5,Z0,*M7,I,5,major,8.0
+LINS,32,O amor e meu pais,16,0,0,Y1,*4.7,V,5,major,9.0
+LINS,32,O amor e meu pais,17,5,5,Z0,*M7,I,5,major,10.0
+LINS,32,O amor e meu pais,18,4,4,Y1,*4.7,V,9,major,11.0
+LINS,32,O amor e meu pais,19,9,4,Z0,*M7,I,9,major,12.0
+LINS,32,O amor e meu pais,20,3,3,z0,*m7,II__X,9,major,13.0
+LINS,32,O amor e meu pais,21,8,8,Y0,*7,V/III,9,major,13.5
+LINS,32,O amor e meu pais,22,1,1,z0,*m7,III,9,major,14.0
+LINS,32,O amor e meu pais,23,1,11,z0,*m7,III,9,major,14.5
+LINS,32,O amor e meu pais,24,10,10,y0,*Ø,?,9,major,15.0
+LINS,32,O amor e meu pais,25,9,9,Z0,*M7,I,9,major,15.5
+LINS,32,O amor e meu pais,26,6,6,z0,*m7,VI,9,major,16.0
+LINS,32,O amor e meu pais,27,8,8,z0,*m7,VIIm7,9,major,16.25
+LINS,32,O amor e meu pais,28,9,9,Z0,*M7,I,9,major,16.5
+LINS,32,O amor e meu pais,29,11,11,Y1,*4.7,V/V,9,major,17.0
+LINS,32,O amor e meu pais,30,4,4,Y1,*4.7,V,9,major,18.0
+LINS,32,O amor e meu pais,31,4,2,Y0,*7,V,9,major,19.0
+LINS,32,O amor e meu pais,32,9,1,V0,*,I,9,major,20.0
+LINS,32,O amor e meu pais,33,11,11,Y1,*4.7,V/V,9,major,21.0
+LINS,32,O amor e meu pais,34,4,4,Y1,*4.7,V,9,major,22.0
+LINS,32,O amor e meu pais,35,4,4,Y1.1.3,*4.7(b9),V,9,major,22.5
+LINS,32,O amor e meu pais,36,4,4,Y1.1,*4.7.9,V,9,major,23.0
+LINS,32,O amor e meu pais,37,4,4,z3,*m7.11,Vm7,9,major,23.25
+LINS,32,O amor e meu pais,38,4,4,Y0,*7,V,9,major,23.5
+LINS,33,Porta entreaberta,1,10,10,Z2,*M7.9,I,10,major,1.0
+LINS,33,Porta entreaberta,2,10,10,Z1,*6,I,10,major,1.5
+LINS,33,Porta entreaberta,3,10,10,Z2,*M7.9,I,10,major,2.0
+LINS,33,Porta entreaberta,4,10,10,Z1,*6,I,10,major,2.5
+LINS,33,Porta entreaberta,5,10,10,Z2,*M7.9,I,10,major,3.0
+LINS,33,Porta entreaberta,6,10,10,Z1,*6,I,10,major,3.5
+LINS,33,Porta entreaberta,7,0,0,z2,*m7.9,II,10,major,4.0
+LINS,33,Porta entreaberta,8,0,0,z1,*m6,II,10,major,4.5
+LINS,33,Porta entreaberta,9,5,5,Y1.1.2,*4.7.9.13,V,10,major,5.0
+LINS,33,Porta entreaberta,10,5,5,Y2,*7.9,V,10,major,5.5
+LINS,33,Porta entreaberta,11,5,5,Y1.1.2,*4.7.9.13,V,10,major,6.0
+LINS,33,Porta entreaberta,12,5,5,Y2,*7.9,V,10,major,6.5
+LINS,33,Porta entreaberta,13,10,10,Z2,*M7.9,I,10,major,7.0
+LINS,33,Porta entreaberta,14,10,10,Z1,*6,I,10,major,7.5
+LINS,33,Porta entreaberta,15,5,5,Y4,*7.13,V,10,major,8.0
+LINS,33,Porta entreaberta,16,5,5,Y1,*4.7,V,10,major,8.5
+LINS,33,Porta entreaberta,17,10,10,Z2,*M7.9,I,10,major,9.0
+LINS,33,Porta entreaberta,18,10,10,Z1,*6,I,10,major,9.5
+LINS,33,Porta entreaberta,19,10,10,Z2,*M7.9,I,10,major,10.0
+LINS,33,Porta entreaberta,20,10,10,Z1,*6,I,10,major,10.5
+LINS,33,Porta entreaberta,21,0,0,z2,*m7.9,II,10,major,11.0
+LINS,33,Porta entreaberta,22,0,0,z1,*m6,II,10,major,11.5
+LINS,33,Porta entreaberta,23,0,0,z2,*m7.9,II,10,major,12.0
+LINS,33,Porta entreaberta,24,0,0,z1,*m6,II,10,major,12.5
+LINS,33,Porta entreaberta,25,5,5,Y1.1.2,*4.7.9.13,V,10,major,13.0
+LINS,33,Porta entreaberta,26,5,5,Y2,*7.9,V,10,major,13.5
+LINS,33,Porta entreaberta,27,5,5,Y1.1.2,*4.7.9.13,V,10,major,14.0
+LINS,33,Porta entreaberta,28,5,5,Y2,*7.9,V,10,major,14.5
+LINS,33,Porta entreaberta,29,10,10,Z2,*M7.9,I,10,major,15.0
+LINS,33,Porta entreaberta,30,10,10,Z1,*6,I,10,major,15.5
+LINS,33,Porta entreaberta,31,10,10,Z2,*M7.9,I,10,major,16.0
+LINS,33,Porta entreaberta,32,10,10,Z1,*6,I,10,major,16.5
+LINS,33,Porta entreaberta,33,9,9,z3,*m7.11,II__X,10,major,17.0
+LINS,33,Porta entreaberta,34,2,2,Y4.1,*7(b13),V/VI,10,major,18.0
+LINS,33,Porta entreaberta,35,7,7,z2,*m7.9,VI,10,major,19.0
+LINS,33,Porta entreaberta,36,5,5,Y2,*7.9,II__X,10,major,21.0
+LINS,33,Porta entreaberta,37,10,10,Y1.1.2,*4.7.9.13,V/IV,10,major,22.0
+LINS,33,Porta entreaberta,38,3,3,Z0,*M7,IV,10,major,23.0
+LINS,33,Porta entreaberta,39,7,7,Y4.1,*7(b13),V/II,10,major,23.5
+LINS,33,Porta entreaberta,40,0,0,z2,*m7.9,II,10,major,24.0
+LINS,33,Porta entreaberta,41,3,3,z2,*m7.9,IVm7,10,major,25.0
+LINS,33,Porta entreaberta,42,8,8,Y2,*7.9,bVII7,10,major,26.0
+LINS,33,Porta entreaberta,43,10,2,Z2,*M7.9,I,10,major,27.0
+LINS,33,Porta entreaberta,44,1,1,z2.1,*m7.9.11,II__X,10,major,28.0
+LINS,33,Porta entreaberta,45,6,6,Y1.3,*4.7.13,SubV/V,10,major,28.5
+LINS,33,Porta entreaberta,46,0,0,z0,*m7,II,10,major,29.0
+LINS,33,Porta entreaberta,47,0,10,z0,*m7,II,10,major,29.5
+LINS,33,Porta entreaberta,48,9,9,z3,*m7.11,II__X,10,major,30.0
+LINS,33,Porta entreaberta,49,2,2,Y2.3,*7(b9),V/VI,10,major,30.5
+LINS,33,Porta entreaberta,50,7,7,z2,*m7.9,VI,10,major,31.0
+LINS,33,Porta entreaberta,51,0,0,Y4,*7.13,V/V,10,major,32.0
+LINS,33,Porta entreaberta,52,5,5,Y1.1,*4.7.9,V,10,major,33.0
+LINS,33,Porta entreaberta,53,9,9,Y3,*7(#11),II__X,10,major,34.0
+LINS,33,Porta entreaberta,54,2,2,Y2.3,*7(b9),V/VI,10,major,34.5
+LINS,33,Porta entreaberta,55,7,7,z2,*m7.9,VI,10,major,35.0
+LINS,33,Porta entreaberta,56,0,0,Y4,*7.13,V/V,10,major,36.0
+LINS,33,Porta entreaberta,57,5,5,Y1.1,*4.7.9,V,10,major,37.0
+LINS,33,Porta entreaberta,58,9,9,Y3,*7(#11),II__X,10,major,38.0
+LINS,33,Porta entreaberta,59,2,2,Y2.3,*7(b9),V/VI,10,major,38.5
+LINS,33,Porta entreaberta,60,7,7,z2,*m7.9,VI,10,major,39.0
+LINS,33,Porta entreaberta,61,0,0,Y4,*7.13,V/V,10,major,40.0
+LINS,33,Porta entreaberta,62,5,5,Y1.1,*4.7.9,V,10,major,41.0
+LINS,33,Porta entreaberta,63,10,10,Z2.1,*M7.9(#11),I,10,major,43.0
+LINS,34,Quadras de roda,1,4,4,Z2,*M7.9,I,4,major,1.0
+LINS,34,Quadras de roda,2,11,11,Y1.1,*4.7.9,V,4,major,1.5
+LINS,34,Quadras de roda,3,4,4,Z2,*M7.9,I,4,major,2.0
+LINS,34,Quadras de roda,4,11,11,Y1.1,*4.7.9,V,4,major,2.5
+LINS,34,Quadras de roda,5,4,4,Z2,*M7.9,I,4,major,3.0
+LINS,34,Quadras de roda,6,11,11,Y1.1,*4.7.9,V,4,major,3.5
+LINS,34,Quadras de roda,7,4,4,Z2,*M7.9,I,4,major,4.0
+LINS,34,Quadras de roda,8,11,11,Y1.1,*4.7.9,V,4,major,4.5
+LINS,34,Quadras de roda,9,4,4,Z2,*M7.9,I,4,major,5.0
+LINS,34,Quadras de roda,10,11,11,Y1.1,*4.7.9,V,4,major,5.5
+LINS,34,Quadras de roda,11,9,9,Z0,*M7,IV,4,major,6.0
+LINS,34,Quadras de roda,12,4,8,Z0,*M7,I,4,major,6.5
+LINS,34,Quadras de roda,13,6,6,z0,*m7,II,4,major,7.0
+LINS,34,Quadras de roda,14,11,11,Y1.1,*4.7.9,V,4,major,7.5
+LINS,34,Quadras de roda,15,4,4,Z2,*M7.9,I,4,major,8.0
+LINS,34,Quadras de roda,16,11,11,Y1.1,*4.7.9,V,4,major,8.5
+LINS,34,Quadras de roda,17,4,4,Z2,*M7.9,I,4,major,9.0
+LINS,34,Quadras de roda,18,11,11,Y1.1,*4.7.9,V,4,major,9.5
+LINS,34,Quadras de roda,19,4,4,Z2,*M7.9,I,4,major,10.0
+LINS,34,Quadras de roda,20,9,9,Z2,*M7.9,I,9,major,11.0
+LINS,34,Quadras de roda,21,2,9,Z0,*M7,IV,9,major,12.0
+LINS,34,Quadras de roda,22,9,9,Z2,*M7.9,I,9,major,13.0
+LINS,34,Quadras de roda,23,2,9,Z0,*M7,IV,9,major,14.0
+LINS,34,Quadras de roda,24,9,9,V1,*4,I,9,major,15.0
+LINS,34,Quadras de roda,25,9,9,V0,*,I,9,major,15.5
+LINS,34,Quadras de roda,26,9,9,Z2,*M7.9,I,9,major,16.0
+LINS,34,Quadras de roda,27,9,9,Z1.1,*6.9,I,9,major,16.5
+LINS,34,Quadras de roda,28,4,4,z2.1,*m7.9.11,Vm7,9,major,17.0
+LINS,34,Quadras de roda,29,6,6,z2,*m7.9,VI,9,major,19.0
+LINS,34,Quadras de roda,30,11,11,z2,*m7.9,II,9,major,20.0
+LINS,34,Quadras de roda,31,4,4,Y1.1,*4.7.9,V,9,major,20.5
+LINS,34,Quadras de roda,32,9,1,V1,*4,I,9,major,21.0
+LINS,34,Quadras de roda,33,2,2,Z2,*M7.9,IV,9,major,22.0
+LINS,34,Quadras de roda,34,4,4,Y1.1,*4.7.9,V,9,major,22.5
+LINS,34,Quadras de roda,35,2,2,Z2,*M7.9,IV,9,major,23.0
+LINS,34,Quadras de roda,36,1,1,z2.1,*m7.9.11,III,9,major,24.0
+LINS,34,Quadras de roda,37,11,11,z2,*m7.9,II,9,major,25.0
+LINS,34,Quadras de roda,38,1,1,z2.1,*m7.9.11,III,9,major,26.0
+LINS,34,Quadras de roda,39,2,2,Z2,*M7.9,IV,9,major,27.0
+LINS,34,Quadras de roda,40,1,1,z2.1,*m7.9.11,III,9,major,28.0
+LINS,34,Quadras de roda,41,11,11,z2,*m7.9,II,9,major,29.0
+LINS,34,Quadras de roda,42,1,1,z2.1,*m7.9.11,III,9,major,30.0
+LINS,34,Quadras de roda,43,11,3,V1,*4,V/V,9,major,30.5
+LINS,34,Quadras de roda,44,4,4,Y1.1,*4.7.9,V,9,major,31.0
+LINS,35,Rio de maio,1,7,7,Z0,*M7,I,7,major,1.0
+LINS,35,Rio de maio,2,9,9,Y4,*7.13,V/V,7,major,3.0
+LINS,35,Rio de maio,3,9,9,Y4.1,*7(b13),V/V,7,major,3.5
+LINS,35,Rio de maio,4,9,9,Y0,*7,V/V,7,major,4.0
+LINS,35,Rio de maio,5,9,9,Y3,*7(#11),V/V,7,major,4.5
+LINS,35,Rio de maio,6,5,5,Z2,*M7.9,bVII7M,7,major,5.0
+LINS,35,Rio de maio,7,2,2,z2,*m7.9,Vm7,7,major,6.0
+LINS,35,Rio de maio,8,11,11,z2.1,*m7.9.11,III,7,major,7.0
+LINS,35,Rio de maio,9,4,4,Y2.2.1,*7(b9)13,V/II,7,major,8.0
+LINS,35,Rio de maio,10,4,4,Y2.2.2.1,*7(#9.b13),V/II,7,major,8.5
+LINS,35,Rio de maio,11,8,8,Z0,*M7,bII7M,7,major,9.0
+LINS,35,Rio de maio,12,5,5,z2,*m7.9,bVIIm7,7,major,10.0
+LINS,35,Rio de maio,13,3,3,z2,*m7.9,bVIm7,7,major,10.5
+LINS,35,Rio de maio,14,2,2,z3,*m7.11,Vm7,7,major,11.0
+LINS,35,Rio de maio,15,7,7,Y2.3,*7(b9),V/IV,7,major,12.0
+LINS,35,Rio de maio,16,9,9,Z2,*M7.9,I,9,major,13.0
+LINS,35,Rio de maio,17,6,6,z2,*m7.9,VI,9,major,14.0
+LINS,35,Rio de maio,18,0,4,V1,*4,IV,7,major,15.0
+LINS,35,Rio de maio,19,2,2,Y4,*7.13,V,7,major,16.0
+LINS,35,Rio de maio,20,7,7,Y1.1.2,*4.7.9.13,V/IV,7,major,17.0
+LINS,35,Rio de maio,21,7,7,Y2.2.1,*7(b9)13,V/IV,7,major,18.0
+LINS,35,Rio de maio,22,1,1,y0,*Ø,#IVm7(b5),7,major,19.0
+LINS,35,Rio de maio,23,0,0,w1,*mM7.9,IVm7,7,major,20.0
+LINS,35,Rio de maio,24,11,11,Y4,*7.13,V/VI,7,major,21.0
+LINS,35,Rio de maio,25,11,11,Y4.1,*7(b13),V/VI,7,major,21.5
+LINS,35,Rio de maio,26,4,4,Y1.1.2,*4.7.9.13,V/II,7,major,22.0
+LINS,35,Rio de maio,27,4,4,Y2.2,*7.9.13,V/II,7,major,22.5
+LINS,35,Rio de maio,28,9,9,Y4,*7.13,V/V,7,major,23.0
+LINS,35,Rio de maio,29,9,9,Y4.1,*7(b13),V/V,7,major,23.5
+LINS,35,Rio de maio,30,2,2,Y1.1.2,*4.7.9.13,V,7,major,24.0
+LINS,35,Rio de maio,31,2,0,Y0,*7,V,7,major,24.5
+LINS,35,Rio de maio,32,11,11,Y4,*7.13,V/VI,7,major,25.0
+LINS,35,Rio de maio,33,11,11,Y4.1,*7(b13),V/VI,7,major,25.5
+LINS,35,Rio de maio,34,4,4,Y1.1,*4.7.9,V/II,7,major,26.0
+LINS,35,Rio de maio,35,4,4,Y2,*7.9,V/II,7,major,26.5
+LINS,35,Rio de maio,36,3,3,z2.1,*m7.9.11,II,1,major,27.0
+LINS,35,Rio de maio,37,8,8,Y1.1,*4.7.9,V,1,major,28.0
+LINS,35,Rio de maio,38,8,8,Y2,*7.9,V,1,major,28.5
+LINS,35,Rio de maio,39,1,1,Z2,*M7.9,I,1,major,29.0
+LINS,35,Rio de maio,40,10,10,z2,*m7.9,VI,1,major,30.0
+LINS,35,Rio de maio,41,3,3,z2.1,*m7.9.11,II,1,major,31.0
+LINS,35,Rio de maio,42,8,8,Y1.1,*4.7.9,V,1,major,32.0
+LINS,35,Rio de maio,43,8,8,Y2,*7.9,V,1,major,32.5
+LINS,35,Rio de maio,44,1,1,Z2,*M7.9,I,1,major,33.0
+LINS,35,Rio de maio,45,0,0,z2.1,*m7.9.11,II__X,7,major,34.0
+LINS,35,Rio de maio,46,5,5,Y4,*7.13,SubV/VI,7,major,35.0
+LINS,35,Rio de maio,47,4,4,z2.1,*m7.9.11,II__X,7,major,36.0
+LINS,35,Rio de maio,48,9,9,Y1.1.2,*4.7.9.13,V/V,7,major,37.0
+LINS,35,Rio de maio,49,9,9,Y2.2,*7.9.13,V/V,7,major,37.5
+LINS,35,Rio de maio,50,2,2,Z2,*M7.9,I,2,major,38.0
+LINS,35,Rio de maio,51,11,11,z2.1,*m7.9.11,VI,2,major,39.0
+LINS,35,Rio de maio,52,4,4,z2.1,*m7.9.11,II,2,major,40.0
+LINS,35,Rio de maio,53,9,9,Y1.1.2,*4.7.9.13,V,2,major,41.0
+LINS,35,Rio de maio,54,9,9,Y2.2,*7.9.13,V,2,major,41.5
+LINS,35,Rio de maio,55,2,2,Y1.1.2,*4.7.9.13,V,7,major,42.0
+LINS,35,Rio de maio,56,2,2,Y2.1,*7.9(#11),V,7,major,43.0
+LINS,36,Saindo de mim,1,4,4,Z0,*M7,I,4,major,1.0
+LINS,36,Saindo de mim,2,8,8,Y4.1,*7(b13),V/VI,4,major,1.5
+LINS,36,Saindo de mim,3,1,1,z0,*m7,VI,4,major,2.0
+LINS,36,Saindo de mim,4,1,1,Y0,*7,V/II,4,major,2.5
+LINS,36,Saindo de mim,5,6,6,w0,*mM7,II,4,major,3.0
+LINS,36,Saindo de mim,6,6,6,z0,*m7,II,4,major,4.0
+LINS,36,Saindo de mim,7,11,11,Y1,*4.7,V,4,major,5.0
+LINS,36,Saindo de mim,8,11,11,Y0,*7,V,4,major,6.0
+LINS,36,Saindo de mim,9,9,1,V1,*4,IV,4,major,6.5
+LINS,36,Saindo de mim,10,2,2,Y1.1,*4.7.9,bVII7,4,major,7.0
+LINS,36,Saindo de mim,11,2,2,Y2,*7.9,bVII7,4,major,7.5
+LINS,36,Saindo de mim,12,4,4,Z0,*M7,I,4,major,8.0
+LINS,36,Saindo de mim,13,9,4,Z0,*M7,IV,4,major,8.5
+LINS,36,Saindo de mim,14,4,4,Z0,*M7,I,4,major,9.0
+LINS,36,Saindo de mim,15,8,8,Y4.1,*7(b13),V/VI,4,major,9.5
+LINS,36,Saindo de mim,16,1,1,z0,*m7,VI,4,major,10.0
+LINS,36,Saindo de mim,17,1,1,Y0,*7,V/II,4,major,10.5
+LINS,36,Saindo de mim,18,6,6,w0,*mM7,II,4,major,11.0
+LINS,36,Saindo de mim,19,6,6,z0,*m7,II,4,major,12.0
+LINS,36,Saindo de mim,20,11,11,Y1,*4.7,V,4,major,13.0
+LINS,36,Saindo de mim,21,11,11,Y0,*7,V,4,major,14.0
+LINS,36,Saindo de mim,22,9,1,V1,*4,IV,4,major,14.5
+LINS,36,Saindo de mim,23,2,2,Y1.1,*4.7.9,bVII7,4,major,15.0
+LINS,36,Saindo de mim,24,2,2,Y2,*7.9,bVII7,4,major,15.5
+LINS,36,Saindo de mim,25,4,4,Z0,*M7,I,4,major,16.0
+LINS,36,Saindo de mim,26,10,10,Y3,*7(#11),SubV/IV,4,major,16.5
+LINS,36,Saindo de mim,27,9,9,Z0,*M7,IV,4,major,17.0
+LINS,36,Saindo de mim,28,11,9,Y0,*7,V,4,major,17.5
+LINS,36,Saindo de mim,29,4,8,V0,*,I,4,major,18.0
+LINS,36,Saindo de mim,30,2,6,V0,*,bVII7,4,major,18.5
+LINS,36,Saindo de mim,31,4,4,Y0,*7,V/IV,4,major,18.75
+LINS,36,Saindo de mim,32,9,9,Z0,*M7,IV,4,major,19.0
+LINS,36,Saindo de mim,33,10,10,y0,*Ø,II__X,4,major,20.0
+LINS,36,Saindo de mim,34,3,3,Y2.3,*7(b9),V/III,4,major,20.5
+LINS,36,Saindo de mim,35,4,8,V0,*,I,4,major,21.0
+LINS,36,Saindo de mim,36,6,6,z0,*m7,II,4,major,21.5
+LINS,36,Saindo de mim,37,4,4,Z0,*M7,I,4,major,22.0
+LINS,36,Saindo de mim,38,2,2,Y0,*7,bVII7,4,major,22.5
+LINS,36,Saindo de mim,39,1,1,Y1,*4.7,V/II,4,major,23.0
+LINS,36,Saindo de mim,40,1,1,Y0,*7,V/II,4,major,23.5
+LINS,36,Saindo de mim,41,6,6,Y1,*4.7,V/V,4,major,24.0
+LINS,36,Saindo de mim,42,6,6,Y0,*7,V/V,4,major,24.5
+LINS,36,Saindo de mim,43,11,11,Y1.1,*4.7.9,V,4,major,25.0
+LINS,36,Saindo de mim,44,11,9,Y0,*7,V,4,major,25.5
+LINS,36,Saindo de mim,45,4,8,V0,*,I,4,major,26.0
+LINS,36,Saindo de mim,46,2,6,Y0,*7,bVII7,4,major,26.5
+LINS,36,Saindo de mim,47,4,4,Y0,*7,V/IV,4,major,26.75
+LINS,36,Saindo de mim,48,9,9,Z0,*M7,IV,4,major,27.0
+LINS,36,Saindo de mim,49,10,10,y0,*Ø,II__X,4,major,28.0
+LINS,36,Saindo de mim,50,3,3,Y2.3,*7(b9),V/III,4,major,28.5
+LINS,36,Saindo de mim,51,4,8,V0,*,I,4,major,29.0
+LINS,36,Saindo de mim,52,6,6,z0,*m7,II,4,major,29.5
+LINS,36,Saindo de mim,53,4,4,Z0,*M7,I,4,major,30.0
+LINS,36,Saindo de mim,54,2,2,Y4,*7.13,SubV/VI,4,major,30.25
+LINS,36,Saindo de mim,55,1,1,Y1.3,*4.7.13,V/II,4,major,30.5
+LINS,36,Saindo de mim,56,1,1,Y4,*7.13,V/II,4,major,30.75
+LINS,36,Saindo de mim,57,6,6,Y2.2,*7.9.13,V/V,4,major,31.0
+LINS,36,Saindo de mim,58,6,6,Y2.2.3,*7.9(b13),V/V,4,major,31.5
+LINS,36,Saindo de mim,59,11,11,Y1.1.2,*4.7.9.13,V,4,major,32.0
+LINS,36,Saindo de mim,60,11,11,Y2.2.1,*7(b9)13,V,4,major,32.5
+LINS,36,Saindo de mim,61,4,4,z2.1,*m7.9.11,Im7,4,major,33.0
+LINS,36,Saindo de mim,62,9,9,Y2.2,*7.9.13,IV7,4,major,34.0
+LINS,36,Saindo de mim,63,4,4,z2.1,*m7.9.11,Im7,4,major,35.0
+LINS,36,Saindo de mim,64,9,9,Y2.2,*7.9.13,IV7,4,major,36.0
+LINS,36,Saindo de mim,65,2,2,Y1.3,*4.7.13,bVII7,4,major,37.0
+LINS,36,Saindo de mim,66,0,0,Y1.3,*4.7.13,SubV/V,4,major,38.0
+LINS,36,Saindo de mim,67,11,11,Y1.3,*4.7.13,V,4,major,38.5
+LINS,36,Saindo de mim,68,4,4,Z0,*M7,I,4,major,39.0
+LINS,37,Sertaneja,1,5,5,V0,*,I,5,major,1.0
+LINS,37,Sertaneja,2,0,5,V0,*,V,5,major,2.0
+LINS,37,Sertaneja,3,0,0,Y1,*4.7,V,5,major,3.0
+LINS,37,Sertaneja,4,0,0,Y0,*7,V,5,major,4.0
+LINS,37,Sertaneja,5,7,7,z0,*m7,II,5,major,5.0
+LINS,37,Sertaneja,6,0,0,Y0,*7,V,5,major,6.0
+LINS,37,Sertaneja,7,0,0,Y1,*4.7,V,5,major,6.5
+LINS,37,Sertaneja,8,5,5,V0,*,I,5,major,7.0
+LINS,37,Sertaneja,9,0,5,V0,*,V,5,major,10.0
+LINS,37,Sertaneja,10,0,0,Y1,*4.7,V,5,major,11.0
+LINS,37,Sertaneja,11,0,0,Y0,*7,V,5,major,12.0
+LINS,37,Sertaneja,12,7,7,z0,*m7,II,5,major,13.0
+LINS,37,Sertaneja,13,0,0,Y0,*7,V,5,major,14.0
+LINS,37,Sertaneja,14,0,0,Y1,*4.7,V,5,major,14.5
+LINS,37,Sertaneja,15,5,5,V0,*,I,5,major,15.0
+LINS,37,Sertaneja,16,5,5,Y1,*4.7,V/IV,5,major,16.0
+LINS,37,Sertaneja,17,5,5,Y0,*7,V/IV,5,major,16.5
+LINS,37,Sertaneja,18,10,10,Z0,*M7,IV,5,major,17.0
+LINS,37,Sertaneja,19,7,7,z0,*m7,II,5,major,18.0
+LINS,37,Sertaneja,20,0,0,Y0,*7,V,5,major,18.5
+LINS,37,Sertaneja,21,5,5,Z0,*M7,I,5,major,19.0
+LINS,37,Sertaneja,22,2,2,Y1,*4.7,V/II,5,major,20.0
+LINS,37,Sertaneja,23,2,2,z0,*m7,VI,5,major,20.5
+LINS,37,Sertaneja,24,7,7,z0,*m7,II,5,major,21.0
+LINS,37,Sertaneja,25,0,0,Y0,*7,V,5,major,22.0
+LINS,37,Sertaneja,26,0,0,Y1,*4.7,V,5,major,22.5
+LINS,37,Sertaneja,27,5,5,V0,*,I,5,major,23.0
+LINS,37,Sertaneja,28,5,5,Y1,*4.7,V/IV,5,major,24.0
+LINS,37,Sertaneja,29,5,5,Y0,*7,V/IV,5,major,24.5
+LINS,37,Sertaneja,30,10,10,Z0,*M7,IV,5,major,25.0
+LINS,37,Sertaneja,31,11,11,y0,*Ø,II__X,5,major,26.0
+LINS,37,Sertaneja,32,4,4,Y4.1,*7(b13),V/III,5,major,26.5
+LINS,37,Sertaneja,33,9,9,z0,*m7,II__X,5,major,27.0
+LINS,37,Sertaneja,34,2,2,Y1,*4.7,V/II,5,major,28.0
+LINS,37,Sertaneja,35,2,2,z0,*m7,VI,5,major,28.5
+LINS,37,Sertaneja,36,7,7,z0,*m7,II,5,major,29.0
+LINS,37,Sertaneja,37,0,0,Y1,*4.7,V,5,major,30.0
+LINS,37,Sertaneja,38,0,0,Y0,*7,V,5,major,30.5
+LINS,37,Sertaneja,39,5,5,V0,*,I,5,major,31.0
+LINS,38,Soberana rosa,1,7,7,V0,*,I,7,major,1.0
+LINS,38,Soberana rosa,2,7,7,V2.1,*9(#11),I,7,major,1.5
+LINS,38,Soberana rosa,3,7,7,V0,*,I,7,major,2.0
+LINS,38,Soberana rosa,4,7,7,V2.1,*9(#11),I,7,major,2.5
+LINS,38,Soberana rosa,5,7,7,V0,*,I,7,major,3.0
+LINS,38,Soberana rosa,6,7,7,V2.1,*9(#11),I,7,major,3.5
+LINS,38,Soberana rosa,7,0,0,Y1.1,*4.7.9,IV7,7,major,4.0
+LINS,38,Soberana rosa,8,0,0,Y0,*7,IV7,7,major,4.5
+LINS,38,Soberana rosa,9,0,0,Y1.1,*4.7.9,IV7,7,major,5.0
+LINS,38,Soberana rosa,10,0,0,Y0,*7,IV7,7,major,5.5
+LINS,38,Soberana rosa,11,7,7,V0,*,I,7,major,6.0
+LINS,38,Soberana rosa,12,7,7,V2.1,*9(#11),I,7,major,6.5
+LINS,38,Soberana rosa,13,7,7,V0,*,I,7,major,7.0
+LINS,38,Soberana rosa,14,7,7,V2.1,*9(#11),I,7,major,7.5
+LINS,38,Soberana rosa,15,0,0,z2,*m7.9,IVm7,7,major,8.0
+LINS,38,Soberana rosa,16,0,0,z1.1,*m6.9,IVm7,7,major,8.5
+LINS,38,Soberana rosa,17,0,0,z2,*m7.9,IVm7,7,major,9.0
+LINS,38,Soberana rosa,18,0,0,z1.1,*m6.9,IVm7,7,major,9.5
+LINS,38,Soberana rosa,19,4,4,z2,*m7.9,VI,7,major,10.0
+LINS,38,Soberana rosa,20,4,4,z1.1,*m6.9,VI,7,major,10.5
+LINS,38,Soberana rosa,21,4,4,z2,*m7.9,VI,7,major,11.0
+LINS,38,Soberana rosa,22,4,4,z1.1,*m6.9,VI,7,major,11.5
+LINS,38,Soberana rosa,23,0,0,z2,*m7.9,IVm7,7,major,12.0
+LINS,38,Soberana rosa,24,0,0,z1.1,*m6.9,IVm7,7,major,12.5
+LINS,38,Soberana rosa,25,0,0,z2,*m7.9,IVm7,7,major,13.0
+LINS,38,Soberana rosa,26,0,0,z1.1,*m6.9,IVm7,7,major,13.5
+LINS,38,Soberana rosa,27,4,4,z2,*m7.9,VI,7,major,14.0
+LINS,38,Soberana rosa,28,4,4,z1.1,*m6.9,VI,7,major,14.5
+LINS,38,Soberana rosa,29,4,4,z2,*m7.9,VI,7,major,15.0
+LINS,38,Soberana rosa,30,4,4,z1.1,*m6.9,VI,7,major,15.5
+LINS,38,Soberana rosa,31,3,3,Z2,*M7.9,bVI7M,7,major,16.0
+LINS,38,Soberana rosa,32,0,0,Z2,*M7.9,IV,7,major,17.0
+LINS,38,Soberana rosa,33,3,3,Z2,*M7.9,bVI7M,7,major,18.0
+LINS,38,Soberana rosa,34,0,0,Z2,*M7.9,IV,7,major,19.0
+LINS,38,Soberana rosa,35,9,9,z2.1,*m7.9.11,II,7,major,19.5
+LINS,38,Soberana rosa,36,5,5,z2.1,*m7.9.11,II__X,7,major,20.0
+LINS,38,Soberana rosa,37,10,10,Y2.2,*7.9.13,SubV/II,7,major,20.5
+LINS,38,Soberana rosa,38,4,4,z2,*m7.9,II__X,7,major,21.0
+LINS,38,Soberana rosa,39,9,9,Y2.1,*7.9(#11),V/V,7,major,21.5
+LINS,38,Soberana rosa,40,2,2,Y1.1.2,*4.7.9.13,V,7,major,22.0
+LINS,38,Soberana rosa,41,2,2,z2.1,*m7.9.11,Vm7,7,major,23.0
+LINS,39,Tens,1,4,2,Y0,*7,V/IV,4,major,1.0
+LINS,39,Tens,2,1,1,z0,*m7,VI,4,major,2.0
+LINS,39,Tens,3,6,6,z0,*m7,II,4,major,3.0
+LINS,39,Tens,4,11,11,Y1,*4.7,V,4,major,4.0
+LINS,39,Tens,5,11,11,Y0,*7,V,4,major,4.5
+LINS,39,Tens,6,4,4,Z0,*M7,I,4,major,5.0
+LINS,39,Tens,7,9,9,Z0,*M7,IV,4,major,6.0
+LINS,39,Tens,8,10,10,z0,*m7,II__X,4,major,7.0
+LINS,39,Tens,9,3,3,X2.1,*(b5)7(b9),V/VI,4,major,7.5
+LINS,39,Tens,10,6,9,z0,*m7,II,4,major,8.0
+LINS,39,Tens,11,8,8,Y0,*7,V/VI,4,major,8.5
+LINS,39,Tens,12,1,1,Z2,*M7.9,VIM7,4,major,9.0
+LINS,39,Tens,13,7,7,Y0,*7,V,0,major,9.5
+LINS,39,Tens,14,0,0,Z0,*M7,I,0,major,10.0
+LINS,39,Tens,15,0,0,Z1,*6,I,0,major,10.5
+LINS,39,Tens,16,5,5,Z0,*M7,IV,0,major,11.0
+LINS,39,Tens,17,5,5,Z1,*6,I,5,major,11.5
+LINS,39,Tens,18,10,10,Z0,*M7,IV,5,major,12.0
+LINS,39,Tens,19,10,10,Z1,*6,IV,5,major,12.5
+LINS,39,Tens,20,9,9,z0,*m7,III,5,major,13.0
+LINS,39,Tens,21,2,2,z0,*m7,VI,5,major,13.5
+LINS,39,Tens,22,7,7,Y1,*4.7,V/V,5,major,14.0
+LINS,39,Tens,23,7,7,Y0,*7,V/V,5,major,14.5
+LINS,39,Tens,24,0,0,Y1,*4.7,V,5,major,15.0
+LINS,39,Tens,25,0,0,Y0,*7,V,5,major,15.5
+LINS,39,Tens,26,5,5,Z0,*M7,I,5,major,16.0
+LINS,40,Um fado,1,4,4,Z0,*M7,I,4,major,1.0
+LINS,40,Um fado,2,11,11,Y1.1.2,*4.7.9.13,V,4,major,1.5
+LINS,40,Um fado,3,4,4,Z0,*M7,I,4,major,2.0
+LINS,40,Um fado,4,11,11,Y1.1.2,*4.7.9.13,V,4,major,2.5
+LINS,40,Um fado,5,9,9,Z0,*M7,IV,4,major,3.0
+LINS,40,Um fado,6,2,9,Z0,*M7,bVII7M,4,major,3.5
+LINS,40,Um fado,7,9,9,Z0,*M7,IV,4,major,4.0
+LINS,40,Um fado,8,2,9,Z0,*M7,bVII7M,4,major,4.5
+LINS,40,Um fado,9,4,8,V1,*4,I,4,major,5.0
+LINS,40,Um fado,10,1,1,z2.1,*m7.9.11,VI,4,major,5.5
+LINS,40,Um fado,11,6,6,z2,*m7.9,II,4,major,6.0
+LINS,40,Um fado,12,11,11,Y4,*7.13,V,4,major,6.5
+LINS,40,Um fado,13,4,4,Z0,*M7,I,4,major,7.0
+LINS,40,Um fado,14,11,11,Y1.1.2,*4.7.9.13,V,4,major,7.5
+LINS,40,Um fado,15,4,4,Z0,*M7,I,4,major,8.0
+LINS,40,Um fado,16,11,11,Y1.1.2,*4.7.9.13,V,4,major,8.5
+LINS,40,Um fado,17,4,4,Z0,*M7,I,4,major,9.0
+LINS,40,Um fado,18,11,11,Y1.1.2,*4.7.9.13,V,4,major,9.5
+LINS,40,Um fado,19,4,4,Z0,*M7,I,4,major,10.0
+LINS,40,Um fado,20,11,11,Y1.1.2,*4.7.9.13,V,4,major,10.5
+LINS,40,Um fado,21,9,9,Z0,*M7,IV,4,major,11.0
+LINS,40,Um fado,22,2,9,Z0,*M7,bVII7M,4,major,11.5
+LINS,40,Um fado,23,9,9,Z0,*M7,IV,4,major,12.0
+LINS,40,Um fado,24,2,9,Z0,*M7,bVII7M,4,major,12.5
+LINS,40,Um fado,25,4,8,V1,*4,I,4,major,13.0
+LINS,40,Um fado,26,1,1,z2.1,*m7.9.11,VI,4,major,13.5
+LINS,40,Um fado,27,6,6,z2,*m7.9,II,4,major,14.0
+LINS,40,Um fado,28,11,11,Y4,*7.13,V,4,major,14.5
+LINS,40,Um fado,29,4,4,Z0,*M7,I,4,major,15.0
+LINS,40,Um fado,30,11,11,Y1.1.2,*4.7.9.13,V,4,major,15.5
+LINS,40,Um fado,31,4,4,Z0,*M7,I,4,major,16.0
+LINS,40,Um fado,32,11,11,Y1.1.2,*4.7.9.13,V,4,major,16.5
+LINS,40,Um fado,33,7,7,Z0,*M7,I,7,major,17.0
+LINS,40,Um fado,34,2,2,Y1.1.2,*4.7.9.13,V,7,major,17.5
+LINS,40,Um fado,35,7,7,Z0,*M7,I,7,major,18.0
+LINS,40,Um fado,36,2,2,Y1.1.2,*4.7.9.13,V,7,major,18.5
+LINS,40,Um fado,37,8,8,y1,*Ø.9,II__X,4,major,19.0
+LINS,40,Um fado,38,1,1,Y2.2.1.1,*7(b9.b13),V/II,4,major,19.5
+LINS,40,Um fado,39,8,8,y1,*Ø.9,II__X,4,major,20.0
+LINS,40,Um fado,40,1,1,Y2.2.1.1,*7(b9.b13),V/II,4,major,20.5
+LINS,40,Um fado,41,6,6,Y1.1.2,*4.7.9.13,V/V,4,major,21.0
+LINS,40,Um fado,42,6,6,Y2.2,*7.9.13,V/V,4,major,21.5
+LINS,40,Um fado,43,6,6,Y1.1.2,*4.7.9.13,V/V,4,major,22.0
+LINS,40,Um fado,44,6,6,Y2.2,*7.9.13,V/V,4,major,22.5
+LINS,40,Um fado,45,11,11,Y1.1.2,*4.7.9.13,V,4,major,23.0
+LINS,40,Um fado,46,5,5,Z0,*M7,bII7M,4,major,24.5
+LINS,40,Um fado,47,4,4,Z0,*M7,I,4,major,25.0
+LINS,40,Um fado,48,11,11,Y1.1.2,*4.7.9.13,V,4,major,25.5
+LINS,40,Um fado,49,4,4,Z0,*M7,I,4,major,26.0
+LINS,40,Um fado,50,11,11,Y1.1.2,*4.7.9.13,V,4,major,26.5
+LINS,40,Um fado,51,9,9,Z0,*M7,IV,4,major,27.0
+LINS,40,Um fado,52,2,9,Z0,*M7,bVII7M,4,major,27.5
+LINS,40,Um fado,53,4,8,V1,*4,I,4,major,28.0
+LINS,40,Um fado,54,1,1,z2.1,*m7.9.11,VI,4,major,28.5
+LINS,40,Um fado,55,6,6,z2,*m7.9,II,4,major,29.0
+LINS,40,Um fado,56,11,11,Y4,*7.13,V,4,major,29.5
+LINS,40,Um fado,57,5,5,Z0,*M7,bII7M,4,major,30.0
+LINS,40,Um fado,58,0,0,Y0,*7,SubV/V,4,major,30.5
+LINS,40,Um fado,59,5,5,Z0,*M7,bII7M,4,major,31.0
+LINS,40,Um fado,60,0,0,Y0,*7,SubV/V,4,major,31.5
+LINS,40,Um fado,61,5,5,Z0,*M7,bII7M,4,major,32.0
+LINS,40,Um fado,62,11,11,Y1,*4.7,V,4,major,32.5
+LINS,40,Um fado,63,4,4,V0,*,I,4,major,33.0
+LINS,41,Velas icadas,1,1,1,z2.1,*m7.9.11,II,11,major,1.0
+LINS,41,Velas icadas,2,6,6,Y1.1,*4.7.9,V,11,major,2.0
+LINS,41,Velas icadas,3,6,6,Y1.1,*4.7.9,V,11,major,2.5
+LINS,41,Velas icadas,4,11,3,Z0,*M7,I,11,major,3.0
+LINS,41,Velas icadas,5,8,8,Y1.1,*4.7.9,V/II,11,major,4.0
+LINS,41,Velas icadas,6,8,8,Y2,*7.9,V/II,11,major,4.5
+LINS,41,Velas icadas,7,1,1,z2.1,*m7.9.11,II,11,major,5.0
+LINS,41,Velas icadas,8,6,6,Y1.1,*4.7.9,V,11,major,6.0
+LINS,41,Velas icadas,9,6,6,Y1.1,*4.7.9,V,11,major,6.5
+LINS,41,Velas icadas,10,2,0,Y0,*7,SubV/II,11,major,7.0
+LINS,41,Velas icadas,11,11,11,Y1,*4.7,V/IV,11,major,8.0
+LINS,41,Velas icadas,12,11,11,Y0,*7,V/IV,11,major,8.25
+LINS,41,Velas icadas,13,11,11,z0,*m7,Im7,11,major,8.5
+LINS,41,Velas icadas,14,11,11,Y0,*7,V/IV,11,major,8.75
+LINS,41,Velas icadas,15,4,4,z2.1,*m7.9.11,II,2,major,9.0
+LINS,41,Velas icadas,16,9,9,Y1.1,*4.7.9,V,2,major,10.0
+LINS,41,Velas icadas,17,9,9,z2,*m7.9,Vm7,2,major,10.5
+LINS,41,Velas icadas,18,2,9,Z0,*M7,I,2,major,11.0
+LINS,41,Velas icadas,19,8,8,Y1.1,*4.7.9,V/II,11,major,12.0
+LINS,41,Velas icadas,20,8,8,Y2,*7.9,V/II,11,major,12.5
+LINS,41,Velas icadas,21,1,1,Y1,*4.7,V/V,11,major,13.0
+LINS,41,Velas icadas,22,1,1,Y0,*7,V/V,11,major,13.5
+LINS,41,Velas icadas,23,6,6,Y1.1,*4.7.9,V,11,major,14.0
+LINS,41,Velas icadas,24,6,6,Y2.1,*7.9(#11),V,11,major,14.5
+LINS,41,Velas icadas,25,11,11,Z0,*M7,I,11,major,15.0
+LINS,41,Velas icadas,26,10,10,y0,*Ø,II__X,11,major,16.0
+LINS,41,Velas icadas,27,3,3,Y2.3,*7(b9),V/VI,11,major,16.5
+LINS,41,Velas icadas,28,8,8,z0,*m7,VI,11,major,17.0
+LINS,41,Velas icadas,29,8,6,z0,*m7,VI,11,major,17.5
+LINS,41,Velas icadas,30,5,5,y1,*Ø.9,II__X,11,major,18.0
+LINS,41,Velas icadas,31,10,10,Y2.2.1.1,*7(b9.b13),V/III,11,major,18.5
+LINS,41,Velas icadas,32,3,3,Z2,*M7.9,I,3,major,19.0
+LINS,41,Velas icadas,33,2,2,z2.1,*m7.9.11,II__X,3,major,20.0
+LINS,41,Velas icadas,34,7,7,Y2.2.1.1,*7(b9.b13),V/VI,3,major,20.5
+LINS,41,Velas icadas,35,0,0,w0,*mM7,VI,3,major,21.0
+LINS,41,Velas icadas,36,0,0,z0,*m7,II__X,3,major,21.5
+LINS,41,Velas icadas,37,5,5,Y1.1,*4.7.9,V/V,3,major,22.0
+LINS,41,Velas icadas,38,5,5,Y2,*7.9,V/V,3,major,22.5
+LINS,41,Velas icadas,39,10,10,Y1.1,*4.7.9,V,3,major,23.0
+LINS,41,Velas icadas,40,10,10,z0,*m7,Vm7,3,major,24.0
+LINS,41,Velas icadas,41,3,3,Z2,*M7.9,I,3,major,25.0
+LINS,41,Velas icadas,42,0,0,Y1,*4.7,V/II,3,major,26.0
+LINS,41,Velas icadas,43,0,0,Y0,*7,V/II,3,major,26.5
+LINS,41,Velas icadas,44,5,5,Y1.1,*4.7.9,V/V,3,major,27.0
+LINS,41,Velas icadas,45,5,5,Y2,*7.9,V/V,3,major,27.5
+LINS,41,Velas icadas,46,10,10,Y1.1,*4.7.9,V,3,major,28.0
+LINS,41,Velas icadas,47,10,10,z0,*m7,Vm7,3,major,28.5
+LINS,41,Velas icadas,48,3,10,Z0,*M7,I,3,major,29.0
+LINS,41,Velas icadas,49,10,10,z0,*m7,Vm7,3,major,30.0
+LINS,41,Velas icadas,50,3,10,Z0,*M7,I,3,major,31.0
+LINS,41,Velas icadas,51,10,10,z0,*m7,Vm7,3,major,31.5
+LINS,41,Velas icadas,52,6,6,Y1.1,*4.7.9,V,11,major,32.0
+LINS,41,Velas icadas,53,6,6,z2,*m7.9,Vm7,11,major,33.0
+LINS,41,Velas icadas,54,9,9,Y1.1,*4.7.9,SubV/VI,11,major,34.0
+LINS,41,Velas icadas,55,9,9,z2,*m7.9,bVIm7,11,major,35.0
+LINS,41,Velas icadas,56,8,8,z0,*m7,II__X,11,major,36.0
+LINS,41,Velas icadas,57,1,1,Y2,*7.9,V/V,11,major,36.5
+LINS,41,Velas icadas,58,6,6,Y1.1,*4.7.9,V,11,major,37.0
+LINS,41,Velas icadas,59,6,6,Y2,*7.9,V,11,major,37.5
+LINS,41,Velas icadas,60,11,11,Z0,*M7,I,11,major,38.0
+LINS,42,Vitoriosa,1,2,2,Z0,*M7,I,2,major,1.0
+LINS,42,Vitoriosa,2,9,9,Y1.1,*4.7.9,V,2,major,2.0
+LINS,42,Vitoriosa,3,2,2,Z0,*M7,I,2,major,3.0
+LINS,42,Vitoriosa,4,9,9,Y1.1,*4.7.9,V,2,major,4.0
+LINS,42,Vitoriosa,5,2,2,Z0,*M7,I,2,major,5.0
+LINS,42,Vitoriosa,6,3,3,x0,*°7,V°/II,2,major,5.5
+LINS,42,Vitoriosa,7,4,4,z0,*m7,II,2,major,6.0
+LINS,42,Vitoriosa,8,4,2,z0,*m7,II,2,major,6.25
+LINS,42,Vitoriosa,9,1,1,y0,*Ø,II__X,2,major,6.5
+LINS,42,Vitoriosa,10,6,6,Y2.3,*7(b9),V/VI,2,major,6.75
+LINS,42,Vitoriosa,11,11,11,z0,*m7,II__X,2,major,7.0
+LINS,42,Vitoriosa,12,4,4,Y0,*7,V/V,2,major,7.5
+LINS,42,Vitoriosa,13,4,4,z0,*m7,II,2,major,8.0
+LINS,42,Vitoriosa,14,9,9,Y1,*4.7,V,2,major,8.5
+LINS,42,Vitoriosa,15,9,9,Y0,*7,V,2,major,8.75
+LINS,42,Vitoriosa,16,2,2,Z0,*M7,I,2,major,9.0
+LINS,42,Vitoriosa,17,6,6,Y2.2.1.1,*7(b9.b13),V/VI,2,major,10.0
+LINS,42,Vitoriosa,18,6,6,Y2.2.1.1,*7(b9.b13),V/VI,2,major,10.5
+LINS,42,Vitoriosa,19,11,11,z0,*m7,VI,2,major,11.0
+LINS,42,Vitoriosa,20,6,6,z0,*m7,III,2,major,12.0
+LINS,42,Vitoriosa,21,11,11,z0,*m7,VI,2,major,13.0
+LINS,42,Vitoriosa,22,6,6,z0,*m7,III,2,major,14.0
+LINS,42,Vitoriosa,23,7,7,Z0,*M7,IV,2,major,15.0
+LINS,42,Vitoriosa,24,8,8,y0,*Ø,II__X,2,major,16.0
+LINS,42,Vitoriosa,25,1,1,Y2.3,*7(b9),V/III,2,major,16.5
+LINS,42,Vitoriosa,26,6,6,Z0,*M7,I,6,major,17.0
+LINS,42,Vitoriosa,27,3,3,z0,*m7,VI,6,major,17.5
+LINS,42,Vitoriosa,28,11,3,Z0,*M7,IV,6,major,18.0
+LINS,42,Vitoriosa,29,1,1,Y0,*7,V,6,major,18.5
+LINS,42,Vitoriosa,30,6,6,Z0,*M7,I,6,major,19.0
+LINS,42,Vitoriosa,31,3,3,z0,*m7,VI,6,major,19.5
+LINS,42,Vitoriosa,32,11,11,z0,*m7,II__X,2,major,20.0
+LINS,42,Vitoriosa,33,4,4,Y0,*7,V/V,2,major,20.5
+LINS,42,Vitoriosa,34,9,9,Y1,*4.7,V,2,major,21.0
+LINS,42,Vitoriosa,35,9,9,Y0,*7,V,2,major,21.5
+LINS,42,Vitoriosa,36,9,9,z0,*m7,Vm7,2,major,22.0
+LINS,42,Vitoriosa,37,9,9,Y0,*7,V,2,major,22.5
+LINS,43,Antes que seja tarde,1,2,2,z0,*m7,I,2,minor,1.0
+LINS,43,Antes que seja tarde,2,2,2,z1,*m6,I,2,minor,2.0
+LINS,43,Antes que seja tarde,3,2,2,z0,*m7,I,2,minor,3.0
+LINS,43,Antes que seja tarde,4,2,2,z1,*m6,I,2,minor,4.0
+LINS,43,Antes que seja tarde,5,2,2,z0,*m7,I,2,minor,5.0
+LINS,43,Antes que seja tarde,6,2,2,z1,*m6,I,2,minor,6.0
+LINS,43,Antes que seja tarde,7,2,2,z0,*m7,I,2,minor,7.0
+LINS,43,Antes que seja tarde,8,2,2,z1,*m6,I,2,minor,8.0
+LINS,43,Antes que seja tarde,9,2,2,z0,*m7,I,2,minor,9.0
+LINS,43,Antes que seja tarde,10,2,2,z1,*m6,I,2,minor,10.0
+LINS,43,Antes que seja tarde,11,7,2,z0,*m7,II,5,major,11.0
+LINS,43,Antes que seja tarde,12,0,0,Y1.1,*4.7.9,V,5,major,12.0
+LINS,43,Antes que seja tarde,13,0,0,Y2,*7.9,V,5,major,12.5
+LINS,43,Antes que seja tarde,14,5,5,Z0,*M7,I,5,major,13.0
+LINS,43,Antes que seja tarde,15,0,0,z0,*m7,II__X,5,major,14.0
+LINS,43,Antes que seja tarde,16,5,5,Y0,*7,V/IV,5,major,14.5
+LINS,43,Antes que seja tarde,17,10,10,Y1,*4.7,SubV/V,2,minor,15.0
+LINS,43,Antes que seja tarde,18,10,10,Y0,*7,SubV/V,2,minor,15.5
+LINS,43,Antes que seja tarde,19,4,4,z0,*m7,II,2,minor,16.0
+LINS,43,Antes que seja tarde,20,9,9,Y2.3,*7(b9),V,2,minor,16.5
+LINS,43,Antes que seja tarde,21,2,2,z0,*m7,I,2,minor,17.0
+LINS,43,Antes que seja tarde,22,10,2,V0,*,VI,2,minor,18.0
+LINS,43,Antes que seja tarde,23,2,2,z0,*m7,I,2,minor,19.0
+LINS,43,Antes que seja tarde,24,6,6,Y0,*7,aSubV/IV,2,minor,19.5
+LINS,43,Antes que seja tarde,25,7,7,Y0,*7,IV7,2,minor,20.0
+LINS,43,Antes que seja tarde,26,2,2,z0,*m7,I,2,minor,21.0
+LINS,43,Antes que seja tarde,27,6,6,Y0,*7,aSubV/IV,2,minor,21.5
+LINS,43,Antes que seja tarde,28,7,7,Y0,*7,IV7,2,minor,22.0
+LINS,43,Antes que seja tarde,29,0,0,Y1,*4.7,V/III,2,minor,23.0
+LINS,43,Antes que seja tarde,30,10,10,Y1,*4.7,SubV/V,2,minor,23.5
+LINS,43,Antes que seja tarde,31,4,4,Y2.2.1.1,*7(b9.b13),V/V,2,minor,24.0
+LINS,43,Antes que seja tarde,32,9,9,Y2.3,*7(b9),V,2,minor,24.5
+LINS,43,Antes que seja tarde,33,2,2,z0,*m7,I,2,minor,25.0
+LINS,44,Arlequim desconhecido,1,11,11,Y1.1,*4.7.9,V/IV,11,minor,1.0
+LINS,44,Arlequim desconhecido,2,11,11,z2,*m7.9,I,11,minor,1.5
+LINS,44,Arlequim desconhecido,3,11,11,Y1.1,*4.7.9,V/IV,11,minor,2.0
+LINS,44,Arlequim desconhecido,4,11,11,z2,*m7.9,I,11,minor,2.5
+LINS,44,Arlequim desconhecido,5,11,11,Y1.1,*4.7.9,V/IV,11,minor,3.0
+LINS,44,Arlequim desconhecido,6,11,11,z2,*m7.9,I,11,minor,3.5
+LINS,44,Arlequim desconhecido,7,11,11,Y1.1,*4.7.9,V/IV,11,minor,4.0
+LINS,44,Arlequim desconhecido,8,11,11,z2,*m7.9,I,11,minor,4.5
+LINS,44,Arlequim desconhecido,9,4,4,z2,*m7.9,IV,11,minor,5.0
+LINS,44,Arlequim desconhecido,10,11,11,z2.1,*m7.9.11,I,11,minor,5.5
+LINS,44,Arlequim desconhecido,11,4,4,z2,*m7.9,IV,11,minor,6.0
+LINS,44,Arlequim desconhecido,12,11,11,z2.1,*m7.9.11,I,11,minor,6.5
+LINS,44,Arlequim desconhecido,13,4,4,z2,*m7.9,IV,11,minor,7.0
+LINS,44,Arlequim desconhecido,14,11,11,z2.1,*m7.9.11,I,11,minor,7.5
+LINS,44,Arlequim desconhecido,15,9,9,Y1.1,*4.7.9,V/III,11,minor,8.0
+LINS,44,Arlequim desconhecido,16,6,6,z2,*m7.9,Vm7,11,minor,8.5
+LINS,44,Arlequim desconhecido,17,11,11,Y1.1,*4.7.9,V/IV,11,minor,9.0
+LINS,44,Arlequim desconhecido,18,11,11,z2,*m7.9,I,11,minor,9.5
+LINS,44,Arlequim desconhecido,19,11,11,Y1.1,*4.7.9,V/IV,11,minor,10.0
+LINS,44,Arlequim desconhecido,20,11,11,z2,*m7.9,I,11,minor,10.5
+LINS,44,Arlequim desconhecido,21,11,3,Z0,*M7,I,11,major,11.0
+LINS,44,Arlequim desconhecido,22,1,1,Y2.2,*7.9.13,V/V,11,major,11.5
+LINS,44,Arlequim desconhecido,23,11,3,Z0,*M7,I,11,major,12.0
+LINS,44,Arlequim desconhecido,24,1,1,Y2.2,*7.9.13,V/V,11,major,12.5
+LINS,44,Arlequim desconhecido,25,6,6,Z2,*M7.9,I,6,major,13.0
+LINS,44,Arlequim desconhecido,26,6,6,Z1,*6,I,6,major,13.5
+LINS,44,Arlequim desconhecido,27,3,3,z2,*m7.9,VI,6,major,14.0
+LINS,44,Arlequim desconhecido,28,3,3,z0,*m7,VI,6,major,14.5
+LINS,44,Arlequim desconhecido,29,2,6,Z2,*M7.9,I,2,major,15.0
+LINS,44,Arlequim desconhecido,30,4,4,Y2.2,*7.9.13,V/V,2,major,15.5
+LINS,44,Arlequim desconhecido,31,2,6,Z2,*M7.9,I,2,major,16.0
+LINS,44,Arlequim desconhecido,32,4,4,Y2.2,*7.9.13,V/V,2,major,16.5
+LINS,44,Arlequim desconhecido,33,9,9,Z2,*M7.9,I,9,major,17.0
+LINS,44,Arlequim desconhecido,34,9,9,Z1,*6,I,9,major,17.5
+LINS,44,Arlequim desconhecido,35,6,6,z2,*m7.9,VI,9,major,18.0
+LINS,44,Arlequim desconhecido,36,6,6,z0,*m7,VI,9,major,18.5
+LINS,44,Arlequim desconhecido,37,9,9,Y1.1,*4.7.9,V,2,major,19.0
+LINS,44,Arlequim desconhecido,38,9,9,Y0,*7,V,2,major,20.0
+LINS,44,Arlequim desconhecido,39,9,9,z2,*m7.9,Vm7,2,major,21.0
+LINS,44,Arlequim desconhecido,40,9,9,Y2,*7.9,V,2,major,22.0
+LINS,44,Arlequim desconhecido,41,2,2,Z2.2,*(#5)M7.9,I,2,major,23.0
+LINS,44,Arlequim desconhecido,42,2,2,Z2,*M7.9,I,2,major,24.0
+LINS,44,Arlequim desconhecido,43,1,1,z2.1,*m7.9.11,II,11,minor,25.0
+LINS,44,Arlequim desconhecido,44,6,6,z3,*m7.11,II__X,11,minor,26.0
+LINS,44,Arlequim desconhecido,45,11,11,Y1.1,*4.7.9,V/IV,11,minor,27.0
+LINS,44,Arlequim desconhecido,46,11,11,z2,*m7.9,I,11,minor,27.5
+LINS,45,Aparecida,1,11,11,z2,*m7.9,VI,2,major,1.0
+LINS,45,Aparecida,2,4,4,z2,*m7.9,II,2,major,2.0
+LINS,45,Aparecida,3,9,9,Y4,*7.13,V,2,major,2.5
+LINS,45,Aparecida,4,2,2,Z2,*M7.9,I,2,major,3.0
+LINS,45,Aparecida,5,1,1,z2,*m7.9,II__X,2,major,4.0
+LINS,45,Aparecida,6,6,6,Y4.1,*7(b13),V/VI,2,major,4.5
+LINS,45,Aparecida,7,11,11,z2,*m7.9,VI,2,major,5.0
+LINS,45,Aparecida,8,11,11,Y4,*7.13,V/II,2,major,6.0
+LINS,45,Aparecida,9,11,11,Y4.1,*7(b13),V/II,2,major,6.5
+LINS,45,Aparecida,10,4,4,Y2,*7.9,V/V,2,major,7.0
+LINS,45,Aparecida,11,9,9,Y1.1.2,*4.7.9.13,V,2,major,9.0
+LINS,45,Aparecida,12,9,9,Y2.2,*7.9.13,V,2,major,10.0
+LINS,45,Aparecida,13,2,2,Y1.1.2,*4.7.9.13,V/IV,2,major,11.0
+LINS,45,Aparecida,14,2,2,Y2.2,*7.9.13,V/IV,2,major,12.0
+LINS,45,Aparecida,15,1,1,Y2.4,*7(#9),V/III,2,major,13.0
+LINS,45,Aparecida,16,7,7,Y4,*7.13,IV7,2,major,15.0
+LINS,45,Aparecida,17,6,6,Y4,*7.13,V/VI,2,major,16.0
+LINS,45,Aparecida,18,6,6,Y4.1,*7(b13),V/VI,2,major,16.5
+LINS,45,Aparecida,19,11,11,z2,*m7.9,VI,2,major,17.0
+LINS,45,Aparecida,20,4,4,z2,*m7.9,II,2,major,17.5
+LINS,45,Aparecida,21,9,9,Y4,*7.13,V,2,major,18.0
+LINS,45,Aparecida,22,2,2,Z2,*M7.9,I,2,major,19.0
+LINS,45,Aparecida,23,1,1,z2,*m7.9,II__X,2,major,20.0
+LINS,45,Aparecida,24,6,6,Y4.1,*7(b13),V/VI,2,major,20.5
+LINS,45,Aparecida,25,6,6,y0,*Ø,II__X,2,major,21.0
+LINS,45,Aparecida,26,11,11,Y2.3,*7(b9),V/II,2,major,22.0
+LINS,45,Aparecida,27,4,4,w0,*mM7,II,2,major,23.0
+LINS,45,Aparecida,28,4,4,z2,*m7.9,II,2,major,24.0
+LINS,45,Aparecida,29,4,4,Y2,*7.9,V/V,2,major,25.0
+LINS,45,Aparecida,30,9,9,Y1.1.2,*4.7.9.13,V,2,major,27.0
+LINS,45,Aparecida,31,6,6,Y1.1.2,*4.7.9.13,V/VI,2,major,28.0
+LINS,45,Aparecida,32,6,6,Y4.1,*7(b13),V/VI,2,major,28.5
+LINS,45,Aparecida,33,11,11,z2,*m7.9,VI,2,major,29.0
+LINS,45,Aparecida,34,4,4,z2,*m7.9,II,2,major,31.0
+LINS,45,Aparecida,35,9,9,Y4,*7.13,V,2,major,31.5
+LINS,45,Aparecida,36,2,2,Z2,*M7.9,I,2,major,32.0
+LINS,45,Aparecida,37,1,1,z2,*m7.9,II__X,2,major,33.0
+LINS,45,Aparecida,38,6,6,Y4.1,*7(b13),V/VI,2,major,33.5
+LINS,45,Aparecida,39,0,0,z2,*m7.9,II__X,2,major,34.0
+LINS,45,Aparecida,40,5,5,Y4,*7.13,SubV/II,2,major,34.5
+LINS,45,Aparecida,41,4,4,z2,*m7.9,II,2,major,35.0
+LINS,45,Aparecida,42,9,9,Y4,*7.13,V,2,major,35.5
+LINS,45,Aparecida,43,2,2,Z2,*M7.9,I,2,major,36.0
+LINS,46,Bonito,1,2,2,V1,*4,I,2,major,1.0
+LINS,46,Bonito,2,11,11,z2.1,*m7.9.11,VI,2,major,3.0
+LINS,46,Bonito,3,7,7,Z0,*M7,IV,2,major,5.0
+LINS,46,Bonito,4,9,9,Y1.1.2,*4.7.9.13,V,2,major,7.0
+LINS,46,Bonito,5,7,7,z2,*m7.9,IVm7,2,major,9.0
+LINS,46,Bonito,6,0,0,Y2.2,*7.9.13,bVII7,2,major,10.0
+LINS,46,Bonito,7,2,6,V1,*4,I,2,major,11.0
+LINS,46,Bonito,8,11,11,Y1.1.2,*4.7.9.13,V/II,2,major,12.0
+LINS,46,Bonito,9,11,11,Y4.1,*7(b13),V/II,2,major,12.5
+LINS,46,Bonito,10,4,4,Y1.1.2,*4.7.9.13,V/V,2,major,13.0
+LINS,46,Bonito,11,4,4,Y2.2,*7.9.13,V/V,2,major,14.0
+LINS,46,Bonito,12,9,9,Y1.1.2,*4.7.9.13,V,2,major,15.0
+LINS,46,Bonito,13,2,2,V1,*4,I,2,major,16.0
+LINS,47,Camaleao,1,9,9,V1,*4,I,9,major,1.0
+LINS,47,Camaleao,2,9,4,Z2,*M7.9,I,9,major,1.5
+LINS,47,Camaleao,3,9,9,Z1.1,*6.9,I,9,major,2.0
+LINS,47,Camaleao,4,9,4,Z2,*M7.9,I,9,major,2.5
+LINS,47,Camaleao,5,9,9,V1,*4,I,9,major,3.0
+LINS,47,Camaleao,6,9,4,Z2,*M7.9,I,9,major,3.5
+LINS,47,Camaleao,7,2,6,Z1,*6,IV,9,major,4.0
+LINS,47,Camaleao,8,4,4,Y0,*7,V,9,major,4.5
+LINS,47,Camaleao,9,2,6,Z1,*6,IV,9,major,5.0
+LINS,47,Camaleao,10,4,4,Y0,*7,V,9,major,5.5
+LINS,47,Camaleao,11,2,6,Z1,*6,IV,9,major,6.0
+LINS,47,Camaleao,12,4,4,Y0,*7,V,9,major,6.5
+LINS,47,Camaleao,13,8,8,y0,*Ø,II__X,9,major,7.0
+LINS,47,Camaleao,14,1,1,Y2.3,*7(b9),V/VI,9,major,7.5
+LINS,47,Camaleao,15,6,6,z0,*m7,VI,9,major,8.0
+LINS,47,Camaleao,16,9,9,V1,*4,I,9,major,9.0
+LINS,47,Camaleao,17,1,8,z0,*m7,III,9,major,9.5
+LINS,47,Camaleao,18,6,6,z0,*m7,VI,9,major,10.0
+LINS,47,Camaleao,19,1,8,z0,*m7,III,9,major,10.5
+LINS,47,Camaleao,20,9,9,Y1.1.2,*4.7.9.13,V/IV,9,major,11.0
+LINS,47,Camaleao,21,9,9,Y2.2,*7.9.13,V/IV,9,major,11.5
+LINS,47,Camaleao,22,2,2,Z2,*M7.9,IV,9,major,12.0
+LINS,47,Camaleao,23,2,2,Z1.1,*6.9,IV,9,major,12.5
+LINS,47,Camaleao,24,7,7,Y1.1.2,*4.7.9.13,bVII7,9,major,13.0
+LINS,47,Camaleao,25,7,7,Y2.2,*7.9.13,bVII7,9,major,13.5
+LINS,47,Camaleao,26,9,1,Z2,*M7.9,I,9,major,14.0
+LINS,47,Camaleao,27,6,6,z2,*m7.9,II__X,9,major,14.5
+LINS,47,Camaleao,28,11,11,Y1.1,*4.7.9,V/V,9,major,15.0
+LINS,47,Camaleao,29,11,11,Y2,*7.9,V/V,9,major,15.5
+LINS,47,Camaleao,30,4,4,Y1.1,*4.7.9,V,9,major,16.0
+LINS,47,Camaleao,31,4,4,Y2,*7.9,V,9,major,16.5
+LINS,47,Camaleao,32,2,9,Z1,*6,IV,9,major,17.0
+LINS,47,Camaleao,33,9,9,V0,*,I,9,major,17.5
+LINS,47,Camaleao,34,8,8,y0,*Ø,II__X,9,major,18.0
+LINS,47,Camaleao,35,1,1,Y2.3,*7(b9),V/VI,9,major,18.5
+LINS,47,Camaleao,36,6,6,Z2,*M7.9,I,6,major,19.0
+LINS,47,Camaleao,37,11,11,z1,*m6,IVm7,6,major,19.5
+LINS,47,Camaleao,38,6,6,Z2,*M7.9,I,6,major,20.0
+LINS,47,Camaleao,39,11,11,z1,*m6,IVm7,6,major,20.5
+LINS,47,Camaleao,40,6,6,Z2,*M7.9,I,6,major,20.75
+LINS,47,Camaleao,41,11,11,z1,*m6,IVm7,6,major,21.0
+LINS,47,Camaleao,42,6,6,Z2,*M7.9,I,6,major,21.5
+LINS,47,Camaleao,43,6,6,Y1.1,*4.7.9,V/IV,6,major,22.0
+LINS,47,Camaleao,44,6,6,Y2,*7.9,V/IV,6,major,22.5
+LINS,47,Camaleao,45,11,11,Z0,*M7,IV,6,major,23.0
+LINS,47,Camaleao,46,4,4,Y2,*7.9,bVII7,6,major,23.5
+LINS,47,Camaleao,47,6,10,V1,*4,I,6,major,24.0
+LINS,47,Camaleao,48,3,3,Y1.1.2,*4.7.9.13,V/II,6,major,24.5
+LINS,47,Camaleao,49,8,8,Y1.1,*4.7.9,V/V,6,major,25.0
+LINS,47,Camaleao,50,8,8,Y2,*7.9,V/V,6,major,26.0
+LINS,47,Camaleao,51,1,1,Y1.1.2,*4.7.9.13,V,6,major,26.5
+LINS,47,Camaleao,52,1,1,Y2,*7.9,V,6,major,27.0
+LINS,47,Camaleao,53,6,6,V1,*4,I,6,major,27.5
+LINS,47,Camaleao,54,11,11,z0,*m7,II,9,major,28.0
+LINS,47,Camaleao,55,4,4,Y0,*7,V,9,major,28.5
+LINS,47,Camaleao,56,9,9,V1,*4,I,9,major,29.0
+LINS,47,Camaleao,57,1,8,z0,*m7,III,9,major,29.5
+LINS,47,Camaleao,58,6,6,z0,*m7,VI,9,major,30.0
+LINS,47,Camaleao,59,1,8,z0,*m7,III,9,major,30.5
+LINS,47,Camaleao,60,9,9,V1,*4,I,9,major,31.0
+LINS,47,Camaleao,61,1,8,z0,*m7,III,9,major,31.5
+LINS,47,Camaleao,62,2,6,V0,*,IV,9,major,32.0
+LINS,47,Camaleao,63,4,4,Y0,*7,V,9,major,32.5
+LINS,47,Camaleao,64,2,6,V0,*,IV,9,major,33.0
+LINS,47,Camaleao,65,4,4,Y0,*7,V,9,major,33.5
+LINS,47,Camaleao,66,2,6,V0,*,IV,9,major,34.0
+LINS,47,Camaleao,67,4,4,Y0,*7,V,9,major,35.0
+LINS,47,Camaleao,68,8,8,y0,*Ø,II__X,9,major,35.5
+LINS,47,Camaleao,69,1,1,Y2.3,*7(b9),V/VI,9,major,36.0
+LINS,47,Camaleao,70,6,6,z3,*m7.11,VI,9,major,36.5
+LINS,47,Camaleao,71,4,4,z2.1,*m7.9.11,II__X,9,major,36.75
+LINS,47,Camaleao,72,9,9,Y2.2,*7.9.13,V/IV,9,major,37.0
+LINS,47,Camaleao,73,2,2,Z2,*M7.9,IV,9,major,37.5
+LINS,47,Camaleao,74,7,7,Y1.1.2,*4.7.9.13,bVII7,9,major,38.0
+LINS,47,Camaleao,75,7,7,Y2.2,*7.9.13,bVII7,9,major,38.5
+LINS,47,Camaleao,76,9,4,V1,*4,I,9,major,39.0
+LINS,47,Camaleao,77,4,4,Y1.1,*4.7.9,V,9,major,40.0
+LINS,47,Camaleao,78,9,4,V1,*4,I,9,major,41.0
+LINS,47,Camaleao,79,4,4,Y1.1,*4.7.9,V,9,major,42.0
+LINS,47,Camaleao,80,9,9,Z2,*M7.9,I,9,major,43.0
+LINS,48,Bandeira do divino,1,4,4,Z0,*M7,I,4,major,1.0
+LINS,48,Bandeira do divino,2,9,9,V0,*,IV,4,major,3.0
+LINS,48,Bandeira do divino,3,9,9,Z1,*6,IV,4,major,3.5
+LINS,48,Bandeira do divino,4,9,9,Z0,*M7,IV,4,major,4.0
+LINS,48,Bandeira do divino,5,6,6,z2,*m7.9,II,4,major,5.0
+LINS,48,Bandeira do divino,6,6,6,Y1.1.2,*4.7.9.13,V/V,4,major,6.0
+LINS,48,Bandeira do divino,7,6,6,Y2.2,*7.9.13,V/V,4,major,6.5
+LINS,48,Bandeira do divino,8,11,11,Y1.1.2,*4.7.9.13,V,4,major,7.0
+LINS,48,Bandeira do divino,9,11,11,Y0,*7,V,4,major,7.5
+LINS,48,Bandeira do divino,10,4,4,V0,*,I,4,major,8.0
+LINS,48,Bandeira do divino,11,9,4,V0,*,IV,4,major,8.5
+LINS,48,Bandeira do divino,12,4,4,Z0,*M7,I,4,major,9.0
+LINS,48,Bandeira do divino,13,0,0,Y1.1.2,*4.7.9.13,V,5,major,9.5
+LINS,48,Bandeira do divino,14,5,5,V0,*,I,5,major,10.0
+LINS,48,Bandeira do divino,15,5,5,Z1,*6,I,5,major,10.5
+LINS,48,Bandeira do divino,16,5,5,Z0,*M7,I,5,major,11.0
+LINS,48,Bandeira do divino,17,5,5,Y0,*7,V/IV,5,major,11.5
+LINS,48,Bandeira do divino,18,10,10,V0,*,IV,5,major,12.0
+LINS,48,Bandeira do divino,19,10,10,Z1,*6,IV,5,major,12.5
+LINS,48,Bandeira do divino,20,10,10,Z0,*M7,IV,5,major,13.0
+LINS,48,Bandeira do divino,21,7,7,z2,*m7.9,II,5,major,14.0
+LINS,48,Bandeira do divino,22,7,7,Y1.1.2,*4.7.9.13,V/V,5,major,15.0
+LINS,48,Bandeira do divino,23,7,7,Y2.2,*7.9.13,V/V,5,major,15.5
+LINS,48,Bandeira do divino,24,0,0,Y1.1.2,*4.7.9.13,V,5,major,16.0
+LINS,48,Bandeira do divino,25,0,0,Y0,*7,V,5,major,16.5
+LINS,48,Bandeira do divino,26,5,5,V0,*,I,5,major,17.0
+LINS,48,Bandeira do divino,27,10,5,V0,*,IV,5,major,17.5
+LINS,48,Bandeira do divino,28,5,5,Z0,*M7,I,5,major,18.0
+LINS,48,Bandeira do divino,29,1,1,Y1.1.2,*4.7.9.13,V,6,major,18.5
+LINS,48,Bandeira do divino,30,6,6,V0,*,I,6,major,19.0
+LINS,49,Coragem mulher,1,10,5,Z0,*M7,I,10,major,1.0
+LINS,49,Coragem mulher,2,5,5,Y1.1.2,*4.7.9.13,V,10,major,2.0
+LINS,49,Coragem mulher,3,5,5,Y2,*7.9,V,10,major,2.5
+LINS,49,Coragem mulher,4,5,5,Z1,*6,V,10,major,3.0
+LINS,49,Coragem mulher,5,10,5,Z0,*M7,I,10,major,3.5
+LINS,49,Coragem mulher,6,5,5,Y1.1.2,*4.7.9.13,V,10,major,4.0
+LINS,49,Coragem mulher,7,5,5,Y2,*7.9,V,10,major,4.5
+LINS,49,Coragem mulher,8,7,7,Y1.1,*4.7.9,V/II,10,major,5.0
+LINS,49,Coragem mulher,9,7,7,z0,*m7,II,10,major,5.5
+LINS,49,Coragem mulher,10,9,9,z2,*m7.9,II__X,10,major,6.0
+LINS,49,Coragem mulher,11,2,2,Y2.2.1,*7(b9)13,V/VI,10,major,6.5
+LINS,49,Coragem mulher,12,7,7,Z2,*M7.9,I,7,major,7.0
+LINS,49,Coragem mulher,13,4,4,z2,*m7.9,VI,7,major,7.5
+LINS,49,Coragem mulher,14,5,5,Y1.1.2,*4.7.9.13,V,10,major,8.0
+LINS,49,Coragem mulher,15,5,5,Y2,*7.9,V,10,major,8.5
+LINS,49,Coragem mulher,16,5,5,Z1,*6,V,10,major,9.0
+LINS,49,Coragem mulher,17,10,5,Z0,*M7,I,10,major,9.5
+LINS,49,Coragem mulher,18,3,3,Z2,*M7.9,IV,10,major,10.0
+LINS,49,Coragem mulher,19,8,8,Y2.1,*7.9(#11),bVII7,10,major,10.5
+LINS,49,Coragem mulher,20,2,2,z2.1,*m7.9.11,III,10,major,11.0
+LINS,49,Coragem mulher,21,7,7,z2,*m7.9,VI,10,major,11.5
+LINS,49,Coragem mulher,22,0,0,z2.1,*m7.9.11,II,10,major,12.0
+LINS,49,Coragem mulher,23,5,5,z0,*m7,Vm7,10,major,12.5
+LINS,49,Coragem mulher,24,5,5,Z1,*6,V,10,major,13.0
+LINS,49,Coragem mulher,25,10,5,Z0,*M7,I,10,major,13.5
+LINS,50,Cartomante,1,11,11,Z0,*M7,I,11,major,1.0
+LINS,50,Cartomante,2,4,11,V0,*,IV,11,major,1.5
+LINS,50,Cartomante,3,11,11,Y1.1.2,*4.7.9.13,V,11,major,2.0
+LINS,50,Cartomante,4,7,11,Z0,*M7,bVI7M,11,major,2.5
+LINS,50,Cartomante,5,9,9,Y2.2,*7.9.13,SubV/VI,11,major,2.75
+LINS,50,Cartomante,6,8,8,z2,*m7.9,II__X,11,major,3.0
+LINS,50,Cartomante,7,1,1,Y4,*7.13,V/II,11,major,3.5
+LINS,50,Cartomante,8,1,1,Y0,*7,V/II,11,major,3.75
+LINS,50,Cartomante,9,6,6,Y1.1,*4.7.9,V/V,11,major,4.0
+LINS,50,Cartomante,10,6,6,Y1.1.3,*4.7(b9),V/V,11,major,4.5
+LINS,50,Cartomante,11,11,11,Z0,*M7,I,11,major,5.0
+LINS,50,Cartomante,12,4,11,V0,*,IV,11,major,5.5
+LINS,50,Cartomante,13,11,11,Y1.1.2,*4.7.9.13,V,11,major,6.0
+LINS,50,Cartomante,14,7,11,Z0,*M7,bVI7M,11,major,6.5
+LINS,50,Cartomante,15,9,9,Y2.2,*7.9.13,SubV/VI,11,major,6.75
+LINS,50,Cartomante,16,8,8,z2,*m7.9,II__X,11,major,7.0
+LINS,50,Cartomante,17,1,1,Y4,*7.13,V/II,11,major,7.5
+LINS,50,Cartomante,18,6,6,Y1.1,*4.7.9,V/V,11,major,8.0
+LINS,50,Cartomante,19,6,6,Y1.1.3,*4.7(b9),V/V,11,major,8.5
+LINS,50,Cartomante,20,11,11,z0,*m7,I,11,minor,9.0
+LINS,50,Cartomante,21,11,11,z1,*m6,I,11,minor,9.5
+LINS,50,Cartomante,22,7,2,Z0,*M7,VI,11,minor,10.0
+LINS,50,Cartomante,23,9,9,Y1.3,*4.7.13,bVII7,11,minor,10.5
+LINS,50,Cartomante,24,9,9,Y4,*7.13,bVII7,11,minor,10.75
+LINS,50,Cartomante,25,0,4,V0,*,bII7M,11,minor,11.0
+LINS,50,Cartomante,26,2,2,Y0,*7,V/VI,11,minor,11.25
+LINS,50,Cartomante,27,7,7,Z0,*M7,VI,11,minor,11.5
+LINS,50,Cartomante,28,0,0,Z2,*M7.9,aNP,11,minor,11.75
+LINS,50,Cartomante,29,1,1,Y2,*7.9,V/V,11,minor,12.0
+LINS,50,Cartomante,30,1,1,Y2,*7.9,V/V,11,minor,12.25
+LINS,50,Cartomante,31,6,6,Y1,*4.7,V,11,minor,12.5
+LINS,50,Cartomante,32,6,6,Y4,*7.13,V,11,minor,12.75
+LINS,50,Cartomante,33,11,11,z0,*m7,I,11,minor,13.0
+LINS,50,Cartomante,34,11,11,z1,*m6,I,11,minor,13.5
+LINS,50,Cartomante,35,7,2,Z0,*M7,VI,11,minor,14.0
+LINS,50,Cartomante,36,9,9,Y1.3,*4.7.13,bVII7,11,minor,14.5
+LINS,50,Cartomante,37,9,9,Y4,*7.13,bVII7,11,minor,14.75
+LINS,50,Cartomante,38,0,4,V0,*,bII7M,11,minor,15.0
+LINS,50,Cartomante,39,2,2,Y0,*7,V/VI,11,minor,15.25
+LINS,50,Cartomante,40,7,7,Z0,*M7,VI,11,minor,15.5
+LINS,50,Cartomante,41,0,0,Z2,*M7.9,aNP,11,minor,15.75
+LINS,50,Cartomante,42,1,1,Y2,*7.9,V/V,11,minor,16.0
+LINS,50,Cartomante,43,1,1,Y2,*7.9,V/V,11,minor,16.25
+LINS,50,Cartomante,44,6,6,Y1.1.3,*4.7(b9),V,11,minor,16.5
+LINS,50,Cartomante,45,6,6,Y0,*7,V,11,minor,16.75
+LINS,50,Cartomante,46,11,11,Y1.3,*4.7.13,V/IV,11,major,17.0
+LINS,50,Cartomante,47,11,11,Z0,*M7,I,11,major,19.0

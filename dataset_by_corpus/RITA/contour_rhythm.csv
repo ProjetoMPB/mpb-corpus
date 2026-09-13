@@ -1,0 +1,778 @@
+corpus_id,composition_id,composition_name,word_index,c_word,r_word
+RITA,1,Agora e moda,1,uaAu,uh
+RITA,1,Agora e moda,2,aAaAaAaAu,plvj
+RITA,1,Agora e moda,3,uaAu,ul
+RITA,1,Agora e moda,4,AaAaAaaa,ujjj
+RITA,1,Agora e moda,5,uaAu,uh
+RITA,1,Agora e moda,6,AaAaAaAu,ullh
+RITA,1,Agora e moda,7,uaAu,ul
+RITA,1,Agora e moda,8,AaAaAaaa,ujjj
+RITA,1,Agora e moda,9,pap,bbbb
+RITA,1,Agora e moda,10,aa,bbb
+RITA,1,Agora e moda,11,ppa,bbbb
+RITA,1,Agora e moda,12,apa,bbbb
+RITA,1,Agora e moda,13,ppa,bbbb
+RITA,1,Agora e moda,14,ap,bbb
+RITA,2,Agora so falta voce,1,uuuuuuppu,ejjjjb
+RITA,2,Agora so falta voce,2,AaAaAaSppAp,ejjjjje
+RITA,2,Agora so falta voce,3,uuuuuuppuu,ejjjjj
+RITA,2,Agora so falta voce,4,AaAaAaSppPu,ejjjjje
+RITA,2,Agora so falta voce,5,uuupp,bjje
+RITA,2,Agora so falta voce,6,AuaSp,ejje
+RITA,2,Agora so falta voce,7,pPp,ph
+RITA,2,Agora so falta voce,8,puuu,ejj
+RITA,2,Agora so falta voce,9,Suupp,ejje
+RITA,2,Agora so falta voce,10,SuuppaS,ejjej
+RITA,2,Agora so falta voce,11,pp,bj
+RITA,3,Bandido corazon,1,Ap,je
+RITA,3,Bandido corazon,2,PpppPa,beeejb
+RITA,3,Bandido corazon,3,uupup,jjeb
+RITA,3,Bandido corazon,4,upPpPpPu,ejjjbb
+RITA,3,Bandido corazon,5,uSpPpPp,eejjbb
+RITA,3,Bandido corazon,6,suSpPpPp,jejjbe
+RITA,3,Bandido corazon,7,pPpPpPp,eejjj
+RITA,3,Bandido corazon,8,pPpPpPpPp,jjjjbb
+RITA,3,Bandido corazon,9,uuSpPppPa,ejjsbab
+RITA,3,Bandido corazon,10,uuSpPpPp,ejjjbe
+RITA,3,Bandido corazon,11,upPpPpPpPpa,ejjjjjb
+RITA,4,Banho de espuma,1,PPP,bbbb
+RITA,4,Banho de espuma,2,ppApppp,ejjbbe
+RITA,4,Banho de espuma,3,uPPPa,ejje
+RITA,4,Banho de espuma,4,PppAa,ejje
+RITA,4,Banho de espuma,5,PPPup,ekdbaaab
+RITA,4,Banho de espuma,6,PppAa,ejje
+RITA,4,Banho de espuma,7,PPppp,jkdb
+RITA,4,Banho de espuma,8,uuuppp,ejjj
+RITA,4,Banho de espuma,9,uuuaap,gjjj
+RITA,4,Banho de espuma,10,uuuppp,gjjj
+RITA,4,Banho de espuma,11,uuuaap,gjjj
+RITA,4,Banho de espuma,12,uuuPPpa,jjbje
+RITA,4,Banho de espuma,13,SuuPPpa,ebjbje
+RITA,4,Banho de espuma,14,uuuPPpa,jjbje
+RITA,4,Banho de espuma,15,uuuuPpPu,ejjbje
+RITA,5,Bwana,1,uupup,ejje
+RITA,5,Bwana,2,uuPp,ejj
+RITA,5,Bwana,3,uupupu,ejjaj
+RITA,5,Bwana,4,PpPpPpP,ejjjb
+RITA,5,Bwana,5,ap,je
+RITA,5,Bwana,6,PPAp,ebje
+RITA,5,Bwana,7,pPPp,ebje
+RITA,5,Bwana,8,pPpp,ebje
+RITA,5,Bwana,9,Au,bj
+RITA,5,Bwana,10,uupup,ejje
+RITA,5,Bwana,11,uuuPppp,jjbbj
+RITA,5,Bwana,12,uupp,ejj
+RITA,5,Bwana,13,pPPap,jbje
+RITA,5,Bwana,14,PPAp,ebje
+RITA,5,Bwana,15,pPPp,ebje
+RITA,5,Bwana,16,pPApu,ebjaj
+RITA,5,Bwana,17,Su,bj
+RITA,5,Bwana,18,Ppup,bbaabbe
+RITA,5,Bwana,19,uPppup,ejbbj
+RITA,5,Bwana,20,Pupup,bbaebbe
+RITA,5,Bwana,21,puuPup,jjbj
+RITA,6,Com a boca no mundo,1,uupp,beje
+RITA,6,Com a boca no mundo,2,PupAAa,jjjb
+RITA,6,Com a boca no mundo,3,PPA,eje
+RITA,6,Com a boca no mundo,4,uPpAu,jjbb
+RITA,6,Com a boca no mundo,5,upPa,ejeb
+RITA,6,Com a boca no mundo,6,uuAaAu,ejjbb
+RITA,6,Com a boca no mundo,7,ppPpAu,ejjbb
+RITA,6,Com a boca no mundo,8,ppPpAu,ejjbb
+RITA,6,Com a boca no mundo,9,ppPpAu,ejjbb
+RITA,6,Com a boca no mundo,10,ppPpA,ejjb
+RITA,6,Com a boca no mundo,11,upp,eje
+RITA,6,Com a boca no mundo,12,uuPpA,ejjb
+RITA,6,Com a boca no mundo,13,appaPPA,ejjje
+RITA,6,Com a boca no mundo,14,uPpApPp,jjjj
+RITA,6,Com a boca no mundo,15,upPa,ejeb
+RITA,6,Com a boca no mundo,16,uuAaAu,ejjbb
+RITA,7,Dancar pra nao dancar,1,pappSp,bbjje
+RITA,7,Dancar pra nao dancar,2,pPuPap,jjjb
+RITA,7,Dancar pra nao dancar,3,pPuPap,jjjb
+RITA,7,Dancar pra nao dancar,4,pPpuP,jjj
+RITA,7,Dancar pra nao dancar,5,uaaPp,ejej
+RITA,7,Dancar pra nao dancar,6,pappSp,jjje
+RITA,7,Dancar pra nao dancar,7,pPuPap,jjjb
+RITA,7,Dancar pra nao dancar,8,pPuPap,jjjb
+RITA,7,Dancar pra nao dancar,9,pPpua,jjj
+RITA,7,Dancar pra nao dancar,10,Pp,eee
+RITA,7,Dancar pra nao dancar,11,PPAppP,eejej
+RITA,7,Dancar pra nao dancar,12,PPAppP,eejej
+RITA,7,Dancar pra nao dancar,13,PPAp,eeje
+RITA,7,Dancar pra nao dancar,14,pPPAp,ejje
+RITA,7,Dancar pra nao dancar,15,pPPAppu,ejjebb
+RITA,8,Desculpe o aue,1,uAaP,bjbb
+RITA,8,Desculpe o aue,2,uuuuuuppu,ejjjbj
+RITA,8,Desculpe o aue,3,pPpu,eebj
+RITA,8,Desculpe o aue,4,uAaP,ejj
+RITA,8,Desculpe o aue,5,PAaP,ejj
+RITA,8,Desculpe o aue,6,upaup,jejae
+RITA,8,Desculpe o aue,7,pp,bbe
+RITA,8,Desculpe o aue,8,SuuuupPpp,ejjjje
+RITA,8,Desculpe o aue,9,PPu,eje
+RITA,8,Desculpe o aue,10,Aaupp,jeje
+RITA,8,Desculpe o aue,11,PP,ej
+RITA,8,Desculpe o aue,12,Ppp,eje
+RITA,8,Desculpe o aue,13,PP,ej
+RITA,8,Desculpe o aue,14,PPp,eje
+RITA,8,Desculpe o aue,15,PPPPa,jeje
+RITA,9,Doce vampiro,1,uppPa,pjbb
+RITA,9,Doce vampiro,2,Suuuppp,gvq
+RITA,9,Doce vampiro,3,pPA,v
+RITA,9,Doce vampiro,4,Suuup,gvb
+RITA,9,Doce vampiro,5,pAa,te
+RITA,9,Doce vampiro,6,Aupappu,uvb
+RITA,9,Doce vampiro,7,Suupup,gjjj
+RITA,9,Doce vampiro,8,AA,eh
+RITA,9,Doce vampiro,9,Suupup,gjte
+RITA,9,Doce vampiro,10,Pp,pc
+RITA,9,Doce vampiro,11,SuupupPP,gtev
+RITA,9,Doce vampiro,12,uuaupPP,ntu
+RITA,9,Doce vampiro,13,uuPpa,pte
+RITA,9,Doce vampiro,14,pPaaA,lmbb
+RITA,9,Doce vampiro,15,uppP,pt
+RITA,9,Doce vampiro,16,SuuupppPP,gvum
+RITA,10,Esse tal de Roque Enrow,1,uPupup,prn
+RITA,10,Esse tal de Roque Enrow,2,uuuuAupuupa,ntrre
+RITA,10,Esse tal de Roque Enrow,3,uPupup,prn
+RITA,10,Esse tal de Roque Enrow,4,uuuuAuuuA,ntrn
+RITA,10,Esse tal de Roque Enrow,5,uuuu,uj
+RITA,10,Esse tal de Roque Enrow,6,Puu,ejb
+RITA,10,Esse tal de Roque Enrow,7,uu,eaeae
+RITA,10,Esse tal de Roque Enrow,8,PuuPu,eaebje
+RITA,10,Esse tal de Roque Enrow,9,uuu,eje
+RITA,10,Esse tal de Roque Enrow,10,uuuppAP,eejjeb
+RITA,10,Esse tal de Roque Enrow,11,uuu,eje
+RITA,10,Esse tal de Roque Enrow,12,uuu,eje
+RITA,10,Esse tal de Roque Enrow,13,uuuppA,eejje
+RITA,10,Esse tal de Roque Enrow,14,u,ee
+RITA,10,Esse tal de Roque Enrow,15,uuu,eje
+RITA,10,Esse tal de Roque Enrow,16,uuuAppap,ejekdbaaab
+RITA,11,Flagra,1,uuAuPpAu,ejjjj
+RITA,11,Flagra,2,uuupPpP,ejjje
+RITA,11,Flagra,3,uAuPpAu,jjjj
+RITA,11,Flagra,4,uuuppA,jjjb
+RITA,11,Flagra,5,uuuuAuuuA,esjsb
+RITA,11,Flagra,6,uuAaupP,ejjje
+RITA,11,Flagra,7,uuuPAAu,ejjje
+RITA,11,Flagra,8,uuuuppAu,ejsje
+RITA,11,Flagra,9,SaAu,ejj
+RITA,11,Flagra,10,AuPa,ejj
+RITA,11,Flagra,11,SuuaAuPa,ejjjj
+RITA,11,Flagra,12,pPpPu,jjj
+RITA,11,Flagra,13,Sp,ej
+RITA,11,Flagra,14,Sp,ej
+RITA,11,Flagra,15,Sp,ej
+RITA,11,Flagra,16,PPppa,fdkdb
+RITA,11,Flagra,17,uuppPp,eejjb
+RITA,11,Flagra,18,PPppa,fdkdb
+RITA,12,Jardins da Babilonia,1,asa,bbbb
+RITA,12,Jardins da Babilonia,2,asaPPpp,eeeejj
+RITA,12,Jardins da Babilonia,3,Puuuuuaaa,eejjjj
+RITA,12,Jardins da Babilonia,4,Puuuuupp,jjkdj
+RITA,12,Jardins da Babilonia,5,up,je
+RITA,12,Jardins da Babilonia,6,pAuas,jjj
+RITA,12,Jardins da Babilonia,7,uSuasuaPPpp,eejjjjj
+RITA,12,Jardins da Babilonia,8,uuPuuuuaaaAu,ejjjjjj
+RITA,12,Jardins da Babilonia,9,uuupp,jjee
+RITA,12,Jardins da Babilonia,10,uuAuAuppspp,ejjjjeeb
+RITA,12,Jardins da Babilonia,11,uuuppPu,jjjj
+RITA,12,Jardins da Babilonia,12,uuuu,jbj
+RITA,12,Jardins da Babilonia,13,ppuaAa,jejj
+RITA,12,Jardins da Babilonia,14,aSuppsP,jjjaj
+RITA,13,Mamae natureza,1,u,ee
+RITA,13,Mamae natureza,2,up,ej
+RITA,13,Mamae natureza,3,Pppupuuuuuap,jejjjjj
+RITA,13,Mamae natureza,4,u,ee
+RITA,13,Mamae natureza,5,up,ej
+RITA,13,Mamae natureza,6,PpPpppuuuuuuap,ejjjjjjj
+RITA,13,Mamae natureza,7,aAaAaAaAu,jbjejj
+RITA,13,Mamae natureza,8,aPpPpPpPpap,eejjjjj
+RITA,13,Mamae natureza,9,aPpPpPpPpAuuA,eejjjjjj
+RITA,13,Mamae natureza,10,pPpPpPup,eejjje
+RITA,13,Mamae natureza,11,uuuaPPu,ebjejb
+RITA,13,Mamae natureza,12,aPP,eej
+RITA,13,Mamae natureza,13,PPuuuu,ejfdj
+RITA,14,Menino bonito,1,u,eb
+RITA,14,Menino bonito,2,ppaAPPA,bjejj
+RITA,14,Menino bonito,3,ppPpPpa,ebejje
+RITA,14,Menino bonito,4,Au,bj
+RITA,14,Menino bonito,5,uAuuaSu,ebjjeb
+RITA,14,Menino bonito,6,ppaAPPA,bjejj
+RITA,14,Menino bonito,7,ppPpPpa,ebejje
+RITA,14,Menino bonito,8,Au,bj
+RITA,14,Menino bonito,9,uAuaA,ebjee
+RITA,14,Menino bonito,10,up,ej
+RITA,14,Menino bonito,11,uAp,ejb
+RITA,14,Menino bonito,12,p,be
+RITA,14,Menino bonito,13,p,be
+RITA,14,Menino bonito,14,ApaP,bbeee
+RITA,15,Miss Brasil 2000,1,uuuuu,ejjb
+RITA,15,Miss Brasil 2000,2,pAuuu,jjj
+RITA,15,Miss Brasil 2000,3,uuuu,eejb
+RITA,15,Miss Brasil 2000,4,Auuu,ejj
+RITA,15,Miss Brasil 2000,5,pPpPppAuuu,eejjjjb
+RITA,15,Miss Brasil 2000,6,uuuu,eebj
+RITA,15,Miss Brasil 2000,7,uuuuuppaSuu,ejjjjje
+RITA,15,Miss Brasil 2000,8,AuuuuppaSuu,ejjjjje
+RITA,15,Miss Brasil 2000,9,uuuuuppaSuu,ejjjjjb
+RITA,15,Miss Brasil 2000,10,uuuu,eebj
+RITA,15,Miss Brasil 2000,11,uauA,jej
+RITA,15,Miss Brasil 2000,12,uuup,jjb
+RITA,15,Miss Brasil 2000,13,ppPP,rj
+RITA,15,Miss Brasil 2000,14,uauA,jej
+RITA,15,Miss Brasil 2000,15,uuup,jjb
+RITA,15,Miss Brasil 2000,16,uuuA,qj
+RITA,15,Miss Brasil 2000,17,uPu,eeee
+RITA,15,Miss Brasil 2000,18,upup,eeeee
+RITA,15,Miss Brasil 2000,19,upup,eeeee
+RITA,16,Mutante,1,uPuPuPpAupp,jjjjjj
+RITA,16,Mutante,2,uuuaPAp,ejjjb
+RITA,16,Mutante,3,uPuPuPpApp,jjjjej
+RITA,16,Mutante,4,uuuaPAp,ejjje
+RITA,16,Mutante,5,PAu,jj
+RITA,16,Mutante,6,SppPPaa,ebjbje
+RITA,16,Mutante,7,SppPPaa,ebjbje
+RITA,16,Mutante,8,uppPpPpu,eejbjeb
+RITA,16,Mutante,9,ppp,jj
+RITA,16,Mutante,10,PpaA,eeeee
+RITA,16,Mutante,11,uppPPaa,eejbje
+RITA,16,Mutante,12,uppPPaa,eejbje
+RITA,16,Mutante,13,uppaAu,eejbj
+RITA,17,Ovelha negra,1,SppPp,ejje
+RITA,17,Ovelha negra,2,pPA,bje
+RITA,17,Ovelha negra,3,SppPp,ejje
+RITA,17,Ovelha negra,4,PPA,eeee
+RITA,17,Ovelha negra,5,SuuPp,ejje
+RITA,17,Ovelha negra,6,pa,eee
+RITA,17,Ovelha negra,7,PAa,eabbe
+RITA,17,Ovelha negra,8,a,be
+RITA,17,Ovelha negra,9,AA,eee
+RITA,17,Ovelha negra,10,uuppp,bjej
+RITA,17,Ovelha negra,11,uuaPP,jjj
+RITA,17,Ovelha negra,12,uuuuuPp,jjjj
+RITA,17,Ovelha negra,13,uuuuuPpapp,jjjjajb
+RITA,17,Ovelha negra,14,aS,ebb
+RITA,17,Ovelha negra,15,aAua,eeeeae
+RITA,18,Pega rapaz,1,puu,jj
+RITA,18,Pega rapaz,2,PPSpppu,jbjje
+RITA,18,Pega rapaz,3,PPPPPA,jjjb
+RITA,18,Pega rapaz,4,Ppp,ebeb
+RITA,18,Pega rapaz,5,ApaPap,ebejj
+RITA,18,Pega rapaz,6,upPp,ejeb
+RITA,18,Pega rapaz,7,uPAAApp,ejjebe
+RITA,18,Pega rapaz,8,SppaSpp,ejbebj
+RITA,18,Pega rapaz,9,pppAppp,jjabje
+RITA,18,Pega rapaz,10,puu,jj
+RITA,18,Pega rapaz,11,PPSpppu,jbjje
+RITA,18,Pega rapaz,12,PPPPPApP,jjjbeb
+RITA,18,Pega rapaz,13,PpAps,ejajab
+RITA,18,Pega rapaz,14,APsS,beeabe
+RITA,18,Pega rapaz,15,ppP,jj
+RITA,18,Pega rapaz,16,SppP,ejj
+RITA,18,Pega rapaz,17,APsS,beeabe
+RITA,18,Pega rapaz,18,PPPPPPP,bjejbb
+RITA,18,Pega rapaz,19,ppP,jj
+RITA,18,Pega rapaz,20,apPp,bajj
+RITA,18,Pega rapaz,21,Appu,bkdb
+RITA,18,Pega rapaz,22,PPp,kdaab
+RITA,19,Saude,1,uu,je
+RITA,19,Saude,2,Auuu,ejj
+RITA,19,Saude,3,ppaaa,eejj
+RITA,19,Saude,4,uPuPPPuu,jjjajb
+RITA,19,Saude,5,uu,je
+RITA,19,Saude,6,ppauup,fdkdj
+RITA,19,Saude,7,Ppu,jj
+RITA,19,Saude,8,upuppaS,jjjj
+RITA,19,Saude,9,SppaAp,ejeje
+RITA,19,Saude,10,AuuPp,ejje
+RITA,19,Saude,11,SppAp,ejje
+RITA,19,Saude,12,AppSpPP,ejjej
+RITA,20,Shangrila,1,PPAupaP,jbbbebb
+RITA,20,Shangrila,2,ApAa,ejbb
+RITA,20,Shangrila,3,pAa,jbb
+RITA,20,Shangrila,4,sup,bej
+RITA,20,Shangrila,5,PPAupaP,jbbbebb
+RITA,20,Shangrila,6,ApAa,ejbb
+RITA,20,Shangrila,7,pAa,jbb
+RITA,20,Shangrila,8,apupa,bjbj
+RITA,20,Shangrila,9,uuPPuuPP,qeqj
+RITA,20,Shangrila,10,Ppp,ejb
+RITA,20,Shangrila,11,pPSuuppaA,ejkdjj
+RITA,20,Shangrila,12,pPupP,ejej
+RITA,20,Shangrila,13,PAa,ebj
+RITA,20,Shangrila,14,PpppP,jjaj
+RITA,20,Shangrila,15,pPpAp,ejajb
+RITA,20,Shangrila,16,uSppup,ejejb
+RITA,20,Shangrila,17,SpaAp,ekdbe
+RITA,21,Te contei,1,uPPu,ejj
+RITA,21,Te contei,2,uuPpAa,ejjj
+RITA,21,Te contei,3,uppuuuAAua,ejjjbjae
+RITA,21,Te contei,4,uPA,jbe
+RITA,21,Te contei,5,uPuuuuPPaPa,jjjjjj
+RITA,21,Te contei,6,PA,ej
+RITA,21,Te contei,7,PP,ej
+RITA,21,Te contei,8,PPpp,ejeb
+RITA,21,Te contei,9,uuuuAAAPap,ejjjbje
+RITA,21,Te contei,10,PA,ej
+RITA,21,Te contei,11,PP,ej
+RITA,21,Te contei,12,PPs,eje
+RITA,21,Te contei,13,uPuuAAPapp,eejjbjee
+RITA,22,Vote em mim,1,uuuuppaAp,jjjjbb
+RITA,22,Vote em mim,2,pp,jb
+RITA,22,Vote em mim,3,Auap,ejj
+RITA,22,Vote em mim,4,uuuuuuuPuu,jjjjje
+RITA,22,Vote em mim,5,uuuppaAuuap,ejjjkdj
+RITA,22,Vote em mim,6,uuuppaAp,ejjjbb
+RITA,22,Vote em mim,7,uuuppaAp,ejjjbb
+RITA,22,Vote em mim,8,uuuppaAuuap,ejjjjje
+RITA,22,Vote em mim,9,Puuuuu,eeejj
+RITA,22,Vote em mim,10,Suuuu,ejje
+RITA,22,Vote em mim,11,aAaAP,jjj
+RITA,22,Vote em mim,12,aAauu,jjj
+RITA,22,Vote em mim,13,aAauA,jjj
+RITA,22,Vote em mim,14,pPpuu,jjj
+RITA,22,Vote em mim,15,pp,ej
+RITA,22,Vote em mim,16,pp,ej
+RITA,22,Vote em mim,17,upp,jj
+RITA,22,Vote em mim,18,uuuuuuPuuuaa,ejjjjjj
+RITA,22,Vote em mim,19,uAuA,jje
+RITA,22,Vote em mim,20,aAuu,jjb
+RITA,23,Chega mais,1,pPpaaP,eejje
+RITA,23,Chega mais,2,uuP,eje
+RITA,23,Chega mais,3,uuP,eje
+RITA,23,Chega mais,4,pPpaaP,eejje
+RITA,23,Chega mais,5,uuP,eje
+RITA,23,Chega mais,6,uSaA,ejeb
+RITA,23,Chega mais,7,PPPa,bbbbe
+RITA,23,Chega mais,8,upPa,ejbe
+RITA,23,Chega mais,9,Sppa,ebbbb
+RITA,23,Chega mais,10,PpPpPpPp,jjjjb
+RITA,23,Chega mais,11,puapu,eebq
+RITA,23,Chega mais,12,puapu,eebq
+RITA,23,Chega mais,13,puapuA,eebqe
+RITA,23,Chega mais,14,pu,eeb
+RITA,24,Alo alo marciano,1,ppPuPsu,uvc
+RITA,24,Alo alo marciano,2,ppPpPPAu,urnc
+RITA,24,Alo alo marciano,3,upP,v
+RITA,24,Alo alo marciano,4,uupPu,gvc
+RITA,24,Alo alo marciano,5,upPpPuPsu,gvvc
+RITA,24,Alo alo marciano,6,Aap,gt
+RITA,24,Alo alo marciano,7,PpPuPAuPp,uvu
+RITA,24,Alo alo marciano,8,upPpP,vn
+RITA,24,Alo alo marciano,9,PpPp,uj
+RITA,24,Alo alo marciano,10,pappAaAp,jvpc
+RITA,24,Alo alo marciano,11,pappAAap,jvpc
+RITA,24,Alo alo marciano,12,pappAaAp,jvpc
+RITA,24,Alo alo marciano,13,pa,jb
+RITA,25,Ando meio desligado,1,u,bab
+RITA,25,Ando meio desligado,2,ppPAu,jjbab
+RITA,25,Ando meio desligado,3,upp,bbbb
+RITA,25,Ando meio desligado,4,ppP,kdb
+RITA,25,Ando meio desligado,5,u,bab
+RITA,25,Ando meio desligado,6,ppPAu,jjbab
+RITA,25,Ando meio desligado,7,upp,bbbb
+RITA,25,Ando meio desligado,8,ppP,kdb
+RITA,25,Ando meio desligado,9,uupup,jjee
+RITA,25,Ando meio desligado,10,ASp,ebbb
+RITA,25,Ando meio desligado,11,uuppupPP,ejeeebbb
+RITA,25,Ando meio desligado,12,uupup,jjee
+RITA,25,Ando meio desligado,13,ASp,ebbb
+RITA,25,Ando meio desligado,14,uupuup,jjej
+RITA,25,Ando meio desligado,15,PP,bbb
+RITA,25,Ando meio desligado,16,ppP,kdb
+RITA,25,Ando meio desligado,17,AAp,bbbe
+RITA,25,Ando meio desligado,18,uppAp,ekdbb
+RITA,25,Ando meio desligado,19,ppP,kdb
+RITA,26,Arrombou a festa,1,uppA,bajj
+RITA,26,Arrombou a festa,2,uuuuppA,eebbjj
+RITA,26,Arrombou a festa,3,puuAuu,ebjeeb
+RITA,26,Arrombou a festa,4,upu,bje
+RITA,26,Arrombou a festa,5,upPpPpPpPpPpP,ejjjjjjb
+RITA,26,Arrombou a festa,6,PpPpPpPpPpPpP,ejjjjjjb
+RITA,26,Arrombou a festa,7,ppPpPpPpPpPpP,ejjjjjjb
+RITA,26,Arrombou a festa,8,uuuuuuuuAauuu,ejjjjjjb
+RITA,26,Arrombou a festa,9,Auuuuuap,ejjjj
+RITA,27,Baila comigo,1,PPu,kdb
+RITA,27,Baila comigo,2,uPPppAp,ejbjj
+RITA,27,Baila comigo,3,uPPPPpaPPa,ejjjjj
+RITA,27,Baila comigo,4,uuappp,jjje
+RITA,27,Baila comigo,5,uuappp,jjje
+RITA,27,Baila comigo,6,SuaAp,ejjb
+RITA,27,Baila comigo,7,PPuuu,jjj
+RITA,27,Baila comigo,8,uuu,jj
+RITA,27,Baila comigo,9,uuu,jj
+RITA,27,Baila comigo,10,uuu,jj
+RITA,27,Baila comigo,11,uaAp,bbaje
+RITA,27,Baila comigo,12,uuuppAp,ejjje
+RITA,27,Baila comigo,13,uaAp,bbaje
+RITA,27,Baila comigo,14,uuAaaAp,ejjje
+RITA,28,Balada do louco,1,PPSpa,jbje
+RITA,28,Balada do louco,2,PPPa,jbj
+RITA,28,Balada do louco,3,PPSpa,jbje
+RITA,28,Balada do louco,4,PPPa,jbj
+RITA,28,Balada do louco,5,uAuAu,jajaj
+RITA,28,Balada do louco,6,pSuu,ojb
+RITA,28,Balada do louco,7,pPa,jeb
+RITA,28,Balada do louco,8,SppaAu,ekdbj
+RITA,28,Balada do louco,9,SppP,ekdb
+RITA,28,Balada do louco,10,SppP,ekdb
+RITA,28,Balada do louco,11,APa,jaj
+RITA,29,Barata tonta,1,uuuppAa,ejjje
+RITA,29,Barata tonta,2,uppAa,ejje
+RITA,29,Barata tonta,3,uPPppa,ejbje
+RITA,29,Barata tonta,4,Sppup,ejjaaae
+RITA,29,Barata tonta,5,AAuAa,jbje
+RITA,29,Barata tonta,6,upPAa,ejje
+RITA,29,Barata tonta,7,uuAppa,ejbje
+RITA,29,Barata tonta,8,uPPPuu,ejjee
+RITA,29,Barata tonta,9,PPpu,eejb
+RITA,29,Barata tonta,10,ppAs,bbbbb
+RITA,29,Barata tonta,11,ppup,bbbj
+RITA,29,Barata tonta,12,PPppA,jjj
+RITA,29,Barata tonta,13,aPPppS,ejjj
+RITA,29,Barata tonta,14,uppA,ejj
+RITA,29,Barata tonta,15,Appu,ebbaabb
+RITA,29,Barata tonta,16,Ap,bbb
+RITA,30,Brazil com s,1,PPPuuPu,urh
+RITA,30,Brazil com s,2,AuuPpsPp,grrl
+RITA,30,Brazil com s,3,App,gr
+RITA,30,Brazil com s,4,PPApppPPppu,nrrv
+RITA,30,Brazil com s,5,uPPaapp,grnn
+RITA,30,Brazil com s,6,uPPaapp,urn
+RITA,30,Brazil com s,7,uPPaaupp,urr
+RITA,30,Brazil com s,8,aPPAaAp,urbb
+RITA,31,Caso serio,1,uAPPppaA,baejbjee
+RITA,31,Caso serio,2,ppppp,eebbbe
+RITA,31,Caso serio,3,SPP,ejb
+RITA,31,Caso serio,4,Appp,bbaabbe
+RITA,31,Caso serio,5,pppaap,kdkdb
+RITA,31,Caso serio,6,PPppaA,jjeee
+RITA,31,Caso serio,7,ppppp,bakdbb
+RITA,31,Caso serio,8,SPP,ejb
+RITA,31,Caso serio,9,Appu,bbaabbb
+RITA,31,Caso serio,10,pppaaS,kdkdb
+RITA,31,Caso serio,11,ppp,ejb
+RITA,31,Caso serio,12,Suppp,ejjb
+RITA,31,Caso serio,13,ppp,ejb
+RITA,31,Caso serio,14,uuupppPp,eqjeee
+RITA,31,Caso serio,15,ppp,ejb
+RITA,31,Caso serio,16,uuuppu,jjjb
+RITA,32,Cor de rosa choque,1,uuuppPp,ejjje
+RITA,32,Cor de rosa choque,2,upppp,ejbj
+RITA,32,Cor de rosa choque,3,uppP,ejj
+RITA,32,Cor de rosa choque,4,uauAp,ejje
+RITA,32,Cor de rosa choque,5,aPp,bje
+RITA,32,Cor de rosa choque,6,pppp,jbj
+RITA,32,Cor de rosa choque,7,uppPaauAp,ejbbbjj
+RITA,32,Cor de rosa choque,8,SpPpAa,ejbje
+RITA,32,Cor de rosa choque,9,upPpuu,ejbje
+RITA,32,Cor de rosa choque,10,PPAA,ejee
+RITA,32,Cor de rosa choque,11,pPa,eje
+RITA,32,Cor de rosa choque,12,upPpAu,ejbje
+RITA,32,Cor de rosa choque,13,Apa,eje
+RITA,32,Cor de rosa choque,14,upPpAu,ejbje
+RITA,32,Cor de rosa choque,15,ApPpAa,ejbje
+RITA,32,Cor de rosa choque,16,upPpuu,ejbje
+RITA,33,Eu e o meu gato,1,uPuPp,bbbbbe
+RITA,33,Eu e o meu gato,2,puPuPp,ebbbbbe
+RITA,33,Eu e o meu gato,3,Sp,eaabe
+RITA,33,Eu e o meu gato,4,a,be
+RITA,33,Eu e o meu gato,5,pp,beaab
+RITA,33,Eu e o meu gato,6,PPp,beabe
+RITA,33,Eu e o meu gato,7,PPp,beabe
+RITA,33,Eu e o meu gato,8,uupa,bbbbb
+RITA,33,Eu e o meu gato,9,uus,bababab
+RITA,33,Eu e o meu gato,10,uupa,jje
+RITA,33,Eu e o meu gato,11,uupa,jje
+RITA,33,Eu e o meu gato,12,uupa,jje
+RITA,33,Eu e o meu gato,13,pPpPppaSp,jjbbbje
+RITA,34,Lanca perfurme,1,APp,jj
+RITA,34,Lanca perfurme,2,PpPpPpPp,ejjjj
+RITA,34,Lanca perfurme,3,APp,jj
+RITA,34,Lanca perfurme,4,PpAapaAp,ejjjj
+RITA,34,Lanca perfurme,5,APp,jj
+RITA,34,Lanca perfurme,6,pPpPpapPu,jjjbjb
+RITA,34,Lanca perfurme,7,pPA,jj
+RITA,34,Lanca perfurme,8,ppapPpPuA,bjjejj
+RITA,34,Lanca perfurme,9,papPpPuA,jjejj
+RITA,34,Lanca perfurme,10,ppapPpPA,bjjeje
+RITA,34,Lanca perfurme,11,ppaA,ejj
+RITA,34,Lanca perfurme,12,ppA,ejae
+RITA,34,Lanca perfurme,13,p,bb
+RITA,34,Lanca perfurme,14,papP,jje
+RITA,34,Lanca perfurme,15,p,bb
+RITA,34,Lanca perfurme,16,papP,jje
+RITA,34,Lanca perfurme,17,p,bb
+RITA,34,Lanca perfurme,18,pPA,bababab
+RITA,35,Mania de voce,1,AaAaA,ebjeb
+RITA,35,Mania de voce,2,ppup,jjb
+RITA,35,Mania de voce,3,AaAaSp,ebjej
+RITA,35,Mania de voce,4,ppPp,jjaaae
+RITA,35,Mania de voce,5,SAaup,ebeej
+RITA,35,Mania de voce,6,ppuPaaA,jebjee
+RITA,35,Mania de voce,7,PPpPp,ebjeb
+RITA,35,Mania de voce,8,up,bbaaab
+RITA,35,Mania de voce,9,ppP,jj
+RITA,35,Mania de voce,10,pP,ej
+RITA,35,Mania de voce,11,aAa,ejb
+RITA,35,Mania de voce,12,ppP,jj
+RITA,35,Mania de voce,13,pP,ej
+RITA,35,Mania de voce,14,Aap,ejaaaaaab
+RITA,35,Mania de voce,15,SAapp,ebeej
+RITA,35,Mania de voce,16,p,baaab
+RITA,35,Mania de voce,17,AAp,baaabaaabaaab
+RITA,35,Mania de voce,18,Supp,ejbb
+RITA,35,Mania de voce,19,ppPP,jje
+RITA,35,Mania de voce,20,Aau,eje
+RITA,36,Nem luxo nem lixo,1,uPAA,jbj
+RITA,36,Nem luxo nem lixo,2,uauP,ejj
+RITA,36,Nem luxo nem lixo,3,uuuPAA,ejjj
+RITA,36,Nem luxo nem lixo,4,uppA,ejj
+RITA,36,Nem luxo nem lixo,5,uuuppPu,ejjje
+RITA,36,Nem luxo nem lixo,6,uuAPpP,ejjj
+RITA,36,Nem luxo nem lixo,7,upPpaup,ejjjae
+RITA,36,Nem luxo nem lixo,8,upPppu,ejjj
+RITA,36,Nem luxo nem lixo,9,uA,eeb
+RITA,36,Nem luxo nem lixo,10,p,be
+RITA,36,Nem luxo nem lixo,11,pp,bbe
+RITA,36,Nem luxo nem lixo,12,uupppA,ejjj
+RITA,36,Nem luxo nem lixo,13,pP,ej
+RITA,36,Nem luxo nem lixo,14,PASp,ejbe
+RITA,36,Nem luxo nem lixo,15,aP,bbe
+RITA,36,Nem luxo nem lixo,16,uuuuppA,ejqj
+RITA,36,Nem luxo nem lixo,17,pAp,ejb
+RITA,37,Orra meu,1,upPpPu,ejjj
+RITA,37,Orra meu,2,pPpPppPp,eejjje
+RITA,37,Orra meu,3,upPpPu,ejjj
+RITA,37,Orra meu,4,pPpPuppPA,eejqje
+RITA,37,Orra meu,5,uAuAuPpAuppPp,jjjjjjj
+RITA,37,Orra meu,6,p,ee
+RITA,37,Orra meu,7,uAuAuPpAuppPp,jjjjjjj
+RITA,37,Orra meu,8,uAuAuPpAuppPp,eejjjjjj
+RITA,37,Orra meu,9,uAuAuPpAuupPpPP,eejjjjjjj
+RITA,37,Orra meu,10,pp,ej
+RITA,37,Orra meu,11,pp,ej
+RITA,37,Orra meu,12,uuu,ejb
+RITA,37,Orra meu,13,pP,ej
+RITA,37,Orra meu,14,pu,eeb
+RITA,38,Papai me empresta o carro,1,uuuupp,ejjj
+RITA,38,Papai me empresta o carro,2,uuuupp,ejjj
+RITA,38,Papai me empresta o carro,3,uuuuuuuuuuuuuuupp,ejjjjjjjje
+RITA,38,Papai me empresta o carro,4,uuuuupp,ejjje
+RITA,38,Papai me empresta o carro,5,PpAuaupuPp,ejjjjj
+RITA,38,Papai me empresta o carro,6,PpAuaupuPp,ejjjjj
+RITA,38,Papai me empresta o carro,7,PpAuaupuPpu,ejjjjje
+RITA,38,Papai me empresta o carro,8,Puuupp,ejjj
+RITA,38,Papai me empresta o carro,9,uuuuuu,ejjj
+RITA,38,Papai me empresta o carro,10,uuuuuuuAuu,jjjjjb
+RITA,39,Perigosa,1,uPP,jj
+RITA,39,Perigosa,2,Suupp,ejje
+RITA,39,Perigosa,3,Puuu,ejj
+RITA,39,Perigosa,4,uuuPp,ejje
+RITA,39,Perigosa,5,uPPuu,ejje
+RITA,39,Perigosa,6,Suupp,ejje
+RITA,39,Perigosa,7,Puuuu,ejje
+RITA,39,Perigosa,8,uuuPp,ejje
+RITA,39,Perigosa,9,puuuu,ejje
+RITA,39,Perigosa,10,uuuuu,ejje
+RITA,39,Perigosa,11,Puuuu,ejje
+RITA,39,Perigosa,12,uPpPp,ejje
+RITA,39,Perigosa,13,puuu,ejj
+RITA,39,Perigosa,14,aS,ej
+RITA,39,Perigosa,15,aSu,eje
+RITA,39,Perigosa,16,PuuuuPpPp,ejjjje
+RITA,39,Perigosa,17,pPp,eje
+RITA,39,Perigosa,18,pSp,eje
+RITA,39,Perigosa,19,paa,jbb
+RITA,39,Perigosa,20,uAa,eje
+RITA,39,Perigosa,21,paa,jbb
+RITA,40,Perto do fogo,1,uPpp,sj
+RITA,40,Perto do fogo,2,uAuAu,pv
+RITA,40,Perto do fogo,3,uuuppup,ssj
+RITA,40,Perto do fogo,4,aAaAuPPuuu,ntnv
+RITA,40,Perto do fogo,5,upuupAp,uuj
+RITA,40,Perto do fogo,6,upApsuu,rbbu
+RITA,40,Perto do fogo,7,auapp,lbu
+RITA,40,Perto do fogo,8,apsAu,lcjb
+RITA,40,Perto do fogo,9,upaSpaSp,vsj
+RITA,40,Perto do fogo,10,upPpPa,uv
+RITA,40,Perto do fogo,11,PPPPpPp,otmc
+RITA,40,Perto do fogo,12,pPp,nj
+RITA,40,Perto do fogo,13,PppAS,sjb
+RITA,40,Perto do fogo,14,uupaSusSp,gvsbab
+RITA,40,Perto do fogo,15,PPPPpA,uejb
+RITA,41,So de voce,1,A,j
+RITA,41,So de voce,2,Au,je
+RITA,41,So de voce,3,puaA,bjj
+RITA,41,So de voce,4,PPAppPSpp,ejjjbj
+RITA,41,So de voce,5,aaa,jj
+RITA,41,So de voce,6,p,j
+RITA,41,So de voce,7,p,j
+RITA,41,So de voce,8,asASppp,ebbbbjaaaab
+RITA,41,So de voce,9,PPPu,sj
+RITA,41,So de voce,10,Pppp,jbbb
+RITA,41,So de voce,11,PP,babab
+RITA,41,So de voce,12,p,j
+RITA,41,So de voce,13,SupupPPp,ejjjaj
+RITA,41,So de voce,14,uSupupSap,bejjjee
+RITA,41,So de voce,15,SupupPS,ejjje
+RITA,42,Tititi,1,appaPAPAu,bbbjjje
+RITA,42,Tititi,2,appaPAaa,bbbjjj
+RITA,42,Tititi,3,PPP,ejb
+RITA,42,Tititi,4,uupaA,ejjb
+RITA,42,Tititi,5,uuPuuuuuuuPuu,ejjjjjje
+RITA,42,Tititi,6,uapPpAuuu,bbjjjj
+RITA,42,Tititi,7,uuapPpAuuu,ejjjjj
+RITA,42,Tititi,8,uuuapPpAuuuap,jjjjjjj
+RITA,42,Tititi,9,uuuuuuuPuuuuu,jjjjjjj
+RITA,43,Corre-corre,1,upPp,ejj
+RITA,43,Corre-corre,2,upPpPp,ejjj
+RITA,43,Corre-corre,3,au,ej
+RITA,43,Corre-corre,4,uuuuuuAauAa,ejjjjje
+RITA,43,Corre-corre,5,upPp,ejj
+RITA,43,Corre-corre,6,upPpPp,ejjj
+RITA,43,Corre-corre,7,au,ej
+RITA,43,Corre-corre,8,uuuuu,jjj
+RITA,43,Corre-corre,9,uuuuuuup,jjjjb
+RITA,43,Corre-corre,10,PpPpuP,ejjj
+RITA,43,Corre-corre,11,PPpp,ejeb
+RITA,43,Corre-corre,12,PpPpPp,ejjj
+RITA,43,Corre-corre,13,APPpp,jjee
+RITA,43,Corre-corre,14,uuupa,jjj
+RITA,43,Corre-corre,15,aA,ej
+RITA,44,Amor objeto,1,p,ee
+RITA,44,Amor objeto,2,pSa,ejae
+RITA,44,Amor objeto,3,uAuSp,jjj
+RITA,44,Amor objeto,4,Appp,ejj
+RITA,44,Amor objeto,5,pappSa,ebkdbe
+RITA,44,Amor objeto,6,uuAuSp,ejjj
+RITA,44,Amor objeto,7,aAaAppp,pljj
+RITA,44,Amor objeto,8,Ap,ej
+RITA,44,Amor objeto,9,uaAppp,eljj
+RITA,44,Amor objeto,10,Suu,ejaab
+RITA,44,Amor objeto,11,PPpuPpppA,jjejej
+RITA,44,Amor objeto,12,Ap,ej
+RITA,44,Amor objeto,13,aAuaAu,jjje
+RITA,44,Amor objeto,14,SupupP,ejjj
+RITA,44,Amor objeto,15,AuaAuPP,ejejj
+RITA,44,Amor objeto,16,AuPuP,ejje
+RITA,44,Amor objeto,17,AuaAuPP,ejejj
+RITA,44,Amor objeto,18,AuPuP,ejje
+RITA,44,Amor objeto,19,aAp,ejab
+RITA,45,Ambicao,1,apaAP,bjabj
+RITA,45,Ambicao,2,aAu,eej
+RITA,45,Ambicao,3,Pppap,ebjeaaab
+RITA,45,Ambicao,4,PPPp,eebj
+RITA,45,Ambicao,5,PPPp,eebj
+RITA,45,Ambicao,6,pa,je
+RITA,45,Ambicao,7,PA,ej
+RITA,45,Ambicao,8,uapuaAP,jjjj
+RITA,45,Ambicao,9,PpPP,eebj
+RITA,45,Ambicao,10,pap,jeab
+RITA,45,Ambicao,11,PPuPp,eejeb
+RITA,45,Ambicao,12,PPPp,eebj
+RITA,45,Ambicao,13,pa,je
+RITA,45,Ambicao,14,AaSuaP,ejjj
+RITA,45,Ambicao,15,uPpAu,ejje
+RITA,45,Ambicao,16,uppPs,ejje
+RITA,45,Ambicao,17,uuupapPA,eeeejje
+RITA,45,Ambicao,18,uuuuuu,ejjj
+RITA,45,Ambicao,19,pPA,eje
+RITA,45,Ambicao,20,uuupaPA,eeeeeje
+RITA,45,Ambicao,21,uuuuuuupu,ejjjjb
+RITA,45,Ambicao,22,pPp,eje
+RITA,45,Ambicao,23,Sppap,bbeebb
+RITA,46,Ando jururu,1,uuuaAuuaA,jtvb
+RITA,46,Ando jururu,2,aAuaAuA,ptr
+RITA,46,Ando jururu,3,uuuaAuuaA,jtvb
+RITA,46,Ando jururu,4,uAuuuua,ptr
+RITA,46,Ando jururu,5,uuuA,jt
+RITA,46,Ando jururu,6,AuuuA,bjt
+RITA,46,Ando jururu,7,uaAuuuAuuuuuuua,tvvvb
+RITA,46,Ando jururu,8,pp,bbb
+RITA,46,Ando jururu,9,pPpsuPA,kdkdbb
+RITA,46,Ando jururu,10,uuuupPpsuPA,eskdkdbb
+RITA,46,Ando jururu,11,uuuuupp,eejjj
+RITA,46,Ando jururu,12,PAAu,ejeb
+RITA,46,Ando jururu,13,pPpPpPu,olll
+RITA,46,Ando jururu,14,PPuu,pje
+RITA,46,Ando jururu,15,uuup,jje
+RITA,46,Ando jururu,16,uuup,jjaab
+RITA,47,Xuxuzinho,1,aaA,bbbb
+RITA,47,Xuxuzinho,2,uuPpup,ejjbab
+RITA,47,Xuxuzinho,3,aaP,bbbb
+RITA,47,Xuxuzinho,4,ApsAp,ejej
+RITA,47,Xuxuzinho,5,up,bj
+RITA,47,Xuxuzinho,6,pupp,bbbeb
+RITA,47,Xuxuzinho,7,aAp,eej
+RITA,47,Xuxuzinho,8,PPppPpp,fdkdjb
+RITA,47,Xuxuzinho,9,uaAa,ejj
+RITA,47,Xuxuzinho,10,Pup,bje
+RITA,47,Xuxuzinho,11,aAu,jj
+RITA,47,Xuxuzinho,12,upP,jj
+RITA,47,Xuxuzinho,13,AaAa,ejj
+RITA,47,Xuxuzinho,14,Pup,bje
+RITA,47,Xuxuzinho,15,pP,bj
+RITA,47,Xuxuzinho,16,u,be
+RITA,47,Xuxuzinho,17,upAP,jbj
+RITA,47,Xuxuzinho,18,PpAupu,ejjj
+RITA,47,Xuxuzinho,19,APp,bje
+RITA,47,Xuxuzinho,20,upp,jj
+RITA,47,Xuxuzinho,21,pPpPpPP,jjjj
+RITA,47,Xuxuzinho,22,p,ee
+RITA,47,Xuxuzinho,23,pPpPpuA,jjjj
+RITA,47,Xuxuzinho,24,pP,ej
+RITA,47,Xuxuzinho,25,u,baaab
+RITA,47,Xuxuzinho,26,uSpPpPpu,bejjq
+RITA,47,Xuxuzinho,27,upap,bbbeb
+RITA,47,Xuxuzinho,28,upap,bbbeb
+RITA,47,Xuxuzinho,29,PPppPpp,fdkdjb
+RITA,48,Fruto proibido,1,Appp,ebbj
+RITA,48,Fruto proibido,2,Apppu,ebbje
+RITA,48,Fruto proibido,3,Appp,ejee
+RITA,48,Fruto proibido,4,Apppuu,ejeej
+RITA,48,Fruto proibido,5,pauu,jje
+RITA,48,Fruto proibido,6,ApPP,ejj
+RITA,48,Fruto proibido,7,Appp,ebbj
+RITA,48,Fruto proibido,8,Sppp,ebbj
+RITA,48,Fruto proibido,9,uPPP,ebbbb
+RITA,48,Fruto proibido,10,uuap,ejj
+RITA,48,Fruto proibido,11,Apppuu,ebbjj
+RITA,48,Fruto proibido,12,papPu,jjeb
+RITA,48,Fruto proibido,13,ApPP,ejj
+RITA,49,Livre outra vez,1,upap,ejj
+RITA,49,Livre outra vez,2,upaPp,ejbbb
+RITA,49,Livre outra vez,3,Sppa,ejj
+RITA,49,Livre outra vez,4,Sppa,ejj
+RITA,49,Livre outra vez,5,upppp,jebj
+RITA,49,Livre outra vez,6,uppa,ekdb
+RITA,49,Livre outra vez,7,upaPp,ejbbe
+RITA,49,Livre outra vez,8,pupupPupp,jjjjj
+RITA,49,Livre outra vez,9,pp,ej
+RITA,49,Livre outra vez,10,pupupPppPp,jjjbjeb
+RITA,49,Livre outra vez,11,As,je
+RITA,49,Livre outra vez,12,Pppu,bbbj
+RITA,49,Livre outra vez,13,pp,je
+RITA,49,Livre outra vez,14,Pu,je
+RITA,49,Livre outra vez,15,Pu,ej
+RITA,49,Livre outra vez,16,AApaa,ebjee
+RITA,49,Livre outra vez,17,pPu,baje
+RITA,49,Livre outra vez,18,Pu,ej
+RITA,49,Livre outra vez,19,AApaa,ebjee
+RITA,50,O futuro me absolve,1,uuuppuPuu,ejjjjb
+RITA,50,O futuro me absolve,2,uuuuuuuuuupPp,ettthj
+RITA,50,O futuro me absolve,3,PpAu,ejj
+RITA,50,O futuro me absolve,4,ppPu,ejj
+RITA,50,O futuro me absolve,5,uuuuuuuuuuuuuuuuupPp,ejrttvrj
+RITA,50,O futuro me absolve,6,uuuuaa,eejje
+RITA,50,O futuro me absolve,7,uuuuaa,eejje
+RITA,50,O futuro me absolve,8,uuuuaa,eejje
+RITA,50,O futuro me absolve,9,uuuuaa,eejje
+RITA,50,O futuro me absolve,10,pPPPP,rjae
+RITA,50,O futuro me absolve,11,PpPpPp,ejjj
+RITA,50,O futuro me absolve,12,pPppS,rje
+RITA,50,O futuro me absolve,13,uuuppPp,ejjjb
+RITA,50,O futuro me absolve,14,Pp,ej
+RITA,50,O futuro me absolve,15,pp,jb

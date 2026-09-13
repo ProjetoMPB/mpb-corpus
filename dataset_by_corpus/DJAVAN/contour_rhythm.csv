@@ -1,0 +1,841 @@
+corpus_id,composition_id,composition_name,word_index,c_word,r_word
+DJAVAN,1,Flor de lis,1,Suu,nn
+DJAVAN,1,Flor de lis,2,aaAuu,nnn
+DJAVAN,1,Flor de lis,3,aaAuu,nnn
+DJAVAN,1,Flor de lis,4,aaA,ngb
+DJAVAN,1,Flor de lis,5,Sap,gt
+DJAVAN,1,Flor de lis,6,PAPuu,nnn
+DJAVAN,1,Flor de lis,7,aaAuu,nnn
+DJAVAN,1,Flor de lis,8,aAAuu,nnn
+DJAVAN,1,Flor de lis,9,PPPpu,nngb
+DJAVAN,1,Flor de lis,10,PPppa,nrb
+DJAVAN,1,Flor de lis,11,PPppSa,cnnl
+DJAVAN,1,Flor de lis,12,ps,pg
+DJAVAN,1,Flor de lis,13,pPpPpPpPPpa,gossjc
+DJAVAN,1,Flor de lis,14,aAAPpa,nnng
+DJAVAN,1,Flor de lis,15,AppAp,pnn
+DJAVAN,1,Flor de lis,16,uppPPa,nnt
+DJAVAN,1,Flor de lis,17,AppapAu,tnt
+DJAVAN,2,E que Deus ajude,1,uPPuAuauApaS,uvvh
+DJAVAN,2,E que Deus ajude,2,pPPuPsuu,uvh
+DJAVAN,2,E que Deus ajude,3,ApuupAu,pvh
+DJAVAN,2,E que Deus ajude,4,aaAaAPu,pvh
+DJAVAN,2,E que Deus ajude,5,paAaAAuuaa,pvvb
+DJAVAN,2,E que Deus ajude,6,uua,ub
+DJAVAN,2,E que Deus ajude,7,uAuuaPu,pvh
+DJAVAN,2,E que Deus ajude,8,uuuuPau,pvh
+DJAVAN,2,E que Deus ajude,9,uuauuauuu,pvv
+DJAVAN,2,E que Deus ajude,10,uuAuuaPu,uvh
+DJAVAN,2,E que Deus ajude,11,uuuuupu,pvh
+DJAVAN,2,E que Deus ajude,12,uuuuupuupau,pvvh
+DJAVAN,2,E que Deus ajude,13,uuau,uj
+DJAVAN,2,E que Deus ajude,14,uuaup,ur
+DJAVAN,2,E que Deus ajude,15,uuuuPP,nnnc
+DJAVAN,2,E que Deus ajude,16,pppa,gqb
+DJAVAN,2,E que Deus ajude,17,pppa,gqb
+DJAVAN,2,E que Deus ajude,18,ppAa,gqb
+DJAVAN,2,E que Deus ajude,19,ppAa,gqb
+DJAVAN,2,E que Deus ajude,20,ppAa,gqb
+DJAVAN,3,Lilas,1,PP,eeb
+DJAVAN,3,Lilas,2,ppp,bbbb
+DJAVAN,3,Lilas,3,PP,eeb
+DJAVAN,3,Lilas,4,ppp,bbbb
+DJAVAN,3,Lilas,5,PuuPuuPuu,kdkdkdb
+DJAVAN,3,Lilas,6,upPuppPp,eebjbjb
+DJAVAN,3,Lilas,7,APAua,jjeb
+DJAVAN,3,Lilas,8,ua,jb
+DJAVAN,3,Lilas,9,Pa,le
+DJAVAN,3,Lilas,10,ua,eeb
+DJAVAN,3,Lilas,11,uapA,jje
+DJAVAN,3,Lilas,12,APAua,jjeb
+DJAVAN,3,Lilas,13,ua,jb
+DJAVAN,3,Lilas,14,Sppuuuu,ejjjb
+DJAVAN,3,Lilas,15,ppPPa,eejee
+DJAVAN,3,Lilas,16,uSuuppuu,jjjjb
+DJAVAN,3,Lilas,17,uu,eeb
+DJAVAN,3,Lilas,18,P,j
+DJAVAN,4,Nem um dia,1,APPu,uj
+DJAVAN,4,Nem um dia,2,APPPpupp,utmb
+DJAVAN,4,Nem um dia,3,PPPpPppu,uvh
+DJAVAN,4,Nem um dia,4,PPPupp,utg
+DJAVAN,4,Nem um dia,5,APPa,uj
+DJAVAN,4,Nem um dia,6,APPPpupp,utmb
+DJAVAN,4,Nem um dia,7,PPPpPppu,uvh
+DJAVAN,4,Nem um dia,8,PPPupp,utg
+DJAVAN,4,Nem um dia,9,uuuuuuuuuuuppp,tnmvsb
+DJAVAN,4,Nem um dia,10,PPPPau,vt
+DJAVAN,4,Nem um dia,11,ppp,ue
+DJAVAN,4,Nem um dia,12,pPpPpPpPPP,ntmrc
+DJAVAN,4,Nem um dia,13,pPpPpPPPsP,ertsb
+DJAVAN,4,Nem um dia,14,pPpPpPpPp,pmrt
+DJAVAN,4,Nem um dia,15,pPpPpPpPp,mrtm
+DJAVAN,4,Nem um dia,16,pPpPpPpPppupP,rtmrjb
+DJAVAN,5,Muito obrigado,1,AuaAu,grh
+DJAVAN,5,Muito obrigado,2,AuaAPPAPu,grru
+DJAVAN,5,Muito obrigado,3,PupAppaaa,grrmb
+DJAVAN,5,Muito obrigado,4,AuaAu,grh
+DJAVAN,5,Muito obrigado,5,AuaAupa,grrc
+DJAVAN,5,Muito obrigado,6,AuaAu,grh
+DJAVAN,5,Muito obrigado,7,AuaAPPAPu,grru
+DJAVAN,5,Muito obrigado,8,PupAppaaa,grrmb
+DJAVAN,5,Muito obrigado,9,AuaAu,grh
+DJAVAN,5,Muito obrigado,10,AuaAuPAa,grnjb
+DJAVAN,5,Muito obrigado,11,pPuupAppa,nrnmb
+DJAVAN,5,Muito obrigado,12,APs,nn
+DJAVAN,5,Muito obrigado,13,pPuupAppa,nrnmc
+DJAVAN,5,Muito obrigado,14,APs,nn
+DJAVAN,5,Muito obrigado,15,pPuupAppa,nrnmb
+DJAVAN,5,Muito obrigado,16,APs,nn
+DJAVAN,5,Muito obrigado,17,pPuupAppa,nrnmb
+DJAVAN,5,Muito obrigado,18,APpa,nng
+DJAVAN,5,Muito obrigado,19,pPuupAppp,nrnu
+DJAVAN,5,Muito obrigado,20,APpa,nnab
+DJAVAN,5,Muito obrigado,21,APPs,nnab
+DJAVAN,5,Muito obrigado,22,APpa,nng
+DJAVAN,5,Muito obrigado,23,AuaAPPaa,grrcb
+DJAVAN,6,Obi,1,uPu,nn
+DJAVAN,6,Obi,2,uuuPPP,mnt
+DJAVAN,6,Obi,3,AsAaAa,grmc
+DJAVAN,6,Obi,4,AAApA,puc
+DJAVAN,6,Obi,5,Pa,nc
+DJAVAN,6,Obi,6,pp,pg
+DJAVAN,6,Obi,7,uPuPu,nnn
+DJAVAN,6,Obi,8,PuPPPAs,cjrj
+DJAVAN,6,Obi,9,aAa,nl
+DJAVAN,6,Obi,10,PPpp,pnc
+DJAVAN,6,Obi,11,ppppA,gmlg
+DJAVAN,6,Obi,12,suSaa,tnc
+DJAVAN,6,Obi,13,aaPa,gtb
+DJAVAN,6,Obi,14,uAApuA,grnc
+DJAVAN,6,Obi,15,PP,lg
+DJAVAN,6,Obi,16,pPapP,pll
+DJAVAN,6,Obi,17,pu,gn
+DJAVAN,6,Obi,18,pu,nc
+DJAVAN,6,Obi,19,pu,gn
+DJAVAN,6,Obi,20,au,nc
+DJAVAN,6,Obi,21,au,gn
+DJAVAN,6,Obi,22,au,nc
+DJAVAN,6,Obi,23,auA,gnc
+DJAVAN,6,Obi,24,uA,gn
+DJAVAN,7,Passou,1,PsAP,jjb
+DJAVAN,7,Passou,2,aS,eee
+DJAVAN,7,Passou,3,aP,jb
+DJAVAN,7,Passou,4,PsAP,jjb
+DJAVAN,7,Passou,5,aS,eee
+DJAVAN,7,Passou,6,pAu,sb
+DJAVAN,7,Passou,7,PsAP,jjb
+DJAVAN,7,Passou,8,aS,eee
+DJAVAN,7,Passou,9,aP,jb
+DJAVAN,7,Passou,10,ppaPPuu,eajjs
+DJAVAN,7,Passou,11,AuupAu,esaeeaaaae
+DJAVAN,7,Passou,12,uuuuuuupuu,ostob
+DJAVAN,7,Passou,13,puuu,epbc
+DJAVAN,7,Passou,14,puuu,bsac
+DJAVAN,7,Passou,15,puPau,euabb
+DJAVAN,7,Passou,16,uuuuuupuu,phpjj
+DJAVAN,7,Passou,17,puuu,enbab
+DJAVAN,7,Passou,18,puu,eaq
+DJAVAN,7,Passou,19,PPPPsPPPPPPu,essss
+DJAVAN,7,Passou,20,PPPPPP,oseb
+DJAVAN,8,Azul,1,ppaAsA,bbbeje
+DJAVAN,8,Azul,2,ppaAu,ejjb
+DJAVAN,8,Azul,3,ppaAsA,bbbeje
+DJAVAN,8,Azul,4,PPsPPPpa,ejajjbb
+DJAVAN,8,Azul,5,ppaAsA,ejajaj
+DJAVAN,8,Azul,6,ppaAu,ejjb
+DJAVAN,8,Azul,7,ppaAsA,jeajaj
+DJAVAN,8,Azul,8,PPAsSsA,ejbbbbb
+DJAVAN,8,Azul,9,puaAsA,bbjje
+DJAVAN,8,Azul,10,ppaAu,ejjb
+DJAVAN,8,Azul,11,ppaAsA,jeajaj
+DJAVAN,8,Azul,12,AsAAuPPPp,jjbjjb
+DJAVAN,8,Azul,13,pAsASaAPs,ejjbjj
+DJAVAN,8,Azul,14,AAsA,jjb
+DJAVAN,8,Azul,15,aAaPa,jajaj
+DJAVAN,8,Azul,16,AaASaAPs,jjbjj
+DJAVAN,8,Azul,17,AAsA,jjb
+DJAVAN,8,Azul,18,aAaPa,jajaj
+DJAVAN,9,Beiral,1,pp,ng
+DJAVAN,9,Beiral,2,aPauAauPauu,pvvh
+DJAVAN,9,Beiral,3,uauuAs,prh
+DJAVAN,9,Beiral,4,SPppPA,gvm
+DJAVAN,9,Beiral,5,ppPpp,ehhc
+DJAVAN,9,Beiral,6,pp,ng
+DJAVAN,9,Beiral,7,aPauAaP,pvj
+DJAVAN,9,Beiral,8,PP,t
+DJAVAN,9,Beiral,9,PpPPPP,pqj
+DJAVAN,9,Beiral,10,uuuuuuuaA,rnnnb
+DJAVAN,9,Beiral,11,pP,gm
+DJAVAN,9,Beiral,12,uPPpPp,uv
+DJAVAN,9,Beiral,13,aaS,cch
+DJAVAN,9,Beiral,14,upuAp,gvb
+DJAVAN,9,Beiral,15,AuaAuaApp,ntnle
+DJAVAN,9,Beiral,16,pP,gm
+DJAVAN,9,Beiral,17,APPpPpapAu,uqjr
+DJAVAN,9,Beiral,18,APPuPpp,uvb
+DJAVAN,9,Beiral,19,AAAuu,gvb
+DJAVAN,9,Beiral,20,uuppAPAp,pvng
+DJAVAN,9,Beiral,21,PAp,gmc
+DJAVAN,9,Beiral,22,PAupuaupa,gnnnnc
+DJAVAN,10,Om,1,PpPpP,tt
+DJAVAN,10,Om,2,PpPpP,tt
+DJAVAN,10,Om,3,PSsPSa,ghbjab
+DJAVAN,10,Om,4,PpPpP,tt
+DJAVAN,10,Om,5,PpPpP,tt
+DJAVAN,10,Om,6,PSsPS,obob
+DJAVAN,10,Om,7,app,bbbb
+DJAVAN,10,Om,8,app,bbbb
+DJAVAN,10,Om,9,app,bbbb
+DJAVAN,10,Om,10,apau,btac
+DJAVAN,10,Om,11,app,bbbb
+DJAVAN,10,Om,12,app,bbbb
+DJAVAN,10,Om,13,app,bbbb
+DJAVAN,10,Om,14,PPuu,btab
+DJAVAN,10,Om,15,uAuauS,tjh
+DJAVAN,10,Om,16,uSsPAu,teme
+DJAVAN,10,Om,17,PPau,qbg
+DJAVAN,10,Om,18,PPpau,qt
+DJAVAN,10,Om,19,uAuauS,tjh
+DJAVAN,10,Om,20,uSsPAu,teme
+DJAVAN,10,Om,21,PPPpau,qjbb
+DJAVAN,10,Om,22,PPpauu,qtab
+DJAVAN,10,Om,23,uAauA,teh
+DJAVAN,10,Om,24,PPau,qbg
+DJAVAN,10,Om,25,PPpau,qt
+DJAVAN,11,Agua,1,PupuppP,eaoiob
+DJAVAN,11,Agua,2,aAPpAp,ebsbe
+DJAVAN,11,Agua,3,PpuppP,eaojbb
+DJAVAN,11,Agua,4,aAsAsASp,ossab
+DJAVAN,11,Agua,5,AppPPP,meub
+DJAVAN,11,Agua,6,pp,me
+DJAVAN,11,Agua,7,uPAa,ejj
+DJAVAN,11,Agua,8,upAp,jebe
+DJAVAN,11,Agua,9,ppupppAp,ejjbje
+DJAVAN,11,Agua,10,Ap,jaae
+DJAVAN,11,Agua,11,AuaA,jjb
+DJAVAN,11,Agua,12,AuaA,jjb
+DJAVAN,11,Agua,13,AsAsPAp,jjjbb
+DJAVAN,11,Agua,14,AuaA,jjb
+DJAVAN,11,Agua,15,AuaA,jjb
+DJAVAN,11,Agua,16,AsAsPAp,jjjbb
+DJAVAN,12,Alibi,1,Su,jae
+DJAVAN,12,Alibi,2,PpaAu,ejeeae
+DJAVAN,12,Alibi,3,uPPuuu,ofio
+DJAVAN,12,Alibi,4,uPPuu,osd
+DJAVAN,12,Alibi,5,PPua,os
+DJAVAN,12,Alibi,6,Su,eeae
+DJAVAN,12,Alibi,7,PpuaAu,oboee
+DJAVAN,12,Alibi,8,uPPuu,ofif
+DJAVAN,12,Alibi,9,uPPuu,soe
+DJAVAN,12,Alibi,10,uPPA,os
+DJAVAN,12,Alibi,11,pPpPpu,oseae
+DJAVAN,12,Alibi,12,sA,s
+DJAVAN,12,Alibi,13,PPPpApaA,djosb
+DJAVAN,12,Alibi,14,SusSus,fss
+DJAVAN,12,Alibi,15,PSaAp,oko
+DJAVAN,12,Alibi,16,PPppAPpPp,efjjaoi
+DJAVAN,12,Alibi,17,pPpPp,osb
+DJAVAN,12,Alibi,18,aPaPaPa,oss
+DJAVAN,12,Alibi,19,aPPppP,eoeje
+DJAVAN,13,Asa,1,uAupAp,pqj
+DJAVAN,13,Asa,2,SpaaA,pjj
+DJAVAN,13,Asa,3,pPApuAAausppu,eqqtml
+DJAVAN,13,Asa,4,uAupAp,pqj
+DJAVAN,13,Asa,5,SpaaA,pjj
+DJAVAN,13,Asa,6,puApuAAausppu,eqqtml
+DJAVAN,13,Asa,7,uupuppApp,umjlab
+DJAVAN,13,Asa,8,PaPPPPAuuaAuaAa,umjstmc
+DJAVAN,13,Asa,9,aPaPaPaPaPPAa,nrtmrc
+DJAVAN,13,Asa,10,Spuuu,pjj
+DJAVAN,13,Asa,11,ApuupPp,pjjl
+DJAVAN,13,Asa,12,PPauuPa,gqjh
+DJAVAN,13,Asa,13,PPuuPPPP,qhv
+DJAVAN,14,Meu,1,PPPpP,psb
+DJAVAN,14,Meu,2,PpPp,gsb
+DJAVAN,14,Meu,3,PPPpP,guh
+DJAVAN,14,Meu,4,PpPpP,efsb
+DJAVAN,14,Meu,5,PPApP,gnq
+DJAVAN,14,Meu,6,PppaaSu,guv
+DJAVAN,14,Meu,7,PPPpP,guh
+DJAVAN,14,Meu,8,PpPpP,eetc
+DJAVAN,14,Meu,9,ppppPPapu,gsshc
+DJAVAN,14,Meu,10,aPPp,gaph
+DJAVAN,14,Meu,11,aPPAPAsPP,gapvq
+DJAVAN,14,Meu,12,PPp,ph
+DJAVAN,14,Meu,13,aAPAaAp,uvb
+DJAVAN,14,Meu,14,ApaSpaAP,ptv
+DJAVAN,15,Numa esquina de Hanoi,1,uA,r
+DJAVAN,15,Numa esquina de Hanoi,2,A,eb
+DJAVAN,15,Numa esquina de Hanoi,3,ApA,cch
+DJAVAN,15,Numa esquina de Hanoi,4,Pa,mc
+DJAVAN,15,Numa esquina de Hanoi,5,aA,le
+DJAVAN,15,Numa esquina de Hanoi,6,uPua,nr
+DJAVAN,15,Numa esquina de Hanoi,7,A,n
+DJAVAN,15,Numa esquina de Hanoi,8,A,eb
+DJAVAN,15,Numa esquina de Hanoi,9,ApA,cnc
+DJAVAN,15,Numa esquina de Hanoi,10,Pa,nc
+DJAVAN,15,Numa esquina de Hanoi,11,aA,gec
+DJAVAN,15,Numa esquina de Hanoi,12,uuPua,ur
+DJAVAN,15,Numa esquina de Hanoi,13,A,n
+DJAVAN,15,Numa esquina de Hanoi,14,A,eb
+DJAVAN,15,Numa esquina de Hanoi,15,AupA,cnj
+DJAVAN,15,Numa esquina de Hanoi,16,aA,el
+DJAVAN,15,Numa esquina de Hanoi,17,A,ec
+DJAVAN,15,Numa esquina de Hanoi,18,SsSa,leh
+DJAVAN,16,Topazio,1,uu,t
+DJAVAN,16,Topazio,2,p,l
+DJAVAN,16,Topazio,3,upPupup,bjbgs
+DJAVAN,16,Topazio,4,u,j
+DJAVAN,16,Topazio,5,p,be
+DJAVAN,16,Topazio,6,upPupApp,bjbjje
+DJAVAN,16,Topazio,7,uu,jb
+DJAVAN,16,Topazio,8,p,be
+DJAVAN,16,Topazio,9,PpPpPppp,leclen
+DJAVAN,16,Topazio,10,Papp,pq
+DJAVAN,16,Topazio,11,uu,t
+DJAVAN,16,Topazio,12,APp,jeb
+DJAVAN,16,Topazio,13,auu,et
+DJAVAN,16,Topazio,14,AuupPPppa,grnnj
+DJAVAN,16,Topazio,15,PPPPPpa,ejjbbb
+DJAVAN,16,Topazio,16,PPPPAup,jjjee
+DJAVAN,16,Topazio,17,PPPPAuPpu,jjjeaob
+DJAVAN,16,Topazio,18,uu,t
+DJAVAN,16,Topazio,19,p,l
+DJAVAN,16,Topazio,20,upPupp,bjbob
+DJAVAN,16,Topazio,21,uu,t
+DJAVAN,16,Topazio,22,pppu,beeeb
+DJAVAN,17,Nereci,1,pppaApa,rnjb
+DJAVAN,17,Nereci,2,appaApaP,rnjh
+DJAVAN,17,Nereci,3,pppaApa,rnjb
+DJAVAN,17,Nereci,4,app,v
+DJAVAN,17,Nereci,5,aASu,gbach
+DJAVAN,17,Nereci,6,uAauuA,rpn
+DJAVAN,17,Nereci,7,aAuPsp,gjjj
+DJAVAN,17,Nereci,8,uAuA,rn
+DJAVAN,17,Nereci,9,uaaP,ejbc
+DJAVAN,17,Nereci,10,uAauuA,rpn
+DJAVAN,17,Nereci,11,aAuPsp,gjjj
+DJAVAN,17,Nereci,12,uAuA,rn
+DJAVAN,17,Nereci,13,uaaP,ejbc
+DJAVAN,18,Samba dobrado,1,AAAaAp,sbnag
+DJAVAN,18,Samba dobrado,2,AAAApu,sjega
+DJAVAN,18,Samba dobrado,3,APPppau,prjb
+DJAVAN,18,Samba dobrado,4,papP,nr
+DJAVAN,18,Samba dobrado,5,papP,nr
+DJAVAN,18,Samba dobrado,6,P,gc
+DJAVAN,18,Samba dobrado,7,APPppau,ghun
+DJAVAN,18,Samba dobrado,8,apapP,ur
+DJAVAN,18,Samba dobrado,9,AAua,jbn
+DJAVAN,18,Samba dobrado,10,AAAsAAA,nnjj
+DJAVAN,18,Samba dobrado,11,Ppa,ph
+DJAVAN,18,Samba dobrado,12,APPsAPP,gsrg
+DJAVAN,18,Samba dobrado,13,PpAppu,epv
+DJAVAN,18,Samba dobrado,14,PpPp,eue
+DJAVAN,18,Samba dobrado,15,pPApaaPP,nnnng
+DJAVAN,18,Samba dobrado,16,pPApaaPP,urng
+DJAVAN,18,Samba dobrado,17,pPApaaPP,nnnng
+DJAVAN,18,Samba dobrado,18,pPApaaPP,urng
+DJAVAN,19,Maca,1,APua,nmc
+DJAVAN,19,Maca,2,Pua,gmc
+DJAVAN,19,Maca,3,APaA,pnc
+DJAVAN,19,Maca,4,pappu,gnbbe
+DJAVAN,19,Maca,5,uPu,pj
+DJAVAN,19,Maca,6,uuPuuu,pql
+DJAVAN,19,Maca,7,PpPPaP,jrh
+DJAVAN,19,Maca,8,uPu,pj
+DJAVAN,19,Maca,9,uuPuuu,pqj
+DJAVAN,19,Maca,10,APPAPPAau,jjjjal
+DJAVAN,19,Maca,11,AApppppa,jgnnbc
+DJAVAN,19,Maca,12,uuuuu,clecb
+DJAVAN,19,Maca,13,uuuupP,gechj
+DJAVAN,19,Maca,14,ppppP,nnn
+DJAVAN,19,Maca,15,aPPAau,nlmc
+DJAVAN,19,Maca,16,uuuauuupu,gnnnng
+DJAVAN,20,Dupla traicao,1,Suu,eq
+DJAVAN,20,Dupla traicao,2,SPp,gbh
+DJAVAN,20,Dupla traicao,3,pPa,eq
+DJAVAN,20,Dupla traicao,4,pppP,hu
+DJAVAN,20,Dupla traicao,5,Pa,jb
+DJAVAN,20,Dupla traicao,6,pppP,eeob
+DJAVAN,20,Dupla traicao,7,SsSPp,ebeeaj
+DJAVAN,20,Dupla traicao,8,PpsSPp,esbm
+DJAVAN,20,Dupla traicao,9,pPpPpAa,bsjbb
+DJAVAN,20,Dupla traicao,10,S,j
+DJAVAN,20,Dupla traicao,11,pPAppp,ejbaob
+DJAVAN,20,Dupla traicao,12,pPp,oj
+DJAVAN,20,Dupla traicao,13,PPppAu,gqnb
+DJAVAN,21,Oceano,1,S,eb
+DJAVAN,21,Oceano,2,puPPPp,ejjbe
+DJAVAN,21,Oceano,3,ppppPa,ejejb
+DJAVAN,21,Oceano,4,PPAppPPa,jjaeejb
+DJAVAN,21,Oceano,5,PPA,jj
+DJAVAN,21,Oceano,6,pPP,jj
+DJAVAN,21,Oceano,7,ppuuaA,ecbebeb
+DJAVAN,21,Oceano,8,APPuu,jjj
+DJAVAN,21,Oceano,9,ppaP,fdebb
+DJAVAN,21,Oceano,10,APPuppp,jkdkd
+DJAVAN,21,Oceano,11,pP,ebb
+DJAVAN,21,Oceano,12,PPPp,ebbbb
+DJAVAN,21,Oceano,13,PPPu,ebbbb
+DJAVAN,21,Oceano,14,pApp,obabb
+DJAVAN,22,Alagoas,1,pPpPp,lnl
+DJAVAN,22,Alagoas,2,pPpPPa,ntm
+DJAVAN,22,Alagoas,3,aaaAA,gbrb
+DJAVAN,22,Alagoas,4,PPa,nn
+DJAVAN,22,Alagoas,5,pPpPp,egnl
+DJAVAN,22,Alagoas,6,pPpPPa,ntm
+DJAVAN,22,Alagoas,7,aaaAApaPp,gbrlgn
+DJAVAN,22,Alagoas,8,aAaAaAPuuuaaPp,uvvv
+DJAVAN,22,Alagoas,9,uuAppauuuPuPu,pvvv
+DJAVAN,22,Alagoas,10,uuuPs,uq
+DJAVAN,22,Alagoas,11,uuAuPa,uv
+DJAVAN,22,Alagoas,12,aAaAaAaAAppu,uvtq
+DJAVAN,22,Alagoas,13,ApppPaa,ngnje
+DJAVAN,22,Alagoas,14,AApaAp,prj
+DJAVAN,22,Alagoas,15,paAppaa,eemjl
+DJAVAN,22,Alagoas,16,SpuSPa,erbn
+DJAVAN,22,Alagoas,17,aPaAs,ececn
+DJAVAN,22,Alagoas,18,pPuaa,jtc
+DJAVAN,22,Alagoas,19,appa,ccng
+DJAVAN,22,Alagoas,20,pPuaa,jtc
+DJAVAN,23,Estoria de cantador,1,ApppPa,bjjeb
+DJAVAN,23,Estoria de cantador,2,uaApPPa,eajjjb
+DJAVAN,23,Estoria de cantador,3,PPAppau,jbejbae
+DJAVAN,23,Estoria de cantador,4,PPAppa,jbejb
+DJAVAN,23,Estoria de cantador,5,uuuPPup,eejebbe
+DJAVAN,23,Estoria de cantador,6,pPpppPp,jjjbae
+DJAVAN,23,Estoria de cantador,7,uuuPPuu,jbjjae
+DJAVAN,23,Estoria de cantador,8,ppApppp,jjjbae
+DJAVAN,24,Mal de mim,1,uu,t
+DJAVAN,24,Mal de mim,2,pppp,clec
+DJAVAN,24,Mal de mim,3,uaAuu,qt
+DJAVAN,24,Mal de mim,4,PPaPa,ghgj
+DJAVAN,24,Mal de mim,5,uu,t
+DJAVAN,24,Mal de mim,6,pppp,clec
+DJAVAN,24,Mal de mim,7,uaSuu,qt
+DJAVAN,24,Mal de mim,8,uupAu,tcbb
+DJAVAN,24,Mal de mim,9,u,l
+DJAVAN,24,Mal de mim,10,uupa,tee
+DJAVAN,24,Mal de mim,11,u,l
+DJAVAN,24,Mal de mim,12,APuuupApupa,pujqj
+DJAVAN,24,Mal de mim,13,u,l
+DJAVAN,24,Mal de mim,14,uupa,tee
+DJAVAN,24,Mal de mim,15,u,l
+DJAVAN,24,Mal de mim,16,APuuupApupa,pujtj
+DJAVAN,25,Tem boi na linha,1,Auu,gr
+DJAVAN,25,Tem boi na linha,2,Auu,uc
+DJAVAN,25,Tem boi na linha,3,Auu,gr
+DJAVAN,25,Tem boi na linha,4,Au,u
+DJAVAN,25,Tem boi na linha,5,AaAaAA,nrn
+DJAVAN,25,Tem boi na linha,6,As,ggg
+DJAVAN,25,Tem boi na linha,7,sS,ggc
+DJAVAN,25,Tem boi na linha,8,au,u
+DJAVAN,25,Tem boi na linha,9,au,gj
+DJAVAN,25,Tem boi na linha,10,auAa,pnb
+DJAVAN,25,Tem boi na linha,11,aAA,nn
+DJAVAN,25,Tem boi na linha,12,As,ggg
+DJAVAN,25,Tem boi na linha,13,pp,gaj
+DJAVAN,25,Tem boi na linha,14,ppa,nn
+DJAVAN,25,Tem boi na linha,15,AAPp,nhg
+DJAVAN,25,Tem boi na linha,16,ppp,ggp
+DJAVAN,25,Tem boi na linha,17,APP,nn
+DJAVAN,25,Tem boi na linha,18,ppa,nj
+DJAVAN,25,Tem boi na linha,19,AAPp,nng
+DJAVAN,25,Tem boi na linha,20,ppp,eggc
+DJAVAN,25,Tem boi na linha,21,APP,nn
+DJAVAN,25,Tem boi na linha,22,ppa,nn
+DJAVAN,25,Tem boi na linha,23,AAPp,nhg
+DJAVAN,25,Tem boi na linha,24,aAaAA,cngn
+DJAVAN,25,Tem boi na linha,25,APsAPp,nnjb
+DJAVAN,26,Lambada de serpente,1,SuuuPa,erhc
+DJAVAN,26,Lambada de serpente,2,aSa,ghc
+DJAVAN,26,Lambada de serpente,3,aSu,ghg
+DJAVAN,26,Lambada de serpente,4,SuuuPa,erhc
+DJAVAN,26,Lambada de serpente,5,aSa,ghc
+DJAVAN,26,Lambada de serpente,6,aSu,ghg
+DJAVAN,26,Lambada de serpente,7,ASuus,erh
+DJAVAN,26,Lambada de serpente,8,pPs,nj
+DJAVAN,26,Lambada de serpente,9,uuu,nh
+DJAVAN,26,Lambada de serpente,10,ASuus,erh
+DJAVAN,26,Lambada de serpente,11,pPs,nj
+DJAVAN,26,Lambada de serpente,12,uuu,nh
+DJAVAN,27,Meu bem querer,1,PPu,bjb
+DJAVAN,27,Meu bem querer,2,PPppu,ejajb
+DJAVAN,27,Meu bem querer,3,ppPPPpp,ejjjb
+DJAVAN,27,Meu bem querer,4,Pa,fdb
+DJAVAN,27,Meu bem querer,5,PPu,bjb
+DJAVAN,27,Meu bem querer,6,PPppu,ejajb
+DJAVAN,27,Meu bem querer,7,ppPPPpp,ejjjb
+DJAVAN,27,Meu bem querer,8,Pa,fdb
+DJAVAN,27,Meu bem querer,9,PPu,kdb
+DJAVAN,27,Meu bem querer,10,aaa,eeeab
+DJAVAN,27,Meu bem querer,11,papSu,eebebe
+DJAVAN,27,Meu bem querer,12,u,gb
+DJAVAN,27,Meu bem querer,13,AspA,lbaj
+DJAVAN,27,Meu bem querer,14,AspA,ggbaj
+DJAVAN,27,Meu bem querer,15,uPaPaPp,gllbbb
+DJAVAN,28,Aquele um,1,a,eb
+DJAVAN,28,Aquele um,2,AauSsuA,gvgh
+DJAVAN,28,Aquele um,3,APPpp,jjl
+DJAVAN,28,Aquele um,4,a,eb
+DJAVAN,28,Aquele um,5,AaAS,gv
+DJAVAN,28,Aquele um,6,ppaAaSp,hjjl
+DJAVAN,28,Aquele um,7,AupupupuaAP,grnnnce
+DJAVAN,28,Aquele um,8,AuaA,grc
+DJAVAN,28,Aquele um,9,apuap,ncmg
+DJAVAN,28,Aquele um,10,AuppupuuaAP,grnnncc
+DJAVAN,28,Aquele um,11,AaA,ngc
+DJAVAN,28,Aquele um,12,uAaA,ugc
+DJAVAN,28,Aquele um,13,AaSpa,ngcgg
+DJAVAN,28,Aquele um,14,AA,nc
+DJAVAN,28,Aquele um,15,pS,pg
+DJAVAN,28,Aquele um,16,uA,gn
+DJAVAN,28,Aquele um,17,uAsuS,nnn
+DJAVAN,28,Aquele um,18,AAa,nn
+DJAVAN,28,Aquele um,19,auPa,eaqb
+DJAVAN,29,Sururu de capote,1,auu,ub
+DJAVAN,29,Sururu de capote,2,Apuuu,pv
+DJAVAN,29,Sururu de capote,3,suu,cpb
+DJAVAN,29,Sururu de capote,4,Pauuuu,pvb
+DJAVAN,29,Sururu de capote,5,aAau,pu
+DJAVAN,29,Sururu de capote,6,Ssuu,mhc
+DJAVAN,29,Sururu de capote,7,PpsAuaAaauSau,qrsrbg
+DJAVAN,29,Sururu de capote,8,uuuuu,ejr
+DJAVAN,29,Sururu de capote,9,PppaSu,njjae
+DJAVAN,29,Sururu de capote,10,uuuuuu,ejv
+DJAVAN,29,Sururu de capote,11,PppaSu,njhae
+DJAVAN,30,Pedro Brasil,1,Au,nag
+DJAVAN,30,Pedro Brasil,2,PppsSuu,nlnaagg
+DJAVAN,30,Pedro Brasil,3,PppaAuu,nlnaagg
+DJAVAN,30,Pedro Brasil,4,Papa,nbn
+DJAVAN,30,Pedro Brasil,5,aa,ej
+DJAVAN,30,Pedro Brasil,6,PPPPPppap,gnrjcg
+DJAVAN,30,Pedro Brasil,7,PPPPPppap,guunag
+DJAVAN,30,Pedro Brasil,8,PPPPPppSs,usjbg
+DJAVAN,30,Pedro Brasil,9,PPPaPPP,eqv
+DJAVAN,30,Pedro Brasil,10,PPPaPPApppapS,osessi
+DJAVAN,31,Seduzir,1,Auuupp,ebeecj
+DJAVAN,31,Seduzir,2,Auuupu,ekdkd
+DJAVAN,31,Seduzir,3,sA,ob
+DJAVAN,31,Seduzir,4,AuaSaaSp,ekobej
+DJAVAN,31,Seduzir,5,Auuupp,ebeecj
+DJAVAN,31,Seduzir,6,AuAapu,ekdkd
+DJAVAN,31,Seduzir,7,sA,ob
+DJAVAN,31,Seduzir,8,apap,fdkd
+DJAVAN,31,Seduzir,9,PAaPA,ejob
+DJAVAN,31,Seduzir,10,aPap,ebej
+DJAVAN,31,Seduzir,11,uPAPa,etn
+DJAVAN,31,Seduzir,12,AAuPpuupp,ossj
+DJAVAN,31,Seduzir,13,PAaPA,ejob
+DJAVAN,31,Seduzir,14,aPap,ebej
+DJAVAN,31,Seduzir,15,uPAPa,etn
+DJAVAN,31,Seduzir,16,AAuPpuupp,ossj
+DJAVAN,32,Faltando um pedaco,1,PPPPPup,psmg
+DJAVAN,32,Faltando um pedaco,2,PPupupp,gsol
+DJAVAN,32,Faltando um pedaco,3,PPPpppp,gsse
+DJAVAN,32,Faltando um pedaco,4,PPupPPa,fsol
+DJAVAN,32,Faltando um pedaco,5,PPPpPPppp,fsotb
+DJAVAN,32,Faltando um pedaco,6,PpPAppup,psol
+DJAVAN,32,Faltando um pedaco,7,PPPPppp,gssg
+DJAVAN,32,Faltando um pedaco,8,PPPpua,gss
+DJAVAN,33,Samurai,1,PpsA,eaaann
+DJAVAN,33,Samurai,2,uAPPs,qlc
+DJAVAN,33,Samurai,3,PpsA,eaaann
+DJAVAN,33,Samurai,4,uAPPsA,qlcc
+DJAVAN,33,Samurai,5,uPp,gcah
+DJAVAN,33,Samurai,6,pppPa,gnlc
+DJAVAN,33,Samurai,7,sAsSs,gcgeee
+DJAVAN,33,Samurai,8,uAsp,nalc
+DJAVAN,33,Samurai,9,pppPA,rlc
+DJAVAN,33,Samurai,10,PpPpPpp,nnnn
+DJAVAN,33,Samurai,11,pPpPPappaS,mtmv
+DJAVAN,33,Samurai,12,paApa,nngb
+DJAVAN,33,Samurai,13,uAPPs,qlc
+DJAVAN,34,Luz,1,pPauuPAuPpAppPpS,uvvvn
+DJAVAN,34,Luz,2,pppaPsA,vnn
+DJAVAN,34,Luz,3,PPAAa,nngc
+DJAVAN,34,Luz,4,pPaPuAuPpAppPpS,uuvvn
+DJAVAN,34,Luz,5,sPPP,pnc
+DJAVAN,34,Luz,6,uu,jg
+DJAVAN,34,Luz,7,APPs,nlc
+DJAVAN,34,Luz,8,uAupPA,ugjb
+DJAVAN,34,Luz,9,SaAPa,npp
+DJAVAN,34,Luz,10,SPaaAP,pppc
+DJAVAN,34,Luz,11,ppAPs,gmt
+DJAVAN,34,Luz,12,uAupPA,ugjb
+DJAVAN,34,Luz,13,PPaAPspP,uuq
+DJAVAN,34,Luz,14,AAPaaAP,pjtb
+DJAVAN,34,Luz,15,aAAPa,glbp
+DJAVAN,35,Capim,1,uuPuuuPuuuu,uvvb
+DJAVAN,35,Capim,2,Puuuu,uq
+DJAVAN,35,Capim,3,uuuPuu,gvn
+DJAVAN,35,Capim,4,uuPuuu,uv
+DJAVAN,35,Capim,5,uuPuuu,uv
+DJAVAN,35,Capim,6,PuuuuuPuuu,vvq
+DJAVAN,35,Capim,7,sPuuPuuPP,pgnmq
+DJAVAN,35,Capim,8,sSppppA,cbnnh
+DJAVAN,35,Capim,9,uuPa,vb
+DJAVAN,35,Capim,10,uuPaPPaA,pqqb
+DJAVAN,35,Capim,11,AAA,nh
+DJAVAN,35,Capim,12,Spppaa,vq
+DJAVAN,35,Capim,13,uusApApAu,ursb
+DJAVAN,35,Capim,14,uusApApAu,ursb
+DJAVAN,35,Capim,15,usSsS,hgbp
+DJAVAN,35,Capim,16,paAAA,prb
+DJAVAN,35,Capim,17,pa,nc
+DJAVAN,36,Sina,1,pp,ej
+DJAVAN,36,Sina,2,suAa,ejbb
+DJAVAN,36,Sina,3,As,ej
+DJAVAN,36,Sina,4,ppPa,ejbb
+DJAVAN,36,Sina,5,sA,eeb
+DJAVAN,36,Sina,6,ppPpAu,ejleaaae
+DJAVAN,36,Sina,7,APuupP,prj
+DJAVAN,36,Sina,8,AupupaAa,ejjjj
+DJAVAN,36,Sina,9,APuupP,ptj
+DJAVAN,36,Sina,10,AAppSPs,ptej
+DJAVAN,36,Sina,11,uuuuupu,ejejeb
+DJAVAN,36,Sina,12,uuaaP,jjeb
+DJAVAN,36,Sina,13,PPAsp,jbjb
+DJAVAN,36,Sina,14,sAAp,bjeb
+DJAVAN,36,Sina,15,PaASp,jbjb
+DJAVAN,36,Sina,16,AppaA,gjjb
+DJAVAN,36,Sina,17,AaAaAPa,jjejb
+DJAVAN,36,Sina,18,uua,jj
+DJAVAN,37,Petala,1,pPa,bdi
+DJAVAN,37,Petala,2,p,bb
+DJAVAN,37,Petala,3,PPPpupusAAa,sssib
+DJAVAN,37,Petala,4,aApp,sfb
+DJAVAN,37,Petala,5,AaAPa,iii
+DJAVAN,37,Petala,6,aApa,fsb
+DJAVAN,37,Petala,7,ApsAaS,osai
+DJAVAN,37,Petala,8,uaApPpaPPa,fkbbfks
+DJAVAN,37,Petala,9,uuaAPa,ftkb
+DJAVAN,37,Petala,10,paPPa,fks
+DJAVAN,37,Petala,11,PPuaPPa,skbdb
+DJAVAN,38,Acai,1,pp,lb
+DJAVAN,38,Acai,2,Pa,lb
+DJAVAN,38,Acai,3,ppppPPp,gnnne
+DJAVAN,38,Acai,4,AppAp,ss
+DJAVAN,38,Acai,5,puAPA,osb
+DJAVAN,38,Acai,6,Pa,en
+DJAVAN,38,Acai,7,SsAPp,eboi
+DJAVAN,38,Acai,8,PA,t
+DJAVAN,38,Acai,9,Pa,gp
+DJAVAN,38,Acai,10,pppApp,veh
+DJAVAN,38,Acai,11,ppaPua,gmjj
+DJAVAN,38,Acai,12,PA,t
+DJAVAN,38,Acai,13,Pa,gp
+DJAVAN,38,Acai,14,pppApp,veh
+DJAVAN,38,Acai,15,ppaPua,gmjj
+DJAVAN,39,Esfinge,1,S,bb
+DJAVAN,39,Esfinge,2,APasS,nngc
+DJAVAN,39,Esfinge,3,APspAsAu,nnnpaab
+DJAVAN,39,Esfinge,4,AApPs,nneb
+DJAVAN,39,Esfinge,5,APsp,rl
+DJAVAN,39,Esfinge,6,ppaAS,ntc
+DJAVAN,39,Esfinge,7,APasSp,nngcae
+DJAVAN,39,Esfinge,8,APspAsAu,nnnpaab
+DJAVAN,39,Esfinge,9,AApPs,nneb
+DJAVAN,39,Esfinge,10,Au,r
+DJAVAN,39,Esfinge,11,APAaaA,phpc
+DJAVAN,39,Esfinge,12,Au,r
+DJAVAN,39,Esfinge,13,APApPs,nmob
+DJAVAN,39,Esfinge,14,PpAu,nu
+DJAVAN,39,Esfinge,15,PPspaS,utc
+DJAVAN,39,Esfinge,16,PP,u
+DJAVAN,39,Esfinge,17,AppPPPua,ojvg
+DJAVAN,39,Esfinge,18,ppaaAPaa,mubne
+DJAVAN,39,Esfinge,19,PAApauaAPPPpup,urnvmab
+DJAVAN,39,Esfinge,20,APPPpa,gvm
+DJAVAN,39,Esfinge,21,APPPpu,gvm
+DJAVAN,40,Tanta saudade,1,uAupAauauu,prcelj
+DJAVAN,40,Tanta saudade,2,upupuuu,jhnj
+DJAVAN,40,Tanta saudade,3,uaupuuupuu,jhntj
+DJAVAN,40,Tanta saudade,4,uAupAauauu,prcelj
+DJAVAN,40,Tanta saudade,5,uAapP,gncj
+DJAVAN,40,Tanta saudade,6,uaupuupuu,jhnnj
+DJAVAN,40,Tanta saudade,7,uppPPaa,nnjbc
+DJAVAN,40,Tanta saudade,8,upu,geh
+DJAVAN,40,Tanta saudade,9,uppPPaP,nnmbc
+DJAVAN,40,Tanta saudade,10,upp,gej
+DJAVAN,40,Tanta saudade,11,uppPPPa,nnjbc
+DJAVAN,40,Tanta saudade,12,uAa,gnc
+DJAVAN,40,Tanta saudade,13,uppPPa,nnt
+DJAVAN,40,Tanta saudade,14,PPPPppApu,nnnrc
+DJAVAN,41,Fato consumado,1,Aua,ub
+DJAVAN,41,Fato consumado,2,Aua,gq
+DJAVAN,41,Fato consumado,3,AP,u
+DJAVAN,41,Fato consumado,4,SPpaapSPpaapSP,uvvv
+DJAVAN,41,Fato consumado,5,Aua,ub
+DJAVAN,41,Fato consumado,6,Aua,gq
+DJAVAN,41,Fato consumado,7,AP,u
+DJAVAN,41,Fato consumado,8,SPpaapSPpaapSP,uvvv
+DJAVAN,41,Fato consumado,9,ApPpPpP,mrt
+DJAVAN,41,Fato consumado,10,PPPpppPpp,mrtm
+DJAVAN,41,Fato consumado,11,ApPpPpP,mrt
+DJAVAN,41,Fato consumado,12,PPPpppApp,mrtp
+DJAVAN,41,Fato consumado,13,AaAPaSu,ecjbnb
+DJAVAN,41,Fato consumado,14,PppaAas,nntg
+DJAVAN,41,Fato consumado,15,as,pg
+DJAVAN,41,Fato consumado,16,as,pg
+DJAVAN,41,Fato consumado,17,AaAPaS,najbn
+DJAVAN,41,Fato consumado,18,PppaAas,nnjl
+DJAVAN,41,Fato consumado,19,as,pg
+DJAVAN,41,Fato consumado,20,asPA,pggg
+DJAVAN,42,Serrado,1,uAusAPp,prng
+DJAVAN,42,Serrado,2,uuAusAPp,urng
+DJAVAN,42,Serrado,3,uAup,pr
+DJAVAN,42,Serrado,4,Aua,uc
+DJAVAN,42,Serrado,5,Aup,gr
+DJAVAN,42,Serrado,6,Aua,uc
+DJAVAN,42,Serrado,7,PPPPA,gor
+DJAVAN,42,Serrado,8,APp,ncc
+DJAVAN,42,Serrado,9,sPAPpp,eru
+DJAVAN,42,Serrado,10,a,n
+DJAVAN,42,Serrado,11,p,l
+DJAVAN,42,Serrado,12,uAuaSppaA,prnjb
+DJAVAN,42,Serrado,13,aApp,nng
+DJAVAN,42,Serrado,14,uAuaSppaA,prnjb
+DJAVAN,42,Serrado,15,aAppaAPpu,nnjjl
+DJAVAN,42,Serrado,16,PaPPau,nngn
+DJAVAN,42,Serrado,17,PaASp,nnn
+DJAVAN,42,Serrado,18,uSp,nn
+DJAVAN,42,Serrado,19,Spu,gnc
+DJAVAN,42,Serrado,20,S,cc
+DJAVAN,42,Serrado,21,PPP,nn
+DJAVAN,42,Serrado,22,pp,gbc
+DJAVAN,42,Serrado,23,pp,ng
+DJAVAN,42,Serrado,24,PApApP,nhgn
+DJAVAN,43,Nobreza,1,uPpaApAa,jbjbjb
+DJAVAN,43,Nobreza,2,uAPPa,jbjb
+DJAVAN,43,Nobreza,3,aAPPa,jbjb
+DJAVAN,43,Nobreza,4,uPpaApAa,jbjbjb
+DJAVAN,43,Nobreza,5,APPPPP,ejjj
+DJAVAN,43,Nobreza,6,uPpaApAa,jbjbjb
+DJAVAN,43,Nobreza,7,APPa,ebjb
+DJAVAN,43,Nobreza,8,pAPPau,jbjbb
+DJAVAN,43,Nobreza,9,ppppA,jjj
+DJAVAN,43,Nobreza,10,PpAaPpu,sbjbe
+DJAVAN,44,Joaninha,1,aP,baabb
+DJAVAN,44,Joaninha,2,aAaaAau,bbbbbbbab
+DJAVAN,44,Joaninha,3,PPPPAP,osdb
+DJAVAN,44,Joaninha,4,pP,fi
+DJAVAN,44,Joaninha,5,pP,s
+DJAVAN,44,Joaninha,6,pPupP,oki
+DJAVAN,44,Joaninha,7,pPupP,sob
+DJAVAN,44,Joaninha,8,pPupP,fis
+DJAVAN,44,Joaninha,9,PP,ob
+DJAVAN,44,Joaninha,10,PPs,se
+DJAVAN,44,Joaninha,11,PPPPa,isb
+DJAVAN,44,Joaninha,12,PP,ob
+DJAVAN,44,Joaninha,13,PPs,se
+DJAVAN,44,Joaninha,14,PAap,ikd
+DJAVAN,44,Joaninha,15,uuuPaS,kdbfbb
+DJAVAN,44,Joaninha,16,uuuPaS,kdbfbb
+DJAVAN,44,Joaninha,17,aAAPsPAAPup,fjjsjj
+DJAVAN,44,Joaninha,18,p,j
+DJAVAN,44,Joaninha,19,pppppppup,jjjjj
+DJAVAN,44,Joaninha,20,pApPPu,jjjb
+DJAVAN,44,Joaninha,21,PAsPAsaP,jbjbbaabb
+DJAVAN,45,Flor do medo,1,PPPPuuu,vte
+DJAVAN,45,Flor do medo,2,pppppPPuPuu,eajugvb
+DJAVAN,45,Flor do medo,3,PPapPPPPup,phpqh
+DJAVAN,45,Flor do medo,4,ppPppPPPA,ussb
+DJAVAN,45,Flor do medo,5,pppP,eub
+DJAVAN,45,Flor do medo,6,pppP,vb
+DJAVAN,45,Flor do medo,7,ppppPa,vbj
+DJAVAN,45,Flor do medo,8,PPA,eq
+DJAVAN,45,Flor do medo,9,aaapSa,vt
+DJAVAN,45,Flor do medo,10,PPuauau,qlecb
+DJAVAN,45,Flor do medo,11,PPppppS,ssj
+DJAVAN,45,Flor do medo,12,aPSpaS,jjagj
+DJAVAN,46,Silaba,1,uApA,vc
+DJAVAN,46,Silaba,2,uApA,gmj
+DJAVAN,46,Silaba,3,uApA,vc
+DJAVAN,46,Silaba,4,AppPauP,gqtc
+DJAVAN,46,Silaba,5,aA,pb
+DJAVAN,46,Silaba,6,aA,pb
+DJAVAN,46,Silaba,7,aAap,pq
+DJAVAN,46,Silaba,8,uApA,vc
+DJAVAN,46,Silaba,9,uApA,gmj
+DJAVAN,46,Silaba,10,uApA,vc
+DJAVAN,46,Silaba,11,ppPppuP,guuc
+DJAVAN,46,Silaba,12,aA,pb
+DJAVAN,46,Silaba,13,aA,pb
+DJAVAN,46,Silaba,14,aAap,pq
+DJAVAN,46,Silaba,15,Ppup,beajaab
+DJAVAN,46,Silaba,16,uPPu,babbbab
+DJAVAN,46,Silaba,17,papP,lnb
+DJAVAN,46,Silaba,18,ppPa,jjb
+DJAVAN,46,Silaba,19,AuP,ub
+DJAVAN,46,Silaba,20,pPpP,gv
+DJAVAN,46,Silaba,21,SPPP,gtc
+DJAVAN,46,Silaba,22,PPPPAPp,jjjbe
+DJAVAN,47,Que foi my love,1,pau,es
+DJAVAN,47,Que foi my love,2,pPpPpPpPaA,osijbb
+DJAVAN,47,Que foi my love,3,paAaAPpauA,ejjjjj
+DJAVAN,47,Que foi my love,4,pppppPuauup,ebjjjsb
+DJAVAN,47,Que foi my love,5,PAAuaApa,ejbkdj
+DJAVAN,47,Que foi my love,6,AauPauuuu,jaosjb
+DJAVAN,47,Que foi my love,7,uuuaAAp,ejjjb
+DJAVAN,47,Que foi my love,8,PPapPPaAAuP,ejjjjjb
+DJAVAN,47,Que foi my love,9,uuuaPAP,ejjjb
+DJAVAN,47,Que foi my love,10,uSaapPP,ojkdb
+DJAVAN,47,Que foi my love,11,Aa,bbb
+DJAVAN,47,Que foi my love,12,puAa,ejbb
+DJAVAN,48,Doidice,1,Apa,jj
+DJAVAN,48,Doidice,2,PAAAaaS,uvb
+DJAVAN,48,Doidice,3,PapA,pu
+DJAVAN,48,Doidice,4,paaPaP,psm
+DJAVAN,48,Doidice,5,aApa,vc
+DJAVAN,48,Doidice,6,paApa,puc
+DJAVAN,48,Doidice,7,paApau,pum
+DJAVAN,48,Doidice,8,upuu,jjb
+DJAVAN,48,Doidice,9,Suu,gjb
+DJAVAN,48,Doidice,10,upuu,japb
+DJAVAN,48,Doidice,11,Suu,gjb
+DJAVAN,48,Doidice,12,upPA,japb
+DJAVAN,48,Doidice,13,SppA,glh
+DJAVAN,48,Doidice,14,uuuup,cjt
+DJAVAN,48,Doidice,15,pup,pp
+DJAVAN,48,Doidice,16,paAPPp,grhab
+DJAVAN,49,Serene,1,AapP,pob
+DJAVAN,49,Serene,2,SPppaPpppaAup,posksj
+DJAVAN,49,Serene,3,PAaPAP,pvb
+DJAVAN,49,Serene,4,AapP,pob
+DJAVAN,49,Serene,5,SPsuPpppuaAa,evvpj
+DJAVAN,49,Serene,6,PPPPpS,pvb
+DJAVAN,49,Serene,7,psS,sb
+DJAVAN,49,Serene,8,psS,pbb
+DJAVAN,49,Serene,9,psSpaaaSp,euss
+DJAVAN,49,Serene,10,ApupuapSA,gsvj
+DJAVAN,49,Serene,11,Sup,gbgb
+DJAVAN,50,Atitude,1,AAPpuuP,vjj
+DJAVAN,50,Atitude,2,aapu,dji
+DJAVAN,50,Atitude,3,PAuPuPppapu,ojjjjbb
+DJAVAN,50,Atitude,4,APpapppAaPa,sbosei
+DJAVAN,50,Atitude,5,AappA,esi
+DJAVAN,50,Atitude,6,AAPpuuP,vjj
+DJAVAN,50,Atitude,7,aapupPAua,djiesb
+DJAVAN,50,Atitude,8,ppAua,dobeb
+DJAVAN,50,Atitude,9,PAaP,si
+DJAVAN,50,Atitude,10,PAaPAaPa,sjbjb
+DJAVAN,50,Atitude,11,SpP,eq
+DJAVAN,50,Atitude,12,AsP,kdb
+DJAVAN,50,Atitude,13,SpPpAPa,ejjjb
+DJAVAN,50,Atitude,14,SpP,ejb
+DJAVAN,50,Atitude,15,AsP,es
+DJAVAN,50,Atitude,16,puAuAp,ejjj
+DJAVAN,50,Atitude,17,AAPPPP,ess
+DJAVAN,50,Atitude,18,pap,ejb
+DJAVAN,50,Atitude,19,AAApap,ujj
+DJAVAN,50,Atitude,20,pAsPP,ejs
+DJAVAN,50,Atitude,21,PPPaPa,ojs
+DJAVAN,50,Atitude,22,PPu,eob
+DJAVAN,50,Atitude,23,PPAaPa,sjj
+DJAVAN,50,Atitude,24,pap,edj
+DJAVAN,50,Atitude,25,AAApap,ujj
+DJAVAN,50,Atitude,26,pAsPP,ejs
+DJAVAN,50,Atitude,27,PPPaPa,ojs
+DJAVAN,50,Atitude,28,PPu,eob
+DJAVAN,50,Atitude,29,PPAaPa,sbs

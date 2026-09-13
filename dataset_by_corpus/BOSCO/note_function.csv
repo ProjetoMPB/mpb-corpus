@@ -1,0 +1,2579 @@
+corpus_id,composition_id,composition_name,mode,note_index,scale_degree,note_function
+BOSCO,1,Agnus sei,minor,1,3,3
+BOSCO,1,Agnus sei,minor,2,4,11
+BOSCO,1,Agnus sei,minor,3,3,3
+BOSCO,1,Agnus sei,minor,4,2,x
+BOSCO,1,Agnus sei,minor,5,1,1
+BOSCO,1,Agnus sei,minor,6,b7,7
+BOSCO,1,Agnus sei,minor,7,2,9
+BOSCO,1,Agnus sei,minor,8,3,3
+BOSCO,1,Agnus sei,minor,9,4,11
+BOSCO,1,Agnus sei,minor,10,3,3
+BOSCO,1,Agnus sei,minor,11,4,x
+BOSCO,1,Agnus sei,minor,12,5,6
+BOSCO,1,Agnus sei,minor,13,b7,1
+BOSCO,1,Agnus sei,minor,14,6,7
+BOSCO,1,Agnus sei,minor,15,5,7
+BOSCO,1,Agnus sei,minor,16,6,x
+BOSCO,1,Agnus sei,minor,17,5,7
+BOSCO,1,Agnus sei,minor,18,5,7
+BOSCO,1,Agnus sei,minor,19,6,x
+BOSCO,1,Agnus sei,minor,20,5,7
+BOSCO,1,Agnus sei,minor,21,4,x
+BOSCO,1,Agnus sei,minor,22,3,5
+BOSCO,1,Agnus sei,minor,23,5,7
+BOSCO,1,Agnus sei,minor,24,6,7
+BOSCO,1,Agnus sei,minor,25,5,3
+BOSCO,1,Agnus sei,minor,26,6,x
+BOSCO,1,Agnus sei,minor,27,5,3
+BOSCO,1,Agnus sei,minor,28,4,x
+BOSCO,1,Agnus sei,minor,29,3,1
+BOSCO,1,Agnus sei,minor,30,5,7
+BOSCO,1,Agnus sei,minor,31,6,1
+BOSCO,1,Agnus sei,minor,32,5,11
+BOSCO,1,Agnus sei,minor,33,6,x
+BOSCO,1,Agnus sei,minor,34,5,11
+BOSCO,1,Agnus sei,minor,35,4,7
+BOSCO,1,Agnus sei,minor,36,3,x
+BOSCO,1,Agnus sei,minor,37,2,9
+BOSCO,1,Agnus sei,minor,38,2,9
+BOSCO,1,Agnus sei,minor,39,1,x
+BOSCO,1,Agnus sei,minor,40,2,9
+BOSCO,1,Agnus sei,minor,41,1,1
+BOSCO,1,Agnus sei,minor,42,2,x
+BOSCO,1,Agnus sei,minor,43,3,3
+BOSCO,1,Agnus sei,minor,44,#6,6
+BOSCO,1,Agnus sei,minor,45,b7,x
+BOSCO,1,Agnus sei,minor,46,1,x
+BOSCO,1,Agnus sei,minor,47,2,9
+BOSCO,1,Agnus sei,minor,48,2,9
+BOSCO,1,Agnus sei,minor,49,1,x
+BOSCO,1,Agnus sei,minor,50,2,9
+BOSCO,1,Agnus sei,minor,51,1,1
+BOSCO,1,Agnus sei,minor,52,2,x
+BOSCO,1,Agnus sei,minor,53,3,3
+BOSCO,1,Agnus sei,minor,54,#6,6
+BOSCO,1,Agnus sei,minor,55,b7,x
+BOSCO,1,Agnus sei,minor,56,1,x
+BOSCO,1,Agnus sei,minor,57,2,9
+BOSCO,1,Agnus sei,minor,58,1,7
+BOSCO,1,Agnus sei,minor,59,#6,5
+BOSCO,1,Agnus sei,minor,60,1,7
+BOSCO,1,Agnus sei,minor,61,#6,5
+BOSCO,1,Agnus sei,minor,62,1,7
+BOSCO,1,Agnus sei,minor,63,6,5
+BOSCO,1,Agnus sei,minor,64,1,7
+BOSCO,1,Agnus sei,minor,65,6,5
+BOSCO,1,Agnus sei,minor,66,4,3
+BOSCO,1,Agnus sei,minor,67,5,5
+BOSCO,1,Agnus sei,minor,68,b7,7
+BOSCO,2,Bala com bala,major,1,4,7
+BOSCO,2,Bala com bala,major,2,3,x
+BOSCO,2,Bala com bala,major,3,2,5
+BOSCO,2,Bala com bala,major,4,4,7
+BOSCO,2,Bala com bala,major,5,2,5
+BOSCO,2,Bala com bala,major,6,4,7
+BOSCO,2,Bala com bala,major,7,3,x
+BOSCO,2,Bala com bala,major,8,2,5
+BOSCO,2,Bala com bala,major,9,4,7
+BOSCO,2,Bala com bala,major,10,2,5
+BOSCO,2,Bala com bala,major,11,4,7
+BOSCO,2,Bala com bala,major,12,3,x
+BOSCO,2,Bala com bala,major,13,2,5
+BOSCO,2,Bala com bala,major,14,4,7
+BOSCO,2,Bala com bala,major,15,2,5
+BOSCO,2,Bala com bala,major,16,4,7
+BOSCO,2,Bala com bala,major,17,3,x
+BOSCO,2,Bala com bala,major,18,2,5
+BOSCO,2,Bala com bala,major,19,4,7
+BOSCO,2,Bala com bala,major,20,3,x
+BOSCO,2,Bala com bala,major,21,2,5
+BOSCO,2,Bala com bala,major,22,4,7
+BOSCO,2,Bala com bala,major,23,3,x
+BOSCO,2,Bala com bala,major,24,2,5
+BOSCO,2,Bala com bala,major,25,#6/b7,b9/#9
+BOSCO,2,Bala com bala,major,26,5,1
+BOSCO,2,Bala com bala,major,27,2,9
+BOSCO,2,Bala com bala,major,28,1,5
+BOSCO,2,Bala com bala,major,29,#6/b7,3
+BOSCO,2,Bala com bala,major,30,5,9
+BOSCO,2,Bala com bala,major,31,#6/b7,3
+BOSCO,2,Bala com bala,major,32,2,3
+BOSCO,2,Bala com bala,major,33,#6/b7,1
+BOSCO,2,Bala com bala,major,34,2,3
+BOSCO,2,Bala com bala,major,35,#6/b7,1
+BOSCO,2,Bala com bala,major,36,#1/b2,7
+BOSCO,2,Bala com bala,major,37,#6/b7,5
+BOSCO,2,Bala com bala,major,38,2,1
+BOSCO,2,Bala com bala,major,39,5,3
+BOSCO,2,Bala com bala,major,40,2,1
+BOSCO,2,Bala com bala,major,41,1,x
+BOSCO,2,Bala com bala,major,42,2,b9/#9
+BOSCO,2,Bala com bala,major,43,#6/b7,7
+BOSCO,2,Bala com bala,major,44,5,5
+BOSCO,3,A nivel de,major,1,1,5
+BOSCO,3,A nivel de,major,2,6,3
+BOSCO,3,A nivel de,major,3,5,9
+BOSCO,3,A nivel de,major,4,3,3
+BOSCO,3,A nivel de,major,5,6,x
+BOSCO,3,A nivel de,major,6,5,5
+BOSCO,3,A nivel de,major,7,1,1
+BOSCO,3,A nivel de,major,8,1,5
+BOSCO,3,A nivel de,major,9,5,9
+BOSCO,3,A nivel de,major,10,3,7
+BOSCO,3,A nivel de,major,11,1,5
+BOSCO,3,A nivel de,major,12,6,3
+BOSCO,3,A nivel de,major,13,2,7
+BOSCO,3,A nivel de,major,14,3,x
+BOSCO,3,A nivel de,major,15,2,3
+BOSCO,3,A nivel de,major,16,6,1
+BOSCO,3,A nivel de,major,17,6,5
+BOSCO,3,A nivel de,major,18,5,11
+BOSCO,3,A nivel de,major,19,5,7
+BOSCO,3,A nivel de,major,20,3,5
+BOSCO,3,A nivel de,major,21,3,7
+BOSCO,3,A nivel de,major,22,1,5
+BOSCO,3,A nivel de,major,23,1,b9/#9
+BOSCO,3,A nivel de,major,24,6,1
+BOSCO,3,A nivel de,major,25,3,5
+BOSCO,3,A nivel de,major,26,2,b13
+BOSCO,3,A nivel de,major,27,6,b9/#9
+BOSCO,3,A nivel de,major,28,1,5
+BOSCO,3,A nivel de,major,29,6,3
+BOSCO,3,A nivel de,major,30,3,7
+BOSCO,3,A nivel de,major,31,1,9
+BOSCO,3,A nivel de,major,32,#5/b6,7
+BOSCO,3,A nivel de,major,33,5,x
+BOSCO,3,A nivel de,major,34,6,5
+BOSCO,3,A nivel de,major,35,2,1
+BOSCO,3,A nivel de,major,36,7,7
+BOSCO,3,A nivel de,major,37,6,3
+BOSCO,3,A nivel de,major,38,1,5
+BOSCO,3,A nivel de,major,39,2,x
+BOSCO,3,A nivel de,major,40,3,7
+BOSCO,3,A nivel de,major,41,1,9
+BOSCO,3,A nivel de,major,42,#5/b6,7
+BOSCO,3,A nivel de,major,43,5,x
+BOSCO,3,A nivel de,major,44,6,5
+BOSCO,3,A nivel de,major,45,2,1
+BOSCO,3,A nivel de,major,46,1,5
+BOSCO,3,A nivel de,major,47,#5/b6,3
+BOSCO,3,A nivel de,major,48,4,1
+BOSCO,3,A nivel de,major,49,3,1
+BOSCO,3,A nivel de,major,50,1,3
+BOSCO,3,A nivel de,major,51,3,5
+BOSCO,3,A nivel de,major,52,6,5
+BOSCO,3,A nivel de,major,53,3,9
+BOSCO,3,A nivel de,major,54,5,7
+BOSCO,3,A nivel de,major,55,6,3
+BOSCO,3,A nivel de,major,56,3,13
+BOSCO,3,A nivel de,major,57,3,7
+BOSCO,3,A nivel de,major,58,6,b9/#9
+BOSCO,3,A nivel de,major,59,1,5
+BOSCO,3,A nivel de,major,60,3,7
+BOSCO,3,A nivel de,major,61,1,9
+BOSCO,3,A nivel de,major,62,#5/b6,7
+BOSCO,3,A nivel de,major,63,1,7
+BOSCO,3,A nivel de,major,64,7,x
+BOSCO,3,A nivel de,major,65,6,5
+BOSCO,3,A nivel de,major,66,3,9
+BOSCO,3,A nivel de,major,67,5,9
+BOSCO,3,A nivel de,major,68,6,3
+BOSCO,3,A nivel de,major,69,3,13
+BOSCO,3,A nivel de,major,70,3,7
+BOSCO,3,A nivel de,major,71,6,b9/#9
+BOSCO,3,A nivel de,major,72,1,5
+BOSCO,3,A nivel de,major,73,3,7
+BOSCO,3,A nivel de,major,74,1,9
+BOSCO,3,A nivel de,major,75,#5/b6,7
+BOSCO,3,A nivel de,major,76,1,7
+BOSCO,3,A nivel de,major,77,7,x
+BOSCO,3,A nivel de,major,78,6,5
+BOSCO,3,A nivel de,major,79,3,9
+BOSCO,3,A nivel de,major,80,6,5
+BOSCO,3,A nivel de,major,81,1,7
+BOSCO,3,A nivel de,major,82,3,9
+BOSCO,3,A nivel de,major,83,1,9
+BOSCO,3,A nivel de,major,84,2,3
+BOSCO,3,A nivel de,major,85,2,1
+BOSCO,3,A nivel de,major,86,1,x
+BOSCO,3,A nivel de,major,87,2,1
+BOSCO,3,A nivel de,major,88,6,7
+BOSCO,3,A nivel de,major,89,7,x
+BOSCO,4,De frente pro crime,major,1,3,3
+BOSCO,4,De frente pro crime,major,2,2,6
+BOSCO,4,De frente pro crime,major,3,6,3
+BOSCO,4,De frente pro crime,major,4,1,5
+BOSCO,4,De frente pro crime,major,5,1,1
+BOSCO,4,De frente pro crime,major,6,3,3
+BOSCO,4,De frente pro crime,major,7,5,5
+BOSCO,4,De frente pro crime,major,8,4,1
+BOSCO,4,De frente pro crime,major,9,1,5
+BOSCO,4,De frente pro crime,major,10,3,5
+BOSCO,4,De frente pro crime,major,11,1,3
+BOSCO,4,De frente pro crime,major,12,3,9
+BOSCO,4,De frente pro crime,major,13,2,1
+BOSCO,4,De frente pro crime,major,14,6,5
+BOSCO,4,De frente pro crime,major,15,1,3
+BOSCO,4,De frente pro crime,major,16,1,3
+BOSCO,4,De frente pro crime,major,17,3,7
+BOSCO,4,De frente pro crime,major,18,2,5
+BOSCO,4,De frente pro crime,major,19,6,9
+BOSCO,4,De frente pro crime,major,20,1,3
+BOSCO,4,De frente pro crime,major,21,1,1
+BOSCO,4,De frente pro crime,major,22,3,3
+BOSCO,4,De frente pro crime,major,23,5,5
+BOSCO,4,De frente pro crime,major,24,1,1
+BOSCO,4,De frente pro crime,major,25,4,1
+BOSCO,4,De frente pro crime,major,26,6,3
+BOSCO,4,De frente pro crime,major,27,5,1
+BOSCO,4,De frente pro crime,major,28,3,3
+BOSCO,4,De frente pro crime,major,29,1,1
+BOSCO,4,De frente pro crime,major,30,3,3
+BOSCO,4,De frente pro crime,major,31,5,5
+BOSCO,4,De frente pro crime,major,32,1,1
+BOSCO,4,De frente pro crime,major,33,4,1
+BOSCO,4,De frente pro crime,major,34,6,3
+BOSCO,4,De frente pro crime,major,35,5,1
+BOSCO,4,De frente pro crime,major,36,3,3
+BOSCO,4,De frente pro crime,major,37,1,1
+BOSCO,4,De frente pro crime,major,38,3,3
+BOSCO,4,De frente pro crime,major,39,5,5
+BOSCO,4,De frente pro crime,major,40,1,1
+BOSCO,4,De frente pro crime,major,41,4,1
+BOSCO,4,De frente pro crime,major,42,6,3
+BOSCO,4,De frente pro crime,major,43,5,9
+BOSCO,5,Boca de sapo,major,1,1,1
+BOSCO,5,Boca de sapo,major,2,2,x
+BOSCO,5,Boca de sapo,major,3,3,3
+BOSCO,5,Boca de sapo,major,4,2,6
+BOSCO,5,Boca de sapo,major,5,3,x
+BOSCO,5,Boca de sapo,major,6,4,1
+BOSCO,5,Boca de sapo,major,7,3,x
+BOSCO,5,Boca de sapo,major,8,2,x
+BOSCO,5,Boca de sapo,major,9,1,5
+BOSCO,5,Boca de sapo,major,10,7,x
+BOSCO,5,Boca de sapo,major,11,6,x
+BOSCO,5,Boca de sapo,major,12,5,1
+BOSCO,5,Boca de sapo,major,13,4,x
+BOSCO,5,Boca de sapo,major,14,3,3
+BOSCO,5,Boca de sapo,major,15,1,1
+BOSCO,5,Boca de sapo,major,16,3,3
+BOSCO,5,Boca de sapo,major,17,2,5
+BOSCO,5,Boca de sapo,major,18,1,x
+BOSCO,5,Boca de sapo,major,19,7,3
+BOSCO,5,Boca de sapo,major,20,1,1
+BOSCO,5,Boca de sapo,major,21,5,5
+BOSCO,5,Boca de sapo,major,22,4,1
+BOSCO,5,Boca de sapo,major,23,6,3
+BOSCO,5,Boca de sapo,major,24,4,1
+BOSCO,5,Boca de sapo,major,25,2,6
+BOSCO,5,Boca de sapo,major,26,7,3
+BOSCO,5,Boca de sapo,major,27,6,9
+BOSCO,5,Boca de sapo,major,28,6,x
+BOSCO,5,Boca de sapo,major,29,5,3
+BOSCO,5,Boca de sapo,major,30,3,5
+BOSCO,5,Boca de sapo,major,31,2,1
+BOSCO,5,Boca de sapo,major,32,4,3
+BOSCO,5,Boca de sapo,major,33,2,1
+BOSCO,5,Boca de sapo,major,34,7,6
+BOSCO,5,Boca de sapo,major,35,5,1
+BOSCO,5,Boca de sapo,major,36,2,5
+BOSCO,5,Boca de sapo,major,37,1,1
+BOSCO,5,Boca de sapo,major,38,1,1
+BOSCO,5,Boca de sapo,major,39,2,x
+BOSCO,5,Boca de sapo,major,40,3,3
+BOSCO,5,Boca de sapo,major,41,2,x
+BOSCO,5,Boca de sapo,major,42,1,1
+BOSCO,5,Boca de sapo,major,43,4,1
+BOSCO,5,Boca de sapo,major,44,6,3
+BOSCO,5,Boca de sapo,major,45,5,5
+BOSCO,5,Boca de sapo,major,46,6,6
+BOSCO,5,Boca de sapo,major,47,7,x
+BOSCO,5,Boca de sapo,major,48,1,1
+BOSCO,5,Boca de sapo,major,49,5,5
+BOSCO,5,Boca de sapo,major,50,3,3
+BOSCO,5,Boca de sapo,major,51,1,1
+BOSCO,5,Boca de sapo,major,52,3,7
+BOSCO,5,Boca de sapo,major,53,2,x
+BOSCO,5,Boca de sapo,major,54,1,1
+BOSCO,6,Bijuterias,minor,1,1,1
+BOSCO,6,Bijuterias,minor,2,2,x
+BOSCO,6,Bijuterias,minor,3,3,3
+BOSCO,6,Bijuterias,minor,4,5,5
+BOSCO,6,Bijuterias,minor,5,2,9
+BOSCO,6,Bijuterias,minor,6,b7,7
+BOSCO,6,Bijuterias,minor,7,#6,6
+BOSCO,6,Bijuterias,minor,8,b7,x
+BOSCO,6,Bijuterias,minor,9,#6,6
+BOSCO,6,Bijuterias,minor,10,4,11
+BOSCO,6,Bijuterias,minor,11,2,9
+BOSCO,6,Bijuterias,minor,12,#6,6
+BOSCO,6,Bijuterias,minor,13,2,9
+BOSCO,6,Bijuterias,minor,14,3,x
+BOSCO,6,Bijuterias,minor,15,4,11
+BOSCO,6,Bijuterias,minor,16,2,9
+BOSCO,6,Bijuterias,minor,17,1,1
+BOSCO,6,Bijuterias,minor,18,2,x
+BOSCO,6,Bijuterias,minor,19,1,1
+BOSCO,6,Bijuterias,minor,20,5,5
+BOSCO,6,Bijuterias,minor,21,3,3
+BOSCO,6,Bijuterias,minor,22,2,9
+BOSCO,6,Bijuterias,minor,23,3,x
+BOSCO,6,Bijuterias,minor,24,4,11
+BOSCO,6,Bijuterias,minor,25,2,9
+BOSCO,6,Bijuterias,minor,26,5,x
+BOSCO,6,Bijuterias,minor,27,6,1
+BOSCO,6,Bijuterias,minor,28,1,3
+BOSCO,6,Bijuterias,minor,29,3,5
+BOSCO,6,Bijuterias,minor,30,b7,9
+BOSCO,6,Bijuterias,minor,31,5,7
+BOSCO,6,Bijuterias,minor,32,1,1
+BOSCO,6,Bijuterias,minor,33,#6,6
+BOSCO,6,Bijuterias,minor,34,2,9
+BOSCO,6,Bijuterias,minor,35,3,3
+BOSCO,6,Bijuterias,minor,36,5,5
+BOSCO,6,Bijuterias,minor,37,b7,7
+BOSCO,6,Bijuterias,minor,38,2,7
+BOSCO,6,Bijuterias,minor,39,2,7
+BOSCO,6,Bijuterias,minor,40,2,#11
+BOSCO,6,Bijuterias,minor,41,2,5
+BOSCO,6,Bijuterias,minor,42,1,1
+BOSCO,6,Bijuterias,minor,43,2,x
+BOSCO,6,Bijuterias,minor,44,3,3
+BOSCO,6,Bijuterias,minor,45,5,5
+BOSCO,6,Bijuterias,minor,46,7,7
+BOSCO,6,Bijuterias,minor,47,2,9
+BOSCO,6,Bijuterias,minor,48,1,x
+BOSCO,6,Bijuterias,minor,49,2,9
+BOSCO,7,Escadas da Penha,minor,1,5,5
+BOSCO,7,Escadas da Penha,minor,2,1,1
+BOSCO,7,Escadas da Penha,minor,3,b7,7
+BOSCO,7,Escadas da Penha,minor,4,1,9
+BOSCO,7,Escadas da Penha,minor,5,1,1
+BOSCO,7,Escadas da Penha,minor,6,b7,7
+BOSCO,7,Escadas da Penha,minor,7,5,5
+BOSCO,7,Escadas da Penha,minor,8,1,1
+BOSCO,7,Escadas da Penha,minor,9,b7,x
+BOSCO,7,Escadas da Penha,minor,10,1,1
+BOSCO,7,Escadas da Penha,minor,11,b7,7
+BOSCO,7,Escadas da Penha,minor,12,5,5
+BOSCO,7,Escadas da Penha,minor,13,3,3
+BOSCO,7,Escadas da Penha,minor,14,2,x
+BOSCO,7,Escadas da Penha,minor,15,1,1
+BOSCO,7,Escadas da Penha,minor,16,b7,x
+BOSCO,7,Escadas da Penha,minor,17,1,1
+BOSCO,7,Escadas da Penha,minor,18,5,5
+BOSCO,7,Escadas da Penha,minor,19,3,3
+BOSCO,7,Escadas da Penha,minor,20,2,x
+BOSCO,7,Escadas da Penha,minor,21,1,1
+BOSCO,7,Escadas da Penha,minor,22,b7,7
+BOSCO,8,Casa de marimbondo,minor,1,1,1
+BOSCO,8,Casa de marimbondo,minor,2,b7,x
+BOSCO,8,Casa de marimbondo,minor,3,1,5
+BOSCO,8,Casa de marimbondo,minor,4,2,13
+BOSCO,8,Casa de marimbondo,minor,5,b7,7
+BOSCO,8,Casa de marimbondo,minor,6,5,5
+BOSCO,8,Casa de marimbondo,minor,7,1,1
+BOSCO,8,Casa de marimbondo,minor,8,5,9
+BOSCO,8,Casa de marimbondo,minor,9,4,x
+BOSCO,8,Casa de marimbondo,minor,10,5,13
+BOSCO,8,Casa de marimbondo,minor,11,4,5
+BOSCO,8,Casa de marimbondo,minor,12,1,9
+BOSCO,8,Casa de marimbondo,minor,13,3,1
+BOSCO,8,Casa de marimbondo,minor,14,1,13
+BOSCO,8,Casa de marimbondo,minor,15,5,x
+BOSCO,8,Casa de marimbondo,minor,16,1,1
+BOSCO,8,Casa de marimbondo,minor,17,b7,x
+BOSCO,8,Casa de marimbondo,minor,18,1,5
+BOSCO,8,Casa de marimbondo,minor,19,2,13
+BOSCO,8,Casa de marimbondo,minor,20,b7,5
+BOSCO,8,Casa de marimbondo,minor,21,5,3
+BOSCO,8,Casa de marimbondo,minor,22,1,3
+BOSCO,8,Casa de marimbondo,minor,23,5,9
+BOSCO,8,Casa de marimbondo,minor,24,1,5
+BOSCO,8,Casa de marimbondo,minor,25,5,9
+BOSCO,8,Casa de marimbondo,minor,26,1,3
+BOSCO,8,Casa de marimbondo,minor,27,5,1
+BOSCO,8,Casa de marimbondo,minor,28,1,3
+BOSCO,8,Casa de marimbondo,minor,29,1,1
+BOSCO,8,Casa de marimbondo,minor,30,5,5
+BOSCO,8,Casa de marimbondo,minor,31,b7,7
+BOSCO,8,Casa de marimbondo,minor,32,5,5
+BOSCO,8,Casa de marimbondo,minor,33,1,1
+BOSCO,8,Casa de marimbondo,minor,34,#6,3
+BOSCO,8,Casa de marimbondo,minor,35,4,1
+BOSCO,8,Casa de marimbondo,minor,36,6,7
+BOSCO,8,Casa de marimbondo,minor,37,4,5
+BOSCO,8,Casa de marimbondo,minor,38,6,7
+BOSCO,8,Casa de marimbondo,minor,39,5,3
+BOSCO,8,Casa de marimbondo,minor,40,3,1
+BOSCO,8,Casa de marimbondo,minor,41,6,7
+BOSCO,8,Casa de marimbondo,minor,42,3,5
+BOSCO,8,Casa de marimbondo,minor,43,6,7
+BOSCO,8,Casa de marimbondo,minor,44,4,7
+BOSCO,8,Casa de marimbondo,minor,45,2,5
+BOSCO,8,Casa de marimbondo,minor,46,1,7
+BOSCO,8,Casa de marimbondo,minor,47,#6,5
+BOSCO,8,Casa de marimbondo,minor,48,1,7
+BOSCO,8,Casa de marimbondo,minor,49,7,3
+BOSCO,9,Dois pra la dois pra ca,minor,1,5,5
+BOSCO,9,Dois pra la dois pra ca,minor,2,1,1
+BOSCO,9,Dois pra la dois pra ca,minor,3,2,x
+BOSCO,9,Dois pra la dois pra ca,minor,4,3,3
+BOSCO,9,Dois pra la dois pra ca,minor,5,2,x
+BOSCO,9,Dois pra la dois pra ca,minor,6,1,1
+BOSCO,9,Dois pra la dois pra ca,minor,7,2,5
+BOSCO,9,Dois pra la dois pra ca,minor,8,b7,3
+BOSCO,9,Dois pra la dois pra ca,minor,9,1,1
+BOSCO,9,Dois pra la dois pra ca,minor,10,2,x
+BOSCO,9,Dois pra la dois pra ca,minor,11,3,3
+BOSCO,9,Dois pra la dois pra ca,minor,12,2,x
+BOSCO,9,Dois pra la dois pra ca,minor,13,1,1
+BOSCO,9,Dois pra la dois pra ca,minor,14,2,5
+BOSCO,9,Dois pra la dois pra ca,minor,15,5,5
+BOSCO,9,Dois pra la dois pra ca,minor,16,1,1
+BOSCO,9,Dois pra la dois pra ca,minor,17,2,x
+BOSCO,9,Dois pra la dois pra ca,minor,18,3,3
+BOSCO,9,Dois pra la dois pra ca,minor,19,2,x
+BOSCO,9,Dois pra la dois pra ca,minor,20,1,1
+BOSCO,9,Dois pra la dois pra ca,minor,21,2,5
+BOSCO,9,Dois pra la dois pra ca,minor,22,b7,3
+BOSCO,9,Dois pra la dois pra ca,minor,23,#3,5
+BOSCO,9,Dois pra la dois pra ca,minor,24,4,x
+BOSCO,9,Dois pra la dois pra ca,minor,25,5,7
+BOSCO,9,Dois pra la dois pra ca,minor,26,4,x
+BOSCO,9,Dois pra la dois pra ca,minor,27,#3,x
+BOSCO,9,Dois pra la dois pra ca,minor,28,3,5
+BOSCO,9,Dois pra la dois pra ca,minor,29,1,3
+BOSCO,9,Dois pra la dois pra ca,minor,30,b7,x
+BOSCO,9,Dois pra la dois pra ca,minor,31,6,x
+BOSCO,9,Dois pra la dois pra ca,minor,32,5,7
+BOSCO,9,Dois pra la dois pra ca,minor,33,4,6
+BOSCO,9,Dois pra la dois pra ca,minor,34,#3,x
+BOSCO,9,Dois pra la dois pra ca,minor,35,3,b9/#9
+BOSCO,9,Dois pra la dois pra ca,minor,36,2,1
+BOSCO,9,Dois pra la dois pra ca,minor,37,1,5
+BOSCO,9,Dois pra la dois pra ca,minor,38,b7,x
+BOSCO,9,Dois pra la dois pra ca,minor,39,6,x
+BOSCO,9,Dois pra la dois pra ca,minor,40,5,1
+BOSCO,9,Dois pra la dois pra ca,minor,41,7,3
+BOSCO,9,Dois pra la dois pra ca,minor,42,2,9
+BOSCO,9,Dois pra la dois pra ca,minor,43,1,1
+BOSCO,10,Falso brilhante,minor,1,2,9
+BOSCO,10,Falso brilhante,minor,2,1,x
+BOSCO,10,Falso brilhante,minor,3,2,9
+BOSCO,10,Falso brilhante,minor,4,1,x
+BOSCO,10,Falso brilhante,minor,5,2,9
+BOSCO,10,Falso brilhante,minor,6,1,x
+BOSCO,10,Falso brilhante,minor,7,2,9
+BOSCO,10,Falso brilhante,minor,8,1,x
+BOSCO,10,Falso brilhante,minor,9,2,9
+BOSCO,10,Falso brilhante,minor,10,1,1
+BOSCO,10,Falso brilhante,minor,11,5,5
+BOSCO,10,Falso brilhante,minor,12,1,5
+BOSCO,10,Falso brilhante,minor,13,b7,x
+BOSCO,10,Falso brilhante,minor,14,1,5
+BOSCO,10,Falso brilhante,minor,15,b7,x
+BOSCO,10,Falso brilhante,minor,16,1,5
+BOSCO,10,Falso brilhante,minor,17,b7,x
+BOSCO,10,Falso brilhante,minor,18,1,5
+BOSCO,10,Falso brilhante,minor,19,b7,x
+BOSCO,10,Falso brilhante,minor,20,1,1
+BOSCO,10,Falso brilhante,minor,21,b7,x
+BOSCO,10,Falso brilhante,minor,22,4,1
+BOSCO,10,Falso brilhante,minor,23,1,7
+BOSCO,10,Falso brilhante,minor,24,7,x
+BOSCO,10,Falso brilhante,minor,25,1,7
+BOSCO,10,Falso brilhante,minor,26,7,x
+BOSCO,10,Falso brilhante,minor,27,1,3
+BOSCO,10,Falso brilhante,minor,28,7,x
+BOSCO,10,Falso brilhante,minor,29,1,3
+BOSCO,10,Falso brilhante,minor,30,7,x
+BOSCO,10,Falso brilhante,minor,31,1,3
+BOSCO,10,Falso brilhante,minor,32,7,x
+BOSCO,10,Falso brilhante,minor,33,1,3
+BOSCO,10,Falso brilhante,minor,34,7,3
+BOSCO,11,Corsario,minor,1,5,5
+BOSCO,11,Corsario,minor,2,5,13
+BOSCO,11,Corsario,minor,3,6,7
+BOSCO,11,Corsario,minor,4,4,5
+BOSCO,11,Corsario,minor,5,4,5
+BOSCO,11,Corsario,minor,6,4,11
+BOSCO,11,Corsario,minor,7,5,5
+BOSCO,11,Corsario,minor,8,3,3
+BOSCO,11,Corsario,minor,9,3,5
+BOSCO,11,Corsario,minor,10,2,11
+BOSCO,11,Corsario,minor,11,3,5
+BOSCO,11,Corsario,minor,12,2,x
+BOSCO,11,Corsario,minor,13,3,5
+BOSCO,11,Corsario,minor,14,4,6
+BOSCO,11,Corsario,minor,15,3,x
+BOSCO,11,Corsario,minor,16,2,9
+BOSCO,11,Corsario,minor,17,1,1
+BOSCO,11,Corsario,minor,18,3,5
+BOSCO,11,Corsario,minor,19,2,11
+BOSCO,11,Corsario,minor,20,3,5
+BOSCO,11,Corsario,minor,21,2,x
+BOSCO,11,Corsario,minor,22,3,x
+BOSCO,11,Corsario,minor,23,4,6
+BOSCO,11,Corsario,minor,24,3,x
+BOSCO,11,Corsario,minor,25,2,5
+BOSCO,11,Corsario,minor,26,1,9
+BOSCO,11,Corsario,minor,27,b7,1
+BOSCO,11,Corsario,minor,28,1,1
+BOSCO,11,Corsario,minor,29,b7,x
+BOSCO,11,Corsario,minor,30,1,1
+BOSCO,11,Corsario,minor,31,#1/b2,b13
+BOSCO,11,Corsario,minor,32,1,5
+BOSCO,11,Corsario,minor,33,b7,11
+BOSCO,11,Corsario,minor,34,6,3
+BOSCO,11,Corsario,minor,35,6,x
+BOSCO,11,Corsario,minor,36,5,11
+BOSCO,11,Corsario,minor,37,3,b13
+BOSCO,11,Corsario,minor,38,2,9
+BOSCO,11,Corsario,minor,39,1,1
+BOSCO,11,Corsario,minor,40,5,3
+BOSCO,11,Corsario,minor,41,3,1
+BOSCO,11,Corsario,minor,42,2,1
+BOSCO,11,Corsario,minor,43,1,7
+BOSCO,11,Corsario,minor,44,6,x
+BOSCO,11,Corsario,minor,45,5,1
+BOSCO,11,Corsario,minor,46,3,b13
+BOSCO,11,Corsario,minor,47,2,x
+BOSCO,11,Corsario,minor,48,1,1
+BOSCO,12,Feminismo no Estacio,major,1,1,1
+BOSCO,12,Feminismo no Estacio,major,2,7,x
+BOSCO,12,Feminismo no Estacio,major,3,6,6
+BOSCO,12,Feminismo no Estacio,major,4,1,1
+BOSCO,12,Feminismo no Estacio,major,5,7,x
+BOSCO,12,Feminismo no Estacio,major,6,6,6
+BOSCO,12,Feminismo no Estacio,major,7,1,3
+BOSCO,12,Feminismo no Estacio,major,8,7,x
+BOSCO,12,Feminismo no Estacio,major,9,6,1
+BOSCO,12,Feminismo no Estacio,major,10,4,6
+BOSCO,12,Feminismo no Estacio,major,11,6,1
+BOSCO,12,Feminismo no Estacio,major,12,6,5
+BOSCO,12,Feminismo no Estacio,major,13,4,3
+BOSCO,12,Feminismo no Estacio,major,14,1,7
+BOSCO,12,Feminismo no Estacio,major,15,7,x
+BOSCO,12,Feminismo no Estacio,major,16,6,5
+BOSCO,12,Feminismo no Estacio,major,17,1,7
+BOSCO,12,Feminismo no Estacio,major,18,7,x
+BOSCO,12,Feminismo no Estacio,major,19,6,5
+BOSCO,12,Feminismo no Estacio,major,20,4,7
+BOSCO,12,Feminismo no Estacio,major,21,2,5
+BOSCO,12,Feminismo no Estacio,major,22,5,1
+BOSCO,12,Feminismo no Estacio,major,23,7,3
+BOSCO,12,Feminismo no Estacio,major,24,2,5
+BOSCO,12,Feminismo no Estacio,major,25,4,7
+BOSCO,12,Feminismo no Estacio,major,26,1,x
+BOSCO,12,Feminismo no Estacio,major,27,7,3
+BOSCO,12,Feminismo no Estacio,major,28,6,6
+BOSCO,12,Feminismo no Estacio,major,29,5,5
+BOSCO,12,Feminismo no Estacio,major,30,1,1
+BOSCO,12,Feminismo no Estacio,major,31,3,3
+BOSCO,12,Feminismo no Estacio,major,32,7,7
+BOSCO,12,Feminismo no Estacio,major,33,6,x
+BOSCO,12,Feminismo no Estacio,major,34,5,5
+BOSCO,12,Feminismo no Estacio,major,35,3,3
+BOSCO,12,Feminismo no Estacio,major,36,6,6
+BOSCO,12,Feminismo no Estacio,major,37,6,5
+BOSCO,12,Feminismo no Estacio,major,38,4,3
+BOSCO,12,Feminismo no Estacio,major,39,1,7
+BOSCO,12,Feminismo no Estacio,major,40,7,x
+BOSCO,12,Feminismo no Estacio,major,41,6,5
+BOSCO,12,Feminismo no Estacio,major,42,1,7
+BOSCO,12,Feminismo no Estacio,major,43,7,x
+BOSCO,12,Feminismo no Estacio,major,44,6,5
+BOSCO,12,Feminismo no Estacio,major,45,4,7
+BOSCO,12,Feminismo no Estacio,major,46,5,1
+BOSCO,12,Feminismo no Estacio,major,47,7,3
+BOSCO,12,Feminismo no Estacio,major,48,2,5
+BOSCO,12,Feminismo no Estacio,major,49,4,7
+BOSCO,12,Feminismo no Estacio,major,50,1,x
+BOSCO,12,Feminismo no Estacio,major,51,7,3
+BOSCO,12,Feminismo no Estacio,major,52,6,6
+BOSCO,12,Feminismo no Estacio,major,53,5,5
+BOSCO,12,Feminismo no Estacio,major,54,1,1
+BOSCO,12,Feminismo no Estacio,major,55,7,9
+BOSCO,12,Feminismo no Estacio,major,56,6,1
+BOSCO,12,Feminismo no Estacio,major,57,5,11
+BOSCO,12,Feminismo no Estacio,major,58,4,3
+BOSCO,12,Feminismo no Estacio,major,59,2,1
+BOSCO,12,Feminismo no Estacio,major,60,3,x
+BOSCO,12,Feminismo no Estacio,major,61,4,3
+BOSCO,12,Feminismo no Estacio,major,62,5,11
+BOSCO,12,Feminismo no Estacio,major,63,3,3
+BOSCO,12,Feminismo no Estacio,major,64,1,1
+BOSCO,12,Feminismo no Estacio,major,65,5,5
+BOSCO,12,Feminismo no Estacio,major,66,5,1
+BOSCO,12,Feminismo no Estacio,major,67,#4/b5,x
+BOSCO,12,Feminismo no Estacio,major,68,4,7
+BOSCO,12,Feminismo no Estacio,major,69,7,3
+BOSCO,12,Feminismo no Estacio,major,70,2,9
+BOSCO,12,Feminismo no Estacio,major,71,1,1
+BOSCO,13,Gol anulado,minor,1,2,9
+BOSCO,13,Gol anulado,minor,2,3,x
+BOSCO,13,Gol anulado,minor,3,2,9
+BOSCO,13,Gol anulado,minor,4,1,1
+BOSCO,13,Gol anulado,minor,5,5,5
+BOSCO,13,Gol anulado,minor,6,3,5
+BOSCO,13,Gol anulado,minor,7,5,9
+BOSCO,13,Gol anulado,minor,8,1,5
+BOSCO,13,Gol anulado,minor,9,4,1
+BOSCO,13,Gol anulado,minor,10,5,x
+BOSCO,13,Gol anulado,minor,11,4,7
+BOSCO,13,Gol anulado,minor,12,5,x
+BOSCO,13,Gol anulado,minor,13,4,7
+BOSCO,13,Gol anulado,minor,14,1,3
+BOSCO,13,Gol anulado,minor,15,3,5
+BOSCO,13,Gol anulado,minor,16,1,3
+BOSCO,13,Gol anulado,minor,17,4,3
+BOSCO,13,Gol anulado,minor,18,4,7
+BOSCO,13,Gol anulado,minor,19,5,x
+BOSCO,13,Gol anulado,minor,20,4,7
+BOSCO,13,Gol anulado,minor,21,3,3
+BOSCO,13,Gol anulado,minor,22,5,5
+BOSCO,13,Gol anulado,minor,23,3,5
+BOSCO,13,Gol anulado,minor,24,4,x
+BOSCO,13,Gol anulado,minor,25,3,5
+BOSCO,13,Gol anulado,minor,26,4,x
+BOSCO,13,Gol anulado,minor,27,1,5
+BOSCO,13,Gol anulado,minor,28,2,5
+BOSCO,13,Gol anulado,minor,29,5,5
+BOSCO,13,Gol anulado,minor,30,6,x
+BOSCO,13,Gol anulado,minor,31,5,5
+BOSCO,13,Gol anulado,minor,32,7,x
+BOSCO,13,Gol anulado,minor,33,1,5
+BOSCO,13,Gol anulado,minor,34,4,1
+BOSCO,13,Gol anulado,minor,35,1,5
+BOSCO,13,Gol anulado,minor,36,4,6
+BOSCO,13,Gol anulado,minor,37,5,x
+BOSCO,13,Gol anulado,minor,38,4,5
+BOSCO,13,Gol anulado,minor,39,2,3
+BOSCO,13,Gol anulado,minor,40,1,x
+BOSCO,13,Gol anulado,minor,41,b7,5
+BOSCO,13,Gol anulado,minor,42,4,9
+BOSCO,13,Gol anulado,minor,43,3,1
+BOSCO,13,Gol anulado,minor,44,3,3
+BOSCO,13,Gol anulado,minor,45,4,x
+BOSCO,13,Gol anulado,minor,46,3,3
+BOSCO,13,Gol anulado,minor,47,4,x
+BOSCO,13,Gol anulado,minor,48,3,3
+BOSCO,13,Gol anulado,minor,49,4,x
+BOSCO,13,Gol anulado,minor,50,3,3
+BOSCO,13,Gol anulado,minor,51,#6,6
+BOSCO,13,Gol anulado,minor,52,4,x
+BOSCO,13,Gol anulado,minor,53,5,x
+BOSCO,13,Gol anulado,minor,54,4,x
+BOSCO,13,Gol anulado,minor,55,5,x
+BOSCO,13,Gol anulado,minor,56,4,x
+BOSCO,13,Gol anulado,minor,57,5,x
+BOSCO,13,Gol anulado,minor,58,4,x
+BOSCO,14,Desenho de giz,major,1,4,3
+BOSCO,14,Desenho de giz,major,2,3,x
+BOSCO,14,Desenho de giz,major,3,4,3
+BOSCO,14,Desenho de giz,major,4,3,x
+BOSCO,14,Desenho de giz,major,5,4,7
+BOSCO,14,Desenho de giz,major,6,3,x
+BOSCO,14,Desenho de giz,major,7,4,7
+BOSCO,14,Desenho de giz,major,8,5,1
+BOSCO,14,Desenho de giz,major,9,3,13
+BOSCO,14,Desenho de giz,major,10,2,x
+BOSCO,14,Desenho de giz,major,11,3,3
+BOSCO,14,Desenho de giz,major,12,2,x
+BOSCO,14,Desenho de giz,major,13,3,1
+BOSCO,14,Desenho de giz,major,14,2,x
+BOSCO,14,Desenho de giz,major,15,3,5
+BOSCO,14,Desenho de giz,major,16,2,6
+BOSCO,14,Desenho de giz,major,17,7,x
+BOSCO,14,Desenho de giz,major,18,1,5
+BOSCO,14,Desenho de giz,major,19,2,6
+BOSCO,14,Desenho de giz,major,20,1,b13
+BOSCO,14,Desenho de giz,major,21,2,x
+BOSCO,14,Desenho de giz,major,22,3,1
+BOSCO,14,Desenho de giz,major,23,1,b13
+BOSCO,14,Desenho de giz,major,24,7,x
+BOSCO,14,Desenho de giz,major,25,1,1
+BOSCO,14,Desenho de giz,major,26,7,x
+BOSCO,14,Desenho de giz,major,27,1,1
+BOSCO,14,Desenho de giz,major,28,7,x
+BOSCO,14,Desenho de giz,major,29,1,7
+BOSCO,14,Desenho de giz,major,30,2,1
+BOSCO,14,Desenho de giz,major,31,7,3
+BOSCO,14,Desenho de giz,major,32,7,1
+BOSCO,14,Desenho de giz,major,33,6,x
+BOSCO,14,Desenho de giz,major,34,7,1
+BOSCO,14,Desenho de giz,major,35,6,x
+BOSCO,14,Desenho de giz,major,36,7,5
+BOSCO,14,Desenho de giz,major,37,5,3
+BOSCO,14,Desenho de giz,major,38,3,1
+BOSCO,14,Desenho de giz,major,39,2,7
+BOSCO,14,Desenho de giz,major,40,7,5
+BOSCO,14,Desenho de giz,major,41,5,3
+BOSCO,14,Desenho de giz,major,42,7,x
+BOSCO,14,Desenho de giz,major,43,6,9
+BOSCO,14,Desenho de giz,major,44,5,x
+BOSCO,14,Desenho de giz,major,45,#5/b6,b9/#9
+BOSCO,14,Desenho de giz,major,46,5,1
+BOSCO,14,Desenho de giz,major,47,2,5
+BOSCO,14,Desenho de giz,major,48,3,3
+BOSCO,14,Desenho de giz,major,49,3,1
+BOSCO,14,Desenho de giz,major,50,2,x
+BOSCO,14,Desenho de giz,major,51,3,1
+BOSCO,14,Desenho de giz,major,52,3,5
+BOSCO,14,Desenho de giz,major,53,1,3
+BOSCO,14,Desenho de giz,major,54,6,1
+BOSCO,14,Desenho de giz,major,55,5,7
+BOSCO,14,Desenho de giz,major,56,3,5
+BOSCO,14,Desenho de giz,major,57,1,3
+BOSCO,14,Desenho de giz,major,58,3,x
+BOSCO,14,Desenho de giz,major,59,2,5
+BOSCO,14,Desenho de giz,major,60,1,x
+BOSCO,14,Desenho de giz,major,61,2,9
+BOSCO,14,Desenho de giz,major,62,1,1
+BOSCO,14,Desenho de giz,major,63,6,3
+BOSCO,14,Desenho de giz,major,64,5,x
+BOSCO,14,Desenho de giz,major,65,6,3
+BOSCO,14,Desenho de giz,major,66,6,7
+BOSCO,14,Desenho de giz,major,67,5,x
+BOSCO,14,Desenho de giz,major,68,2,9
+BOSCO,14,Desenho de giz,major,69,#6/b7,3
+BOSCO,14,Desenho de giz,major,70,6,x
+BOSCO,14,Desenho de giz,major,71,5,1
+BOSCO,14,Desenho de giz,major,72,3,6
+BOSCO,14,Desenho de giz,major,73,4,x
+BOSCO,14,Desenho de giz,major,74,5,7
+BOSCO,14,Desenho de giz,major,75,6,1
+BOSCO,14,Desenho de giz,major,76,2,1
+BOSCO,14,Desenho de giz,major,77,7,13
+BOSCO,14,Desenho de giz,major,78,1,x
+BOSCO,14,Desenho de giz,major,79,3,13
+BOSCO,14,Desenho de giz,major,80,2,x
+BOSCO,14,Desenho de giz,major,81,3,b9/#9
+BOSCO,14,Desenho de giz,major,82,2,b9/#9
+BOSCO,14,Desenho de giz,major,83,6,x
+BOSCO,14,Desenho de giz,major,84,7,7
+BOSCO,14,Desenho de giz,major,85,1,1
+BOSCO,15,Kid cavaquinho,major,1,1,1
+BOSCO,15,Kid cavaquinho,major,2,3,3
+BOSCO,15,Kid cavaquinho,major,3,2,5
+BOSCO,15,Kid cavaquinho,major,4,1,1
+BOSCO,15,Kid cavaquinho,major,5,3,3
+BOSCO,15,Kid cavaquinho,major,6,2,x
+BOSCO,15,Kid cavaquinho,major,7,3,3
+BOSCO,15,Kid cavaquinho,major,8,4,x
+BOSCO,15,Kid cavaquinho,major,9,5,5
+BOSCO,15,Kid cavaquinho,major,10,4,1
+BOSCO,15,Kid cavaquinho,major,11,5,9
+BOSCO,15,Kid cavaquinho,major,12,3,3
+BOSCO,15,Kid cavaquinho,major,13,6,x
+BOSCO,15,Kid cavaquinho,major,14,5,5
+BOSCO,15,Kid cavaquinho,major,15,3,3
+BOSCO,15,Kid cavaquinho,major,16,2,x
+BOSCO,15,Kid cavaquinho,major,17,1,1
+BOSCO,15,Kid cavaquinho,major,18,5,5
+BOSCO,15,Kid cavaquinho,major,19,1,1
+BOSCO,15,Kid cavaquinho,major,20,5,5
+BOSCO,15,Kid cavaquinho,major,21,6,6
+BOSCO,15,Kid cavaquinho,major,22,5,9
+BOSCO,15,Kid cavaquinho,major,23,3,3
+BOSCO,15,Kid cavaquinho,major,24,4,7
+BOSCO,15,Kid cavaquinho,major,25,3,13
+BOSCO,15,Kid cavaquinho,major,26,5,1
+BOSCO,15,Kid cavaquinho,major,27,3,#11
+BOSCO,15,Kid cavaquinho,major,28,1,1
+BOSCO,15,Kid cavaquinho,major,29,2,1
+BOSCO,15,Kid cavaquinho,major,30,3,x
+BOSCO,15,Kid cavaquinho,major,31,4,x
+BOSCO,15,Kid cavaquinho,major,32,3,9
+BOSCO,15,Kid cavaquinho,major,33,5,1
+BOSCO,15,Kid cavaquinho,major,34,2,5
+BOSCO,15,Kid cavaquinho,major,35,3,x
+BOSCO,15,Kid cavaquinho,major,36,2,5
+BOSCO,15,Kid cavaquinho,major,37,1,1
+BOSCO,15,Kid cavaquinho,major,38,3,3
+BOSCO,16,Jogador,major,1,3,3
+BOSCO,16,Jogador,major,2,2,x
+BOSCO,16,Jogador,major,3,1,1
+BOSCO,16,Jogador,major,4,1,5
+BOSCO,16,Jogador,major,5,1,5
+BOSCO,16,Jogador,major,6,2,x
+BOSCO,16,Jogador,major,7,3,3
+BOSCO,16,Jogador,major,8,3,5
+BOSCO,16,Jogador,major,9,2,x
+BOSCO,16,Jogador,major,10,#1/b2,3
+BOSCO,16,Jogador,major,11,4,b13
+BOSCO,16,Jogador,major,12,3,9
+BOSCO,16,Jogador,major,13,2,x
+BOSCO,16,Jogador,major,14,3,9
+BOSCO,16,Jogador,major,15,4,3
+BOSCO,16,Jogador,major,16,3,x
+BOSCO,16,Jogador,major,17,2,1
+BOSCO,16,Jogador,major,18,1,x
+BOSCO,16,Jogador,major,19,7,3
+BOSCO,16,Jogador,major,20,3,13
+BOSCO,16,Jogador,major,21,2,x
+BOSCO,16,Jogador,major,22,3,3
+BOSCO,16,Jogador,major,23,2,x
+BOSCO,16,Jogador,major,24,1,1
+BOSCO,16,Jogador,major,25,3,3
+BOSCO,16,Jogador,major,26,2,7
+BOSCO,16,Jogador,major,27,7,5
+BOSCO,16,Jogador,major,28,1,x
+BOSCO,16,Jogador,major,29,2,7
+BOSCO,16,Jogador,major,30,3,1
+BOSCO,16,Jogador,major,31,2,x
+BOSCO,16,Jogador,major,32,1,x
+BOSCO,16,Jogador,major,33,7,5
+BOSCO,16,Jogador,major,34,1,x
+BOSCO,16,Jogador,major,35,2,11
+BOSCO,16,Jogador,major,36,1,3
+BOSCO,16,Jogador,major,37,6,1
+BOSCO,16,Jogador,major,38,3,5
+BOSCO,16,Jogador,major,39,2,5
+BOSCO,16,Jogador,major,40,2,1
+BOSCO,16,Jogador,major,41,6,5
+BOSCO,16,Jogador,major,42,5,x
+BOSCO,16,Jogador,major,43,6,5
+BOSCO,16,Jogador,major,44,5,1
+BOSCO,16,Jogador,major,45,#4/b5,x
+BOSCO,16,Jogador,major,46,5,7
+BOSCO,16,Jogador,major,47,6,5
+BOSCO,16,Jogador,major,48,1,7
+BOSCO,16,Jogador,major,49,6,5
+BOSCO,16,Jogador,major,50,4,x
+BOSCO,16,Jogador,major,51,3,13
+BOSCO,16,Jogador,major,52,2,x
+BOSCO,16,Jogador,major,53,1,1
+BOSCO,17,Linha de passe,major,1,3,3
+BOSCO,17,Linha de passe,major,2,1,1
+BOSCO,17,Linha de passe,major,3,3,3
+BOSCO,17,Linha de passe,major,4,1,1
+BOSCO,17,Linha de passe,major,5,#2/b3,3
+BOSCO,17,Linha de passe,major,6,1,1
+BOSCO,17,Linha de passe,major,7,#2/b3,3
+BOSCO,17,Linha de passe,major,8,1,1
+BOSCO,17,Linha de passe,major,9,3,3
+BOSCO,17,Linha de passe,major,10,1,1
+BOSCO,17,Linha de passe,major,11,3,3
+BOSCO,17,Linha de passe,major,12,1,1
+BOSCO,17,Linha de passe,major,13,#2/b3,3
+BOSCO,17,Linha de passe,major,14,5,5
+BOSCO,17,Linha de passe,major,15,3,3
+BOSCO,17,Linha de passe,major,16,1,1
+BOSCO,17,Linha de passe,major,17,3,3
+BOSCO,17,Linha de passe,major,18,1,1
+BOSCO,17,Linha de passe,major,19,#2/b3,3
+BOSCO,17,Linha de passe,major,20,1,1
+BOSCO,17,Linha de passe,major,21,#2/b3,3
+BOSCO,17,Linha de passe,major,22,1,1
+BOSCO,17,Linha de passe,major,23,3,3
+BOSCO,17,Linha de passe,major,24,1,1
+BOSCO,17,Linha de passe,major,25,3,7
+BOSCO,17,Linha de passe,major,26,1,5
+BOSCO,17,Linha de passe,major,27,3,7
+BOSCO,17,Linha de passe,major,28,1,5
+BOSCO,17,Linha de passe,major,29,#2/b3,7
+BOSCO,17,Linha de passe,major,30,1,5
+BOSCO,17,Linha de passe,major,31,#2/b3,7
+BOSCO,17,Linha de passe,major,32,1,5
+BOSCO,17,Linha de passe,major,33,3,3
+BOSCO,17,Linha de passe,major,34,1,1
+BOSCO,17,Linha de passe,major,35,3,3
+BOSCO,17,Linha de passe,major,36,4,x
+BOSCO,17,Linha de passe,major,37,5,7
+BOSCO,17,Linha de passe,major,38,4,x
+BOSCO,17,Linha de passe,major,39,3,5
+BOSCO,17,Linha de passe,major,40,1,7
+BOSCO,17,Linha de passe,major,41,6,5
+BOSCO,17,Linha de passe,major,42,1,7
+BOSCO,17,Linha de passe,major,43,3,9
+BOSCO,17,Linha de passe,major,44,1,3
+BOSCO,17,Linha de passe,major,45,6,9
+BOSCO,17,Linha de passe,major,46,1,3
+BOSCO,17,Linha de passe,major,47,3,13
+BOSCO,17,Linha de passe,major,48,1,1
+BOSCO,17,Linha de passe,major,49,6,6
+BOSCO,17,Linha de passe,major,50,1,1
+BOSCO,18,Jade,minor,1,5,5
+BOSCO,18,Jade,minor,2,4,x
+BOSCO,18,Jade,minor,3,5,5
+BOSCO,18,Jade,minor,4,4,11
+BOSCO,18,Jade,minor,5,5,x
+BOSCO,18,Jade,minor,6,6,x
+BOSCO,18,Jade,minor,7,b7,7
+BOSCO,18,Jade,minor,8,5,5
+BOSCO,18,Jade,minor,9,4,x
+BOSCO,18,Jade,minor,10,5,5
+BOSCO,18,Jade,minor,11,1,1
+BOSCO,18,Jade,minor,12,4,6
+BOSCO,18,Jade,minor,13,3,x
+BOSCO,18,Jade,minor,14,4,6
+BOSCO,18,Jade,minor,15,7,3
+BOSCO,18,Jade,minor,16,4,7
+BOSCO,18,Jade,minor,17,3,x
+BOSCO,18,Jade,minor,18,4,7
+BOSCO,18,Jade,minor,19,7,3
+BOSCO,18,Jade,minor,20,4,7
+BOSCO,18,Jade,minor,21,3,x
+BOSCO,18,Jade,minor,22,4,11
+BOSCO,18,Jade,minor,23,3,3
+BOSCO,18,Jade,minor,24,2,9
+BOSCO,18,Jade,minor,25,1,x
+BOSCO,18,Jade,minor,26,2,9
+BOSCO,18,Jade,minor,27,1,1
+BOSCO,18,Jade,minor,28,5,1
+BOSCO,18,Jade,minor,29,4,x
+BOSCO,18,Jade,minor,30,5,5
+BOSCO,18,Jade,minor,31,1,1
+BOSCO,18,Jade,minor,32,7,x
+BOSCO,18,Jade,minor,33,1,1
+BOSCO,18,Jade,minor,34,2,9
+BOSCO,18,Jade,minor,35,1,x
+BOSCO,18,Jade,minor,36,2,9
+BOSCO,18,Jade,minor,37,3,3
+BOSCO,18,Jade,minor,38,2,x
+BOSCO,18,Jade,minor,39,3,3
+BOSCO,18,Jade,minor,40,4,11
+BOSCO,18,Jade,minor,41,3,x
+BOSCO,18,Jade,minor,42,4,11
+BOSCO,18,Jade,minor,43,5,1
+BOSCO,18,Jade,minor,44,#4/b5,x
+BOSCO,18,Jade,minor,45,5,1
+BOSCO,18,Jade,minor,46,#6,9
+BOSCO,18,Jade,minor,47,5,x
+BOSCO,18,Jade,minor,48,#6,9
+BOSCO,18,Jade,minor,49,b7,3
+BOSCO,18,Jade,minor,50,#6,9
+BOSCO,18,Jade,minor,51,b7,x
+BOSCO,18,Jade,minor,52,1,11
+BOSCO,18,Jade,minor,53,b7,x
+BOSCO,18,Jade,minor,54,1,11
+BOSCO,18,Jade,minor,55,2,9
+BOSCO,18,Jade,minor,56,3,x
+BOSCO,18,Jade,minor,57,2,9
+BOSCO,18,Jade,minor,58,1,1
+BOSCO,18,Jade,minor,59,b7,x
+BOSCO,18,Jade,minor,60,1,1
+BOSCO,18,Jade,minor,61,2,9
+BOSCO,18,Jade,minor,62,3,3
+BOSCO,18,Jade,minor,63,2,x
+BOSCO,18,Jade,minor,64,1,1
+BOSCO,18,Jade,minor,65,b7,x
+BOSCO,18,Jade,minor,66,1,1
+BOSCO,18,Jade,minor,67,2,11
+BOSCO,19,O rancho da goiabada,minor,1,5,5
+BOSCO,19,O rancho da goiabada,minor,2,6,x
+BOSCO,19,O rancho da goiabada,minor,3,5,5
+BOSCO,19,O rancho da goiabada,minor,4,1,1
+BOSCO,19,O rancho da goiabada,minor,5,2,x
+BOSCO,19,O rancho da goiabada,minor,6,1,1
+BOSCO,19,O rancho da goiabada,minor,7,3,3
+BOSCO,19,O rancho da goiabada,minor,8,2,x
+BOSCO,19,O rancho da goiabada,minor,9,1,1
+BOSCO,19,O rancho da goiabada,minor,10,b7,x
+BOSCO,19,O rancho da goiabada,minor,11,6,3
+BOSCO,19,O rancho da goiabada,minor,12,5,x
+BOSCO,19,O rancho da goiabada,minor,13,6,3
+BOSCO,19,O rancho da goiabada,minor,14,b7,x
+BOSCO,19,O rancho da goiabada,minor,15,1,5
+BOSCO,19,O rancho da goiabada,minor,16,b7,x
+BOSCO,19,O rancho da goiabada,minor,17,6,3
+BOSCO,19,O rancho da goiabada,minor,18,4,1
+BOSCO,19,O rancho da goiabada,minor,19,2,6
+BOSCO,19,O rancho da goiabada,minor,20,1,x
+BOSCO,19,O rancho da goiabada,minor,21,7,3
+BOSCO,19,O rancho da goiabada,minor,22,2,5
+BOSCO,19,O rancho da goiabada,minor,23,7,3
+BOSCO,19,O rancho da goiabada,minor,24,5,1
+BOSCO,19,O rancho da goiabada,minor,25,4,7
+BOSCO,19,O rancho da goiabada,minor,26,2,5
+BOSCO,19,O rancho da goiabada,minor,27,3,b13
+BOSCO,19,O rancho da goiabada,minor,28,4,7
+BOSCO,19,O rancho da goiabada,minor,29,6,x
+BOSCO,19,O rancho da goiabada,minor,30,5,5
+BOSCO,19,O rancho da goiabada,minor,31,4,11
+BOSCO,19,O rancho da goiabada,minor,32,3,3
+BOSCO,19,O rancho da goiabada,minor,33,5,5
+BOSCO,19,O rancho da goiabada,minor,34,1,1
+BOSCO,19,O rancho da goiabada,minor,35,#1/b2,b9/#9
+BOSCO,19,O rancho da goiabada,minor,36,1,1
+BOSCO,19,O rancho da goiabada,minor,37,5,5
+BOSCO,19,O rancho da goiabada,minor,38,4,1
+BOSCO,19,O rancho da goiabada,minor,39,3,b13
+BOSCO,19,O rancho da goiabada,minor,40,3,5
+BOSCO,19,O rancho da goiabada,minor,41,4,11
+BOSCO,19,O rancho da goiabada,minor,42,2,x
+BOSCO,19,O rancho da goiabada,minor,43,3,3
+BOSCO,19,O rancho da goiabada,minor,44,4,x
+BOSCO,19,O rancho da goiabada,minor,45,5,5
+BOSCO,19,O rancho da goiabada,minor,46,4,x
+BOSCO,19,O rancho da goiabada,minor,47,3,3
+BOSCO,19,O rancho da goiabada,minor,48,2,x
+BOSCO,19,O rancho da goiabada,minor,49,1,1
+BOSCO,19,O rancho da goiabada,minor,50,7,x
+BOSCO,19,O rancho da goiabada,minor,51,1,1
+BOSCO,19,O rancho da goiabada,minor,52,3,b9/#9
+BOSCO,19,O rancho da goiabada,minor,53,#6,5
+BOSCO,19,O rancho da goiabada,minor,54,2,1
+BOSCO,19,O rancho da goiabada,minor,55,1,x
+BOSCO,19,O rancho da goiabada,minor,56,7,3
+BOSCO,19,O rancho da goiabada,minor,57,3,b13
+BOSCO,19,O rancho da goiabada,minor,58,2,x
+BOSCO,19,O rancho da goiabada,minor,59,1,1
+BOSCO,20,Miss Sueter,major,1,1,1
+BOSCO,20,Miss Sueter,major,2,7,x
+BOSCO,20,Miss Sueter,major,3,6,x
+BOSCO,20,Miss Sueter,major,4,5,5
+BOSCO,20,Miss Sueter,major,5,6,6
+BOSCO,20,Miss Sueter,major,6,5,x
+BOSCO,20,Miss Sueter,major,7,4,x
+BOSCO,20,Miss Sueter,major,8,3,3
+BOSCO,20,Miss Sueter,major,9,4,x
+BOSCO,20,Miss Sueter,major,10,3,5
+BOSCO,20,Miss Sueter,major,11,2,x
+BOSCO,20,Miss Sueter,major,12,1,3
+BOSCO,20,Miss Sueter,major,13,2,11
+BOSCO,20,Miss Sueter,major,14,1,x
+BOSCO,20,Miss Sueter,major,15,7,9
+BOSCO,20,Miss Sueter,major,16,5,7
+BOSCO,20,Miss Sueter,major,17,6,1
+BOSCO,20,Miss Sueter,major,18,5,7
+BOSCO,20,Miss Sueter,major,19,6,5
+BOSCO,20,Miss Sueter,major,20,7,x
+BOSCO,20,Miss Sueter,major,21,1,7
+BOSCO,20,Miss Sueter,major,22,2,x
+BOSCO,20,Miss Sueter,major,23,3,9
+BOSCO,20,Miss Sueter,major,24,2,x
+BOSCO,20,Miss Sueter,major,25,1,x
+BOSCO,20,Miss Sueter,major,26,7,13
+BOSCO,20,Miss Sueter,major,27,2,6
+BOSCO,20,Miss Sueter,major,28,1,x
+BOSCO,20,Miss Sueter,major,29,7,x
+BOSCO,20,Miss Sueter,major,30,6,3
+BOSCO,20,Miss Sueter,major,31,1,x
+BOSCO,20,Miss Sueter,major,32,7,3
+BOSCO,20,Miss Sueter,major,33,6,x
+BOSCO,20,Miss Sueter,major,34,5,1
+BOSCO,20,Miss Sueter,major,35,6,6
+BOSCO,20,Miss Sueter,major,36,3,9
+BOSCO,20,Miss Sueter,major,37,4,3
+BOSCO,20,Miss Sueter,major,38,2,7
+BOSCO,20,Miss Sueter,major,39,3,1
+BOSCO,20,Miss Sueter,major,40,4,x
+BOSCO,20,Miss Sueter,major,41,5,3
+BOSCO,20,Miss Sueter,major,42,3,9
+BOSCO,20,Miss Sueter,major,43,4,3
+BOSCO,20,Miss Sueter,major,44,2,1
+BOSCO,20,Miss Sueter,major,45,3,x
+BOSCO,20,Miss Sueter,major,46,4,3
+BOSCO,20,Miss Sueter,major,47,5,9
+BOSCO,20,Miss Sueter,major,48,6,x
+BOSCO,20,Miss Sueter,major,49,5,9
+BOSCO,20,Miss Sueter,major,50,4,7
+BOSCO,20,Miss Sueter,major,51,3,x
+BOSCO,20,Miss Sueter,major,52,2,5
+BOSCO,20,Miss Sueter,major,53,3,5
+BOSCO,20,Miss Sueter,major,54,7,9
+BOSCO,21,O mestre-sala dos mares,major,1,5,5
+BOSCO,21,O mestre-sala dos mares,major,2,1,1
+BOSCO,21,O mestre-sala dos mares,major,3,7,7
+BOSCO,21,O mestre-sala dos mares,major,4,6,6
+BOSCO,21,O mestre-sala dos mares,major,5,5,5
+BOSCO,21,O mestre-sala dos mares,major,6,#4/b5,3
+BOSCO,21,O mestre-sala dos mares,major,7,7,b13
+BOSCO,21,O mestre-sala dos mares,major,8,4,3
+BOSCO,21,O mestre-sala dos mares,major,9,2,1
+BOSCO,21,O mestre-sala dos mares,major,10,6,5
+BOSCO,21,O mestre-sala dos mares,major,11,1,7
+BOSCO,21,O mestre-sala dos mares,major,12,7,3
+BOSCO,21,O mestre-sala dos mares,major,13,2,5
+BOSCO,21,O mestre-sala dos mares,major,14,7,3
+BOSCO,21,O mestre-sala dos mares,major,15,5,1
+BOSCO,21,O mestre-sala dos mares,major,16,#4/b5,x
+BOSCO,21,O mestre-sala dos mares,major,17,4,7
+BOSCO,21,O mestre-sala dos mares,major,18,5,1
+BOSCO,21,O mestre-sala dos mares,major,19,6,x
+BOSCO,21,O mestre-sala dos mares,major,20,7,3
+BOSCO,21,O mestre-sala dos mares,major,21,1,x
+BOSCO,21,O mestre-sala dos mares,major,22,2,5
+BOSCO,21,O mestre-sala dos mares,major,23,5,5
+BOSCO,21,O mestre-sala dos mares,major,24,3,1
+BOSCO,21,O mestre-sala dos mares,major,25,4,x
+BOSCO,21,O mestre-sala dos mares,major,26,5,7
+BOSCO,21,O mestre-sala dos mares,major,27,#4/b5,x
+BOSCO,21,O mestre-sala dos mares,major,28,4,b13
+BOSCO,21,O mestre-sala dos mares,major,29,#1/b2,3
+BOSCO,21,O mestre-sala dos mares,major,30,3,x
+BOSCO,21,O mestre-sala dos mares,major,31,2,1
+BOSCO,21,O mestre-sala dos mares,major,32,#1/b2,x
+BOSCO,21,O mestre-sala dos mares,major,33,3,x
+BOSCO,21,O mestre-sala dos mares,major,34,2,1
+BOSCO,21,O mestre-sala dos mares,major,35,4,5
+BOSCO,21,O mestre-sala dos mares,major,36,2,3
+BOSCO,21,O mestre-sala dos mares,major,37,3,1
+BOSCO,21,O mestre-sala dos mares,major,38,2,7
+BOSCO,21,O mestre-sala dos mares,major,39,7,5
+BOSCO,21,O mestre-sala dos mares,major,40,2,11
+BOSCO,21,O mestre-sala dos mares,major,41,1,3
+BOSCO,21,O mestre-sala dos mares,major,42,5,7
+BOSCO,21,O mestre-sala dos mares,major,43,1,3
+BOSCO,21,O mestre-sala dos mares,major,44,6,1
+BOSCO,21,O mestre-sala dos mares,major,45,7,9
+BOSCO,21,O mestre-sala dos mares,major,46,7,13
+BOSCO,21,O mestre-sala dos mares,major,47,6,x
+BOSCO,21,O mestre-sala dos mares,major,48,5,x
+BOSCO,21,O mestre-sala dos mares,major,49,#4/b5,3
+BOSCO,21,O mestre-sala dos mares,major,50,5,x
+BOSCO,21,O mestre-sala dos mares,major,51,6,5
+BOSCO,21,O mestre-sala dos mares,major,52,2,1
+BOSCO,21,O mestre-sala dos mares,major,53,1,x
+BOSCO,21,O mestre-sala dos mares,major,54,7,x
+BOSCO,21,O mestre-sala dos mares,major,55,6,5
+BOSCO,21,O mestre-sala dos mares,major,56,#4/b5,3
+BOSCO,21,O mestre-sala dos mares,major,57,2,1
+BOSCO,21,O mestre-sala dos mares,major,58,1,x
+BOSCO,21,O mestre-sala dos mares,major,59,7,13
+BOSCO,21,O mestre-sala dos mares,major,60,2,1
+BOSCO,21,O mestre-sala dos mares,major,61,1,x
+BOSCO,21,O mestre-sala dos mares,major,62,7,13
+BOSCO,21,O mestre-sala dos mares,major,63,6,3
+BOSCO,21,O mestre-sala dos mares,major,64,#4/b5,3
+BOSCO,21,O mestre-sala dos mares,major,65,6,5
+BOSCO,21,O mestre-sala dos mares,major,66,1,7
+BOSCO,21,O mestre-sala dos mares,major,67,4,1
+BOSCO,21,O mestre-sala dos mares,major,68,3,13
+BOSCO,21,O mestre-sala dos mares,major,69,2,5
+BOSCO,21,O mestre-sala dos mares,major,70,7,3
+BOSCO,21,O mestre-sala dos mares,major,71,2,9
+BOSCO,21,O mestre-sala dos mares,major,72,1,1
+BOSCO,22,Galos de briga,minor,1,5,5
+BOSCO,22,Galos de briga,minor,2,1,1
+BOSCO,22,Galos de briga,minor,3,2,9
+BOSCO,22,Galos de briga,minor,4,b7,7
+BOSCO,22,Galos de briga,minor,5,1,1
+BOSCO,22,Galos de briga,minor,6,5,5
+BOSCO,22,Galos de briga,minor,7,6,x
+BOSCO,22,Galos de briga,minor,8,5,5
+BOSCO,22,Galos de briga,minor,9,4,x
+BOSCO,22,Galos de briga,minor,10,3,3
+BOSCO,22,Galos de briga,minor,11,2,x
+BOSCO,22,Galos de briga,minor,12,1,1
+BOSCO,22,Galos de briga,minor,13,b7,7
+BOSCO,22,Galos de briga,minor,14,2,x
+BOSCO,22,Galos de briga,minor,15,1,1
+BOSCO,22,Galos de briga,minor,16,5,9
+BOSCO,22,Galos de briga,minor,17,4,x
+BOSCO,22,Galos de briga,minor,18,3,5
+BOSCO,22,Galos de briga,minor,19,2,x
+BOSCO,22,Galos de briga,minor,20,3,5
+BOSCO,22,Galos de briga,minor,21,4,x
+BOSCO,22,Galos de briga,minor,22,3,x
+BOSCO,22,Galos de briga,minor,23,2,1
+BOSCO,22,Galos de briga,minor,24,4,6
+BOSCO,22,Galos de briga,minor,25,3,x
+BOSCO,22,Galos de briga,minor,26,2,x
+BOSCO,22,Galos de briga,minor,27,1,3
+BOSCO,22,Galos de briga,minor,28,b7,x
+BOSCO,22,Galos de briga,minor,29,1,3
+BOSCO,22,Galos de briga,minor,30,7,3
+BOSCO,22,Galos de briga,minor,31,5,1
+BOSCO,22,Galos de briga,minor,32,5,5
+BOSCO,22,Galos de briga,minor,33,6,x
+BOSCO,22,Galos de briga,minor,34,5,5
+BOSCO,22,Galos de briga,minor,35,6,6
+BOSCO,22,Galos de briga,minor,36,5,5
+BOSCO,22,Galos de briga,minor,37,3,3
+BOSCO,22,Galos de briga,minor,38,5,x
+BOSCO,22,Galos de briga,minor,39,4,11
+BOSCO,22,Galos de briga,minor,40,4,5
+BOSCO,22,Galos de briga,minor,41,5,x
+BOSCO,22,Galos de briga,minor,42,4,5
+BOSCO,22,Galos de briga,minor,43,5,x
+BOSCO,22,Galos de briga,minor,44,4,5
+BOSCO,22,Galos de briga,minor,45,3,x
+BOSCO,22,Galos de briga,minor,46,2,x
+BOSCO,22,Galos de briga,minor,47,1,1
+BOSCO,23,Zona de fronteira,major,1,1,1
+BOSCO,23,Zona de fronteira,major,2,5,5
+BOSCO,23,Zona de fronteira,major,3,#6/b7,7
+BOSCO,23,Zona de fronteira,major,4,1,1
+BOSCO,23,Zona de fronteira,major,5,5,5
+BOSCO,23,Zona de fronteira,major,6,#6/b7,7
+BOSCO,23,Zona de fronteira,major,7,1,1
+BOSCO,23,Zona de fronteira,major,8,5,5
+BOSCO,23,Zona de fronteira,major,9,#6/b7,7
+BOSCO,23,Zona de fronteira,major,10,1,1
+BOSCO,23,Zona de fronteira,major,11,2,x
+BOSCO,23,Zona de fronteira,major,12,1,1
+BOSCO,23,Zona de fronteira,major,13,#6/b7,7
+BOSCO,23,Zona de fronteira,major,14,5,5
+BOSCO,23,Zona de fronteira,major,15,#6/b7,7
+BOSCO,23,Zona de fronteira,major,16,1,1
+BOSCO,23,Zona de fronteira,major,17,5,5
+BOSCO,23,Zona de fronteira,major,18,#6/b7,7
+BOSCO,23,Zona de fronteira,major,19,4,x
+BOSCO,23,Zona de fronteira,major,20,3,3
+BOSCO,23,Zona de fronteira,major,21,2,9
+BOSCO,23,Zona de fronteira,major,22,5,5
+BOSCO,23,Zona de fronteira,major,23,#6/b7,7
+BOSCO,23,Zona de fronteira,major,24,6,x
+BOSCO,23,Zona de fronteira,major,25,#6/b7,7
+BOSCO,23,Zona de fronteira,major,26,6,x
+BOSCO,23,Zona de fronteira,major,27,#6/b7,7
+BOSCO,23,Zona de fronteira,major,28,1,x
+BOSCO,23,Zona de fronteira,major,29,2,9
+BOSCO,23,Zona de fronteira,major,30,1,x
+BOSCO,23,Zona de fronteira,major,31,#6/b7,7
+BOSCO,23,Zona de fronteira,major,32,6,x
+BOSCO,23,Zona de fronteira,major,33,5,5
+BOSCO,23,Zona de fronteira,major,34,4,x
+BOSCO,23,Zona de fronteira,major,35,3,3
+BOSCO,23,Zona de fronteira,major,36,5,5
+BOSCO,23,Zona de fronteira,major,37,#6/b7,7
+BOSCO,24,Pirata azul,minor,1,5,5
+BOSCO,24,Pirata azul,minor,2,b7,7
+BOSCO,24,Pirata azul,minor,3,6,x
+BOSCO,24,Pirata azul,minor,4,5,5
+BOSCO,24,Pirata azul,minor,5,4,x
+BOSCO,24,Pirata azul,minor,6,3,3
+BOSCO,24,Pirata azul,minor,7,1,1
+BOSCO,24,Pirata azul,minor,8,5,7
+BOSCO,24,Pirata azul,minor,9,4,5
+BOSCO,24,Pirata azul,minor,10,6,7
+BOSCO,24,Pirata azul,minor,11,5,x
+BOSCO,24,Pirata azul,minor,12,4,5
+BOSCO,24,Pirata azul,minor,13,3,x
+BOSCO,24,Pirata azul,minor,14,2,7
+BOSCO,24,Pirata azul,minor,15,7,b13
+BOSCO,24,Pirata azul,minor,16,4,9
+BOSCO,24,Pirata azul,minor,17,3,3
+BOSCO,24,Pirata azul,minor,18,6,x
+BOSCO,24,Pirata azul,minor,19,5,5
+BOSCO,24,Pirata azul,minor,20,4,x
+BOSCO,24,Pirata azul,minor,21,3,3
+BOSCO,24,Pirata azul,minor,22,2,#11
+BOSCO,24,Pirata azul,minor,23,1,3
+BOSCO,24,Pirata azul,minor,24,3,5
+BOSCO,24,Pirata azul,minor,25,4,7
+BOSCO,24,Pirata azul,minor,26,3,x
+BOSCO,24,Pirata azul,minor,27,2,7
+BOSCO,24,Pirata azul,minor,28,1,x
+BOSCO,24,Pirata azul,minor,29,b7,7
+BOSCO,24,Pirata azul,minor,30,5,5
+BOSCO,24,Pirata azul,minor,31,4,x
+BOSCO,24,Pirata azul,minor,32,3,3
+BOSCO,24,Pirata azul,minor,33,1,1
+BOSCO,24,Pirata azul,minor,34,5,5
+BOSCO,24,Pirata azul,minor,35,1,1
+BOSCO,24,Pirata azul,minor,36,2,x
+BOSCO,24,Pirata azul,minor,37,3,3
+BOSCO,24,Pirata azul,minor,38,4,x
+BOSCO,24,Pirata azul,minor,39,5,3
+BOSCO,24,Pirata azul,minor,40,6,x
+BOSCO,24,Pirata azul,minor,41,b7,5
+BOSCO,24,Pirata azul,minor,42,5,3
+BOSCO,24,Pirata azul,minor,43,b7,5
+BOSCO,24,Pirata azul,minor,44,5,3
+BOSCO,24,Pirata azul,minor,45,b7,5
+BOSCO,24,Pirata azul,minor,46,5,3
+BOSCO,24,Pirata azul,minor,47,1,b13
+BOSCO,24,Pirata azul,minor,48,7,x
+BOSCO,24,Pirata azul,minor,49,1,b13
+BOSCO,24,Pirata azul,minor,50,b7,11
+BOSCO,24,Pirata azul,minor,51,6,3
+BOSCO,24,Pirata azul,minor,52,1,5
+BOSCO,24,Pirata azul,minor,53,6,3
+BOSCO,24,Pirata azul,minor,54,b7,x
+BOSCO,24,Pirata azul,minor,55,7,7
+BOSCO,24,Pirata azul,minor,56,b7,5
+BOSCO,24,Pirata azul,minor,57,6,x
+BOSCO,24,Pirata azul,minor,58,b7,5
+BOSCO,24,Pirata azul,minor,59,5,3
+BOSCO,24,Pirata azul,minor,60,4,x
+BOSCO,24,Pirata azul,minor,61,3,1
+BOSCO,24,Pirata azul,minor,62,3,x
+BOSCO,24,Pirata azul,minor,63,2,1
+BOSCO,24,Pirata azul,minor,64,4,3
+BOSCO,24,Pirata azul,minor,65,3,b13
+BOSCO,24,Pirata azul,minor,66,2,x
+BOSCO,24,Pirata azul,minor,67,1,3
+BOSCO,24,Pirata azul,minor,68,1,1
+BOSCO,25,Jandira da gandaia,minor,1,6,6
+BOSCO,25,Jandira da gandaia,minor,2,5,x
+BOSCO,25,Jandira da gandaia,minor,3,6,6
+BOSCO,25,Jandira da gandaia,minor,4,5,x
+BOSCO,25,Jandira da gandaia,minor,5,6,6
+BOSCO,25,Jandira da gandaia,minor,6,5,x
+BOSCO,25,Jandira da gandaia,minor,7,6,6
+BOSCO,25,Jandira da gandaia,minor,8,5,x
+BOSCO,25,Jandira da gandaia,minor,9,4,x
+BOSCO,25,Jandira da gandaia,minor,10,5,1
+BOSCO,25,Jandira da gandaia,minor,11,4,9
+BOSCO,25,Jandira da gandaia,minor,12,3,b13
+BOSCO,25,Jandira da gandaia,minor,13,2,3
+BOSCO,25,Jandira da gandaia,minor,14,5,5
+BOSCO,25,Jandira da gandaia,minor,15,6,x
+BOSCO,25,Jandira da gandaia,minor,16,5,5
+BOSCO,25,Jandira da gandaia,minor,17,6,x
+BOSCO,25,Jandira da gandaia,minor,18,5,5
+BOSCO,25,Jandira da gandaia,minor,19,6,6
+BOSCO,25,Jandira da gandaia,minor,20,5,x
+BOSCO,25,Jandira da gandaia,minor,21,6,6
+BOSCO,25,Jandira da gandaia,minor,22,5,x
+BOSCO,25,Jandira da gandaia,minor,23,4,1
+BOSCO,25,Jandira da gandaia,minor,24,5,9
+BOSCO,25,Jandira da gandaia,minor,25,4,x
+BOSCO,25,Jandira da gandaia,minor,26,3,b13
+BOSCO,25,Jandira da gandaia,minor,27,2,3
+BOSCO,25,Jandira da gandaia,minor,28,3,1
+BOSCO,25,Jandira da gandaia,minor,29,4,x
+BOSCO,25,Jandira da gandaia,minor,30,3,1
+BOSCO,25,Jandira da gandaia,minor,31,4,x
+BOSCO,25,Jandira da gandaia,minor,32,3,1
+BOSCO,25,Jandira da gandaia,minor,33,4,x
+BOSCO,25,Jandira da gandaia,minor,34,3,1
+BOSCO,25,Jandira da gandaia,minor,35,4,x
+BOSCO,25,Jandira da gandaia,minor,36,5,9
+BOSCO,25,Jandira da gandaia,minor,37,4,x
+BOSCO,25,Jandira da gandaia,minor,38,3,b9/#9
+BOSCO,25,Jandira da gandaia,minor,39,2,1
+BOSCO,25,Jandira da gandaia,minor,40,3,1
+BOSCO,25,Jandira da gandaia,minor,41,4,x
+BOSCO,25,Jandira da gandaia,minor,42,3,1
+BOSCO,25,Jandira da gandaia,minor,43,4,x
+BOSCO,25,Jandira da gandaia,minor,44,3,1
+BOSCO,25,Jandira da gandaia,minor,45,4,9
+BOSCO,25,Jandira da gandaia,minor,46,3,1
+BOSCO,25,Jandira da gandaia,minor,47,2,x
+BOSCO,25,Jandira da gandaia,minor,48,3,1
+BOSCO,25,Jandira da gandaia,minor,49,5,3
+BOSCO,25,Jandira da gandaia,minor,50,4,x
+BOSCO,25,Jandira da gandaia,minor,51,3,x
+BOSCO,25,Jandira da gandaia,minor,52,2,6
+BOSCO,25,Jandira da gandaia,minor,53,1,5
+BOSCO,25,Jandira da gandaia,minor,54,2,x
+BOSCO,25,Jandira da gandaia,minor,55,1,3
+BOSCO,25,Jandira da gandaia,minor,56,7,3
+BOSCO,25,Jandira da gandaia,minor,57,1,1
+BOSCO,25,Jandira da gandaia,minor,58,b7,7
+BOSCO,25,Jandira da gandaia,minor,59,1,1
+BOSCO,26,Latin lover,minor,1,#4/b5,x
+BOSCO,26,Latin lover,minor,2,5,5
+BOSCO,26,Latin lover,minor,3,1,x
+BOSCO,26,Latin lover,minor,4,2,9
+BOSCO,26,Latin lover,minor,5,#4/b5,x
+BOSCO,26,Latin lover,minor,6,5,5
+BOSCO,26,Latin lover,minor,7,1,1
+BOSCO,26,Latin lover,minor,8,2,x
+BOSCO,26,Latin lover,minor,9,1,1
+BOSCO,26,Latin lover,minor,10,2,x
+BOSCO,26,Latin lover,minor,11,1,1
+BOSCO,26,Latin lover,minor,12,2,x
+BOSCO,26,Latin lover,minor,13,1,1
+BOSCO,26,Latin lover,minor,14,7,x
+BOSCO,26,Latin lover,minor,15,b7,x
+BOSCO,26,Latin lover,minor,16,1,9
+BOSCO,26,Latin lover,minor,17,#3,x
+BOSCO,26,Latin lover,minor,18,4,5
+BOSCO,26,Latin lover,minor,19,b7,1
+BOSCO,26,Latin lover,minor,20,1,x
+BOSCO,26,Latin lover,minor,21,b7,1
+BOSCO,26,Latin lover,minor,22,1,x
+BOSCO,26,Latin lover,minor,23,b7,1
+BOSCO,26,Latin lover,minor,24,1,x
+BOSCO,26,Latin lover,minor,25,b7,1
+BOSCO,26,Latin lover,minor,26,6,x
+BOSCO,26,Latin lover,minor,27,5,x
+BOSCO,26,Latin lover,minor,28,6,5
+BOSCO,26,Latin lover,minor,29,#1/b2,x
+BOSCO,26,Latin lover,minor,30,2,1
+BOSCO,26,Latin lover,minor,31,5,1
+BOSCO,26,Latin lover,minor,32,6,x
+BOSCO,26,Latin lover,minor,33,5,1
+BOSCO,26,Latin lover,minor,34,6,x
+BOSCO,26,Latin lover,minor,35,5,1
+BOSCO,26,Latin lover,minor,36,6,x
+BOSCO,26,Latin lover,minor,37,5,1
+BOSCO,26,Latin lover,minor,38,4,7
+BOSCO,26,Latin lover,minor,39,2,x
+BOSCO,26,Latin lover,minor,40,3,3
+BOSCO,26,Latin lover,minor,41,2,x
+BOSCO,26,Latin lover,minor,42,3,5
+BOSCO,26,Latin lover,minor,43,b7,11
+BOSCO,26,Latin lover,minor,44,1,x
+BOSCO,26,Latin lover,minor,45,b7,11
+BOSCO,26,Latin lover,minor,46,1,x
+BOSCO,26,Latin lover,minor,47,b7,11
+BOSCO,26,Latin lover,minor,48,6,x
+BOSCO,26,Latin lover,minor,49,5,11
+BOSCO,26,Latin lover,minor,50,5,1
+BOSCO,26,Latin lover,minor,51,7,7
+BOSCO,26,Latin lover,minor,52,2,9
+BOSCO,27,Beirando a rumba,major,1,#1/b2,b9/#9
+BOSCO,27,Beirando a rumba,major,2,1,1
+BOSCO,27,Beirando a rumba,major,3,#6/b7,7
+BOSCO,27,Beirando a rumba,major,4,5,5
+BOSCO,27,Beirando a rumba,major,5,#6/b7,7
+BOSCO,27,Beirando a rumba,major,6,3,3
+BOSCO,27,Beirando a rumba,major,7,5,5
+BOSCO,27,Beirando a rumba,major,8,#6/b7,7
+BOSCO,27,Beirando a rumba,major,9,1,1
+BOSCO,27,Beirando a rumba,major,10,4,x
+BOSCO,27,Beirando a rumba,major,11,5,5
+BOSCO,27,Beirando a rumba,major,12,4,x
+BOSCO,27,Beirando a rumba,major,13,3,3
+BOSCO,27,Beirando a rumba,major,14,1,1
+BOSCO,27,Beirando a rumba,major,15,#1/b2,x
+BOSCO,27,Beirando a rumba,major,16,1,1
+BOSCO,27,Beirando a rumba,major,17,5,5
+BOSCO,27,Beirando a rumba,major,18,#6/b7,7
+BOSCO,27,Beirando a rumba,major,19,1,1
+BOSCO,27,Beirando a rumba,major,20,#1/b2,x
+BOSCO,27,Beirando a rumba,major,21,1,1
+BOSCO,27,Beirando a rumba,major,22,#1/b2,b9/#9
+BOSCO,27,Beirando a rumba,major,23,1,1
+BOSCO,27,Beirando a rumba,major,24,7,x
+BOSCO,27,Beirando a rumba,major,25,#6/b7,x
+BOSCO,27,Beirando a rumba,major,26,#5/b6,b13
+BOSCO,27,Beirando a rumba,major,27,1,1
+BOSCO,27,Beirando a rumba,major,28,7,x
+BOSCO,27,Beirando a rumba,major,29,#6/b7,x
+BOSCO,27,Beirando a rumba,major,30,6,13
+BOSCO,27,Beirando a rumba,major,31,#5/b6,x
+BOSCO,27,Beirando a rumba,major,32,5,5
+BOSCO,27,Beirando a rumba,major,33,3,3
+BOSCO,27,Beirando a rumba,major,34,#1/b2,b9/#9
+BOSCO,27,Beirando a rumba,major,35,1,1
+BOSCO,27,Beirando a rumba,major,36,#6/b7,7
+BOSCO,27,Beirando a rumba,major,37,5,5
+BOSCO,27,Beirando a rumba,major,38,3,3
+BOSCO,27,Beirando a rumba,major,39,#1/b2,1
+BOSCO,27,Beirando a rumba,major,40,1,7
+BOSCO,27,Beirando a rumba,major,41,#6/b7,x
+BOSCO,27,Beirando a rumba,major,42,#5/b6,5
+BOSCO,27,Beirando a rumba,major,43,4,3
+BOSCO,27,Beirando a rumba,major,44,#1/b2,1
+BOSCO,27,Beirando a rumba,major,45,1,7
+BOSCO,27,Beirando a rumba,major,46,#6/b7,x
+BOSCO,27,Beirando a rumba,major,47,#5/b6,5
+BOSCO,27,Beirando a rumba,major,48,#4/b5,x
+BOSCO,27,Beirando a rumba,major,49,4,1
+BOSCO,27,Beirando a rumba,major,50,#2/b3,7
+BOSCO,27,Beirando a rumba,major,51,1,5
+BOSCO,27,Beirando a rumba,major,52,6,3
+BOSCO,27,Beirando a rumba,major,53,#4/b5,b9/#9
+BOSCO,27,Beirando a rumba,major,54,4,5
+BOSCO,27,Beirando a rumba,major,55,#2/b3,11
+BOSCO,27,Beirando a rumba,major,56,#1/b2,3
+BOSCO,27,Beirando a rumba,major,57,#6/b7,1
+BOSCO,27,Beirando a rumba,major,58,#1/b2,3
+BOSCO,27,Beirando a rumba,major,59,1,1
+BOSCO,27,Beirando a rumba,major,60,#6/b7,7
+BOSCO,27,Beirando a rumba,major,61,#5/b6,b13
+BOSCO,27,Beirando a rumba,major,62,5,5
+BOSCO,28,Preta-porter de tafeta,major,1,3,3
+BOSCO,28,Preta-porter de tafeta,major,2,5,5
+BOSCO,28,Preta-porter de tafeta,major,3,3,3
+BOSCO,28,Preta-porter de tafeta,major,4,1,1
+BOSCO,28,Preta-porter de tafeta,major,5,6,x
+BOSCO,28,Preta-porter de tafeta,major,6,5,9
+BOSCO,28,Preta-porter de tafeta,major,7,6,3
+BOSCO,28,Preta-porter de tafeta,major,8,5,5
+BOSCO,28,Preta-porter de tafeta,major,9,3,3
+BOSCO,28,Preta-porter de tafeta,major,10,1,1
+BOSCO,28,Preta-porter de tafeta,major,11,6,x
+BOSCO,28,Preta-porter de tafeta,major,12,5,13
+BOSCO,28,Preta-porter de tafeta,major,13,5,7
+BOSCO,28,Preta-porter de tafeta,major,14,#4/b5,13
+BOSCO,28,Preta-porter de tafeta,major,15,4,x
+BOSCO,28,Preta-porter de tafeta,major,16,3,5
+BOSCO,28,Preta-porter de tafeta,major,17,5,3
+BOSCO,28,Preta-porter de tafeta,major,18,#4/b5,13
+BOSCO,28,Preta-porter de tafeta,major,19,4,x
+BOSCO,28,Preta-porter de tafeta,major,20,3,5
+BOSCO,28,Preta-porter de tafeta,major,21,6,5
+BOSCO,28,Preta-porter de tafeta,major,22,#5/b6,x
+BOSCO,28,Preta-porter de tafeta,major,23,6,3
+BOSCO,28,Preta-porter de tafeta,major,24,4,1
+BOSCO,28,Preta-porter de tafeta,major,25,2,6
+BOSCO,28,Preta-porter de tafeta,major,26,1,5
+BOSCO,28,Preta-porter de tafeta,major,27,7,11
+BOSCO,28,Preta-porter de tafeta,major,28,#4/b5,1
+BOSCO,28,Preta-porter de tafeta,major,29,6,6
+BOSCO,28,Preta-porter de tafeta,major,30,5,5
+BOSCO,28,Preta-porter de tafeta,major,31,3,#11
+BOSCO,28,Preta-porter de tafeta,major,32,1,b9/#9
+BOSCO,28,Preta-porter de tafeta,major,33,#6/b7,b9/#9
+BOSCO,28,Preta-porter de tafeta,major,34,6,1
+BOSCO,28,Preta-porter de tafeta,major,35,#5/b6,x
+BOSCO,28,Preta-porter de tafeta,major,36,6,1
+BOSCO,28,Preta-porter de tafeta,major,37,2,1
+BOSCO,28,Preta-porter de tafeta,major,38,6,5
+BOSCO,28,Preta-porter de tafeta,major,39,1,7
+BOSCO,28,Preta-porter de tafeta,major,40,2,1
+BOSCO,28,Preta-porter de tafeta,major,41,5,1
+BOSCO,28,Preta-porter de tafeta,major,42,7,3
+BOSCO,28,Preta-porter de tafeta,major,43,2,5
+BOSCO,28,Preta-porter de tafeta,major,44,5,1
+BOSCO,28,Preta-porter de tafeta,major,45,5,5
+BOSCO,28,Preta-porter de tafeta,major,46,1,1
+BOSCO,29,Meu caro visconde,minor,1,5,5
+BOSCO,29,Meu caro visconde,minor,2,1,1
+BOSCO,29,Meu caro visconde,minor,3,b7,7
+BOSCO,29,Meu caro visconde,minor,4,1,1
+BOSCO,29,Meu caro visconde,minor,5,5,5
+BOSCO,29,Meu caro visconde,minor,6,1,1
+BOSCO,29,Meu caro visconde,minor,7,b7,7
+BOSCO,29,Meu caro visconde,minor,8,1,1
+BOSCO,29,Meu caro visconde,minor,9,6,6
+BOSCO,29,Meu caro visconde,minor,10,1,1
+BOSCO,29,Meu caro visconde,minor,11,5,5
+BOSCO,29,Meu caro visconde,minor,12,4,11
+BOSCO,29,Meu caro visconde,minor,13,5,5
+BOSCO,29,Meu caro visconde,minor,14,1,1
+BOSCO,29,Meu caro visconde,minor,15,5,5
+BOSCO,29,Meu caro visconde,minor,16,b7,7
+BOSCO,29,Meu caro visconde,minor,17,1,1
+BOSCO,29,Meu caro visconde,minor,18,b7,7
+BOSCO,29,Meu caro visconde,minor,19,5,5
+BOSCO,29,Meu caro visconde,minor,20,6,3
+BOSCO,29,Meu caro visconde,minor,21,4,1
+BOSCO,29,Meu caro visconde,minor,22,1,5
+BOSCO,29,Meu caro visconde,minor,23,5,9
+BOSCO,29,Meu caro visconde,minor,24,b7,7
+BOSCO,29,Meu caro visconde,minor,25,5,5
+BOSCO,29,Meu caro visconde,minor,26,b7,7
+BOSCO,29,Meu caro visconde,minor,27,1,1
+BOSCO,29,Meu caro visconde,minor,28,b7,7
+BOSCO,29,Meu caro visconde,minor,29,6,3
+BOSCO,29,Meu caro visconde,minor,30,4,1
+BOSCO,29,Meu caro visconde,minor,31,5,9
+BOSCO,29,Meu caro visconde,minor,32,4,1
+BOSCO,29,Meu caro visconde,minor,33,3,7
+BOSCO,29,Meu caro visconde,minor,34,1,5
+BOSCO,29,Meu caro visconde,minor,35,4,6
+BOSCO,29,Meu caro visconde,minor,36,5,x
+BOSCO,29,Meu caro visconde,minor,37,4,6
+BOSCO,29,Meu caro visconde,minor,38,3,1
+BOSCO,29,Meu caro visconde,minor,39,4,7
+BOSCO,29,Meu caro visconde,minor,40,5,1
+BOSCO,29,Meu caro visconde,minor,41,4,x
+BOSCO,29,Meu caro visconde,minor,42,5,5
+BOSCO,29,Meu caro visconde,minor,43,4,x
+BOSCO,29,Meu caro visconde,minor,44,3,7
+BOSCO,29,Meu caro visconde,minor,45,1,5
+BOSCO,29,Meu caro visconde,minor,46,4,5
+BOSCO,29,Meu caro visconde,minor,47,5,x
+BOSCO,29,Meu caro visconde,minor,48,4,5
+BOSCO,29,Meu caro visconde,minor,49,3,x
+BOSCO,29,Meu caro visconde,minor,50,4,5
+BOSCO,29,Meu caro visconde,minor,51,5,6
+BOSCO,29,Meu caro visconde,minor,52,4,b13
+BOSCO,29,Meu caro visconde,minor,53,5,x
+BOSCO,29,Meu caro visconde,minor,54,4,6
+BOSCO,29,Meu caro visconde,minor,55,3,5
+BOSCO,29,Meu caro visconde,minor,56,4,x
+BOSCO,29,Meu caro visconde,minor,57,5,1
+BOSCO,29,Meu caro visconde,minor,58,5,5
+BOSCO,29,Meu caro visconde,minor,59,1,1
+BOSCO,29,Meu caro visconde,minor,60,4,1
+BOSCO,29,Meu caro visconde,minor,61,3,7
+BOSCO,29,Meu caro visconde,minor,62,4,1
+BOSCO,29,Meu caro visconde,minor,63,3,7
+BOSCO,29,Meu caro visconde,minor,64,4,7
+BOSCO,29,Meu caro visconde,minor,65,3,x
+BOSCO,29,Meu caro visconde,minor,66,4,7
+BOSCO,29,Meu caro visconde,minor,67,5,1
+BOSCO,29,Meu caro visconde,minor,68,4,x
+BOSCO,29,Meu caro visconde,minor,69,3,3
+BOSCO,29,Meu caro visconde,minor,70,1,1
+BOSCO,30,Nacao,major,1,4,3
+BOSCO,30,Nacao,major,2,3,9
+BOSCO,30,Nacao,major,3,5,11
+BOSCO,30,Nacao,major,4,6,x
+BOSCO,30,Nacao,major,5,5,11
+BOSCO,30,Nacao,major,6,2,1
+BOSCO,30,Nacao,major,7,2,11
+BOSCO,30,Nacao,major,8,1,3
+BOSCO,30,Nacao,major,9,7,9
+BOSCO,30,Nacao,major,10,2,11
+BOSCO,30,Nacao,major,11,3,x
+BOSCO,30,Nacao,major,12,2,11
+BOSCO,30,Nacao,major,13,1,3
+BOSCO,30,Nacao,major,14,6,1
+BOSCO,30,Nacao,major,15,2,b13
+BOSCO,30,Nacao,major,16,1,5
+BOSCO,30,Nacao,major,17,#4/b5,1
+BOSCO,30,Nacao,major,18,7,11
+BOSCO,30,Nacao,major,19,6,6
+BOSCO,30,Nacao,major,20,5,5
+BOSCO,30,Nacao,major,21,5,7
+BOSCO,30,Nacao,major,22,7,x
+BOSCO,30,Nacao,major,23,6,5
+BOSCO,30,Nacao,major,24,5,x
+BOSCO,30,Nacao,major,25,#4/b5,x
+BOSCO,30,Nacao,major,26,4,7
+BOSCO,30,Nacao,major,27,7,3
+BOSCO,30,Nacao,major,28,2,9
+BOSCO,30,Nacao,major,29,1,1
+BOSCO,30,Nacao,major,30,7,x
+BOSCO,30,Nacao,major,31,1,1
+BOSCO,30,Nacao,major,32,7,x
+BOSCO,30,Nacao,major,33,6,6
+BOSCO,30,Nacao,major,34,7,x
+BOSCO,30,Nacao,major,35,6,6
+BOSCO,30,Nacao,major,36,3,3
+BOSCO,30,Nacao,major,37,6,6
+BOSCO,30,Nacao,major,38,5,5
+BOSCO,30,Nacao,major,39,3,3
+BOSCO,30,Nacao,major,40,1,1
+BOSCO,30,Nacao,major,41,4,x
+BOSCO,30,Nacao,major,42,3,3
+BOSCO,30,Nacao,major,43,1,1
+BOSCO,30,Nacao,major,44,6,6
+BOSCO,30,Nacao,major,45,5,5
+BOSCO,30,Nacao,major,46,1,1
+BOSCO,30,Nacao,major,47,3,3
+BOSCO,30,Nacao,major,48,5,7
+BOSCO,30,Nacao,major,49,#4/b5,x
+BOSCO,30,Nacao,major,50,4,3
+BOSCO,30,Nacao,major,51,6,5
+BOSCO,31,Quando o amor acontece,major,1,3,3
+BOSCO,31,Quando o amor acontece,major,2,2,x
+BOSCO,31,Quando o amor acontece,major,3,3,3
+BOSCO,31,Quando o amor acontece,major,4,2,x
+BOSCO,31,Quando o amor acontece,major,5,1,1
+BOSCO,31,Quando o amor acontece,major,6,5,5
+BOSCO,31,Quando o amor acontece,major,7,7,7
+BOSCO,31,Quando o amor acontece,major,8,5,5
+BOSCO,31,Quando o amor acontece,major,9,3,3
+BOSCO,31,Quando o amor acontece,major,10,4,x
+BOSCO,31,Quando o amor acontece,major,11,5,5
+BOSCO,31,Quando o amor acontece,major,12,6,6
+BOSCO,31,Quando o amor acontece,major,13,7,x
+BOSCO,31,Quando o amor acontece,major,14,1,13
+BOSCO,31,Quando o amor acontece,major,15,2,14
+BOSCO,31,Quando o amor acontece,major,16,7,b13
+BOSCO,31,Quando o amor acontece,major,17,6,x
+BOSCO,31,Quando o amor acontece,major,18,5,11
+BOSCO,31,Quando o amor acontece,major,19,4,7
+BOSCO,31,Quando o amor acontece,major,20,2,5
+BOSCO,31,Quando o amor acontece,major,21,1,x
+BOSCO,31,Quando o amor acontece,major,22,2,5
+BOSCO,31,Quando o amor acontece,major,23,1,x
+BOSCO,31,Quando o amor acontece,major,24,2,5
+BOSCO,31,Quando o amor acontece,major,25,1,x
+BOSCO,31,Quando o amor acontece,major,26,7,3
+BOSCO,31,Quando o amor acontece,major,27,4,3
+BOSCO,31,Quando o amor acontece,major,28,1,7
+BOSCO,31,Quando o amor acontece,major,29,7,x
+BOSCO,31,Quando o amor acontece,major,30,6,5
+BOSCO,31,Quando o amor acontece,major,31,2,5
+BOSCO,31,Quando o amor acontece,major,32,3,x
+BOSCO,31,Quando o amor acontece,major,33,4,7
+BOSCO,31,Quando o amor acontece,major,34,5,1
+BOSCO,31,Quando o amor acontece,major,35,6,9
+BOSCO,31,Quando o amor acontece,major,36,7,3
+BOSCO,31,Quando o amor acontece,major,37,1,x
+BOSCO,31,Quando o amor acontece,major,38,2,5
+BOSCO,31,Quando o amor acontece,major,39,3,x
+BOSCO,31,Quando o amor acontece,major,40,4,x
+BOSCO,31,Quando o amor acontece,major,41,3,13
+BOSCO,31,Quando o amor acontece,major,42,6,9
+BOSCO,31,Quando o amor acontece,major,43,3,3
+BOSCO,31,Quando o amor acontece,major,44,5,5
+BOSCO,32,Nossas ultimas viagens,major,1,5,7
+BOSCO,32,Nossas ultimas viagens,major,2,4,x
+BOSCO,32,Nossas ultimas viagens,major,3,3,5
+BOSCO,32,Nossas ultimas viagens,major,4,6,5
+BOSCO,32,Nossas ultimas viagens,major,5,4,1
+BOSCO,32,Nossas ultimas viagens,major,6,3,x
+BOSCO,32,Nossas ultimas viagens,major,7,2,6
+BOSCO,32,Nossas ultimas viagens,major,8,5,3
+BOSCO,32,Nossas ultimas viagens,major,9,3,5
+BOSCO,32,Nossas ultimas viagens,major,10,2,x
+BOSCO,32,Nossas ultimas viagens,major,11,1,3
+BOSCO,32,Nossas ultimas viagens,major,12,4,3
+BOSCO,32,Nossas ultimas viagens,major,13,2,5
+BOSCO,32,Nossas ultimas viagens,major,14,1,x
+BOSCO,32,Nossas ultimas viagens,major,15,7,3
+BOSCO,32,Nossas ultimas viagens,major,16,3,3
+BOSCO,32,Nossas ultimas viagens,major,17,1,1
+BOSCO,32,Nossas ultimas viagens,major,18,6,13
+BOSCO,32,Nossas ultimas viagens,major,19,1,5
+BOSCO,32,Nossas ultimas viagens,major,20,7,11
+BOSCO,32,Nossas ultimas viagens,major,21,6,x
+BOSCO,32,Nossas ultimas viagens,major,22,5,b13
+BOSCO,32,Nossas ultimas viagens,major,23,7,5
+BOSCO,32,Nossas ultimas viagens,major,24,6,1
+BOSCO,32,Nossas ultimas viagens,major,25,5,x
+BOSCO,32,Nossas ultimas viagens,major,26,4,b13
+BOSCO,32,Nossas ultimas viagens,major,27,6,5
+BOSCO,32,Nossas ultimas viagens,major,28,5,1
+BOSCO,32,Nossas ultimas viagens,major,29,4,x
+BOSCO,32,Nossas ultimas viagens,major,30,3,13
+BOSCO,32,Nossas ultimas viagens,major,31,5,3
+BOSCO,33,Plataforma,major,1,3,3
+BOSCO,33,Plataforma,major,2,4,x
+BOSCO,33,Plataforma,major,3,5,5
+BOSCO,33,Plataforma,major,4,4,x
+BOSCO,33,Plataforma,major,5,3,3
+BOSCO,33,Plataforma,major,6,5,5
+BOSCO,33,Plataforma,major,7,3,3
+BOSCO,33,Plataforma,major,8,4,x
+BOSCO,33,Plataforma,major,9,5,5
+BOSCO,33,Plataforma,major,10,4,x
+BOSCO,33,Plataforma,major,11,3,3
+BOSCO,33,Plataforma,major,12,5,13
+BOSCO,33,Plataforma,major,13,3,#11
+BOSCO,33,Plataforma,major,14,4,x
+BOSCO,33,Plataforma,major,15,5,7
+BOSCO,33,Plataforma,major,16,4,x
+BOSCO,33,Plataforma,major,17,3,5
+BOSCO,33,Plataforma,major,18,2,1
+BOSCO,33,Plataforma,major,19,3,x
+BOSCO,33,Plataforma,major,20,4,3
+BOSCO,33,Plataforma,major,21,3,x
+BOSCO,33,Plataforma,major,22,2,1
+BOSCO,33,Plataforma,major,23,4,3
+BOSCO,33,Plataforma,major,24,2,1
+BOSCO,33,Plataforma,major,25,3,x
+BOSCO,33,Plataforma,major,26,4,3
+BOSCO,33,Plataforma,major,27,3,x
+BOSCO,33,Plataforma,major,28,2,1
+BOSCO,33,Plataforma,major,29,4,7
+BOSCO,33,Plataforma,major,30,2,5
+BOSCO,33,Plataforma,major,31,3,x
+BOSCO,33,Plataforma,major,32,4,7
+BOSCO,33,Plataforma,major,33,5,x
+BOSCO,33,Plataforma,major,34,6,9
+BOSCO,33,Plataforma,major,35,7,3
+BOSCO,33,Plataforma,major,36,6,6
+BOSCO,33,Plataforma,major,37,3,3
+BOSCO,33,Plataforma,major,38,5,5
+BOSCO,33,Plataforma,major,39,3,3
+BOSCO,33,Plataforma,major,40,4,x
+BOSCO,33,Plataforma,major,41,5,5
+BOSCO,33,Plataforma,major,42,4,x
+BOSCO,33,Plataforma,major,43,3,3
+BOSCO,33,Plataforma,major,44,5,5
+BOSCO,33,Plataforma,major,45,6,x
+BOSCO,33,Plataforma,major,46,#6/b7,7
+BOSCO,33,Plataforma,major,47,6,x
+BOSCO,33,Plataforma,major,48,5,5
+BOSCO,33,Plataforma,major,49,#6/b7,7
+BOSCO,33,Plataforma,major,50,5,5
+BOSCO,33,Plataforma,major,51,6,x
+BOSCO,33,Plataforma,major,52,#6/b7,7
+BOSCO,33,Plataforma,major,53,1,1
+BOSCO,33,Plataforma,major,54,2,x
+BOSCO,33,Plataforma,major,55,3,3
+BOSCO,33,Plataforma,major,56,2,6
+BOSCO,33,Plataforma,major,57,6,3
+BOSCO,33,Plataforma,major,58,2,6
+BOSCO,33,Plataforma,major,59,1,1
+BOSCO,33,Plataforma,major,60,4,14
+BOSCO,33,Plataforma,major,61,3,x
+BOSCO,33,Plataforma,major,62,2,b13
+BOSCO,33,Plataforma,major,63,1,5
+BOSCO,33,Plataforma,major,64,7,x
+BOSCO,33,Plataforma,major,65,6,3
+BOSCO,33,Plataforma,major,66,1,1
+BOSCO,33,Plataforma,major,67,3,#11
+BOSCO,33,Plataforma,major,68,2,x
+BOSCO,33,Plataforma,major,69,1,3
+BOSCO,33,Plataforma,major,70,7,x
+BOSCO,33,Plataforma,major,71,6,1
+BOSCO,33,Plataforma,major,72,5,7
+BOSCO,33,Plataforma,major,73,4,3
+BOSCO,33,Plataforma,major,74,2,1
+BOSCO,33,Plataforma,major,75,5,11
+BOSCO,33,Plataforma,major,76,6,x
+BOSCO,33,Plataforma,major,77,7,3
+BOSCO,33,Plataforma,major,78,1,x
+BOSCO,33,Plataforma,major,79,2,5
+BOSCO,33,Plataforma,major,80,3,13
+BOSCO,33,Plataforma,major,81,1,1
+BOSCO,34,Querido diario,minor,1,5,5
+BOSCO,34,Querido diario,minor,2,1,1
+BOSCO,34,Querido diario,minor,3,2,x
+BOSCO,34,Querido diario,minor,4,3,x
+BOSCO,34,Querido diario,minor,5,4,3
+BOSCO,34,Querido diario,minor,6,5,x
+BOSCO,34,Querido diario,minor,7,6,5
+BOSCO,34,Querido diario,minor,8,5,x
+BOSCO,34,Querido diario,minor,9,4,5
+BOSCO,34,Querido diario,minor,10,4,7
+BOSCO,34,Querido diario,minor,11,5,x
+BOSCO,34,Querido diario,minor,12,6,b9/#9
+BOSCO,34,Querido diario,minor,13,5,1
+BOSCO,34,Querido diario,minor,14,2,5
+BOSCO,34,Querido diario,minor,15,5,1
+BOSCO,34,Querido diario,minor,16,4,x
+BOSCO,34,Querido diario,minor,17,#3,3
+BOSCO,34,Querido diario,minor,18,4,7
+BOSCO,34,Querido diario,minor,19,5,x
+BOSCO,34,Querido diario,minor,20,6,b9/#9
+BOSCO,34,Querido diario,minor,21,5,1
+BOSCO,34,Querido diario,minor,22,2,5
+BOSCO,34,Querido diario,minor,23,5,1
+BOSCO,34,Querido diario,minor,24,2,x
+BOSCO,34,Querido diario,minor,25,1,1
+BOSCO,35,Samba do pouso,major,1,5,5
+BOSCO,35,Samba do pouso,major,2,3,3
+BOSCO,35,Samba do pouso,major,3,5,11
+BOSCO,35,Samba do pouso,major,4,3,1
+BOSCO,35,Samba do pouso,major,5,2,7
+BOSCO,35,Samba do pouso,major,6,3,x
+BOSCO,35,Samba do pouso,major,7,4,b13
+BOSCO,35,Samba do pouso,major,8,3,5
+BOSCO,35,Samba do pouso,major,9,2,x
+BOSCO,35,Samba do pouso,major,10,3,5
+BOSCO,35,Samba do pouso,major,11,4,3
+BOSCO,35,Samba do pouso,major,12,6,5
+BOSCO,35,Samba do pouso,major,13,4,3
+BOSCO,35,Samba do pouso,major,14,#4/b5,3
+BOSCO,35,Samba do pouso,major,15,7,b13
+BOSCO,35,Samba do pouso,major,16,#4/b5,x
+BOSCO,35,Samba do pouso,major,17,5,3
+BOSCO,35,Samba do pouso,major,18,6,x
+BOSCO,35,Samba do pouso,major,19,5,3
+BOSCO,35,Samba do pouso,major,20,1,b13
+BOSCO,35,Samba do pouso,major,21,1,11
+BOSCO,35,Samba do pouso,major,22,1,1
+BOSCO,35,Samba do pouso,major,23,3,3
+BOSCO,35,Samba do pouso,major,24,2,x
+BOSCO,35,Samba do pouso,major,25,1,1
+BOSCO,35,Samba do pouso,major,26,7,#11
+BOSCO,35,Samba do pouso,major,27,7,3
+BOSCO,35,Samba do pouso,major,28,5,3
+BOSCO,35,Samba do pouso,major,29,5,7
+BOSCO,35,Samba do pouso,major,30,3,x
+BOSCO,35,Samba do pouso,major,31,4,3
+BOSCO,35,Samba do pouso,major,32,6,5
+BOSCO,35,Samba do pouso,major,33,1,7
+BOSCO,35,Samba do pouso,major,34,7,3
+BOSCO,35,Samba do pouso,major,35,6,x
+BOSCO,35,Samba do pouso,major,36,7,3
+BOSCO,35,Samba do pouso,major,37,7,14
+BOSCO,35,Samba do pouso,major,38,5,5
+BOSCO,35,Samba do pouso,major,39,3,x
+BOSCO,35,Samba do pouso,major,40,4,3
+BOSCO,35,Samba do pouso,major,41,6,5
+BOSCO,35,Samba do pouso,major,42,1,7
+BOSCO,35,Samba do pouso,major,43,7,3
+BOSCO,35,Samba do pouso,major,44,6,x
+BOSCO,35,Samba do pouso,major,45,7,3
+BOSCO,35,Samba do pouso,major,46,7,7
+BOSCO,36,Nesta data,major,1,5,5
+BOSCO,36,Nesta data,major,2,5,1
+BOSCO,36,Nesta data,major,3,6,x
+BOSCO,36,Nesta data,major,4,7,3
+BOSCO,36,Nesta data,major,5,5,1
+BOSCO,36,Nesta data,major,6,#4/b5,5
+BOSCO,36,Nesta data,major,7,#4/b5,x
+BOSCO,36,Nesta data,major,8,5,5
+BOSCO,36,Nesta data,major,9,6,x
+BOSCO,36,Nesta data,major,10,3,3
+BOSCO,36,Nesta data,major,11,3,1
+BOSCO,36,Nesta data,major,12,3,3
+BOSCO,36,Nesta data,major,13,4,x
+BOSCO,36,Nesta data,major,14,5,5
+BOSCO,36,Nesta data,major,15,3,3
+BOSCO,36,Nesta data,major,16,3,1
+BOSCO,36,Nesta data,major,17,3,3
+BOSCO,36,Nesta data,major,18,4,x
+BOSCO,36,Nesta data,major,19,5,5
+BOSCO,36,Nesta data,major,20,3,3
+BOSCO,36,Nesta data,major,21,2,3
+BOSCO,36,Nesta data,major,22,3,1
+BOSCO,36,Nesta data,major,23,3,3
+BOSCO,36,Nesta data,major,24,4,x
+BOSCO,36,Nesta data,major,25,3,3
+BOSCO,36,Nesta data,major,26,7,7
+BOSCO,36,Nesta data,major,27,2,3
+BOSCO,37,Profissionalismo e isso ai,major,1,3,3
+BOSCO,37,Profissionalismo e isso ai,major,2,5,5
+BOSCO,37,Profissionalismo e isso ai,major,3,3,3
+BOSCO,37,Profissionalismo e isso ai,major,4,5,5
+BOSCO,37,Profissionalismo e isso ai,major,5,6,x
+BOSCO,37,Profissionalismo e isso ai,major,6,5,5
+BOSCO,37,Profissionalismo e isso ai,major,7,3,3
+BOSCO,37,Profissionalismo e isso ai,major,8,1,5
+BOSCO,37,Profissionalismo e isso ai,major,9,6,3
+BOSCO,37,Profissionalismo e isso ai,major,10,5,9
+BOSCO,37,Profissionalismo e isso ai,major,11,5,5
+BOSCO,37,Profissionalismo e isso ai,major,12,3,3
+BOSCO,37,Profissionalismo e isso ai,major,13,5,5
+BOSCO,37,Profissionalismo e isso ai,major,14,3,3
+BOSCO,37,Profissionalismo e isso ai,major,15,5,5
+BOSCO,37,Profissionalismo e isso ai,major,16,6,x
+BOSCO,37,Profissionalismo e isso ai,major,17,5,5
+BOSCO,37,Profissionalismo e isso ai,major,18,3,3
+BOSCO,37,Profissionalismo e isso ai,major,19,1,5
+BOSCO,37,Profissionalismo e isso ai,major,20,6,3
+BOSCO,37,Profissionalismo e isso ai,major,21,5,9
+BOSCO,37,Profissionalismo e isso ai,major,22,5,5
+BOSCO,37,Profissionalismo e isso ai,major,23,3,3
+BOSCO,37,Profissionalismo e isso ai,major,24,5,5
+BOSCO,37,Profissionalismo e isso ai,major,25,3,3
+BOSCO,37,Profissionalismo e isso ai,major,26,5,5
+BOSCO,37,Profissionalismo e isso ai,major,27,6,x
+BOSCO,37,Profissionalismo e isso ai,major,28,5,5
+BOSCO,37,Profissionalismo e isso ai,major,29,3,3
+BOSCO,37,Profissionalismo e isso ai,major,30,1,5
+BOSCO,37,Profissionalismo e isso ai,major,31,6,3
+BOSCO,37,Profissionalismo e isso ai,major,32,1,5
+BOSCO,37,Profissionalismo e isso ai,major,33,6,3
+BOSCO,37,Profissionalismo e isso ai,major,34,1,b13
+BOSCO,37,Profissionalismo e isso ai,major,35,6,#11
+BOSCO,37,Profissionalismo e isso ai,major,36,1,13
+BOSCO,37,Profissionalismo e isso ai,major,37,6,5
+BOSCO,37,Profissionalismo e isso ai,major,38,1,7
+BOSCO,37,Profissionalismo e isso ai,major,39,6,5
+BOSCO,37,Profissionalismo e isso ai,major,40,1,7
+BOSCO,37,Profissionalismo e isso ai,major,41,6,13
+BOSCO,37,Profissionalismo e isso ai,major,42,1,1
+BOSCO,37,Profissionalismo e isso ai,major,43,1,1
+BOSCO,37,Profissionalismo e isso ai,major,44,#6/b7,7
+BOSCO,37,Profissionalismo e isso ai,major,45,1,5
+BOSCO,37,Profissionalismo e isso ai,major,46,5,5
+BOSCO,37,Profissionalismo e isso ai,major,47,1,1
+BOSCO,37,Profissionalismo e isso ai,major,48,#6/b7,7
+BOSCO,37,Profissionalismo e isso ai,major,49,1,5
+BOSCO,37,Profissionalismo e isso ai,major,50,#6/b7,7
+BOSCO,37,Profissionalismo e isso ai,major,51,1,5
+BOSCO,37,Profissionalismo e isso ai,major,52,#6/b7,7
+BOSCO,37,Profissionalismo e isso ai,major,53,1,5
+BOSCO,37,Profissionalismo e isso ai,major,54,#6/b7,7
+BOSCO,37,Profissionalismo e isso ai,major,55,4,x
+BOSCO,37,Profissionalismo e isso ai,major,56,#6/b7,b9/#9
+BOSCO,37,Profissionalismo e isso ai,major,57,1,1
+BOSCO,38,Siameses,major,1,5,5
+BOSCO,38,Siameses,major,2,6,x
+BOSCO,38,Siameses,major,3,7,7
+BOSCO,38,Siameses,major,4,6,x
+BOSCO,38,Siameses,major,5,5,5
+BOSCO,38,Siameses,major,6,3,5
+BOSCO,38,Siameses,major,7,5,7
+BOSCO,38,Siameses,major,8,4,x
+BOSCO,38,Siameses,major,9,3,5
+BOSCO,38,Siameses,major,10,1,5
+BOSCO,38,Siameses,major,11,2,x
+BOSCO,38,Siameses,major,12,3,7
+BOSCO,38,Siameses,major,13,2,x
+BOSCO,38,Siameses,major,14,1,5
+BOSCO,38,Siameses,major,15,2,6
+BOSCO,38,Siameses,major,16,6,5
+BOSCO,38,Siameses,major,17,1,3
+BOSCO,38,Siameses,major,18,7,9
+BOSCO,38,Siameses,major,19,2,11
+BOSCO,38,Siameses,major,20,1,x
+BOSCO,38,Siameses,major,21,7,9
+BOSCO,38,Siameses,major,22,5,1
+BOSCO,38,Siameses,major,23,6,9
+BOSCO,38,Siameses,major,24,1,11
+BOSCO,38,Siameses,major,25,6,x
+BOSCO,38,Siameses,major,26,5,1
+BOSCO,38,Siameses,major,27,3,x
+BOSCO,38,Siameses,major,28,2,9
+BOSCO,38,Siameses,major,29,3,3
+BOSCO,38,Siameses,major,30,6,13
+BOSCO,38,Siameses,major,31,5,5
+BOSCO,38,Siameses,major,32,4,x
+BOSCO,38,Siameses,major,33,3,3
+BOSCO,38,Siameses,major,34,2,6
+BOSCO,38,Siameses,major,35,3,1
+BOSCO,38,Siameses,major,36,5,3
+BOSCO,38,Siameses,major,37,5,7
+BOSCO,38,Siameses,major,38,4,x
+BOSCO,38,Siameses,major,39,3,5
+BOSCO,38,Siameses,major,40,5,7
+BOSCO,38,Siameses,major,41,#4/b5,x
+BOSCO,38,Siameses,major,42,4,x
+BOSCO,38,Siameses,major,43,3,5
+BOSCO,38,Siameses,major,44,6,1
+BOSCO,38,Siameses,major,45,4,3
+BOSCO,38,Siameses,major,46,3,x
+BOSCO,38,Siameses,major,47,4,7
+BOSCO,38,Siameses,major,48,2,5
+BOSCO,38,Siameses,major,49,3,x
+BOSCO,38,Siameses,major,50,4,7
+BOSCO,38,Siameses,major,51,3,x
+BOSCO,38,Siameses,major,52,2,5
+BOSCO,38,Siameses,major,53,3,13
+BOSCO,38,Siameses,major,54,2,9
+BOSCO,38,Siameses,major,55,5,5
+BOSCO,38,Siameses,major,56,7,5
+BOSCO,38,Siameses,major,57,1,x
+BOSCO,38,Siameses,major,58,2,7
+BOSCO,38,Siameses,major,59,1,x
+BOSCO,38,Siameses,major,60,7,5
+BOSCO,38,Siameses,major,61,3,5
+BOSCO,39,O bebado e a equilibrista,major,1,5,5
+BOSCO,39,O bebado e a equilibrista,major,2,1,1
+BOSCO,39,O bebado e a equilibrista,major,3,1,5
+BOSCO,39,O bebado e a equilibrista,major,4,7,#11
+BOSCO,39,O bebado e a equilibrista,major,5,2,7
+BOSCO,39,O bebado e a equilibrista,major,6,1,x
+BOSCO,39,O bebado e a equilibrista,major,7,7,5
+BOSCO,39,O bebado e a equilibrista,major,8,6,x
+BOSCO,39,O bebado e a equilibrista,major,9,5,9
+BOSCO,39,O bebado e a equilibrista,major,10,3,7
+BOSCO,39,O bebado e a equilibrista,major,11,7,7
+BOSCO,39,O bebado e a equilibrista,major,12,6,3
+BOSCO,39,O bebado e a equilibrista,major,13,1,5
+BOSCO,39,O bebado e a equilibrista,major,14,7,5
+BOSCO,39,O bebado e a equilibrista,major,15,6,x
+BOSCO,39,O bebado e a equilibrista,major,16,5,3
+BOSCO,39,O bebado e a equilibrista,major,17,3,9
+BOSCO,39,O bebado e a equilibrista,major,18,4,x
+BOSCO,39,O bebado e a equilibrista,major,19,5,5
+BOSCO,39,O bebado e a equilibrista,major,20,#6/b7,5
+BOSCO,39,O bebado e a equilibrista,major,21,6,11
+BOSCO,39,O bebado e a equilibrista,major,22,2,x
+BOSCO,39,O bebado e a equilibrista,major,23,#1/b2,3
+BOSCO,39,O bebado e a equilibrista,major,24,3,9
+BOSCO,39,O bebado e a equilibrista,major,25,2,1
+BOSCO,39,O bebado e a equilibrista,major,26,6,5
+BOSCO,39,O bebado e a equilibrista,major,27,2,6
+BOSCO,39,O bebado e a equilibrista,major,28,2,1
+BOSCO,39,O bebado e a equilibrista,major,29,3,x
+BOSCO,39,O bebado e a equilibrista,major,30,4,3
+BOSCO,39,O bebado e a equilibrista,major,31,3,x
+BOSCO,39,O bebado e a equilibrista,major,32,2,1
+BOSCO,39,O bebado e a equilibrista,major,33,1,7
+BOSCO,39,O bebado e a equilibrista,major,34,6,5
+BOSCO,39,O bebado e a equilibrista,major,35,1,5
+BOSCO,39,O bebado e a equilibrista,major,36,1,7
+BOSCO,39,O bebado e a equilibrista,major,37,2,x
+BOSCO,39,O bebado e a equilibrista,major,38,3,9
+BOSCO,39,O bebado e a equilibrista,major,39,2,x
+BOSCO,39,O bebado e a equilibrista,major,40,1,3
+BOSCO,39,O bebado e a equilibrista,major,41,7,x
+BOSCO,39,O bebado e a equilibrista,major,42,6,1
+BOSCO,39,O bebado e a equilibrista,major,43,7,3
+BOSCO,39,O bebado e a equilibrista,major,44,2,5
+BOSCO,39,O bebado e a equilibrista,major,45,3,x
+BOSCO,39,O bebado e a equilibrista,major,46,4,7
+BOSCO,39,O bebado e a equilibrista,major,47,1,7
+BOSCO,39,O bebado e a equilibrista,major,48,7,3
+BOSCO,39,O bebado e a equilibrista,major,49,3,13
+BOSCO,40,Tenho dito,minor,1,5,5
+BOSCO,40,Tenho dito,minor,2,4,x
+BOSCO,40,Tenho dito,minor,3,5,5
+BOSCO,40,Tenho dito,minor,4,4,x
+BOSCO,40,Tenho dito,minor,5,5,5
+BOSCO,40,Tenho dito,minor,6,4,x
+BOSCO,40,Tenho dito,minor,7,5,5
+BOSCO,40,Tenho dito,minor,8,1,1
+BOSCO,40,Tenho dito,minor,9,b7,7
+BOSCO,40,Tenho dito,minor,10,6,6
+BOSCO,40,Tenho dito,minor,11,5,5
+BOSCO,40,Tenho dito,minor,12,3,3
+BOSCO,40,Tenho dito,minor,13,1,1
+BOSCO,40,Tenho dito,minor,14,5,5
+BOSCO,40,Tenho dito,minor,15,4,x
+BOSCO,40,Tenho dito,minor,16,6,x
+BOSCO,40,Tenho dito,minor,17,5,5
+BOSCO,40,Tenho dito,minor,18,3,3
+BOSCO,40,Tenho dito,minor,19,1,1
+BOSCO,40,Tenho dito,minor,20,b7,7
+BOSCO,40,Tenho dito,minor,21,6,6
+BOSCO,40,Tenho dito,minor,22,5,5
+BOSCO,40,Tenho dito,minor,23,1,3
+BOSCO,40,Tenho dito,minor,24,2,5
+BOSCO,40,Tenho dito,minor,25,1,x
+BOSCO,40,Tenho dito,minor,26,2,5
+BOSCO,40,Tenho dito,minor,27,1,x
+BOSCO,40,Tenho dito,minor,28,2,#11
+BOSCO,40,Tenho dito,minor,29,1,x
+BOSCO,40,Tenho dito,minor,30,2,5
+BOSCO,40,Tenho dito,minor,31,3,x
+BOSCO,40,Tenho dito,minor,32,4,7
+BOSCO,40,Tenho dito,minor,33,5,7
+BOSCO,40,Tenho dito,minor,34,4,x
+BOSCO,40,Tenho dito,minor,35,3,5
+BOSCO,40,Tenho dito,minor,36,2,5
+BOSCO,40,Tenho dito,minor,37,7,3
+BOSCO,40,Tenho dito,minor,38,1,1
+BOSCO,41,Trilha sonora,major,1,2,9
+BOSCO,41,Trilha sonora,major,2,1,x
+BOSCO,41,Trilha sonora,major,3,7,7
+BOSCO,41,Trilha sonora,major,4,7,#11
+BOSCO,41,Trilha sonora,major,5,1,5
+BOSCO,41,Trilha sonora,major,6,6,3
+BOSCO,41,Trilha sonora,major,7,5,9
+BOSCO,41,Trilha sonora,major,8,7,x
+BOSCO,41,Trilha sonora,major,9,1,5
+BOSCO,41,Trilha sonora,major,10,2,x
+BOSCO,41,Trilha sonora,major,11,1,b13
+BOSCO,41,Trilha sonora,major,12,7,5
+BOSCO,41,Trilha sonora,major,13,6,x
+BOSCO,41,Trilha sonora,major,14,7,9
+BOSCO,41,Trilha sonora,major,15,3,5
+BOSCO,41,Trilha sonora,major,16,5,11
+BOSCO,41,Trilha sonora,major,17,4,x
+BOSCO,41,Trilha sonora,major,18,3,9
+BOSCO,41,Trilha sonora,major,19,2,3
+BOSCO,41,Trilha sonora,major,20,#1/b2,3
+BOSCO,41,Trilha sonora,major,21,6,1
+BOSCO,41,Trilha sonora,major,22,2,x
+BOSCO,41,Trilha sonora,major,23,3,9
+BOSCO,41,Trilha sonora,major,24,1,x
+BOSCO,41,Trilha sonora,major,25,2,1
+BOSCO,41,Trilha sonora,major,26,3,9
+BOSCO,41,Trilha sonora,major,27,4,x
+BOSCO,41,Trilha sonora,major,28,5,13
+BOSCO,41,Trilha sonora,major,29,3,x
+BOSCO,41,Trilha sonora,major,30,4,5
+BOSCO,41,Trilha sonora,major,31,2,3
+BOSCO,41,Trilha sonora,major,32,5,13
+BOSCO,41,Trilha sonora,major,33,#5/b6,x
+BOSCO,41,Trilha sonora,major,34,#6/b7,13
+BOSCO,41,Trilha sonora,major,35,5,x
+BOSCO,41,Trilha sonora,major,36,#5/b6,5
+BOSCO,41,Trilha sonora,major,37,1,x
+BOSCO,41,Trilha sonora,major,38,7,7
+BOSCO,41,Trilha sonora,major,39,1,1
+BOSCO,41,Trilha sonora,major,40,6,x
+BOSCO,41,Trilha sonora,major,41,7,7
+BOSCO,41,Trilha sonora,major,42,3,3
+BOSCO,41,Trilha sonora,major,43,7,7
+BOSCO,41,Trilha sonora,major,44,1,x
+BOSCO,41,Trilha sonora,major,45,2,5
+BOSCO,41,Trilha sonora,major,46,7,x
+BOSCO,41,Trilha sonora,major,47,1,11
+BOSCO,41,Trilha sonora,major,48,2,5
+BOSCO,41,Trilha sonora,major,49,3,7
+BOSCO,41,Trilha sonora,major,50,2,x
+BOSCO,41,Trilha sonora,major,51,1,5
+BOSCO,41,Trilha sonora,major,52,1,9
+BOSCO,41,Trilha sonora,major,53,#5/b6,7
+BOSCO,41,Trilha sonora,major,54,7,9
+BOSCO,41,Trilha sonora,major,55,2,3
+BOSCO,41,Trilha sonora,major,56,7,9
+BOSCO,41,Trilha sonora,major,57,5,7
+BOSCO,41,Trilha sonora,major,58,3,5
+BOSCO,41,Trilha sonora,major,59,7,9
+BOSCO,42,Oficio de um puxador,major,1,1,1
+BOSCO,42,Oficio de um puxador,major,2,7,x
+BOSCO,42,Oficio de um puxador,major,3,6,6
+BOSCO,42,Oficio de um puxador,major,4,5,5
+BOSCO,42,Oficio de um puxador,major,5,3,3
+BOSCO,42,Oficio de um puxador,major,6,2,x
+BOSCO,42,Oficio de um puxador,major,7,1,1
+BOSCO,42,Oficio de um puxador,major,8,7,x
+BOSCO,42,Oficio de um puxador,major,9,6,1
+BOSCO,42,Oficio de um puxador,major,10,7,x
+BOSCO,42,Oficio de um puxador,major,11,#1/b2,3
+BOSCO,42,Oficio de um puxador,major,12,3,5
+BOSCO,42,Oficio de um puxador,major,13,6,1
+BOSCO,42,Oficio de um puxador,major,14,2,1
+BOSCO,42,Oficio de um puxador,major,15,3,x
+BOSCO,42,Oficio de um puxador,major,16,#4/b5,3
+BOSCO,42,Oficio de um puxador,major,17,6,5
+BOSCO,42,Oficio de um puxador,major,18,2,1
+BOSCO,42,Oficio de um puxador,major,19,7,13
+BOSCO,42,Oficio de um puxador,major,20,6,9
+BOSCO,42,Oficio de um puxador,major,21,5,1
+BOSCO,42,Oficio de um puxador,major,22,4,7
+BOSCO,42,Oficio de um puxador,major,23,1,1
+BOSCO,42,Oficio de um puxador,major,24,7,x
+BOSCO,42,Oficio de um puxador,major,25,6,6
+BOSCO,42,Oficio de um puxador,major,26,5,5
+BOSCO,42,Oficio de um puxador,major,27,3,3
+BOSCO,42,Oficio de um puxador,major,28,2,x
+BOSCO,42,Oficio de um puxador,major,29,1,1
+BOSCO,42,Oficio de um puxador,major,30,7,x
+BOSCO,42,Oficio de um puxador,major,31,6,1
+BOSCO,42,Oficio de um puxador,major,32,7,x
+BOSCO,42,Oficio de um puxador,major,33,#1/b2,3
+BOSCO,42,Oficio de um puxador,major,34,3,5
+BOSCO,42,Oficio de um puxador,major,35,6,1
+BOSCO,42,Oficio de um puxador,major,36,2,1
+BOSCO,42,Oficio de um puxador,major,37,3,x
+BOSCO,42,Oficio de um puxador,major,38,#4/b5,3
+BOSCO,42,Oficio de um puxador,major,39,6,5
+BOSCO,42,Oficio de um puxador,major,40,5,1
+BOSCO,42,Oficio de um puxador,major,41,6,x
+BOSCO,42,Oficio de um puxador,major,42,7,3
+BOSCO,42,Oficio de um puxador,major,43,2,9
+BOSCO,43,Papel mache,major,1,3,7
+BOSCO,43,Papel mache,major,2,1,7
+BOSCO,43,Papel mache,major,3,2,9
+BOSCO,43,Papel mache,major,4,1,x
+BOSCO,43,Papel mache,major,5,2,9
+BOSCO,43,Papel mache,major,6,5,5
+BOSCO,43,Papel mache,major,7,6,x
+BOSCO,43,Papel mache,major,8,7,9
+BOSCO,43,Papel mache,major,9,6,x
+BOSCO,43,Papel mache,major,10,7,9
+BOSCO,43,Papel mache,major,11,6,1
+BOSCO,43,Papel mache,major,12,3,5
+BOSCO,43,Papel mache,major,13,5,9
+BOSCO,43,Papel mache,major,14,3,x
+BOSCO,43,Papel mache,major,15,4,1
+BOSCO,43,Papel mache,major,16,#5/b6,3
+BOSCO,43,Papel mache,major,17,1,5
+BOSCO,43,Papel mache,major,18,5,1
+BOSCO,43,Papel mache,major,19,5,#11
+BOSCO,43,Papel mache,major,20,4,3
+BOSCO,43,Papel mache,major,21,3,b9/#9
+BOSCO,43,Papel mache,major,22,5,5
+BOSCO,43,Papel mache,major,23,3,3
+BOSCO,43,Papel mache,major,24,5,5
+BOSCO,43,Papel mache,major,25,1,x
+BOSCO,43,Papel mache,major,26,2,7
+BOSCO,43,Papel mache,major,27,3,5
+BOSCO,43,Papel mache,major,28,4,x
+BOSCO,43,Papel mache,major,29,3,5
+BOSCO,43,Papel mache,major,30,#1/b2,3
+BOSCO,43,Papel mache,major,31,3,9
+BOSCO,43,Papel mache,major,32,3,13
+BOSCO,43,Papel mache,major,33,3,b9/#9
+BOSCO,43,Papel mache,major,34,3,3
+BOSCO,43,Papel mache,major,35,1,1
+BOSCO,43,Papel mache,major,36,3,1
+BOSCO,43,Papel mache,major,37,7,9
+BOSCO,43,Papel mache,major,38,#6/b7,x
+BOSCO,43,Papel mache,major,39,6,1
+BOSCO,43,Papel mache,major,40,5,9
+BOSCO,43,Papel mache,major,41,4,x
+BOSCO,43,Papel mache,major,42,5,9
+BOSCO,43,Papel mache,major,43,4,x
+BOSCO,43,Papel mache,major,44,3,9
+BOSCO,43,Papel mache,major,45,2,x
+BOSCO,43,Papel mache,major,46,3,9
+BOSCO,43,Papel mache,major,47,2,1
+BOSCO,43,Papel mache,major,48,1,x
+BOSCO,43,Papel mache,major,49,7,5
+BOSCO,43,Papel mache,major,50,#6/b7,b9/#9
+BOSCO,43,Papel mache,major,51,1,5
+BOSCO,43,Papel mache,major,52,6,3
+BOSCO,43,Papel mache,major,53,5,11
+BOSCO,43,Papel mache,major,54,4,x
+BOSCO,43,Papel mache,major,55,3,9
+BOSCO,43,Papel mache,major,56,7,7
+BOSCO,43,Papel mache,major,57,#6/b7,x
+BOSCO,43,Papel mache,major,58,7,7
+BOSCO,43,Papel mache,major,59,#4/b5,x
+BOSCO,43,Papel mache,major,60,5,5
+BOSCO,43,Papel mache,major,61,4,b13
+BOSCO,43,Papel mache,major,62,3,x
+BOSCO,43,Papel mache,major,63,2,1
+BOSCO,43,Papel mache,major,64,6,5
+BOSCO,43,Papel mache,major,65,4,b9/#9
+BOSCO,43,Papel mache,major,66,3,13
+BOSCO,43,Papel mache,major,67,3,b9/#9
+BOSCO,43,Papel mache,major,68,3,3
+BOSCO,43,Papel mache,major,69,1,1
+BOSCO,44,Violeta de Belford Roxo,minor,1,5,5
+BOSCO,44,Violeta de Belford Roxo,minor,2,3,3
+BOSCO,44,Violeta de Belford Roxo,minor,3,2,x
+BOSCO,44,Violeta de Belford Roxo,minor,4,1,1
+BOSCO,44,Violeta de Belford Roxo,minor,5,2,x
+BOSCO,44,Violeta de Belford Roxo,minor,6,3,3
+BOSCO,44,Violeta de Belford Roxo,minor,7,2,x
+BOSCO,44,Violeta de Belford Roxo,minor,8,1,1
+BOSCO,44,Violeta de Belford Roxo,minor,9,5,5
+BOSCO,44,Violeta de Belford Roxo,minor,10,3,3
+BOSCO,44,Violeta de Belford Roxo,minor,11,2,x
+BOSCO,44,Violeta de Belford Roxo,minor,12,1,1
+BOSCO,44,Violeta de Belford Roxo,minor,13,3,3
+BOSCO,44,Violeta de Belford Roxo,minor,14,2,x
+BOSCO,44,Violeta de Belford Roxo,minor,15,1,1
+BOSCO,44,Violeta de Belford Roxo,minor,16,4,1
+BOSCO,44,Violeta de Belford Roxo,minor,17,4,9
+BOSCO,44,Violeta de Belford Roxo,minor,18,4,x
+BOSCO,44,Violeta de Belford Roxo,minor,19,5,3
+BOSCO,44,Violeta de Belford Roxo,minor,20,2,7
+BOSCO,44,Violeta de Belford Roxo,minor,21,4,1
+BOSCO,44,Violeta de Belford Roxo,minor,22,4,9
+BOSCO,44,Violeta de Belford Roxo,minor,23,2,7
+BOSCO,44,Violeta de Belford Roxo,minor,24,1,1
+BOSCO,44,Violeta de Belford Roxo,minor,25,4,1
+BOSCO,44,Violeta de Belford Roxo,minor,26,5,5
+BOSCO,44,Violeta de Belford Roxo,minor,27,1,1
+BOSCO,44,Violeta de Belford Roxo,minor,28,#1/b2,3
+BOSCO,44,Violeta de Belford Roxo,minor,29,1,x
+BOSCO,44,Violeta de Belford Roxo,minor,30,#1/b2,3
+BOSCO,44,Violeta de Belford Roxo,minor,31,2,#11
+BOSCO,44,Violeta de Belford Roxo,minor,32,3,5
+BOSCO,44,Violeta de Belford Roxo,minor,33,2,x
+BOSCO,44,Violeta de Belford Roxo,minor,34,3,5
+BOSCO,44,Violeta de Belford Roxo,minor,35,2,5
+BOSCO,44,Violeta de Belford Roxo,minor,36,3,b13
+BOSCO,44,Violeta de Belford Roxo,minor,37,2,x
+BOSCO,44,Violeta de Belford Roxo,minor,38,3,b13
+BOSCO,44,Violeta de Belford Roxo,minor,39,2,9
+BOSCO,45,Siri recheado e o cacete,major,1,6,6
+BOSCO,45,Siri recheado e o cacete,major,2,1,1
+BOSCO,45,Siri recheado e o cacete,major,3,7,7
+BOSCO,45,Siri recheado e o cacete,major,4,5,5
+BOSCO,45,Siri recheado e o cacete,major,5,6,6
+BOSCO,45,Siri recheado e o cacete,major,6,7,x
+BOSCO,45,Siri recheado e o cacete,major,7,1,1
+BOSCO,45,Siri recheado e o cacete,major,8,3,3
+BOSCO,45,Siri recheado e o cacete,major,9,5,5
+BOSCO,45,Siri recheado e o cacete,major,10,3,3
+BOSCO,45,Siri recheado e o cacete,major,11,2,x
+BOSCO,45,Siri recheado e o cacete,major,12,1,1
+BOSCO,45,Siri recheado e o cacete,major,13,5,5
+BOSCO,45,Siri recheado e o cacete,major,14,3,x
+BOSCO,45,Siri recheado e o cacete,major,15,2,x
+BOSCO,45,Siri recheado e o cacete,major,16,1,1
+BOSCO,45,Siri recheado e o cacete,major,17,5,11
+BOSCO,45,Siri recheado e o cacete,major,18,4,3
+BOSCO,45,Siri recheado e o cacete,major,19,2,1
+BOSCO,45,Siri recheado e o cacete,major,20,1,x
+BOSCO,45,Siri recheado e o cacete,major,21,6,1
+BOSCO,45,Siri recheado e o cacete,major,22,2,1
+BOSCO,45,Siri recheado e o cacete,major,23,4,3
+BOSCO,45,Siri recheado e o cacete,major,24,3,x
+BOSCO,45,Siri recheado e o cacete,major,25,2,1
+BOSCO,45,Siri recheado e o cacete,major,26,#1/b2,7
+BOSCO,45,Siri recheado e o cacete,major,27,2,1
+BOSCO,45,Siri recheado e o cacete,major,28,3,3
+BOSCO,45,Siri recheado e o cacete,major,29,5,5
+BOSCO,45,Siri recheado e o cacete,major,30,1,7
+BOSCO,45,Siri recheado e o cacete,major,31,1,5
+BOSCO,45,Siri recheado e o cacete,major,32,2,6
+BOSCO,45,Siri recheado e o cacete,major,33,#1/b2,x
+BOSCO,45,Siri recheado e o cacete,major,34,2,b13
+BOSCO,45,Siri recheado e o cacete,major,35,#2/b3,7
+BOSCO,45,Siri recheado e o cacete,major,36,7,11
+BOSCO,45,Siri recheado e o cacete,major,37,6,6
+BOSCO,45,Siri recheado e o cacete,major,38,5,5
+BOSCO,45,Siri recheado e o cacete,major,39,3,3
+BOSCO,45,Siri recheado e o cacete,major,40,6,x
+BOSCO,45,Siri recheado e o cacete,major,41,5,13
+BOSCO,45,Siri recheado e o cacete,major,42,3,#11
+BOSCO,45,Siri recheado e o cacete,major,43,#1/b2,3
+BOSCO,45,Siri recheado e o cacete,major,44,#6/b7,3
+BOSCO,45,Siri recheado e o cacete,major,45,5,1
+BOSCO,45,Siri recheado e o cacete,major,46,6,9
+BOSCO,45,Siri recheado e o cacete,major,47,5,1
+BOSCO,45,Siri recheado e o cacete,major,48,3,6
+BOSCO,46,Denuncia vazia,major,1,1,1
+BOSCO,46,Denuncia vazia,major,2,6,6
+BOSCO,46,Denuncia vazia,major,3,5,5
+BOSCO,46,Denuncia vazia,major,4,3,3
+BOSCO,46,Denuncia vazia,major,5,1,1
+BOSCO,46,Denuncia vazia,major,6,1,7
+BOSCO,46,Denuncia vazia,major,7,7,7
+BOSCO,46,Denuncia vazia,major,8,3,3
+BOSCO,46,Denuncia vazia,major,9,6,1
+BOSCO,46,Denuncia vazia,major,10,1,3
+BOSCO,46,Denuncia vazia,major,11,5,11
+BOSCO,46,Denuncia vazia,major,12,6,5
+BOSCO,46,Denuncia vazia,major,13,4,1
+BOSCO,46,Denuncia vazia,major,14,#5/b6,3
+BOSCO,46,Denuncia vazia,major,15,3,1
+BOSCO,46,Denuncia vazia,major,16,5,7
+BOSCO,46,Denuncia vazia,major,17,3,9
+BOSCO,46,Denuncia vazia,major,18,1,3
+BOSCO,46,Denuncia vazia,major,19,6,9
+BOSCO,46,Denuncia vazia,major,20,1,1
+BOSCO,47,Tabelas,minor,1,5,1
+BOSCO,47,Tabelas,minor,2,4,x
+BOSCO,47,Tabelas,minor,3,3,b13
+BOSCO,47,Tabelas,minor,4,2,5
+BOSCO,47,Tabelas,minor,5,1,x
+BOSCO,47,Tabelas,minor,6,2,5
+BOSCO,47,Tabelas,minor,7,3,3
+BOSCO,47,Tabelas,minor,8,3,7
+BOSCO,47,Tabelas,minor,9,2,x
+BOSCO,47,Tabelas,minor,10,1,5
+BOSCO,47,Tabelas,minor,11,b7,11
+BOSCO,47,Tabelas,minor,12,6,x
+BOSCO,47,Tabelas,minor,13,b7,11
+BOSCO,47,Tabelas,minor,14,1,1
+BOSCO,47,Tabelas,minor,15,6,3
+BOSCO,47,Tabelas,minor,16,3,7
+BOSCO,47,Tabelas,minor,17,2,x
+BOSCO,47,Tabelas,minor,18,1,5
+BOSCO,47,Tabelas,minor,19,7,x
+BOSCO,47,Tabelas,minor,20,2,x
+BOSCO,47,Tabelas,minor,21,1,1
+BOSCO,47,Tabelas,minor,22,5,5
+BOSCO,47,Tabelas,minor,23,7,3
+BOSCO,47,Tabelas,minor,24,#6,x
+BOSCO,47,Tabelas,minor,25,5,1
+BOSCO,47,Tabelas,minor,26,4,7
+BOSCO,47,Tabelas,minor,27,3,x
+BOSCO,47,Tabelas,minor,28,4,7
+BOSCO,47,Tabelas,minor,29,5,5
+BOSCO,47,Tabelas,minor,30,6,x
+BOSCO,47,Tabelas,minor,31,b7,7
+BOSCO,47,Tabelas,minor,32,6,x
+BOSCO,47,Tabelas,minor,33,5,5
+BOSCO,47,Tabelas,minor,34,b7,7
+BOSCO,47,Tabelas,minor,35,1,1
+BOSCO,47,Tabelas,minor,36,6,x
+BOSCO,47,Tabelas,minor,37,5,9
+BOSCO,47,Tabelas,minor,38,4,1
+BOSCO,47,Tabelas,minor,39,#3,x
+BOSCO,47,Tabelas,minor,40,4,1
+BOSCO,47,Tabelas,minor,41,6,3
+BOSCO,47,Tabelas,minor,42,5,x
+BOSCO,47,Tabelas,minor,43,4,1
+BOSCO,47,Tabelas,minor,44,3,x
+BOSCO,47,Tabelas,minor,45,2,6
+BOSCO,47,Tabelas,minor,46,5,9
+BOSCO,47,Tabelas,minor,47,5,3
+BOSCO,47,Tabelas,minor,48,5,7
+BOSCO,47,Tabelas,minor,49,4,x
+BOSCO,47,Tabelas,minor,50,3,5
+BOSCO,47,Tabelas,minor,51,2,x
+BOSCO,47,Tabelas,minor,52,1,3
+BOSCO,47,Tabelas,minor,53,5,7
+BOSCO,47,Tabelas,minor,54,#4/b5,3
+BOSCO,47,Tabelas,minor,55,2,1
+BOSCO,47,Tabelas,minor,56,#3,x
+BOSCO,47,Tabelas,minor,57,#4/b5,3
+BOSCO,47,Tabelas,minor,58,#3,x
+BOSCO,47,Tabelas,minor,59,2,1
+BOSCO,47,Tabelas,minor,60,5,1
+BOSCO,48,Terra dourada,major,1,5,5
+BOSCO,48,Terra dourada,major,2,3,3
+BOSCO,48,Terra dourada,major,3,5,3
+BOSCO,48,Terra dourada,major,4,3,1
+BOSCO,48,Terra dourada,major,5,6,6
+BOSCO,48,Terra dourada,major,6,5,3
+BOSCO,48,Terra dourada,major,7,6,1
+BOSCO,48,Terra dourada,major,8,5,x
+BOSCO,48,Terra dourada,major,9,6,1
+BOSCO,48,Terra dourada,major,10,5,7
+BOSCO,48,Terra dourada,major,11,3,5
+BOSCO,48,Terra dourada,major,12,6,1
+BOSCO,48,Terra dourada,major,13,1,7
+BOSCO,48,Terra dourada,major,14,6,5
+BOSCO,48,Terra dourada,major,15,1,7
+BOSCO,48,Terra dourada,major,16,6,5
+BOSCO,48,Terra dourada,major,17,6,b13
+BOSCO,48,Terra dourada,major,18,3,1
+BOSCO,48,Terra dourada,major,19,1,3
+BOSCO,48,Terra dourada,major,20,7,x
+BOSCO,48,Terra dourada,major,21,1,3
+BOSCO,48,Terra dourada,major,22,3,5
+BOSCO,48,Terra dourada,major,23,7,9
+BOSCO,48,Terra dourada,major,24,6,x
+BOSCO,48,Terra dourada,major,25,7,9
+BOSCO,48,Terra dourada,major,26,6,1
+BOSCO,48,Terra dourada,major,27,3,1
+BOSCO,48,Terra dourada,major,28,2,x
+BOSCO,48,Terra dourada,major,29,3,1
+BOSCO,48,Terra dourada,major,30,6,1
+BOSCO,48,Terra dourada,major,31,3,1
+BOSCO,48,Terra dourada,major,32,#6/b7,b9/#9
+BOSCO,48,Terra dourada,major,33,3,5
+BOSCO,48,Terra dourada,major,34,5,7
+BOSCO,48,Terra dourada,major,35,#1/b2,7
+BOSCO,48,Terra dourada,major,36,#6/b7,x
+BOSCO,48,Terra dourada,major,37,#1/b2,7
+BOSCO,48,Terra dourada,major,38,3,1
+BOSCO,48,Terra dourada,major,39,6,5
+BOSCO,48,Terra dourada,major,40,3,9
+BOSCO,48,Terra dourada,major,41,#5/b6,3
+BOSCO,48,Terra dourada,major,42,4,1
+BOSCO,48,Terra dourada,major,43,#5/b6,3
+BOSCO,48,Terra dourada,major,44,3,1
+BOSCO,49,Tiro de misericordia,minor,1,3,3
+BOSCO,49,Tiro de misericordia,minor,2,2,x
+BOSCO,49,Tiro de misericordia,minor,3,3,3
+BOSCO,49,Tiro de misericordia,minor,4,2,x
+BOSCO,49,Tiro de misericordia,minor,5,1,1
+BOSCO,49,Tiro de misericordia,minor,6,5,5
+BOSCO,49,Tiro de misericordia,minor,7,b7,7
+BOSCO,49,Tiro de misericordia,minor,8,3,3
+BOSCO,49,Tiro de misericordia,minor,9,2,x
+BOSCO,49,Tiro de misericordia,minor,10,1,1
+BOSCO,49,Tiro de misericordia,minor,11,b7,x
+BOSCO,49,Tiro de misericordia,minor,12,1,1
+BOSCO,49,Tiro de misericordia,minor,13,3,3
+BOSCO,49,Tiro de misericordia,minor,14,2,x
+BOSCO,49,Tiro de misericordia,minor,15,1,1
+BOSCO,49,Tiro de misericordia,minor,16,5,5
+BOSCO,49,Tiro de misericordia,minor,17,b7,7
+BOSCO,49,Tiro de misericordia,minor,18,1,1
+BOSCO,49,Tiro de misericordia,minor,19,5,5
+BOSCO,49,Tiro de misericordia,minor,20,3,x
+BOSCO,49,Tiro de misericordia,minor,21,1,1
+BOSCO,49,Tiro de misericordia,minor,22,4,11
+BOSCO,49,Tiro de misericordia,minor,23,1,1
+BOSCO,49,Tiro de misericordia,minor,24,b7,x
+BOSCO,49,Tiro de misericordia,minor,25,1,1
+BOSCO,49,Tiro de misericordia,minor,26,5,5
+BOSCO,49,Tiro de misericordia,minor,27,3,3
+BOSCO,49,Tiro de misericordia,minor,28,2,x
+BOSCO,49,Tiro de misericordia,minor,29,1,1
+BOSCO,49,Tiro de misericordia,minor,30,5,5
+BOSCO,49,Tiro de misericordia,minor,31,b7,7
+BOSCO,49,Tiro de misericordia,minor,32,1,1
+BOSCO,49,Tiro de misericordia,minor,33,5,5
+BOSCO,49,Tiro de misericordia,minor,34,3,3
+BOSCO,49,Tiro de misericordia,minor,35,1,1
+BOSCO,49,Tiro de misericordia,minor,36,4,11
+BOSCO,49,Tiro de misericordia,minor,37,1,1
+BOSCO,49,Tiro de misericordia,minor,38,b7,x
+BOSCO,49,Tiro de misericordia,minor,39,1,1
+BOSCO,50,Um por todos,minor,1,1,3
+BOSCO,50,Um por todos,minor,2,3,b13
+BOSCO,50,Um por todos,minor,3,2,7
+BOSCO,50,Um por todos,minor,4,1,x
+BOSCO,50,Um por todos,minor,5,b7,#11
+BOSCO,50,Um por todos,minor,6,5,3
+BOSCO,50,Um por todos,minor,7,1,1
+BOSCO,50,Um por todos,minor,8,3,3
+BOSCO,50,Um por todos,minor,9,2,x
+BOSCO,50,Um por todos,minor,10,1,1
+BOSCO,50,Um por todos,minor,11,b7,7
+BOSCO,50,Um por todos,minor,12,5,3
+BOSCO,50,Um por todos,minor,13,1,1
+BOSCO,50,Um por todos,minor,14,3,3
+BOSCO,50,Um por todos,minor,15,2,x
+BOSCO,50,Um por todos,minor,16,1,1
+BOSCO,50,Um por todos,minor,17,b7,7
+BOSCO,50,Um por todos,minor,18,5,7
+BOSCO,50,Um por todos,minor,19,1,3
+BOSCO,50,Um por todos,minor,20,3,5
+BOSCO,50,Um por todos,minor,21,3,7
+BOSCO,50,Um por todos,minor,22,5,9
+BOSCO,50,Um por todos,minor,23,6,3
+BOSCO,50,Um por todos,minor,24,7,3
+BOSCO,50,Um por todos,minor,25,1,x
+BOSCO,50,Um por todos,minor,26,2,5
+BOSCO,50,Um por todos,minor,27,3,x
+BOSCO,50,Um por todos,minor,28,4,7
+BOSCO,50,Um por todos,minor,29,5,x
+BOSCO,50,Um por todos,minor,30,6,1
+BOSCO,50,Um por todos,minor,31,5,x
+BOSCO,50,Um por todos,minor,32,6,1
+BOSCO,50,Um por todos,minor,33,5,x
+BOSCO,50,Um por todos,minor,34,4,x
+BOSCO,50,Um por todos,minor,35,3,5
+BOSCO,50,Um por todos,minor,36,4,7
+BOSCO,50,Um por todos,minor,37,6,1
+BOSCO,50,Um por todos,minor,38,5,x
+BOSCO,50,Um por todos,minor,39,6,1
+BOSCO,50,Um por todos,minor,40,5,x
+BOSCO,50,Um por todos,minor,41,4,x
+BOSCO,50,Um por todos,minor,42,3,5
+BOSCO,50,Um por todos,minor,43,4,7
+BOSCO,50,Um por todos,minor,44,6,3
+BOSCO,50,Um por todos,minor,45,5,x
+BOSCO,50,Um por todos,minor,46,6,3
+BOSCO,50,Um por todos,minor,47,5,3
+BOSCO,50,Um por todos,minor,48,4,x
+BOSCO,50,Um por todos,minor,49,3,1
+BOSCO,50,Um por todos,minor,50,4,3
+BOSCO,50,Um por todos,minor,51,3,x
+BOSCO,50,Um por todos,minor,52,4,13
+BOSCO,50,Um por todos,minor,53,3,5
+BOSCO,50,Um por todos,minor,54,2,x
+BOSCO,50,Um por todos,minor,55,1,3
+BOSCO,50,Um por todos,minor,56,2,5

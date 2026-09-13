@@ -1,0 +1,3339 @@
+corpus_id,composition_id,composition_name,mode,note_index,scale_degree,note_function
+DJAVAN,1,Flor de lis,major,1,7,9
+DJAVAN,1,Flor de lis,major,2,3,3
+DJAVAN,1,Flor de lis,major,3,5,5
+DJAVAN,1,Flor de lis,major,4,3,3
+DJAVAN,1,Flor de lis,major,5,1,1
+DJAVAN,1,Flor de lis,major,6,3,11
+DJAVAN,1,Flor de lis,major,7,5,b9/#9
+DJAVAN,1,Flor de lis,major,8,3,1
+DJAVAN,1,Flor de lis,major,9,1,b13
+DJAVAN,1,Flor de lis,major,10,3,5
+DJAVAN,1,Flor de lis,major,11,6,5
+DJAVAN,1,Flor de lis,major,12,3,9
+DJAVAN,1,Flor de lis,major,13,1,7
+DJAVAN,1,Flor de lis,major,14,3,11
+DJAVAN,1,Flor de lis,major,15,2,5
+DJAVAN,1,Flor de lis,major,16,6,9
+DJAVAN,1,Flor de lis,major,17,4,7
+DJAVAN,1,Flor de lis,major,18,3,3
+DJAVAN,1,Flor de lis,major,19,2,x
+DJAVAN,1,Flor de lis,major,20,3,3
+DJAVAN,1,Flor de lis,major,21,5,5
+DJAVAN,1,Flor de lis,major,22,6,3
+DJAVAN,1,Flor de lis,major,23,1,b9/#9
+DJAVAN,1,Flor de lis,major,24,6,7
+DJAVAN,1,Flor de lis,major,25,4,b13
+DJAVAN,1,Flor de lis,major,26,6,7
+DJAVAN,1,Flor de lis,major,27,5,7
+DJAVAN,1,Flor de lis,major,28,3,5
+DJAVAN,1,Flor de lis,major,29,5,7
+DJAVAN,1,Flor de lis,major,30,1,5
+DJAVAN,1,Flor de lis,major,31,6,7
+DJAVAN,1,Flor de lis,major,32,7,x
+DJAVAN,1,Flor de lis,major,33,1,b9/#9
+DJAVAN,1,Flor de lis,major,34,2,7
+DJAVAN,1,Flor de lis,major,35,1,b9/#9
+DJAVAN,1,Flor de lis,major,36,6,1
+DJAVAN,1,Flor de lis,major,37,7,x
+DJAVAN,1,Flor de lis,major,38,1,b9/#9
+DJAVAN,1,Flor de lis,major,39,7,x
+DJAVAN,1,Flor de lis,major,40,6,1
+DJAVAN,1,Flor de lis,major,41,5,5
+DJAVAN,1,Flor de lis,major,42,1,3
+DJAVAN,1,Flor de lis,major,43,2,6
+DJAVAN,1,Flor de lis,major,44,#2/b3,x
+DJAVAN,1,Flor de lis,major,45,2,6
+DJAVAN,1,Flor de lis,major,46,1,5
+DJAVAN,1,Flor de lis,major,47,5,5
+DJAVAN,1,Flor de lis,major,48,3,3
+DJAVAN,1,Flor de lis,major,49,1,1
+DJAVAN,1,Flor de lis,major,50,7,5
+DJAVAN,1,Flor de lis,major,51,3,1
+DJAVAN,1,Flor de lis,major,52,1,3
+DJAVAN,1,Flor de lis,major,53,7,x
+DJAVAN,1,Flor de lis,major,54,1,3
+DJAVAN,1,Flor de lis,major,55,7,x
+DJAVAN,1,Flor de lis,major,56,1,3
+DJAVAN,1,Flor de lis,major,57,7,x
+DJAVAN,1,Flor de lis,major,58,1,b13
+DJAVAN,1,Flor de lis,major,59,7,x
+DJAVAN,1,Flor de lis,major,60,1,b13
+DJAVAN,1,Flor de lis,major,61,2,7
+DJAVAN,1,Flor de lis,major,62,1,11
+DJAVAN,1,Flor de lis,major,63,5,1
+DJAVAN,1,Flor de lis,major,64,1,11
+DJAVAN,1,Flor de lis,major,65,6,13
+DJAVAN,1,Flor de lis,major,66,1,1
+DJAVAN,1,Flor de lis,major,67,3,3
+DJAVAN,1,Flor de lis,major,68,4,x
+DJAVAN,1,Flor de lis,major,69,3,7
+DJAVAN,1,Flor de lis,major,70,1,5
+DJAVAN,1,Flor de lis,major,71,2,6
+DJAVAN,1,Flor de lis,major,72,4,5
+DJAVAN,1,Flor de lis,major,73,3,x
+DJAVAN,1,Flor de lis,major,74,2,3
+DJAVAN,1,Flor de lis,major,75,4,5
+DJAVAN,1,Flor de lis,major,76,3,1
+DJAVAN,1,Flor de lis,major,77,3,5
+DJAVAN,1,Flor de lis,major,78,2,x
+DJAVAN,1,Flor de lis,major,79,1,b9/#9
+DJAVAN,1,Flor de lis,major,80,2,11
+DJAVAN,1,Flor de lis,major,81,3,5
+DJAVAN,1,Flor de lis,major,82,1,7
+DJAVAN,1,Flor de lis,major,83,3,9
+DJAVAN,1,Flor de lis,major,84,2,5
+DJAVAN,1,Flor de lis,major,85,1,3
+DJAVAN,1,Flor de lis,major,86,6,x
+DJAVAN,1,Flor de lis,major,87,5,1
+DJAVAN,1,Flor de lis,major,88,1,11
+DJAVAN,2,E que Deus ajude,major,1,5,11
+DJAVAN,2,E que Deus ajude,major,2,#5/b6,x
+DJAVAN,2,E que Deus ajude,major,3,6,5
+DJAVAN,2,E que Deus ajude,major,4,1,7
+DJAVAN,2,E que Deus ajude,major,5,6,5
+DJAVAN,2,E que Deus ajude,major,6,1,7
+DJAVAN,2,E que Deus ajude,major,7,7,6
+DJAVAN,2,E que Deus ajude,major,8,5,1
+DJAVAN,2,E que Deus ajude,major,9,5,3
+DJAVAN,2,E que Deus ajude,major,10,4,x
+DJAVAN,2,E que Deus ajude,major,11,3,1
+DJAVAN,2,E que Deus ajude,major,12,4,x
+DJAVAN,2,E que Deus ajude,major,13,5,7
+DJAVAN,2,E que Deus ajude,major,14,6,1
+DJAVAN,2,E que Deus ajude,major,15,1,b9/#9
+DJAVAN,2,E que Deus ajude,major,16,1,7
+DJAVAN,2,E que Deus ajude,major,17,3,9
+DJAVAN,2,E que Deus ajude,major,18,2,5
+DJAVAN,2,E que Deus ajude,major,19,1,3
+DJAVAN,2,E que Deus ajude,major,20,3,3
+DJAVAN,2,E que Deus ajude,major,21,1,1
+DJAVAN,2,E que Deus ajude,major,22,6,1
+DJAVAN,2,E que Deus ajude,major,23,1,3
+DJAVAN,2,E que Deus ajude,major,24,6,1
+DJAVAN,2,E que Deus ajude,major,25,1,3
+DJAVAN,2,E que Deus ajude,major,26,2,1
+DJAVAN,2,E que Deus ajude,major,27,1,7
+DJAVAN,2,E que Deus ajude,major,28,6,9
+DJAVAN,2,E que Deus ajude,major,29,1,3
+DJAVAN,2,E que Deus ajude,major,30,6,9
+DJAVAN,2,E que Deus ajude,major,31,1,3
+DJAVAN,2,E que Deus ajude,major,32,3,1
+DJAVAN,2,E que Deus ajude,major,33,1,6
+DJAVAN,2,E que Deus ajude,major,34,6,1
+DJAVAN,2,E que Deus ajude,major,35,1,7
+DJAVAN,2,E que Deus ajude,major,36,6,9
+DJAVAN,2,E que Deus ajude,major,37,3,3
+DJAVAN,2,E que Deus ajude,major,38,5,7
+DJAVAN,2,E que Deus ajude,major,39,3,5
+DJAVAN,2,E que Deus ajude,major,40,4,3
+DJAVAN,2,E que Deus ajude,major,41,4,7
+DJAVAN,2,E que Deus ajude,major,42,5,1
+DJAVAN,2,E que Deus ajude,major,43,3,1
+DJAVAN,2,E que Deus ajude,major,44,3,5
+DJAVAN,2,E que Deus ajude,major,45,1,b9/#9
+DJAVAN,2,E que Deus ajude,major,46,6,5
+DJAVAN,2,E que Deus ajude,major,47,6,9
+DJAVAN,2,E que Deus ajude,major,48,3,3
+DJAVAN,2,E que Deus ajude,major,49,5,7
+DJAVAN,2,E que Deus ajude,major,50,3,5
+DJAVAN,2,E que Deus ajude,major,51,4,3
+DJAVAN,2,E que Deus ajude,major,52,4,7
+DJAVAN,2,E que Deus ajude,major,53,3,1
+DJAVAN,2,E que Deus ajude,major,54,3,5
+DJAVAN,2,E que Deus ajude,major,55,2,1
+DJAVAN,2,E que Deus ajude,major,56,1,7
+DJAVAN,2,E que Deus ajude,major,57,6,9
+DJAVAN,2,E que Deus ajude,major,58,1,1
+DJAVAN,2,E que Deus ajude,major,59,6,1
+DJAVAN,2,E que Deus ajude,major,60,1,7
+DJAVAN,2,E que Deus ajude,major,61,6,3
+DJAVAN,2,E que Deus ajude,major,62,5,5
+DJAVAN,2,E que Deus ajude,major,63,5,7
+DJAVAN,2,E que Deus ajude,major,64,5,11
+DJAVAN,2,E que Deus ajude,major,65,6,x
+DJAVAN,2,E que Deus ajude,major,66,7,3
+DJAVAN,2,E que Deus ajude,major,67,1,x
+DJAVAN,2,E que Deus ajude,major,68,7,5
+DJAVAN,2,E que Deus ajude,major,69,6,x
+DJAVAN,2,E que Deus ajude,major,70,5,3
+DJAVAN,2,E que Deus ajude,major,71,3,5
+DJAVAN,2,E que Deus ajude,major,72,6,9
+DJAVAN,2,E que Deus ajude,major,73,5,5
+DJAVAN,2,E que Deus ajude,major,74,4,x
+DJAVAN,2,E que Deus ajude,major,75,3,3
+DJAVAN,2,E que Deus ajude,major,76,1,b9/#9
+DJAVAN,2,E que Deus ajude,major,77,3,13
+DJAVAN,2,E que Deus ajude,major,78,2,x
+DJAVAN,2,E que Deus ajude,major,79,1,6
+DJAVAN,2,E que Deus ajude,major,80,3,1
+DJAVAN,2,E que Deus ajude,major,81,1,b9/#9
+DJAVAN,2,E que Deus ajude,major,82,3,13
+DJAVAN,2,E que Deus ajude,major,83,2,x
+DJAVAN,2,E que Deus ajude,major,84,1,1
+DJAVAN,2,E que Deus ajude,major,85,3,3
+DJAVAN,2,E que Deus ajude,major,86,1,b9/#9
+DJAVAN,2,E que Deus ajude,major,87,3,13
+DJAVAN,2,E que Deus ajude,major,88,2,x
+DJAVAN,2,E que Deus ajude,major,89,1,6
+DJAVAN,2,E que Deus ajude,major,90,3,1
+DJAVAN,2,E que Deus ajude,major,91,1,b9/#9
+DJAVAN,3,Lilas,minor,1,3,3
+DJAVAN,3,Lilas,minor,2,4,x
+DJAVAN,3,Lilas,minor,3,5,5
+DJAVAN,3,Lilas,minor,4,4,11
+DJAVAN,3,Lilas,minor,5,3,x
+DJAVAN,3,Lilas,minor,6,2,x
+DJAVAN,3,Lilas,minor,7,1,1
+DJAVAN,3,Lilas,minor,8,3,3
+DJAVAN,3,Lilas,minor,9,4,x
+DJAVAN,3,Lilas,minor,10,5,5
+DJAVAN,3,Lilas,minor,11,4,11
+DJAVAN,3,Lilas,minor,12,3,x
+DJAVAN,3,Lilas,minor,13,2,x
+DJAVAN,3,Lilas,minor,14,1,1
+DJAVAN,3,Lilas,minor,15,6,1
+DJAVAN,3,Lilas,minor,16,b7,9
+DJAVAN,3,Lilas,minor,17,1,3
+DJAVAN,3,Lilas,minor,18,1,11
+DJAVAN,3,Lilas,minor,19,2,5
+DJAVAN,3,Lilas,minor,20,3,x
+DJAVAN,3,Lilas,minor,21,2,6
+DJAVAN,3,Lilas,minor,22,3,x
+DJAVAN,3,Lilas,minor,23,2,6
+DJAVAN,3,Lilas,minor,24,1,9
+DJAVAN,3,Lilas,minor,25,2,x
+DJAVAN,3,Lilas,minor,26,1,9
+DJAVAN,3,Lilas,minor,27,2,3
+DJAVAN,3,Lilas,minor,28,4,5
+DJAVAN,3,Lilas,minor,29,5,13
+DJAVAN,3,Lilas,minor,30,b7,7
+DJAVAN,3,Lilas,minor,31,5,5
+DJAVAN,3,Lilas,minor,32,4,11
+DJAVAN,3,Lilas,minor,33,2,9
+DJAVAN,3,Lilas,minor,34,1,3
+DJAVAN,3,Lilas,minor,35,2,x
+DJAVAN,3,Lilas,minor,36,b7,3
+DJAVAN,3,Lilas,minor,37,b7,7
+DJAVAN,3,Lilas,minor,38,5,5
+DJAVAN,3,Lilas,minor,39,4,11
+DJAVAN,3,Lilas,minor,40,2,9
+DJAVAN,3,Lilas,minor,41,1,3
+DJAVAN,3,Lilas,minor,42,3,5
+DJAVAN,3,Lilas,minor,43,2,5
+DJAVAN,3,Lilas,minor,44,4,7
+DJAVAN,3,Lilas,minor,45,5,1
+DJAVAN,3,Lilas,minor,46,b7,7
+DJAVAN,3,Lilas,minor,47,5,5
+DJAVAN,3,Lilas,minor,48,b7,5
+DJAVAN,3,Lilas,minor,49,5,3
+DJAVAN,3,Lilas,minor,50,2,1
+DJAVAN,3,Lilas,minor,51,3,b13
+DJAVAN,3,Lilas,minor,52,2,x
+DJAVAN,3,Lilas,minor,53,1,3
+DJAVAN,3,Lilas,minor,54,1,3
+DJAVAN,3,Lilas,minor,55,3,3
+DJAVAN,3,Lilas,minor,56,2,x
+DJAVAN,3,Lilas,minor,57,1,1
+DJAVAN,3,Lilas,minor,58,2,x
+DJAVAN,3,Lilas,minor,59,3,5
+DJAVAN,3,Lilas,minor,60,1,3
+DJAVAN,3,Lilas,minor,61,5,5
+DJAVAN,3,Lilas,minor,62,3,3
+DJAVAN,3,Lilas,minor,63,2,x
+DJAVAN,3,Lilas,minor,64,1,7
+DJAVAN,3,Lilas,minor,65,1,5
+DJAVAN,3,Lilas,minor,66,b7,x
+DJAVAN,3,Lilas,minor,67,1,1
+DJAVAN,4,Nem um dia,minor,1,5,1
+DJAVAN,4,Nem um dia,minor,2,1,3
+DJAVAN,4,Nem um dia,minor,3,2,x
+DJAVAN,4,Nem um dia,minor,4,3,3
+DJAVAN,4,Nem um dia,minor,5,5,5
+DJAVAN,4,Nem um dia,minor,6,1,1
+DJAVAN,4,Nem um dia,minor,7,2,x
+DJAVAN,4,Nem um dia,minor,8,3,3
+DJAVAN,4,Nem um dia,minor,9,4,11
+DJAVAN,4,Nem um dia,minor,10,3,3
+DJAVAN,4,Nem um dia,minor,11,2,x
+DJAVAN,4,Nem um dia,minor,12,1,9
+DJAVAN,4,Nem um dia,minor,13,b7,1
+DJAVAN,4,Nem um dia,minor,14,1,x
+DJAVAN,4,Nem um dia,minor,15,2,3
+DJAVAN,4,Nem um dia,minor,16,3,x
+DJAVAN,4,Nem um dia,minor,17,2,3
+DJAVAN,4,Nem um dia,minor,18,3,x
+DJAVAN,4,Nem um dia,minor,19,2,3
+DJAVAN,4,Nem um dia,minor,20,1,3
+DJAVAN,4,Nem um dia,minor,21,6,1
+DJAVAN,4,Nem um dia,minor,22,b7,x
+DJAVAN,4,Nem um dia,minor,23,1,3
+DJAVAN,4,Nem um dia,minor,24,2,#11
+DJAVAN,4,Nem um dia,minor,25,1,x
+DJAVAN,4,Nem um dia,minor,26,7,3
+DJAVAN,4,Nem um dia,minor,27,6,1
+DJAVAN,4,Nem um dia,minor,28,5,5
+DJAVAN,4,Nem um dia,minor,29,4,x
+DJAVAN,4,Nem um dia,minor,30,3,3
+DJAVAN,4,Nem um dia,minor,31,4,x
+DJAVAN,4,Nem um dia,minor,32,5,5
+DJAVAN,4,Nem um dia,minor,33,6,x
+DJAVAN,4,Nem um dia,minor,34,b7,9
+DJAVAN,4,Nem um dia,minor,35,#4/b5,7
+DJAVAN,4,Nem um dia,minor,36,6,1
+DJAVAN,4,Nem um dia,minor,37,#4/b5,x
+DJAVAN,4,Nem um dia,minor,38,4,13
+DJAVAN,4,Nem um dia,minor,39,2,5
+DJAVAN,4,Nem um dia,minor,40,3,x
+DJAVAN,4,Nem um dia,minor,41,2,1
+DJAVAN,4,Nem um dia,minor,42,3,x
+DJAVAN,4,Nem um dia,minor,43,2,1
+DJAVAN,4,Nem um dia,minor,44,3,x
+DJAVAN,4,Nem um dia,minor,45,2,1
+DJAVAN,4,Nem um dia,minor,46,3,x
+DJAVAN,4,Nem um dia,minor,47,2,1
+DJAVAN,4,Nem um dia,minor,48,3,x
+DJAVAN,4,Nem um dia,minor,49,4,7
+DJAVAN,4,Nem um dia,minor,50,5,1
+DJAVAN,4,Nem um dia,minor,51,5,5
+DJAVAN,4,Nem um dia,minor,52,4,x
+DJAVAN,4,Nem um dia,minor,53,5,5
+DJAVAN,4,Nem um dia,minor,54,4,x
+DJAVAN,4,Nem um dia,minor,55,5,5
+DJAVAN,4,Nem um dia,minor,56,4,x
+DJAVAN,4,Nem um dia,minor,57,5,5
+DJAVAN,4,Nem um dia,minor,58,4,x
+DJAVAN,4,Nem um dia,minor,59,5,5
+DJAVAN,4,Nem um dia,minor,60,4,x
+DJAVAN,4,Nem um dia,minor,61,5,5
+DJAVAN,4,Nem um dia,minor,62,4,x
+DJAVAN,4,Nem um dia,minor,63,5,x
+DJAVAN,4,Nem um dia,minor,64,4,5
+DJAVAN,4,Nem um dia,minor,65,5,x
+DJAVAN,4,Nem um dia,minor,66,4,5
+DJAVAN,4,Nem um dia,minor,67,5,x
+DJAVAN,4,Nem um dia,minor,68,4,5
+DJAVAN,4,Nem um dia,minor,69,5,x
+DJAVAN,4,Nem um dia,minor,70,4,5
+DJAVAN,4,Nem um dia,minor,71,5,x
+DJAVAN,4,Nem um dia,minor,72,4,5
+DJAVAN,4,Nem um dia,minor,73,5,7
+DJAVAN,4,Nem um dia,minor,74,4,x
+DJAVAN,4,Nem um dia,minor,75,5,7
+DJAVAN,4,Nem um dia,minor,76,4,x
+DJAVAN,4,Nem um dia,minor,77,5,7
+DJAVAN,4,Nem um dia,minor,78,4,x
+DJAVAN,4,Nem um dia,minor,79,5,7
+DJAVAN,4,Nem um dia,minor,80,4,x
+DJAVAN,4,Nem um dia,minor,81,3,b13
+DJAVAN,4,Nem um dia,minor,82,2,x
+DJAVAN,4,Nem um dia,minor,83,3,b13
+DJAVAN,5,Muito obrigado,major,1,6,9
+DJAVAN,5,Muito obrigado,major,2,1,1
+DJAVAN,5,Muito obrigado,major,3,6,6
+DJAVAN,5,Muito obrigado,major,4,2,3
+DJAVAN,5,Muito obrigado,major,5,6,1
+DJAVAN,5,Muito obrigado,major,6,1,7
+DJAVAN,5,Muito obrigado,major,7,6,5
+DJAVAN,5,Muito obrigado,major,8,1,3
+DJAVAN,5,Muito obrigado,major,9,2,x
+DJAVAN,5,Muito obrigado,major,10,3,1
+DJAVAN,5,Muito obrigado,major,11,5,3
+DJAVAN,5,Muito obrigado,major,12,6,11
+DJAVAN,5,Muito obrigado,major,13,5,7
+DJAVAN,5,Muito obrigado,major,14,6,5
+DJAVAN,5,Muito obrigado,major,15,5,1
+DJAVAN,5,Muito obrigado,major,16,7,3
+DJAVAN,5,Muito obrigado,major,17,6,x
+DJAVAN,5,Muito obrigado,major,18,5,3
+DJAVAN,5,Muito obrigado,major,19,3,1
+DJAVAN,5,Muito obrigado,major,20,1,6
+DJAVAN,5,Muito obrigado,major,21,6,1
+DJAVAN,5,Muito obrigado,major,22,3,9
+DJAVAN,5,Muito obrigado,major,23,6,9
+DJAVAN,5,Muito obrigado,major,24,3,13
+DJAVAN,5,Muito obrigado,major,25,5,3
+DJAVAN,5,Muito obrigado,major,26,3,1
+DJAVAN,5,Muito obrigado,major,27,6,11
+DJAVAN,5,Muito obrigado,major,28,3,5
+DJAVAN,5,Muito obrigado,major,29,5,7
+DJAVAN,5,Muito obrigado,major,30,6,1
+DJAVAN,5,Muito obrigado,major,31,1,b9/#9
+DJAVAN,5,Muito obrigado,major,32,6,5
+DJAVAN,5,Muito obrigado,major,33,5,x
+DJAVAN,5,Muito obrigado,major,34,6,9
+DJAVAN,5,Muito obrigado,major,35,5,1
+DJAVAN,5,Muito obrigado,major,36,1,1
+DJAVAN,5,Muito obrigado,major,37,7,x
+DJAVAN,5,Muito obrigado,major,38,6,6
+DJAVAN,5,Muito obrigado,major,39,3,3
+DJAVAN,5,Muito obrigado,major,40,3,5
+DJAVAN,5,Muito obrigado,major,41,5,7
+DJAVAN,5,Muito obrigado,major,42,6,1
+DJAVAN,5,Muito obrigado,major,43,2,1
+DJAVAN,5,Muito obrigado,major,44,6,5
+DJAVAN,5,Muito obrigado,major,45,5,x
+DJAVAN,5,Muito obrigado,major,46,6,9
+DJAVAN,5,Muito obrigado,major,47,5,1
+DJAVAN,5,Muito obrigado,major,48,1,x
+DJAVAN,5,Muito obrigado,major,49,7,5
+DJAVAN,5,Muito obrigado,major,50,6,11
+DJAVAN,5,Muito obrigado,major,51,3,1
+DJAVAN,5,Muito obrigado,major,52,3,5
+DJAVAN,5,Muito obrigado,major,53,5,7
+DJAVAN,5,Muito obrigado,major,54,6,1
+DJAVAN,5,Muito obrigado,major,55,2,1
+DJAVAN,5,Muito obrigado,major,56,1,7
+DJAVAN,5,Muito obrigado,major,57,2,3
+DJAVAN,5,Muito obrigado,major,58,1,b13
+DJAVAN,5,Muito obrigado,major,59,4,x
+DJAVAN,5,Muito obrigado,major,60,3,5
+DJAVAN,5,Muito obrigado,major,61,2,11
+DJAVAN,5,Muito obrigado,major,62,6,5
+DJAVAN,5,Muito obrigado,major,63,6,9
+DJAVAN,5,Muito obrigado,major,64,1,1
+DJAVAN,5,Muito obrigado,major,65,2,x
+DJAVAN,5,Muito obrigado,major,66,1,5
+DJAVAN,5,Muito obrigado,major,67,6,3
+DJAVAN,5,Muito obrigado,major,68,2,6
+DJAVAN,5,Muito obrigado,major,69,1,x
+DJAVAN,5,Muito obrigado,major,70,2,5
+DJAVAN,5,Muito obrigado,major,71,1,3
+DJAVAN,5,Muito obrigado,major,72,4,x
+DJAVAN,5,Muito obrigado,major,73,3,3
+DJAVAN,5,Muito obrigado,major,74,2,x
+DJAVAN,5,Muito obrigado,major,75,1,1
+DJAVAN,5,Muito obrigado,major,76,6,1
+DJAVAN,5,Muito obrigado,major,77,1,b9/#9
+DJAVAN,5,Muito obrigado,major,78,2,x
+DJAVAN,5,Muito obrigado,major,79,1,7
+DJAVAN,5,Muito obrigado,major,80,6,5
+DJAVAN,5,Muito obrigado,major,81,6,9
+DJAVAN,5,Muito obrigado,major,82,1,3
+DJAVAN,5,Muito obrigado,major,83,2,x
+DJAVAN,5,Muito obrigado,major,84,3,1
+DJAVAN,5,Muito obrigado,major,85,6,11
+DJAVAN,5,Muito obrigado,major,86,6,1
+DJAVAN,5,Muito obrigado,major,87,1,b9/#9
+DJAVAN,5,Muito obrigado,major,88,2,x
+DJAVAN,5,Muito obrigado,major,89,1,7
+DJAVAN,5,Muito obrigado,major,90,6,5
+DJAVAN,5,Muito obrigado,major,91,1,3
+DJAVAN,5,Muito obrigado,major,92,6,9
+DJAVAN,5,Muito obrigado,major,93,1,3
+DJAVAN,5,Muito obrigado,major,94,2,x
+DJAVAN,5,Muito obrigado,major,95,3,1
+DJAVAN,5,Muito obrigado,major,96,1,6
+DJAVAN,5,Muito obrigado,major,97,6,1
+DJAVAN,6,Obi,major,1,5,5
+DJAVAN,6,Obi,major,2,6,6
+DJAVAN,6,Obi,major,3,6,5
+DJAVAN,6,Obi,major,4,7,6
+DJAVAN,6,Obi,major,5,1,7
+DJAVAN,6,Obi,major,6,2,x
+DJAVAN,6,Obi,major,7,#2/b3,1
+DJAVAN,6,Obi,major,8,3,b9/#9
+DJAVAN,6,Obi,major,9,5,7
+DJAVAN,6,Obi,major,10,1,3
+DJAVAN,6,Obi,major,11,3,5
+DJAVAN,6,Obi,major,12,7,9
+DJAVAN,6,Obi,major,13,2,1
+DJAVAN,6,Obi,major,14,6,5
+DJAVAN,6,Obi,major,15,4,3
+DJAVAN,6,Obi,major,16,6,5
+DJAVAN,6,Obi,major,17,1,7
+DJAVAN,6,Obi,major,18,4,3
+DJAVAN,6,Obi,major,19,3,3
+DJAVAN,6,Obi,major,20,5,5
+DJAVAN,6,Obi,major,21,3,3
+DJAVAN,6,Obi,major,22,4,3
+DJAVAN,6,Obi,major,23,2,1
+DJAVAN,6,Obi,major,24,3,x
+DJAVAN,6,Obi,major,25,2,6
+DJAVAN,6,Obi,major,26,1,5
+DJAVAN,6,Obi,major,27,5,5
+DJAVAN,6,Obi,major,28,6,6
+DJAVAN,6,Obi,major,29,7,6
+DJAVAN,6,Obi,major,30,1,7
+DJAVAN,6,Obi,major,31,2,x
+DJAVAN,6,Obi,major,32,#2/b3,1
+DJAVAN,6,Obi,major,33,3,b9/#9
+DJAVAN,6,Obi,major,34,5,7
+DJAVAN,6,Obi,major,35,1,3
+DJAVAN,6,Obi,major,36,3,5
+DJAVAN,6,Obi,major,37,7,9
+DJAVAN,6,Obi,major,38,2,1
+DJAVAN,6,Obi,major,39,6,5
+DJAVAN,6,Obi,major,40,4,3
+DJAVAN,6,Obi,major,41,5,x
+DJAVAN,6,Obi,major,42,6,5
+DJAVAN,6,Obi,major,43,5,9
+DJAVAN,6,Obi,major,44,4,1
+DJAVAN,6,Obi,major,45,3,x
+DJAVAN,6,Obi,major,46,2,6
+DJAVAN,6,Obi,major,47,1,x
+DJAVAN,6,Obi,major,48,7,5
+DJAVAN,6,Obi,major,49,2,#11
+DJAVAN,6,Obi,major,50,1,7
+DJAVAN,6,Obi,major,51,4,3
+DJAVAN,6,Obi,major,52,1,7
+DJAVAN,6,Obi,major,53,6,9
+DJAVAN,6,Obi,major,54,4,7
+DJAVAN,6,Obi,major,55,1,x
+DJAVAN,6,Obi,major,56,6,9
+DJAVAN,6,Obi,major,57,4,7
+DJAVAN,6,Obi,major,58,5,1
+DJAVAN,6,Obi,major,59,3,3
+DJAVAN,6,Obi,major,60,5,1
+DJAVAN,6,Obi,major,61,#6/b7,3
+DJAVAN,6,Obi,major,62,2,5
+DJAVAN,6,Obi,major,63,2,9
+DJAVAN,6,Obi,major,64,1,1
+DJAVAN,6,Obi,major,65,3,3
+DJAVAN,6,Obi,major,66,2,5
+DJAVAN,6,Obi,major,67,3,6
+DJAVAN,6,Obi,major,68,4,x
+DJAVAN,6,Obi,major,69,3,3
+DJAVAN,6,Obi,major,70,2,x
+DJAVAN,6,Obi,major,71,3,3
+DJAVAN,6,Obi,major,72,1,1
+DJAVAN,6,Obi,major,73,#6/b7,3
+DJAVAN,6,Obi,major,74,1,11
+DJAVAN,6,Obi,major,75,2,9
+DJAVAN,6,Obi,major,76,1,1
+DJAVAN,6,Obi,major,77,2,x
+DJAVAN,6,Obi,major,78,1,b9/#9
+DJAVAN,6,Obi,major,79,2,b9/#9
+DJAVAN,6,Obi,major,80,1,9
+DJAVAN,6,Obi,major,81,2,3
+DJAVAN,6,Obi,major,82,7,b9/#9
+DJAVAN,6,Obi,major,83,2,3
+DJAVAN,6,Obi,major,84,7,9
+DJAVAN,6,Obi,major,85,2,3
+DJAVAN,6,Obi,major,86,7,9
+DJAVAN,6,Obi,major,87,2,3
+DJAVAN,6,Obi,major,88,6,5
+DJAVAN,6,Obi,major,89,2,1
+DJAVAN,6,Obi,major,90,6,5
+DJAVAN,6,Obi,major,91,2,5
+DJAVAN,7,Passou,major,1,3,3
+DJAVAN,7,Passou,major,2,4,x
+DJAVAN,7,Passou,major,3,6,6
+DJAVAN,7,Passou,major,4,1,1
+DJAVAN,7,Passou,major,5,2,6
+DJAVAN,7,Passou,major,6,1,5
+DJAVAN,7,Passou,major,7,#5/b6,3
+DJAVAN,7,Passou,major,8,2,6
+DJAVAN,7,Passou,major,9,1,6
+DJAVAN,7,Passou,major,10,5,3
+DJAVAN,7,Passou,major,11,6,11
+DJAVAN,7,Passou,major,12,3,x
+DJAVAN,7,Passou,major,13,4,9
+DJAVAN,7,Passou,major,14,6,b13
+DJAVAN,7,Passou,major,15,1,7
+DJAVAN,7,Passou,major,16,2,1
+DJAVAN,7,Passou,major,17,1,5
+DJAVAN,7,Passou,major,18,#5/b6,3
+DJAVAN,7,Passou,major,19,2,6
+DJAVAN,7,Passou,major,20,1,x
+DJAVAN,7,Passou,major,21,7,5
+DJAVAN,7,Passou,major,22,2,7
+DJAVAN,7,Passou,major,23,3,x
+DJAVAN,7,Passou,major,24,4,14
+DJAVAN,7,Passou,major,25,6,3
+DJAVAN,7,Passou,major,26,1,5
+DJAVAN,7,Passou,major,27,2,6
+DJAVAN,7,Passou,major,28,1,5
+DJAVAN,7,Passou,major,29,#5/b6,3
+DJAVAN,7,Passou,major,30,2,6
+DJAVAN,7,Passou,major,31,1,6
+DJAVAN,7,Passou,major,32,5,3
+DJAVAN,7,Passou,major,33,6,11
+DJAVAN,7,Passou,major,34,#2/b3,1
+DJAVAN,7,Passou,major,35,2,x
+DJAVAN,7,Passou,major,36,1,6
+DJAVAN,7,Passou,major,37,5,x
+DJAVAN,7,Passou,major,38,#5/b6,11
+DJAVAN,7,Passou,major,39,#6/b7,6
+DJAVAN,7,Passou,major,40,#5/b6,5
+DJAVAN,7,Passou,major,41,1,3
+DJAVAN,7,Passou,major,42,7,3
+DJAVAN,7,Passou,major,43,3,3
+DJAVAN,7,Passou,major,44,3,7
+DJAVAN,7,Passou,major,45,2,6
+DJAVAN,7,Passou,major,46,2,7
+DJAVAN,7,Passou,major,47,1,6
+DJAVAN,7,Passou,major,48,1,7
+DJAVAN,7,Passou,major,49,#6/b7,6
+DJAVAN,7,Passou,major,50,1,1
+DJAVAN,7,Passou,major,51,6,13
+DJAVAN,7,Passou,major,52,6,3
+DJAVAN,7,Passou,major,53,3,7
+DJAVAN,7,Passou,major,54,2,6
+DJAVAN,7,Passou,major,55,2,7
+DJAVAN,7,Passou,major,56,1,6
+DJAVAN,7,Passou,major,57,1,7
+DJAVAN,7,Passou,major,58,#6/b7,6
+DJAVAN,7,Passou,major,59,#6/b7,7
+DJAVAN,7,Passou,major,60,1,1
+DJAVAN,7,Passou,major,61,2,x
+DJAVAN,7,Passou,major,62,#2/b3,3
+DJAVAN,7,Passou,major,63,4,5
+DJAVAN,7,Passou,major,64,#6/b7,1
+DJAVAN,7,Passou,major,65,1,x
+DJAVAN,7,Passou,major,66,2,3
+DJAVAN,7,Passou,major,67,#2/b3,x
+DJAVAN,7,Passou,major,68,4,5
+DJAVAN,7,Passou,major,69,5,x
+DJAVAN,7,Passou,major,70,#5/b6,1
+DJAVAN,7,Passou,major,71,#1/b2,x
+DJAVAN,7,Passou,major,72,#2/b3,5
+DJAVAN,7,Passou,major,73,4,7
+DJAVAN,7,Passou,major,74,5,x
+DJAVAN,7,Passou,major,75,#5/b6,b13
+DJAVAN,7,Passou,major,76,#6/b7,7
+DJAVAN,7,Passou,major,77,1,5
+DJAVAN,8,Azul,minor,1,6,3
+DJAVAN,8,Azul,minor,2,5,x
+DJAVAN,8,Azul,minor,3,4,1
+DJAVAN,8,Azul,minor,4,2,3
+DJAVAN,8,Azul,minor,5,5,5
+DJAVAN,8,Azul,minor,6,1,1
+DJAVAN,8,Azul,minor,7,3,3
+DJAVAN,8,Azul,minor,8,5,7
+DJAVAN,8,Azul,minor,9,6,x
+DJAVAN,8,Azul,minor,10,b7,9
+DJAVAN,8,Azul,minor,11,3,5
+DJAVAN,8,Azul,minor,12,4,x
+DJAVAN,8,Azul,minor,13,5,11
+DJAVAN,8,Azul,minor,14,6,x
+DJAVAN,8,Azul,minor,15,5,11
+DJAVAN,8,Azul,minor,16,2,1
+DJAVAN,8,Azul,minor,17,6,3
+DJAVAN,8,Azul,minor,18,5,x
+DJAVAN,8,Azul,minor,19,4,1
+DJAVAN,8,Azul,minor,20,2,3
+DJAVAN,8,Azul,minor,21,5,5
+DJAVAN,8,Azul,minor,22,1,1
+DJAVAN,8,Azul,minor,23,3,3
+DJAVAN,8,Azul,minor,24,6,1
+DJAVAN,8,Azul,minor,25,5,x
+DJAVAN,8,Azul,minor,26,4,6
+DJAVAN,8,Azul,minor,27,2,#11
+DJAVAN,8,Azul,minor,28,5,1
+DJAVAN,8,Azul,minor,29,5,5
+DJAVAN,8,Azul,minor,30,1,3
+DJAVAN,8,Azul,minor,31,3,5
+DJAVAN,8,Azul,minor,32,6,1
+DJAVAN,8,Azul,minor,33,1,3
+DJAVAN,8,Azul,minor,34,3,5
+DJAVAN,8,Azul,minor,35,4,x
+DJAVAN,8,Azul,minor,36,5,1
+DJAVAN,8,Azul,minor,37,6,x
+DJAVAN,8,Azul,minor,38,5,1
+DJAVAN,8,Azul,minor,39,4,x
+DJAVAN,8,Azul,minor,40,3,b13
+DJAVAN,8,Azul,minor,41,5,1
+DJAVAN,8,Azul,minor,42,1,#11
+DJAVAN,8,Azul,minor,43,3,13
+DJAVAN,8,Azul,minor,44,b7,11
+DJAVAN,8,Azul,minor,45,5,9
+DJAVAN,8,Azul,minor,46,b7,11
+DJAVAN,8,Azul,minor,47,1,5
+DJAVAN,8,Azul,minor,48,4,5
+DJAVAN,8,Azul,minor,49,1,1
+DJAVAN,8,Azul,minor,50,3,3
+DJAVAN,8,Azul,minor,51,5,5
+DJAVAN,8,Azul,minor,52,1,1
+DJAVAN,8,Azul,minor,53,3,3
+DJAVAN,8,Azul,minor,54,5,3
+DJAVAN,8,Azul,minor,55,3,5
+DJAVAN,8,Azul,minor,56,5,7
+DJAVAN,8,Azul,minor,57,3,5
+DJAVAN,8,Azul,minor,58,4,7
+DJAVAN,8,Azul,minor,59,1,1
+DJAVAN,9,Beiral,major,1,7,3
+DJAVAN,9,Beiral,major,2,6,6
+DJAVAN,9,Beiral,major,3,5,5
+DJAVAN,9,Beiral,major,4,7,7
+DJAVAN,9,Beiral,major,5,5,5
+DJAVAN,9,Beiral,major,6,6,6
+DJAVAN,9,Beiral,major,7,3,3
+DJAVAN,9,Beiral,major,8,5,5
+DJAVAN,9,Beiral,major,9,2,9
+DJAVAN,9,Beiral,major,10,3,3
+DJAVAN,9,Beiral,major,11,7,7
+DJAVAN,9,Beiral,major,12,7,5
+DJAVAN,9,Beiral,major,13,3,1
+DJAVAN,9,Beiral,major,14,7,5
+DJAVAN,9,Beiral,major,15,3,5
+DJAVAN,9,Beiral,major,16,6,1
+DJAVAN,9,Beiral,major,17,4,3
+DJAVAN,9,Beiral,major,18,5,x
+DJAVAN,9,Beiral,major,19,4,3
+DJAVAN,9,Beiral,major,20,3,9
+DJAVAN,9,Beiral,major,21,4,3
+DJAVAN,9,Beiral,major,22,6,14
+DJAVAN,9,Beiral,major,23,5,x
+DJAVAN,9,Beiral,major,24,4,x
+DJAVAN,9,Beiral,major,25,3,5
+DJAVAN,9,Beiral,major,26,4,x
+DJAVAN,9,Beiral,major,27,3,9
+DJAVAN,9,Beiral,major,28,2,1
+DJAVAN,9,Beiral,major,29,2,5
+DJAVAN,9,Beiral,major,30,7,3
+DJAVAN,9,Beiral,major,31,6,6
+DJAVAN,9,Beiral,major,32,5,5
+DJAVAN,9,Beiral,major,33,7,7
+DJAVAN,9,Beiral,major,34,5,5
+DJAVAN,9,Beiral,major,35,6,6
+DJAVAN,9,Beiral,major,36,3,3
+DJAVAN,9,Beiral,major,37,5,5
+DJAVAN,9,Beiral,major,38,2,x
+DJAVAN,9,Beiral,major,39,3,3
+DJAVAN,9,Beiral,major,40,5,11
+DJAVAN,9,Beiral,major,41,6,x
+DJAVAN,9,Beiral,major,42,7,6
+DJAVAN,9,Beiral,major,43,1,x
+DJAVAN,9,Beiral,major,44,7,3
+DJAVAN,9,Beiral,major,45,1,x
+DJAVAN,9,Beiral,major,46,2,5
+DJAVAN,9,Beiral,major,47,3,13
+DJAVAN,9,Beiral,major,48,4,x
+DJAVAN,9,Beiral,major,49,5,5
+DJAVAN,9,Beiral,major,50,5,9
+DJAVAN,9,Beiral,major,51,3,3
+DJAVAN,9,Beiral,major,52,5,5
+DJAVAN,9,Beiral,major,53,6,3
+DJAVAN,9,Beiral,major,54,5,x
+DJAVAN,9,Beiral,major,55,6,3
+DJAVAN,9,Beiral,major,56,4,1
+DJAVAN,9,Beiral,major,57,5,x
+DJAVAN,9,Beiral,major,58,#5/b6,3
+DJAVAN,9,Beiral,major,59,5,x
+DJAVAN,9,Beiral,major,60,#5/b6,3
+DJAVAN,9,Beiral,major,61,5,3
+DJAVAN,9,Beiral,major,62,4,9
+DJAVAN,9,Beiral,major,63,2,1
+DJAVAN,9,Beiral,major,64,6,5
+DJAVAN,9,Beiral,major,65,3,9
+DJAVAN,9,Beiral,major,66,3,11
+DJAVAN,9,Beiral,major,67,1,b13
+DJAVAN,9,Beiral,major,68,7,5
+DJAVAN,9,Beiral,major,69,2,7
+DJAVAN,9,Beiral,major,70,1,3
+DJAVAN,9,Beiral,major,71,3,5
+DJAVAN,9,Beiral,major,72,5,7
+DJAVAN,9,Beiral,major,73,3,6
+DJAVAN,9,Beiral,major,74,5,7
+DJAVAN,9,Beiral,major,75,3,6
+DJAVAN,9,Beiral,major,76,6,9
+DJAVAN,9,Beiral,major,77,5,1
+DJAVAN,9,Beiral,major,78,4,3
+DJAVAN,9,Beiral,major,79,6,3
+DJAVAN,9,Beiral,major,80,5,x
+DJAVAN,9,Beiral,major,81,6,3
+DJAVAN,9,Beiral,major,82,1,5
+DJAVAN,9,Beiral,major,83,4,1
+DJAVAN,9,Beiral,major,84,5,x
+DJAVAN,9,Beiral,major,85,#5/b6,3
+DJAVAN,9,Beiral,major,86,5,x
+DJAVAN,9,Beiral,major,87,#5/b6,3
+DJAVAN,9,Beiral,major,88,5,x
+DJAVAN,9,Beiral,major,89,4,9
+DJAVAN,9,Beiral,major,90,2,1
+DJAVAN,9,Beiral,major,91,4,3
+DJAVAN,9,Beiral,major,92,6,5
+DJAVAN,9,Beiral,major,93,2,1
+DJAVAN,9,Beiral,major,94,3,x
+DJAVAN,9,Beiral,major,95,4,5
+DJAVAN,9,Beiral,major,96,5,x
+DJAVAN,9,Beiral,major,97,4,5
+DJAVAN,9,Beiral,major,98,3,1
+DJAVAN,9,Beiral,major,99,6,1
+DJAVAN,9,Beiral,major,100,#1/b2,3
+DJAVAN,9,Beiral,major,101,3,5
+DJAVAN,9,Beiral,major,102,5,7
+DJAVAN,9,Beiral,major,103,5,1
+DJAVAN,9,Beiral,major,104,4,x
+DJAVAN,9,Beiral,major,105,3,6
+DJAVAN,9,Beiral,major,106,5,5
+DJAVAN,9,Beiral,major,107,6,13
+DJAVAN,9,Beiral,major,108,2,6
+DJAVAN,9,Beiral,major,109,1,5
+DJAVAN,9,Beiral,major,110,5,6
+DJAVAN,9,Beiral,major,111,6,7
+DJAVAN,9,Beiral,major,112,2,9
+DJAVAN,9,Beiral,major,113,1,1
+DJAVAN,9,Beiral,major,114,5,1
+DJAVAN,9,Beiral,major,115,6,9
+DJAVAN,9,Beiral,major,116,2,6
+DJAVAN,9,Beiral,major,117,1,5
+DJAVAN,9,Beiral,major,118,6,7
+DJAVAN,9,Beiral,major,119,5,6
+DJAVAN,9,Beiral,major,120,3,#11
+DJAVAN,9,Beiral,major,121,3,3
+DJAVAN,10,Om,minor,1,5,5
+DJAVAN,10,Om,minor,2,6,x
+DJAVAN,10,Om,minor,3,5,5
+DJAVAN,10,Om,minor,4,6,x
+DJAVAN,10,Om,minor,5,5,5
+DJAVAN,10,Om,minor,6,6,6
+DJAVAN,10,Om,minor,7,6,5
+DJAVAN,10,Om,minor,8,7,x
+DJAVAN,10,Om,minor,9,6,5
+DJAVAN,10,Om,minor,10,7,x
+DJAVAN,10,Om,minor,11,6,5
+DJAVAN,10,Om,minor,12,7,13
+DJAVAN,10,Om,minor,13,7,5
+DJAVAN,10,Om,minor,14,1,6
+DJAVAN,10,Om,minor,15,5,3
+DJAVAN,10,Om,minor,16,7,5
+DJAVAN,10,Om,minor,17,1,6
+DJAVAN,10,Om,minor,18,5,9
+DJAVAN,10,Om,minor,19,3,7
+DJAVAN,10,Om,minor,20,5,5
+DJAVAN,10,Om,minor,21,6,x
+DJAVAN,10,Om,minor,22,5,5
+DJAVAN,10,Om,minor,23,6,x
+DJAVAN,10,Om,minor,24,5,5
+DJAVAN,10,Om,minor,25,6,6
+DJAVAN,10,Om,minor,26,6,5
+DJAVAN,10,Om,minor,27,7,x
+DJAVAN,10,Om,minor,28,6,5
+DJAVAN,10,Om,minor,29,7,x
+DJAVAN,10,Om,minor,30,6,5
+DJAVAN,10,Om,minor,31,7,13
+DJAVAN,10,Om,minor,32,7,5
+DJAVAN,10,Om,minor,33,1,6
+DJAVAN,10,Om,minor,34,5,3
+DJAVAN,10,Om,minor,35,7,5
+DJAVAN,10,Om,minor,36,1,6
+DJAVAN,10,Om,minor,37,5,9
+DJAVAN,10,Om,minor,38,5,13
+DJAVAN,11,Agua,major,1,3,3
+DJAVAN,11,Agua,major,2,4,x
+DJAVAN,11,Agua,major,3,3,3
+DJAVAN,11,Agua,major,4,2,x
+DJAVAN,11,Agua,major,5,1,1
+DJAVAN,11,Agua,major,6,2,#11
+DJAVAN,11,Agua,major,7,1,3
+DJAVAN,11,Agua,major,8,#5/b6,1
+DJAVAN,11,Agua,major,9,1,3
+DJAVAN,11,Agua,major,10,2,x
+DJAVAN,11,Agua,major,11,1,3
+DJAVAN,11,Agua,major,12,4,x
+DJAVAN,11,Agua,major,13,3,3
+DJAVAN,11,Agua,major,14,3,3
+DJAVAN,11,Agua,major,15,4,x
+DJAVAN,11,Agua,major,16,3,3
+DJAVAN,11,Agua,major,17,2,x
+DJAVAN,11,Agua,major,18,1,1
+DJAVAN,11,Agua,major,19,2,#11
+DJAVAN,11,Agua,major,20,1,3
+DJAVAN,11,Agua,major,21,#5/b6,1
+DJAVAN,11,Agua,major,22,1,9
+DJAVAN,11,Agua,major,23,4,5
+DJAVAN,11,Agua,major,24,#5/b6,7
+DJAVAN,11,Agua,major,25,2,3
+DJAVAN,11,Agua,major,26,4,5
+DJAVAN,11,Agua,major,27,1,6
+DJAVAN,11,Agua,major,28,#6/b7,5
+DJAVAN,11,Agua,major,29,5,3
+DJAVAN,11,Agua,major,30,1,x
+DJAVAN,11,Agua,major,31,7,13
+DJAVAN,11,Agua,major,32,6,5
+DJAVAN,11,Agua,major,33,7,x
+DJAVAN,11,Agua,major,34,1,x
+DJAVAN,11,Agua,major,35,2,5
+DJAVAN,11,Agua,major,36,3,3
+DJAVAN,11,Agua,major,37,2,9
+DJAVAN,11,Agua,major,38,1,3
+DJAVAN,11,Agua,major,39,1,1
+DJAVAN,11,Agua,major,40,1,3
+DJAVAN,11,Agua,major,41,1,1
+DJAVAN,11,Agua,major,42,2,9
+DJAVAN,11,Agua,major,43,5,5
+DJAVAN,11,Agua,major,44,3,7
+DJAVAN,11,Agua,major,45,2,6
+DJAVAN,11,Agua,major,46,2,x
+DJAVAN,11,Agua,major,47,1,5
+DJAVAN,11,Agua,major,48,4,x
+DJAVAN,11,Agua,major,49,3,3
+DJAVAN,11,Agua,major,50,3,b13
+DJAVAN,11,Agua,major,51,4,x
+DJAVAN,11,Agua,major,52,3,5
+DJAVAN,11,Agua,major,53,2,11
+DJAVAN,11,Agua,major,54,1,x
+DJAVAN,11,Agua,major,55,7,9
+DJAVAN,11,Agua,major,56,6,1
+DJAVAN,11,Agua,major,57,2,x
+DJAVAN,11,Agua,major,58,1,5
+DJAVAN,11,Agua,major,59,6,3
+DJAVAN,11,Agua,major,60,2,6
+DJAVAN,11,Agua,major,61,1,1
+DJAVAN,11,Agua,major,62,1,7
+DJAVAN,12,Alibi,minor,1,6,5
+DJAVAN,12,Alibi,minor,2,6,b9/#9
+DJAVAN,12,Alibi,minor,3,5,1
+DJAVAN,12,Alibi,minor,4,6,x
+DJAVAN,12,Alibi,minor,5,5,1
+DJAVAN,12,Alibi,minor,6,2,9
+DJAVAN,12,Alibi,minor,7,5,5
+DJAVAN,12,Alibi,minor,8,3,1
+DJAVAN,12,Alibi,minor,9,4,x
+DJAVAN,12,Alibi,minor,10,5,11
+DJAVAN,12,Alibi,minor,11,3,b9/#9
+DJAVAN,12,Alibi,minor,12,4,7
+DJAVAN,12,Alibi,minor,13,5,1
+DJAVAN,12,Alibi,minor,14,3,9
+DJAVAN,12,Alibi,minor,15,4,x
+DJAVAN,12,Alibi,minor,16,5,5
+DJAVAN,12,Alibi,minor,17,2,9
+DJAVAN,12,Alibi,minor,18,6,1
+DJAVAN,12,Alibi,minor,19,6,5
+DJAVAN,12,Alibi,minor,20,6,b9/#9
+DJAVAN,12,Alibi,minor,21,5,1
+DJAVAN,12,Alibi,minor,22,6,x
+DJAVAN,12,Alibi,minor,23,5,1
+DJAVAN,12,Alibi,minor,24,2,9
+DJAVAN,12,Alibi,minor,25,5,5
+DJAVAN,12,Alibi,minor,26,3,1
+DJAVAN,12,Alibi,minor,27,4,x
+DJAVAN,12,Alibi,minor,28,5,11
+DJAVAN,12,Alibi,minor,29,3,b9/#9
+DJAVAN,12,Alibi,minor,30,4,7
+DJAVAN,12,Alibi,minor,31,5,1
+DJAVAN,12,Alibi,minor,32,3,b13
+DJAVAN,12,Alibi,minor,33,4,1
+DJAVAN,12,Alibi,minor,34,5,9
+DJAVAN,12,Alibi,minor,35,b7,11
+DJAVAN,12,Alibi,minor,36,1,5
+DJAVAN,12,Alibi,minor,37,b7,x
+DJAVAN,12,Alibi,minor,38,1,5
+DJAVAN,12,Alibi,minor,39,b7,x
+DJAVAN,12,Alibi,minor,40,1,5
+DJAVAN,12,Alibi,minor,41,b7,9
+DJAVAN,12,Alibi,minor,42,b7,b9/#9
+DJAVAN,12,Alibi,minor,43,5,5
+DJAVAN,12,Alibi,minor,44,1,1
+DJAVAN,12,Alibi,minor,45,3,3
+DJAVAN,12,Alibi,minor,46,1,1
+DJAVAN,12,Alibi,minor,47,2,x
+DJAVAN,12,Alibi,minor,48,3,5
+DJAVAN,12,Alibi,minor,49,4,x
+DJAVAN,12,Alibi,minor,50,3,5
+DJAVAN,12,Alibi,minor,51,5,7
+DJAVAN,12,Alibi,minor,52,4,13
+DJAVAN,12,Alibi,minor,53,1,3
+DJAVAN,12,Alibi,minor,54,3,5
+DJAVAN,12,Alibi,minor,55,#1/b2,5
+DJAVAN,12,Alibi,minor,56,5,1
+DJAVAN,12,Alibi,minor,57,#1/b2,5
+DJAVAN,12,Alibi,minor,58,5,1
+DJAVAN,12,Alibi,minor,59,#1/b2,5
+DJAVAN,12,Alibi,minor,60,1,11
+DJAVAN,12,Alibi,minor,61,#1/b2,5
+DJAVAN,12,Alibi,minor,62,5,5
+DJAVAN,12,Alibi,minor,63,#3,3
+DJAVAN,12,Alibi,minor,64,6,b13
+DJAVAN,12,Alibi,minor,65,5,5
+DJAVAN,12,Alibi,minor,66,4,1
+DJAVAN,12,Alibi,minor,67,5,x
+DJAVAN,12,Alibi,minor,68,6,7
+DJAVAN,12,Alibi,minor,69,5,x
+DJAVAN,12,Alibi,minor,70,4,5
+DJAVAN,12,Alibi,minor,71,b7,5
+DJAVAN,12,Alibi,minor,72,1,x
+DJAVAN,12,Alibi,minor,73,b7,5
+DJAVAN,12,Alibi,minor,74,1,x
+DJAVAN,12,Alibi,minor,75,b7,11
+DJAVAN,12,Alibi,minor,76,1,x
+DJAVAN,12,Alibi,minor,77,b7,11
+DJAVAN,12,Alibi,minor,78,1,11
+DJAVAN,12,Alibi,minor,79,b7,x
+DJAVAN,12,Alibi,minor,80,1,1
+DJAVAN,12,Alibi,minor,81,6,b13
+DJAVAN,12,Alibi,minor,82,b7,7
+DJAVAN,12,Alibi,minor,83,5,5
+DJAVAN,12,Alibi,minor,84,6,b13
+DJAVAN,12,Alibi,minor,85,4,3
+DJAVAN,12,Alibi,minor,86,5,11
+DJAVAN,12,Alibi,minor,87,2,1
+DJAVAN,12,Alibi,minor,88,5,1
+DJAVAN,12,Alibi,minor,89,2,5
+DJAVAN,12,Alibi,minor,90,3,x
+DJAVAN,12,Alibi,minor,91,4,7
+DJAVAN,12,Alibi,minor,92,3,3
+DJAVAN,12,Alibi,minor,93,2,x
+DJAVAN,12,Alibi,minor,94,3,3
+DJAVAN,13,Asa,minor,1,5,1
+DJAVAN,13,Asa,minor,2,1,1
+DJAVAN,13,Asa,minor,3,b7,7
+DJAVAN,13,Asa,minor,4,2,x
+DJAVAN,13,Asa,minor,5,1,1
+DJAVAN,13,Asa,minor,6,3,3
+DJAVAN,13,Asa,minor,7,1,1
+DJAVAN,13,Asa,minor,8,b7,9
+DJAVAN,13,Asa,minor,9,#4/b5,7
+DJAVAN,13,Asa,minor,10,3,5
+DJAVAN,13,Asa,minor,11,#4/b5,7
+DJAVAN,13,Asa,minor,12,4,x
+DJAVAN,13,Asa,minor,13,3,3
+DJAVAN,13,Asa,minor,14,6,x
+DJAVAN,13,Asa,minor,15,5,5
+DJAVAN,13,Asa,minor,16,1,1
+DJAVAN,13,Asa,minor,17,3,1
+DJAVAN,13,Asa,minor,18,1,3
+DJAVAN,13,Asa,minor,19,#4/b5,7
+DJAVAN,13,Asa,minor,20,3,5
+DJAVAN,13,Asa,minor,21,5,5
+DJAVAN,13,Asa,minor,22,4,11
+DJAVAN,13,Asa,minor,23,5,9
+DJAVAN,13,Asa,minor,24,6,x
+DJAVAN,13,Asa,minor,25,5,b13
+DJAVAN,13,Asa,minor,26,4,5
+DJAVAN,13,Asa,minor,27,2,3
+DJAVAN,13,Asa,minor,28,5,5
+DJAVAN,13,Asa,minor,29,4,11
+DJAVAN,13,Asa,minor,30,3,x
+DJAVAN,13,Asa,minor,31,2,13
+DJAVAN,13,Asa,minor,32,4,5
+DJAVAN,13,Asa,minor,33,3,3
+DJAVAN,13,Asa,minor,34,2,9
+DJAVAN,13,Asa,minor,35,2,x
+DJAVAN,13,Asa,minor,36,3,3
+DJAVAN,13,Asa,minor,37,1,1
+DJAVAN,13,Asa,minor,38,2,x
+DJAVAN,13,Asa,minor,39,3,3
+DJAVAN,13,Asa,minor,40,4,1
+DJAVAN,13,Asa,minor,41,5,9
+DJAVAN,13,Asa,minor,42,b7,14
+DJAVAN,13,Asa,minor,43,5,5
+DJAVAN,13,Asa,minor,44,b7,7
+DJAVAN,13,Asa,minor,45,5,5
+DJAVAN,13,Asa,minor,46,1,5
+DJAVAN,13,Asa,minor,47,5,9
+DJAVAN,13,Asa,minor,48,b7,7
+DJAVAN,13,Asa,minor,49,5,5
+DJAVAN,13,Asa,minor,50,#6,6
+DJAVAN,13,Asa,minor,51,4,11
+DJAVAN,13,Asa,minor,52,5,5
+DJAVAN,13,Asa,minor,53,3,7
+DJAVAN,13,Asa,minor,54,4,1
+DJAVAN,13,Asa,minor,55,2,3
+DJAVAN,13,Asa,minor,56,3,x
+DJAVAN,13,Asa,minor,57,1,b9/#9
+DJAVAN,13,Asa,minor,58,2,x
+DJAVAN,13,Asa,minor,59,3,3
+DJAVAN,13,Asa,minor,60,5,5
+DJAVAN,13,Asa,minor,61,2,9
+DJAVAN,13,Asa,minor,62,2,11
+DJAVAN,13,Asa,minor,63,5,1
+DJAVAN,13,Asa,minor,64,3,b13
+DJAVAN,13,Asa,minor,65,2,9
+DJAVAN,13,Asa,minor,66,5,5
+DJAVAN,13,Asa,minor,67,1,1
+DJAVAN,13,Asa,minor,68,b7,9
+DJAVAN,13,Asa,minor,69,6,x
+DJAVAN,13,Asa,minor,70,b7,9
+DJAVAN,13,Asa,minor,71,6,1
+DJAVAN,13,Asa,minor,72,2,x
+DJAVAN,13,Asa,minor,73,3,3
+DJAVAN,13,Asa,minor,74,4,11
+DJAVAN,13,Asa,minor,75,2,9
+DJAVAN,13,Asa,minor,76,3,3
+DJAVAN,13,Asa,minor,77,1,1
+DJAVAN,13,Asa,minor,78,1,13
+DJAVAN,13,Asa,minor,79,2,x
+DJAVAN,13,Asa,minor,80,3,1
+DJAVAN,13,Asa,minor,81,4,b9/#9
+DJAVAN,13,Asa,minor,82,5,x
+DJAVAN,13,Asa,minor,83,6,x
+DJAVAN,13,Asa,minor,84,b7,b13
+DJAVAN,14,Meu,major,1,5,5
+DJAVAN,14,Meu,major,2,6,x
+DJAVAN,14,Meu,major,3,7,7
+DJAVAN,14,Meu,major,4,1,x
+DJAVAN,14,Meu,major,5,7,7
+DJAVAN,14,Meu,major,6,1,1
+DJAVAN,14,Meu,major,7,7,x
+DJAVAN,14,Meu,major,8,1,3
+DJAVAN,14,Meu,major,9,7,x
+DJAVAN,14,Meu,major,10,1,3
+DJAVAN,14,Meu,major,11,7,9
+DJAVAN,14,Meu,major,12,5,3
+DJAVAN,14,Meu,major,13,6,x
+DJAVAN,14,Meu,major,14,7,5
+DJAVAN,14,Meu,major,15,1,x
+DJAVAN,14,Meu,major,16,7,5
+DJAVAN,14,Meu,major,17,1,x
+DJAVAN,14,Meu,major,18,7,5
+DJAVAN,14,Meu,major,19,1,7
+DJAVAN,14,Meu,major,20,7,x
+DJAVAN,14,Meu,major,21,1,7
+DJAVAN,14,Meu,major,22,7,x
+DJAVAN,14,Meu,major,23,1,7
+DJAVAN,14,Meu,major,24,6,5
+DJAVAN,14,Meu,major,25,7,x
+DJAVAN,14,Meu,major,26,1,7
+DJAVAN,14,Meu,major,27,3,9
+DJAVAN,14,Meu,major,28,2,x
+DJAVAN,14,Meu,major,29,3,9
+DJAVAN,14,Meu,major,30,2,6
+DJAVAN,14,Meu,major,31,#2/b3,x
+DJAVAN,14,Meu,major,32,2,6
+DJAVAN,14,Meu,major,33,1,5
+DJAVAN,14,Meu,major,34,#5/b6,3
+DJAVAN,14,Meu,major,35,4,1
+DJAVAN,14,Meu,major,36,2,6
+DJAVAN,14,Meu,major,37,5,3
+DJAVAN,14,Meu,major,38,6,x
+DJAVAN,14,Meu,major,39,7,5
+DJAVAN,14,Meu,major,40,1,6
+DJAVAN,14,Meu,major,41,7,x
+DJAVAN,14,Meu,major,42,1,6
+DJAVAN,14,Meu,major,43,7,x
+DJAVAN,14,Meu,major,44,1,3
+DJAVAN,14,Meu,major,45,7,x
+DJAVAN,14,Meu,major,46,1,3
+DJAVAN,14,Meu,major,47,7,x
+DJAVAN,14,Meu,major,48,1,3
+DJAVAN,14,Meu,major,49,1,7
+DJAVAN,14,Meu,major,50,7,x
+DJAVAN,14,Meu,major,51,6,5
+DJAVAN,14,Meu,major,52,5,x
+DJAVAN,14,Meu,major,53,4,3
+DJAVAN,14,Meu,major,54,5,x
+DJAVAN,14,Meu,major,55,6,5
+DJAVAN,14,Meu,major,56,3,x
+DJAVAN,14,Meu,major,57,2,1
+DJAVAN,14,Meu,major,58,2,6
+DJAVAN,14,Meu,major,59,3,7
+DJAVAN,14,Meu,major,60,1,5
+DJAVAN,14,Meu,major,61,2,x
+DJAVAN,14,Meu,major,62,3,1
+DJAVAN,14,Meu,major,63,2,7
+DJAVAN,14,Meu,major,64,3,7
+DJAVAN,14,Meu,major,65,1,5
+DJAVAN,14,Meu,major,66,2,x
+DJAVAN,14,Meu,major,67,3,6
+DJAVAN,14,Meu,major,68,5,1
+DJAVAN,14,Meu,major,69,6,9
+DJAVAN,14,Meu,major,70,1,11
+DJAVAN,14,Meu,major,71,1,1
+DJAVAN,14,Meu,major,72,2,x
+DJAVAN,14,Meu,major,73,3,3
+DJAVAN,14,Meu,major,74,3,7
+DJAVAN,14,Meu,major,75,1,5
+DJAVAN,14,Meu,major,76,2,x
+DJAVAN,14,Meu,major,77,3,1
+DJAVAN,14,Meu,major,78,2,7
+DJAVAN,14,Meu,major,79,5,3
+DJAVAN,14,Meu,major,80,3,1
+DJAVAN,14,Meu,major,81,5,3
+DJAVAN,14,Meu,major,82,6,1
+DJAVAN,14,Meu,major,83,1,3
+DJAVAN,14,Meu,major,84,6,1
+DJAVAN,14,Meu,major,85,2,x
+DJAVAN,14,Meu,major,86,1,3
+DJAVAN,14,Meu,major,87,6,1
+DJAVAN,14,Meu,major,88,2,x
+DJAVAN,14,Meu,major,89,1,5
+DJAVAN,14,Meu,major,90,#5/b6,3
+DJAVAN,14,Meu,major,91,2,x
+DJAVAN,14,Meu,major,92,1,5
+DJAVAN,14,Meu,major,93,#5/b6,3
+DJAVAN,14,Meu,major,94,7,x
+DJAVAN,14,Meu,major,95,1,1
+DJAVAN,15,Numa esquina de Hanoi,major,1,3,3
+DJAVAN,15,Numa esquina de Hanoi,major,2,5,5
+DJAVAN,15,Numa esquina de Hanoi,major,3,5,11
+DJAVAN,15,Numa esquina de Hanoi,major,4,4,3
+DJAVAN,15,Numa esquina de Hanoi,major,5,6,5
+DJAVAN,15,Numa esquina de Hanoi,major,6,#4/b5,3
+DJAVAN,15,Numa esquina de Hanoi,major,7,6,5
+DJAVAN,15,Numa esquina de Hanoi,major,8,5,5
+DJAVAN,15,Numa esquina de Hanoi,major,9,1,1
+DJAVAN,15,Numa esquina de Hanoi,major,10,7,x
+DJAVAN,15,Numa esquina de Hanoi,major,11,1,5
+DJAVAN,15,Numa esquina de Hanoi,major,12,#5/b6,3
+DJAVAN,15,Numa esquina de Hanoi,major,13,1,1
+DJAVAN,15,Numa esquina de Hanoi,major,14,5,5
+DJAVAN,15,Numa esquina de Hanoi,major,15,1,7
+DJAVAN,15,Numa esquina de Hanoi,major,16,4,3
+DJAVAN,15,Numa esquina de Hanoi,major,17,5,11
+DJAVAN,15,Numa esquina de Hanoi,major,18,3,3
+DJAVAN,15,Numa esquina de Hanoi,major,19,5,5
+DJAVAN,16,Topazio,major,1,3,9
+DJAVAN,16,Topazio,major,2,4,x
+DJAVAN,16,Topazio,major,3,3,7
+DJAVAN,16,Topazio,major,4,2,7
+DJAVAN,16,Topazio,major,5,1,x
+DJAVAN,16,Topazio,major,6,2,7
+DJAVAN,16,Topazio,major,7,1,7
+DJAVAN,16,Topazio,major,8,7,b13
+DJAVAN,16,Topazio,major,9,3,9
+DJAVAN,16,Topazio,major,10,4,x
+DJAVAN,16,Topazio,major,11,3,7
+DJAVAN,16,Topazio,major,12,2,7
+DJAVAN,16,Topazio,major,13,1,x
+DJAVAN,16,Topazio,major,14,2,7
+DJAVAN,16,Topazio,major,15,1,7
+DJAVAN,16,Topazio,major,16,#2/b3,x
+DJAVAN,16,Topazio,major,17,2,14
+DJAVAN,16,Topazio,major,18,1,6
+DJAVAN,16,Topazio,major,19,3,9
+DJAVAN,16,Topazio,major,20,4,x
+DJAVAN,16,Topazio,major,21,3,7
+DJAVAN,16,Topazio,major,22,2,7
+DJAVAN,16,Topazio,major,23,3,x
+DJAVAN,16,Topazio,major,24,2,7
+DJAVAN,16,Topazio,major,25,3,x
+DJAVAN,16,Topazio,major,26,2,7
+DJAVAN,16,Topazio,major,27,#2/b3,1
+DJAVAN,16,Topazio,major,28,2,14
+DJAVAN,16,Topazio,major,29,1,7
+DJAVAN,16,Topazio,major,30,7,x
+DJAVAN,16,Topazio,major,31,1,6
+DJAVAN,16,Topazio,major,32,2,7
+DJAVAN,16,Topazio,major,33,7,x
+DJAVAN,16,Topazio,major,34,#6/b7,5
+DJAVAN,16,Topazio,major,35,6,5
+DJAVAN,16,Topazio,major,36,4,3
+DJAVAN,16,Topazio,major,37,3,#11
+DJAVAN,16,Topazio,major,38,5,13
+DJAVAN,16,Topazio,major,39,#5/b6,x
+DJAVAN,16,Topazio,major,40,5,13
+DJAVAN,16,Topazio,major,41,3,9
+DJAVAN,16,Topazio,major,42,2,1
+DJAVAN,16,Topazio,major,43,4,1
+DJAVAN,16,Topazio,major,44,#2/b3,x
+DJAVAN,16,Topazio,major,45,4,5
+DJAVAN,16,Topazio,major,46,5,x
+DJAVAN,16,Topazio,major,47,4,5
+DJAVAN,16,Topazio,major,48,3,3
+DJAVAN,16,Topazio,major,49,4,7
+DJAVAN,16,Topazio,major,50,5,x
+DJAVAN,16,Topazio,major,51,6,9
+DJAVAN,16,Topazio,major,52,7,x
+DJAVAN,16,Topazio,major,53,1,x
+DJAVAN,16,Topazio,major,54,2,5
+DJAVAN,16,Topazio,major,55,3,13
+DJAVAN,16,Topazio,major,56,2,9
+DJAVAN,16,Topazio,major,57,#6/b7,7
+DJAVAN,16,Topazio,major,58,4,7
+DJAVAN,16,Topazio,major,59,5,x
+DJAVAN,16,Topazio,major,60,6,9
+DJAVAN,16,Topazio,major,61,7,x
+DJAVAN,16,Topazio,major,62,1,3
+DJAVAN,16,Topazio,major,63,3,13
+DJAVAN,16,Topazio,major,64,3,3
+DJAVAN,16,Topazio,major,65,2,9
+DJAVAN,16,Topazio,major,66,4,7
+DJAVAN,16,Topazio,major,67,5,9
+DJAVAN,16,Topazio,major,68,6,x
+DJAVAN,16,Topazio,major,69,7,x
+DJAVAN,16,Topazio,major,70,1,3
+DJAVAN,16,Topazio,major,71,3,13
+DJAVAN,16,Topazio,major,72,5,3
+DJAVAN,16,Topazio,major,73,6,x
+DJAVAN,16,Topazio,major,74,5,7
+DJAVAN,17,Nereci,minor,1,3,3
+DJAVAN,17,Nereci,minor,2,2,x
+DJAVAN,17,Nereci,minor,3,1,1
+DJAVAN,17,Nereci,minor,4,b7,7
+DJAVAN,17,Nereci,minor,5,5,5
+DJAVAN,17,Nereci,minor,6,1,1
+DJAVAN,17,Nereci,minor,7,b7,7
+DJAVAN,17,Nereci,minor,8,5,1
+DJAVAN,17,Nereci,minor,9,b7,3
+DJAVAN,17,Nereci,minor,10,5,1
+DJAVAN,17,Nereci,minor,11,4,1
+DJAVAN,17,Nereci,minor,12,3,7
+DJAVAN,17,Nereci,minor,13,1,5
+DJAVAN,17,Nereci,minor,14,4,1
+DJAVAN,17,Nereci,minor,15,3,3
+DJAVAN,17,Nereci,minor,16,1,1
+DJAVAN,17,Nereci,minor,17,2,x
+DJAVAN,17,Nereci,minor,18,1,1
+DJAVAN,17,Nereci,minor,19,b7,7
+DJAVAN,17,Nereci,minor,20,5,5
+DJAVAN,17,Nereci,minor,21,1,1
+DJAVAN,17,Nereci,minor,22,b7,7
+DJAVAN,17,Nereci,minor,23,5,1
+DJAVAN,17,Nereci,minor,24,b7,3
+DJAVAN,17,Nereci,minor,25,5,1
+DJAVAN,17,Nereci,minor,26,4,x
+DJAVAN,17,Nereci,minor,27,3,7
+DJAVAN,17,Nereci,minor,28,4,1
+DJAVAN,17,Nereci,minor,29,2,1
+DJAVAN,17,Nereci,minor,30,#4/b5,3
+DJAVAN,17,Nereci,minor,31,3,b9/#9
+DJAVAN,17,Nereci,minor,32,5,5
+DJAVAN,17,Nereci,minor,33,b7,7
+DJAVAN,17,Nereci,minor,34,5,5
+DJAVAN,17,Nereci,minor,35,b7,3
+DJAVAN,17,Nereci,minor,36,1,#11
+DJAVAN,17,Nereci,minor,37,5,9
+DJAVAN,17,Nereci,minor,38,b7,11
+DJAVAN,17,Nereci,minor,39,1,5
+DJAVAN,17,Nereci,minor,40,#4/b5,x
+DJAVAN,17,Nereci,minor,41,4,3
+DJAVAN,17,Nereci,minor,42,4,11
+DJAVAN,17,Nereci,minor,43,5,5
+DJAVAN,17,Nereci,minor,44,b7,9
+DJAVAN,17,Nereci,minor,45,2,1
+DJAVAN,17,Nereci,minor,46,b7,6
+DJAVAN,17,Nereci,minor,47,5,11
+DJAVAN,17,Nereci,minor,48,2,5
+DJAVAN,17,Nereci,minor,49,3,b13
+DJAVAN,18,Samba dobrado,major,1,5,5
+DJAVAN,18,Samba dobrado,major,2,1,1
+DJAVAN,18,Samba dobrado,major,3,3,3
+DJAVAN,18,Samba dobrado,major,4,5,5
+DJAVAN,18,Samba dobrado,major,5,3,3
+DJAVAN,18,Samba dobrado,major,6,6,3
+DJAVAN,18,Samba dobrado,major,7,5,9
+DJAVAN,18,Samba dobrado,major,8,5,5
+DJAVAN,18,Samba dobrado,major,9,1,1
+DJAVAN,18,Samba dobrado,major,10,3,3
+DJAVAN,18,Samba dobrado,major,11,5,5
+DJAVAN,18,Samba dobrado,major,12,7,7
+DJAVAN,18,Samba dobrado,major,13,6,11
+DJAVAN,18,Samba dobrado,major,14,6,1
+DJAVAN,18,Samba dobrado,major,15,6,3
+DJAVAN,18,Samba dobrado,major,16,1,5
+DJAVAN,18,Samba dobrado,major,17,2,6
+DJAVAN,18,Samba dobrado,major,18,3,x
+DJAVAN,18,Samba dobrado,major,19,2,6
+DJAVAN,18,Samba dobrado,major,20,1,5
+DJAVAN,18,Samba dobrado,major,21,6,3
+DJAVAN,18,Samba dobrado,major,22,6,11
+DJAVAN,18,Samba dobrado,major,23,6,1
+DJAVAN,18,Samba dobrado,major,24,5,7
+DJAVAN,18,Samba dobrado,major,25,3,5
+DJAVAN,18,Samba dobrado,major,26,2,x
+DJAVAN,18,Samba dobrado,major,27,3,9
+DJAVAN,18,Samba dobrado,major,28,6,9
+DJAVAN,18,Samba dobrado,major,29,5,1
+DJAVAN,18,Samba dobrado,major,30,3,13
+DJAVAN,18,Samba dobrado,major,31,2,x
+DJAVAN,18,Samba dobrado,major,32,3,6
+DJAVAN,18,Samba dobrado,major,33,3,3
+DJAVAN,18,Samba dobrado,major,34,2,9
+DJAVAN,18,Samba dobrado,major,35,3,3
+DJAVAN,18,Samba dobrado,major,36,3,7
+DJAVAN,18,Samba dobrado,major,37,6,3
+DJAVAN,18,Samba dobrado,major,38,1,5
+DJAVAN,18,Samba dobrado,major,39,2,6
+DJAVAN,18,Samba dobrado,major,40,3,x
+DJAVAN,18,Samba dobrado,major,41,2,6
+DJAVAN,18,Samba dobrado,major,42,1,5
+DJAVAN,18,Samba dobrado,major,43,6,3
+DJAVAN,18,Samba dobrado,major,44,6,11
+DJAVAN,18,Samba dobrado,major,45,1,b9/#9
+DJAVAN,18,Samba dobrado,major,46,6,1
+DJAVAN,18,Samba dobrado,major,47,5,7
+DJAVAN,18,Samba dobrado,major,48,3,5
+DJAVAN,18,Samba dobrado,major,49,2,x
+DJAVAN,18,Samba dobrado,major,50,3,9
+DJAVAN,18,Samba dobrado,major,51,6,5
+DJAVAN,18,Samba dobrado,major,52,1,7
+DJAVAN,18,Samba dobrado,major,53,3,13
+DJAVAN,18,Samba dobrado,major,54,1,1
+DJAVAN,18,Samba dobrado,major,55,6,6
+DJAVAN,18,Samba dobrado,major,56,1,3
+DJAVAN,18,Samba dobrado,major,57,3,5
+DJAVAN,18,Samba dobrado,major,58,6,1
+DJAVAN,18,Samba dobrado,major,59,1,3
+DJAVAN,18,Samba dobrado,major,60,3,9
+DJAVAN,18,Samba dobrado,major,61,6,5
+DJAVAN,18,Samba dobrado,major,62,2,9
+DJAVAN,18,Samba dobrado,major,63,2,b9/#9
+DJAVAN,18,Samba dobrado,major,64,7,1
+DJAVAN,18,Samba dobrado,major,65,3,5
+DJAVAN,18,Samba dobrado,major,66,6,1
+DJAVAN,18,Samba dobrado,major,67,7,x
+DJAVAN,18,Samba dobrado,major,68,1,3
+DJAVAN,18,Samba dobrado,major,69,3,5
+DJAVAN,18,Samba dobrado,major,70,6,1
+DJAVAN,18,Samba dobrado,major,71,7,11
+DJAVAN,18,Samba dobrado,major,72,1,5
+DJAVAN,18,Samba dobrado,major,73,6,7
+DJAVAN,18,Samba dobrado,major,74,7,1
+DJAVAN,18,Samba dobrado,major,75,6,7
+DJAVAN,18,Samba dobrado,major,76,1,b9/#9
+DJAVAN,18,Samba dobrado,major,77,7,x
+DJAVAN,18,Samba dobrado,major,78,6,7
+DJAVAN,18,Samba dobrado,major,79,6,3
+DJAVAN,18,Samba dobrado,major,80,#5/b6,7
+DJAVAN,18,Samba dobrado,major,81,#6/b7,x
+DJAVAN,18,Samba dobrado,major,82,#5/b6,7
+DJAVAN,18,Samba dobrado,major,83,#6/b7,1
+DJAVAN,18,Samba dobrado,major,84,#5/b6,7
+DJAVAN,18,Samba dobrado,major,85,5,3
+DJAVAN,18,Samba dobrado,major,86,#4/b5,x
+DJAVAN,18,Samba dobrado,major,87,5,1
+DJAVAN,18,Samba dobrado,major,88,1,1
+DJAVAN,18,Samba dobrado,major,89,#6/b7,7
+DJAVAN,18,Samba dobrado,major,90,5,5
+DJAVAN,18,Samba dobrado,major,91,#2/b3,3
+DJAVAN,18,Samba dobrado,major,92,4,3
+DJAVAN,18,Samba dobrado,major,93,5,11
+DJAVAN,18,Samba dobrado,major,94,5,1
+DJAVAN,19,Maca,major,1,3,3
+DJAVAN,19,Maca,major,2,5,5
+DJAVAN,19,Maca,major,3,6,6
+DJAVAN,19,Maca,major,4,3,3
+DJAVAN,19,Maca,major,5,5,5
+DJAVAN,19,Maca,major,6,6,x
+DJAVAN,19,Maca,major,7,5,5
+DJAVAN,19,Maca,major,8,3,3
+DJAVAN,19,Maca,major,9,#2/b3,7
+DJAVAN,19,Maca,major,10,1,1
+DJAVAN,19,Maca,major,11,2,9
+DJAVAN,19,Maca,major,12,2,14
+DJAVAN,19,Maca,major,13,1,x
+DJAVAN,19,Maca,major,14,2,14
+DJAVAN,19,Maca,major,15,2,1
+DJAVAN,19,Maca,major,16,1,x
+DJAVAN,19,Maca,major,17,2,1
+DJAVAN,19,Maca,major,18,2,5
+DJAVAN,19,Maca,major,19,1,x
+DJAVAN,19,Maca,major,20,2,5
+DJAVAN,19,Maca,major,21,1,x
+DJAVAN,19,Maca,major,22,2,5
+DJAVAN,19,Maca,major,23,3,3
+DJAVAN,19,Maca,major,24,5,5
+DJAVAN,19,Maca,major,25,6,6
+DJAVAN,19,Maca,major,26,7,7
+DJAVAN,19,Maca,major,27,2,9
+DJAVAN,19,Maca,major,28,2,13
+DJAVAN,19,Maca,major,29,3,3
+DJAVAN,19,Maca,major,30,5,5
+DJAVAN,19,Maca,major,31,6,6
+DJAVAN,19,Maca,major,32,3,3
+DJAVAN,19,Maca,major,33,5,5
+DJAVAN,19,Maca,major,34,6,6
+DJAVAN,19,Maca,major,35,3,3
+DJAVAN,19,Maca,major,36,3,3
+DJAVAN,19,Maca,major,37,5,5
+DJAVAN,19,Maca,major,38,6,6
+DJAVAN,19,Maca,major,39,3,3
+DJAVAN,19,Maca,major,40,5,5
+DJAVAN,19,Maca,major,41,6,x
+DJAVAN,19,Maca,major,42,5,5
+DJAVAN,19,Maca,major,43,3,3
+DJAVAN,19,Maca,major,44,#2/b3,7
+DJAVAN,19,Maca,major,45,2,13
+DJAVAN,19,Maca,major,46,1,1
+DJAVAN,19,Maca,major,47,2,9
+DJAVAN,19,Maca,major,48,2,14
+DJAVAN,19,Maca,major,49,1,7
+DJAVAN,19,Maca,major,50,2,14
+DJAVAN,19,Maca,major,51,2,1
+DJAVAN,19,Maca,major,52,1,7
+DJAVAN,19,Maca,major,53,2,1
+DJAVAN,19,Maca,major,54,1,3
+DJAVAN,19,Maca,major,55,2,x
+DJAVAN,19,Maca,major,56,3,13
+DJAVAN,19,Maca,major,57,1,x
+DJAVAN,19,Maca,major,58,2,5
+DJAVAN,19,Maca,major,59,1,6
+DJAVAN,19,Maca,major,60,2,7
+DJAVAN,19,Maca,major,61,2,14
+DJAVAN,19,Maca,major,62,1,7
+DJAVAN,19,Maca,major,63,2,14
+DJAVAN,19,Maca,major,64,2,1
+DJAVAN,19,Maca,major,65,6,5
+DJAVAN,19,Maca,major,66,1,7
+DJAVAN,19,Maca,major,67,2,7
+DJAVAN,19,Maca,major,68,3,1
+DJAVAN,19,Maca,major,69,5,b9/#9
+DJAVAN,19,Maca,major,70,6,x
+DJAVAN,19,Maca,major,71,7,#11
+DJAVAN,19,Maca,major,72,2,13
+DJAVAN,19,Maca,major,73,6,3
+DJAVAN,19,Maca,major,74,5,9
+DJAVAN,19,Maca,major,75,7,3
+DJAVAN,19,Maca,major,76,2,5
+DJAVAN,19,Maca,major,77,#1/b2,x
+DJAVAN,19,Maca,major,78,1,x
+DJAVAN,19,Maca,major,79,7,3
+DJAVAN,19,Maca,major,80,6,x
+DJAVAN,19,Maca,major,81,5,1
+DJAVAN,19,Maca,major,82,3,1
+DJAVAN,19,Maca,major,83,6,3
+DJAVAN,19,Maca,major,84,6,9
+DJAVAN,19,Maca,major,85,5,3
+DJAVAN,19,Maca,major,86,6,11
+DJAVAN,19,Maca,major,87,5,9
+DJAVAN,19,Maca,major,88,#4/b5,x
+DJAVAN,19,Maca,major,89,4,1
+DJAVAN,19,Maca,major,90,3,1
+DJAVAN,19,Maca,major,91,2,x
+DJAVAN,19,Maca,major,92,3,1
+DJAVAN,20,Dupla traicao,major,1,3,1
+DJAVAN,20,Dupla traicao,major,2,7,9
+DJAVAN,20,Dupla traicao,major,3,3,5
+DJAVAN,20,Dupla traicao,major,4,7,3
+DJAVAN,20,Dupla traicao,major,5,1,x
+DJAVAN,20,Dupla traicao,major,6,7,3
+DJAVAN,20,Dupla traicao,major,7,1,x
+DJAVAN,20,Dupla traicao,major,8,7,7
+DJAVAN,20,Dupla traicao,major,9,1,1
+DJAVAN,20,Dupla traicao,major,10,5,5
+DJAVAN,20,Dupla traicao,major,11,1,x
+DJAVAN,20,Dupla traicao,major,12,7,#11
+DJAVAN,20,Dupla traicao,major,13,6,3
+DJAVAN,20,Dupla traicao,major,14,5,x
+DJAVAN,20,Dupla traicao,major,15,6,3
+DJAVAN,20,Dupla traicao,major,16,6,7
+DJAVAN,20,Dupla traicao,major,17,7,1
+DJAVAN,20,Dupla traicao,major,18,5,3
+DJAVAN,20,Dupla traicao,major,19,#6/b7,b9/#9
+DJAVAN,20,Dupla traicao,major,20,6,x
+DJAVAN,20,Dupla traicao,major,21,5,7
+DJAVAN,20,Dupla traicao,major,22,4,b13
+DJAVAN,20,Dupla traicao,major,23,5,11
+DJAVAN,20,Dupla traicao,major,24,5,#11
+DJAVAN,20,Dupla traicao,major,25,#1/b2,5
+DJAVAN,20,Dupla traicao,major,26,#5/b6,9
+DJAVAN,20,Dupla traicao,major,27,#1/b2,9
+DJAVAN,20,Dupla traicao,major,28,#5/b6,13
+DJAVAN,20,Dupla traicao,major,29,6,7
+DJAVAN,20,Dupla traicao,major,30,#5/b6,3
+DJAVAN,20,Dupla traicao,major,31,#4/b5,x
+DJAVAN,20,Dupla traicao,major,32,5,3
+DJAVAN,20,Dupla traicao,major,33,#4/b5,9
+DJAVAN,20,Dupla traicao,major,34,7,5
+DJAVAN,20,Dupla traicao,major,35,#4/b5,9
+DJAVAN,20,Dupla traicao,major,36,5,x
+DJAVAN,20,Dupla traicao,major,37,#4/b5,13
+DJAVAN,20,Dupla traicao,major,38,4,3
+DJAVAN,20,Dupla traicao,major,39,3,x
+DJAVAN,20,Dupla traicao,major,40,4,3
+DJAVAN,20,Dupla traicao,major,41,3,x
+DJAVAN,20,Dupla traicao,major,42,4,3
+DJAVAN,20,Dupla traicao,major,43,3,9
+DJAVAN,20,Dupla traicao,major,44,4,3
+DJAVAN,20,Dupla traicao,major,45,3,13
+DJAVAN,20,Dupla traicao,major,46,5,5
+DJAVAN,20,Dupla traicao,major,47,3,3
+DJAVAN,20,Dupla traicao,major,48,3,7
+DJAVAN,20,Dupla traicao,major,49,#2/b3,x
+DJAVAN,20,Dupla traicao,major,50,3,7
+DJAVAN,20,Dupla traicao,major,51,5,9
+DJAVAN,20,Dupla traicao,major,52,#4/b5,x
+DJAVAN,20,Dupla traicao,major,53,4,5
+DJAVAN,20,Dupla traicao,major,54,3,11
+DJAVAN,20,Dupla traicao,major,55,4,x
+DJAVAN,20,Dupla traicao,major,56,3,11
+DJAVAN,20,Dupla traicao,major,57,4,x
+DJAVAN,20,Dupla traicao,major,58,3,1
+DJAVAN,20,Dupla traicao,major,59,4,b9/#9
+DJAVAN,20,Dupla traicao,major,60,5,x
+DJAVAN,20,Dupla traicao,major,61,4,b9/#9
+DJAVAN,20,Dupla traicao,major,62,3,1
+DJAVAN,20,Dupla traicao,major,63,4,1
+DJAVAN,20,Dupla traicao,major,64,4,5
+DJAVAN,21,Oceano,major,1,5,5
+DJAVAN,21,Oceano,major,2,4,1
+DJAVAN,21,Oceano,major,3,3,x
+DJAVAN,21,Oceano,major,4,4,1
+DJAVAN,21,Oceano,major,5,5,x
+DJAVAN,21,Oceano,major,6,6,9
+DJAVAN,21,Oceano,major,7,5,1
+DJAVAN,21,Oceano,major,8,4,x
+DJAVAN,21,Oceano,major,9,3,b13
+DJAVAN,21,Oceano,major,10,2,x
+DJAVAN,21,Oceano,major,11,1,11
+DJAVAN,21,Oceano,major,12,7,3
+DJAVAN,21,Oceano,major,13,1,3
+DJAVAN,21,Oceano,major,14,7,x
+DJAVAN,21,Oceano,major,15,1,3
+DJAVAN,21,Oceano,major,16,6,1
+DJAVAN,21,Oceano,major,17,7,x
+DJAVAN,21,Oceano,major,18,1,3
+DJAVAN,21,Oceano,major,19,3,5
+DJAVAN,21,Oceano,major,20,2,11
+DJAVAN,21,Oceano,major,21,1,x
+DJAVAN,21,Oceano,major,22,2,5
+DJAVAN,21,Oceano,major,23,3,6
+DJAVAN,21,Oceano,major,24,1,11
+DJAVAN,21,Oceano,major,25,1,5
+DJAVAN,21,Oceano,major,26,2,x
+DJAVAN,21,Oceano,major,27,#2/b3,7
+DJAVAN,21,Oceano,major,28,5,13
+DJAVAN,21,Oceano,major,29,4,5
+DJAVAN,21,Oceano,major,30,#2/b3,x
+DJAVAN,21,Oceano,major,31,4,5
+DJAVAN,21,Oceano,major,32,5,3
+DJAVAN,21,Oceano,major,33,4,b13
+DJAVAN,21,Oceano,major,34,3,x
+DJAVAN,21,Oceano,major,35,2,1
+DJAVAN,21,Oceano,major,36,6,5
+DJAVAN,21,Oceano,major,37,2,5
+DJAVAN,22,Alagoas,major,1,6,6
+DJAVAN,22,Alagoas,major,2,5,5
+DJAVAN,22,Alagoas,major,3,6,6
+DJAVAN,22,Alagoas,major,4,5,x
+DJAVAN,22,Alagoas,major,5,6,5
+DJAVAN,22,Alagoas,major,6,5,11
+DJAVAN,22,Alagoas,major,7,6,x
+DJAVAN,22,Alagoas,major,8,5,11
+DJAVAN,22,Alagoas,major,9,6,11
+DJAVAN,22,Alagoas,major,10,5,x
+DJAVAN,22,Alagoas,major,11,6,11
+DJAVAN,22,Alagoas,major,12,7,6
+DJAVAN,22,Alagoas,major,13,5,7
+DJAVAN,22,Alagoas,major,14,6,1
+DJAVAN,22,Alagoas,major,15,3,5
+DJAVAN,22,Alagoas,major,16,3,9
+DJAVAN,22,Alagoas,major,17,6,6
+DJAVAN,22,Alagoas,major,18,5,x
+DJAVAN,22,Alagoas,major,19,6,6
+DJAVAN,22,Alagoas,major,20,5,x
+DJAVAN,22,Alagoas,major,21,6,5
+DJAVAN,22,Alagoas,major,22,5,11
+DJAVAN,22,Alagoas,major,23,6,x
+DJAVAN,22,Alagoas,major,24,5,11
+DJAVAN,22,Alagoas,major,25,6,11
+DJAVAN,22,Alagoas,major,26,5,x
+DJAVAN,22,Alagoas,major,27,6,11
+DJAVAN,22,Alagoas,major,28,7,6
+DJAVAN,22,Alagoas,major,29,5,7
+DJAVAN,22,Alagoas,major,30,6,1
+DJAVAN,22,Alagoas,major,31,3,9
+DJAVAN,22,Alagoas,major,32,1,7
+DJAVAN,22,Alagoas,major,33,6,5
+DJAVAN,22,Alagoas,major,34,1,7
+DJAVAN,22,Alagoas,major,35,4,1
+DJAVAN,22,Alagoas,major,36,3,13
+DJAVAN,22,Alagoas,major,37,1,3
+DJAVAN,22,Alagoas,major,38,2,#11
+DJAVAN,22,Alagoas,major,39,1,3
+DJAVAN,23,Estoria de cantador,major,1,3,3
+DJAVAN,23,Estoria de cantador,major,2,5,5
+DJAVAN,23,Estoria de cantador,major,3,4,x
+DJAVAN,23,Estoria de cantador,major,4,3,3
+DJAVAN,23,Estoria de cantador,major,5,2,9
+DJAVAN,23,Estoria de cantador,major,6,3,3
+DJAVAN,23,Estoria de cantador,major,7,1,1
+DJAVAN,23,Estoria de cantador,major,8,5,5
+DJAVAN,23,Estoria de cantador,major,9,#6/b7,1
+DJAVAN,23,Estoria de cantador,major,10,6,x
+DJAVAN,23,Estoria de cantador,major,11,#6/b7,1
+DJAVAN,23,Estoria de cantador,major,12,1,9
+DJAVAN,23,Estoria de cantador,major,13,5,6
+DJAVAN,23,Estoria de cantador,major,14,1,1
+DJAVAN,23,Estoria de cantador,major,15,2,x
+DJAVAN,23,Estoria de cantador,major,16,3,3
+DJAVAN,23,Estoria de cantador,major,17,5,5
+DJAVAN,23,Estoria de cantador,major,18,4,x
+DJAVAN,23,Estoria de cantador,major,19,3,3
+DJAVAN,23,Estoria de cantador,major,20,1,1
+DJAVAN,23,Estoria de cantador,major,21,2,x
+DJAVAN,23,Estoria de cantador,major,22,3,3
+DJAVAN,23,Estoria de cantador,major,23,5,5
+DJAVAN,23,Estoria de cantador,major,24,4,x
+DJAVAN,23,Estoria de cantador,major,25,3,3
+DJAVAN,23,Estoria de cantador,major,26,1,5
+DJAVAN,23,Estoria de cantador,major,27,4,1
+DJAVAN,23,Estoria de cantador,major,28,4,7
+DJAVAN,23,Estoria de cantador,major,29,5,x
+DJAVAN,23,Estoria de cantador,major,30,6,9
+DJAVAN,23,Estoria de cantador,major,31,5,1
+DJAVAN,23,Estoria de cantador,major,32,4,7
+DJAVAN,23,Estoria de cantador,major,33,3,b9/#9
+DJAVAN,23,Estoria de cantador,major,34,4,x
+DJAVAN,23,Estoria de cantador,major,35,3,x
+DJAVAN,23,Estoria de cantador,major,36,2,7
+DJAVAN,23,Estoria de cantador,major,37,1,x
+DJAVAN,23,Estoria de cantador,major,38,2,7
+DJAVAN,23,Estoria de cantador,major,39,1,3
+DJAVAN,23,Estoria de cantador,major,40,1,7
+DJAVAN,23,Estoria de cantador,major,41,2,x
+DJAVAN,23,Estoria de cantador,major,42,3,9
+DJAVAN,23,Estoria de cantador,major,43,3,7
+DJAVAN,23,Estoria de cantador,major,44,5,9
+DJAVAN,23,Estoria de cantador,major,45,4,x
+DJAVAN,23,Estoria de cantador,major,46,3,13
+DJAVAN,23,Estoria de cantador,major,47,5,1
+DJAVAN,23,Estoria de cantador,major,48,4,x
+DJAVAN,23,Estoria de cantador,major,49,3,x
+DJAVAN,23,Estoria de cantador,major,50,2,5
+DJAVAN,23,Estoria de cantador,major,51,1,1
+DJAVAN,24,Mal de mim,minor,1,4,3
+DJAVAN,24,Mal de mim,minor,2,5,1
+DJAVAN,24,Mal de mim,minor,3,4,11
+DJAVAN,24,Mal de mim,minor,4,3,3
+DJAVAN,24,Mal de mim,minor,5,2,9
+DJAVAN,24,Mal de mim,minor,6,1,1
+DJAVAN,24,Mal de mim,minor,7,b7,7
+DJAVAN,24,Mal de mim,minor,8,5,5
+DJAVAN,24,Mal de mim,minor,9,b7,9
+DJAVAN,24,Mal de mim,minor,10,6,1
+DJAVAN,24,Mal de mim,minor,11,b7,b13
+DJAVAN,24,Mal de mim,minor,12,1,7
+DJAVAN,24,Mal de mim,minor,13,4,x
+DJAVAN,24,Mal de mim,minor,14,b7,b9/#9
+DJAVAN,24,Mal de mim,minor,15,5,1
+DJAVAN,24,Mal de mim,minor,16,4,3
+DJAVAN,24,Mal de mim,minor,17,5,5
+DJAVAN,24,Mal de mim,minor,18,4,11
+DJAVAN,24,Mal de mim,minor,19,3,3
+DJAVAN,24,Mal de mim,minor,20,2,9
+DJAVAN,24,Mal de mim,minor,21,1,1
+DJAVAN,24,Mal de mim,minor,22,b7,7
+DJAVAN,24,Mal de mim,minor,23,5,5
+DJAVAN,24,Mal de mim,minor,24,2,1
+DJAVAN,24,Mal de mim,minor,25,1,3
+DJAVAN,24,Mal de mim,minor,26,7,3
+DJAVAN,24,Mal de mim,minor,27,2,5
+DJAVAN,24,Mal de mim,minor,28,3,3
+DJAVAN,24,Mal de mim,minor,29,4,9
+DJAVAN,24,Mal de mim,minor,30,3,1
+DJAVAN,24,Mal de mim,minor,31,b7,5
+DJAVAN,24,Mal de mim,minor,32,3,5
+DJAVAN,24,Mal de mim,minor,33,1,3
+DJAVAN,24,Mal de mim,minor,34,3,9
+DJAVAN,24,Mal de mim,minor,35,4,3
+DJAVAN,24,Mal de mim,minor,36,3,9
+DJAVAN,24,Mal de mim,minor,37,#4/b5,x
+DJAVAN,24,Mal de mim,minor,38,4,3
+DJAVAN,24,Mal de mim,minor,39,3,9
+DJAVAN,24,Mal de mim,minor,40,7,7
+DJAVAN,25,Tem boi na linha,major,1,5,5
+DJAVAN,25,Tem boi na linha,major,2,1,1
+DJAVAN,25,Tem boi na linha,major,3,5,5
+DJAVAN,25,Tem boi na linha,major,4,1,1
+DJAVAN,25,Tem boi na linha,major,5,5,5
+DJAVAN,25,Tem boi na linha,major,6,1,1
+DJAVAN,25,Tem boi na linha,major,7,5,5
+DJAVAN,25,Tem boi na linha,major,8,1,1
+DJAVAN,25,Tem boi na linha,major,9,3,3
+DJAVAN,25,Tem boi na linha,major,10,1,1
+DJAVAN,25,Tem boi na linha,major,11,3,3
+DJAVAN,25,Tem boi na linha,major,12,1,1
+DJAVAN,25,Tem boi na linha,major,13,3,3
+DJAVAN,25,Tem boi na linha,major,14,5,9
+DJAVAN,25,Tem boi na linha,major,15,1,5
+DJAVAN,25,Tem boi na linha,major,16,4,9
+DJAVAN,25,Tem boi na linha,major,17,#6/b7,5
+DJAVAN,25,Tem boi na linha,major,18,#2/b3,9
+DJAVAN,25,Tem boi na linha,major,19,#5/b6,5
+DJAVAN,25,Tem boi na linha,major,20,4,3
+DJAVAN,25,Tem boi na linha,major,21,4,7
+DJAVAN,25,Tem boi na linha,major,22,3,3
+DJAVAN,25,Tem boi na linha,major,23,1,1
+DJAVAN,25,Tem boi na linha,major,24,3,3
+DJAVAN,25,Tem boi na linha,major,25,1,1
+DJAVAN,25,Tem boi na linha,major,26,3,3
+DJAVAN,25,Tem boi na linha,major,27,1,1
+DJAVAN,25,Tem boi na linha,major,28,3,3
+DJAVAN,25,Tem boi na linha,major,29,1,1
+DJAVAN,25,Tem boi na linha,major,30,3,3
+DJAVAN,25,Tem boi na linha,major,31,1,1
+DJAVAN,25,Tem boi na linha,major,32,3,3
+DJAVAN,25,Tem boi na linha,major,33,5,9
+DJAVAN,25,Tem boi na linha,major,34,1,5
+DJAVAN,25,Tem boi na linha,major,35,4,9
+DJAVAN,25,Tem boi na linha,major,36,#6/b7,5
+DJAVAN,25,Tem boi na linha,major,37,4,3
+DJAVAN,25,Tem boi na linha,major,38,3,3
+DJAVAN,25,Tem boi na linha,major,39,2,9
+DJAVAN,25,Tem boi na linha,major,40,5,5
+DJAVAN,25,Tem boi na linha,major,41,4,x
+DJAVAN,25,Tem boi na linha,major,42,3,3
+DJAVAN,25,Tem boi na linha,major,43,1,5
+DJAVAN,25,Tem boi na linha,major,44,5,7
+DJAVAN,25,Tem boi na linha,major,45,1,3
+DJAVAN,25,Tem boi na linha,major,46,3,x
+DJAVAN,25,Tem boi na linha,major,47,4,6
+DJAVAN,25,Tem boi na linha,major,48,3,3
+DJAVAN,25,Tem boi na linha,major,49,5,5
+DJAVAN,25,Tem boi na linha,major,50,4,x
+DJAVAN,25,Tem boi na linha,major,51,3,3
+DJAVAN,25,Tem boi na linha,major,52,2,6
+DJAVAN,25,Tem boi na linha,major,53,5,7
+DJAVAN,25,Tem boi na linha,major,54,1,3
+DJAVAN,25,Tem boi na linha,major,55,2,x
+DJAVAN,25,Tem boi na linha,major,56,3,3
+DJAVAN,26,Lambada de serpente,major,1,5,5
+DJAVAN,26,Lambada de serpente,major,2,4,3
+DJAVAN,26,Lambada de serpente,major,3,5,11
+DJAVAN,26,Lambada de serpente,major,4,5,5
+DJAVAN,26,Lambada de serpente,major,5,3,3
+DJAVAN,26,Lambada de serpente,major,6,1,1
+DJAVAN,26,Lambada de serpente,major,7,5,5
+DJAVAN,26,Lambada de serpente,major,8,4,3
+DJAVAN,26,Lambada de serpente,major,9,2,1
+DJAVAN,26,Lambada de serpente,major,10,7,6
+DJAVAN,26,Lambada de serpente,major,11,5,11
+DJAVAN,26,Lambada de serpente,major,12,3,9
+DJAVAN,26,Lambada de serpente,major,13,3,3
+DJAVAN,26,Lambada de serpente,major,14,5,5
+DJAVAN,26,Lambada de serpente,major,15,4,3
+DJAVAN,26,Lambada de serpente,major,16,5,11
+DJAVAN,26,Lambada de serpente,major,17,5,5
+DJAVAN,26,Lambada de serpente,major,18,3,3
+DJAVAN,26,Lambada de serpente,major,19,1,1
+DJAVAN,26,Lambada de serpente,major,20,5,5
+DJAVAN,26,Lambada de serpente,major,21,4,3
+DJAVAN,26,Lambada de serpente,major,22,2,1
+DJAVAN,26,Lambada de serpente,major,23,7,6
+DJAVAN,26,Lambada de serpente,major,24,5,11
+DJAVAN,26,Lambada de serpente,major,25,3,9
+DJAVAN,26,Lambada de serpente,major,26,3,3
+DJAVAN,26,Lambada de serpente,major,27,1,1
+DJAVAN,26,Lambada de serpente,major,28,4,1
+DJAVAN,26,Lambada de serpente,major,29,1,5
+DJAVAN,26,Lambada de serpente,major,30,3,7
+DJAVAN,26,Lambada de serpente,major,31,3,3
+DJAVAN,26,Lambada de serpente,major,32,1,1
+DJAVAN,26,Lambada de serpente,major,33,7,x
+DJAVAN,26,Lambada de serpente,major,34,1,1
+DJAVAN,26,Lambada de serpente,major,35,2,9
+DJAVAN,26,Lambada de serpente,major,36,2,1
+DJAVAN,26,Lambada de serpente,major,37,1,7
+DJAVAN,26,Lambada de serpente,major,38,1,1
+DJAVAN,27,Meu bem querer,major,1,1,1
+DJAVAN,27,Meu bem querer,major,2,2,x
+DJAVAN,27,Meu bem querer,major,3,3,3
+DJAVAN,27,Meu bem querer,major,4,3,7
+DJAVAN,27,Meu bem querer,major,5,2,x
+DJAVAN,27,Meu bem querer,major,6,3,7
+DJAVAN,27,Meu bem querer,major,7,4,1
+DJAVAN,27,Meu bem querer,major,8,3,7
+DJAVAN,27,Meu bem querer,major,9,2,x
+DJAVAN,27,Meu bem querer,major,10,2,9
+DJAVAN,27,Meu bem querer,major,11,1,x
+DJAVAN,27,Meu bem querer,major,12,7,7
+DJAVAN,27,Meu bem querer,major,13,6,x
+DJAVAN,27,Meu bem querer,major,14,7,7
+DJAVAN,27,Meu bem querer,major,15,1,x
+DJAVAN,27,Meu bem querer,major,16,2,6
+DJAVAN,27,Meu bem querer,major,17,1,x
+DJAVAN,27,Meu bem querer,major,18,7,#11
+DJAVAN,27,Meu bem querer,major,19,6,x
+DJAVAN,27,Meu bem querer,major,20,7,#11
+DJAVAN,27,Meu bem querer,major,21,5,5
+DJAVAN,27,Meu bem querer,major,22,1,3
+DJAVAN,27,Meu bem querer,major,23,2,x
+DJAVAN,27,Meu bem querer,major,24,3,5
+DJAVAN,27,Meu bem querer,major,25,7,5
+DJAVAN,27,Meu bem querer,major,26,5,3
+DJAVAN,27,Meu bem querer,major,27,3,1
+DJAVAN,27,Meu bem querer,major,28,1,5
+DJAVAN,27,Meu bem querer,major,29,6,3
+DJAVAN,27,Meu bem querer,major,30,5,9
+DJAVAN,27,Meu bem querer,major,31,2,6
+DJAVAN,27,Meu bem querer,major,32,1,5
+DJAVAN,27,Meu bem querer,major,33,#5/b6,3
+DJAVAN,27,Meu bem querer,major,34,#5/b6,3
+DJAVAN,27,Meu bem querer,major,35,5,3
+DJAVAN,27,Meu bem querer,major,36,3,1
+DJAVAN,27,Meu bem querer,major,37,6,11
+DJAVAN,27,Meu bem querer,major,38,2,5
+DJAVAN,27,Meu bem querer,major,39,1,11
+DJAVAN,27,Meu bem querer,major,40,3,7
+DJAVAN,27,Meu bem querer,major,41,3,7
+DJAVAN,27,Meu bem querer,major,42,6,3
+DJAVAN,27,Meu bem querer,major,43,2,6
+DJAVAN,27,Meu bem querer,major,44,1,5
+DJAVAN,27,Meu bem querer,major,45,3,3
+DJAVAN,27,Meu bem querer,major,46,3,5
+DJAVAN,27,Meu bem querer,major,47,3,x
+DJAVAN,27,Meu bem querer,major,48,4,7
+DJAVAN,27,Meu bem querer,major,49,2,x
+DJAVAN,27,Meu bem querer,major,50,3,13
+DJAVAN,27,Meu bem querer,major,51,1,3
+DJAVAN,27,Meu bem querer,major,52,2,x
+DJAVAN,27,Meu bem querer,major,53,1,1
+DJAVAN,28,Aquele um,major,1,1,1
+DJAVAN,28,Aquele um,major,2,6,6
+DJAVAN,28,Aquele um,major,3,1,b9/#9
+DJAVAN,28,Aquele um,major,4,6,1
+DJAVAN,28,Aquele um,major,5,3,5
+DJAVAN,28,Aquele um,major,6,6,5
+DJAVAN,28,Aquele um,major,7,1,7
+DJAVAN,28,Aquele um,major,8,6,5
+DJAVAN,28,Aquele um,major,9,1,7
+DJAVAN,28,Aquele um,major,10,2,5
+DJAVAN,28,Aquele um,major,11,3,13
+DJAVAN,28,Aquele um,major,12,2,5
+DJAVAN,28,Aquele um,major,13,1,1
+DJAVAN,28,Aquele um,major,14,6,6
+DJAVAN,28,Aquele um,major,15,1,b9/#9
+DJAVAN,28,Aquele um,major,16,6,1
+DJAVAN,28,Aquele um,major,17,1,b9/#9
+DJAVAN,28,Aquele um,major,18,6,1
+DJAVAN,28,Aquele um,major,19,3,x
+DJAVAN,28,Aquele um,major,20,2,1
+DJAVAN,28,Aquele um,major,21,1,7
+DJAVAN,28,Aquele um,major,22,6,5
+DJAVAN,28,Aquele um,major,23,1,7
+DJAVAN,28,Aquele um,major,24,6,9
+DJAVAN,28,Aquele um,major,25,3,13
+DJAVAN,28,Aquele um,major,26,2,5
+DJAVAN,28,Aquele um,major,27,3,1
+DJAVAN,28,Aquele um,major,28,5,3
+DJAVAN,28,Aquele um,major,29,4,b13
+DJAVAN,28,Aquele um,major,30,3,5
+DJAVAN,28,Aquele um,major,31,2,1
+DJAVAN,28,Aquele um,major,32,6,5
+DJAVAN,28,Aquele um,major,33,2,1
+DJAVAN,28,Aquele um,major,34,3,13
+DJAVAN,28,Aquele um,major,35,3,1
+DJAVAN,28,Aquele um,major,36,5,3
+DJAVAN,28,Aquele um,major,37,3,5
+DJAVAN,28,Aquele um,major,38,6,1
+DJAVAN,28,Aquele um,major,39,5,7
+DJAVAN,28,Aquele um,major,40,3,9
+DJAVAN,28,Aquele um,major,41,2,1
+DJAVAN,28,Aquele um,major,42,6,5
+DJAVAN,28,Aquele um,major,43,6,9
+DJAVAN,28,Aquele um,major,44,5,1
+DJAVAN,28,Aquele um,major,45,3,1
+DJAVAN,28,Aquele um,major,46,5,3
+DJAVAN,28,Aquele um,major,47,4,b13
+DJAVAN,28,Aquele um,major,48,3,5
+DJAVAN,28,Aquele um,major,49,2,1
+DJAVAN,28,Aquele um,major,50,6,5
+DJAVAN,28,Aquele um,major,51,2,1
+DJAVAN,28,Aquele um,major,52,2,5
+DJAVAN,28,Aquele um,major,53,3,13
+DJAVAN,28,Aquele um,major,54,3,13
+DJAVAN,28,Aquele um,major,55,5,3
+DJAVAN,28,Aquele um,major,56,3,1
+DJAVAN,28,Aquele um,major,57,5,3
+DJAVAN,28,Aquele um,major,58,3,5
+DJAVAN,28,Aquele um,major,59,5,7
+DJAVAN,28,Aquele um,major,60,3,9
+DJAVAN,28,Aquele um,major,61,5,11
+DJAVAN,28,Aquele um,major,62,3,9
+DJAVAN,28,Aquele um,major,63,#5/b6,6
+DJAVAN,28,Aquele um,major,64,3,1
+DJAVAN,28,Aquele um,major,65,7,5
+DJAVAN,28,Aquele um,major,66,7,9
+DJAVAN,28,Aquele um,major,67,6,1
+DJAVAN,28,Aquele um,major,68,3,9
+DJAVAN,28,Aquele um,major,69,1,7
+DJAVAN,28,Aquele um,major,70,3,9
+DJAVAN,28,Aquele um,major,71,6,5
+DJAVAN,28,Aquele um,major,72,1,7
+DJAVAN,28,Aquele um,major,73,7,3
+DJAVAN,28,Aquele um,major,74,5,1
+DJAVAN,28,Aquele um,major,75,3,#11
+DJAVAN,28,Aquele um,major,76,5,13
+DJAVAN,28,Aquele um,major,77,3,5
+DJAVAN,28,Aquele um,major,78,5,7
+DJAVAN,28,Aquele um,major,79,6,5
+DJAVAN,28,Aquele um,major,80,3,9
+DJAVAN,28,Aquele um,major,81,6,9
+DJAVAN,28,Aquele um,major,82,1,1
+DJAVAN,28,Aquele um,major,83,3,13
+DJAVAN,28,Aquele um,major,84,1,9
+DJAVAN,28,Aquele um,major,85,3,#11
+DJAVAN,28,Aquele um,major,86,3,5
+DJAVAN,28,Aquele um,major,87,1,b9/#9
+DJAVAN,28,Aquele um,major,88,2,1
+DJAVAN,28,Aquele um,major,89,6,5
+DJAVAN,29,Sururu de capote,major,1,5,5
+DJAVAN,29,Sururu de capote,major,2,3,3
+DJAVAN,29,Sururu de capote,major,3,6,6
+DJAVAN,29,Sururu de capote,major,4,4,1
+DJAVAN,29,Sururu de capote,major,5,1,5
+DJAVAN,29,Sururu de capote,major,6,1,9
+DJAVAN,29,Sururu de capote,major,7,4,5
+DJAVAN,29,Sururu de capote,major,8,5,13
+DJAVAN,29,Sururu de capote,major,9,3,3
+DJAVAN,29,Sururu de capote,major,10,6,b13
+DJAVAN,29,Sururu de capote,major,11,4,11
+DJAVAN,29,Sururu de capote,major,12,6,6
+DJAVAN,29,Sururu de capote,major,13,4,11
+DJAVAN,29,Sururu de capote,major,14,1,1
+DJAVAN,29,Sururu de capote,major,15,4,1
+DJAVAN,29,Sururu de capote,major,16,1,9
+DJAVAN,29,Sururu de capote,major,17,2,x
+DJAVAN,29,Sururu de capote,major,18,1,9
+DJAVAN,29,Sururu de capote,major,19,4,6
+DJAVAN,29,Sururu de capote,major,20,#6/b7,9
+DJAVAN,29,Sururu de capote,major,21,#4/b5,3
+DJAVAN,29,Sururu de capote,major,22,6,5
+DJAVAN,29,Sururu de capote,major,23,4,3
+DJAVAN,29,Sururu de capote,major,24,#1/b2,1
+DJAVAN,29,Sururu de capote,major,25,5,1
+DJAVAN,29,Sururu de capote,major,26,2,5
+DJAVAN,29,Sururu de capote,major,27,5,9
+DJAVAN,29,Sururu de capote,major,28,4,x
+DJAVAN,29,Sururu de capote,major,29,5,9
+DJAVAN,29,Sururu de capote,major,30,4,x
+DJAVAN,29,Sururu de capote,major,31,#2/b3,7
+DJAVAN,29,Sururu de capote,major,32,1,5
+DJAVAN,29,Sururu de capote,major,33,5,9
+DJAVAN,30,Pedro Brasil,major,1,5,1
+DJAVAN,30,Pedro Brasil,major,2,1,1
+DJAVAN,30,Pedro Brasil,major,3,1,b13
+DJAVAN,30,Pedro Brasil,major,4,1,5
+DJAVAN,30,Pedro Brasil,major,5,2,x
+DJAVAN,30,Pedro Brasil,major,6,3,#11
+DJAVAN,30,Pedro Brasil,major,7,2,3
+DJAVAN,30,Pedro Brasil,major,8,1,9
+DJAVAN,30,Pedro Brasil,major,9,4,5
+DJAVAN,30,Pedro Brasil,major,10,1,1
+DJAVAN,30,Pedro Brasil,major,11,1,b13
+DJAVAN,30,Pedro Brasil,major,12,1,5
+DJAVAN,30,Pedro Brasil,major,13,2,6
+DJAVAN,30,Pedro Brasil,major,14,3,x
+DJAVAN,30,Pedro Brasil,major,15,2,x
+DJAVAN,30,Pedro Brasil,major,16,1,9
+DJAVAN,30,Pedro Brasil,major,17,#5/b6,7
+DJAVAN,30,Pedro Brasil,major,18,1,1
+DJAVAN,30,Pedro Brasil,major,19,1,3
+DJAVAN,30,Pedro Brasil,major,20,2,x
+DJAVAN,30,Pedro Brasil,major,21,#2/b3,5
+DJAVAN,30,Pedro Brasil,major,22,1,3
+DJAVAN,30,Pedro Brasil,major,23,7,3
+DJAVAN,30,Pedro Brasil,major,24,5,1
+DJAVAN,30,Pedro Brasil,major,25,5,7
+DJAVAN,30,Pedro Brasil,major,26,3,b13
+DJAVAN,30,Pedro Brasil,major,27,1,11
+DJAVAN,30,Pedro Brasil,major,28,5,1
+DJAVAN,30,Pedro Brasil,major,29,6,x
+DJAVAN,30,Pedro Brasil,major,30,#6/b7,3
+DJAVAN,30,Pedro Brasil,major,31,1,1
+DJAVAN,30,Pedro Brasil,major,32,2,x
+DJAVAN,30,Pedro Brasil,major,33,3,3
+DJAVAN,30,Pedro Brasil,major,34,2,x
+DJAVAN,30,Pedro Brasil,major,35,1,5
+DJAVAN,30,Pedro Brasil,major,36,5,9
+DJAVAN,30,Pedro Brasil,major,37,4,5
+DJAVAN,30,Pedro Brasil,major,38,3,1
+DJAVAN,30,Pedro Brasil,major,39,4,x
+DJAVAN,30,Pedro Brasil,major,40,5,3
+DJAVAN,30,Pedro Brasil,major,41,6,1
+DJAVAN,30,Pedro Brasil,major,42,7,x
+DJAVAN,30,Pedro Brasil,major,43,1,b9/#9
+DJAVAN,30,Pedro Brasil,major,44,7,x
+DJAVAN,30,Pedro Brasil,major,45,6,1
+DJAVAN,30,Pedro Brasil,major,46,3,9
+DJAVAN,30,Pedro Brasil,major,47,2,5
+DJAVAN,30,Pedro Brasil,major,48,5,1
+DJAVAN,30,Pedro Brasil,major,49,6,x
+DJAVAN,30,Pedro Brasil,major,50,#6/b7,3
+DJAVAN,30,Pedro Brasil,major,51,1,1
+DJAVAN,30,Pedro Brasil,major,52,2,x
+DJAVAN,30,Pedro Brasil,major,53,3,3
+DJAVAN,30,Pedro Brasil,major,54,2,x
+DJAVAN,30,Pedro Brasil,major,55,1,1
+DJAVAN,30,Pedro Brasil,major,56,5,9
+DJAVAN,30,Pedro Brasil,major,57,1,9
+DJAVAN,30,Pedro Brasil,major,58,3,#11
+DJAVAN,30,Pedro Brasil,major,59,4,1
+DJAVAN,30,Pedro Brasil,major,60,5,x
+DJAVAN,30,Pedro Brasil,major,61,6,3
+DJAVAN,30,Pedro Brasil,major,62,3,1
+DJAVAN,30,Pedro Brasil,major,63,4,x
+DJAVAN,30,Pedro Brasil,major,64,5,3
+DJAVAN,30,Pedro Brasil,major,65,6,1
+DJAVAN,30,Pedro Brasil,major,66,7,x
+DJAVAN,30,Pedro Brasil,major,67,1,3
+DJAVAN,30,Pedro Brasil,major,68,2,11
+DJAVAN,30,Pedro Brasil,major,69,6,5
+DJAVAN,30,Pedro Brasil,major,70,7,x
+DJAVAN,30,Pedro Brasil,major,71,1,7
+DJAVAN,30,Pedro Brasil,major,72,3,9
+DJAVAN,30,Pedro Brasil,major,73,#2/b3,x
+DJAVAN,30,Pedro Brasil,major,74,2,6
+DJAVAN,30,Pedro Brasil,major,75,1,5
+DJAVAN,30,Pedro Brasil,major,76,#5/b6,3
+DJAVAN,30,Pedro Brasil,major,77,5,9
+DJAVAN,30,Pedro Brasil,major,78,2,6
+DJAVAN,31,Seduzir,major,1,3,3
+DJAVAN,31,Seduzir,major,2,5,5
+DJAVAN,31,Seduzir,major,3,5,9
+DJAVAN,31,Seduzir,major,4,4,x
+DJAVAN,31,Seduzir,major,5,3,7
+DJAVAN,31,Seduzir,major,6,1,1
+DJAVAN,31,Seduzir,major,7,3,3
+DJAVAN,31,Seduzir,major,8,3,x
+DJAVAN,31,Seduzir,major,9,2,6
+DJAVAN,31,Seduzir,major,10,2,5
+DJAVAN,31,Seduzir,major,11,3,5
+DJAVAN,31,Seduzir,major,12,6,1
+DJAVAN,31,Seduzir,major,13,1,3
+DJAVAN,31,Seduzir,major,14,1,7
+DJAVAN,31,Seduzir,major,15,1,11
+DJAVAN,31,Seduzir,major,16,1,1
+DJAVAN,31,Seduzir,major,17,3,7
+DJAVAN,31,Seduzir,major,18,6,3
+DJAVAN,31,Seduzir,major,19,1,5
+DJAVAN,31,Seduzir,major,20,6,3
+DJAVAN,31,Seduzir,major,21,3,7
+DJAVAN,31,Seduzir,major,22,1,3
+DJAVAN,31,Seduzir,major,23,6,9
+DJAVAN,31,Seduzir,major,24,4,x
+DJAVAN,31,Seduzir,major,25,3,13
+DJAVAN,31,Seduzir,major,26,3,3
+DJAVAN,31,Seduzir,major,27,5,5
+DJAVAN,31,Seduzir,major,28,6,6
+DJAVAN,31,Seduzir,major,29,1,7
+DJAVAN,31,Seduzir,major,30,2,1
+DJAVAN,31,Seduzir,major,31,6,5
+DJAVAN,31,Seduzir,major,32,6,3
+DJAVAN,31,Seduzir,major,33,1,5
+DJAVAN,31,Seduzir,major,34,3,7
+DJAVAN,31,Seduzir,major,35,4,x
+DJAVAN,31,Seduzir,major,36,3,11
+DJAVAN,31,Seduzir,major,37,2,x
+DJAVAN,31,Seduzir,major,38,1,3
+DJAVAN,32,Faltando um pedaco,major,1,3,3
+DJAVAN,32,Faltando um pedaco,major,2,4,x
+DJAVAN,32,Faltando um pedaco,major,3,5,5
+DJAVAN,32,Faltando um pedaco,major,4,6,x
+DJAVAN,32,Faltando um pedaco,major,5,7,7
+DJAVAN,32,Faltando um pedaco,major,6,1,1
+DJAVAN,32,Faltando um pedaco,major,7,1,x
+DJAVAN,32,Faltando um pedaco,major,8,7,#11
+DJAVAN,32,Faltando um pedaco,major,9,6,3
+DJAVAN,32,Faltando um pedaco,major,10,7,x
+DJAVAN,32,Faltando um pedaco,major,11,1,5
+DJAVAN,32,Faltando um pedaco,major,12,7,#11
+DJAVAN,32,Faltando um pedaco,major,13,6,x
+DJAVAN,32,Faltando um pedaco,major,14,5,3
+DJAVAN,32,Faltando um pedaco,major,15,3,1
+DJAVAN,32,Faltando um pedaco,major,16,4,x
+DJAVAN,32,Faltando um pedaco,major,17,5,3
+DJAVAN,32,Faltando um pedaco,major,18,6,x
+DJAVAN,32,Faltando um pedaco,major,19,5,3
+DJAVAN,32,Faltando um pedaco,major,20,4,x
+DJAVAN,32,Faltando um pedaco,major,21,3,3
+DJAVAN,32,Faltando um pedaco,major,22,2,6
+DJAVAN,32,Faltando um pedaco,major,23,3,x
+DJAVAN,32,Faltando um pedaco,major,24,4,1
+DJAVAN,32,Faltando um pedaco,major,25,3,x
+DJAVAN,32,Faltando um pedaco,major,26,4,1
+DJAVAN,32,Faltando um pedaco,major,27,5,3
+DJAVAN,32,Faltando um pedaco,major,28,3,1
+DJAVAN,32,Faltando um pedaco,major,29,1,6
+DJAVAN,32,Faltando um pedaco,major,30,2,x
+DJAVAN,32,Faltando um pedaco,major,31,3,1
+DJAVAN,32,Faltando um pedaco,major,32,4,x
+DJAVAN,32,Faltando um pedaco,major,33,3,1
+DJAVAN,32,Faltando um pedaco,major,34,4,x
+DJAVAN,32,Faltando um pedaco,major,35,5,9
+DJAVAN,32,Faltando um pedaco,major,36,4,x
+DJAVAN,32,Faltando um pedaco,major,37,3,x
+DJAVAN,32,Faltando um pedaco,major,38,2,6
+DJAVAN,32,Faltando um pedaco,major,39,5,9
+DJAVAN,32,Faltando um pedaco,major,40,6,x
+DJAVAN,32,Faltando um pedaco,major,41,5,9
+DJAVAN,32,Faltando um pedaco,major,42,6,3
+DJAVAN,32,Faltando um pedaco,major,43,1,5
+DJAVAN,32,Faltando um pedaco,major,44,7,x
+DJAVAN,32,Faltando um pedaco,major,45,6,11
+DJAVAN,32,Faltando um pedaco,major,46,5,3
+DJAVAN,32,Faltando um pedaco,major,47,1,6
+DJAVAN,32,Faltando um pedaco,major,48,2,x
+DJAVAN,32,Faltando um pedaco,major,49,3,1
+DJAVAN,32,Faltando um pedaco,major,50,4,x
+DJAVAN,32,Faltando um pedaco,major,51,5,3
+DJAVAN,32,Faltando um pedaco,major,52,4,x
+DJAVAN,32,Faltando um pedaco,major,53,3,7
+DJAVAN,32,Faltando um pedaco,major,54,2,6
+DJAVAN,32,Faltando um pedaco,major,55,1,5
+DJAVAN,32,Faltando um pedaco,major,56,2,5
+DJAVAN,32,Faltando um pedaco,major,57,3,x
+DJAVAN,32,Faltando um pedaco,major,58,4,7
+DJAVAN,32,Faltando um pedaco,major,59,3,13
+DJAVAN,32,Faltando um pedaco,major,60,1,1
+DJAVAN,33,Samurai,major,1,7,7
+DJAVAN,33,Samurai,major,2,7,b13
+DJAVAN,33,Samurai,major,3,1,x
+DJAVAN,33,Samurai,major,4,7,5
+DJAVAN,33,Samurai,major,5,3,1
+DJAVAN,33,Samurai,major,6,5,7
+DJAVAN,33,Samurai,major,7,3,3
+DJAVAN,33,Samurai,major,8,5,5
+DJAVAN,33,Samurai,major,9,6,5
+DJAVAN,33,Samurai,major,10,7,b13
+DJAVAN,33,Samurai,major,11,3,1
+DJAVAN,33,Samurai,major,12,7,7
+DJAVAN,33,Samurai,major,13,7,b13
+DJAVAN,33,Samurai,major,14,1,x
+DJAVAN,33,Samurai,major,15,7,5
+DJAVAN,33,Samurai,major,16,3,1
+DJAVAN,33,Samurai,major,17,5,7
+DJAVAN,33,Samurai,major,18,3,3
+DJAVAN,33,Samurai,major,19,5,5
+DJAVAN,33,Samurai,major,20,6,5
+DJAVAN,33,Samurai,major,21,7,b13
+DJAVAN,33,Samurai,major,22,3,b9/#9
+DJAVAN,33,Samurai,major,23,5,3
+DJAVAN,33,Samurai,major,24,6,x
+DJAVAN,33,Samurai,major,25,7,5
+DJAVAN,33,Samurai,major,26,3,1
+DJAVAN,33,Samurai,major,27,3,13
+DJAVAN,33,Samurai,major,28,5,1
+DJAVAN,33,Samurai,major,29,7,7
+DJAVAN,33,Samurai,major,30,1,x
+DJAVAN,33,Samurai,major,31,7,b13
+DJAVAN,33,Samurai,major,32,1,x
+DJAVAN,33,Samurai,major,33,7,5
+DJAVAN,33,Samurai,major,34,6,x
+DJAVAN,33,Samurai,major,35,5,7
+DJAVAN,33,Samurai,major,36,6,1
+DJAVAN,33,Samurai,major,37,3,7
+DJAVAN,33,Samurai,major,38,6,3
+DJAVAN,33,Samurai,major,39,2,7
+DJAVAN,33,Samurai,major,40,5,3
+DJAVAN,33,Samurai,major,41,1,7
+DJAVAN,33,Samurai,major,42,5,11
+DJAVAN,33,Samurai,major,43,7,3
+DJAVAN,33,Samurai,major,44,7,7
+DJAVAN,33,Samurai,major,45,3,b9/#9
+DJAVAN,33,Samurai,major,46,6,5
+DJAVAN,33,Samurai,major,47,5,3
+DJAVAN,33,Samurai,major,48,1,x
+DJAVAN,33,Samurai,major,49,7,5
+DJAVAN,33,Samurai,major,50,6,x
+DJAVAN,33,Samurai,major,51,5,7
+DJAVAN,33,Samurai,major,52,6,1
+DJAVAN,33,Samurai,major,53,2,6
+DJAVAN,33,Samurai,major,54,1,x
+DJAVAN,33,Samurai,major,55,2,6
+DJAVAN,33,Samurai,major,56,1,x
+DJAVAN,33,Samurai,major,57,2,6
+DJAVAN,33,Samurai,major,58,1,x
+DJAVAN,33,Samurai,major,59,2,6
+DJAVAN,33,Samurai,major,60,#1/b2,x
+DJAVAN,33,Samurai,major,61,1,5
+DJAVAN,33,Samurai,major,62,7,11
+DJAVAN,33,Samurai,major,63,1,5
+DJAVAN,33,Samurai,major,64,7,x
+DJAVAN,33,Samurai,major,65,1,x
+DJAVAN,33,Samurai,major,66,2,b9/#9
+DJAVAN,33,Samurai,major,67,7,1
+DJAVAN,33,Samurai,major,68,6,x
+DJAVAN,33,Samurai,major,69,5,13
+DJAVAN,33,Samurai,major,70,3,3
+DJAVAN,33,Samurai,major,71,7,7
+DJAVAN,33,Samurai,major,72,1,x
+DJAVAN,33,Samurai,major,73,7,5
+DJAVAN,33,Samurai,major,74,5,3
+DJAVAN,33,Samurai,major,75,1,b9/#9
+DJAVAN,33,Samurai,major,76,7,9
+DJAVAN,33,Samurai,major,77,5,7
+DJAVAN,33,Samurai,major,78,3,3
+DJAVAN,33,Samurai,major,79,5,5
+DJAVAN,33,Samurai,major,80,6,x
+DJAVAN,33,Samurai,major,81,7,b13
+DJAVAN,33,Samurai,major,82,3,1
+DJAVAN,34,Luz,major,1,5,5
+DJAVAN,34,Luz,major,2,6,6
+DJAVAN,34,Luz,major,3,1,1
+DJAVAN,34,Luz,major,4,2,x
+DJAVAN,34,Luz,major,5,1,1
+DJAVAN,34,Luz,major,6,#2/b3,7
+DJAVAN,34,Luz,major,7,2,x
+DJAVAN,34,Luz,major,8,1,5
+DJAVAN,34,Luz,major,9,2,13
+DJAVAN,34,Luz,major,10,1,5
+DJAVAN,34,Luz,major,11,6,11
+DJAVAN,34,Luz,major,12,#6/b7,b9/#9
+DJAVAN,34,Luz,major,13,6,x
+DJAVAN,34,Luz,major,14,5,7
+DJAVAN,34,Luz,major,15,4,b13
+DJAVAN,34,Luz,major,16,2,x
+DJAVAN,34,Luz,major,17,3,9
+DJAVAN,34,Luz,major,18,6,5
+DJAVAN,34,Luz,major,19,2,1
+DJAVAN,34,Luz,major,20,1,5
+DJAVAN,34,Luz,major,21,2,x
+DJAVAN,34,Luz,major,22,#2/b3,7
+DJAVAN,34,Luz,major,23,5,3
+DJAVAN,34,Luz,major,24,#6/b7,5
+DJAVAN,34,Luz,major,25,4,7
+DJAVAN,34,Luz,major,26,1,x
+DJAVAN,34,Luz,major,27,7,3
+DJAVAN,34,Luz,major,28,1,x
+DJAVAN,34,Luz,major,29,5,5
+DJAVAN,34,Luz,major,30,6,6
+DJAVAN,34,Luz,major,31,1,1
+DJAVAN,34,Luz,major,32,2,x
+DJAVAN,34,Luz,major,33,1,1
+DJAVAN,34,Luz,major,34,#2/b3,7
+DJAVAN,34,Luz,major,35,2,x
+DJAVAN,34,Luz,major,36,1,5
+DJAVAN,34,Luz,major,37,2,13
+DJAVAN,34,Luz,major,38,1,5
+DJAVAN,34,Luz,major,39,2,7
+DJAVAN,34,Luz,major,40,3,1
+DJAVAN,34,Luz,major,41,5,3
+DJAVAN,34,Luz,major,42,#5/b6,x
+DJAVAN,34,Luz,major,43,#6/b7,5
+DJAVAN,34,Luz,major,44,1,6
+DJAVAN,34,Luz,major,45,1,3
+DJAVAN,34,Luz,major,46,1,7
+DJAVAN,34,Luz,major,47,#5/b6,5
+DJAVAN,34,Luz,major,48,#6/b7,x
+DJAVAN,34,Luz,major,49,1,5
+DJAVAN,34,Luz,major,50,2,6
+DJAVAN,34,Luz,major,51,5,1
+DJAVAN,34,Luz,major,52,3,3
+DJAVAN,34,Luz,major,53,6,6
+DJAVAN,34,Luz,major,54,5,x
+DJAVAN,34,Luz,major,55,6,3
+DJAVAN,34,Luz,major,56,1,5
+DJAVAN,34,Luz,major,57,6,3
+DJAVAN,34,Luz,major,58,3,7
+DJAVAN,34,Luz,major,59,1,5
+DJAVAN,34,Luz,major,60,3,#11
+DJAVAN,34,Luz,major,61,4,5
+DJAVAN,34,Luz,major,62,1,9
+DJAVAN,34,Luz,major,63,5,13
+DJAVAN,34,Luz,major,64,2,7
+DJAVAN,34,Luz,major,65,#2/b3,1
+DJAVAN,34,Luz,major,66,#6/b7,5
+DJAVAN,34,Luz,major,67,5,3
+DJAVAN,34,Luz,major,68,#6/b7,9
+DJAVAN,34,Luz,major,69,1,3
+DJAVAN,34,Luz,major,70,1,5
+DJAVAN,34,Luz,major,71,#6/b7,x
+DJAVAN,34,Luz,major,72,#5/b6,3
+DJAVAN,34,Luz,major,73,1,3
+DJAVAN,34,Luz,major,74,2,5
+DJAVAN,34,Luz,major,75,5,1
+DJAVAN,34,Luz,major,76,3,3
+DJAVAN,34,Luz,major,77,6,6
+DJAVAN,34,Luz,major,78,5,b9/#9
+DJAVAN,34,Luz,major,79,6,b9/#9
+DJAVAN,34,Luz,major,80,2,b13
+DJAVAN,34,Luz,major,81,3,7
+DJAVAN,34,Luz,major,82,4,x
+DJAVAN,34,Luz,major,83,5,9
+DJAVAN,34,Luz,major,84,3,7
+DJAVAN,34,Luz,major,85,5,9
+DJAVAN,34,Luz,major,86,6,3
+DJAVAN,34,Luz,major,87,2,3
+DJAVAN,34,Luz,major,88,1,x
+DJAVAN,34,Luz,major,89,2,3
+DJAVAN,34,Luz,major,90,5,13
+DJAVAN,34,Luz,major,91,#6/b7,1
+DJAVAN,34,Luz,major,92,2,x
+DJAVAN,34,Luz,major,93,#2/b3,1
+DJAVAN,34,Luz,major,94,#6/b7,5
+DJAVAN,34,Luz,major,95,5,3
+DJAVAN,34,Luz,major,96,#6/b7,5
+DJAVAN,34,Luz,major,97,1,3
+DJAVAN,34,Luz,major,98,1,5
+DJAVAN,34,Luz,major,99,#5/b6,3
+DJAVAN,34,Luz,major,100,1,5
+DJAVAN,34,Luz,major,101,3,13
+DJAVAN,34,Luz,major,102,4,7
+DJAVAN,34,Luz,major,103,1,1
+DJAVAN,35,Capim,major,1,5,5
+DJAVAN,35,Capim,major,2,6,6
+DJAVAN,35,Capim,major,3,7,11
+DJAVAN,35,Capim,major,4,1,1
+DJAVAN,35,Capim,major,5,1,7
+DJAVAN,35,Capim,major,6,2,5
+DJAVAN,35,Capim,major,7,5,5
+DJAVAN,35,Capim,major,8,6,6
+DJAVAN,35,Capim,major,9,6,7
+DJAVAN,35,Capim,major,10,7,14
+DJAVAN,35,Capim,major,11,7,x
+DJAVAN,35,Capim,major,12,1,7
+DJAVAN,35,Capim,major,13,2,5
+DJAVAN,35,Capim,major,14,3,13
+DJAVAN,35,Capim,major,15,5,5
+DJAVAN,35,Capim,major,16,6,6
+DJAVAN,35,Capim,major,17,7,b13
+DJAVAN,35,Capim,major,18,1,7
+DJAVAN,35,Capim,major,19,2,1
+DJAVAN,35,Capim,major,20,6,5
+DJAVAN,35,Capim,major,21,7,5
+DJAVAN,35,Capim,major,22,5,1
+DJAVAN,35,Capim,major,23,4,x
+DJAVAN,35,Capim,major,24,3,13
+DJAVAN,35,Capim,major,25,2,x
+DJAVAN,35,Capim,major,26,1,9
+DJAVAN,35,Capim,major,27,3,#11
+DJAVAN,35,Capim,major,28,3,5
+DJAVAN,35,Capim,major,29,7,7
+DJAVAN,35,Capim,major,30,1,1
+DJAVAN,35,Capim,major,31,5,5
+DJAVAN,35,Capim,major,32,6,x
+DJAVAN,35,Capim,major,33,#6/b7,3
+DJAVAN,35,Capim,major,34,4,1
+DJAVAN,35,Capim,major,35,5,x
+DJAVAN,35,Capim,major,36,6,3
+DJAVAN,35,Capim,major,37,4,1
+DJAVAN,35,Capim,major,38,#6/b7,1
+DJAVAN,35,Capim,major,39,5,6
+DJAVAN,35,Capim,major,40,#6/b7,1
+DJAVAN,35,Capim,major,41,2,9
+DJAVAN,35,Capim,major,42,5,5
+DJAVAN,35,Capim,major,43,2,1
+DJAVAN,35,Capim,major,44,#6/b7,x
+DJAVAN,35,Capim,major,45,6,5
+DJAVAN,35,Capim,major,46,5,x
+DJAVAN,35,Capim,major,47,4,7
+DJAVAN,35,Capim,major,48,2,5
+DJAVAN,35,Capim,major,49,5,3
+DJAVAN,35,Capim,major,50,3,9
+DJAVAN,35,Capim,major,51,6,5
+DJAVAN,35,Capim,major,52,2,x
+DJAVAN,35,Capim,major,53,1,7
+DJAVAN,35,Capim,major,54,3,x
+DJAVAN,35,Capim,major,55,2,1
+DJAVAN,35,Capim,major,56,5,11
+DJAVAN,35,Capim,major,57,5,9
+DJAVAN,35,Capim,major,58,1,5
+DJAVAN,35,Capim,major,59,4,x
+DJAVAN,35,Capim,major,60,3,7
+DJAVAN,35,Capim,major,61,5,x
+DJAVAN,35,Capim,major,62,4,5
+DJAVAN,35,Capim,major,63,#6/b7,1
+DJAVAN,35,Capim,major,64,#6/b7,5
+DJAVAN,35,Capim,major,65,#1/b2,3
+DJAVAN,35,Capim,major,66,6,1
+DJAVAN,35,Capim,major,67,3,9
+DJAVAN,35,Capim,major,68,2,1
+DJAVAN,35,Capim,major,69,1,7
+DJAVAN,35,Capim,major,70,6,9
+DJAVAN,35,Capim,major,71,1,3
+DJAVAN,35,Capim,major,72,3,13
+DJAVAN,35,Capim,major,73,5,5
+DJAVAN,35,Capim,major,74,3,x
+DJAVAN,35,Capim,major,75,2,3
+DJAVAN,35,Capim,major,76,1,5
+DJAVAN,36,Sina,major,1,3,3
+DJAVAN,36,Sina,major,2,6,6
+DJAVAN,36,Sina,major,3,1,1
+DJAVAN,36,Sina,major,4,#2/b3,x
+DJAVAN,36,Sina,major,5,2,6
+DJAVAN,36,Sina,major,6,1,x
+DJAVAN,36,Sina,major,7,2,6
+DJAVAN,36,Sina,major,8,6,3
+DJAVAN,36,Sina,major,9,3,3
+DJAVAN,36,Sina,major,10,5,5
+DJAVAN,36,Sina,major,11,1,1
+DJAVAN,36,Sina,major,12,#2/b3,x
+DJAVAN,36,Sina,major,13,2,5
+DJAVAN,36,Sina,major,14,1,x
+DJAVAN,36,Sina,major,15,2,5
+DJAVAN,36,Sina,major,16,7,3
+DJAVAN,36,Sina,major,17,3,5
+DJAVAN,36,Sina,major,18,6,1
+DJAVAN,36,Sina,major,19,1,3
+DJAVAN,36,Sina,major,20,#2/b3,x
+DJAVAN,36,Sina,major,21,2,7
+DJAVAN,36,Sina,major,22,1,x
+DJAVAN,36,Sina,major,23,2,7
+DJAVAN,36,Sina,major,24,1,6
+DJAVAN,36,Sina,major,25,3,7
+DJAVAN,36,Sina,major,26,#2/b3,7
+DJAVAN,36,Sina,major,27,6,3
+DJAVAN,36,Sina,major,28,1,5
+DJAVAN,36,Sina,major,29,2,5
+DJAVAN,36,Sina,major,30,1,x
+DJAVAN,36,Sina,major,31,2,5
+DJAVAN,36,Sina,major,32,1,5
+DJAVAN,36,Sina,major,33,#2/b3,7
+DJAVAN,36,Sina,major,34,2,13
+DJAVAN,36,Sina,major,35,1,b13
+DJAVAN,36,Sina,major,36,6,x
+DJAVAN,36,Sina,major,37,1,9
+DJAVAN,36,Sina,major,38,6,1
+DJAVAN,36,Sina,major,39,1,3
+DJAVAN,36,Sina,major,40,2,5
+DJAVAN,36,Sina,major,41,1,x
+DJAVAN,36,Sina,major,42,2,5
+DJAVAN,36,Sina,major,43,6,9
+DJAVAN,36,Sina,major,44,1,5
+DJAVAN,36,Sina,major,45,#2/b3,7
+DJAVAN,36,Sina,major,46,2,x
+DJAVAN,36,Sina,major,47,1,5
+DJAVAN,36,Sina,major,48,5,x
+DJAVAN,36,Sina,major,49,6,9
+DJAVAN,36,Sina,major,50,2,5
+DJAVAN,36,Sina,major,51,5,5
+DJAVAN,36,Sina,major,52,4,1
+DJAVAN,36,Sina,major,53,5,9
+DJAVAN,36,Sina,major,54,3,7
+DJAVAN,36,Sina,major,55,1,1
+DJAVAN,36,Sina,major,56,2,9
+DJAVAN,36,Sina,major,57,1,1
+DJAVAN,36,Sina,major,58,2,x
+DJAVAN,36,Sina,major,59,3,3
+DJAVAN,36,Sina,major,60,6,9
+DJAVAN,36,Sina,major,61,#2/b3,x
+DJAVAN,36,Sina,major,62,2,5
+DJAVAN,36,Sina,major,63,#2/b3,b13
+DJAVAN,36,Sina,major,64,6,9
+DJAVAN,36,Sina,major,65,1,3
+DJAVAN,36,Sina,major,66,#2/b3,x
+DJAVAN,36,Sina,major,67,2,11
+DJAVAN,36,Sina,major,68,1,3
+DJAVAN,36,Sina,major,69,2,11
+DJAVAN,36,Sina,major,70,6,1
+DJAVAN,36,Sina,major,71,1,6
+DJAVAN,36,Sina,major,72,6,x
+DJAVAN,36,Sina,major,73,5,3
+DJAVAN,36,Sina,major,74,6,11
+DJAVAN,36,Sina,major,75,#2/b3,x
+DJAVAN,36,Sina,major,76,2,x
+DJAVAN,36,Sina,major,77,1,6
+DJAVAN,36,Sina,major,78,6,11
+DJAVAN,36,Sina,major,79,2,6
+DJAVAN,36,Sina,major,80,6,3
+DJAVAN,36,Sina,major,81,1,5
+DJAVAN,36,Sina,major,82,6,3
+DJAVAN,36,Sina,major,83,1,5
+DJAVAN,36,Sina,major,84,6,3
+DJAVAN,36,Sina,major,85,1,x
+DJAVAN,36,Sina,major,86,2,5
+DJAVAN,36,Sina,major,87,6,9
+DJAVAN,36,Sina,major,88,3,13
+DJAVAN,36,Sina,major,89,1,1
+DJAVAN,37,Petala,major,1,3,3
+DJAVAN,37,Petala,major,2,2,7
+DJAVAN,37,Petala,major,3,3,1
+DJAVAN,37,Petala,major,4,1,5
+DJAVAN,37,Petala,major,5,3,3
+DJAVAN,37,Petala,major,6,2,7
+DJAVAN,37,Petala,major,7,3,1
+DJAVAN,37,Petala,major,8,4,x
+DJAVAN,37,Petala,major,9,5,3
+DJAVAN,37,Petala,major,10,6,3
+DJAVAN,37,Petala,major,11,5,9
+DJAVAN,37,Petala,major,12,4,1
+DJAVAN,37,Petala,major,13,6,3
+DJAVAN,37,Petala,major,14,1,9
+DJAVAN,37,Petala,major,15,3,#11
+DJAVAN,37,Petala,major,16,1,1
+DJAVAN,37,Petala,major,17,3,3
+DJAVAN,37,Petala,major,18,1,1
+DJAVAN,37,Petala,major,19,4,x
+DJAVAN,37,Petala,major,20,3,1
+DJAVAN,37,Petala,major,21,2,7
+DJAVAN,37,Petala,major,22,6,3
+DJAVAN,37,Petala,major,23,2,6
+DJAVAN,37,Petala,major,24,6,3
+DJAVAN,37,Petala,major,25,2,6
+DJAVAN,37,Petala,major,26,3,13
+DJAVAN,37,Petala,major,27,1,3
+DJAVAN,37,Petala,major,28,5,5
+DJAVAN,37,Petala,major,29,3,3
+DJAVAN,37,Petala,major,30,6,x
+DJAVAN,37,Petala,major,31,5,5
+DJAVAN,37,Petala,major,32,3,1
+DJAVAN,37,Petala,major,33,1,6
+DJAVAN,37,Petala,major,34,4,x
+DJAVAN,37,Petala,major,35,3,7
+DJAVAN,37,Petala,major,36,6,3
+DJAVAN,37,Petala,major,37,3,5
+DJAVAN,37,Petala,major,38,#5/b6,3
+DJAVAN,37,Petala,major,39,2,6
+DJAVAN,37,Petala,major,40,5,5
+DJAVAN,37,Petala,major,41,3,3
+DJAVAN,37,Petala,major,42,6,9
+DJAVAN,37,Petala,major,43,5,5
+DJAVAN,37,Petala,major,44,6,3
+DJAVAN,37,Petala,major,45,5,9
+DJAVAN,37,Petala,major,46,3,7
+DJAVAN,37,Petala,major,47,4,1
+DJAVAN,37,Petala,major,48,5,9
+DJAVAN,37,Petala,major,49,3,7
+DJAVAN,37,Petala,major,50,5,5
+DJAVAN,37,Petala,major,51,3,3
+DJAVAN,37,Petala,major,52,6,x
+DJAVAN,37,Petala,major,53,7,3
+DJAVAN,37,Petala,major,54,5,1
+DJAVAN,37,Petala,major,55,6,x
+DJAVAN,37,Petala,major,56,5,9
+DJAVAN,37,Petala,major,57,3,7
+DJAVAN,37,Petala,major,58,4,1
+DJAVAN,37,Petala,major,59,5,9
+DJAVAN,37,Petala,major,60,2,6
+DJAVAN,37,Petala,major,61,1,x
+DJAVAN,37,Petala,major,62,2,7
+DJAVAN,37,Petala,major,63,3,1
+DJAVAN,37,Petala,major,64,1,5
+DJAVAN,37,Petala,major,65,2,6
+DJAVAN,37,Petala,major,66,3,3
+DJAVAN,37,Petala,major,67,1,1
+DJAVAN,38,Acai,major,1,1,1
+DJAVAN,38,Acai,major,2,7,x
+DJAVAN,38,Acai,major,3,6,6
+DJAVAN,38,Acai,major,4,6,5
+DJAVAN,38,Acai,major,5,1,7
+DJAVAN,38,Acai,major,6,2,11
+DJAVAN,38,Acai,major,7,6,5
+DJAVAN,38,Acai,major,8,1,7
+DJAVAN,38,Acai,major,9,7,x
+DJAVAN,38,Acai,major,10,6,5
+DJAVAN,38,Acai,major,11,5,x
+DJAVAN,38,Acai,major,12,4,3
+DJAVAN,38,Acai,major,13,5,x
+DJAVAN,38,Acai,major,14,6,7
+DJAVAN,38,Acai,major,15,5,x
+DJAVAN,38,Acai,major,16,4,3
+DJAVAN,38,Acai,major,17,6,x
+DJAVAN,38,Acai,major,18,5,11
+DJAVAN,38,Acai,major,19,4,3
+DJAVAN,38,Acai,major,20,3,5
+DJAVAN,38,Acai,major,21,5,7
+DJAVAN,38,Acai,major,22,6,1
+DJAVAN,38,Acai,major,23,1,3
+DJAVAN,38,Acai,major,24,2,11
+DJAVAN,38,Acai,major,25,3,5
+DJAVAN,38,Acai,major,26,1,3
+DJAVAN,38,Acai,major,27,6,3
+DJAVAN,38,Acai,major,28,3,13
+DJAVAN,38,Acai,major,29,6,9
+DJAVAN,38,Acai,major,30,1,3
+DJAVAN,38,Acai,major,31,2,x
+DJAVAN,38,Acai,major,32,1,3
+DJAVAN,38,Acai,major,33,5,5
+DJAVAN,38,Acai,major,34,6,6
+DJAVAN,38,Acai,major,35,1,7
+DJAVAN,38,Acai,major,36,2,1
+DJAVAN,38,Acai,major,37,3,9
+DJAVAN,38,Acai,major,38,1,5
+DJAVAN,38,Acai,major,39,7,x
+DJAVAN,38,Acai,major,40,6,3
+DJAVAN,38,Acai,major,41,5,5
+DJAVAN,38,Acai,major,42,1,1
+DJAVAN,38,Acai,major,43,7,x
+DJAVAN,38,Acai,major,44,6,6
+DJAVAN,38,Acai,major,45,1,7
+DJAVAN,38,Acai,major,46,7,x
+DJAVAN,38,Acai,major,47,6,5
+DJAVAN,38,Acai,major,48,4,3
+DJAVAN,38,Acai,major,49,5,11
+DJAVAN,38,Acai,major,50,3,3
+DJAVAN,39,Esfinge,major,1,6,9
+DJAVAN,39,Esfinge,major,2,5,9
+DJAVAN,39,Esfinge,major,3,3,3
+DJAVAN,39,Esfinge,major,4,5,5
+DJAVAN,39,Esfinge,major,5,6,6
+DJAVAN,39,Esfinge,major,6,3,7
+DJAVAN,39,Esfinge,major,7,6,b9/#9
+DJAVAN,39,Esfinge,major,8,3,7
+DJAVAN,39,Esfinge,major,9,3,3
+DJAVAN,39,Esfinge,major,10,5,5
+DJAVAN,39,Esfinge,major,11,6,6
+DJAVAN,39,Esfinge,major,12,2,b13
+DJAVAN,39,Esfinge,major,13,1,#11
+DJAVAN,39,Esfinge,major,14,3,7
+DJAVAN,39,Esfinge,major,15,6,b9/#9
+DJAVAN,39,Esfinge,major,16,1,5
+DJAVAN,39,Esfinge,major,17,1,9
+DJAVAN,39,Esfinge,major,18,6,5
+DJAVAN,39,Esfinge,major,19,1,7
+DJAVAN,39,Esfinge,major,20,6,5
+DJAVAN,39,Esfinge,major,21,1,7
+DJAVAN,39,Esfinge,major,22,2,1
+DJAVAN,39,Esfinge,major,23,#4/b5,3
+DJAVAN,39,Esfinge,major,24,3,1
+DJAVAN,39,Esfinge,major,25,#4/b5,9
+DJAVAN,39,Esfinge,major,26,7,5
+DJAVAN,39,Esfinge,major,27,2,x
+DJAVAN,39,Esfinge,major,28,3,9
+DJAVAN,39,Esfinge,major,29,2,1
+DJAVAN,39,Esfinge,major,30,5,11
+DJAVAN,39,Esfinge,major,31,5,1
+DJAVAN,39,Esfinge,major,32,4,x
+DJAVAN,39,Esfinge,major,33,5,1
+DJAVAN,39,Esfinge,major,34,6,9
+DJAVAN,39,Esfinge,major,35,2,3
+DJAVAN,39,Esfinge,major,36,1,9
+DJAVAN,39,Esfinge,major,37,6,7
+DJAVAN,39,Esfinge,major,38,3,11
+DJAVAN,39,Esfinge,major,39,7,5
+DJAVAN,39,Esfinge,major,40,1,x
+DJAVAN,39,Esfinge,major,41,2,1
+DJAVAN,39,Esfinge,major,42,3,9
+DJAVAN,39,Esfinge,major,43,5,x
+DJAVAN,39,Esfinge,major,44,4,1
+DJAVAN,39,Esfinge,major,45,3,x
+DJAVAN,39,Esfinge,major,46,4,1
+DJAVAN,39,Esfinge,major,47,5,x
+DJAVAN,39,Esfinge,major,48,6,3
+DJAVAN,39,Esfinge,major,49,6,11
+DJAVAN,39,Esfinge,major,50,3,1
+DJAVAN,39,Esfinge,major,51,#6/b7,x
+DJAVAN,39,Esfinge,major,52,6,1
+DJAVAN,39,Esfinge,major,53,5,7
+DJAVAN,39,Esfinge,major,54,3,5
+DJAVAN,39,Esfinge,major,55,1,b9/#9
+DJAVAN,39,Esfinge,major,56,3,9
+DJAVAN,39,Esfinge,major,57,4,3
+DJAVAN,39,Esfinge,major,58,1,1
+DJAVAN,39,Esfinge,major,59,6,6
+DJAVAN,39,Esfinge,major,60,5,5
+DJAVAN,39,Esfinge,major,61,6,6
+DJAVAN,39,Esfinge,major,62,1,1
+DJAVAN,39,Esfinge,major,63,4,x
+DJAVAN,39,Esfinge,major,64,3,7
+DJAVAN,39,Esfinge,major,65,1,5
+DJAVAN,39,Esfinge,major,66,6,3
+DJAVAN,39,Esfinge,major,67,1,3
+DJAVAN,39,Esfinge,major,68,2,x
+DJAVAN,39,Esfinge,major,69,3,x
+DJAVAN,39,Esfinge,major,70,4,7
+DJAVAN,39,Esfinge,major,71,3,3
+DJAVAN,39,Esfinge,major,72,2,b13
+DJAVAN,40,Tanta saudade,minor,1,1,1
+DJAVAN,40,Tanta saudade,minor,2,b7,7
+DJAVAN,40,Tanta saudade,minor,3,2,9
+DJAVAN,40,Tanta saudade,minor,4,2,#11
+DJAVAN,40,Tanta saudade,minor,5,b7,9
+DJAVAN,40,Tanta saudade,minor,6,5,11
+DJAVAN,40,Tanta saudade,minor,7,5,1
+DJAVAN,40,Tanta saudade,minor,8,4,7
+DJAVAN,40,Tanta saudade,minor,9,3,1
+DJAVAN,40,Tanta saudade,minor,10,2,#11
+DJAVAN,40,Tanta saudade,minor,11,b7,9
+DJAVAN,40,Tanta saudade,minor,12,6,5
+DJAVAN,40,Tanta saudade,minor,13,5,1
+DJAVAN,40,Tanta saudade,minor,14,1,1
+DJAVAN,40,Tanta saudade,minor,15,b7,7
+DJAVAN,40,Tanta saudade,minor,16,2,9
+DJAVAN,40,Tanta saudade,minor,17,2,#11
+DJAVAN,40,Tanta saudade,minor,18,b7,9
+DJAVAN,40,Tanta saudade,minor,19,5,11
+DJAVAN,40,Tanta saudade,minor,20,5,1
+DJAVAN,40,Tanta saudade,minor,21,b7,b9/#9
+DJAVAN,40,Tanta saudade,minor,22,4,7
+DJAVAN,40,Tanta saudade,minor,23,3,x
+DJAVAN,40,Tanta saudade,minor,24,4,9
+DJAVAN,40,Tanta saudade,minor,25,2,#11
+DJAVAN,40,Tanta saudade,minor,26,b7,9
+DJAVAN,40,Tanta saudade,minor,27,6,5
+DJAVAN,40,Tanta saudade,minor,28,5,1
+DJAVAN,40,Tanta saudade,minor,29,5,5
+DJAVAN,40,Tanta saudade,minor,30,4,x
+DJAVAN,40,Tanta saudade,minor,31,5,7
+DJAVAN,40,Tanta saudade,minor,32,3,5
+DJAVAN,40,Tanta saudade,minor,33,1,7
+DJAVAN,40,Tanta saudade,minor,34,5,1
+DJAVAN,40,Tanta saudade,minor,35,4,7
+DJAVAN,40,Tanta saudade,minor,36,3,1
+DJAVAN,40,Tanta saudade,minor,37,2,x
+DJAVAN,40,Tanta saudade,minor,38,1,3
+DJAVAN,40,Tanta saudade,minor,39,2,x
+DJAVAN,40,Tanta saudade,minor,40,3,5
+DJAVAN,40,Tanta saudade,minor,41,b7,9
+DJAVAN,40,Tanta saudade,minor,42,1,7
+DJAVAN,40,Tanta saudade,minor,43,b7,b9/#9
+DJAVAN,40,Tanta saudade,minor,44,6,x
+DJAVAN,40,Tanta saudade,minor,45,5,1
+DJAVAN,41,Fato consumado,major,1,5,5
+DJAVAN,41,Fato consumado,major,2,1,1
+DJAVAN,41,Fato consumado,major,3,6,6
+DJAVAN,41,Fato consumado,major,4,5,5
+DJAVAN,41,Fato consumado,major,5,1,b9/#9
+DJAVAN,41,Fato consumado,major,6,6,1
+DJAVAN,41,Fato consumado,major,7,5,7
+DJAVAN,41,Fato consumado,major,8,1,b9/#9
+DJAVAN,41,Fato consumado,major,9,2,1
+DJAVAN,41,Fato consumado,major,10,5,3
+DJAVAN,41,Fato consumado,major,11,3,9
+DJAVAN,41,Fato consumado,major,12,4,x
+DJAVAN,41,Fato consumado,major,13,3,9
+DJAVAN,41,Fato consumado,major,14,1,7
+DJAVAN,41,Fato consumado,major,15,6,5
+DJAVAN,41,Fato consumado,major,16,5,1
+DJAVAN,41,Fato consumado,major,17,3,13
+DJAVAN,41,Fato consumado,major,18,4,x
+DJAVAN,41,Fato consumado,major,19,3,13
+DJAVAN,41,Fato consumado,major,20,1,3
+DJAVAN,41,Fato consumado,major,21,6,x
+DJAVAN,41,Fato consumado,major,22,5,1
+DJAVAN,41,Fato consumado,major,23,2,5
+DJAVAN,41,Fato consumado,major,24,3,13
+DJAVAN,41,Fato consumado,major,25,5,5
+DJAVAN,41,Fato consumado,major,26,1,1
+DJAVAN,41,Fato consumado,major,27,7,7
+DJAVAN,41,Fato consumado,major,28,1,x
+DJAVAN,41,Fato consumado,major,29,7,7
+DJAVAN,41,Fato consumado,major,30,1,b9/#9
+DJAVAN,41,Fato consumado,major,31,7,x
+DJAVAN,41,Fato consumado,major,32,1,b9/#9
+DJAVAN,41,Fato consumado,major,33,7,x
+DJAVAN,41,Fato consumado,major,34,1,b9/#9
+DJAVAN,41,Fato consumado,major,35,2,1
+DJAVAN,41,Fato consumado,major,36,3,x
+DJAVAN,41,Fato consumado,major,37,2,1
+DJAVAN,41,Fato consumado,major,38,1,7
+DJAVAN,41,Fato consumado,major,39,7,13
+DJAVAN,41,Fato consumado,major,40,1,x
+DJAVAN,41,Fato consumado,major,41,7,3
+DJAVAN,41,Fato consumado,major,42,6,9
+DJAVAN,41,Fato consumado,major,43,3,13
+DJAVAN,41,Fato consumado,major,44,5,5
+DJAVAN,41,Fato consumado,major,45,3,3
+DJAVAN,41,Fato consumado,major,46,5,5
+DJAVAN,41,Fato consumado,major,47,6,5
+DJAVAN,41,Fato consumado,major,48,3,9
+DJAVAN,41,Fato consumado,major,49,7,5
+DJAVAN,41,Fato consumado,major,50,6,x
+DJAVAN,41,Fato consumado,major,51,7,9
+DJAVAN,41,Fato consumado,major,52,6,x
+DJAVAN,41,Fato consumado,major,53,5,7
+DJAVAN,41,Fato consumado,major,54,3,5
+DJAVAN,41,Fato consumado,major,55,5,7
+DJAVAN,41,Fato consumado,major,56,3,9
+DJAVAN,41,Fato consumado,major,57,6,5
+DJAVAN,41,Fato consumado,major,58,5,1
+DJAVAN,41,Fato consumado,major,59,3,13
+DJAVAN,41,Fato consumado,major,60,6,9
+DJAVAN,41,Fato consumado,major,61,5,1
+DJAVAN,41,Fato consumado,major,62,3,1
+DJAVAN,41,Fato consumado,major,63,6,11
+DJAVAN,42,Serrado,minor,1,1,1
+DJAVAN,42,Serrado,minor,2,3,3
+DJAVAN,42,Serrado,minor,3,4,1
+DJAVAN,42,Serrado,minor,4,3,7
+DJAVAN,42,Serrado,minor,5,5,9
+DJAVAN,42,Serrado,minor,6,1,1
+DJAVAN,42,Serrado,minor,7,3,3
+DJAVAN,42,Serrado,minor,8,4,1
+DJAVAN,42,Serrado,minor,9,3,7
+DJAVAN,42,Serrado,minor,10,5,9
+DJAVAN,42,Serrado,minor,11,1,1
+DJAVAN,42,Serrado,minor,12,b7,7
+DJAVAN,42,Serrado,minor,13,5,5
+DJAVAN,42,Serrado,minor,14,b7,7
+DJAVAN,42,Serrado,minor,15,5,9
+DJAVAN,42,Serrado,minor,16,3,7
+DJAVAN,42,Serrado,minor,17,5,9
+DJAVAN,42,Serrado,minor,18,4,11
+DJAVAN,42,Serrado,minor,19,2,9
+DJAVAN,42,Serrado,minor,20,4,11
+DJAVAN,42,Serrado,minor,21,2,9
+DJAVAN,42,Serrado,minor,22,1,5
+DJAVAN,42,Serrado,minor,23,2,x
+DJAVAN,42,Serrado,minor,24,3,7
+DJAVAN,42,Serrado,minor,25,4,x
+DJAVAN,42,Serrado,minor,26,5,b13
+DJAVAN,42,Serrado,minor,27,1,9
+DJAVAN,42,Serrado,minor,28,3,1
+DJAVAN,42,Serrado,minor,29,4,9
+DJAVAN,42,Serrado,minor,30,3,1
+DJAVAN,42,Serrado,minor,31,1,9
+DJAVAN,42,Serrado,minor,32,3,11
+DJAVAN,42,Serrado,minor,33,4,9
+DJAVAN,42,Serrado,minor,34,5,x
+DJAVAN,42,Serrado,minor,35,4,9
+DJAVAN,42,Serrado,minor,36,3,#11
+DJAVAN,42,Serrado,minor,37,1,b9/#9
+DJAVAN,42,Serrado,minor,38,5,7
+DJAVAN,42,Serrado,minor,39,6,x
+DJAVAN,42,Serrado,minor,40,5,11
+DJAVAN,42,Serrado,minor,41,5,#11
+DJAVAN,42,Serrado,minor,42,5,1
+DJAVAN,43,Nobreza,minor,1,5,5
+DJAVAN,43,Nobreza,minor,2,6,7
+DJAVAN,43,Nobreza,minor,3,5,b13
+DJAVAN,43,Nobreza,minor,4,2,3
+DJAVAN,43,Nobreza,minor,5,4,11
+DJAVAN,43,Nobreza,minor,6,3,3
+DJAVAN,43,Nobreza,minor,7,5,5
+DJAVAN,43,Nobreza,minor,8,2,9
+DJAVAN,43,Nobreza,minor,9,5,5
+DJAVAN,43,Nobreza,minor,10,1,3
+DJAVAN,43,Nobreza,minor,11,2,x
+DJAVAN,43,Nobreza,minor,12,3,5
+DJAVAN,43,Nobreza,minor,13,b7,5
+DJAVAN,43,Nobreza,minor,14,5,3
+DJAVAN,43,Nobreza,minor,15,3,1
+DJAVAN,43,Nobreza,minor,16,6,5
+DJAVAN,43,Nobreza,minor,17,b7,x
+DJAVAN,43,Nobreza,minor,18,1,7
+DJAVAN,43,Nobreza,minor,19,5,1
+DJAVAN,43,Nobreza,minor,20,5,5
+DJAVAN,43,Nobreza,minor,21,6,7
+DJAVAN,43,Nobreza,minor,22,5,b13
+DJAVAN,43,Nobreza,minor,23,2,3
+DJAVAN,43,Nobreza,minor,24,4,11
+DJAVAN,43,Nobreza,minor,25,3,3
+DJAVAN,43,Nobreza,minor,26,5,5
+DJAVAN,43,Nobreza,minor,27,2,9
+DJAVAN,43,Nobreza,minor,28,5,3
+DJAVAN,43,Nobreza,minor,29,b7,5
+DJAVAN,43,Nobreza,minor,30,1,x
+DJAVAN,43,Nobreza,minor,31,2,x
+DJAVAN,43,Nobreza,minor,32,3,7
+DJAVAN,43,Nobreza,minor,33,4,1
+DJAVAN,43,Nobreza,minor,34,5,11
+DJAVAN,43,Nobreza,minor,35,5,1
+DJAVAN,43,Nobreza,minor,36,5,5
+DJAVAN,43,Nobreza,minor,37,6,7
+DJAVAN,43,Nobreza,minor,38,5,b13
+DJAVAN,43,Nobreza,minor,39,2,3
+DJAVAN,43,Nobreza,minor,40,4,11
+DJAVAN,43,Nobreza,minor,41,3,3
+DJAVAN,43,Nobreza,minor,42,5,5
+DJAVAN,43,Nobreza,minor,43,2,9
+DJAVAN,43,Nobreza,minor,44,5,5
+DJAVAN,43,Nobreza,minor,45,1,3
+DJAVAN,43,Nobreza,minor,46,2,x
+DJAVAN,43,Nobreza,minor,47,3,5
+DJAVAN,43,Nobreza,minor,48,b7,5
+DJAVAN,43,Nobreza,minor,49,5,3
+DJAVAN,43,Nobreza,minor,50,3,1
+DJAVAN,43,Nobreza,minor,51,6,5
+DJAVAN,43,Nobreza,minor,52,b7,x
+DJAVAN,43,Nobreza,minor,53,1,7
+DJAVAN,43,Nobreza,minor,54,5,1
+DJAVAN,43,Nobreza,minor,55,#1/b2,5
+DJAVAN,43,Nobreza,minor,56,1,x
+DJAVAN,43,Nobreza,minor,57,b7,3
+DJAVAN,43,Nobreza,minor,58,6,x
+DJAVAN,43,Nobreza,minor,59,5,5
+DJAVAN,43,Nobreza,minor,60,1,1
+DJAVAN,44,Joaninha,minor,1,5,5
+DJAVAN,44,Joaninha,minor,2,3,3
+DJAVAN,44,Joaninha,minor,3,4,1
+DJAVAN,44,Joaninha,minor,4,1,5
+DJAVAN,44,Joaninha,minor,5,3,5
+DJAVAN,44,Joaninha,minor,6,1,3
+DJAVAN,44,Joaninha,minor,7,6,1
+DJAVAN,44,Joaninha,minor,8,1,3
+DJAVAN,44,Joaninha,minor,9,5,1
+DJAVAN,44,Joaninha,minor,10,4,6
+DJAVAN,44,Joaninha,minor,11,5,x
+DJAVAN,44,Joaninha,minor,12,6,1
+DJAVAN,44,Joaninha,minor,13,b7,x
+DJAVAN,44,Joaninha,minor,14,1,3
+DJAVAN,44,Joaninha,minor,15,3,5
+DJAVAN,44,Joaninha,minor,16,4,6
+DJAVAN,44,Joaninha,minor,17,3,x
+DJAVAN,44,Joaninha,minor,18,4,7
+DJAVAN,44,Joaninha,minor,19,3,x
+DJAVAN,44,Joaninha,minor,20,4,7
+DJAVAN,44,Joaninha,minor,21,3,x
+DJAVAN,44,Joaninha,minor,22,4,7
+DJAVAN,44,Joaninha,minor,23,3,x
+DJAVAN,44,Joaninha,minor,24,4,7
+DJAVAN,44,Joaninha,minor,25,3,x
+DJAVAN,44,Joaninha,minor,26,4,7
+DJAVAN,44,Joaninha,minor,27,3,x
+DJAVAN,44,Joaninha,minor,28,4,7
+DJAVAN,44,Joaninha,minor,29,3,x
+DJAVAN,44,Joaninha,minor,30,4,7
+DJAVAN,44,Joaninha,minor,31,3,x
+DJAVAN,44,Joaninha,minor,32,4,7
+DJAVAN,44,Joaninha,minor,33,1,1
+DJAVAN,44,Joaninha,minor,34,2,x
+DJAVAN,44,Joaninha,minor,35,3,3
+DJAVAN,44,Joaninha,minor,36,6,1
+DJAVAN,44,Joaninha,minor,37,b7,x
+DJAVAN,44,Joaninha,minor,38,1,3
+DJAVAN,44,Joaninha,minor,39,#1/b2,1
+DJAVAN,44,Joaninha,minor,40,3,x
+DJAVAN,44,Joaninha,minor,41,4,3
+DJAVAN,44,Joaninha,minor,42,5,#11
+DJAVAN,44,Joaninha,minor,43,6,x
+DJAVAN,44,Joaninha,minor,44,b7,6
+DJAVAN,44,Joaninha,minor,45,5,1
+DJAVAN,44,Joaninha,minor,46,1,1
+DJAVAN,44,Joaninha,minor,47,2,x
+DJAVAN,44,Joaninha,minor,48,3,3
+DJAVAN,44,Joaninha,minor,49,6,1
+DJAVAN,44,Joaninha,minor,50,b7,x
+DJAVAN,44,Joaninha,minor,51,1,3
+DJAVAN,44,Joaninha,minor,52,#1/b2,1
+DJAVAN,44,Joaninha,minor,53,3,x
+DJAVAN,44,Joaninha,minor,54,4,3
+DJAVAN,44,Joaninha,minor,55,b7,6
+DJAVAN,44,Joaninha,minor,56,5,1
+DJAVAN,44,Joaninha,minor,57,4,7
+DJAVAN,45,Flor do medo,major,1,6,1
+DJAVAN,45,Flor do medo,major,2,7,x
+DJAVAN,45,Flor do medo,major,3,1,b9/#9
+DJAVAN,45,Flor do medo,major,4,2,x
+DJAVAN,45,Flor do medo,major,5,3,9
+DJAVAN,45,Flor do medo,major,6,5,9
+DJAVAN,45,Flor do medo,major,7,4,x
+DJAVAN,45,Flor do medo,major,8,3,7
+DJAVAN,45,Flor do medo,major,9,2,x
+DJAVAN,45,Flor do medo,major,10,1,5
+DJAVAN,45,Flor do medo,major,11,7,5
+DJAVAN,45,Flor do medo,major,12,2,7
+DJAVAN,45,Flor do medo,major,13,1,x
+DJAVAN,45,Flor do medo,major,14,2,7
+DJAVAN,45,Flor do medo,major,15,6,#11
+DJAVAN,45,Flor do medo,major,16,7,x
+DJAVAN,45,Flor do medo,major,17,1,7
+DJAVAN,45,Flor do medo,major,18,2,x
+DJAVAN,45,Flor do medo,major,19,3,9
+DJAVAN,45,Flor do medo,major,20,2,1
+DJAVAN,45,Flor do medo,major,21,#5/b6,3
+DJAVAN,45,Flor do medo,major,22,3,7
+DJAVAN,45,Flor do medo,major,23,2,x
+DJAVAN,45,Flor do medo,major,24,3,7
+DJAVAN,45,Flor do medo,major,25,2,x
+DJAVAN,45,Flor do medo,major,26,3,7
+DJAVAN,45,Flor do medo,major,27,2,7
+DJAVAN,45,Flor do medo,major,28,1,x
+DJAVAN,45,Flor do medo,major,29,7,5
+DJAVAN,45,Flor do medo,major,30,6,#11
+DJAVAN,45,Flor do medo,major,31,7,x
+DJAVAN,45,Flor do medo,major,32,1,7
+DJAVAN,45,Flor do medo,major,33,2,x
+DJAVAN,45,Flor do medo,major,34,3,9
+DJAVAN,45,Flor do medo,major,35,5,9
+DJAVAN,45,Flor do medo,major,36,4,x
+DJAVAN,45,Flor do medo,major,37,3,7
+DJAVAN,45,Flor do medo,major,38,2,x
+DJAVAN,45,Flor do medo,major,39,1,5
+DJAVAN,45,Flor do medo,major,40,7,5
+DJAVAN,45,Flor do medo,major,41,1,x
+DJAVAN,45,Flor do medo,major,42,2,7
+DJAVAN,45,Flor do medo,major,43,3,1
+DJAVAN,45,Flor do medo,major,44,7,b13
+DJAVAN,45,Flor do medo,major,45,1,x
+DJAVAN,45,Flor do medo,major,46,2,14
+DJAVAN,45,Flor do medo,major,47,7,b13
+DJAVAN,45,Flor do medo,major,48,6,x
+DJAVAN,45,Flor do medo,major,49,7,b13
+DJAVAN,45,Flor do medo,major,50,1,7
+DJAVAN,45,Flor do medo,major,51,2,x
+DJAVAN,45,Flor do medo,major,52,3,9
+DJAVAN,45,Flor do medo,major,53,2,1
+DJAVAN,45,Flor do medo,major,54,#5/b6,3
+DJAVAN,45,Flor do medo,major,55,5,x
+DJAVAN,45,Flor do medo,major,56,4,1
+DJAVAN,45,Flor do medo,major,57,5,x
+DJAVAN,45,Flor do medo,major,58,4,1
+DJAVAN,45,Flor do medo,major,59,3,x
+DJAVAN,45,Flor do medo,major,60,4,1
+DJAVAN,45,Flor do medo,major,61,5,x
+DJAVAN,45,Flor do medo,major,62,#5/b6,3
+DJAVAN,45,Flor do medo,major,63,1,1
+DJAVAN,46,Silaba,minor,1,1,1
+DJAVAN,46,Silaba,minor,2,3,x
+DJAVAN,46,Silaba,minor,3,2,9
+DJAVAN,46,Silaba,minor,4,4,11
+DJAVAN,46,Silaba,minor,5,1,1
+DJAVAN,46,Silaba,minor,6,3,x
+DJAVAN,46,Silaba,minor,7,2,9
+DJAVAN,46,Silaba,minor,8,4,11
+DJAVAN,46,Silaba,minor,9,1,1
+DJAVAN,46,Silaba,minor,10,3,x
+DJAVAN,46,Silaba,minor,11,2,9
+DJAVAN,46,Silaba,minor,12,4,11
+DJAVAN,46,Silaba,minor,13,1,1
+DJAVAN,46,Silaba,minor,14,3,3
+DJAVAN,46,Silaba,minor,15,2,x
+DJAVAN,46,Silaba,minor,16,1,1
+DJAVAN,46,Silaba,minor,17,2,9
+DJAVAN,46,Silaba,minor,18,b7,7
+DJAVAN,46,Silaba,minor,19,1,3
+DJAVAN,46,Silaba,minor,20,b7,9
+DJAVAN,46,Silaba,minor,21,5,7
+DJAVAN,46,Silaba,minor,22,1,3
+DJAVAN,46,Silaba,minor,23,b7,9
+DJAVAN,46,Silaba,minor,24,5,7
+DJAVAN,46,Silaba,minor,25,1,1
+DJAVAN,46,Silaba,minor,26,b7,7
+DJAVAN,46,Silaba,minor,27,5,5
+DJAVAN,46,Silaba,minor,28,b7,b9/#9
+DJAVAN,46,Silaba,minor,29,5,x
+DJAVAN,46,Silaba,minor,30,4,7
+DJAVAN,46,Silaba,minor,31,5,5
+DJAVAN,46,Silaba,minor,32,6,x
+DJAVAN,46,Silaba,minor,33,5,5
+DJAVAN,46,Silaba,minor,34,5,b13
+DJAVAN,46,Silaba,minor,35,4,5
+DJAVAN,46,Silaba,minor,36,6,7
+DJAVAN,46,Silaba,minor,37,6,3
+DJAVAN,46,Silaba,minor,38,b7,5
+DJAVAN,46,Silaba,minor,39,1,3
+DJAVAN,46,Silaba,minor,40,1,3
+DJAVAN,46,Silaba,minor,41,1,1
+DJAVAN,46,Silaba,minor,42,b7,7
+DJAVAN,46,Silaba,minor,43,5,5
+DJAVAN,46,Silaba,minor,44,4,x
+DJAVAN,46,Silaba,minor,45,5,1
+DJAVAN,46,Silaba,minor,46,5,7
+DJAVAN,46,Silaba,minor,47,4,x
+DJAVAN,46,Silaba,minor,48,3,5
+DJAVAN,46,Silaba,minor,49,4,6
+DJAVAN,46,Silaba,minor,50,2,1
+DJAVAN,46,Silaba,minor,51,1,5
+DJAVAN,46,Silaba,minor,52,4,1
+DJAVAN,46,Silaba,minor,53,5,9
+DJAVAN,46,Silaba,minor,54,4,x
+DJAVAN,46,Silaba,minor,55,5,5
+DJAVAN,46,Silaba,minor,56,4,x
+DJAVAN,46,Silaba,minor,57,5,5
+DJAVAN,46,Silaba,minor,58,1,1
+DJAVAN,46,Silaba,minor,59,5,#11
+DJAVAN,46,Silaba,minor,60,6,x
+DJAVAN,46,Silaba,minor,61,b7,13
+DJAVAN,46,Silaba,minor,62,1,1
+DJAVAN,46,Silaba,minor,63,4,1
+DJAVAN,46,Silaba,minor,64,5,x
+DJAVAN,46,Silaba,minor,65,6,x
+DJAVAN,46,Silaba,minor,66,b7,3
+DJAVAN,46,Silaba,minor,67,1,11
+DJAVAN,46,Silaba,minor,68,3,x
+DJAVAN,46,Silaba,minor,69,4,6
+DJAVAN,47,Que foi my love,major,1,3,3
+DJAVAN,47,Que foi my love,major,2,1,1
+DJAVAN,47,Que foi my love,major,3,1,5
+DJAVAN,47,Que foi my love,major,4,#6/b7,x
+DJAVAN,47,Que foi my love,major,5,1,5
+DJAVAN,47,Que foi my love,major,6,#6/b7,x
+DJAVAN,47,Que foi my love,major,7,1,5
+DJAVAN,47,Que foi my love,major,8,#6/b7,7
+DJAVAN,47,Que foi my love,major,9,1,1
+DJAVAN,47,Que foi my love,major,10,5,5
+DJAVAN,47,Que foi my love,major,11,1,1
+DJAVAN,47,Que foi my love,major,12,4,9
+DJAVAN,47,Que foi my love,major,13,#2/b3,1
+DJAVAN,47,Que foi my love,major,14,1,13
+DJAVAN,47,Que foi my love,major,15,#2/b3,5
+DJAVAN,47,Que foi my love,major,16,1,3
+DJAVAN,47,Que foi my love,major,17,#2/b3,5
+DJAVAN,47,Que foi my love,major,18,4,x
+DJAVAN,47,Que foi my love,major,19,#2/b3,5
+DJAVAN,47,Que foi my love,major,20,1,3
+DJAVAN,47,Que foi my love,major,21,1,13
+DJAVAN,47,Que foi my love,major,22,#2/b3,1
+DJAVAN,47,Que foi my love,major,23,1,x
+DJAVAN,47,Que foi my love,major,24,#6/b7,b9/#9
+DJAVAN,47,Que foi my love,major,25,6,x
+DJAVAN,47,Que foi my love,major,26,5,1
+DJAVAN,47,Que foi my love,major,27,4,x
+DJAVAN,47,Que foi my love,major,28,#2/b3,b13
+DJAVAN,47,Que foi my love,major,29,3,3
+DJAVAN,47,Que foi my love,major,30,1,1
+DJAVAN,47,Que foi my love,major,31,#6/b7,7
+DJAVAN,47,Que foi my love,major,32,1,11
+DJAVAN,47,Que foi my love,major,33,1,1
+DJAVAN,47,Que foi my love,major,34,5,5
+DJAVAN,47,Que foi my love,major,35,6,13
+DJAVAN,47,Que foi my love,major,36,1,x
+DJAVAN,47,Que foi my love,major,37,2,9
+DJAVAN,47,Que foi my love,major,38,1,11
+DJAVAN,47,Que foi my love,major,39,2,x
+DJAVAN,47,Que foi my love,major,40,3,6
+DJAVAN,47,Que foi my love,major,41,1,1
+DJAVAN,47,Que foi my love,major,42,#6/b7,x
+DJAVAN,47,Que foi my love,major,43,1,1
+DJAVAN,47,Que foi my love,major,44,2,9
+DJAVAN,47,Que foi my love,major,45,6,13
+DJAVAN,47,Que foi my love,major,46,1,1
+DJAVAN,47,Que foi my love,major,47,3,5
+DJAVAN,47,Que foi my love,major,48,4,6
+DJAVAN,47,Que foi my love,major,49,1,11
+DJAVAN,47,Que foi my love,major,50,1,1
+DJAVAN,47,Que foi my love,major,51,5,5
+DJAVAN,47,Que foi my love,major,52,6,13
+DJAVAN,47,Que foi my love,major,53,1,x
+DJAVAN,47,Que foi my love,major,54,2,9
+DJAVAN,47,Que foi my love,major,55,1,11
+DJAVAN,47,Que foi my love,major,56,5,1
+DJAVAN,47,Que foi my love,major,57,3,6
+DJAVAN,47,Que foi my love,major,58,1,1
+DJAVAN,47,Que foi my love,major,59,#6/b7,x
+DJAVAN,47,Que foi my love,major,60,1,1
+DJAVAN,47,Que foi my love,major,61,2,9
+DJAVAN,47,Que foi my love,major,62,3,5
+DJAVAN,47,Que foi my love,major,63,4,x
+DJAVAN,47,Que foi my love,major,64,3,5
+DJAVAN,47,Que foi my love,major,65,3,1
+DJAVAN,47,Que foi my love,major,66,2,5
+DJAVAN,47,Que foi my love,major,67,4,7
+DJAVAN,47,Que foi my love,major,68,2,13
+DJAVAN,48,Doidice,minor,1,3,3
+DJAVAN,48,Doidice,minor,2,5,5
+DJAVAN,48,Doidice,minor,3,4,11
+DJAVAN,48,Doidice,minor,4,1,5
+DJAVAN,48,Doidice,minor,5,2,x
+DJAVAN,48,Doidice,minor,6,3,7
+DJAVAN,48,Doidice,minor,7,5,9
+DJAVAN,48,Doidice,minor,8,b7,3
+DJAVAN,48,Doidice,minor,9,2,13
+DJAVAN,48,Doidice,minor,10,b7,3
+DJAVAN,48,Doidice,minor,11,5,9
+DJAVAN,48,Doidice,minor,12,4,11
+DJAVAN,48,Doidice,minor,13,2,x
+DJAVAN,48,Doidice,minor,14,3,3
+DJAVAN,48,Doidice,minor,15,1,1
+DJAVAN,48,Doidice,minor,16,b7,7
+DJAVAN,48,Doidice,minor,17,2,1
+DJAVAN,48,Doidice,minor,18,1,7
+DJAVAN,48,Doidice,minor,19,b7,b9/#9
+DJAVAN,48,Doidice,minor,20,5,1
+DJAVAN,48,Doidice,minor,21,3,b13
+DJAVAN,48,Doidice,minor,22,4,11
+DJAVAN,48,Doidice,minor,23,2,x
+DJAVAN,48,Doidice,minor,24,3,3
+DJAVAN,48,Doidice,minor,25,3,b9/#9
+DJAVAN,48,Doidice,minor,26,7,3
+DJAVAN,48,Doidice,minor,27,5,1
+DJAVAN,48,Doidice,minor,28,1,x
+DJAVAN,48,Doidice,minor,29,7,3
+DJAVAN,48,Doidice,minor,30,5,1
+DJAVAN,48,Doidice,minor,31,1,x
+DJAVAN,48,Doidice,minor,32,7,3
+DJAVAN,48,Doidice,minor,33,5,1
+DJAVAN,48,Doidice,minor,34,1,x
+DJAVAN,48,Doidice,minor,35,7,3
+DJAVAN,48,Doidice,minor,36,5,1
+DJAVAN,48,Doidice,minor,37,1,x
+DJAVAN,48,Doidice,minor,38,b7,7
+DJAVAN,48,Doidice,minor,39,5,5
+DJAVAN,48,Doidice,minor,40,1,x
+DJAVAN,48,Doidice,minor,41,b7,7
+DJAVAN,48,Doidice,minor,42,5,5
+DJAVAN,48,Doidice,minor,43,5,5
+DJAVAN,48,Doidice,minor,44,4,1
+DJAVAN,48,Doidice,minor,45,4,7
+DJAVAN,49,Serene,major,1,3,3
+DJAVAN,49,Serene,major,2,5,5
+DJAVAN,49,Serene,major,3,3,3
+DJAVAN,49,Serene,major,4,2,x
+DJAVAN,49,Serene,major,5,3,3
+DJAVAN,49,Serene,major,6,3,5
+DJAVAN,49,Serene,major,7,7,9
+DJAVAN,49,Serene,major,8,1,x
+DJAVAN,49,Serene,major,9,7,9
+DJAVAN,49,Serene,major,10,6,1
+DJAVAN,49,Serene,major,11,3,5
+DJAVAN,49,Serene,major,12,4,x
+DJAVAN,49,Serene,major,13,3,5
+DJAVAN,49,Serene,major,14,2,x
+DJAVAN,49,Serene,major,15,1,7
+DJAVAN,49,Serene,major,16,6,5
+DJAVAN,49,Serene,major,17,2,1
+DJAVAN,49,Serene,major,18,1,7
+DJAVAN,49,Serene,major,19,2,x
+DJAVAN,49,Serene,major,20,3,13
+DJAVAN,49,Serene,major,21,5,1
+DJAVAN,49,Serene,major,22,2,x
+DJAVAN,49,Serene,major,23,3,13
+DJAVAN,49,Serene,major,24,5,x
+DJAVAN,49,Serene,major,25,6,9
+DJAVAN,49,Serene,major,26,3,3
+DJAVAN,49,Serene,major,27,5,5
+DJAVAN,49,Serene,major,28,3,3
+DJAVAN,49,Serene,major,29,2,x
+DJAVAN,49,Serene,major,30,3,3
+DJAVAN,49,Serene,major,31,3,5
+DJAVAN,49,Serene,major,32,7,x
+DJAVAN,49,Serene,major,33,1,3
+DJAVAN,49,Serene,major,34,3,5
+DJAVAN,49,Serene,major,35,4,x
+DJAVAN,49,Serene,major,36,3,5
+DJAVAN,49,Serene,major,37,2,x
+DJAVAN,49,Serene,major,38,1,3
+DJAVAN,49,Serene,major,39,6,1
+DJAVAN,49,Serene,major,40,2,x
+DJAVAN,49,Serene,major,41,1,7
+DJAVAN,49,Serene,major,42,2,5
+DJAVAN,49,Serene,major,43,3,x
+DJAVAN,49,Serene,major,44,4,7
+DJAVAN,49,Serene,major,45,5,1
+DJAVAN,49,Serene,major,46,6,x
+DJAVAN,49,Serene,major,47,5,1
+DJAVAN,49,Serene,major,48,2,5
+DJAVAN,49,Serene,major,49,2,x
+DJAVAN,49,Serene,major,50,1,3
+DJAVAN,49,Serene,major,51,3,5
+DJAVAN,49,Serene,major,52,7,9
+DJAVAN,49,Serene,major,53,6,x
+DJAVAN,49,Serene,major,54,5,3
+DJAVAN,49,Serene,major,55,6,11
+DJAVAN,49,Serene,major,56,3,9
+DJAVAN,49,Serene,major,57,2,11
+DJAVAN,49,Serene,major,58,1,3
+DJAVAN,49,Serene,major,59,3,5
+DJAVAN,49,Serene,major,60,7,x
+DJAVAN,49,Serene,major,61,6,1
+DJAVAN,49,Serene,major,62,3,5
+DJAVAN,49,Serene,major,63,1,3
+DJAVAN,49,Serene,major,64,6,11
+DJAVAN,49,Serene,major,65,3,9
+DJAVAN,49,Serene,major,66,2,5
+DJAVAN,50,Atitude,major,1,3,5
+DJAVAN,50,Atitude,major,2,5,7
+DJAVAN,50,Atitude,major,3,7,9
+DJAVAN,50,Atitude,major,4,1,x
+DJAVAN,50,Atitude,major,5,7,9
+DJAVAN,50,Atitude,major,6,1,3
+DJAVAN,50,Atitude,major,7,1,7
+DJAVAN,50,Atitude,major,8,6,5
+DJAVAN,50,Atitude,major,9,4,3
+DJAVAN,50,Atitude,major,10,3,#11
+DJAVAN,50,Atitude,major,11,2,x
+DJAVAN,50,Atitude,major,12,3,#11
+DJAVAN,50,Atitude,major,13,5,3
+DJAVAN,50,Atitude,major,14,6,11
+DJAVAN,50,Atitude,major,15,7,5
+DJAVAN,50,Atitude,major,16,6,x
+DJAVAN,50,Atitude,major,17,5,3
+DJAVAN,50,Atitude,major,18,3,1
+DJAVAN,50,Atitude,major,19,2,14
+DJAVAN,50,Atitude,major,20,6,#11
+DJAVAN,50,Atitude,major,21,1,6
+DJAVAN,50,Atitude,major,22,2,x
+DJAVAN,50,Atitude,major,23,1,7
+DJAVAN,50,Atitude,major,24,6,5
+DJAVAN,50,Atitude,major,25,5,x
+DJAVAN,50,Atitude,major,26,4,3
+DJAVAN,50,Atitude,major,27,3,9
+DJAVAN,50,Atitude,major,28,5,11
+DJAVAN,50,Atitude,major,29,3,9
+DJAVAN,50,Atitude,major,30,4,7
+DJAVAN,50,Atitude,major,31,2,5
+DJAVAN,50,Atitude,major,32,3,13
+DJAVAN,50,Atitude,major,33,5,1
+DJAVAN,50,Atitude,major,34,2,5
+DJAVAN,50,Atitude,major,35,1,x
+DJAVAN,50,Atitude,major,36,7,3
+DJAVAN,50,Atitude,major,37,3,3
+DJAVAN,50,Atitude,major,38,3,#11
+DJAVAN,50,Atitude,major,39,3,5
+DJAVAN,50,Atitude,major,40,5,7
+DJAVAN,50,Atitude,major,41,7,9
+DJAVAN,50,Atitude,major,42,1,x
+DJAVAN,50,Atitude,major,43,7,9
+DJAVAN,50,Atitude,major,44,1,3
+DJAVAN,50,Atitude,major,45,1,7
+DJAVAN,50,Atitude,major,46,6,5
+DJAVAN,50,Atitude,major,47,4,3
+DJAVAN,50,Atitude,major,48,3,#11
+DJAVAN,50,Atitude,major,49,2,x
+DJAVAN,50,Atitude,major,50,3,1
+DJAVAN,50,Atitude,major,51,5,3
+DJAVAN,50,Atitude,major,52,2,7
+DJAVAN,50,Atitude,major,53,1,x
+DJAVAN,50,Atitude,major,54,7,5
+DJAVAN,50,Atitude,major,55,2,14
+DJAVAN,50,Atitude,major,56,7,6
+DJAVAN,50,Atitude,major,57,2,x
+DJAVAN,50,Atitude,major,58,3,9
+DJAVAN,50,Atitude,major,59,5,11
+DJAVAN,50,Atitude,major,60,2,x
+DJAVAN,50,Atitude,major,61,3,9
+DJAVAN,50,Atitude,major,62,2,x
+DJAVAN,50,Atitude,major,63,3,13
+DJAVAN,50,Atitude,major,64,5,1
+DJAVAN,50,Atitude,major,65,2,x
+DJAVAN,50,Atitude,major,66,3,13
+DJAVAN,50,Atitude,major,67,5,1
+DJAVAN,50,Atitude,major,68,2,x
+DJAVAN,50,Atitude,major,69,3,13
+DJAVAN,50,Atitude,major,70,1,1

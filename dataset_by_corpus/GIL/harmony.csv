@@ -1,0 +1,1692 @@
+corpus_id,composition_id,composition_name,chord_index,root,bass,chord_type,chord_symbol,functional_category,key,mode,position
+GIL,1,Andar com fe,1,4,4,Z1,*6,I,4,major,1.0
+GIL,1,Andar com fe,2,11,11,Y0,*7,V,4,major,3.0
+GIL,1,Andar com fe,3,11,11,Y1,*4.7,V,4,major,4.0
+GIL,1,Andar com fe,4,11,11,Y0,*7,V,4,major,4.5
+GIL,1,Andar com fe,5,4,4,Z1,*6,I,4,major,5.0
+GIL,1,Andar com fe,6,11,11,Y0,*7,V,4,major,7.0
+GIL,1,Andar com fe,7,11,11,Y1,*4.7,V,4,major,8.0
+GIL,1,Andar com fe,8,11,11,Y0,*7,V,4,major,8.5
+GIL,1,Andar com fe,9,4,4,Z1,*6,I,4,major,9.0
+GIL,1,Andar com fe,10,11,11,Y0,*7,V,4,major,11.0
+GIL,1,Andar com fe,11,9,9,V0,*,IV,4,major,13.0
+GIL,1,Andar com fe,12,8,8,z0,*m7,III,4,major,14.0
+GIL,1,Andar com fe,13,6,6,z0,*m7,II,4,major,15.0
+GIL,1,Andar com fe,14,11,11,Y0,*7,V,4,major,16.0
+GIL,1,Andar com fe,15,4,4,Z1,*6,I,4,major,17.0
+GIL,1,Andar com fe,16,11,11,Y0,*7,V,4,major,19.0
+GIL,1,Andar com fe,17,9,9,V0,*,IV,4,major,21.0
+GIL,1,Andar com fe,18,8,8,z0,*m7,III,4,major,22.0
+GIL,1,Andar com fe,19,6,6,z0,*m7,II,4,major,23.0
+GIL,1,Andar com fe,20,11,11,Y1,*4.7,V,4,major,24.0
+GIL,1,Andar com fe,21,11,11,Y0,*7,V,4,major,24.5
+GIL,1,Andar com fe,22,4,4,Z1,*6,I,4,major,25.0
+GIL,2,Aquele abraco,1,4,4,Y2,*7.9,I,4,major,1.0
+GIL,2,Aquele abraco,2,9,9,Y4,*7.13,IV7,4,major,2.0
+GIL,2,Aquele abraco,3,4,4,Y2,*7.9,I,4,major,3.0
+GIL,2,Aquele abraco,4,9,9,Y4,*7.13,IV7,4,major,4.0
+GIL,2,Aquele abraco,5,4,4,Y2,*7.9,I,4,major,5.0
+GIL,2,Aquele abraco,6,9,9,Y4,*7.13,IV7,4,major,6.0
+GIL,2,Aquele abraco,7,4,4,Y2,*7.9,I,4,major,7.0
+GIL,2,Aquele abraco,8,9,9,Y4,*7.13,IV7,4,major,8.0
+GIL,2,Aquele abraco,9,4,4,Y2,*7.9,I,4,major,9.0
+GIL,2,Aquele abraco,10,9,9,Y4,*7.13,IV7,4,major,10.0
+GIL,2,Aquele abraco,11,1,1,z0,*m7,II__X,4,major,11.0
+GIL,2,Aquele abraco,12,6,6,Y0,*7,V/V,4,major,12.0
+GIL,2,Aquele abraco,13,1,1,z0,*m7,II__X,4,major,13.0
+GIL,2,Aquele abraco,14,6,6,Y0,*7,V/V,4,major,14.0
+GIL,2,Aquele abraco,15,1,1,z0,*m7,II__X,4,major,15.0
+GIL,2,Aquele abraco,16,6,6,Y0,*7,V/V,4,major,16.0
+GIL,2,Aquele abraco,17,1,1,z0,*m7,II__X,4,major,17.0
+GIL,2,Aquele abraco,18,6,6,Y0,*7,V/V,4,major,18.0
+GIL,2,Aquele abraco,19,11,11,Y0,*7,V,4,major,19.0
+GIL,2,Aquele abraco,20,4,4,Y2,*7.9,I,4,major,20.0
+GIL,2,Aquele abraco,21,9,9,Y4,*7.13,IV7,4,major,21.0
+GIL,2,Aquele abraco,22,4,4,Y2,*7.9,I,4,major,23.0
+GIL,2,Aquele abraco,23,9,9,Y4,*7.13,IV7,4,major,25.0
+GIL,2,Aquele abraco,24,4,4,Y2,*7.9,I,4,major,27.0
+GIL,2,Aquele abraco,25,9,9,Y4,*7.13,IV7,4,major,29.0
+GIL,2,Aquele abraco,26,4,4,Y2,*7.9,I,4,major,31.0
+GIL,2,Aquele abraco,27,9,9,Y4,*7.13,IV7,4,major,33.0
+GIL,2,Aquele abraco,28,1,1,z0,*m7,II__X,4,major,35.0
+GIL,2,Aquele abraco,29,6,6,Y0,*7,V/V,4,major,37.0
+GIL,2,Aquele abraco,30,1,1,z0,*m7,II__X,4,major,39.0
+GIL,2,Aquele abraco,31,6,6,Y0,*7,V/V,4,major,41.0
+GIL,2,Aquele abraco,32,1,1,z0,*m7,II__X,4,major,42.0
+GIL,2,Aquele abraco,33,6,6,Y0,*7,V/V,4,major,43.0
+GIL,2,Aquele abraco,34,7,7,Y4,*7.13,?,4,major,43.5
+GIL,2,Aquele abraco,35,8,8,Y4,*7.13,?,4,major,43.75
+GIL,2,Aquele abraco,36,9,9,Y4,*7.13,IV7,4,major,44.0
+GIL,2,Aquele abraco,37,4,4,Y2,*7.9,I,4,major,45.0
+GIL,3,Aqui e agora,1,5,5,Z0,*M7,I,5,major,1.0
+GIL,3,Aqui e agora,2,7,7,z0,*m7,II,5,major,1.5
+GIL,3,Aqui e agora,3,9,9,z0,*m7,III,5,major,2.0
+GIL,3,Aqui e agora,4,7,7,z0,*m7,II,5,major,2.5
+GIL,3,Aqui e agora,5,5,5,Z0,*M7,I,5,major,3.0
+GIL,3,Aqui e agora,6,7,7,z0,*m7,II,5,major,3.5
+GIL,3,Aqui e agora,7,9,9,z0,*m7,III,5,major,4.0
+GIL,3,Aqui e agora,8,7,7,z0,*m7,II,5,major,4.5
+GIL,3,Aqui e agora,9,7,7,Y0,*7,SubV,6,major,5.0
+GIL,3,Aqui e agora,10,6,6,Z0,*M7,I,6,major,7.0
+GIL,3,Aqui e agora,11,8,8,z0,*m7,II,6,major,7.5
+GIL,3,Aqui e agora,12,3,3,z3,*m7.11,VI,6,major,8.0
+GIL,3,Aqui e agora,13,1,1,z3,*m7.11,Vm7,6,major,9.5
+GIL,3,Aqui e agora,14,11,11,Y2.1,*7.9(#11),SubV/III,6,major,9.75
+GIL,3,Aqui e agora,15,10,10,z2,*m7.9,III,6,major,10.0
+GIL,3,Aqui e agora,16,3,3,z3,*m7.11,II__X,6,major,10.5
+GIL,3,Aqui e agora,17,0,0,Y2.1,*7.9(#11),SubV/IV,6,major,10.75
+GIL,3,Aqui e agora,18,11,11,Z0,*M7,IV,6,major,11.0
+GIL,3,Aqui e agora,19,10,10,z3,*m7.11,II__X,6,major,12.5
+GIL,3,Aqui e agora,20,9,9,Y3,*7(#11),SubV/II,6,major,12.75
+GIL,3,Aqui e agora,21,8,8,Y1.1,*4.7.9,V/V,6,major,13.0
+GIL,3,Aqui e agora,22,8,8,Y0,*7,SubV/II,5,major,13.25
+GIL,3,Aqui e agora,23,7,7,z0,*m7,II,5,major,13.5
+GIL,3,Aqui e agora,24,0,0,Y2.3,*7(b9),V,5,major,13.75
+GIL,3,Aqui e agora,25,5,5,Z0,*M7,I,5,major,14.0
+GIL,4,Barato total,1,5,5,Z1,*6,I,5,major,1.0
+GIL,4,Barato total,2,10,10,Y2,*7.9,IV7,5,major,3.0
+GIL,4,Barato total,3,5,5,Z1,*6,I,5,major,4.0
+GIL,4,Barato total,4,8,8,Z1,*6,bIII7M,5,major,6.0
+GIL,4,Barato total,5,10,10,Y2,*7.9,IV7,5,major,7.0
+GIL,4,Barato total,6,1,1,Y2,*7.9,SubV/V,5,major,8.0
+GIL,4,Barato total,7,0,0,Y2,*7.9,V,5,major,8.5
+GIL,4,Barato total,8,5,5,Z1,*6,I,5,major,9.0
+GIL,4,Barato total,9,10,10,Y2,*7.9,IV7,5,major,11.0
+GIL,4,Barato total,10,5,5,Z1,*6,I,5,major,12.0
+GIL,4,Barato total,11,8,8,Z1,*6,bIII7M,5,major,14.0
+GIL,4,Barato total,12,10,10,Y2,*7.9,IV7,5,major,15.0
+GIL,4,Barato total,13,1,1,Y2,*7.9,SubV/V,5,major,16.0
+GIL,4,Barato total,14,0,0,Y2,*7.9,V,5,major,16.5
+GIL,4,Barato total,15,5,5,Z1,*6,I,5,major,17.0
+GIL,4,Barato total,16,10,10,Y2,*7.9,IV7,5,major,19.0
+GIL,4,Barato total,17,1,1,Y2,*7.9,SubV/V,5,major,20.0
+GIL,4,Barato total,18,0,0,Y2,*7.9,V,5,major,20.5
+GIL,4,Barato total,19,8,8,Z1,*6,bIII7M,5,major,21.0
+GIL,4,Barato total,20,1,1,Y2,*7.9,SubV/V,5,major,24.0
+GIL,4,Barato total,21,0,0,Y2,*7.9,V,5,major,24.5
+GIL,4,Barato total,22,5,5,Y0,*7,V/IV,5,major,25.0
+GIL,4,Barato total,23,10,10,Y2,*7.9,IV7,5,major,26.0
+GIL,4,Barato total,24,7,7,Y0,*7,V/V,5,major,27.0
+GIL,4,Barato total,25,0,0,Y2,*7.9,V,5,major,28.0
+GIL,4,Barato total,26,5,5,Y0,*7,V/IV,5,major,29.0
+GIL,4,Barato total,27,10,10,Y2,*7.9,IV7,5,major,32.0
+GIL,4,Barato total,28,5,5,Z1,*6,I,5,major,34.0
+GIL,4,Barato total,29,7,7,Y0,*7,V/V,5,major,35.0
+GIL,4,Barato total,30,0,0,Y2,*7.9,V,5,major,36.0
+GIL,5,Chororo,1,1,1,Y2.4,*7(#9),V/III,2,major,1.0
+GIL,5,Chororo,2,6,6,z0,*m7,III,2,major,2.0
+GIL,5,Chororo,3,1,1,Y2.4,*7(#9),V/III,2,major,3.0
+GIL,5,Chororo,4,6,6,z0,*m7,III,2,major,4.0
+GIL,5,Chororo,5,1,1,Y2.4,*7(#9),V/III,2,major,5.0
+GIL,5,Chororo,6,6,6,z0,*m7,III,2,major,6.0
+GIL,5,Chororo,7,4,4,z0,*m7,II,2,major,7.0
+GIL,5,Chororo,8,2,2,Z0,*M7,I,2,major,8.0
+GIL,5,Chororo,9,9,9,Y2.2.1,*7(b9)13,V,2,major,9.0
+GIL,5,Chororo,10,9,9,Y2.1.2,*7(b9.#11),V,2,major,9.5
+GIL,5,Chororo,11,9,9,Y2.2.1,*7(b9)13,V,2,major,10.0
+GIL,5,Chororo,12,2,2,V0,*,I,2,major,12.0
+GIL,5,Chororo,13,2,6,V0,*,I,2,major,12.5
+GIL,5,Chororo,14,7,7,V0,*,IV,2,major,13.0
+GIL,5,Chororo,15,4,8,Y0,*7,V/V,2,major,13.5
+GIL,5,Chororo,16,9,9,Y0,*7,V,2,major,14.0
+GIL,5,Chororo,17,4,4,V0,*,I,4,major,15.0
+GIL,5,Chororo,18,11,3,V0,*,V,4,major,15.5
+GIL,5,Chororo,19,9,1,V0,*,IV,4,major,15.75
+GIL,5,Chororo,20,11,11,V0,*,V,4,major,16.0
+GIL,5,Chororo,21,9,1,V0,*,IV,4,major,16.5
+GIL,5,Chororo,22,11,3,V0,*,V,4,major,16.75
+GIL,5,Chororo,23,4,4,V0,*,I,4,major,17.0
+GIL,5,Chororo,24,11,3,V0,*,V,4,major,17.5
+GIL,5,Chororo,25,9,1,V0,*,IV,4,major,17.75
+GIL,5,Chororo,26,11,11,V0,*,V,4,major,18.0
+GIL,5,Chororo,27,9,1,V0,*,IV,4,major,18.5
+GIL,5,Chororo,28,11,3,V0,*,V,4,major,18.75
+GIL,5,Chororo,29,4,4,V0,*,I,4,major,19.0
+GIL,5,Chororo,30,5,5,V0,*,?,4,major,19.5
+GIL,5,Chororo,31,6,6,Y0,*7,V/V,4,major,20.0
+GIL,5,Chororo,32,11,11,Y0,*7,V,4,major,21.0
+GIL,5,Chororo,33,4,4,Y0,*7,V/V,2,major,22.0
+GIL,5,Chororo,34,9,9,Y2.2.1,*7(b9)13,V,2,major,23.0
+GIL,5,Chororo,35,2,2,V0,*,I,2,major,27.0
+GIL,5,Chororo,36,2,6,Y0,*7,V/IV,2,major,27.5
+GIL,5,Chororo,37,7,7,V0,*,IV,2,major,28.0
+GIL,5,Chororo,38,9,9,Y0,*7,V,2,major,29.0
+GIL,5,Chororo,39,2,2,V0,*,I,2,major,30.0
+GIL,5,Chororo,40,2,6,Y0,*7,V/IV,2,major,31.0
+GIL,5,Chororo,41,7,7,V0,*,IV,2,major,32.0
+GIL,5,Chororo,42,9,9,Y0,*7,V,2,major,33.0
+GIL,5,Chororo,43,2,2,V0,*,I,2,major,34.0
+GIL,6,Cerebro eletronico,1,7,7,V0,*,I,7,major,1.0
+GIL,6,Cerebro eletronico,2,7,7,Y0,*7,V/IV,7,major,1.5
+GIL,6,Cerebro eletronico,3,0,0,Y0,*7,IV7,7,major,2.0
+GIL,6,Cerebro eletronico,4,11,11,Y0,*7,V/VI,7,major,2.5
+GIL,6,Cerebro eletronico,5,4,4,v0,*m,VI,7,major,3.0
+GIL,6,Cerebro eletronico,6,11,11,Y0,*7,V/VI,7,major,3.5
+GIL,6,Cerebro eletronico,7,0,0,Y0,*7,IV7,7,major,4.0
+GIL,6,Cerebro eletronico,8,2,2,Y0,*7,V,7,major,4.5
+GIL,6,Cerebro eletronico,9,7,7,V0,*,I,7,major,5.0
+GIL,6,Cerebro eletronico,10,7,7,Y0,*7,V/IV,7,major,6.5
+GIL,6,Cerebro eletronico,11,0,0,Y0,*7,IV7,7,major,7.0
+GIL,6,Cerebro eletronico,12,11,11,Y0,*7,V/VI,7,major,7.5
+GIL,6,Cerebro eletronico,13,4,4,v0,*m,VI,7,major,8.0
+GIL,6,Cerebro eletronico,14,11,11,Y0,*7,V/VI,7,major,8.5
+GIL,6,Cerebro eletronico,15,0,0,Y0,*7,IV7,7,major,9.0
+GIL,6,Cerebro eletronico,16,2,2,Y0,*7,V,7,major,9.5
+GIL,6,Cerebro eletronico,17,7,7,V0,*,I,7,major,10.0
+GIL,6,Cerebro eletronico,18,11,11,Y0,*7,V,4,minor,10.5
+GIL,6,Cerebro eletronico,19,4,4,v0,*m,I,4,minor,11.0
+GIL,6,Cerebro eletronico,20,9,9,Y0,*7,IV7,4,minor,11.5
+GIL,6,Cerebro eletronico,21,4,4,v0,*m,I,4,minor,12.0
+GIL,6,Cerebro eletronico,22,9,9,Y0,*7,IV7,4,minor,12.5
+GIL,6,Cerebro eletronico,23,4,4,v0,*m,I,4,minor,13.0
+GIL,6,Cerebro eletronico,24,9,9,Y0,*7,IV7,4,minor,13.5
+GIL,6,Cerebro eletronico,25,4,4,v0,*m,I,4,minor,14.0
+GIL,6,Cerebro eletronico,26,2,2,Y0,*7,V,7,major,14.5
+GIL,6,Cerebro eletronico,27,7,7,V0,*,I,7,major,15.0
+GIL,6,Cerebro eletronico,28,0,0,Y0,*7,IV7,7,major,15.5
+GIL,6,Cerebro eletronico,29,7,7,V0,*,I,7,major,16.0
+GIL,6,Cerebro eletronico,30,0,0,Y0,*7,IV7,7,major,16.5
+GIL,6,Cerebro eletronico,31,7,7,V0,*,I,7,major,17.0
+GIL,6,Cerebro eletronico,32,11,11,Y0,*7,V,4,minor,17.5
+GIL,6,Cerebro eletronico,33,4,4,v0,*m,I,4,minor,18.0
+GIL,6,Cerebro eletronico,34,11,11,Y0,*7,V,4,minor,18.5
+GIL,6,Cerebro eletronico,35,4,4,v0,*m,I,4,minor,19.0
+GIL,7,Copo vazio,1,7,7,Y0,*7,V/IV,7,major,1.0
+GIL,7,Copo vazio,2,0,0,V0,*,IV,7,major,2.0
+GIL,7,Copo vazio,3,11,11,Y0,*7,V/VI,7,major,3.0
+GIL,7,Copo vazio,4,4,4,z0,*m7,II__X,7,major,4.0
+GIL,7,Copo vazio,5,9,9,Y2,*7.9,V/V,7,major,5.0
+GIL,7,Copo vazio,6,2,2,Y0,*7,V,7,major,6.0
+GIL,7,Copo vazio,7,11,11,Y0,*7,V/VI,7,major,7.0
+GIL,7,Copo vazio,8,4,4,z0,*m7,II__X,7,major,8.0
+GIL,7,Copo vazio,9,9,9,Y2,*7.9,V/V,7,major,9.0
+GIL,7,Copo vazio,10,2,2,Y0,*7,V,7,major,10.0
+GIL,7,Copo vazio,11,7,7,V0,*,I,7,major,11.0
+GIL,7,Copo vazio,12,7,7,Y2,*7.9,V/IV,7,major,12.0
+GIL,7,Copo vazio,13,0,0,V0,*,IV,7,major,13.0
+GIL,7,Copo vazio,14,11,11,Y0,*7,V/VI,7,major,14.0
+GIL,7,Copo vazio,15,4,4,z0,*m7,II__X,7,major,15.0
+GIL,7,Copo vazio,16,9,9,Y2,*7.9,V/V,7,major,16.0
+GIL,7,Copo vazio,17,2,2,Y0,*7,V,7,major,17.0
+GIL,7,Copo vazio,18,0,0,Y0,*7,SubV/III,7,major,17.75
+GIL,7,Copo vazio,19,11,11,Y0,*7,V,4,minor,18.0
+GIL,7,Copo vazio,20,4,4,z0,*m7,I,4,minor,20.0
+GIL,7,Copo vazio,21,0,0,Y0,*7,SubV/V,4,minor,21.75
+GIL,7,Copo vazio,22,11,11,Y0,*7,V,4,minor,22.0
+GIL,7,Copo vazio,23,4,4,v1,*m.9,I,4,minor,24.0
+GIL,7,Copo vazio,24,10,10,Y0,*7,SubV/IV,4,minor,24.5
+GIL,7,Copo vazio,25,9,9,Y0,*7,V/V,7,major,25.0
+GIL,7,Copo vazio,26,2,2,V2,*9,V,7,major,27.0
+GIL,7,Copo vazio,27,9,9,Y0,*7,V/V,7,major,29.0
+GIL,7,Copo vazio,28,2,2,Y2,*7.9,V,7,major,31.0
+GIL,7,Copo vazio,29,11,11,Y0,*7,V/VI,7,major,33.0
+GIL,7,Copo vazio,30,4,4,Y2,*7.9,V/II,7,major,35.0
+GIL,7,Copo vazio,31,0,0,V0,*,IV,7,major,37.0
+GIL,7,Copo vazio,32,2,2,Y0,*7,V,7,major,38.0
+GIL,7,Copo vazio,33,7,7,Y2,*7.9,IV7,7,major,39.0
+GIL,7,Copo vazio,34,0,0,V0,*,IV,7,major,41.0
+GIL,7,Copo vazio,35,11,11,Y0,*7,V/VI,7,major,42.0
+GIL,7,Copo vazio,36,4,4,z0,*m7,VI,7,major,43.0
+GIL,7,Copo vazio,37,9,9,Y0,*7,V/V,7,major,44.0
+GIL,7,Copo vazio,38,2,2,Y0,*7,V,7,major,44.5
+GIL,7,Copo vazio,39,7,7,V0,*,I,7,major,45.0
+GIL,8,Cores vivas,1,4,4,Z1,*6,I,4,major,1.0
+GIL,8,Cores vivas,2,11,11,Y0,*7,V,4,major,2.0
+GIL,8,Cores vivas,3,4,4,Z1,*6,I,4,major,3.0
+GIL,8,Cores vivas,4,11,11,Y0,*7,V,4,major,4.0
+GIL,8,Cores vivas,5,4,4,Z1,*6,I,4,major,5.0
+GIL,8,Cores vivas,6,11,11,Y0,*7,V,4,major,6.0
+GIL,8,Cores vivas,7,4,4,Z1,*6,I,4,major,7.0
+GIL,8,Cores vivas,8,11,11,Y0,*7,V,4,major,8.0
+GIL,8,Cores vivas,9,4,4,V0,*,I,4,major,9.0
+GIL,8,Cores vivas,10,6,6,z0,*m7,II,4,major,9.5
+GIL,8,Cores vivas,11,4,4,V0,*,I,4,major,10.0
+GIL,8,Cores vivas,12,6,6,z0,*m7,II,4,major,10.5
+GIL,8,Cores vivas,13,9,4,V0,*,IV,4,major,11.0
+GIL,8,Cores vivas,14,6,6,z0,*m7,II,4,major,11.5
+GIL,8,Cores vivas,15,4,4,V0,*,I,4,major,12.0
+GIL,8,Cores vivas,16,6,6,z0,*m7,II,4,major,12.5
+GIL,8,Cores vivas,17,4,4,V0,*,I,4,major,13.0
+GIL,8,Cores vivas,18,6,6,z0,*m7,II,4,major,13.5
+GIL,8,Cores vivas,19,9,4,V0,*,IV,4,major,14.0
+GIL,8,Cores vivas,20,6,6,z0,*m7,II,4,major,14.5
+GIL,8,Cores vivas,21,9,4,V0,*,IV,4,major,15.0
+GIL,8,Cores vivas,22,6,6,z0,*m7,II,4,major,15.5
+GIL,8,Cores vivas,23,4,4,V0,*,I,4,major,16.0
+GIL,8,Cores vivas,24,6,6,z0,*m7,II,4,major,16.5
+GIL,8,Cores vivas,25,4,4,V0,*,I,4,major,17.0
+GIL,8,Cores vivas,26,6,6,z0,*m7,II,4,major,17.5
+GIL,8,Cores vivas,27,0,0,Z0,*M7,I,0,major,18.0
+GIL,8,Cores vivas,28,7,7,Y0,*7,V,0,major,20.0
+GIL,8,Cores vivas,29,0,0,Z0,*M7,I,0,major,22.0
+GIL,8,Cores vivas,30,7,7,Y0,*7,V,0,major,24.0
+GIL,8,Cores vivas,31,0,0,Z0,*M7,I,0,major,26.0
+GIL,8,Cores vivas,32,4,4,V0,*,I,4,major,35.0
+GIL,8,Cores vivas,33,9,9,Z0,*M7,IV,4,major,37.0
+GIL,8,Cores vivas,34,11,9,Y0,*7,V,4,major,39.0
+GIL,8,Cores vivas,35,4,8,Z1,*6,I,4,major,41.0
+GIL,8,Cores vivas,36,11,9,Y0,*7,V,4,major,43.0
+GIL,8,Cores vivas,37,4,8,Z1,*6,I,4,major,45.0
+GIL,8,Cores vivas,38,11,9,Y0,*7,V,4,major,47.0
+GIL,8,Cores vivas,39,4,8,Z1,*6,I,4,major,49.0
+GIL,8,Cores vivas,40,11,9,Y0,*7,V,4,major,51.0
+GIL,8,Cores vivas,41,6,10,Y0,*7,V/V,4,major,53.0
+GIL,8,Cores vivas,42,11,9,Y0,*7,V,4,major,54.0
+GIL,8,Cores vivas,43,4,4,Z1,*6,I,4,major,55.0
+GIL,9,Divino e maravilhoso,1,9,9,V0,*,I,9,major,1.0
+GIL,9,Divino e maravilhoso,2,1,1,V0,*,IIIM7,9,major,2.0
+GIL,9,Divino e maravilhoso,3,9,9,V0,*,I,9,major,3.0
+GIL,9,Divino e maravilhoso,4,1,1,V0,*,IIIM7,9,major,4.0
+GIL,9,Divino e maravilhoso,5,2,2,V0,*,IV,9,major,5.0
+GIL,9,Divino e maravilhoso,6,4,4,V0,*,V,9,major,6.0
+GIL,9,Divino e maravilhoso,7,9,9,V0,*,I,9,major,7.0
+GIL,9,Divino e maravilhoso,8,1,1,V0,*,IIIM7,9,major,8.0
+GIL,9,Divino e maravilhoso,9,2,2,V0,*,IV,9,major,9.0
+GIL,9,Divino e maravilhoso,10,4,4,V0,*,V,9,major,10.0
+GIL,9,Divino e maravilhoso,11,9,9,V0,*,I,9,major,11.0
+GIL,9,Divino e maravilhoso,12,8,8,y0,*Ø,II__X,9,major,12.0
+GIL,9,Divino e maravilhoso,13,1,1,Y0,*7,V/VI,9,major,12.5
+GIL,9,Divino e maravilhoso,14,6,6,v0,*m,VI,9,major,13.0
+GIL,9,Divino e maravilhoso,15,2,2,V0,*,IV,9,major,14.0
+GIL,9,Divino e maravilhoso,16,7,7,V0,*,bVII7M,9,major,14.5
+GIL,9,Divino e maravilhoso,17,9,9,V0,*,I,9,major,14.75
+GIL,9,Divino e maravilhoso,18,2,2,V0,*,IV,9,major,15.0
+GIL,9,Divino e maravilhoso,19,1,1,Y2.3,*7(b9),V/VI,9,major,15.25
+GIL,9,Divino e maravilhoso,20,6,6,v0,*m,VI,9,major,15.5
+GIL,9,Divino e maravilhoso,21,9,9,V0,*,I,9,major,16.0
+GIL,9,Divino e maravilhoso,22,4,4,v0,*m,Vm7,9,major,17.0
+GIL,9,Divino e maravilhoso,23,9,9,V0,*,I,9,major,18.0
+GIL,9,Divino e maravilhoso,24,4,4,v0,*m,Vm7,9,major,19.0
+GIL,9,Divino e maravilhoso,25,9,9,V0,*,I,9,major,20.0
+GIL,9,Divino e maravilhoso,26,4,4,v0,*m,Vm7,9,major,21.0
+GIL,9,Divino e maravilhoso,27,9,9,V0,*,I,9,major,22.0
+GIL,9,Divino e maravilhoso,28,4,4,v0,*m,Vm7,9,major,23.0
+GIL,9,Divino e maravilhoso,29,9,9,V0,*,I,9,major,24.0
+GIL,10,Eu vim da Bahia,1,11,11,z3,*m7.11,II,9,minor,1.0
+GIL,10,Eu vim da Bahia,2,10,10,Y3,*7(#11),SubV,9,minor,1.5
+GIL,10,Eu vim da Bahia,3,9,9,z0,*m7,I,9,minor,2.0
+GIL,10,Eu vim da Bahia,4,11,11,z3,*m7.11,II,9,minor,3.0
+GIL,10,Eu vim da Bahia,5,10,10,Y3,*7(#11),SubV,9,minor,3.5
+GIL,10,Eu vim da Bahia,6,9,9,z0,*m7,I,9,minor,4.0
+GIL,10,Eu vim da Bahia,7,0,0,Y4,*7.13,V/VI,9,minor,4.5
+GIL,10,Eu vim da Bahia,8,5,5,Z0,*M7,IV,0,major,5.0
+GIL,10,Eu vim da Bahia,9,5,5,z1,*m6,IVm7,0,major,5.5
+GIL,10,Eu vim da Bahia,10,4,4,Y0,*7,V/VI,0,major,6.0
+GIL,10,Eu vim da Bahia,11,9,9,Y0,*7,V/II,0,major,6.5
+GIL,10,Eu vim da Bahia,12,2,2,Y0,*7,V/V,0,major,7.0
+GIL,10,Eu vim da Bahia,13,7,7,Z2,*M7.9,V,0,major,7.5
+GIL,10,Eu vim da Bahia,14,0,0,Z2,*M7.9,I,0,major,8.0
+GIL,10,Eu vim da Bahia,15,9,9,z0,*m7,II__X,0,major,9.0
+GIL,10,Eu vim da Bahia,16,2,2,Y0,*7,V/V,0,major,10.0
+GIL,10,Eu vim da Bahia,17,7,7,Y2,*7.9,V,0,major,11.0
+GIL,10,Eu vim da Bahia,18,0,0,Y0,*7,V/IV,0,major,12.0
+GIL,10,Eu vim da Bahia,19,5,5,Y0,*7,IV7,0,major,13.0
+GIL,10,Eu vim da Bahia,20,10,10,Y0,*7,V/bIII,0,major,13.5
+GIL,10,Eu vim da Bahia,21,3,3,Z0,*M7,bIII7M,0,major,14.0
+GIL,10,Eu vim da Bahia,22,8,8,Y0,*7,V/bII,0,major,14.5
+GIL,10,Eu vim da Bahia,23,1,1,Z0,*M7,bII7M,0,major,15.0
+GIL,10,Eu vim da Bahia,24,7,7,Z0,*M7,V,0,major,15.5
+GIL,10,Eu vim da Bahia,25,0,0,Z0,*M7,I,0,major,16.0
+GIL,10,Eu vim da Bahia,26,4,4,z0,*m7,II__X,0,major,17.0
+GIL,10,Eu vim da Bahia,27,9,9,Y0,*7,V/II,0,major,17.5
+GIL,10,Eu vim da Bahia,28,2,2,Z0,*M7,I,2,major,18.0
+GIL,10,Eu vim da Bahia,29,4,4,z0,*m7,II__X,2,major,19.0
+GIL,10,Eu vim da Bahia,30,9,9,Y0,*7,V/II,2,major,19.5
+GIL,10,Eu vim da Bahia,31,2,2,Z0,*M7,I,2,major,20.0
+GIL,10,Eu vim da Bahia,32,2,2,z0,*m7,II,0,major,21.0
+GIL,10,Eu vim da Bahia,33,7,7,Y0,*7,V,0,major,21.5
+GIL,10,Eu vim da Bahia,34,0,0,Z0,*M7,I,0,major,22.0
+GIL,10,Eu vim da Bahia,35,11,11,z3,*m7.11,II__X,0,major,23.0
+GIL,10,Eu vim da Bahia,36,4,4,Y0,*7,V/VI,0,major,23.5
+GIL,10,Eu vim da Bahia,37,9,9,Y0,*7,V/II,0,major,24.0
+GIL,10,Eu vim da Bahia,38,2,2,Y2,*7.9,V/V,0,major,24.5
+GIL,10,Eu vim da Bahia,39,7,7,z0,*m7,II__X,0,major,25.0
+GIL,10,Eu vim da Bahia,40,0,0,Y0,*7,V/IV,0,major,25.5
+GIL,10,Eu vim da Bahia,41,5,5,Z0,*M7,IV,0,major,26.0
+GIL,10,Eu vim da Bahia,42,4,4,Y2.4,*7(#9),V/VI,0,major,27.0
+GIL,10,Eu vim da Bahia,43,9,9,Y0,*7,V/II,0,major,28.0
+GIL,10,Eu vim da Bahia,44,2,2,Y2,*7.9,V/V,0,major,29.0
+GIL,10,Eu vim da Bahia,45,7,7,Y0,*7,V,0,major,29.5
+GIL,10,Eu vim da Bahia,46,0,0,Y0,*7,V/IV,0,major,30.0
+GIL,10,Eu vim da Bahia,47,5,5,Y0,*7,IV7,0,major,30.5
+GIL,10,Eu vim da Bahia,48,11,11,y0,*Ø,II__X,0,major,31.0
+GIL,10,Eu vim da Bahia,49,4,4,Y0,*7,V/VI,0,major,31.5
+GIL,10,Eu vim da Bahia,50,9,9,Y1,*4.7,V/II,0,major,32.0
+GIL,10,Eu vim da Bahia,51,9,9,Y0,*7,V/II,0,major,32.5
+GIL,10,Eu vim da Bahia,52,2,2,Y0,*7,V/V,0,major,33.0
+GIL,10,Eu vim da Bahia,53,7,7,Y0,*7,V,0,major,33.5
+GIL,10,Eu vim da Bahia,54,0,0,Y0,*7,V/IV,0,major,34.0
+GIL,10,Eu vim da Bahia,55,11,11,y0,*Ø,II__X,0,major,35.0
+GIL,10,Eu vim da Bahia,56,4,4,Y0,*7,V/VI,0,major,35.5
+GIL,10,Eu vim da Bahia,57,9,9,Y1,*4.7,V/II,0,major,36.0
+GIL,10,Eu vim da Bahia,58,9,9,Y0,*7,V/II,0,major,36.5
+GIL,10,Eu vim da Bahia,59,2,2,Y0,*7,V/V,0,major,37.0
+GIL,10,Eu vim da Bahia,60,7,7,Y0,*7,V,0,major,37.5
+GIL,10,Eu vim da Bahia,61,0,0,Y0,*7,V/IV,0,major,38.0
+GIL,10,Eu vim da Bahia,62,11,11,y0,*Ø,II,9,minor,39.0
+GIL,10,Eu vim da Bahia,63,4,4,Y2.4,*7(#9),V,9,minor,39.5
+GIL,10,Eu vim da Bahia,64,9,9,z0,*m7,I,9,minor,40.0
+GIL,11,Drao,1,0,0,Z0,*M7,I,0,major,1.0
+GIL,11,Drao,2,5,0,v0,*m,IVm7,0,major,3.0
+GIL,11,Drao,3,9,9,v0,*m,VI,0,major,5.0
+GIL,11,Drao,4,9,9,w0,*mM7,VI,0,major,6.0
+GIL,11,Drao,5,9,9,z2,*m7.9,VI,0,major,7.0
+GIL,11,Drao,6,3,3,x0,*°7,bIII°,0,major,8.0
+GIL,11,Drao,7,2,2,z2,*m7.9,II,0,major,9.0
+GIL,11,Drao,8,7,7,Z2,*M7.9,I,0,major,10.0
+GIL,11,Drao,9,4,4,Y2.2.1,*7(b9)13,V/VI,0,major,11.0
+GIL,11,Drao,10,9,9,z0,*m7,VI,0,major,12.0
+GIL,11,Drao,11,7,7,z0,*m7,II__X,0,major,13.0
+GIL,11,Drao,12,0,0,Y2.3,*7(b9),V/IV,0,major,13.5
+GIL,11,Drao,13,5,5,Z0,*M7,IV,0,major,14.0
+GIL,11,Drao,14,5,5,z1,*m6,IVm7,0,major,15.0
+GIL,11,Drao,15,5,5,w0,*mM7,IVm7,0,major,16.0
+GIL,11,Drao,16,5,5,z1,*m6,IVm7,0,major,17.0
+GIL,11,Drao,17,5,5,z1,*m6,IVm7,0,major,18.0
+GIL,11,Drao,18,0,0,Z0,*M7,I,0,major,19.0
+GIL,12,Era nova,1,2,2,Z0,*M7,I,2,major,1.0
+GIL,12,Era nova,2,6,6,V0,*,IIIM7,2,major,2.0
+GIL,12,Era nova,3,2,2,Z0,*M7,I,2,major,3.0
+GIL,12,Era nova,4,1,1,W0,*(#5)7,SubV,0,major,4.0
+GIL,12,Era nova,5,0,0,Z4,*(#5)M7,I,0,major,5.0
+GIL,12,Era nova,6,0,0,Z0,*M7,I,0,major,5.5
+GIL,12,Era nova,7,11,11,W0,*(#5)7,aSubV,0,major,6.0
+GIL,12,Era nova,8,0,0,Z4,*(#5)M7,I,0,major,7.0
+GIL,12,Era nova,9,0,0,Z0,*M7,I,0,major,7.5
+GIL,12,Era nova,10,7,7,Y0,*7,V,0,major,8.0
+GIL,12,Era nova,11,0,0,Z0,*M7,I,0,major,9.0
+GIL,12,Era nova,12,7,7,Y0,*7,V,0,major,10.0
+GIL,12,Era nova,13,0,0,Z0,*M7,I,0,major,11.0
+GIL,12,Era nova,14,7,7,Y0,*7,V,0,major,12.0
+GIL,12,Era nova,15,0,0,Z0,*M7,I,0,major,13.0
+GIL,12,Era nova,16,7,7,Y0,*7,V,0,major,14.0
+GIL,12,Era nova,17,8,8,Y0,*7,aSubV/VI,0,major,14.75
+GIL,12,Era nova,18,9,9,Y0,*7,V,2,major,15.0
+GIL,12,Era nova,19,2,2,V0,*,I,2,major,16.0
+GIL,12,Era nova,20,2,2,Z0,*M7,I,2,major,16.5
+GIL,12,Era nova,21,9,9,W0,*(#5)7,V,2,major,17.0
+GIL,12,Era nova,22,2,2,Z0,*M7,I,2,major,18.0
+GIL,13,Extra,1,0,0,v0,*m,I,0,minor,1.0
+GIL,13,Extra,2,7,7,z0,*m7,II__X,0,minor,3.0
+GIL,13,Extra,3,0,0,Y2.3,*7(b9),V/IV,0,minor,4.0
+GIL,13,Extra,4,5,5,z0,*m7,IV,0,minor,5.0
+GIL,13,Extra,5,10,10,Y2.1.2,*7(b9.#11),bVII7,0,minor,6.0
+GIL,13,Extra,6,7,7,z0,*m7,Vm7,0,minor,7.0
+GIL,13,Extra,7,7,7,Y4.1,*7(b13),aSubV/VI,0,minor,8.0
+GIL,13,Extra,8,8,8,Z0,*M7,VI,0,minor,9.0
+GIL,13,Extra,9,2,2,y0,*Ø,IIm7(b5),0,minor,11.0
+GIL,13,Extra,10,8,8,Y0,*7,SubV/V,0,minor,12.0
+GIL,13,Extra,11,7,7,Y0,*7,V,0,minor,13.0
+GIL,13,Extra,12,0,0,v0,*m,I,0,minor,19.0
+GIL,13,Extra,13,5,5,v0,*m,IV,0,minor,20.0
+GIL,13,Extra,14,0,0,v0,*m,I,0,minor,21.0
+GIL,13,Extra,15,5,5,v0,*m,IV,0,minor,22.0
+GIL,13,Extra,16,0,0,v0,*m,I,0,minor,23.0
+GIL,13,Extra,17,5,5,v0,*m,IV,0,minor,24.0
+GIL,13,Extra,18,0,0,v0,*m,I,0,minor,25.0
+GIL,13,Extra,19,7,7,Y0,*7,V,0,minor,26.0
+GIL,13,Extra,20,7,7,Y2.4,*7(#9),V,0,minor,26.3
+GIL,13,Extra,21,7,7,Y0,*7,V,0,minor,26.6
+GIL,13,Extra,22,5,0,V0,*,IV,0,major,27.0
+GIL,13,Extra,23,0,0,V4,*(#5),I,0,major,28.0
+GIL,13,Extra,24,5,5,Y1.1,*4.7.9,IV7,0,major,29.0
+GIL,13,Extra,25,5,5,Y2,*7.9,IV,0,major,30.0
+GIL,13,Extra,26,5,5,z2,*m7.9,IV,0,minor,31.0
+GIL,13,Extra,27,10,10,Y4,*7.13,bVII7,0,minor,32.0
+GIL,13,Extra,28,8,8,Y0,*7,SubV/V,0,minor,33.0
+GIL,13,Extra,29,7,7,Y0,*7,V,0,minor,34.0
+GIL,13,Extra,30,0,0,v0,*m,I,0,minor,35.0
+GIL,14,Flora,1,7,7,Y1.1,*4.7.9,V,0,major,1.0
+GIL,14,Flora,2,7,7,Y2.3,*7(b9),V,0,major,2.0
+GIL,14,Flora,3,0,0,Z4,*(#5)M7,I,0,major,3.0
+GIL,14,Flora,4,0,0,Z0,*M7,I,0,major,4.0
+GIL,14,Flora,5,9,9,Y1.1,*4.7.9,V/II,0,major,5.0
+GIL,14,Flora,6,10,10,w0,*mM7,bVIIm7,0,major,6.0
+GIL,14,Flora,7,11,11,z0,*m7,Vm7,4,major,7.0
+GIL,14,Flora,8,3,3,y0,*Ø,VII,4,major,8.0
+GIL,14,Flora,9,5,5,Y3,*7(#11),SubV,4,major,9.0
+GIL,14,Flora,10,4,4,w1,*mM7.9,Im7,4,major,10.0
+GIL,14,Flora,11,4,4,Z2,*M7.9,I,4,major,11.0
+GIL,14,Flora,12,5,5,Z0,*M7,I,5,major,12.0
+GIL,14,Flora,13,6,6,Z0,*M7,I,6,major,14.0
+GIL,14,Flora,14,10,10,Y2.3,*7(b9),SubV,9,major,15.0
+GIL,14,Flora,15,9,9,Z0,*M7,I,9,major,16.0
+GIL,14,Flora,16,8,8,Y0,*7,SubV/V,0,major,17.0
+GIL,14,Flora,17,7,7,Y1.1,*4.7.9,V,0,major,18.0
+GIL,14,Flora,18,7,7,Y0,*7,V,0,major,19.0
+GIL,15,Ladeira da Preguica,1,5,5,Y0,*7,IV7,0,major,1.0
+GIL,15,Ladeira da Preguica,2,0,0,Y0,*7,I,0,major,2.0
+GIL,15,Ladeira da Preguica,3,5,5,Y0,*7,IV7,0,major,3.0
+GIL,15,Ladeira da Preguica,4,0,0,Y0,*7,I,0,major,4.0
+GIL,15,Ladeira da Preguica,5,5,5,Y0,*7,IV7,0,major,5.0
+GIL,15,Ladeira da Preguica,6,0,0,Y0,*7,I,0,major,6.0
+GIL,15,Ladeira da Preguica,7,5,5,Y0,*7,IV7,0,major,7.0
+GIL,15,Ladeira da Preguica,8,0,0,Y0,*7,I,0,major,8.0
+GIL,15,Ladeira da Preguica,9,5,5,Y0,*7,IV7,0,major,9.0
+GIL,15,Ladeira da Preguica,10,0,0,Y0,*7,I,0,major,10.0
+GIL,15,Ladeira da Preguica,11,5,5,Y0,*7,IV7,0,major,11.0
+GIL,15,Ladeira da Preguica,12,0,0,Y0,*7,I,0,major,12.0
+GIL,15,Ladeira da Preguica,13,5,5,Y0,*7,IV7,0,major,13.0
+GIL,15,Ladeira da Preguica,14,0,0,Y0,*7,I,0,major,14.0
+GIL,15,Ladeira da Preguica,15,9,9,z0,*m7,II__X,0,major,14.5
+GIL,15,Ladeira da Preguica,16,8,8,Y4.1,*7(b13),SubV/V,0,major,15.0
+GIL,15,Ladeira da Preguica,17,7,7,Y4,*7.13,V,0,major,15.5
+GIL,15,Ladeira da Preguica,18,6,6,Y3,*7(#11),SubV/IV,0,major,16.0
+GIL,15,Ladeira da Preguica,19,5,5,Z0,*M7,IV,0,major,17.0
+GIL,15,Ladeira da Preguica,20,4,4,z0,*m7,II__X,0,major,18.0
+GIL,15,Ladeira da Preguica,21,9,9,Y4,*7.13,V/II,0,major,19.0
+GIL,15,Ladeira da Preguica,22,9,9,Y4.1,*7(b13),V/II,0,major,19.5
+GIL,15,Ladeira da Preguica,23,2,2,Y2,*7.9,V/V,0,major,20.0
+GIL,15,Ladeira da Preguica,24,2,2,z0,*m7,II,0,major,21.0
+GIL,15,Ladeira da Preguica,25,7,7,Y4,*7.13,V,0,major,22.0
+GIL,15,Ladeira da Preguica,26,0,0,Z0,*M7,I,0,major,23.0
+GIL,15,Ladeira da Preguica,27,2,2,z0,*m7,II,0,major,23.5
+GIL,15,Ladeira da Preguica,28,3,3,x0,*°7,V°/III,0,major,24.0
+GIL,15,Ladeira da Preguica,29,0,4,V0,*,I,0,major,24.5
+GIL,15,Ladeira da Preguica,30,4,4,z0,*m7,II__X,0,major,25.0
+GIL,15,Ladeira da Preguica,31,9,9,Y0,*7,V/II,0,major,26.0
+GIL,15,Ladeira da Preguica,32,2,2,Y2.1,*7.9(#11),V/V,0,major,27.0
+GIL,15,Ladeira da Preguica,33,2,2,z0,*m7,II,0,major,29.0
+GIL,15,Ladeira da Preguica,34,7,7,Y0,*7,V,0,major,30.0
+GIL,15,Ladeira da Preguica,35,0,0,Z0,*M7,I,0,major,31.0
+GIL,15,Ladeira da Preguica,36,2,2,z0,*m7,II,0,major,31.5
+GIL,15,Ladeira da Preguica,37,3,3,x0,*°7,V°/III,0,major,32.0
+GIL,15,Ladeira da Preguica,38,0,4,V0,*,I,0,major,32.5
+GIL,15,Ladeira da Preguica,39,4,4,y0,*Ø,II__X,0,major,33.0
+GIL,15,Ladeira da Preguica,40,9,9,Y0,*7,V/II,0,major,34.0
+GIL,15,Ladeira da Preguica,41,5,5,Z0,*M7,IV,0,major,35.0
+GIL,15,Ladeira da Preguica,42,8,6,Y0,*7,?,0,major,36.0
+GIL,15,Ladeira da Preguica,43,4,4,z2,*m7.9,III,0,major,37.0
+GIL,15,Ladeira da Preguica,44,9,9,z0,*m7,VI,0,major,38.0
+GIL,15,Ladeira da Preguica,45,2,2,z2,*m7.9,II,0,major,39.0
+GIL,15,Ladeira da Preguica,46,7,7,Y4,*7.13,V,0,major,40.0
+GIL,15,Ladeira da Preguica,47,0,0,Y0,*7,I,0,major,41.0
+GIL,15,Ladeira da Preguica,48,5,5,Y0,*7,IV7,0,major,42.0
+GIL,15,Ladeira da Preguica,49,0,0,Y0,*7,I,0,major,43.0
+GIL,15,Ladeira da Preguica,50,9,9,z0,*m7,VI,0,major,43.5
+GIL,15,Ladeira da Preguica,51,2,2,z0,*m7,II,0,major,44.0
+GIL,15,Ladeira da Preguica,52,7,7,Y4,*7.13,V,0,major,44.5
+GIL,15,Ladeira da Preguica,53,0,0,Y0,*7,I,0,major,45.0
+GIL,16,Lamento sertanejo,1,7,5,z0,*m7,I,7,minor,1.0
+GIL,16,Lamento sertanejo,2,4,4,y0,*Ø,VI,7,minor,2.0
+GIL,16,Lamento sertanejo,3,3,3,Z0,*M7,VI,7,minor,3.0
+GIL,16,Lamento sertanejo,4,7,2,v0,*m,I,7,minor,4.0
+GIL,16,Lamento sertanejo,5,7,7,v0,*m,I,7,minor,5.0
+GIL,16,Lamento sertanejo,6,7,7,w0,*mM7,I,7,minor,5.25
+GIL,16,Lamento sertanejo,7,7,7,z0,*m7,I,7,minor,5.5
+GIL,16,Lamento sertanejo,8,7,7,z1,*m6,I,7,minor,5.75
+GIL,16,Lamento sertanejo,9,0,0,z0,*m7,IV,7,minor,6.0
+GIL,16,Lamento sertanejo,10,5,5,Y0,*7,V,10,major,7.0
+GIL,16,Lamento sertanejo,11,3,3,Z1,*6,IV,10,major,7.25
+GIL,16,Lamento sertanejo,12,10,2,V0,*,I,10,major,7.5
+GIL,16,Lamento sertanejo,13,5,0,Y0,*7,V,10,major,7.75
+GIL,16,Lamento sertanejo,14,10,10,Z0,*M7,I,10,major,8.0
+GIL,16,Lamento sertanejo,15,10,8,Y0,*7,V/IV,10,major,9.0
+GIL,16,Lamento sertanejo,16,3,7,Z0,*M7,IV,10,major,10.0
+GIL,16,Lamento sertanejo,17,4,4,y0,*Ø,VI,7,minor,11.0
+GIL,16,Lamento sertanejo,18,10,5,V0,*,III,7,minor,12.0
+GIL,16,Lamento sertanejo,19,7,7,v0,*m,I,7,minor,13.0
+GIL,16,Lamento sertanejo,20,4,4,y0,*Ø,VI,7,minor,14.0
+GIL,16,Lamento sertanejo,21,3,3,Y0,*7,SubV/V,7,minor,15.0
+GIL,16,Lamento sertanejo,22,2,2,Y1,*4.7,V,7,minor,15.5
+GIL,16,Lamento sertanejo,23,7,7,v0,*m,I,7,minor,16.0
+GIL,17,Lente do amor,1,7,7,Y1.1,*4.7.9,V,0,major,1.0
+GIL,17,Lente do amor,2,7,7,Y2,*7.9,V,0,major,1.5
+GIL,17,Lente do amor,3,0,0,Y2,*7.9,V/IV,0,major,2.0
+GIL,17,Lente do amor,4,5,5,z2,*m7.9,II__X,0,major,3.0
+GIL,17,Lente do amor,5,10,10,Y0,*7,V/bIII,0,major,3.5
+GIL,17,Lente do amor,6,3,3,Z0,*M7,I,3,major,4.0
+GIL,17,Lente do amor,7,3,3,Y0,*7,V/IV,3,major,4.5
+GIL,17,Lente do amor,8,8,8,Z0,*M7,IV,3,major,5.0
+GIL,17,Lente do amor,9,8,8,z1,*m6,IVm7,3,major,5.5
+GIL,17,Lente do amor,10,10,10,z0,*m7,II__X,3,major,6.0
+GIL,17,Lente do amor,11,3,3,Y2,*7.9,V/IV,3,major,6.5
+GIL,17,Lente do amor,12,8,8,z0,*m7,II,6,major,7.0
+GIL,17,Lente do amor,13,1,1,Y2,*7.9,V,6,major,7.5
+GIL,17,Lente do amor,14,6,6,Z0,*M7,I,6,major,8.0
+GIL,17,Lente do amor,15,11,11,Z0,*M7,IV,6,major,8.5
+GIL,17,Lente do amor,16,7,7,Y1.1,*4.7.9,V,0,major,9.0
+GIL,17,Lente do amor,17,8,8,Y1.1,*4.7.9,V,1,major,11.0
+GIL,17,Lente do amor,18,8,8,Y2,*7.9,V,1,major,12.5
+GIL,17,Lente do amor,19,1,1,Z0,*M7,I,1,major,13.0
+GIL,17,Lente do amor,20,8,8,Y1.1,*4.7.9,SubV/V,0,major,15.0
+GIL,17,Lente do amor,21,7,7,Y3,*7(#11),V,0,major,16.0
+GIL,17,Lente do amor,22,6,6,Y3,*7(#11),SubV/IV,0,major,17.0
+GIL,17,Lente do amor,23,5,5,z0,*m7,IVm7,0,major,18.0
+GIL,17,Lente do amor,24,6,6,Y3,*7(#11),aSubV/V,0,major,20.0
+GIL,17,Lente do amor,25,7,7,Y1.1,*4.7.9,V,0,major,21.0
+GIL,17,Lente do amor,26,7,7,Y2,*7.9,V,0,major,21.5
+GIL,17,Lente do amor,27,0,4,V0,*,I,0,major,22.0
+GIL,17,Lente do amor,28,9,9,v0,*m,VI,0,major,22.5
+GIL,17,Lente do amor,29,7,7,Y1.1,*4.7.9,V,0,major,23.0
+GIL,17,Lente do amor,30,7,7,Y2,*7.9,V,0,major,23.5
+GIL,17,Lente do amor,31,0,4,V0,*,I,0,major,24.0
+GIL,18,Lugar comum,1,7,7,Y1,*4.7,I,0,major,1.0
+GIL,18,Lugar comum,2,0,7,Z1.1,*6.9,I,0,major,3.0
+GIL,18,Lugar comum,3,7,7,Y1,*4.7,I,0,major,5.0
+GIL,18,Lugar comum,4,0,7,Z1.1,*6.9,I,0,major,7.0
+GIL,18,Lugar comum,5,7,7,Y1,*4.7,I,0,major,9.0
+GIL,18,Lugar comum,6,0,7,Z1.1,*6.9,I,0,major,11.0
+GIL,18,Lugar comum,7,7,7,Y1,*4.7,I,0,major,13.0
+GIL,18,Lugar comum,8,0,7,Z1.1,*6.9,I,0,major,15.0
+GIL,18,Lugar comum,9,6,6,Y3,*7(#11),SubV/IV,0,major,16.0
+GIL,18,Lugar comum,10,5,5,Z0,*M7,IV,0,major,17.0
+GIL,18,Lugar comum,11,11,11,Y1.1,*4.7.9,V/III,0,major,18.0
+GIL,18,Lugar comum,12,11,11,Y2,*7.9,V/III,0,major,18.5
+GIL,18,Lugar comum,13,10,10,Y1.1,*4.7.9,SubV/VI,0,major,19.0
+GIL,18,Lugar comum,14,9,9,Y1.1,*4.7.9,V/II,0,major,20.0
+GIL,18,Lugar comum,15,9,9,Y2,*7.9,V/II,0,major,20.5
+GIL,18,Lugar comum,16,2,2,z0,*m7,II,0,major,21.0
+GIL,18,Lugar comum,17,7,7,Y1.1,*4.7.9,V,0,major,22.0
+GIL,18,Lugar comum,18,7,7,Y2,*7.9,V,0,major,22.5
+GIL,18,Lugar comum,19,0,0,Z1.1,*6.9,I,0,major,23.0
+GIL,18,Lugar comum,20,6,6,Y3,*7(#11),SubV/IV,0,major,24.0
+GIL,18,Lugar comum,21,5,5,Z0,*M7,IV,0,major,25.0
+GIL,18,Lugar comum,22,11,11,Y1.1,*4.7.9,V/III,0,major,26.0
+GIL,18,Lugar comum,23,11,11,Y2,*7.9,V/III,0,major,26.5
+GIL,18,Lugar comum,24,10,10,Y1.1,*4.7.9,SubV/VI,0,major,27.0
+GIL,18,Lugar comum,25,9,9,Y1.1,*4.7.9,V/II,0,major,28.0
+GIL,18,Lugar comum,26,9,9,Y2,*7.9,V/II,0,major,28.5
+GIL,18,Lugar comum,27,2,2,z0,*m7,II,0,major,29.0
+GIL,18,Lugar comum,28,8,8,Y3,*7(#11),SubV/V,0,major,30.0
+GIL,18,Lugar comum,29,7,7,Y1.1,*4.7.9,V,0,major,31.0
+GIL,19,Mancada,1,10,10,Z0,*M7,I,10,major,1.0
+GIL,19,Mancada,2,4,4,z0,*m7,II__X,10,major,2.0
+GIL,19,Mancada,3,9,9,Y0,*7,V/III,10,major,3.0
+GIL,19,Mancada,4,2,2,z0,*m7,II__X,10,major,4.0
+GIL,19,Mancada,5,7,7,Y0,*7,V/II,10,major,5.0
+GIL,19,Mancada,6,0,0,z2,*m7.9,II,10,major,6.0
+GIL,19,Mancada,7,5,5,Y0,*7,V,10,major,7.0
+GIL,19,Mancada,8,10,10,Z1.1,*6.9,I,10,major,8.0
+GIL,19,Mancada,9,4,4,z0,*m7,II__X,10,major,10.0
+GIL,19,Mancada,10,9,9,Y0,*7,V/III,10,major,11.0
+GIL,19,Mancada,11,2,2,z0,*m7,II__X,10,major,12.0
+GIL,19,Mancada,12,7,7,Y0,*7,V/II,10,major,13.0
+GIL,19,Mancada,13,0,0,Y2,*7.9,V/V,10,major,14.0
+GIL,19,Mancada,14,0,0,z2,*m7.9,II,10,major,15.0
+GIL,19,Mancada,15,5,5,Y0,*7,V,10,major,15.5
+GIL,19,Mancada,16,10,10,Z1.1,*6.9,I,10,major,16.0
+GIL,19,Mancada,17,11,11,Z1.1,*6.9,bII7M,10,major,17.0
+GIL,19,Mancada,18,10,10,Z1.1,*6.9,I,10,major,18.0
+GIL,19,Mancada,19,5,5,z0,*m7,II__X,10,major,20.0
+GIL,19,Mancada,20,10,10,Y2,*7.9,V/IV,10,major,21.0
+GIL,19,Mancada,21,4,4,z0,*m7,II__X,10,major,22.0
+GIL,19,Mancada,22,9,9,Y0,*7,V/III,10,major,23.0
+GIL,19,Mancada,23,2,2,z0,*m7,III,10,major,24.0
+GIL,19,Mancada,24,7,7,z0,*m7,I,7,minor,25.0
+GIL,19,Mancada,25,9,9,y0,*Ø,II,7,minor,26.0
+GIL,19,Mancada,26,2,2,Y2.3,*7(b9),V,7,minor,27.0
+GIL,19,Mancada,27,7,7,z0,*m7,I,7,minor,28.0
+GIL,19,Mancada,28,0,0,Y2,*7.9,IV7,7,minor,29.0
+GIL,19,Mancada,29,7,7,z0,*m7,I,7,minor,30.0
+GIL,19,Mancada,30,0,0,Y2,*7.9,V/V,10,major,32.0
+GIL,19,Mancada,31,5,5,Y0,*7,V,10,major,34.0
+GIL,19,Mancada,32,10,10,Y2,*7.9,V/IV,10,major,35.0
+GIL,19,Mancada,33,3,3,Z1.1,*6.9,IV,10,major,36.0
+GIL,19,Mancada,34,0,0,z0,*m7,II,10,major,37.0
+GIL,19,Mancada,35,5,5,Y0,*7,V,10,major,37.5
+GIL,19,Mancada,36,10,10,Z1.1,*6.9,I,10,major,38.0
+GIL,19,Mancada,37,5,5,z0,*m7,II__X,10,major,39.0
+GIL,19,Mancada,38,10,10,Y2,*7.9,V/IV,10,major,39.5
+GIL,19,Mancada,39,3,3,Z1.1,*6.9,IV,10,major,40.0
+GIL,19,Mancada,40,0,0,z0,*m7,II,10,major,41.0
+GIL,19,Mancada,41,5,5,Y0,*7,V,10,major,41.5
+GIL,19,Mancada,42,10,10,Z1.1,*6.9,I,10,major,42.0
+GIL,20,Menina do sonho,1,8,8,Z0,*M7,bVI7M,0,major,1.0
+GIL,20,Menina do sonho,2,7,7,Y0,*7,V,0,major,3.0
+GIL,20,Menina do sonho,3,8,8,Z0,*M7,bVI7M,0,major,5.0
+GIL,20,Menina do sonho,4,7,7,Y0,*7,V,0,major,7.0
+GIL,20,Menina do sonho,5,10,10,V0,*,bVII7M,0,major,9.0
+GIL,20,Menina do sonho,6,0,0,V0,*,I,0,major,11.0
+GIL,20,Menina do sonho,7,10,10,V0,*,bVII7M,0,major,13.0
+GIL,20,Menina do sonho,8,0,0,V0,*,I,0,major,15.0
+GIL,20,Menina do sonho,9,7,7,Y1.1,*4.7.9,V,0,major,17.0
+GIL,20,Menina do sonho,10,7,7,Y2.3,*7(b9),V,0,major,18.0
+GIL,20,Menina do sonho,11,0,0,Z4,*(#5)M7,I,0,major,19.0
+GIL,20,Menina do sonho,12,0,0,Z1.1,*6.9,I,0,major,20.0
+GIL,20,Menina do sonho,13,10,10,Y1.1,*4.7.9,V/bIII,0,major,21.0
+GIL,20,Menina do sonho,14,10,10,Y2,*7.9,V/bIII,0,major,22.0
+GIL,20,Menina do sonho,15,3,3,Y1.1,*4.7.9,SubV/II,0,major,23.0
+GIL,20,Menina do sonho,16,3,3,Y2,*7.9,SubV/II,0,major,24.0
+GIL,20,Menina do sonho,17,2,2,Y1.1,*4.7.9,V/V,0,major,25.0
+GIL,20,Menina do sonho,18,2,2,Y2,*7.9,V/V,0,major,26.0
+GIL,20,Menina do sonho,19,0,0,Y3,*7(#11),V/IV,0,major,26.5
+GIL,20,Menina do sonho,20,11,11,z2,*m7.9,II__X,0,major,27.0
+GIL,20,Menina do sonho,21,4,4,Y2.2.1,*7(b9)13,V/VI,0,major,28.0
+GIL,20,Menina do sonho,22,9,9,Y1.1,*4.7.9,V/II,0,major,29.0
+GIL,20,Menina do sonho,23,9,9,Y2,*7.9,V/II,0,major,29.5
+GIL,20,Menina do sonho,24,2,2,Y1.1,*4.7.9,V/V,0,major,30.0
+GIL,20,Menina do sonho,25,2,2,Y2,*7.9,V/V,0,major,30.5
+GIL,20,Menina do sonho,26,7,7,Y1.1,*4.7.9,V,0,major,31.0
+GIL,20,Menina do sonho,27,7,7,Y2.3,*7(b9),V,0,major,31.5
+GIL,21,Meu amigo meu heroi,1,7,7,V0,*,I,7,major,1.0
+GIL,21,Meu amigo meu heroi,2,4,4,Y2.2.1,*7(b9)13,V/II,7,major,1.5
+GIL,21,Meu amigo meu heroi,3,9,9,z0,*m7,II,7,major,2.0
+GIL,21,Meu amigo meu heroi,4,3,0,x0,*°7,V°/VI,7,major,2.5
+GIL,21,Meu amigo meu heroi,5,3,3,x0,*°7,V°/VI,7,major,2.75
+GIL,21,Meu amigo meu heroi,6,4,4,v0,*m,VI,7,major,3.0
+GIL,21,Meu amigo meu heroi,7,4,2,z0,*m7,II__X,7,major,3.5
+GIL,21,Meu amigo meu heroi,8,9,1,V0,*,V/V,7,major,4.0
+GIL,21,Meu amigo meu heroi,9,2,2,Y1,*4.7,V,7,major,4.5
+GIL,21,Meu amigo meu heroi,10,2,2,Y0,*7,V,7,major,4.75
+GIL,21,Meu amigo meu heroi,11,7,7,V0,*,I,7,major,5.0
+GIL,21,Meu amigo meu heroi,12,4,4,Y2.2.1,*7(b9)13,V/II,7,major,5.5
+GIL,21,Meu amigo meu heroi,13,9,9,z0,*m7,II,7,major,6.0
+GIL,21,Meu amigo meu heroi,14,3,0,x0,*°7,V°/VI,7,major,6.5
+GIL,21,Meu amigo meu heroi,15,3,3,x0,*°7,V°/VI,7,major,6.75
+GIL,21,Meu amigo meu heroi,16,4,4,v0,*m,VI,7,major,7.0
+GIL,21,Meu amigo meu heroi,17,4,2,z0,*m7,II__X,7,major,7.5
+GIL,21,Meu amigo meu heroi,18,9,1,V0,*,V/V,7,major,8.0
+GIL,21,Meu amigo meu heroi,19,9,9,Y1.1,*4.7.9,V/V,7,major,8.5
+GIL,21,Meu amigo meu heroi,20,9,9,Y2,*7.9,V/V,7,major,8.75
+GIL,21,Meu amigo meu heroi,21,2,2,Y1.1,*4.7.9,V,7,major,9.0
+GIL,21,Meu amigo meu heroi,22,2,2,Y1.1,*4.7.9,V,7,major,9.25
+GIL,21,Meu amigo meu heroi,23,2,2,Y1,*4.7,V,7,major,9.5
+GIL,21,Meu amigo meu heroi,24,2,2,Y0,*7,V,7,major,9.75
+GIL,21,Meu amigo meu heroi,25,7,7,V0,*,I,7,major,10.0
+GIL,21,Meu amigo meu heroi,26,11,6,Y0,*7,V/VI,7,major,10.5
+GIL,21,Meu amigo meu heroi,27,4,4,v0,*m,VI,7,major,11.0
+GIL,21,Meu amigo meu heroi,28,2,2,z0,*m7,II__X,7,major,11.5
+GIL,21,Meu amigo meu heroi,29,7,7,Y0,*7,V/IV,7,major,11.75
+GIL,21,Meu amigo meu heroi,30,0,0,V0,*,IV,7,major,12.0
+GIL,21,Meu amigo meu heroi,31,11,11,z0,*m7,II__X,7,major,12.5
+GIL,21,Meu amigo meu heroi,32,4,4,Y0,*7,V/II,7,major,12.75
+GIL,21,Meu amigo meu heroi,33,9,9,v0,*m,II,7,major,13.0
+GIL,21,Meu amigo meu heroi,34,9,7,z0,*m7,II,7,major,13.75
+GIL,21,Meu amigo meu heroi,35,2,6,Y0,*7,V,7,major,14.0
+GIL,21,Meu amigo meu heroi,36,0,4,V0,*,IV,7,major,14.75
+GIL,21,Meu amigo meu heroi,37,11,3,V0,*,V/VI,7,major,15.0
+GIL,21,Meu amigo meu heroi,38,4,4,w0,*mM7,VI,7,major,15.5
+GIL,21,Meu amigo meu heroi,39,4,4,z0,*m7,II__X,7,major,15.75
+GIL,21,Meu amigo meu heroi,40,9,9,Y1.1,*4.7.9,V/V,7,major,16.0
+GIL,21,Meu amigo meu heroi,41,9,9,Y0,*7,V/V,7,major,17.0
+GIL,21,Meu amigo meu heroi,42,7,11,V0,*,I,7,major,17.25
+GIL,21,Meu amigo meu heroi,43,0,0,x0,*°7,?,7,major,17.5
+GIL,21,Meu amigo meu heroi,44,9,1,V0,*,V/V,7,major,17.75
+GIL,21,Meu amigo meu heroi,45,2,2,Y0,*7,V,7,major,18.0
+GIL,21,Meu amigo meu heroi,46,2,2,W0,*(#5)7,V,7,major,18.5
+GIL,21,Meu amigo meu heroi,47,7,7,V0,*,I,7,major,19.0
+GIL,22,Morena,1,9,9,z0,*m7,I,9,minor,1.0
+GIL,22,Morena,2,11,11,Y2.4,*7(#9),V/V,9,minor,4.0
+GIL,22,Morena,3,4,4,Y0,*7,V,9,minor,4.5
+GIL,22,Morena,4,0,0,Y2,*7.9,V/VI,9,minor,5.0
+GIL,22,Morena,5,5,5,Z0,*M7,VI,9,minor,6.0
+GIL,22,Morena,6,2,2,z2,*m7.9,II,9,minor,7.0
+GIL,22,Morena,7,0,0,z2,*m7.9,bIIIm7,9,minor,7.5
+GIL,22,Morena,8,11,11,Y1.1.2,*4.7.9.13,II,9,minor,8.0
+GIL,22,Morena,9,4,4,Y4.1,*7(b13),V,9,minor,8.5
+GIL,22,Morena,10,9,9,z0,*m7,I,9,minor,9.0
+GIL,22,Morena,11,2,2,Y2.3,*7(b9),IV7,9,minor,9.5
+GIL,22,Morena,12,7,7,z0,*m7,II__X,9,minor,10.0
+GIL,22,Morena,13,0,0,Y2.3,*7(b9),SubV/II,9,minor,10.5
+GIL,22,Morena,14,11,11,y0,*Ø,II,9,minor,11.0
+GIL,22,Morena,15,4,4,Y0,*7,IV,9,minor,11.5
+GIL,22,Morena,16,9,9,z0,*m7,I,9,minor,12.0
+GIL,23,O rouxinol,1,10,10,V0,*,I,10,major,1.0
+GIL,23,O rouxinol,2,10,2,V0,*,I,10,major,1.5
+GIL,23,O rouxinol,3,8,6,Y0,*7,?,10,major,2.0
+GIL,23,O rouxinol,4,10,5,V0,*,I,10,major,2.5
+GIL,23,O rouxinol,5,6,4,Y0,*7,SubV/V,10,major,3.0
+GIL,23,O rouxinol,6,5,3,Y0,*7,V,10,major,3.5
+GIL,23,O rouxinol,7,10,2,V0,*,I,10,major,4.0
+GIL,23,O rouxinol,8,6,4,Y0,*7,SubV/V,10,major,5.5
+GIL,23,O rouxinol,9,5,3,Y0,*7,V,10,major,6.0
+GIL,23,O rouxinol,10,11,11,Y0,*7,I,4,major,6.5
+GIL,23,O rouxinol,11,4,4,V0,*,I,4,major,7.0
+GIL,23,O rouxinol,12,9,1,V0,*,IV,4,major,8.0
+GIL,23,O rouxinol,13,4,4,V0,*,I,4,major,10.0
+GIL,23,O rouxinol,14,9,1,V0,*,IV,4,major,12.0
+GIL,23,O rouxinol,15,11,3,V0,*,V,4,major,12.5
+GIL,23,O rouxinol,16,1,5,V0,*,?,4,major,12.75
+GIL,23,O rouxinol,17,3,7,V0,*,I,3,major,13.0
+GIL,23,O rouxinol,18,10,10,Y1,*4.7,V,3,major,15.0
+GIL,23,O rouxinol,19,10,10,Y0,*7,V,3,major,16.0
+GIL,23,O rouxinol,20,3,3,Y0,*7,I,3,major,17.0
+GIL,23,O rouxinol,21,1,1,Y0,*7,bVII7,3,major,17.5
+GIL,23,O rouxinol,22,11,11,Y0,*7,SubV/V,3,major,18.0
+GIL,23,O rouxinol,23,10,10,Y0,*7,V,3,major,18.5
+GIL,23,O rouxinol,24,8,8,Y0,*7,I,8,major,19.0
+GIL,23,O rouxinol,25,6,6,Y0,*7,bVII7,8,major,19.5
+GIL,23,O rouxinol,26,6,1,Y0,*7,bVII7,8,major,20.0
+GIL,23,O rouxinol,27,11,6,Y0,*7,?,8,major,20.5
+GIL,23,O rouxinol,28,1,8,Y0,*7,IV7,8,major,22.0
+GIL,23,O rouxinol,29,10,10,Y1,*4.7,V,3,major,24.0
+GIL,23,O rouxinol,30,10,10,Y0,*7,V,3,major,24.5
+GIL,23,O rouxinol,31,3,3,Y0,*7,I,3,major,25.0
+GIL,23,O rouxinol,32,1,1,Y0,*7,bVII7,3,major,25.5
+GIL,23,O rouxinol,33,11,11,Y0,*7,SubV/V,3,major,26.0
+GIL,23,O rouxinol,34,10,10,Y0,*7,V,3,major,26.5
+GIL,23,O rouxinol,35,8,8,Y0,*7,IV7,3,major,27.0
+GIL,23,O rouxinol,36,3,3,Y0,*7,I,3,major,28.0
+GIL,23,O rouxinol,37,1,1,Y0,*7,I,1,major,30.0
+GIL,23,O rouxinol,38,8,8,Y0,*7,V,1,major,31.0
+GIL,23,O rouxinol,39,1,1,Y0,*7,I,1,major,32.0
+GIL,23,O rouxinol,40,8,8,Y0,*7,V,1,major,33.0
+GIL,23,O rouxinol,41,1,1,Y0,*7,I,1,major,34.0
+GIL,23,O rouxinol,42,8,8,Y0,*7,V,1,major,35.0
+GIL,24,O sonho acabou,1,7,7,Z1,*6,I,7,major,1.0
+GIL,24,O sonho acabou,2,9,9,z0,*m7,II,7,major,2.0
+GIL,24,O sonho acabou,3,2,2,Y2,*7.9,V,7,major,2.5
+GIL,24,O sonho acabou,4,7,7,Z1,*6,I,7,major,3.0
+GIL,24,O sonho acabou,5,9,9,z0,*m7,II,7,major,4.0
+GIL,24,O sonho acabou,6,2,2,Y2,*7.9,V,7,major,4.5
+GIL,24,O sonho acabou,7,11,11,z0,*m7,II__X,7,major,5.0
+GIL,24,O sonho acabou,8,10,10,Y0,*7,SubV/II,7,major,6.0
+GIL,24,O sonho acabou,9,9,9,z0,*m7,II,7,major,7.0
+GIL,24,O sonho acabou,10,3,3,Y2,*7.9,SubV/V,7,major,8.0
+GIL,24,O sonho acabou,11,2,2,Y2,*7.9,V,7,major,8.5
+GIL,24,O sonho acabou,12,7,7,Z1,*6,I,7,major,9.0
+GIL,24,O sonho acabou,13,10,10,Y0,*7,SubV/II,7,major,10.0
+GIL,24,O sonho acabou,14,9,9,z0,*m7,II,7,major,11.0
+GIL,24,O sonho acabou,15,3,3,Y2,*7.9,SubV/V,7,major,12.0
+GIL,24,O sonho acabou,16,2,2,Y2,*7.9,V,7,major,12.5
+GIL,24,O sonho acabou,17,11,11,z0,*m7,II__X,7,major,13.0
+GIL,24,O sonho acabou,18,10,10,Y2,*7.9,SubV/II,7,major,14.0
+GIL,24,O sonho acabou,19,9,9,z0,*m7,II,7,major,15.0
+GIL,24,O sonho acabou,20,2,2,Y2,*7.9,V,7,major,16.0
+GIL,24,O sonho acabou,21,7,7,Z1,*6,I,7,major,17.0
+GIL,24,O sonho acabou,22,4,4,Y0,*7,V/II,7,major,18.0
+GIL,24,O sonho acabou,23,9,9,z0,*m7,II,7,major,19.0
+GIL,24,O sonho acabou,24,11,11,Y0,*7,V/II,2,major,20.0
+GIL,24,O sonho acabou,25,4,4,z0,*m7,II,2,major,21.0
+GIL,24,O sonho acabou,26,10,10,Y0,*7,SubV/V,2,major,22.0
+GIL,24,O sonho acabou,27,9,9,Y0,*7,V,2,major,22.5
+GIL,24,O sonho acabou,28,2,2,Z1.1,*6.9,I,2,major,23.0
+GIL,24,O sonho acabou,29,10,10,Y0,*7,SubV/V,2,major,24.0
+GIL,24,O sonho acabou,30,9,9,Y0,*7,V,2,major,24.5
+GIL,24,O sonho acabou,31,2,2,Y2,*7.9,V/IV,2,major,25.0
+GIL,24,O sonho acabou,32,9,9,Y0,*7,V/V,2,major,26.0
+GIL,24,O sonho acabou,33,8,8,Y0,*7,SubV/IV,2,major,26.5
+GIL,24,O sonho acabou,34,7,7,Y0,*7,IV7,2,major,27.0
+GIL,24,O sonho acabou,35,0,0,Y0,*7,SubV/VI,2,major,28.0
+GIL,24,O sonho acabou,36,11,11,Y0,*7,V/II,2,major,29.0
+GIL,24,O sonho acabou,37,4,4,Y2,*7.9,V/V,2,major,30.0
+GIL,24,O sonho acabou,38,10,10,Y0,*7,SubV/V,2,major,31.0
+GIL,24,O sonho acabou,39,9,9,Y0,*7,V,2,major,31.5
+GIL,24,O sonho acabou,40,3,3,Y2,*7.9,SubV/V,7,major,32.0
+GIL,24,O sonho acabou,41,2,2,Y2,*7.9,V,7,major,32.5
+GIL,24,O sonho acabou,42,7,7,Z1,*6,I,7,major,33.0
+GIL,24,O sonho acabou,43,7,7,Y0,*7,V/IV,7,major,34.0
+GIL,24,O sonho acabou,44,0,0,Y0,*7,SubV/III,7,major,36.0
+GIL,24,O sonho acabou,45,11,11,Y0,*7,V/VI,7,major,37.0
+GIL,24,O sonho acabou,46,4,4,Y2,*7.9,V/II,7,major,38.0
+GIL,24,O sonho acabou,47,9,9,Y1,*4.7,V/V,7,major,39.0
+GIL,24,O sonho acabou,48,9,9,Y0,*7,V/V,7,major,39.5
+GIL,24,O sonho acabou,49,9,9,Y1,*4.7,V/V,7,major,40.0
+GIL,24,O sonho acabou,50,9,9,Y0,*7,V/V,7,major,40.5
+GIL,24,O sonho acabou,51,3,3,Y2,*7.9,SubV/V,7,major,41.0
+GIL,24,O sonho acabou,52,2,2,Y2,*7.9,V,7,major,42.0
+GIL,24,O sonho acabou,53,11,11,z0,*m7,II__X,7,major,43.0
+GIL,24,O sonho acabou,54,10,10,Y0,*7,SubV/II,7,major,43.5
+GIL,24,O sonho acabou,55,9,9,z0,*m7,II,7,major,44.0
+GIL,24,O sonho acabou,56,2,2,Y2,*7.9,V,7,major,44.5
+GIL,24,O sonho acabou,57,11,11,z0,*m7,II__X,7,major,45.0
+GIL,24,O sonho acabou,58,10,10,Y0,*7,SubV/II,7,major,46.0
+GIL,24,O sonho acabou,59,9,9,z0,*m7,II,7,major,47.0
+GIL,24,O sonho acabou,60,3,3,Y2,*7.9,SubV/V,7,major,48.0
+GIL,24,O sonho acabou,61,2,2,Y2,*7.9,V,7,major,48.5
+GIL,24,O sonho acabou,62,7,7,Z1,*6,I,7,major,49.0
+GIL,25,Palco,1,4,4,Z0,*M7,I,4,major,1.0
+GIL,25,Palco,2,6,6,z0,*m7,II,4,major,2.0
+GIL,25,Palco,3,8,8,z0,*m7,III,4,major,3.0
+GIL,25,Palco,4,9,9,Z0,*M7,IV,4,major,4.0
+GIL,25,Palco,5,11,11,Y1.1,*4.7.9,V,4,major,5.0
+GIL,25,Palco,6,1,1,z0,*m7,VI,4,major,6.0
+GIL,25,Palco,7,8,8,Y4.1,*7(b13),aSubV/IV,4,major,7.0
+GIL,25,Palco,8,9,9,Z0,*M7,IV,4,major,8.0
+GIL,25,Palco,9,4,4,Z0,*M7,I,4,major,9.0
+GIL,25,Palco,10,6,6,z0,*m7,II,4,major,10.0
+GIL,25,Palco,11,8,8,z0,*m7,III,4,major,11.0
+GIL,25,Palco,12,9,9,Z0,*M7,IV,4,major,12.0
+GIL,25,Palco,13,11,11,Y0,*7,V,4,major,13.0
+GIL,25,Palco,14,1,1,z0,*m7,VI,4,major,14.0
+GIL,25,Palco,15,11,11,Y0,*7,V,4,major,15.0
+GIL,25,Palco,16,1,1,z0,*m7,VI,4,major,16.0
+GIL,25,Palco,17,8,8,Y4.1,*7(b13),aSubV/IV,4,major,17.0
+GIL,25,Palco,18,9,9,Z0,*M7,IV,4,major,18.0
+GIL,25,Palco,19,11,11,Y1.1,*4.7.9,V,4,major,19.0
+GIL,25,Palco,20,1,1,z0,*m7,VI,4,major,20.0
+GIL,25,Palco,21,8,8,Y4.1,*7(b13),aSubV/IV,4,major,21.0
+GIL,25,Palco,22,9,9,Z0,*M7,IV,4,major,22.0
+GIL,25,Palco,23,11,11,Y1.1,*4.7.9,V,4,major,23.0
+GIL,25,Palco,24,0,0,x0,*°7,V°/VI,4,major,23.5
+GIL,25,Palco,25,1,1,z0,*m7,VI,4,major,24.0
+GIL,25,Palco,26,8,8,Y4.1,*7(b13),aSubV/IV,4,major,25.0
+GIL,25,Palco,27,9,9,Z0,*M7,IV,4,major,26.0
+GIL,25,Palco,28,11,11,Y1.1,*4.7.9,V,4,major,27.0
+GIL,25,Palco,29,4,4,Z0,*M7,I,4,major,28.0
+GIL,26,Pessoa nefasta,1,4,4,Y0,*7,I,4,major,1.0
+GIL,26,Pessoa nefasta,2,0,0,Y0,*7,?,4,major,3.0
+GIL,26,Pessoa nefasta,3,9,9,Y0,*7,IV7,4,major,5.0
+GIL,26,Pessoa nefasta,4,4,4,Y0,*7,I,4,major,6.0
+GIL,26,Pessoa nefasta,5,0,0,Y0,*7,?,4,major,10.0
+GIL,26,Pessoa nefasta,6,9,9,Y0,*7,IV7,4,major,12.0
+GIL,26,Pessoa nefasta,7,4,4,Y0,*7,I,4,major,13.0
+GIL,26,Pessoa nefasta,8,9,9,Y0,*7,IV7,4,major,14.0
+GIL,26,Pessoa nefasta,9,8,8,Y0,*7,V,1,minor,14.5
+GIL,26,Pessoa nefasta,10,1,1,z0,*m7,I,1,minor,15.0
+GIL,26,Pessoa nefasta,11,9,9,Y0,*7,SubV/V,1,minor,16.0
+GIL,26,Pessoa nefasta,12,8,8,Y0,*7,V,1,minor,16.5
+GIL,26,Pessoa nefasta,13,1,1,z0,*m7,I,1,minor,17.0
+GIL,26,Pessoa nefasta,14,9,9,Y0,*7,SubV/V,1,minor,18.0
+GIL,26,Pessoa nefasta,15,8,8,Y0,*7,V,1,minor,18.5
+GIL,26,Pessoa nefasta,16,1,1,z0,*m7,I,1,minor,19.0
+GIL,26,Pessoa nefasta,17,6,6,Y0,*7,IV7,1,minor,20.0
+GIL,26,Pessoa nefasta,18,11,11,Y1.1,*4.7.9,bVII7,1,minor,21.0
+GIL,26,Pessoa nefasta,19,1,1,z0,*m7,I,1,minor,23.0
+GIL,26,Pessoa nefasta,20,9,9,Y0,*7,SubV/V,1,minor,24.0
+GIL,26,Pessoa nefasta,21,8,8,Y0,*7,V,1,minor,24.5
+GIL,26,Pessoa nefasta,22,1,1,z0,*m7,I,1,minor,25.0
+GIL,26,Pessoa nefasta,23,9,9,Y0,*7,SubV/V,1,minor,26.0
+GIL,26,Pessoa nefasta,24,8,8,Y0,*7,V,1,minor,26.5
+GIL,26,Pessoa nefasta,25,1,1,z0,*m7,I,1,minor,27.0
+GIL,26,Pessoa nefasta,26,6,6,Y0,*7,IV7,1,minor,28.0
+GIL,26,Pessoa nefasta,27,11,11,Y1.1,*4.7.9,bVII7,1,minor,29.0
+GIL,26,Pessoa nefasta,28,4,4,Y0,*7,I,4,major,31.0
+GIL,26,Pessoa nefasta,29,9,4,Y0,*7,IV7,4,major,32.0
+GIL,26,Pessoa nefasta,30,4,4,Y0,*7,I,4,major,33.0
+GIL,26,Pessoa nefasta,31,9,4,Y0,*7,IV7,4,major,35.0
+GIL,26,Pessoa nefasta,32,8,8,Y0,*7,V/VI,4,major,36.0
+GIL,26,Pessoa nefasta,33,1,1,z0,*m7,VI,4,major,37.0
+GIL,26,Pessoa nefasta,34,9,9,Y0,*7,IV7,4,major,38.0
+GIL,26,Pessoa nefasta,35,4,4,Y0,*7,I,4,major,39.0
+GIL,27,Preciso aprender a so ser,1,4,4,Y2.4,*7(#9),V,9,major,1.0
+GIL,27,Preciso aprender a so ser,2,1,1,z0,*m7,II__X,9,major,2.0
+GIL,27,Preciso aprender a so ser,3,0,0,Y4,*7.13,V/bVI,9,major,2.5
+GIL,27,Preciso aprender a so ser,4,5,5,Z0,*M7,bVI7M,9,major,3.0
+GIL,27,Preciso aprender a so ser,5,7,7,Y2,*7.9,bVII7,9,major,3.5
+GIL,27,Preciso aprender a so ser,6,9,9,Z0,*M7,I,9,major,4.0
+GIL,27,Preciso aprender a so ser,7,0,0,Y1.1,*4.7.9,V/bVI,9,major,5.0
+GIL,27,Preciso aprender a so ser,8,0,0,Y2.3,*7(b9),V/bVI,9,major,5.5
+GIL,27,Preciso aprender a so ser,9,5,5,Z0,*M7,bVI7M,9,major,6.0
+GIL,27,Preciso aprender a so ser,10,4,4,Y4.1,*7(b13),V,9,major,6.5
+GIL,27,Preciso aprender a so ser,11,9,9,z2,*m7.9,Im7,9,major,7.0
+GIL,27,Preciso aprender a so ser,12,2,2,Z0,*M7,IV,9,major,7.5
+GIL,27,Preciso aprender a so ser,13,1,1,z0,*m7,II__X,9,major,8.0
+GIL,27,Preciso aprender a so ser,14,6,6,Y2,*7.9,V/II,9,major,8.5
+GIL,27,Preciso aprender a so ser,15,6,6,Y2.3,*7(b9),V/II,9,major,9.0
+GIL,27,Preciso aprender a so ser,16,11,11,z0,*m7,II,9,major,9.25
+GIL,27,Preciso aprender a so ser,17,4,4,Y2.3,*7(b9),V,9,major,9.5
+GIL,27,Preciso aprender a so ser,18,2,2,x0,*°7,IV° [pass],9,major,9.75
+GIL,27,Preciso aprender a so ser,19,1,1,z0,*m7,II__X,9,major,10.0
+GIL,27,Preciso aprender a so ser,20,0,0,Y4,*7.13,SubV/II,9,major,11.0
+GIL,27,Preciso aprender a so ser,21,11,11,z0,*m7,II,9,major,12.0
+GIL,27,Preciso aprender a so ser,22,9,9,Z0,*M7,I,9,major,14.0
+GIL,27,Preciso aprender a so ser,23,8,8,Y4,*7.13,V/III,9,major,14.5
+GIL,27,Preciso aprender a so ser,24,7,7,Z0,*M7,bVII7M,9,major,15.0
+GIL,27,Preciso aprender a so ser,25,6,6,Y2.3,*7(b9),V/II,9,major,15.5
+GIL,27,Preciso aprender a so ser,26,11,11,z0,*m7,II,9,major,16.0
+GIL,27,Preciso aprender a so ser,27,1,1,z0,*m7,III,9,major,16.5
+GIL,27,Preciso aprender a so ser,28,2,2,z0,*m7,IVm7,9,major,17.0
+GIL,27,Preciso aprender a so ser,29,1,1,z0,*m7,III,9,major,17.5
+GIL,27,Preciso aprender a so ser,30,9,9,Z4,*(#5)M7,I,9,major,18.0
+GIL,27,Preciso aprender a so ser,31,8,8,Y4.1,*7(b13),V/III,9,major,18.5
+GIL,27,Preciso aprender a so ser,32,1,1,z0,*m7,II__X,9,major,19.0
+GIL,27,Preciso aprender a so ser,33,6,6,Y2.3,*7(b9),V/II,9,major,19.5
+GIL,27,Preciso aprender a so ser,34,11,11,z0,*m7,II,9,major,20.0
+GIL,27,Preciso aprender a so ser,35,2,2,w0,*mM7,IVm7,9,major,20.5
+GIL,27,Preciso aprender a so ser,36,1,1,z0,*m7,II__X,9,major,21.0
+GIL,27,Preciso aprender a so ser,37,6,6,Y2.3,*7(b9),V/II,9,major,21.5
+GIL,27,Preciso aprender a so ser,38,11,11,Y4,*7.13,V/V,9,major,22.0
+GIL,27,Preciso aprender a so ser,39,11,11,Y4.1,*7(b13),V/V,9,major,22.25
+GIL,27,Preciso aprender a so ser,40,11,11,z0,*m7,II,9,major,22.5
+GIL,27,Preciso aprender a so ser,41,4,4,Y2.3,*7(b9),V,9,major,22.75
+GIL,27,Preciso aprender a so ser,42,9,9,Z1,*6,I,9,major,23.0
+GIL,28,Procissao,1,4,4,Z1,*6,I,4,major,1.0
+GIL,28,Procissao,2,11,11,Y0,*7,V,4,major,2.0
+GIL,28,Procissao,3,4,4,Z1,*6,I,4,major,3.0
+GIL,28,Procissao,4,11,11,Y0,*7,V,4,major,4.0
+GIL,28,Procissao,5,4,4,Z1,*6,I,4,major,5.0
+GIL,28,Procissao,6,9,9,V0,*,IV,4,major,6.0
+GIL,28,Procissao,7,4,4,Z1,*6,I,4,major,7.0
+GIL,28,Procissao,8,9,9,V0,*,IV,4,major,8.0
+GIL,28,Procissao,9,4,4,Z1,*6,I,4,major,9.0
+GIL,28,Procissao,10,9,9,V0,*,IV,4,major,10.0
+GIL,28,Procissao,11,11,11,Y0,*7,V,4,major,10.5
+GIL,28,Procissao,12,4,4,Z1,*6,I,4,major,11.0
+GIL,28,Procissao,13,9,9,V0,*,IV,4,major,12.0
+GIL,28,Procissao,14,11,11,Y0,*7,V,4,major,12.5
+GIL,28,Procissao,15,4,4,Z1,*6,I,4,major,13.0
+GIL,28,Procissao,16,9,9,V0,*,IV,4,major,14.0
+GIL,28,Procissao,17,8,8,z3,*m7.11,II__X,4,major,15.0
+GIL,28,Procissao,18,1,1,Y0,*7,V/II,4,major,15.5
+GIL,28,Procissao,19,6,6,Y0,*7,V/V,4,major,16.0
+GIL,28,Procissao,20,11,11,Y0,*7,V,4,major,16.5
+GIL,28,Procissao,21,4,4,Z1,*6,I,4,major,17.0
+GIL,29,Punk da periferia,1,9,9,Y0,*7,I,9,major,1.0
+GIL,29,Punk da periferia,2,2,2,Y0,*7,IV7,9,major,4.0
+GIL,29,Punk da periferia,3,7,7,Y0,*7,bVII7,9,major,5.0
+GIL,29,Punk da periferia,4,0,0,Y0,*7,?,9,major,8.0
+GIL,29,Punk da periferia,5,5,5,Y0,*7,SubV/V,9,major,9.0
+GIL,29,Punk da periferia,6,4,4,Y0,*7,V,9,major,11.0
+GIL,29,Punk da periferia,7,9,9,Y0,*7,I,9,major,12.0
+GIL,29,Punk da periferia,8,2,2,Y0,*7,IV7,9,major,13.0
+GIL,29,Punk da periferia,9,4,4,Y2.4,*7(#9),V,9,major,14.0
+GIL,29,Punk da periferia,10,9,9,Y0,*7,I,9,major,15.0
+GIL,29,Punk da periferia,11,4,4,Y2.4,*7(#9),V,9,major,16.5
+GIL,29,Punk da periferia,12,9,9,Y0,*7,I,9,major,17.0
+GIL,29,Punk da periferia,13,2,2,Y0,*7,IV7,9,major,19.0
+GIL,29,Punk da periferia,14,1,1,Y0,*7,V/VI,9,major,19.5
+GIL,29,Punk da periferia,15,6,6,v0,*m,VI,9,major,20.0
+GIL,29,Punk da periferia,16,9,9,Y0,*7,I,9,major,21.0
+GIL,29,Punk da periferia,17,2,2,Y0,*7,IV7,9,major,22.0
+GIL,29,Punk da periferia,18,1,1,Y0,*7,V/VI,9,major,23.0
+GIL,29,Punk da periferia,19,6,6,v0,*m,VI,9,major,24.0
+GIL,30,Raca humana,1,9,9,z0,*m7,I,9,minor,1.0
+GIL,30,Raca humana,2,2,2,z0,*m7,IV,9,minor,2.0
+GIL,30,Raca humana,3,9,9,z0,*m7,I,9,minor,3.0
+GIL,30,Raca humana,4,2,2,z0,*m7,IV,9,minor,4.0
+GIL,30,Raca humana,5,9,9,z0,*m7,I,9,minor,5.0
+GIL,30,Raca humana,6,2,2,z0,*m7,IV,9,minor,6.0
+GIL,30,Raca humana,7,7,7,V0,*,V,0,major,7.0
+GIL,30,Raca humana,8,0,0,V0,*,I,0,major,8.0
+GIL,30,Raca humana,9,5,5,V0,*,IV,0,major,9.0
+GIL,30,Raca humana,10,4,4,V0,*,V/VI,0,major,10.0
+GIL,30,Raca humana,11,9,9,z0,*m7,II__X,0,major,11.0
+GIL,30,Raca humana,12,2,2,Y0,*7,V/V,0,major,12.0
+GIL,30,Raca humana,13,2,2,z0,*m7,II,0,major,13.0
+GIL,30,Raca humana,14,7,7,Y0,*7,V,0,major,14.0
+GIL,30,Raca humana,15,2,2,z0,*m7,II,0,major,15.0
+GIL,30,Raca humana,16,7,7,Y0,*7,V,0,major,16.0
+GIL,30,Raca humana,17,9,9,z0,*m7,I,9,minor,17.0
+GIL,30,Raca humana,18,2,2,z0,*m7,IV,9,minor,18.0
+GIL,30,Raca humana,19,9,9,z0,*m7,I,9,minor,19.0
+GIL,31,Rebento,1,2,2,Z2,*M7.9,I,2,major,1.0
+GIL,31,Rebento,2,8,8,z3,*m7.11,?,2,major,3.0
+GIL,31,Rebento,3,9,9,z3,*m7.11,II__X,2,major,9.0
+GIL,31,Rebento,4,2,2,Y2,*7.9,V/IV,2,major,10.0
+GIL,31,Rebento,5,7,7,Z0,*M7,IV,2,major,11.0
+GIL,31,Rebento,6,7,7,z1,*m6,IVm7,2,major,12.0
+GIL,31,Rebento,7,2,6,Z0,*M7,I,2,major,13.0
+GIL,31,Rebento,8,11,11,Y0,*7,V/II,2,major,14.0
+GIL,31,Rebento,9,4,4,Y2,*7.9,V/V,2,major,15.0
+GIL,31,Rebento,10,9,9,Y2,*7.9,V,2,major,16.0
+GIL,31,Rebento,11,6,6,z0,*m7,II__X,2,major,17.0
+GIL,31,Rebento,12,11,11,Y2.4,*7(#9),V/II,2,major,17.5
+GIL,31,Rebento,13,4,4,z0,*m7,II,2,major,18.0
+GIL,31,Rebento,14,9,9,Y0,*7,V,2,major,18.5
+GIL,31,Rebento,15,6,6,Y0,*7,V/VI,2,major,19.0
+GIL,31,Rebento,16,11,11,Y2.1,*7.9(#11),V/II,2,major,20.0
+GIL,31,Rebento,17,4,4,Y2,*7.9,V/V,2,major,20.5
+GIL,31,Rebento,18,3,3,Y0,*7,SubV,2,major,21.0
+GIL,31,Rebento,19,2,2,Z1.1.1,*6.9(#11),I,2,major,22.0
+GIL,31,Rebento,20,3,3,Z1.1.1,*6.9(#11),bII7M,2,major,23.0
+GIL,31,Rebento,21,2,2,Z1.1.1,*6.9(#11),I,2,major,25.0
+GIL,31,Rebento,22,9,9,z0,*m7,II__X,2,major,27.0
+GIL,31,Rebento,23,2,2,Y2,*7.9,V/IV,2,major,28.0
+GIL,31,Rebento,24,7,7,Z0,*M7,IV,2,major,29.0
+GIL,31,Rebento,25,6,6,z0,*m7,II__X,2,major,31.0
+GIL,31,Rebento,26,11,11,Y2.3,*7(b9),V/II,2,major,32.0
+GIL,31,Rebento,27,4,4,Y4,*7.13,V/V,2,major,33.0
+GIL,31,Rebento,28,4,4,Y4.1,*7(b13),V/V,2,major,33.5
+GIL,31,Rebento,29,9,9,Y2,*7.9,V,2,major,34.0
+GIL,31,Rebento,30,9,9,Y2.3,*7(b9),V,2,major,34.5
+GIL,31,Rebento,31,2,2,Z2,*M7.9,I,2,major,35.0
+GIL,31,Rebento,32,9,9,Y1.1,*4.7.9,V,2,major,37.0
+GIL,31,Rebento,33,2,2,Y2.3,*7(b9),V/IV,2,major,39.0
+GIL,31,Rebento,34,7,7,Z0,*M7,IV,2,major,41.0
+GIL,31,Rebento,35,7,7,z0,*m7,IVm7,2,major,43.0
+GIL,31,Rebento,36,6,6,z0,*m7,II__X,2,major,45.0
+GIL,31,Rebento,37,11,11,Y0,*7,V/V,2,major,46.0
+GIL,31,Rebento,38,10,10,Y0,*7,SubV/V,2,major,47.0
+GIL,31,Rebento,39,9,9,Y0,*7,V,2,major,48.0
+GIL,31,Rebento,40,2,2,Y2,*7.9,V/IV,2,major,49.0
+GIL,31,Rebento,41,7,7,Z0,*M7,IV,2,major,50.0
+GIL,31,Rebento,42,7,7,z1,*m6,IVm7,2,major,51.0
+GIL,31,Rebento,43,6,6,z0,*m7,II__X,2,major,53.0
+GIL,31,Rebento,44,11,11,Y0,*7,V/V,2,major,54.0
+GIL,31,Rebento,45,4,4,Y2,*7.9,V/V,2,major,55.0
+GIL,31,Rebento,46,9,9,Y0,*7,V,2,major,56.0
+GIL,31,Rebento,47,2,2,Z2,*M7.9,I,2,major,57.0
+GIL,32,Refazenda,1,2,2,V0,*,I,2,major,1.0
+GIL,32,Refazenda,2,9,9,Y1.1,*4.7.9,V,2,major,1.5
+GIL,32,Refazenda,3,2,2,V0,*,I,2,major,2.0
+GIL,32,Refazenda,4,9,9,Y1.1,*4.7.9,V,2,major,2.5
+GIL,32,Refazenda,5,2,2,V0,*,I,2,major,3.0
+GIL,32,Refazenda,6,9,9,Y1.1,*4.7.9,V,2,major,3.5
+GIL,32,Refazenda,7,2,2,V0,*,I,2,major,4.0
+GIL,32,Refazenda,8,9,9,Y1.1,*4.7.9,V,2,major,4.5
+GIL,32,Refazenda,9,2,2,V0,*,I,2,major,5.0
+GIL,32,Refazenda,10,9,9,Y1.1,*4.7.9,V,2,major,5.5
+GIL,32,Refazenda,11,2,2,V0,*,I,2,major,6.0
+GIL,32,Refazenda,12,9,9,Y1.1,*4.7.9,V,2,major,6.5
+GIL,32,Refazenda,13,2,2,V0,*,I,2,major,7.0
+GIL,32,Refazenda,14,9,9,Y1.1,*4.7.9,V,2,major,7.5
+GIL,32,Refazenda,15,2,2,V0,*,I,2,major,8.0
+GIL,32,Refazenda,16,9,9,Y1.1,*4.7.9,V,2,major,8.5
+GIL,32,Refazenda,17,2,2,v0,*m,I,2,minor,9.0
+GIL,32,Refazenda,18,9,9,z0,*m7,Vm7,2,minor,9.5
+GIL,32,Refazenda,19,2,2,v0,*m,I,2,minor,10.0
+GIL,32,Refazenda,20,9,9,z0,*m7,Vm7,2,minor,10.5
+GIL,32,Refazenda,21,2,2,v0,*m,I,2,minor,11.0
+GIL,32,Refazenda,22,9,9,z0,*m7,Vm7,2,minor,11.5
+GIL,32,Refazenda,23,2,2,v0,*m,I,2,minor,12.0
+GIL,32,Refazenda,24,9,9,z0,*m7,Vm7,2,minor,12.5
+GIL,32,Refazenda,25,2,2,v0,*m,I,2,minor,13.0
+GIL,32,Refazenda,26,9,9,z0,*m7,Vm7,2,minor,13.5
+GIL,32,Refazenda,27,2,2,v0,*m,I,2,minor,14.0
+GIL,32,Refazenda,28,9,9,z0,*m7,Vm7,2,minor,14.5
+GIL,32,Refazenda,29,2,2,v0,*m,I,2,minor,15.0
+GIL,32,Refazenda,30,9,9,z0,*m7,Vm7,2,minor,15.5
+GIL,32,Refazenda,31,2,2,v0,*m,I,2,minor,16.0
+GIL,32,Refazenda,32,9,9,Y1.1,*4.7.9,V,2,minor,16.5
+GIL,32,Refazenda,33,2,2,V0,*,I,2,major,17.0
+GIL,33,Sandra,1,4,4,z0,*m7,I,4,minor,1.0
+GIL,33,Sandra,2,2,2,Y1,*4.7,bVII7,4,minor,2.0
+GIL,33,Sandra,3,4,4,z0,*m7,I,4,minor,3.0
+GIL,33,Sandra,4,2,2,Y1,*4.7,bVII7,4,minor,4.0
+GIL,33,Sandra,5,7,7,Y0,*7,V/VI,4,minor,5.0
+GIL,33,Sandra,6,0,0,V0,*,VI,4,minor,6.0
+GIL,33,Sandra,7,11,11,z0,*m7,Vm7,4,minor,6.5
+GIL,33,Sandra,8,9,9,z0,*m7,IV,4,minor,7.0
+GIL,33,Sandra,9,4,4,z0,*m7,I,4,minor,8.0
+GIL,33,Sandra,10,2,2,Y1,*4.7,bVII7,4,minor,9.0
+GIL,33,Sandra,11,4,4,z0,*m7,I,4,minor,10.0
+GIL,33,Sandra,12,2,2,Y1,*4.7,bVII7,4,minor,11.0
+GIL,33,Sandra,13,7,7,Y0,*7,V/VI,4,minor,12.0
+GIL,33,Sandra,14,0,0,V0,*,VI,4,minor,13.0
+GIL,33,Sandra,15,11,11,z0,*m7,Vm7,4,minor,14.0
+GIL,33,Sandra,16,9,9,z0,*m7,IV,4,minor,15.0
+GIL,33,Sandra,17,4,4,z0,*m7,I,4,minor,16.0
+GIL,34,Se eu quiser falar por Deus,1,0,0,Z0,*M7,I,0,major,1.0
+GIL,34,Se eu quiser falar por Deus,2,11,11,z0,*m7,II__X,0,major,1.5
+GIL,34,Se eu quiser falar por Deus,3,4,4,Y2.2.1,*7(b9)13,V/VI,0,major,1.75
+GIL,34,Se eu quiser falar por Deus,4,9,9,z0,*m7,VI,0,major,2.0
+GIL,34,Se eu quiser falar por Deus,5,0,0,Y1.1,*4.7.9,V/IV,0,major,2.5
+GIL,34,Se eu quiser falar por Deus,6,9,9,Z0,*M7,IV,0,major,3.0
+GIL,34,Se eu quiser falar por Deus,7,10,10,Y2,*7.9,bVII7,0,major,3.5
+GIL,34,Se eu quiser falar por Deus,8,0,7,Z0,*M7,I,0,major,4.0
+GIL,34,Se eu quiser falar por Deus,9,0,0,Z0,*M7,I,0,major,5.0
+GIL,34,Se eu quiser falar por Deus,10,11,11,z0,*m7,II__X,0,major,5.5
+GIL,34,Se eu quiser falar por Deus,11,4,4,Y2.2.1,*7(b9)13,V/VI,0,major,5.75
+GIL,34,Se eu quiser falar por Deus,12,9,9,z0,*m7,VI,0,major,6.0
+GIL,34,Se eu quiser falar por Deus,13,0,0,Y1.1,*4.7.9,V/IV,0,major,6.5
+GIL,34,Se eu quiser falar por Deus,14,9,9,Z0,*M7,IV,0,major,7.0
+GIL,34,Se eu quiser falar por Deus,15,10,10,Y2,*7.9,bVII7,0,major,7.5
+GIL,34,Se eu quiser falar por Deus,16,0,7,Z0,*M7,I,0,major,8.0
+GIL,34,Se eu quiser falar por Deus,17,5,8,z1,*m6,IVm7,0,major,8.5
+GIL,34,Se eu quiser falar por Deus,18,7,7,Y0,*7,V,0,major,8.75
+GIL,34,Se eu quiser falar por Deus,19,0,0,Z0,*M7,I,0,major,9.0
+GIL,34,Se eu quiser falar por Deus,20,11,11,z0,*m7,II__X,0,major,9.5
+GIL,34,Se eu quiser falar por Deus,21,4,4,Y2.2.1,*7(b9)13,V/VI,0,major,9.75
+GIL,34,Se eu quiser falar por Deus,22,9,9,w0,*mM7,VI,0,major,10.0
+GIL,34,Se eu quiser falar por Deus,23,9,9,z0,*m7,VI,0,major,10.25
+GIL,34,Se eu quiser falar por Deus,24,7,7,z0,*m7,II__X,0,major,10.5
+GIL,34,Se eu quiser falar por Deus,25,6,6,Y3,*7(#11),SubV/IV,0,major,10.75
+GIL,34,Se eu quiser falar por Deus,26,5,5,Z0,*M7,IV,0,major,11.0
+GIL,34,Se eu quiser falar por Deus,27,10,10,Y2,*7.9,bVII7,0,major,11.5
+GIL,34,Se eu quiser falar por Deus,28,7,7,z1,*m6,Vm7,0,major,12.0
+GIL,34,Se eu quiser falar por Deus,29,5,5,Z0,*M7,IV,0,major,13.0
+GIL,34,Se eu quiser falar por Deus,30,4,4,Y2.2.1,*7(b9)13,V/VI,0,major,13.5
+GIL,34,Se eu quiser falar por Deus,31,9,9,z0,*m7,VI,0,major,14.0
+GIL,34,Se eu quiser falar por Deus,32,10,10,Z0,*M7,bVII7M,0,major,14.5
+GIL,34,Se eu quiser falar por Deus,33,11,11,y0,*Ø,II__X,0,major,15.0
+GIL,34,Se eu quiser falar por Deus,34,10,10,Y3,*7(#11),SubV/VI,0,major,15.5
+GIL,34,Se eu quiser falar por Deus,35,9,9,z0,*m7,VI,0,major,16.0
+GIL,34,Se eu quiser falar por Deus,36,9,7,z0,*m7,VI,0,major,16.25
+GIL,34,Se eu quiser falar por Deus,37,6,6,x0,*°7,V°/V,0,major,16.5
+GIL,34,Se eu quiser falar por Deus,38,0,7,V0,*,I,0,major,17.0
+GIL,34,Se eu quiser falar por Deus,39,8,8,x0,*°7,V°/VI,0,major,17.5
+GIL,34,Se eu quiser falar por Deus,40,9,9,z0,*m7,II__X,0,major,18.0
+GIL,34,Se eu quiser falar por Deus,41,8,8,Z0,*M7,aNP/V,0,major,18.5
+GIL,34,Se eu quiser falar por Deus,42,7,7,Y1.1,*4.7.9,V,0,major,18.75
+GIL,34,Se eu quiser falar por Deus,43,0,0,Z0,*M7,I,0,major,19.0
+GIL,35,Realce,1,1,1,z2,*m7.9,Vm7,6,minor,1.0
+GIL,35,Realce,2,11,11,z2,*m7.9,IV,6,minor,2.0
+GIL,35,Realce,3,1,1,z2,*m7.9,Vm7,6,minor,3.0
+GIL,35,Realce,4,3,3,z2,*m7.9,VI,6,minor,4.0
+GIL,35,Realce,5,6,6,z2,*m7.9,I,6,minor,5.0
+GIL,35,Realce,6,4,4,z2,*m7.9,VIIm7,6,minor,6.0
+GIL,35,Realce,7,1,1,z2,*m7.9,Vm7,6,minor,7.0
+GIL,35,Realce,8,11,11,z2,*m7.9,IV,6,minor,8.0
+GIL,35,Realce,9,1,1,z2,*m7.9,Vm7,6,minor,9.0
+GIL,35,Realce,10,6,6,z2,*m7.9,I,6,minor,10.0
+GIL,35,Realce,11,4,4,Y0,*7,bVII7,6,minor,10.5
+GIL,35,Realce,12,11,3,Y0,*7,IV7,6,minor,11.0
+GIL,35,Realce,13,2,2,z1,*m6,bVIm7,6,minor,11.5
+GIL,35,Realce,14,1,1,z0,*m7,Vm7,6,minor,12.0
+GIL,35,Realce,15,8,8,z0,*m7,II,6,minor,13.0
+GIL,35,Realce,16,1,1,Y2.3,*7(b9),V,6,minor,13.5
+GIL,35,Realce,17,6,6,z0,*m7,I,6,minor,14.0
+GIL,35,Realce,18,4,4,Y0,*7,bVII7,6,minor,14.5
+GIL,35,Realce,19,11,3,Y0,*7,IV7,6,minor,15.0
+GIL,35,Realce,20,2,2,z1,*m6,bVIm7,6,minor,15.5
+GIL,35,Realce,21,1,1,z0,*m7,Vm7,6,minor,16.0
+GIL,35,Realce,22,3,3,z0,*m7,II__X,6,minor,17.0
+GIL,35,Realce,23,8,8,Y0,*7,V/V,6,minor,17.5
+GIL,35,Realce,24,7,7,Y3,*7(#11),SubV,6,minor,18.0
+GIL,35,Realce,25,6,6,Y2.3,*7(b9),V/IV,6,minor,18.5
+GIL,35,Realce,26,5,5,Y4.1,*7(b13),?,6,minor,19.0
+GIL,35,Realce,27,4,4,Y0,*7,bVII7,6,minor,19.5
+GIL,35,Realce,28,7,7,Y3,*7(#11),SubV,6,minor,20.0
+GIL,35,Realce,29,6,6,Y2.3,*7(b9),V/IV,6,minor,20.5
+GIL,35,Realce,30,5,5,Y4.1,*7(b13),?,6,minor,21.0
+GIL,35,Realce,31,4,4,Y0,*7,V/III,6,minor,21.5
+GIL,35,Realce,32,9,9,V0,*,III,6,minor,22.0
+GIL,36,Sitio do Pica-Pau Amarelo,1,0,0,V0,*,Np/VI,2,major,1.0
+GIL,36,Sitio do Pica-Pau Amarelo,2,11,11,v0,*m,VI,2,major,1.5
+GIL,36,Sitio do Pica-Pau Amarelo,3,9,9,v0,*m,Vm7,2,major,2.0
+GIL,36,Sitio do Pica-Pau Amarelo,4,11,11,v0,*m,VI,2,major,2.5
+GIL,36,Sitio do Pica-Pau Amarelo,5,0,0,V0,*,Np/VI,2,major,3.0
+GIL,36,Sitio do Pica-Pau Amarelo,6,11,11,v0,*m,VI,2,major,3.5
+GIL,36,Sitio do Pica-Pau Amarelo,7,2,0,Y0,*7,V/IV,2,major,4.0
+GIL,36,Sitio do Pica-Pau Amarelo,8,7,7,V0,*,IV,2,major,5.0
+GIL,36,Sitio do Pica-Pau Amarelo,9,4,4,Y0,*7,V/V,2,major,7.0
+GIL,36,Sitio do Pica-Pau Amarelo,10,9,9,Y0,*7,V,2,major,9.0
+GIL,36,Sitio do Pica-Pau Amarelo,11,1,11,Y0,*7,?,2,major,12.25
+GIL,36,Sitio do Pica-Pau Amarelo,12,2,0,Y0,*7,V/IV,2,major,12.5
+GIL,36,Sitio do Pica-Pau Amarelo,13,7,11,V0,*,IV,2,major,13.0
+GIL,36,Sitio do Pica-Pau Amarelo,14,10,10,x0,*°7,V°,2,major,14.0
+GIL,36,Sitio do Pica-Pau Amarelo,15,2,9,V0,*,I,2,major,15.0
+GIL,36,Sitio do Pica-Pau Amarelo,16,9,9,z0,*m7,II__X,2,major,16.0
+GIL,36,Sitio do Pica-Pau Amarelo,17,2,2,Y0,*7,V/IV,2,major,16.5
+GIL,36,Sitio do Pica-Pau Amarelo,18,7,7,V0,*,IV,2,major,17.0
+GIL,36,Sitio do Pica-Pau Amarelo,19,8,8,x0,*°7,V°/V,2,major,18.0
+GIL,36,Sitio do Pica-Pau Amarelo,20,2,9,V0,*,I,2,major,19.0
+GIL,36,Sitio do Pica-Pau Amarelo,21,10,10,V4,*(#5),aNP/VI,2,major,20.0
+GIL,36,Sitio do Pica-Pau Amarelo,22,11,11,z0,*m7,VI,2,major,21.0
+GIL,36,Sitio do Pica-Pau Amarelo,23,2,0,Y0,*7,V/IV,2,major,22.0
+GIL,37,Bapa Alapala,1,7,7,V0,*,I,7,major,1.0
+GIL,37,Bapa Alapala,2,2,2,z0,*m7,Vm7,7,major,1.5
+GIL,37,Bapa Alapala,3,7,7,V0,*,I,7,major,2.0
+GIL,37,Bapa Alapala,4,2,2,z0,*m7,Vm7,7,major,2.5
+GIL,37,Bapa Alapala,5,7,7,V0,*,I,7,major,3.0
+GIL,37,Bapa Alapala,6,2,2,z0,*m7,Vm7,7,major,3.5
+GIL,37,Bapa Alapala,7,7,7,V0,*,I,7,major,4.0
+GIL,37,Bapa Alapala,8,2,2,z0,*m7,Vm7,7,major,4.5
+GIL,37,Bapa Alapala,9,7,7,V0,*,I,7,major,5.0
+GIL,37,Bapa Alapala,10,2,2,z0,*m7,Vm7,7,major,5.5
+GIL,37,Bapa Alapala,11,7,7,V0,*,I,7,major,6.0
+GIL,37,Bapa Alapala,12,2,2,z0,*m7,Vm7,7,major,6.5
+GIL,37,Bapa Alapala,13,7,7,V0,*,I,7,major,7.0
+GIL,37,Bapa Alapala,14,2,2,z0,*m7,Vm7,7,major,7.5
+GIL,37,Bapa Alapala,15,7,7,V0,*,I,7,major,8.0
+GIL,37,Bapa Alapala,16,0,0,V0,*,I,0,major,9.0
+GIL,37,Bapa Alapala,17,7,7,z0,*m7,Vm7,0,major,9.5
+GIL,37,Bapa Alapala,18,0,0,V0,*,I,0,major,10.0
+GIL,37,Bapa Alapala,19,7,7,z0,*m7,Vm7,0,major,10.5
+GIL,37,Bapa Alapala,20,0,0,V0,*,I,0,major,11.0
+GIL,37,Bapa Alapala,21,7,7,z0,*m7,Vm7,0,major,11.5
+GIL,37,Bapa Alapala,22,0,0,V0,*,I,0,major,12.0
+GIL,37,Bapa Alapala,23,7,7,z0,*m7,Vm7,0,major,12.5
+GIL,37,Bapa Alapala,24,0,0,V0,*,I,0,major,13.0
+GIL,37,Bapa Alapala,25,7,7,z0,*m7,Vm7,0,major,13.5
+GIL,37,Bapa Alapala,26,0,0,V0,*,I,0,major,14.0
+GIL,37,Bapa Alapala,27,7,7,z0,*m7,Vm7,0,major,14.5
+GIL,37,Bapa Alapala,28,0,0,V0,*,I,0,major,15.0
+GIL,37,Bapa Alapala,29,7,7,z0,*m7,Vm7,0,major,15.5
+GIL,37,Bapa Alapala,30,0,0,V0,*,I,0,major,16.0
+GIL,37,Bapa Alapala,31,7,7,z0,*m7,Vm7,0,major,16.5
+GIL,37,Bapa Alapala,32,0,0,V0,*,I,0,major,17.0
+GIL,37,Bapa Alapala,33,0,0,Y0,*7,V,5,major,17.5
+GIL,37,Bapa Alapala,34,5,5,V0,*,I,5,major,18.0
+GIL,37,Bapa Alapala,35,0,4,Y0,*7,V,5,major,18.5
+GIL,37,Bapa Alapala,36,2,2,v0,*m,VI,5,major,19.0
+GIL,37,Bapa Alapala,37,0,0,V0,*,V,5,major,19.5
+GIL,37,Bapa Alapala,38,2,2,v0,*m,VI,5,major,20.0
+GIL,37,Bapa Alapala,39,5,5,V0,*,I,5,major,20.5
+GIL,37,Bapa Alapala,40,0,0,V0,*,I,0,major,21.0
+GIL,37,Bapa Alapala,41,7,7,z0,*m7,Vm7,0,major,21.5
+GIL,37,Bapa Alapala,42,0,0,V0,*,I,0,major,22.0
+GIL,37,Bapa Alapala,43,7,7,z0,*m7,Vm7,0,major,22.5
+GIL,37,Bapa Alapala,44,0,0,V0,*,I,0,major,23.0
+GIL,37,Bapa Alapala,45,7,7,z0,*m7,Vm7,0,major,23.5
+GIL,37,Bapa Alapala,46,0,0,V0,*,I,0,major,24.0
+GIL,37,Bapa Alapala,47,7,7,V0,*,I,7,major,25.0
+GIL,37,Bapa Alapala,48,2,2,z0,*m7,Vm7,7,major,25.5
+GIL,38,Back in Bahia,1,9,9,Y0,*7,I,9,major,1.0
+GIL,38,Back in Bahia,2,2,2,Y0,*7,IV7,9,major,2.0
+GIL,38,Back in Bahia,3,9,9,Y0,*7,I,9,major,3.0
+GIL,38,Back in Bahia,4,2,2,Y0,*7,IV7,9,major,5.0
+GIL,38,Back in Bahia,5,9,9,Y0,*7,I,9,major,7.0
+GIL,38,Back in Bahia,6,4,4,Y0,*7,V,9,major,9.0
+GIL,38,Back in Bahia,7,2,2,Y0,*7,IV7,9,major,10.0
+GIL,38,Back in Bahia,8,9,9,Y0,*7,I,9,major,11.0
+GIL,38,Back in Bahia,9,4,4,Y0,*7,V,9,major,13.0
+GIL,38,Back in Bahia,10,2,2,Y0,*7,IV7,9,major,14.0
+GIL,38,Back in Bahia,11,9,9,Y0,*7,I,9,major,15.0
+GIL,38,Back in Bahia,12,4,4,Y0,*7,V,9,major,17.0
+GIL,38,Back in Bahia,13,2,2,Y0,*7,IV7,9,major,18.0
+GIL,38,Back in Bahia,14,9,9,Y0,*7,I,9,major,19.0
+GIL,38,Back in Bahia,15,4,4,Y0,*7,V,9,major,21.0
+GIL,38,Back in Bahia,16,2,2,Y0,*7,IV7,9,major,22.0
+GIL,38,Back in Bahia,17,9,9,Y0,*7,I,9,major,23.0
+GIL,38,Back in Bahia,18,4,4,Y0,*7,V,9,major,25.0
+GIL,38,Back in Bahia,19,2,2,Y0,*7,IV7,9,major,26.0
+GIL,38,Back in Bahia,20,9,9,Y0,*7,I,9,major,27.0
+GIL,38,Back in Bahia,21,4,4,Y0,*7,V,9,major,29.0
+GIL,38,Back in Bahia,22,2,2,Y0,*7,IV7,9,major,30.0
+GIL,38,Back in Bahia,23,9,9,Y0,*7,I,9,major,31.0
+GIL,39,Deixar voce,1,5,5,Z0,*M7,I,5,major,1.0
+GIL,39,Deixar voce,2,5,5,Y0,*7,V/IV,5,major,2.0
+GIL,39,Deixar voce,3,10,5,Z0,*M7,IV,5,major,3.0
+GIL,39,Deixar voce,4,3,3,Z3,*M7(#11),bVII7M,5,major,4.0
+GIL,39,Deixar voce,5,3,3,Y3,*7(#11),SubV/VI,5,major,4.5
+GIL,39,Deixar voce,6,2,2,z2,*m7.9,II__X,5,major,5.0
+GIL,39,Deixar voce,7,7,7,Y4,*7.13,V/V,5,major,5.5
+GIL,39,Deixar voce,8,0,0,z2,*m7.9,II__X,5,major,6.0
+GIL,39,Deixar voce,9,5,5,Y4,*7.13,V/IV,5,major,6.5
+GIL,39,Deixar voce,10,2,2,V0,*,VIM7,5,major,7.0
+GIL,39,Deixar voce,11,0,0,Y2.2.1,*7(b9)13,V,5,major,8.0
+GIL,39,Deixar voce,12,5,5,Z0,*M7,I,5,major,9.0
+GIL,39,Deixar voce,13,5,5,Y0,*7,V/IV,5,major,10.0
+GIL,39,Deixar voce,14,10,5,Z0,*M7,IV,5,major,11.0
+GIL,39,Deixar voce,15,5,3,Y0,*7,V/IV,5,major,12.0
+GIL,39,Deixar voce,16,10,1,z1,*m6,IVm7,5,major,12.5
+GIL,39,Deixar voce,17,5,0,V0,*,I,5,major,13.0
+GIL,39,Deixar voce,18,7,11,Y0,*7,V/V,5,major,13.5
+GIL,39,Deixar voce,19,10,10,V0,*,IV,5,major,14.0
+GIL,39,Deixar voce,20,10,10,z0,*m7,IVm7,5,major,14.5
+GIL,39,Deixar voce,21,5,5,V0,*,I,5,major,15.0
+GIL,39,Deixar voce,22,9,9,z0,*m7,III,5,major,15.5
+GIL,39,Deixar voce,23,2,2,v0,*m,I,2,minor,16.0
+GIL,39,Deixar voce,24,9,9,Y0,*7,V,2,minor,17.0
+GIL,39,Deixar voce,25,2,2,z2,*m7.9,I,2,minor,18.0
+GIL,39,Deixar voce,26,0,0,z2,*m7.9,II__X,2,minor,19.0
+GIL,39,Deixar voce,27,5,5,Y2.3,*7(b9),V/VI,2,minor,19.5
+GIL,39,Deixar voce,28,10,10,Z0,*M7,VI,2,minor,20.0
+GIL,39,Deixar voce,29,7,7,z0,*m7,II__X,2,minor,21.0
+GIL,39,Deixar voce,30,0,0,Y2,*7.9,V/III,2,minor,21.5
+GIL,39,Deixar voce,31,6,6,Y3,*7(#11),SubV/III,2,minor,22.0
+GIL,39,Deixar voce,32,5,5,Y3,*7(#11),SubV/II,2,minor,22.5
+GIL,39,Deixar voce,33,4,4,Y3,*7(#11),V/V,2,minor,23.0
+GIL,39,Deixar voce,34,3,3,Y3,*7(#11),SubV,2,minor,23.5
+GIL,39,Deixar voce,35,2,2,v0,*m,I,2,minor,24.0
+GIL,39,Deixar voce,36,9,9,Y0,*7,V,2,minor,25.0
+GIL,39,Deixar voce,37,2,2,z2,*m7.9,I,2,minor,26.0
+GIL,39,Deixar voce,38,0,0,z2,*m7.9,II__X,2,minor,27.0
+GIL,39,Deixar voce,39,5,5,Y2.3,*7(b9),V/VI,2,minor,27.5
+GIL,39,Deixar voce,40,10,10,Z0,*M7,VI,2,minor,28.0
+GIL,39,Deixar voce,41,7,7,z0,*m7,II,5,major,29.0
+GIL,39,Deixar voce,42,0,0,Y2,*7.9,V,5,major,29.5
+GIL,39,Deixar voce,43,7,7,z0,*m7,II,5,major,30.0
+GIL,39,Deixar voce,44,0,0,Y2,*7.9,V,5,major,30.5
+GIL,39,Deixar voce,45,5,5,Z0,*M7,I,5,major,31.0
+GIL,39,Deixar voce,46,5,5,Y0,*7,V/IV,5,major,32.0
+GIL,39,Deixar voce,47,10,10,Z0,*M7,IV,5,major,33.0
+GIL,39,Deixar voce,48,5,3,Y0,*7,V/IV,5,major,34.0
+GIL,39,Deixar voce,49,10,1,z1,*m6,IVm7,5,major,34.5
+GIL,39,Deixar voce,50,5,0,V0,*,I,5,major,35.0
+GIL,39,Deixar voce,51,7,11,Y0,*7,V/V,5,major,35.5
+GIL,39,Deixar voce,52,10,10,V0,*,IV,5,major,36.0
+GIL,39,Deixar voce,53,10,10,z0,*m7,IVm7,5,major,36.5
+GIL,39,Deixar voce,54,5,5,V0,*,I,5,major,37.0
+GIL,40,Domingo no parque,1,0,0,V0,*,I,0,major,1.0
+GIL,40,Domingo no parque,2,10,10,V0,*,bVII7M,0,major,1.5
+GIL,40,Domingo no parque,3,0,0,V0,*,I,0,major,2.0
+GIL,40,Domingo no parque,4,10,10,V0,*,bVII7M,0,major,2.5
+GIL,40,Domingo no parque,5,0,0,V0,*,I,0,major,3.0
+GIL,40,Domingo no parque,6,10,10,V0,*,bVII7M,0,major,3.5
+GIL,40,Domingo no parque,7,0,0,V0,*,I,0,major,4.0
+GIL,40,Domingo no parque,8,10,10,V0,*,bVII7M,0,major,4.5
+GIL,40,Domingo no parque,9,0,0,V0,*,I,0,major,5.0
+GIL,40,Domingo no parque,10,10,10,V0,*,bVII7M,0,major,5.5
+GIL,40,Domingo no parque,11,0,0,V0,*,I,0,major,6.0
+GIL,40,Domingo no parque,12,10,10,V0,*,bVII7M,0,major,6.5
+GIL,40,Domingo no parque,13,0,0,V0,*,I,0,major,7.0
+GIL,40,Domingo no parque,14,10,10,V0,*,bVII7M,0,major,7.5
+GIL,40,Domingo no parque,15,0,0,V0,*,I,0,major,8.0
+GIL,40,Domingo no parque,16,10,10,V0,*,bVII7M,0,major,8.5
+GIL,40,Domingo no parque,17,0,0,V0,*,I,0,major,9.0
+GIL,40,Domingo no parque,18,10,10,V0,*,bVII7M,0,major,9.5
+GIL,40,Domingo no parque,19,5,5,V0,*,IV,0,major,10.0
+GIL,40,Domingo no parque,20,7,7,V0,*,V,0,major,10.5
+GIL,40,Domingo no parque,21,0,0,V0,*,I,0,major,11.0
+GIL,40,Domingo no parque,22,6,6,y0,*Ø,II__X,0,major,12.0
+GIL,40,Domingo no parque,23,11,11,Y0,*7,V/III,0,major,12.5
+GIL,40,Domingo no parque,24,4,4,z0,*m7,II__X,0,major,13.0
+GIL,40,Domingo no parque,25,9,9,Y0,*7,V/II,0,major,13.5
+GIL,40,Domingo no parque,26,2,2,z0,*m7,II,0,major,14.0
+GIL,40,Domingo no parque,27,7,7,Y0,*7,V,0,major,14.5
+GIL,40,Domingo no parque,28,0,0,V0,*,I,0,major,15.0
+GIL,40,Domingo no parque,29,6,6,y0,*Ø,II__X,0,major,16.0
+GIL,40,Domingo no parque,30,11,11,Y0,*7,V/III,0,major,16.5
+GIL,40,Domingo no parque,31,4,4,z0,*m7,II__X,0,major,17.0
+GIL,40,Domingo no parque,32,9,9,Y0,*7,V/II,0,major,17.5
+GIL,40,Domingo no parque,33,2,2,z0,*m7,II,0,major,18.0
+GIL,40,Domingo no parque,34,7,7,Y0,*7,V,0,major,19.0
+GIL,40,Domingo no parque,35,0,0,V0,*,I,0,major,20.0
+GIL,40,Domingo no parque,36,10,10,V0,*,bVII7M,0,major,21.0
+GIL,40,Domingo no parque,37,9,9,z0,*m7,VI,0,major,22.0
+GIL,40,Domingo no parque,38,7,7,Y1.1,*4.7.9,V,0,major,23.0
+GIL,40,Domingo no parque,39,0,0,V0,*,I,0,major,24.0
+GIL,40,Domingo no parque,40,10,10,V0,*,bVII7M,0,major,24.5
+GIL,40,Domingo no parque,41,0,0,V0,*,I,0,major,25.0
+GIL,40,Domingo no parque,42,10,10,V0,*,bVII7M,0,major,25.5
+GIL,40,Domingo no parque,43,0,0,V0,*,I,0,major,26.0
+GIL,40,Domingo no parque,44,10,10,V0,*,bVII7M,0,major,26.5
+GIL,40,Domingo no parque,45,9,9,Y0,*7,V,2,major,27.0
+GIL,40,Domingo no parque,46,2,2,V0,*,I,2,major,28.0
+GIL,40,Domingo no parque,47,9,9,V0,*,V,2,major,30.0
+GIL,40,Domingo no parque,48,7,7,V0,*,IV,2,major,31.0
+GIL,40,Domingo no parque,49,2,2,V0,*,I,2,major,32.0
+GIL,40,Domingo no parque,50,9,9,V0,*,V,2,major,33.0
+GIL,40,Domingo no parque,51,7,7,V0,*,IV,2,major,34.0
+GIL,40,Domingo no parque,52,9,9,V0,*,V,2,major,35.0
+GIL,40,Domingo no parque,53,0,0,V0,*,I,0,major,36.0
+GIL,40,Domingo no parque,54,5,5,V0,*,IV,0,major,37.0
+GIL,40,Domingo no parque,55,4,4,v0,*m,III,0,major,38.0
+GIL,40,Domingo no parque,56,9,9,V0,*,V/V,7,major,41.0
+GIL,40,Domingo no parque,57,7,7,V0,*,I,7,major,42.0
+GIL,40,Domingo no parque,58,5,5,V0,*,bVII7M,7,major,42.5
+GIL,40,Domingo no parque,59,7,7,V0,*,I,7,major,43.0
+GIL,40,Domingo no parque,60,5,5,V0,*,bVII7M,7,major,43.5
+GIL,40,Domingo no parque,61,7,7,V0,*,I,7,major,44.0
+GIL,40,Domingo no parque,62,5,5,V0,*,bVII7M,7,major,44.5
+GIL,40,Domingo no parque,63,7,7,V0,*,I,7,major,45.0
+GIL,40,Domingo no parque,64,5,5,V0,*,bVII7M,7,major,45.5
+GIL,40,Domingo no parque,65,8,8,V0,*,I,8,major,46.0
+GIL,40,Domingo no parque,66,6,6,V0,*,bVII7M,8,major,46.5
+GIL,40,Domingo no parque,67,8,8,V0,*,I,8,major,47.0
+GIL,40,Domingo no parque,68,6,6,V0,*,bVII7M,8,major,47.5
+GIL,40,Domingo no parque,69,8,8,V0,*,I,8,major,48.0
+GIL,40,Domingo no parque,70,6,6,V0,*,bVII7M,8,major,48.5
+GIL,40,Domingo no parque,71,8,8,V0,*,I,8,major,49.0
+GIL,40,Domingo no parque,72,2,2,Y2.4,*7(#9),?,8,major,50.0
+GIL,40,Domingo no parque,73,5,5,V0,*,I,5,major,51.0
+GIL,40,Domingo no parque,74,3,3,V0,*,I,5,major,51.5
+GIL,41,Expresso 2222,1,0,0,V0,*,I,0,major,1.0
+GIL,41,Expresso 2222,2,10,10,V0,*,bVII7M,0,major,2.0
+GIL,41,Expresso 2222,3,5,5,V0,*,IV,0,major,3.0
+GIL,41,Expresso 2222,4,0,0,V0,*,I,0,major,4.0
+GIL,41,Expresso 2222,5,4,4,z0,*m7,III,0,major,6.0
+GIL,41,Expresso 2222,6,2,2,z0,*m7,II,0,major,7.0
+GIL,41,Expresso 2222,7,7,7,Y0,*7,V,0,major,7.5
+GIL,41,Expresso 2222,8,0,0,V0,*,I,0,major,8.0
+GIL,41,Expresso 2222,9,10,10,V0,*,bVII7M,0,major,10.0
+GIL,41,Expresso 2222,10,5,5,V0,*,IV,0,major,11.0
+GIL,41,Expresso 2222,11,0,0,V0,*,I,0,major,12.0
+GIL,41,Expresso 2222,12,10,10,V0,*,bVII7M,0,major,14.0
+GIL,41,Expresso 2222,13,5,5,V0,*,IV,0,major,15.0
+GIL,41,Expresso 2222,14,0,0,V0,*,I,0,major,16.0
+GIL,41,Expresso 2222,15,7,7,Y0,*7,V,0,major,18.0
+GIL,41,Expresso 2222,16,0,0,V0,*,I,0,major,20.0
+GIL,41,Expresso 2222,17,7,7,Y0,*7,V,0,major,22.0
+GIL,41,Expresso 2222,18,0,0,V0,*,I,0,major,24.0
+GIL,41,Expresso 2222,19,7,5,Y0,*7,V,0,major,26.0
+GIL,41,Expresso 2222,20,4,4,z0,*m7,III,0,major,28.0
+GIL,41,Expresso 2222,21,9,9,z0,*m7,VI,0,major,29.0
+GIL,41,Expresso 2222,22,2,2,z0,*m7,II,0,major,30.0
+GIL,41,Expresso 2222,23,7,7,Y0,*7,V,0,major,30.5
+GIL,41,Expresso 2222,24,2,2,z0,*m7,II,0,major,31.0
+GIL,41,Expresso 2222,25,7,7,Y0,*7,V,0,major,31.5
+GIL,41,Expresso 2222,26,0,0,V0,*,I,0,major,32.0
+GIL,42,Luar,1,2,2,z0,*m7,I,2,minor,1.0
+GIL,42,Luar,2,2,2,Y1.1,*4.7.9,V/IV,2,minor,3.0
+GIL,42,Luar,3,2,2,z0,*m7,I,2,minor,5.0
+GIL,42,Luar,4,2,2,Y1.1,*4.7.9,V/IV,2,minor,7.0
+GIL,42,Luar,5,5,5,V0,*,III,2,minor,9.0
+GIL,42,Luar,6,7,2,V0,*,IV,2,major,11.0
+GIL,42,Luar,7,2,2,V0,*,I,2,major,13.0
+GIL,42,Luar,8,4,2,Y0,*7,V/V,2,major,16.0
+GIL,42,Luar,9,7,7,V2,*9,IV,2,major,18.0
+GIL,42,Luar,10,2,2,Y1.1,*4.7.9,V,7,major,20.0
+GIL,42,Luar,11,7,7,V2,*9,I,7,major,22.0
+GIL,42,Luar,12,2,2,Y1.1,*4.7.9,V,7,major,24.0
+GIL,42,Luar,13,7,7,V2,*9,I,7,major,27.0
+GIL,42,Luar,14,7,2,V0,*,I,7,major,27.5
+GIL,42,Luar,15,7,2,v0,*m,IV,2,minor,28.0
+GIL,42,Luar,16,2,2,z0,*m7,I,2,minor,31.0
+GIL,43,Lovacao,1,9,9,V0,*,I,9,major,1.0
+GIL,43,Lovacao,2,2,2,V0,*,IV,9,major,2.5
+GIL,43,Lovacao,3,7,7,V0,*,bVII7M,9,major,3.0
+GIL,43,Lovacao,4,9,9,V0,*,I,9,major,4.0
+GIL,43,Lovacao,5,2,2,V0,*,IV,9,major,7.0
+GIL,43,Lovacao,6,4,4,V0,*,V,9,major,8.0
+GIL,43,Lovacao,7,2,2,V0,*,IV,9,major,10.5
+GIL,43,Lovacao,8,7,7,V0,*,bVII7M,9,major,11.0
+GIL,43,Lovacao,9,9,9,V0,*,I,9,major,12.0
+GIL,43,Lovacao,10,4,4,Y0,*7,V,9,major,14.0
+GIL,43,Lovacao,11,9,9,Z1,*6,I,9,major,15.0
+GIL,43,Lovacao,12,1,8,Y0,*7,V/VI,9,major,15.5
+GIL,43,Lovacao,13,6,6,z0,*m7,II__X,9,major,16.0
+GIL,43,Lovacao,14,11,11,Y2,*7.9,V/V,9,major,17.0
+GIL,43,Lovacao,15,6,6,z0,*m7,II__X,9,major,18.0
+GIL,43,Lovacao,16,11,11,Y4,*7.13,V/V,9,major,19.0
+GIL,43,Lovacao,17,4,4,Y2,*7.9,V,9,major,19.5
+GIL,43,Lovacao,18,9,9,Z1,*6,I,9,major,20.0
+GIL,43,Lovacao,19,11,11,Y4,*7.13,V/V,9,major,21.0
+GIL,43,Lovacao,20,6,6,z0,*m7,II__X,9,major,22.0
+GIL,43,Lovacao,21,11,11,Y4,*7.13,V/V,9,major,22.5
+GIL,43,Lovacao,22,4,4,z2,*m7.9,II__X,9,major,23.0
+GIL,43,Lovacao,23,9,9,Y4,*7.13,V/IV,9,major,23.5
+GIL,43,Lovacao,24,2,2,Z0,*M7,IV,9,major,24.0
+GIL,43,Lovacao,25,4,4,z2,*m7.9,II__X,9,major,25.0
+GIL,43,Lovacao,26,9,9,Y4,*7.13,V/IV,9,major,25.5
+GIL,43,Lovacao,27,2,2,Z1.1,*6.9,IV,9,major,26.0
+GIL,43,Lovacao,28,9,9,z2,*m7.9,II__X,9,major,27.0
+GIL,43,Lovacao,29,2,2,Y2.3,*7(b9),V/bVII,9,major,27.5
+GIL,43,Lovacao,30,7,7,Z0,*M7,bVII7M,9,major,28.0
+GIL,43,Lovacao,31,4,4,Y2,*7.9,V,9,major,29.0
+GIL,43,Lovacao,32,1,1,z0,*m7,III,9,major,30.0
+GIL,43,Lovacao,33,6,6,z0,*m7,VI,9,major,30.5
+GIL,43,Lovacao,34,11,11,z3,*m7.11,II,9,major,31.0
+GIL,43,Lovacao,35,4,4,Y0,*7,V,9,major,31.5
+GIL,43,Lovacao,36,9,9,V0,*,I,9,major,32.0
+GIL,43,Lovacao,37,7,7,Y0,*7,IV7,2,major,33.0
+GIL,43,Lovacao,38,0,0,Y2.1,*7.9(#11),bVII7,2,major,33.5
+GIL,43,Lovacao,39,6,6,z0,*m7,II__X,2,major,34.0
+GIL,43,Lovacao,40,11,11,Y2.3,*7(b9),V/II,2,major,34.5
+GIL,43,Lovacao,41,4,4,Y2,*7.9,V/V,2,major,35.0
+GIL,43,Lovacao,42,9,9,Y0,*7,V,2,major,35.5
+GIL,43,Lovacao,43,2,2,Z1,*6,I,2,major,36.0
+GIL,43,Lovacao,44,9,9,z0,*m7,II__X,2,major,37.0
+GIL,43,Lovacao,45,2,2,Y2,*7.9,V/IV,2,major,37.5
+GIL,43,Lovacao,46,7,7,Z0,*M7,IV,2,major,38.0
+GIL,43,Lovacao,47,11,11,z0,*m7,II,9,major,39.0
+GIL,43,Lovacao,48,4,4,Y2,*7.9,V,9,major,39.5
+GIL,43,Lovacao,49,9,9,Z0,*M7,I,9,major,40.0
+GIL,43,Lovacao,50,0,0,z3,*m7.11,II,10,major,41.0
+GIL,43,Lovacao,51,5,5,Y0,*7,V,10,major,41.5
+GIL,43,Lovacao,52,10,10,V0,*,I,10,major,42.0
+GIL,43,Lovacao,53,10,10,z3,*m7.11,II,8,major,43.0
+GIL,43,Lovacao,54,3,3,Y2,*7.9,V,8,major,43.5
+GIL,43,Lovacao,55,8,8,Z1,*6,I,8,major,44.0
+GIL,43,Lovacao,56,8,8,z0,*m7,II,6,major,45.0
+GIL,43,Lovacao,57,1,1,Y2,*7.9,V,6,major,45.5
+GIL,43,Lovacao,58,6,6,Z1,*6,I,6,major,46.0
+GIL,43,Lovacao,59,9,9,Y4,*7.13,V/IV,9,major,47.0
+GIL,43,Lovacao,60,2,2,Y2,*7.9,V/bVII,9,major,47.5
+GIL,43,Lovacao,61,7,7,V0,*,bVII7M,9,major,48.0
+GIL,43,Lovacao,62,4,4,Y0,*7,V,9,major,49.0
+GIL,43,Lovacao,63,9,9,V0,*,I,9,major,50.0
+GIL,44,Meio de campo,1,11,11,Y0,*7,V/II,2,major,1.0
+GIL,44,Meio de campo,2,4,4,Y0,*7,V/V,2,major,2.0
+GIL,44,Meio de campo,3,9,9,Y0,*7,V,2,major,3.0
+GIL,44,Meio de campo,4,2,2,Y0,*7,V/IV,2,major,4.0
+GIL,44,Meio de campo,5,7,7,Y0,*7,IV7,2,major,4.5
+GIL,44,Meio de campo,6,6,6,Y0,*7,V/VI,2,major,5.0
+GIL,44,Meio de campo,7,11,11,z0,*m7,II__X,2,major,6.0
+GIL,44,Meio de campo,8,4,4,Y0,*7,V/V,2,major,7.0
+GIL,44,Meio de campo,9,9,9,Y1.1,*4.7.9,V,2,major,8.0
+GIL,44,Meio de campo,10,6,6,z0,*m7,II__X,2,major,9.0
+GIL,44,Meio de campo,11,11,11,Y0,*7,V/II,2,major,9.5
+GIL,44,Meio de campo,12,4,4,Y0,*7,V/V,2,major,10.0
+GIL,44,Meio de campo,13,9,9,Y0,*7,V,2,major,11.0
+GIL,44,Meio de campo,14,2,2,Z1.1,*6.9,I,2,major,12.0
+GIL,44,Meio de campo,15,11,11,Y0,*7,V/II,2,major,13.0
+GIL,44,Meio de campo,16,4,4,Y0,*7,V/V,2,major,14.0
+GIL,44,Meio de campo,17,9,9,Y0,*7,V,2,major,15.0
+GIL,44,Meio de campo,18,2,2,Z1.1,*6.9,I,2,major,16.0
+GIL,45,Retiros espirituais,1,9,9,Y0,*7,V/IV,9,major,1.0
+GIL,45,Retiros espirituais,2,2,2,Z2,*M7.9,IV,9,major,3.0
+GIL,45,Retiros espirituais,3,4,4,Y0,*7,V,9,major,4.0
+GIL,45,Retiros espirituais,4,5,5,x0,*°7,V°/VI,9,major,4.5
+GIL,45,Retiros espirituais,5,6,6,w1,*mM7.9,VI,9,major,5.0
+GIL,45,Retiros espirituais,6,6,6,z2,*m7.9,II__X,9,major,5.5
+GIL,45,Retiros espirituais,7,11,11,Y2.1,*7.9(#11),V/V,9,major,6.0
+GIL,45,Retiros espirituais,8,4,4,w1,*mM7.9,II__X,9,major,7.0
+GIL,45,Retiros espirituais,9,9,9,Y2,*7.9,V/IV,9,major,8.0
+GIL,45,Retiros espirituais,10,2,2,Z5,*6.M7,IV,9,major,9.0
+GIL,45,Retiros espirituais,11,4,2,Y0,*7,V,9,major,10.0
+GIL,45,Retiros espirituais,12,1,1,z0,*m7,III,9,major,11.0
+GIL,45,Retiros espirituais,13,6,6,z0,*m7,II__X,9,major,12.0
+GIL,45,Retiros espirituais,14,11,11,Y2,*7.9,V/V,9,major,13.0
+GIL,45,Retiros espirituais,15,4,4,Y0,*7,V,9,major,15.0
+GIL,45,Retiros espirituais,16,2,6,V0,*,IV,9,major,16.25
+GIL,45,Retiros espirituais,17,7,7,z1,*m6,bVIIm7,9,major,16.5
+GIL,45,Retiros espirituais,18,4,8,V0,*,V,9,major,16.75
+GIL,45,Retiros espirituais,19,9,9,Y2,*7.9,V/IV,9,major,17.0
+GIL,45,Retiros espirituais,20,2,2,Z5,*6.M7,IV,9,major,18.0
+GIL,45,Retiros espirituais,21,9,9,Y2,*7.9,V/IV,9,major,19.0
+GIL,45,Retiros espirituais,22,4,4,Y0,*7,V,9,major,20.0
+GIL,45,Retiros espirituais,23,9,9,Y2,*7.9,V/IV,9,major,21.0
+GIL,45,Retiros espirituais,24,2,2,Z2,*M7.9,IV,9,major,23.0
+GIL,45,Retiros espirituais,25,1,1,Y2.4,*7(#9),V/VI,9,major,24.0
+GIL,45,Retiros espirituais,26,1,1,Y2.3,*7(b9),V/VI,9,major,24.5
+GIL,45,Retiros espirituais,27,6,6,z0,*m7,II__X,9,major,25.0
+GIL,45,Retiros espirituais,28,11,11,Y2,*7.9,V/V,9,major,27.0
+GIL,45,Retiros espirituais,29,4,4,Y2,*7.9,V,9,major,28.0
+GIL,45,Retiros espirituais,30,8,8,Y2.4,*7(#9),aSubV,9,major,29.0
+GIL,45,Retiros espirituais,31,9,9,Y2,*7.9,V/IV,9,major,31.0
+GIL,45,Retiros espirituais,32,4,4,Y2,*7.9,V,9,major,32.0
+GIL,46,Sarara miolo,1,7,7,V0,*,I,7,major,1.0
+GIL,46,Sarara miolo,2,5,5,V0,*,bVII7M,7,major,1.5
+GIL,46,Sarara miolo,3,0,0,V0,*,IV,7,major,1.75
+GIL,46,Sarara miolo,4,7,7,V0,*,I,7,major,2.0
+GIL,46,Sarara miolo,5,5,5,V0,*,bVII7M,7,major,2.5
+GIL,46,Sarara miolo,6,0,0,V0,*,IV,7,major,2.75
+GIL,46,Sarara miolo,7,7,7,V0,*,I,7,major,3.0
+GIL,46,Sarara miolo,8,5,5,V0,*,bVII7M,7,major,3.5
+GIL,46,Sarara miolo,9,0,0,V0,*,IV,7,major,3.75
+GIL,46,Sarara miolo,10,7,7,V0,*,I,7,major,4.0
+GIL,46,Sarara miolo,11,5,5,V0,*,bVII7M,7,major,4.5
+GIL,46,Sarara miolo,12,0,0,V0,*,IV,7,major,4.75
+GIL,46,Sarara miolo,13,7,7,V0,*,I,7,major,5.0
+GIL,46,Sarara miolo,14,5,5,V0,*,bVII7M,7,major,5.5
+GIL,46,Sarara miolo,15,0,0,V0,*,IV,7,major,5.75
+GIL,46,Sarara miolo,16,7,7,V0,*,I,7,major,6.0
+GIL,46,Sarara miolo,17,5,5,V0,*,bVII7M,7,major,6.5
+GIL,46,Sarara miolo,18,0,0,V0,*,IV,7,major,6.75
+GIL,46,Sarara miolo,19,7,7,V0,*,I,7,major,7.0
+GIL,46,Sarara miolo,20,5,5,V0,*,bVII7M,7,major,7.5
+GIL,46,Sarara miolo,21,0,0,V0,*,IV,7,major,7.75
+GIL,46,Sarara miolo,22,7,7,V0,*,I,7,major,8.0
+GIL,46,Sarara miolo,23,5,5,V0,*,bVII7M,7,major,8.5
+GIL,46,Sarara miolo,24,0,0,V0,*,IV,7,major,8.75
+GIL,46,Sarara miolo,25,4,4,V0,*,I,4,major,9.0
+GIL,46,Sarara miolo,26,9,4,V0,*,IV,4,major,9.5
+GIL,46,Sarara miolo,27,4,4,V0,*,I,4,major,10.0
+GIL,46,Sarara miolo,28,9,4,V0,*,IV,4,major,10.5
+GIL,46,Sarara miolo,29,4,4,V0,*,I,4,major,11.0
+GIL,46,Sarara miolo,30,9,4,V0,*,IV,4,major,11.5
+GIL,46,Sarara miolo,31,4,4,V0,*,I,4,major,12.0
+GIL,46,Sarara miolo,32,9,4,V0,*,IV,4,major,12.5
+GIL,46,Sarara miolo,33,4,4,V0,*,I,4,major,13.0
+GIL,46,Sarara miolo,34,9,4,V0,*,IV,4,major,13.5
+GIL,46,Sarara miolo,35,4,4,V0,*,I,4,major,14.0
+GIL,46,Sarara miolo,36,9,4,V0,*,IV,4,major,14.5
+GIL,46,Sarara miolo,37,4,4,V0,*,I,4,major,15.0
+GIL,46,Sarara miolo,38,9,4,V0,*,IV,4,major,15.5
+GIL,46,Sarara miolo,39,4,4,V0,*,I,4,major,16.0
+GIL,46,Sarara miolo,40,9,4,V0,*,IV,4,major,16.5
+GIL,46,Sarara miolo,41,7,7,V0,*,I,7,major,17.0
+GIL,47,Soy loco por ti America,1,3,3,V0,*,I,3,major,1.0
+GIL,47,Soy loco por ti America,2,5,5,z0,*m7,II,3,major,2.0
+GIL,47,Soy loco por ti America,3,10,10,Y0,*7,V,3,major,2.5
+GIL,47,Soy loco por ti America,4,5,5,z0,*m7,II,3,major,3.0
+GIL,47,Soy loco por ti America,5,10,10,Y0,*7,V,3,major,3.5
+GIL,47,Soy loco por ti America,6,3,3,V0,*,I,3,major,4.0
+GIL,47,Soy loco por ti America,7,5,5,z0,*m7,II,3,major,6.0
+GIL,47,Soy loco por ti America,8,10,10,Y0,*7,V,3,major,6.5
+GIL,47,Soy loco por ti America,9,5,5,z0,*m7,II,3,major,7.0
+GIL,47,Soy loco por ti America,10,10,10,Y0,*7,V,3,major,7.5
+GIL,47,Soy loco por ti America,11,3,3,V0,*,I,3,major,8.0
+GIL,47,Soy loco por ti America,12,5,5,z0,*m7,II,3,major,10.0
+GIL,47,Soy loco por ti America,13,10,10,Y0,*7,V,3,major,10.5
+GIL,47,Soy loco por ti America,14,5,5,z0,*m7,II,3,major,11.0
+GIL,47,Soy loco por ti America,15,10,10,Y0,*7,V,3,major,11.5
+GIL,47,Soy loco por ti America,16,3,3,V0,*,I,3,major,12.0
+GIL,47,Soy loco por ti America,17,5,5,z0,*m7,II,3,major,14.0
+GIL,47,Soy loco por ti America,18,10,10,Y0,*7,V,3,major,14.5
+GIL,47,Soy loco por ti America,19,8,8,V0,*,IV,3,major,15.0
+GIL,47,Soy loco por ti America,20,10,10,Y0,*7,V,3,major,15.5
+GIL,47,Soy loco por ti America,21,3,3,V0,*,I,3,major,16.0
+GIL,47,Soy loco por ti America,22,8,8,V0,*,IV,3,major,17.0
+GIL,47,Soy loco por ti America,23,10,10,Y0,*7,V,3,major,17.5
+GIL,47,Soy loco por ti America,24,3,3,V0,*,I,3,major,18.0
+GIL,47,Soy loco por ti America,25,5,5,z0,*m7,II,3,major,20.0
+GIL,47,Soy loco por ti America,26,10,10,Y0,*7,V,3,major,20.5
+GIL,47,Soy loco por ti America,27,5,5,z0,*m7,II,3,major,21.0
+GIL,47,Soy loco por ti America,28,10,10,Y0,*7,V,3,major,21.5
+GIL,47,Soy loco por ti America,29,3,3,V0,*,I,3,major,22.0
+GIL,47,Soy loco por ti America,30,5,5,z0,*m7,II,3,major,24.0
+GIL,47,Soy loco por ti America,31,10,10,Y0,*7,V,3,major,24.5
+GIL,47,Soy loco por ti America,32,8,8,V0,*,IV,3,major,25.0
+GIL,47,Soy loco por ti America,33,10,10,Y0,*7,V,3,major,25.5
+GIL,47,Soy loco por ti America,34,3,3,V0,*,I,3,major,26.0
+GIL,48,Super-homem,1,9,9,Z0,*M7,I,9,major,1.0
+GIL,48,Super-homem,2,9,9,x0,*°7,I°,9,major,2.0
+GIL,48,Super-homem,3,9,9,Z0,*M7,I,9,major,3.0
+GIL,48,Super-homem,4,9,9,x0,*°7,I°,9,major,4.0
+GIL,48,Super-homem,5,8,8,z0,*m7,II__X,9,major,5.0
+GIL,48,Super-homem,6,1,1,Y2.3,*7(b9),V/VI,9,major,6.0
+GIL,48,Super-homem,7,6,6,Z0,*M7,VIM7,9,major,7.0
+GIL,48,Super-homem,8,11,11,z0,*m7,II,9,major,8.0
+GIL,48,Super-homem,9,4,4,Y2.4,*7(#9),V,9,major,8.5
+GIL,48,Super-homem,10,9,9,Z0,*M7,I,9,major,9.0
+GIL,48,Super-homem,11,9,9,x0,*°7,I°,9,major,10.0
+GIL,48,Super-homem,12,9,9,Z0,*M7,I,9,major,11.0
+GIL,48,Super-homem,13,9,9,x0,*°7,I°,9,major,12.0
+GIL,48,Super-homem,14,8,8,z0,*m7,II__X,9,major,13.0
+GIL,48,Super-homem,15,1,1,Y2.3,*7(b9),V/VI,9,major,14.0
+GIL,48,Super-homem,16,6,6,Z0,*M7,VIM7,9,major,15.0
+GIL,48,Super-homem,17,4,4,z2,*m7.9,II__X,9,major,16.0
+GIL,48,Super-homem,18,9,9,Y4,*7.13,V/IV,9,major,16.5
+GIL,48,Super-homem,19,2,2,Z0,*M7,IV,9,major,17.0
+GIL,48,Super-homem,20,3,3,x0,*°7,V°/III,9,major,18.0
+GIL,48,Super-homem,21,1,1,z0,*m7,II__X,9,major,19.0
+GIL,48,Super-homem,22,6,6,Y2.3,*7(b9),V/II,9,major,20.0
+GIL,48,Super-homem,23,11,11,z2,*m7.9,II,9,major,21.0
+GIL,48,Super-homem,24,1,1,z2,*m7.9,II__X,9,major,22.0
+GIL,48,Super-homem,25,6,6,Y0,*7,V/II,9,major,22.5
+GIL,48,Super-homem,26,11,11,Y2,*7.9,V/V,9,major,23.0
+GIL,48,Super-homem,27,11,11,z2,*m7.9,II,9,major,24.0
+GIL,48,Super-homem,28,4,4,Y2.3,*7(b9),V,9,major,24.5
+GIL,48,Super-homem,29,9,9,Z0,*M7,I,9,major,25.0
+GIL,48,Super-homem,30,9,9,x0,*°7,I°,9,major,26.0
+GIL,48,Super-homem,31,9,9,Z0,*M7,I,9,major,27.0
+GIL,48,Super-homem,32,9,9,x0,*°7,I°,9,major,28.0
+GIL,48,Super-homem,33,11,11,z0,*m7,II,9,major,29.0
+GIL,48,Super-homem,34,4,4,Y2,*7.9,V,9,major,30.0
+GIL,48,Super-homem,35,9,9,Z0,*M7,I,9,major,31.0
+GIL,49,Toda menina baiana,1,6,6,z0,*m7,III,2,major,1.0
+GIL,49,Toda menina baiana,2,4,4,z0,*m7,II,2,major,2.0
+GIL,49,Toda menina baiana,3,6,6,z0,*m7,III,2,major,3.0
+GIL,49,Toda menina baiana,4,4,4,z0,*m7,II,2,major,4.0
+GIL,49,Toda menina baiana,5,6,6,z0,*m7,III,2,major,5.0
+GIL,49,Toda menina baiana,6,4,4,z0,*m7,II,2,major,6.0
+GIL,49,Toda menina baiana,7,6,6,z0,*m7,III,2,major,7.0
+GIL,49,Toda menina baiana,8,4,4,z0,*m7,II,2,major,8.0
+GIL,49,Toda menina baiana,9,2,2,V0,*,I,2,major,9.0
+GIL,49,Toda menina baiana,10,4,2,Y0,*7,V/V,2,major,13.0
+GIL,49,Toda menina baiana,11,7,2,V0,*,IV,2,major,17.0
+GIL,49,Toda menina baiana,12,2,2,Y1.1,*4.7.9,I,2,major,21.0
+GIL,49,Toda menina baiana,13,11,2,v0,*m,VI,2,major,23.0
+GIL,49,Toda menina baiana,14,2,2,Y1.1,*4.7.9,I,2,major,25.0
+GIL,49,Toda menina baiana,15,11,2,v0,*m,VI,2,major,27.0
+GIL,49,Toda menina baiana,16,2,2,Y1.1,*4.7.9,I,2,major,29.0
+GIL,49,Toda menina baiana,17,11,2,v0,*m,VI,2,major,31.0
+GIL,49,Toda menina baiana,18,7,2,V0,*,IV,2,major,33.0
+GIL,49,Toda menina baiana,19,6,6,z0,*m7,III,2,major,37.0
+GIL,49,Toda menina baiana,20,4,4,z0,*m7,II,2,major,38.0
+GIL,49,Toda menina baiana,21,6,6,z0,*m7,III,2,major,39.0
+GIL,49,Toda menina baiana,22,4,4,z0,*m7,II,2,major,40.0
+GIL,50,Vamos fugir,1,9,9,V0,*,I,9,major,1.0
+GIL,50,Vamos fugir,2,4,4,V0,*,V,9,major,3.0
+GIL,50,Vamos fugir,3,6,6,v0,*m,VI,9,major,5.0
+GIL,50,Vamos fugir,4,2,2,V0,*,IV,9,major,7.0
+GIL,50,Vamos fugir,5,4,4,V0,*,V,9,major,8.0
+GIL,50,Vamos fugir,6,6,6,v0,*m,VI,9,major,9.0
+GIL,50,Vamos fugir,7,9,9,V0,*,I,9,major,11.0
+GIL,50,Vamos fugir,8,4,4,V0,*,V,9,major,12.0
+GIL,50,Vamos fugir,9,2,2,V0,*,IV,9,major,13.0
+GIL,50,Vamos fugir,10,9,9,V0,*,I,9,major,15.0
+GIL,50,Vamos fugir,11,4,4,V0,*,V,9,major,16.0
+GIL,50,Vamos fugir,12,2,2,V0,*,IV,9,major,17.0
+GIL,50,Vamos fugir,13,9,9,V0,*,I,9,major,19.0
+GIL,50,Vamos fugir,14,4,4,V0,*,V,9,major,20.0
+GIL,50,Vamos fugir,15,2,2,V0,*,IV,9,major,21.0
+GIL,50,Vamos fugir,16,9,9,V0,*,I,9,major,23.0
+GIL,50,Vamos fugir,17,4,4,V0,*,V,9,major,24.0
+GIL,50,Vamos fugir,18,2,2,V0,*,IV,9,major,25.0

@@ -1,0 +1,1961 @@
+corpus_id,composition_id,composition_name,mode,note_index,scale_degree,note_function
+CHICO,1,A banda,major,1,1,1
+CHICO,1,A banda,major,2,7,x
+CHICO,1,A banda,major,3,6,x
+CHICO,1,A banda,major,4,5,1
+CHICO,1,A banda,major,5,7,3
+CHICO,1,A banda,major,6,6,x
+CHICO,1,A banda,major,7,5,1
+CHICO,1,A banda,major,8,5,3
+CHICO,1,A banda,major,9,3,1
+CHICO,1,A banda,major,10,2,x
+CHICO,1,A banda,major,11,#1/b2,3
+CHICO,1,A banda,major,12,2,x
+CHICO,1,A banda,major,13,3,5
+CHICO,1,A banda,major,14,2,1
+CHICO,1,A banda,major,15,1,x
+CHICO,1,A banda,major,16,7,3
+CHICO,1,A banda,major,17,1,x
+CHICO,1,A banda,major,18,2,5
+CHICO,1,A banda,major,19,1,1
+CHICO,1,A banda,major,20,7,x
+CHICO,1,A banda,major,21,6,x
+CHICO,1,A banda,major,22,5,5
+CHICO,1,A banda,major,23,7,3
+CHICO,1,A banda,major,24,6,x
+CHICO,1,A banda,major,25,5,1
+CHICO,1,A banda,major,26,5,3
+CHICO,1,A banda,major,27,3,1
+CHICO,1,A banda,major,28,2,x
+CHICO,1,A banda,major,29,#1/b2,3
+CHICO,1,A banda,major,30,2,x
+CHICO,1,A banda,major,31,3,5
+CHICO,1,A banda,major,32,2,1
+CHICO,1,A banda,major,33,1,x
+CHICO,1,A banda,major,34,7,3
+CHICO,1,A banda,major,35,1,x
+CHICO,1,A banda,major,36,2,5
+CHICO,1,A banda,major,37,1,1
+CHICO,1,A banda,major,38,5,5
+CHICO,1,A banda,major,39,1,1
+CHICO,1,A banda,major,40,2,x
+CHICO,1,A banda,major,41,3,3
+CHICO,1,A banda,major,42,2,x
+CHICO,1,A banda,major,43,1,1
+CHICO,1,A banda,major,44,3,13
+CHICO,1,A banda,major,45,2,5
+CHICO,1,A banda,major,46,3,x
+CHICO,1,A banda,major,47,4,x
+CHICO,1,A banda,major,48,5,1
+CHICO,1,A banda,major,49,5,7
+CHICO,1,A banda,major,50,4,x
+CHICO,1,A banda,major,51,3,5
+CHICO,1,A banda,major,52,5,11
+CHICO,1,A banda,major,53,4,3
+CHICO,1,A banda,major,54,5,x
+CHICO,1,A banda,major,55,4,3
+CHICO,1,A banda,major,56,3,11
+CHICO,1,A banda,major,57,#4/b5,x
+CHICO,1,A banda,major,58,#5/b6,3
+CHICO,1,A banda,major,59,4,b9/#9
+CHICO,1,A banda,major,60,3,1
+CHICO,1,A banda,major,61,6,11
+CHICO,1,A banda,major,62,5,1
+CHICO,1,A banda,major,63,5,7
+CHICO,1,A banda,major,64,4,x
+CHICO,1,A banda,major,65,3,5
+CHICO,2,A Rita,major,1,3,13
+CHICO,2,A Rita,major,2,4,7
+CHICO,2,A Rita,major,3,3,13
+CHICO,2,A Rita,major,4,5,11
+CHICO,2,A Rita,major,5,4,3
+CHICO,2,A Rita,major,6,2,1
+CHICO,2,A Rita,major,7,5,11
+CHICO,2,A Rita,major,8,2,5
+CHICO,2,A Rita,major,9,3,x
+CHICO,2,A Rita,major,10,4,7
+CHICO,2,A Rita,major,11,3,13
+CHICO,2,A Rita,major,12,5,5
+CHICO,2,A Rita,major,13,3,3
+CHICO,2,A Rita,major,14,1,1
+CHICO,2,A Rita,major,15,5,5
+CHICO,2,A Rita,major,16,1,1
+CHICO,2,A Rita,major,17,3,3
+CHICO,2,A Rita,major,18,5,5
+CHICO,2,A Rita,major,19,#6/b7,3
+CHICO,2,A Rita,major,20,6,x
+CHICO,2,A Rita,major,21,5,1
+CHICO,2,A Rita,major,22,#6/b7,3
+CHICO,2,A Rita,major,23,6,x
+CHICO,2,A Rita,major,24,4,1
+CHICO,2,A Rita,major,25,#6/b7,3
+CHICO,2,A Rita,major,26,#6/b7,7
+CHICO,2,A Rita,major,27,6,x
+CHICO,2,A Rita,major,28,5,5
+CHICO,2,A Rita,major,29,1,5
+CHICO,2,A Rita,major,30,6,3
+CHICO,2,A Rita,major,31,4,1
+CHICO,2,A Rita,major,32,1,5
+CHICO,2,A Rita,major,33,5,5
+CHICO,2,A Rita,major,34,#6/b7,x
+CHICO,2,A Rita,major,35,#5/b6,3
+CHICO,2,A Rita,major,36,1,5
+CHICO,2,A Rita,major,37,#6/b7,x
+CHICO,2,A Rita,major,38,#5/b6,3
+CHICO,2,A Rita,major,39,1,5
+CHICO,2,A Rita,major,40,#6/b7,x
+CHICO,2,A Rita,major,41,#5/b6,3
+CHICO,2,A Rita,major,42,1,5
+CHICO,2,A Rita,major,43,#5/b6,3
+CHICO,2,A Rita,major,44,1,5
+CHICO,2,A Rita,major,45,7,5
+CHICO,2,A Rita,major,46,5,3
+CHICO,2,A Rita,major,47,3,1
+CHICO,2,A Rita,major,48,5,7
+CHICO,2,A Rita,major,49,6,1
+CHICO,2,A Rita,major,50,1,7
+CHICO,2,A Rita,major,51,6,5
+CHICO,2,A Rita,major,52,1,7
+CHICO,2,A Rita,major,53,6,5
+CHICO,2,A Rita,major,54,1,7
+CHICO,2,A Rita,major,55,7,13
+CHICO,2,A Rita,major,56,2,5
+CHICO,3,Acorda amor,major,1,5,1
+CHICO,3,Acorda amor,major,2,1,1
+CHICO,3,Acorda amor,major,3,1,5
+CHICO,3,Acorda amor,major,4,7,1
+CHICO,3,Acorda amor,major,5,6,x
+CHICO,3,Acorda amor,major,6,5,x
+CHICO,3,Acorda amor,major,7,#4/b5,5
+CHICO,3,Acorda amor,major,8,#5/b6,x
+CHICO,3,Acorda amor,major,9,3,1
+CHICO,3,Acorda amor,major,10,7,5
+CHICO,3,Acorda amor,major,11,#6/b7,3
+CHICO,3,Acorda amor,major,12,6,1
+CHICO,3,Acorda amor,major,13,5,x
+CHICO,3,Acorda amor,major,14,4,b13
+CHICO,3,Acorda amor,major,15,3,5
+CHICO,3,Acorda amor,major,16,3,x
+CHICO,3,Acorda amor,major,17,2,1
+CHICO,3,Acorda amor,major,18,6,5
+CHICO,3,Acorda amor,major,19,6,9
+CHICO,3,Acorda amor,major,20,5,x
+CHICO,3,Acorda amor,major,21,4,7
+CHICO,3,Acorda amor,major,22,3,x
+CHICO,3,Acorda amor,major,23,4,7
+CHICO,3,Acorda amor,major,24,5,1
+CHICO,3,Acorda amor,major,25,#4/b5,x
+CHICO,3,Acorda amor,major,26,5,1
+CHICO,3,Acorda amor,major,27,#5/b6,b13
+CHICO,3,Acorda amor,major,28,4,1
+CHICO,3,Acorda amor,major,29,4,1
+CHICO,3,Acorda amor,major,30,5,x
+CHICO,3,Acorda amor,major,31,#5/b6,3
+CHICO,3,Acorda amor,major,32,1,5
+CHICO,3,Acorda amor,major,33,#5/b6,3
+CHICO,3,Acorda amor,major,34,4,1
+CHICO,3,Acorda amor,major,35,4,x
+CHICO,3,Acorda amor,major,36,3,1
+CHICO,3,Acorda amor,major,37,6,11
+CHICO,3,Acorda amor,major,38,3,5
+CHICO,3,Acorda amor,major,39,4,x
+CHICO,3,Acorda amor,major,40,5,7
+CHICO,3,Acorda amor,major,41,6,1
+CHICO,3,Acorda amor,major,42,4,b13
+CHICO,3,Acorda amor,major,43,3,9
+CHICO,3,Acorda amor,major,44,2,1
+CHICO,3,Acorda amor,major,45,6,5
+CHICO,3,Acorda amor,major,46,5,1
+CHICO,3,Acorda amor,major,47,1,1
+CHICO,3,Acorda amor,major,48,3,3
+CHICO,3,Acorda amor,major,49,1,1
+CHICO,3,Acorda amor,major,50,5,5
+CHICO,3,Acorda amor,major,51,1,5
+CHICO,3,Acorda amor,major,52,2,x
+CHICO,3,Acorda amor,major,53,1,5
+CHICO,3,Acorda amor,major,54,7,1
+CHICO,3,Acorda amor,major,55,6,7
+CHICO,3,Acorda amor,major,56,7,5
+CHICO,3,Acorda amor,major,57,1,6
+CHICO,3,Acorda amor,major,58,#6/b7,3
+CHICO,3,Acorda amor,major,59,6,1
+CHICO,3,Acorda amor,major,60,5,x
+CHICO,3,Acorda amor,major,61,6,5
+CHICO,3,Acorda amor,major,62,7,6
+CHICO,3,Acorda amor,major,63,6,x
+CHICO,3,Acorda amor,major,64,5,1
+CHICO,3,Acorda amor,major,65,4,x
+CHICO,3,Acorda amor,major,66,5,1
+CHICO,3,Acorda amor,major,67,1,5
+CHICO,3,Acorda amor,major,68,4,1
+CHICO,3,Acorda amor,major,69,5,x
+CHICO,3,Acorda amor,major,70,#5/b6,3
+CHICO,3,Acorda amor,major,71,1,5
+CHICO,3,Acorda amor,major,72,#5/b6,3
+CHICO,3,Acorda amor,major,73,4,1
+CHICO,3,Acorda amor,major,74,3,1
+CHICO,3,Acorda amor,major,75,6,11
+CHICO,3,Acorda amor,major,76,7,x
+CHICO,3,Acorda amor,major,77,1,3
+CHICO,3,Acorda amor,major,78,3,5
+CHICO,3,Acorda amor,major,79,1,3
+CHICO,3,Acorda amor,major,80,6,1
+CHICO,3,Acorda amor,major,81,6,5
+CHICO,3,Acorda amor,major,82,5,x
+CHICO,3,Acorda amor,major,83,#4/b5,3
+CHICO,3,Acorda amor,major,84,5,x
+CHICO,3,Acorda amor,major,85,2,1
+CHICO,3,Acorda amor,major,86,6,5
+CHICO,3,Acorda amor,major,87,2,1
+CHICO,4,Agora falando serio,minor,1,5,5
+CHICO,4,Agora falando serio,minor,2,1,5
+CHICO,4,Agora falando serio,minor,3,1,1
+CHICO,4,Agora falando serio,minor,4,5,5
+CHICO,4,Agora falando serio,minor,5,4,1
+CHICO,4,Agora falando serio,minor,6,5,x
+CHICO,4,Agora falando serio,minor,7,6,3
+CHICO,4,Agora falando serio,minor,8,b7,11
+CHICO,4,Agora falando serio,minor,9,5,1
+CHICO,4,Agora falando serio,minor,10,#6,x
+CHICO,4,Agora falando serio,minor,11,7,3
+CHICO,4,Agora falando serio,minor,12,1,1
+CHICO,4,Agora falando serio,minor,13,2,x
+CHICO,4,Agora falando serio,minor,14,#3,3
+CHICO,4,Agora falando serio,minor,15,4,x
+CHICO,4,Agora falando serio,minor,16,#3,3
+CHICO,4,Agora falando serio,minor,17,2,x
+CHICO,4,Agora falando serio,minor,18,1,1
+CHICO,4,Agora falando serio,minor,19,2,x
+CHICO,4,Agora falando serio,minor,20,#3,3
+CHICO,4,Agora falando serio,minor,21,2,x
+CHICO,4,Agora falando serio,minor,22,1,1
+CHICO,4,Agora falando serio,minor,23,b7,1
+CHICO,4,Agora falando serio,minor,24,1,x
+CHICO,4,Agora falando serio,minor,25,2,3
+CHICO,4,Agora falando serio,minor,26,3,1
+CHICO,4,Agora falando serio,minor,27,5,3
+CHICO,4,Agora falando serio,minor,28,b7,5
+CHICO,4,Agora falando serio,minor,29,1,x
+CHICO,4,Agora falando serio,minor,30,2,1
+CHICO,4,Agora falando serio,minor,31,1,7
+CHICO,4,Agora falando serio,minor,32,7,3
+CHICO,4,Agora falando serio,minor,33,#6,x
+CHICO,4,Agora falando serio,minor,34,5,1
+CHICO,5,Atras da porta,minor,1,3,3
+CHICO,5,Atras da porta,minor,2,2,9
+CHICO,5,Atras da porta,minor,3,4,11
+CHICO,5,Atras da porta,minor,4,3,3
+CHICO,5,Atras da porta,minor,5,2,9
+CHICO,5,Atras da porta,minor,6,4,11
+CHICO,5,Atras da porta,minor,7,3,3
+CHICO,5,Atras da porta,minor,8,1,3
+CHICO,5,Atras da porta,minor,9,7,9
+CHICO,5,Atras da porta,minor,10,2,11
+CHICO,5,Atras da porta,minor,11,1,3
+CHICO,5,Atras da porta,minor,12,1,7
+CHICO,5,Atras da porta,minor,13,7,13
+CHICO,5,Atras da porta,minor,14,2,1
+CHICO,5,Atras da porta,minor,15,1,7
+CHICO,5,Atras da porta,minor,16,#6,#11
+CHICO,5,Atras da porta,minor,17,5,3
+CHICO,5,Atras da porta,minor,18,b7,5
+CHICO,5,Atras da porta,minor,19,#6,#11
+CHICO,5,Atras da porta,minor,20,5,3
+CHICO,5,Atras da porta,minor,21,b7,5
+CHICO,5,Atras da porta,minor,22,#6,#11
+CHICO,5,Atras da porta,minor,23,#6,5
+CHICO,5,Atras da porta,minor,24,#3,9
+CHICO,5,Atras da porta,minor,25,b7,b13
+CHICO,5,Atras da porta,minor,26,#6,5
+CHICO,5,Atras da porta,minor,27,1,7
+CHICO,5,Atras da porta,minor,28,7,x
+CHICO,5,Atras da porta,minor,29,b7,x
+CHICO,5,Atras da porta,minor,30,#6,5
+CHICO,5,Atras da porta,minor,31,5,5
+CHICO,5,Atras da porta,minor,32,4,7
+CHICO,5,Atras da porta,minor,33,6,b9/#9
+CHICO,5,Atras da porta,minor,34,5,5
+CHICO,5,Atras da porta,minor,35,4,7
+CHICO,5,Atras da porta,minor,36,6,b9/#9
+CHICO,5,Atras da porta,minor,37,5,1
+CHICO,5,Atras da porta,minor,38,5,5
+CHICO,5,Atras da porta,minor,39,#6,1
+CHICO,5,Atras da porta,minor,40,5,7
+CHICO,5,Atras da porta,minor,41,b7,x
+CHICO,5,Atras da porta,minor,42,#6,1
+CHICO,5,Atras da porta,minor,43,#6,#11
+CHICO,5,Atras da porta,minor,44,5,3
+CHICO,5,Atras da porta,minor,45,b7,5
+CHICO,5,Atras da porta,minor,46,#6,#11
+CHICO,5,Atras da porta,minor,47,#6,5
+CHICO,5,Atras da porta,minor,48,#3,9
+CHICO,5,Atras da porta,minor,49,b7,b13
+CHICO,5,Atras da porta,minor,50,#6,5
+CHICO,5,Atras da porta,minor,51,1,7
+CHICO,5,Atras da porta,minor,52,#6,5
+CHICO,5,Atras da porta,minor,53,2,1
+CHICO,5,Atras da porta,minor,54,1,7
+CHICO,5,Atras da porta,minor,55,3,x
+CHICO,5,Atras da porta,minor,56,2,3
+CHICO,5,Atras da porta,minor,57,4,5
+CHICO,5,Atras da porta,minor,58,3,1
+CHICO,5,Atras da porta,minor,59,2,3
+CHICO,5,Atras da porta,minor,60,4,5
+CHICO,5,Atras da porta,minor,61,3,5
+CHICO,5,Atras da porta,minor,62,2,11
+CHICO,5,Atras da porta,minor,63,4,b13
+CHICO,5,Atras da porta,minor,64,#3,x
+CHICO,5,Atras da porta,minor,65,3,b9/#9
+CHICO,5,Atras da porta,minor,66,2,1
+CHICO,5,Atras da porta,minor,67,1,1
+CHICO,5,Atras da porta,minor,68,7,3
+CHICO,5,Atras da porta,minor,69,#3,6
+CHICO,5,Atras da porta,minor,70,2,5
+CHICO,5,Atras da porta,minor,71,1,1
+CHICO,5,Atras da porta,minor,72,7,7
+CHICO,5,Atras da porta,minor,73,1,1
+CHICO,5,Atras da porta,minor,74,7,11
+CHICO,5,Atras da porta,minor,75,#6,3
+CHICO,5,Atras da porta,minor,76,6,x
+CHICO,5,Atras da porta,minor,77,#6,3
+CHICO,5,Atras da porta,minor,78,1,b9/#9
+CHICO,5,Atras da porta,minor,79,7,x
+CHICO,5,Atras da porta,minor,80,#6,7
+CHICO,5,Atras da porta,minor,81,7,x
+CHICO,5,Atras da porta,minor,82,#6,7
+CHICO,5,Atras da porta,minor,83,#6,11
+CHICO,5,Atras da porta,minor,84,5,3
+CHICO,5,Atras da porta,minor,85,#4/b5,x
+CHICO,5,Atras da porta,minor,86,5,3
+CHICO,5,Atras da porta,minor,87,#4/b5,13
+CHICO,5,Atras da porta,minor,88,5,x
+CHICO,5,Atras da porta,minor,89,#4/b5,13
+CHICO,5,Atras da porta,minor,90,5,7
+CHICO,5,Atras da porta,minor,91,5,5
+CHICO,5,Atras da porta,minor,92,#4/b5,3
+CHICO,6,Biscate,minor,1,3,3
+CHICO,6,Biscate,minor,2,2,x
+CHICO,6,Biscate,minor,3,1,x
+CHICO,6,Biscate,minor,4,7,3
+CHICO,6,Biscate,minor,5,2,5
+CHICO,6,Biscate,minor,6,1,1
+CHICO,6,Biscate,minor,7,5,5
+CHICO,6,Biscate,minor,8,1,1
+CHICO,6,Biscate,minor,9,b7,7
+CHICO,6,Biscate,minor,10,b7,11
+CHICO,6,Biscate,minor,11,4,1
+CHICO,6,Biscate,minor,12,2,6
+CHICO,6,Biscate,minor,13,6,3
+CHICO,6,Biscate,minor,14,6,5
+CHICO,6,Biscate,minor,15,5,3
+CHICO,6,Biscate,minor,16,1,3
+CHICO,6,Biscate,minor,17,3,5
+CHICO,6,Biscate,minor,18,b7,5
+CHICO,6,Biscate,minor,19,6,x
+CHICO,6,Biscate,minor,20,5,5
+CHICO,6,Biscate,minor,21,1,1
+CHICO,6,Biscate,minor,22,5,9
+CHICO,6,Biscate,minor,23,1,5
+CHICO,6,Biscate,minor,24,5,9
+CHICO,6,Biscate,minor,25,1,5
+CHICO,6,Biscate,minor,26,#4/b5,b9/#9
+CHICO,6,Biscate,minor,27,4,x
+CHICO,6,Biscate,minor,28,3,1
+CHICO,6,Biscate,minor,29,4,x
+CHICO,6,Biscate,minor,30,#4/b5,x
+CHICO,6,Biscate,minor,31,5,3
+CHICO,6,Biscate,minor,32,5,11
+CHICO,6,Biscate,minor,33,#4/b5,x
+CHICO,6,Biscate,minor,34,5,11
+CHICO,6,Biscate,minor,35,7,3
+CHICO,6,Biscate,minor,36,2,5
+CHICO,6,Biscate,minor,37,1,3
+CHICO,6,Biscate,minor,38,6,1
+CHICO,6,Biscate,minor,39,1,5
+CHICO,6,Biscate,minor,40,3,7
+CHICO,6,Biscate,minor,41,b7,11
+CHICO,6,Biscate,minor,42,2,5
+CHICO,6,Biscate,minor,43,3,3
+CHICO,6,Biscate,minor,44,5,5
+CHICO,6,Biscate,minor,45,#4/b5,x
+CHICO,6,Biscate,minor,46,4,7
+CHICO,6,Biscate,minor,47,3,b13
+CHICO,6,Biscate,minor,48,4,9
+CHICO,6,Biscate,minor,49,3,1
+CHICO,6,Biscate,minor,50,1,5
+CHICO,6,Biscate,minor,51,5,9
+CHICO,6,Biscate,minor,52,5,5
+CHICO,6,Biscate,minor,53,#4/b5,x
+CHICO,6,Biscate,minor,54,4,7
+CHICO,6,Biscate,minor,55,3,b13
+CHICO,6,Biscate,minor,56,4,9
+CHICO,6,Biscate,minor,57,3,1
+CHICO,6,Biscate,minor,58,1,5
+CHICO,6,Biscate,minor,59,5,5
+CHICO,6,Biscate,minor,60,1,1
+CHICO,6,Biscate,minor,61,5,5
+CHICO,6,Biscate,minor,62,4,7
+CHICO,6,Biscate,minor,63,3,b13
+CHICO,6,Biscate,minor,64,4,9
+CHICO,6,Biscate,minor,65,3,1
+CHICO,6,Biscate,minor,66,1,5
+CHICO,6,Biscate,minor,67,3,7
+CHICO,6,Biscate,minor,68,1,5
+CHICO,6,Biscate,minor,69,3,7
+CHICO,6,Biscate,minor,70,1,5
+CHICO,6,Biscate,minor,71,3,7
+CHICO,6,Biscate,minor,72,1,1
+CHICO,6,Biscate,minor,73,3,3
+CHICO,6,Biscate,minor,74,1,1
+CHICO,6,Biscate,minor,75,3,3
+CHICO,6,Biscate,minor,76,1,7
+CHICO,6,Biscate,minor,77,3,b9/#9
+CHICO,6,Biscate,minor,78,1,7
+CHICO,6,Biscate,minor,79,3,b9/#9
+CHICO,6,Biscate,minor,80,1,7
+CHICO,6,Biscate,minor,81,3,1
+CHICO,7,Apesar de voce,major,1,1,1
+CHICO,7,Apesar de voce,major,2,7,x
+CHICO,7,Apesar de voce,major,3,6,6
+CHICO,7,Apesar de voce,major,4,7,7
+CHICO,7,Apesar de voce,major,5,5,5
+CHICO,7,Apesar de voce,major,6,1,1
+CHICO,7,Apesar de voce,major,7,7,x
+CHICO,7,Apesar de voce,major,8,6,6
+CHICO,7,Apesar de voce,major,9,7,7
+CHICO,7,Apesar de voce,major,10,5,5
+CHICO,7,Apesar de voce,major,11,6,6
+CHICO,7,Apesar de voce,major,12,#6/b7,b9/#9
+CHICO,7,Apesar de voce,major,13,5,7
+CHICO,7,Apesar de voce,major,14,4,3
+CHICO,7,Apesar de voce,major,15,2,1
+CHICO,7,Apesar de voce,major,16,7,3
+CHICO,7,Apesar de voce,major,17,1,x
+CHICO,7,Apesar de voce,major,18,2,5
+CHICO,7,Apesar de voce,major,19,1,x
+CHICO,7,Apesar de voce,major,20,7,3
+CHICO,7,Apesar de voce,major,21,2,1
+CHICO,7,Apesar de voce,major,22,7,x
+CHICO,7,Apesar de voce,major,23,1,x
+CHICO,7,Apesar de voce,major,24,2,1
+CHICO,7,Apesar de voce,major,25,1,7
+CHICO,7,Apesar de voce,major,26,7,3
+CHICO,7,Apesar de voce,major,27,2,5
+CHICO,7,Apesar de voce,major,28,7,3
+CHICO,7,Apesar de voce,major,29,1,x
+CHICO,7,Apesar de voce,major,30,2,5
+CHICO,7,Apesar de voce,major,31,1,x
+CHICO,7,Apesar de voce,major,32,7,3
+CHICO,7,Apesar de voce,major,33,2,3
+CHICO,7,Apesar de voce,major,34,3,1
+CHICO,7,Apesar de voce,major,35,#6/b7,b9/#9
+CHICO,7,Apesar de voce,major,36,5,1
+CHICO,7,Apesar de voce,major,37,#1/b2,3
+CHICO,7,Apesar de voce,major,38,#6/b7,b9/#9
+CHICO,7,Apesar de voce,major,39,6,1
+CHICO,7,Apesar de voce,major,40,#1/b2,3
+CHICO,7,Apesar de voce,major,41,#6/b7,b9/#9
+CHICO,7,Apesar de voce,major,42,6,1
+CHICO,7,Apesar de voce,major,43,#1/b2,3
+CHICO,7,Apesar de voce,major,44,#6/b7,b9/#9
+CHICO,7,Apesar de voce,major,45,6,1
+CHICO,7,Apesar de voce,major,46,#1/b2,3
+CHICO,7,Apesar de voce,major,47,5,6
+CHICO,7,Apesar de voce,major,48,#4/b5,x
+CHICO,7,Apesar de voce,major,49,4,1
+CHICO,7,Apesar de voce,major,50,2,6
+CHICO,7,Apesar de voce,major,51,1,5
+CHICO,7,Apesar de voce,major,52,#5/b6,3
+CHICO,7,Apesar de voce,major,53,2,6
+CHICO,7,Apesar de voce,major,54,1,5
+CHICO,7,Apesar de voce,major,55,3,5
+CHICO,7,Apesar de voce,major,56,4,x
+CHICO,7,Apesar de voce,major,57,5,7
+CHICO,7,Apesar de voce,major,58,6,x
+CHICO,7,Apesar de voce,major,59,5,7
+CHICO,7,Apesar de voce,major,60,1,7
+CHICO,7,Apesar de voce,major,61,5,1
+CHICO,7,Apesar de voce,major,62,3,13
+CHICO,7,Apesar de voce,major,63,1,1
+CHICO,8,Bye bye Brasil,major,1,4,3
+CHICO,8,Bye bye Brasil,major,2,6,5
+CHICO,8,Bye bye Brasil,major,3,1,7
+CHICO,8,Bye bye Brasil,major,4,3,9
+CHICO,8,Bye bye Brasil,major,5,4,3
+CHICO,8,Bye bye Brasil,major,6,2,1
+CHICO,8,Bye bye Brasil,major,7,1,7
+CHICO,8,Bye bye Brasil,major,8,6,5
+CHICO,8,Bye bye Brasil,major,9,4,7
+CHICO,8,Bye bye Brasil,major,10,6,9
+CHICO,8,Bye bye Brasil,major,11,1,3
+CHICO,8,Bye bye Brasil,major,12,3,13
+CHICO,8,Bye bye Brasil,major,13,4,7
+CHICO,8,Bye bye Brasil,major,14,2,5
+CHICO,8,Bye bye Brasil,major,15,1,3
+CHICO,8,Bye bye Brasil,major,16,6,9
+CHICO,8,Bye bye Brasil,major,17,7,7
+CHICO,8,Bye bye Brasil,major,18,2,9
+CHICO,8,Bye bye Brasil,major,19,#4/b5,#11
+CHICO,8,Bye bye Brasil,major,20,6,6
+CHICO,8,Bye bye Brasil,major,21,7,7
+CHICO,8,Bye bye Brasil,major,22,6,6
+CHICO,8,Bye bye Brasil,major,23,5,5
+CHICO,8,Bye bye Brasil,major,24,2,9
+CHICO,8,Bye bye Brasil,major,25,7,5
+CHICO,8,Bye bye Brasil,major,26,2,7
+CHICO,8,Bye bye Brasil,major,27,#4/b5,9
+CHICO,8,Bye bye Brasil,major,28,6,11
+CHICO,8,Bye bye Brasil,major,29,#6/b7,b9/#9
+CHICO,8,Bye bye Brasil,major,30,6,x
+CHICO,8,Bye bye Brasil,major,31,5,7
+CHICO,8,Bye bye Brasil,major,32,4,b13
+CHICO,8,Bye bye Brasil,major,33,4,3
+CHICO,8,Bye bye Brasil,major,34,6,5
+CHICO,8,Bye bye Brasil,major,35,1,7
+CHICO,8,Bye bye Brasil,major,36,3,9
+CHICO,8,Bye bye Brasil,major,37,4,3
+CHICO,8,Bye bye Brasil,major,38,2,1
+CHICO,8,Bye bye Brasil,major,39,1,7
+CHICO,8,Bye bye Brasil,major,40,6,5
+CHICO,8,Bye bye Brasil,major,41,4,7
+CHICO,8,Bye bye Brasil,major,42,6,9
+CHICO,8,Bye bye Brasil,major,43,1,3
+CHICO,8,Bye bye Brasil,major,44,3,13
+CHICO,8,Bye bye Brasil,major,45,4,7
+CHICO,8,Bye bye Brasil,major,46,2,5
+CHICO,8,Bye bye Brasil,major,47,1,3
+CHICO,8,Bye bye Brasil,major,48,6,9
+CHICO,8,Bye bye Brasil,major,49,#6/b7,3
+CHICO,8,Bye bye Brasil,major,50,2,5
+CHICO,8,Bye bye Brasil,major,51,4,7
+CHICO,8,Bye bye Brasil,major,52,6,9
+CHICO,8,Bye bye Brasil,major,53,#6/b7,3
+CHICO,8,Bye bye Brasil,major,54,5,1
+CHICO,8,Bye bye Brasil,major,55,4,7
+CHICO,8,Bye bye Brasil,major,56,2,5
+CHICO,8,Bye bye Brasil,major,57,#6/b7,7
+CHICO,8,Bye bye Brasil,major,58,2,9
+CHICO,8,Bye bye Brasil,major,59,4,3
+CHICO,8,Bye bye Brasil,major,60,6,13
+CHICO,8,Bye bye Brasil,major,61,#6/b7,7
+CHICO,8,Bye bye Brasil,major,62,5,5
+CHICO,8,Bye bye Brasil,major,63,4,x
+CHICO,8,Bye bye Brasil,major,64,3,3
+CHICO,8,Bye bye Brasil,major,65,2,9
+CHICO,8,Bye bye Brasil,major,66,3,7
+CHICO,8,Bye bye Brasil,major,67,4,b9/#9
+CHICO,8,Bye bye Brasil,major,68,7,7
+CHICO,8,Bye bye Brasil,major,69,5,5
+CHICO,8,Bye bye Brasil,major,70,6,x
+CHICO,8,Bye bye Brasil,major,71,7,9
+CHICO,8,Bye bye Brasil,major,72,6,1
+CHICO,8,Bye bye Brasil,major,73,6,9
+CHICO,8,Bye bye Brasil,major,74,4,7
+CHICO,8,Bye bye Brasil,major,75,5,x
+CHICO,8,Bye bye Brasil,major,76,6,13
+CHICO,8,Bye bye Brasil,major,77,4,x
+CHICO,8,Bye bye Brasil,major,78,5,5
+CHICO,8,Bye bye Brasil,major,79,6,11
+CHICO,8,Bye bye Brasil,major,80,6,1
+CHICO,9,Calice,major,1,3,3
+CHICO,9,Calice,major,2,5,5
+CHICO,9,Calice,major,3,5,5
+CHICO,9,Calice,major,4,4,x
+CHICO,9,Calice,major,5,3,3
+CHICO,9,Calice,major,6,2,x
+CHICO,9,Calice,major,7,1,1
+CHICO,9,Calice,major,8,3,3
+CHICO,9,Calice,major,9,3,1
+CHICO,9,Calice,major,10,#5/b6,3
+CHICO,9,Calice,major,11,4,x
+CHICO,9,Calice,major,12,3,1
+CHICO,9,Calice,major,13,2,7
+CHICO,9,Calice,major,14,3,1
+CHICO,9,Calice,major,15,4,b9/#9
+CHICO,9,Calice,major,16,4,1
+CHICO,9,Calice,major,17,6,3
+CHICO,9,Calice,major,18,6,5
+CHICO,9,Calice,major,19,5,x
+CHICO,9,Calice,major,20,#4/b5,3
+CHICO,9,Calice,major,21,3,9
+CHICO,9,Calice,major,22,#4/b5,3
+CHICO,9,Calice,major,23,5,5
+CHICO,9,Calice,major,24,4,7
+CHICO,9,Calice,major,25,3,x
+CHICO,9,Calice,major,26,2,5
+CHICO,9,Calice,major,27,1,x
+CHICO,9,Calice,major,28,7,3
+CHICO,9,Calice,major,29,1,1
+CHICO,9,Calice,major,30,3,3
+CHICO,9,Calice,major,31,3,5
+CHICO,9,Calice,major,32,6,1
+CHICO,9,Calice,major,33,1,3
+CHICO,9,Calice,major,34,4,x
+CHICO,9,Calice,major,35,3,5
+CHICO,9,Calice,major,36,2,x
+CHICO,9,Calice,major,37,3,5
+CHICO,9,Calice,major,38,6,1
+CHICO,9,Calice,major,39,1,3
+CHICO,9,Calice,major,40,4,x
+CHICO,9,Calice,major,41,3,5
+CHICO,9,Calice,major,42,2,11
+CHICO,9,Calice,major,43,4,6
+CHICO,9,Calice,major,44,6,1
+CHICO,9,Calice,major,45,3,5
+CHICO,9,Calice,major,46,2,11
+CHICO,9,Calice,major,47,1,x
+CHICO,9,Calice,major,48,2,11
+CHICO,9,Calice,major,49,2,5
+CHICO,9,Calice,major,50,5,1
+CHICO,9,Calice,major,51,7,3
+CHICO,9,Calice,major,52,3,13
+CHICO,9,Calice,major,53,2,5
+CHICO,9,Calice,major,54,1,1
+CHICO,14,Desalento,minor,1,5,5
+CHICO,14,Desalento,minor,2,6,5
+CHICO,14,Desalento,minor,3,4,3
+CHICO,14,Desalento,minor,4,5,5
+CHICO,14,Desalento,minor,5,6,5
+CHICO,14,Desalento,minor,6,5,x
+CHICO,14,Desalento,minor,7,6,3
+CHICO,14,Desalento,minor,8,b7,11
+CHICO,14,Desalento,minor,9,5,9
+CHICO,14,Desalento,minor,10,6,3
+CHICO,14,Desalento,minor,11,#1/b2,6
+CHICO,14,Desalento,minor,12,6,3
+CHICO,14,Desalento,minor,13,5,1
+CHICO,14,Desalento,minor,14,7,3
+CHICO,14,Desalento,minor,15,2,5
+CHICO,14,Desalento,minor,16,4,7
+CHICO,14,Desalento,minor,17,5,1
+CHICO,14,Desalento,minor,18,6,b13
+CHICO,14,Desalento,minor,19,5,5
+CHICO,14,Desalento,minor,20,#3,3
+CHICO,14,Desalento,minor,21,1,1
+CHICO,14,Desalento,minor,22,b7,7
+CHICO,14,Desalento,minor,23,b7,b13
+CHICO,14,Desalento,minor,24,6,5
+CHICO,14,Desalento,minor,25,5,1
+CHICO,14,Desalento,minor,26,6,b9/#9
+CHICO,14,Desalento,minor,27,3,b13
+CHICO,14,Desalento,minor,28,2,x
+CHICO,14,Desalento,minor,29,1,1
+CHICO,15,Desencontro,major,1,3,3
+CHICO,15,Desencontro,major,2,#2/b3,x
+CHICO,15,Desencontro,major,3,3,3
+CHICO,15,Desencontro,major,4,4,b13
+CHICO,15,Desencontro,major,5,3,x
+CHICO,15,Desencontro,major,6,4,b13
+CHICO,15,Desencontro,major,7,5,7
+CHICO,15,Desencontro,major,8,5,11
+CHICO,15,Desencontro,major,9,2,5
+CHICO,15,Desencontro,major,10,5,1
+CHICO,15,Desencontro,major,11,5,1
+CHICO,15,Desencontro,major,12,2,5
+CHICO,15,Desencontro,major,13,2,9
+CHICO,15,Desencontro,major,14,4,5
+CHICO,15,Desencontro,major,15,3,11
+CHICO,15,Desencontro,major,16,#2/b3,x
+CHICO,15,Desencontro,major,17,3,1
+CHICO,15,Desencontro,major,18,1,3
+CHICO,15,Desencontro,major,19,3,9
+CHICO,15,Desencontro,major,20,1,11
+CHICO,15,Desencontro,major,21,7,x
+CHICO,15,Desencontro,major,22,#6/b7,7
+CHICO,15,Desencontro,major,23,5,9
+CHICO,15,Desencontro,major,24,4,x
+CHICO,15,Desencontro,major,25,3,x
+CHICO,15,Desencontro,major,26,4,1
+CHICO,15,Desencontro,major,27,5,9
+CHICO,15,Desencontro,major,28,4,x
+CHICO,15,Desencontro,major,29,3,x
+CHICO,15,Desencontro,major,30,4,1
+CHICO,15,Desencontro,major,31,4,5
+CHICO,15,Desencontro,major,32,3,x
+CHICO,15,Desencontro,major,33,#2/b3,x
+CHICO,15,Desencontro,major,34,3,1
+CHICO,15,Desencontro,major,35,3,5
+CHICO,15,Desencontro,major,36,#2/b3,x
+CHICO,15,Desencontro,major,37,3,5
+CHICO,15,Desencontro,major,38,4,b13
+CHICO,15,Desencontro,major,39,3,x
+CHICO,15,Desencontro,major,40,4,b13
+CHICO,15,Desencontro,major,41,5,11
+CHICO,15,Desencontro,major,42,2,5
+CHICO,15,Desencontro,major,43,5,1
+CHICO,15,Desencontro,major,44,5,1
+CHICO,15,Desencontro,major,45,2,9
+CHICO,15,Desencontro,major,46,2,9
+CHICO,15,Desencontro,major,47,5,5
+CHICO,15,Desencontro,major,48,#5/b6,3
+CHICO,15,Desencontro,major,49,3,1
+CHICO,15,Desencontro,major,50,1,3
+CHICO,15,Desencontro,major,51,7,x
+CHICO,15,Desencontro,major,52,6,1
+CHICO,15,Desencontro,major,53,1,3
+CHICO,15,Desencontro,major,54,7,5
+CHICO,15,Desencontro,major,55,6,x
+CHICO,15,Desencontro,major,56,5,11
+CHICO,15,Desencontro,major,57,1,7
+CHICO,15,Desencontro,major,58,7,x
+CHICO,15,Desencontro,major,59,1,7
+CHICO,15,Desencontro,major,60,5,1
+CHICO,15,Desencontro,major,61,4,x
+CHICO,15,Desencontro,major,62,3,3
+CHICO,15,Desencontro,major,63,4,x
+CHICO,15,Desencontro,major,64,#4/b5,x
+CHICO,15,Desencontro,major,65,5,5
+CHICO,15,Desencontro,major,66,6,1
+CHICO,15,Desencontro,major,67,1,b9/#9
+CHICO,15,Desencontro,major,68,2,1
+CHICO,15,Desencontro,major,69,1,7
+CHICO,15,Desencontro,major,70,7,x
+CHICO,15,Desencontro,major,71,1,7
+CHICO,15,Desencontro,major,72,4,7
+CHICO,15,Desencontro,major,73,7,3
+CHICO,15,Desencontro,major,74,1,x
+CHICO,15,Desencontro,major,75,2,5
+CHICO,15,Desencontro,major,76,1,1
+CHICO,16,Bastidores,minor,1,1,1
+CHICO,16,Bastidores,minor,2,4,11
+CHICO,16,Bastidores,minor,3,1,1
+CHICO,16,Bastidores,minor,4,5,11
+CHICO,16,Bastidores,minor,5,4,3
+CHICO,16,Bastidores,minor,6,#3,3
+CHICO,16,Bastidores,minor,7,4,x
+CHICO,16,Bastidores,minor,8,#4/b5,x
+CHICO,16,Bastidores,minor,9,5,5
+CHICO,16,Bastidores,minor,10,1,1
+CHICO,16,Bastidores,minor,11,b7,x
+CHICO,16,Bastidores,minor,12,1,6
+CHICO,16,Bastidores,minor,13,4,5
+CHICO,16,Bastidores,minor,14,b7,1
+CHICO,16,Bastidores,minor,15,1,x
+CHICO,16,Bastidores,minor,16,#1/b2,7
+CHICO,16,Bastidores,minor,17,4,9
+CHICO,16,Bastidores,minor,18,3,1
+CHICO,16,Bastidores,minor,19,b7,5
+CHICO,16,Bastidores,minor,20,1,3
+CHICO,16,Bastidores,minor,21,b7,1
+CHICO,16,Bastidores,minor,22,1,x
+CHICO,16,Bastidores,minor,23,2,3
+CHICO,16,Bastidores,minor,24,b7,1
+CHICO,16,Bastidores,minor,25,1,6
+CHICO,16,Bastidores,minor,26,5,3
+CHICO,16,Bastidores,minor,27,b7,5
+CHICO,16,Bastidores,minor,28,1,1
+CHICO,16,Bastidores,minor,29,5,9
+CHICO,16,Bastidores,minor,30,b7,x
+CHICO,16,Bastidores,minor,31,1,5
+CHICO,16,Bastidores,minor,32,5,9
+CHICO,16,Bastidores,minor,33,b7,11
+CHICO,16,Bastidores,minor,34,1,9
+CHICO,16,Bastidores,minor,35,b7,1
+CHICO,16,Bastidores,minor,36,3,1
+CHICO,16,Bastidores,minor,37,5,3
+CHICO,16,Bastidores,minor,38,2,5
+CHICO,16,Bastidores,minor,39,5,5
+CHICO,16,Bastidores,minor,40,1,1
+CHICO,16,Bastidores,minor,41,2,x
+CHICO,16,Bastidores,minor,42,1,1
+CHICO,16,Bastidores,minor,43,2,x
+CHICO,16,Bastidores,minor,44,1,1
+CHICO,16,Bastidores,minor,45,5,5
+CHICO,16,Bastidores,minor,46,b7,1
+CHICO,16,Bastidores,minor,47,3,5
+CHICO,16,Bastidores,minor,48,6,1
+CHICO,16,Bastidores,minor,49,b7,x
+CHICO,16,Bastidores,minor,50,6,5
+CHICO,16,Bastidores,minor,51,b7,b13
+CHICO,16,Bastidores,minor,52,5,11
+CHICO,16,Bastidores,minor,53,4,x
+CHICO,16,Bastidores,minor,54,3,3
+CHICO,16,Bastidores,minor,55,4,x
+CHICO,16,Bastidores,minor,56,#4/b5,3
+CHICO,16,Bastidores,minor,57,#6,5
+CHICO,16,Bastidores,minor,58,1,7
+CHICO,16,Bastidores,minor,59,7,13
+CHICO,16,Bastidores,minor,60,2,5
+CHICO,17,Ela desatinou,minor,1,1,1
+CHICO,17,Ela desatinou,minor,2,2,9
+CHICO,17,Ela desatinou,minor,3,1,1
+CHICO,17,Ela desatinou,minor,4,5,5
+CHICO,17,Ela desatinou,minor,5,3,3
+CHICO,17,Ela desatinou,minor,6,b7,3
+CHICO,17,Ela desatinou,minor,7,1,x
+CHICO,17,Ela desatinou,minor,8,b7,b9/#9
+CHICO,17,Ela desatinou,minor,9,6,3
+CHICO,17,Ela desatinou,minor,10,6,5
+CHICO,17,Ela desatinou,minor,11,5,x
+CHICO,17,Ela desatinou,minor,12,4,3
+CHICO,17,Ela desatinou,minor,13,1,x
+CHICO,17,Ela desatinou,minor,14,b7,6
+CHICO,17,Ela desatinou,minor,15,5,5
+CHICO,17,Ela desatinou,minor,16,6,x
+CHICO,17,Ela desatinou,minor,17,b7,7
+CHICO,17,Ela desatinou,minor,18,5,5
+CHICO,17,Ela desatinou,minor,19,1,5
+CHICO,17,Ela desatinou,minor,20,4,3
+CHICO,17,Ela desatinou,minor,21,3,x
+CHICO,17,Ela desatinou,minor,22,4,3
+CHICO,17,Ela desatinou,minor,23,3,b13
+CHICO,17,Ela desatinou,minor,24,2,5
+CHICO,17,Ela desatinou,minor,25,2,9
+CHICO,17,Ela desatinou,minor,26,1,1
+CHICO,17,Ela desatinou,minor,27,5,5
+CHICO,17,Ela desatinou,minor,28,6,5
+CHICO,17,Ela desatinou,minor,29,5,5
+CHICO,17,Ela desatinou,minor,30,4,11
+CHICO,17,Ela desatinou,minor,31,#3,x
+CHICO,17,Ela desatinou,minor,32,4,11
+CHICO,17,Ela desatinou,minor,33,b7,1
+CHICO,17,Ela desatinou,minor,34,5,13
+CHICO,17,Ela desatinou,minor,35,4,3
+CHICO,17,Ela desatinou,minor,36,5,11
+CHICO,17,Ela desatinou,minor,37,4,3
+CHICO,17,Ela desatinou,minor,38,4,x
+CHICO,17,Ela desatinou,minor,39,#3,3
+CHICO,17,Ela desatinou,minor,40,3,x
+CHICO,17,Ela desatinou,minor,41,#3,3
+CHICO,17,Ela desatinou,minor,42,1,1
+CHICO,17,Ela desatinou,minor,43,b7,7
+CHICO,17,Ela desatinou,minor,44,6,3
+CHICO,17,Ela desatinou,minor,45,b7,x
+CHICO,17,Ela desatinou,minor,46,6,3
+CHICO,17,Ela desatinou,minor,47,b7,x
+CHICO,17,Ela desatinou,minor,48,6,11
+CHICO,17,Ela desatinou,minor,49,b7,x
+CHICO,17,Ela desatinou,minor,50,6,11
+CHICO,17,Ela desatinou,minor,51,b7,x
+CHICO,17,Ela desatinou,minor,52,6,11
+CHICO,17,Ela desatinou,minor,53,6,5
+CHICO,17,Ela desatinou,minor,54,b7,x
+CHICO,17,Ela desatinou,minor,55,6,5
+CHICO,17,Ela desatinou,minor,56,b7,x
+CHICO,17,Ela desatinou,minor,57,6,5
+CHICO,17,Ela desatinou,minor,58,2,6
+CHICO,17,Ela desatinou,minor,59,3,7
+CHICO,17,Ela desatinou,minor,60,2,6
+CHICO,17,Ela desatinou,minor,61,2,5
+CHICO,17,Ela desatinou,minor,62,3,b13
+CHICO,19,Feijoada completa,major,1,#5/b6,3
+CHICO,19,Feijoada completa,major,2,6,1
+CHICO,19,Feijoada completa,major,3,5,7
+CHICO,19,Feijoada completa,major,4,3,9
+CHICO,19,Feijoada completa,major,5,6,5
+CHICO,19,Feijoada completa,major,6,4,1
+CHICO,19,Feijoada completa,major,7,5,9
+CHICO,19,Feijoada completa,major,8,5,1
+CHICO,19,Feijoada completa,major,9,3,x
+CHICO,19,Feijoada completa,major,10,2,9
+CHICO,19,Feijoada completa,major,11,1,1
+CHICO,19,Feijoada completa,major,12,3,3
+CHICO,19,Feijoada completa,major,13,#6/b7,7
+CHICO,19,Feijoada completa,major,14,1,1
+CHICO,19,Feijoada completa,major,15,7,x
+CHICO,19,Feijoada completa,major,16,#6/b7,7
+CHICO,19,Feijoada completa,major,17,6,3
+CHICO,19,Feijoada completa,major,18,1,5
+CHICO,19,Feijoada completa,major,19,6,3
+CHICO,19,Feijoada completa,major,20,5,7
+CHICO,19,Feijoada completa,major,21,6,1
+CHICO,19,Feijoada completa,major,22,4,b13
+CHICO,19,Feijoada completa,major,23,3,9
+CHICO,19,Feijoada completa,major,24,2,x
+CHICO,19,Feijoada completa,major,25,3,9
+CHICO,19,Feijoada completa,major,26,2,5
+CHICO,19,Feijoada completa,major,27,1,1
+CHICO,19,Feijoada completa,major,28,5,5
+CHICO,19,Feijoada completa,major,29,1,1
+CHICO,19,Feijoada completa,major,30,1,1
+CHICO,19,Feijoada completa,major,31,1,5
+CHICO,19,Feijoada completa,major,32,6,3
+CHICO,19,Feijoada completa,major,33,1,5
+CHICO,19,Feijoada completa,major,34,6,3
+CHICO,19,Feijoada completa,major,35,1,5
+CHICO,19,Feijoada completa,major,36,#6/b7,7
+CHICO,19,Feijoada completa,major,37,1,5
+CHICO,19,Feijoada completa,major,38,1,1
+CHICO,19,Feijoada completa,major,39,1,9
+CHICO,19,Feijoada completa,major,40,1,5
+CHICO,19,Feijoada completa,major,41,1,5
+CHICO,19,Feijoada completa,major,42,1,1
+CHICO,20,Futuros amantes,major,1,5,5
+CHICO,20,Futuros amantes,major,2,2,9
+CHICO,20,Futuros amantes,major,3,1,x
+CHICO,20,Futuros amantes,major,4,2,9
+CHICO,20,Futuros amantes,major,5,1,x
+CHICO,20,Futuros amantes,major,6,7,1
+CHICO,20,Futuros amantes,major,7,6,x
+CHICO,20,Futuros amantes,major,8,7,1
+CHICO,20,Futuros amantes,major,9,5,5
+CHICO,20,Futuros amantes,major,10,2,9
+CHICO,20,Futuros amantes,major,11,1,x
+CHICO,20,Futuros amantes,major,12,2,9
+CHICO,20,Futuros amantes,major,13,1,x
+CHICO,20,Futuros amantes,major,14,7,5
+CHICO,20,Futuros amantes,major,15,6,x
+CHICO,20,Futuros amantes,major,16,7,5
+CHICO,20,Futuros amantes,major,17,6,11
+CHICO,20,Futuros amantes,major,18,3,1
+CHICO,20,Futuros amantes,major,19,5,3
+CHICO,20,Futuros amantes,major,20,5,11
+CHICO,20,Futuros amantes,major,21,4,x
+CHICO,20,Futuros amantes,major,22,5,11
+CHICO,20,Futuros amantes,major,23,4,3
+CHICO,20,Futuros amantes,major,24,4,5
+CHICO,20,Futuros amantes,major,25,3,x
+CHICO,20,Futuros amantes,major,26,4,5
+CHICO,20,Futuros amantes,major,27,3,7
+CHICO,20,Futuros amantes,major,28,2,x
+CHICO,20,Futuros amantes,major,29,3,7
+CHICO,20,Futuros amantes,major,30,2,x
+CHICO,20,Futuros amantes,major,31,3,11
+CHICO,20,Futuros amantes,major,32,2,x
+CHICO,20,Futuros amantes,major,33,3,11
+CHICO,20,Futuros amantes,major,34,7,7
+CHICO,20,Futuros amantes,major,35,6,x
+CHICO,20,Futuros amantes,major,36,7,7
+CHICO,20,Futuros amantes,major,37,6,x
+CHICO,20,Futuros amantes,major,38,7,1
+CHICO,20,Futuros amantes,major,39,6,x
+CHICO,20,Futuros amantes,major,40,7,1
+CHICO,20,Futuros amantes,major,41,#6/b7,x
+CHICO,20,Futuros amantes,major,42,6,7
+CHICO,20,Futuros amantes,major,43,5,x
+CHICO,20,Futuros amantes,major,44,6,7
+CHICO,20,Futuros amantes,major,45,5,x
+CHICO,20,Futuros amantes,major,46,6,1
+CHICO,20,Futuros amantes,major,47,5,7
+CHICO,20,Futuros amantes,major,48,6,1
+CHICO,20,Futuros amantes,major,49,3,5
+CHICO,20,Futuros amantes,major,50,4,x
+CHICO,20,Futuros amantes,major,51,5,6
+CHICO,20,Futuros amantes,major,52,4,x
+CHICO,20,Futuros amantes,major,53,5,6
+CHICO,20,Futuros amantes,major,54,#4/b5,x
+CHICO,20,Futuros amantes,major,55,4,5
+CHICO,20,Futuros amantes,major,56,3,x
+CHICO,20,Futuros amantes,major,57,4,5
+CHICO,20,Futuros amantes,major,58,3,7
+CHICO,20,Futuros amantes,major,59,2,x
+CHICO,20,Futuros amantes,major,60,3,7
+CHICO,20,Futuros amantes,major,61,2,x
+CHICO,20,Futuros amantes,major,62,3,1
+CHICO,20,Futuros amantes,major,63,2,x
+CHICO,20,Futuros amantes,major,64,3,1
+CHICO,22,Folhetim,major,1,3,3
+CHICO,22,Folhetim,major,2,4,x
+CHICO,22,Folhetim,major,3,5,5
+CHICO,22,Folhetim,major,4,4,x
+CHICO,22,Folhetim,major,5,3,3
+CHICO,22,Folhetim,major,6,5,1
+CHICO,22,Folhetim,major,7,3,6
+CHICO,22,Folhetim,major,8,5,b9/#9
+CHICO,22,Folhetim,major,9,4,x
+CHICO,22,Folhetim,major,10,3,1
+CHICO,22,Folhetim,major,11,2,7
+CHICO,22,Folhetim,major,12,1,5
+CHICO,22,Folhetim,major,13,2,x
+CHICO,22,Folhetim,major,14,1,5
+CHICO,22,Folhetim,major,15,2,1
+CHICO,22,Folhetim,major,16,1,x
+CHICO,22,Folhetim,major,17,2,1
+CHICO,22,Folhetim,major,18,3,3
+CHICO,22,Folhetim,major,19,1,3
+CHICO,22,Folhetim,major,20,7,x
+CHICO,22,Folhetim,major,21,1,1
+CHICO,22,Folhetim,major,22,3,3
+CHICO,22,Folhetim,major,23,#2/b3,x
+CHICO,22,Folhetim,major,24,2,6
+CHICO,22,Folhetim,major,25,1,x
+CHICO,22,Folhetim,major,26,7,#11
+CHICO,22,Folhetim,major,27,2,1
+CHICO,22,Folhetim,major,28,1,7
+CHICO,22,Folhetim,major,29,7,x
+CHICO,22,Folhetim,major,30,6,11
+CHICO,22,Folhetim,major,31,5,3
+CHICO,22,Folhetim,major,32,6,1
+CHICO,22,Folhetim,major,33,3,5
+CHICO,22,Folhetim,major,34,5,x
+CHICO,22,Folhetim,major,35,4,3
+CHICO,22,Folhetim,major,36,3,x
+CHICO,22,Folhetim,major,37,4,3
+CHICO,22,Folhetim,major,38,2,5
+CHICO,22,Folhetim,major,39,3,11
+CHICO,22,Folhetim,major,40,4,x
+CHICO,22,Folhetim,major,41,3,11
+CHICO,22,Folhetim,major,42,2,7
+CHICO,22,Folhetim,major,43,3,x
+CHICO,22,Folhetim,major,44,2,7
+CHICO,22,Folhetim,major,45,6,1
+CHICO,22,Folhetim,major,46,1,3
+CHICO,22,Folhetim,major,47,3,5
+CHICO,22,Folhetim,major,48,5,x
+CHICO,22,Folhetim,major,49,6,5
+CHICO,22,Folhetim,major,50,5,1
+CHICO,22,Folhetim,major,51,4,7
+CHICO,22,Folhetim,major,52,5,1
+CHICO,22,Folhetim,major,53,4,x
+CHICO,22,Folhetim,major,54,3,3
+CHICO,22,Folhetim,major,55,3,1
+CHICO,22,Folhetim,major,56,#5/b6,3
+CHICO,22,Folhetim,major,57,7,5
+CHICO,22,Folhetim,major,58,2,7
+CHICO,22,Folhetim,major,59,1,x
+CHICO,22,Folhetim,major,60,7,9
+CHICO,22,Folhetim,major,61,6,1
+CHICO,22,Folhetim,major,62,7,9
+CHICO,22,Folhetim,major,63,6,1
+CHICO,22,Folhetim,major,64,7,1
+CHICO,22,Folhetim,major,65,#2/b3,3
+CHICO,22,Folhetim,major,66,#4/b5,5
+CHICO,22,Folhetim,major,67,7,1
+CHICO,22,Folhetim,major,68,6,x
+CHICO,22,Folhetim,major,69,#5/b6,3
+CHICO,22,Folhetim,major,70,6,x
+CHICO,22,Folhetim,major,71,#6/b7,x
+CHICO,22,Folhetim,major,72,7,3
+CHICO,23,Homenagem ao malandro,major,1,3,7
+CHICO,23,Homenagem ao malandro,major,2,4,x
+CHICO,23,Homenagem ao malandro,major,3,#4/b5,x
+CHICO,23,Homenagem ao malandro,major,4,5,1
+CHICO,23,Homenagem ao malandro,major,5,6,x
+CHICO,23,Homenagem ao malandro,major,6,5,1
+CHICO,23,Homenagem ao malandro,major,7,6,x
+CHICO,23,Homenagem ao malandro,major,8,5,7
+CHICO,23,Homenagem ao malandro,major,9,6,1
+CHICO,23,Homenagem ao malandro,major,10,2,11
+CHICO,23,Homenagem ao malandro,major,11,3,5
+CHICO,23,Homenagem ao malandro,major,12,2,x
+CHICO,23,Homenagem ao malandro,major,13,3,5
+CHICO,23,Homenagem ao malandro,major,14,2,11
+CHICO,23,Homenagem ao malandro,major,15,3,x
+CHICO,23,Homenagem ao malandro,major,16,2,11
+CHICO,23,Homenagem ao malandro,major,17,6,1
+CHICO,23,Homenagem ao malandro,major,18,2,1
+CHICO,23,Homenagem ao malandro,major,19,3,9
+CHICO,23,Homenagem ao malandro,major,20,2,5
+CHICO,23,Homenagem ao malandro,major,21,3,x
+CHICO,23,Homenagem ao malandro,major,22,2,5
+CHICO,23,Homenagem ao malandro,major,23,7,3
+CHICO,23,Homenagem ao malandro,major,24,6,6
+CHICO,23,Homenagem ao malandro,major,25,1,1
+CHICO,23,Homenagem ao malandro,major,26,6,6
+CHICO,23,Homenagem ao malandro,major,27,1,1
+CHICO,23,Homenagem ao malandro,major,28,6,6
+CHICO,23,Homenagem ao malandro,major,29,3,7
+CHICO,23,Homenagem ao malandro,major,30,4,x
+CHICO,23,Homenagem ao malandro,major,31,#4/b5,x
+CHICO,23,Homenagem ao malandro,major,32,5,3
+CHICO,23,Homenagem ao malandro,major,33,6,x
+CHICO,23,Homenagem ao malandro,major,34,5,3
+CHICO,23,Homenagem ao malandro,major,35,5,7
+CHICO,23,Homenagem ao malandro,major,36,6,1
+CHICO,23,Homenagem ao malandro,major,37,2,11
+CHICO,23,Homenagem ao malandro,major,38,3,x
+CHICO,23,Homenagem ao malandro,major,39,2,11
+CHICO,23,Homenagem ao malandro,major,40,3,x
+CHICO,23,Homenagem ao malandro,major,41,2,11
+CHICO,23,Homenagem ao malandro,major,42,3,5
+CHICO,23,Homenagem ao malandro,major,43,2,11
+CHICO,23,Homenagem ao malandro,major,44,6,1
+CHICO,23,Homenagem ao malandro,major,45,2,1
+CHICO,23,Homenagem ao malandro,major,46,3,9
+CHICO,23,Homenagem ao malandro,major,47,2,5
+CHICO,23,Homenagem ao malandro,major,48,3,13
+CHICO,23,Homenagem ao malandro,major,49,5,1
+CHICO,23,Homenagem ao malandro,major,50,3,13
+CHICO,23,Homenagem ao malandro,major,51,1,1
+CHICO,23,Homenagem ao malandro,major,52,1,1
+CHICO,23,Homenagem ao malandro,major,53,7,1
+CHICO,23,Homenagem ao malandro,major,54,#6/b7,1
+CHICO,23,Homenagem ao malandro,major,55,6,1
+CHICO,23,Homenagem ao malandro,major,56,7,x
+CHICO,23,Homenagem ao malandro,major,57,#1/b2,3
+CHICO,23,Homenagem ao malandro,major,58,3,5
+CHICO,23,Homenagem ao malandro,major,59,6,1
+CHICO,23,Homenagem ao malandro,major,60,3,5
+CHICO,23,Homenagem ao malandro,major,61,2,11
+CHICO,23,Homenagem ao malandro,major,62,3,x
+CHICO,23,Homenagem ao malandro,major,63,2,11
+CHICO,23,Homenagem ao malandro,major,64,3,x
+CHICO,23,Homenagem ao malandro,major,65,2,11
+CHICO,23,Homenagem ao malandro,major,66,1,3
+CHICO,23,Homenagem ao malandro,major,67,7,x
+CHICO,23,Homenagem ao malandro,major,68,6,1
+CHICO,23,Homenagem ao malandro,major,69,5,1
+CHICO,23,Homenagem ao malandro,major,70,6,x
+CHICO,23,Homenagem ao malandro,major,71,7,3
+CHICO,23,Homenagem ao malandro,major,72,2,5
+CHICO,23,Homenagem ao malandro,major,73,5,1
+CHICO,23,Homenagem ao malandro,major,74,2,5
+CHICO,23,Homenagem ao malandro,major,75,1,1
+CHICO,23,Homenagem ao malandro,major,76,2,x
+CHICO,23,Homenagem ao malandro,major,77,1,1
+CHICO,23,Homenagem ao malandro,major,78,2,x
+CHICO,23,Homenagem ao malandro,major,79,1,1
+CHICO,23,Homenagem ao malandro,major,80,2,x
+CHICO,23,Homenagem ao malandro,major,81,1,1
+CHICO,23,Homenagem ao malandro,major,82,7,x
+CHICO,23,Homenagem ao malandro,major,83,6,1
+CHICO,26,Mambembe,major,1,5,5
+CHICO,26,Mambembe,major,2,5,6
+CHICO,26,Mambembe,major,3,5,7
+CHICO,26,Mambembe,major,4,4,6
+CHICO,26,Mambembe,major,5,#2/b3,5
+CHICO,26,Mambembe,major,6,4,6
+CHICO,26,Mambembe,major,7,5,1
+CHICO,26,Mambembe,major,8,3,3
+CHICO,26,Mambembe,major,9,3,1
+CHICO,26,Mambembe,major,10,3,9
+CHICO,26,Mambembe,major,11,2,1
+CHICO,26,Mambembe,major,12,1,x
+CHICO,26,Mambembe,major,13,7,5
+CHICO,26,Mambembe,major,14,2,x
+CHICO,26,Mambembe,major,15,1,b13
+CHICO,26,Mambembe,major,16,7,5
+CHICO,26,Mambembe,major,17,7,#11
+CHICO,26,Mambembe,major,18,6,3
+CHICO,26,Mambembe,major,19,1,5
+CHICO,26,Mambembe,major,20,7,3
+CHICO,26,Mambembe,major,21,6,9
+CHICO,26,Mambembe,major,22,5,3
+CHICO,26,Mambembe,major,23,3,5
+CHICO,26,Mambembe,major,24,4,x
+CHICO,26,Mambembe,major,25,5,7
+CHICO,26,Mambembe,major,26,6,1
+CHICO,26,Mambembe,major,27,3,9
+CHICO,26,Mambembe,major,28,2,3
+CHICO,26,Mambembe,major,29,3,1
+CHICO,26,Mambembe,major,30,5,3
+CHICO,26,Mambembe,major,31,1,6
+CHICO,26,Mambembe,major,32,5,3
+CHICO,26,Mambembe,major,33,4,x
+CHICO,26,Mambembe,major,34,5,7
+CHICO,26,Mambembe,major,35,5,1
+CHICO,26,Mambembe,major,36,4,7
+CHICO,26,Mambembe,major,37,3,3
+CHICO,26,Mambembe,major,38,3,11
+CHICO,26,Mambembe,major,39,6,7
+CHICO,26,Mambembe,major,40,3,11
+CHICO,26,Mambembe,major,41,2,3
+CHICO,26,Mambembe,major,42,6,1
+CHICO,26,Mambembe,major,43,#2/b3,b13
+CHICO,26,Mambembe,major,44,1,9
+CHICO,28,Meu caro amigo,major,1,1,1
+CHICO,28,Meu caro amigo,major,2,5,5
+CHICO,28,Meu caro amigo,major,3,1,x
+CHICO,28,Meu caro amigo,major,4,7,b13
+CHICO,28,Meu caro amigo,major,5,#4/b5,3
+CHICO,28,Meu caro amigo,major,6,1,7
+CHICO,28,Meu caro amigo,major,7,7,x
+CHICO,28,Meu caro amigo,major,8,6,5
+CHICO,28,Meu caro amigo,major,9,1,7
+CHICO,28,Meu caro amigo,major,10,4,3
+CHICO,28,Meu caro amigo,major,11,6,x
+CHICO,28,Meu caro amigo,major,12,5,1
+CHICO,28,Meu caro amigo,major,13,5,5
+CHICO,28,Meu caro amigo,major,14,1,1
+CHICO,28,Meu caro amigo,major,15,5,5
+CHICO,28,Meu caro amigo,major,16,1,1
+CHICO,28,Meu caro amigo,major,17,5,5
+CHICO,28,Meu caro amigo,major,18,#4/b5,x
+CHICO,28,Meu caro amigo,major,19,4,3
+CHICO,28,Meu caro amigo,major,20,5,1
+CHICO,28,Meu caro amigo,major,21,1,1
+CHICO,28,Meu caro amigo,major,22,5,5
+CHICO,28,Meu caro amigo,major,23,1,x
+CHICO,28,Meu caro amigo,major,24,7,b13
+CHICO,28,Meu caro amigo,major,25,#4/b5,3
+CHICO,28,Meu caro amigo,major,26,1,7
+CHICO,28,Meu caro amigo,major,27,7,x
+CHICO,28,Meu caro amigo,major,28,6,5
+CHICO,28,Meu caro amigo,major,29,1,7
+CHICO,28,Meu caro amigo,major,30,4,3
+CHICO,28,Meu caro amigo,major,31,6,x
+CHICO,28,Meu caro amigo,major,32,5,1
+CHICO,28,Meu caro amigo,major,33,5,5
+CHICO,28,Meu caro amigo,major,34,1,1
+CHICO,28,Meu caro amigo,major,35,5,5
+CHICO,28,Meu caro amigo,major,36,5,5
+CHICO,28,Meu caro amigo,major,37,1,1
+CHICO,28,Meu caro amigo,major,38,5,5
+CHICO,28,Meu caro amigo,major,39,#4/b5,x
+CHICO,28,Meu caro amigo,major,40,4,5
+CHICO,28,Meu caro amigo,major,41,3,1
+CHICO,28,Meu caro amigo,major,42,3,5
+CHICO,28,Meu caro amigo,major,43,5,1
+CHICO,28,Meu caro amigo,major,44,2,x
+CHICO,28,Meu caro amigo,major,45,1,3
+CHICO,28,Meu caro amigo,major,46,6,1
+CHICO,28,Meu caro amigo,major,47,3,5
+CHICO,28,Meu caro amigo,major,48,2,x
+CHICO,28,Meu caro amigo,major,49,1,5
+CHICO,28,Meu caro amigo,major,50,3,7
+CHICO,28,Meu caro amigo,major,51,6,3
+CHICO,28,Meu caro amigo,major,52,1,x
+CHICO,28,Meu caro amigo,major,53,7,1
+CHICO,28,Meu caro amigo,major,54,3,1
+CHICO,28,Meu caro amigo,major,55,5,3
+CHICO,28,Meu caro amigo,major,56,#6/b7,x
+CHICO,28,Meu caro amigo,major,57,6,1
+CHICO,28,Meu caro amigo,major,58,5,7
+CHICO,28,Meu caro amigo,major,59,3,5
+CHICO,28,Meu caro amigo,major,60,6,1
+CHICO,28,Meu caro amigo,major,61,#4/b5,3
+CHICO,28,Meu caro amigo,major,62,1,1
+CHICO,28,Meu caro amigo,major,63,3,9
+CHICO,28,Meu caro amigo,major,64,6,x
+CHICO,28,Meu caro amigo,major,65,5,1
+CHICO,28,Meu caro amigo,major,66,1,1
+CHICO,28,Meu caro amigo,major,67,5,5
+CHICO,28,Meu caro amigo,major,68,1,x
+CHICO,28,Meu caro amigo,major,69,7,b13
+CHICO,28,Meu caro amigo,major,70,#4/b5,3
+CHICO,28,Meu caro amigo,major,71,1,7
+CHICO,28,Meu caro amigo,major,72,7,x
+CHICO,28,Meu caro amigo,major,73,6,5
+CHICO,28,Meu caro amigo,major,74,1,7
+CHICO,28,Meu caro amigo,major,75,4,3
+CHICO,28,Meu caro amigo,major,76,6,x
+CHICO,28,Meu caro amigo,major,77,5,1
+CHICO,28,Meu caro amigo,major,78,5,3
+CHICO,28,Meu caro amigo,major,79,2,7
+CHICO,28,Meu caro amigo,major,80,5,3
+CHICO,28,Meu caro amigo,major,81,#4/b5,x
+CHICO,28,Meu caro amigo,major,82,4,x
+CHICO,28,Meu caro amigo,major,83,3,1
+CHICO,28,Meu caro amigo,major,84,#6/b7,b9/#9
+CHICO,28,Meu caro amigo,major,85,6,x
+CHICO,28,Meu caro amigo,major,86,5,7
+CHICO,28,Meu caro amigo,major,87,4,x
+CHICO,28,Meu caro amigo,major,88,3,5
+CHICO,28,Meu caro amigo,major,89,4,x
+CHICO,28,Meu caro amigo,major,90,3,9
+CHICO,28,Meu caro amigo,major,91,2,1
+CHICO,28,Meu caro amigo,major,92,2,6
+CHICO,28,Meu caro amigo,major,93,#5/b6,3
+CHICO,28,Meu caro amigo,major,94,2,x
+CHICO,28,Meu caro amigo,major,95,1,5
+CHICO,28,Meu caro amigo,major,96,6,3
+CHICO,28,Meu caro amigo,major,97,5,x
+CHICO,28,Meu caro amigo,major,98,4,1
+CHICO,28,Meu caro amigo,major,99,3,3
+CHICO,28,Meu caro amigo,major,100,4,x
+CHICO,28,Meu caro amigo,major,101,5,5
+CHICO,28,Meu caro amigo,major,102,#5/b6,x
+CHICO,28,Meu caro amigo,major,103,6,1
+CHICO,28,Meu caro amigo,major,104,5,7
+CHICO,28,Meu caro amigo,major,105,3,9
+CHICO,28,Meu caro amigo,major,106,#4/b5,3
+CHICO,28,Meu caro amigo,major,107,1,7
+CHICO,28,Meu caro amigo,major,108,3,9
+CHICO,28,Meu caro amigo,major,109,3,13
+CHICO,28,Meu caro amigo,major,110,4,7
+CHICO,28,Meu caro amigo,major,111,7,3
+CHICO,28,Meu caro amigo,major,112,3,13
+CHICO,28,Meu caro amigo,major,113,3,6
+CHICO,28,Meu caro amigo,major,114,5,1
+CHICO,28,Meu caro amigo,major,115,2,5
+CHICO,28,Meu caro amigo,major,116,3,6
+CHICO,28,Meu caro amigo,major,117,3,5
+CHICO,28,Meu caro amigo,major,118,6,1
+CHICO,28,Meu caro amigo,major,119,5,7
+CHICO,28,Meu caro amigo,major,120,3,9
+CHICO,28,Meu caro amigo,major,121,#4/b5,3
+CHICO,28,Meu caro amigo,major,122,1,7
+CHICO,28,Meu caro amigo,major,123,3,9
+CHICO,28,Meu caro amigo,major,124,3,13
+CHICO,28,Meu caro amigo,major,125,4,7
+CHICO,28,Meu caro amigo,major,126,7,3
+CHICO,28,Meu caro amigo,major,127,3,13
+CHICO,28,Meu caro amigo,major,128,3,6
+CHICO,28,Meu caro amigo,major,129,5,1
+CHICO,28,Meu caro amigo,major,130,2,5
+CHICO,28,Meu caro amigo,major,131,3,6
+CHICO,28,Meu caro amigo,major,132,3,5
+CHICO,28,Meu caro amigo,major,133,#6/b7,b9/#9
+CHICO,28,Meu caro amigo,major,134,6,1
+CHICO,28,Meu caro amigo,major,135,3,9
+CHICO,28,Meu caro amigo,major,136,#4/b5,3
+CHICO,28,Meu caro amigo,major,137,1,7
+CHICO,28,Meu caro amigo,major,138,3,9
+CHICO,28,Meu caro amigo,major,139,3,13
+CHICO,28,Meu caro amigo,major,140,2,x
+CHICO,28,Meu caro amigo,major,141,1,1
+CHICO,29,Morena dos olhos dagua,major,1,5,5
+CHICO,29,Morena dos olhos dagua,major,2,6,6
+CHICO,29,Morena dos olhos dagua,major,3,3,3
+CHICO,29,Morena dos olhos dagua,major,4,6,6
+CHICO,29,Morena dos olhos dagua,major,5,5,x
+CHICO,29,Morena dos olhos dagua,major,6,4,x
+CHICO,29,Morena dos olhos dagua,major,7,3,9
+CHICO,29,Morena dos olhos dagua,major,8,2,1
+CHICO,29,Morena dos olhos dagua,major,9,#2/b3,1
+CHICO,29,Morena dos olhos dagua,major,10,5,3
+CHICO,29,Morena dos olhos dagua,major,11,#6/b7,5
+CHICO,29,Morena dos olhos dagua,major,12,#2/b3,1
+CHICO,29,Morena dos olhos dagua,major,13,1,13
+CHICO,29,Morena dos olhos dagua,major,14,#6/b7,x
+CHICO,29,Morena dos olhos dagua,major,15,1,3
+CHICO,29,Morena dos olhos dagua,major,16,2,5
+CHICO,29,Morena dos olhos dagua,major,17,3,3
+CHICO,29,Morena dos olhos dagua,major,18,1,1
+CHICO,29,Morena dos olhos dagua,major,19,3,3
+CHICO,29,Morena dos olhos dagua,major,20,2,x
+CHICO,29,Morena dos olhos dagua,major,21,1,1
+CHICO,29,Morena dos olhos dagua,major,22,#4/b5,3
+CHICO,29,Morena dos olhos dagua,major,23,6,5
+CHICO,29,Morena dos olhos dagua,major,24,1,7
+CHICO,29,Morena dos olhos dagua,major,25,3,9
+CHICO,29,Morena dos olhos dagua,major,26,2,x
+CHICO,29,Morena dos olhos dagua,major,27,1,7
+CHICO,29,Morena dos olhos dagua,major,28,4,6
+CHICO,29,Morena dos olhos dagua,major,29,#5/b6,1
+CHICO,29,Morena dos olhos dagua,major,30,#2/b3,5
+CHICO,29,Morena dos olhos dagua,major,31,2,x
+CHICO,29,Morena dos olhos dagua,major,32,1,1
+CHICO,29,Morena dos olhos dagua,major,33,5,1
+CHICO,29,Morena dos olhos dagua,major,34,3,3
+CHICO,29,Morena dos olhos dagua,major,35,5,5
+CHICO,29,Morena dos olhos dagua,major,36,3,3
+CHICO,29,Morena dos olhos dagua,major,37,2,x
+CHICO,29,Morena dos olhos dagua,major,38,1,1
+CHICO,29,Morena dos olhos dagua,major,39,4,1
+CHICO,29,Morena dos olhos dagua,major,40,3,x
+CHICO,29,Morena dos olhos dagua,major,41,4,1
+CHICO,29,Morena dos olhos dagua,major,42,#4/b5,3
+CHICO,29,Morena dos olhos dagua,major,43,6,5
+CHICO,29,Morena dos olhos dagua,major,44,3,9
+CHICO,29,Morena dos olhos dagua,major,45,1,7
+CHICO,29,Morena dos olhos dagua,major,46,2,5
+CHICO,29,Morena dos olhos dagua,major,47,1,x
+CHICO,29,Morena dos olhos dagua,major,48,2,5
+CHICO,29,Morena dos olhos dagua,major,49,#2/b3,3
+CHICO,29,Morena dos olhos dagua,major,50,#2/b3,5
+CHICO,29,Morena dos olhos dagua,major,51,1,3
+CHICO,29,Morena dos olhos dagua,major,52,#2/b3,5
+CHICO,29,Morena dos olhos dagua,major,53,#2/b3,7
+CHICO,29,Morena dos olhos dagua,major,54,1,5
+CHICO,29,Morena dos olhos dagua,major,55,1,6
+CHICO,29,Morena dos olhos dagua,major,56,#2/b3,1
+CHICO,29,Morena dos olhos dagua,major,57,5,11
+CHICO,30,Mulheres de Atenas,major,1,3,3
+CHICO,30,Mulheres de Atenas,major,2,2,1
+CHICO,30,Mulheres de Atenas,major,3,1,x
+CHICO,30,Mulheres de Atenas,major,4,2,6
+CHICO,30,Mulheres de Atenas,major,5,3,x
+CHICO,30,Mulheres de Atenas,major,6,4,7
+CHICO,30,Mulheres de Atenas,major,7,2,5
+CHICO,30,Mulheres de Atenas,major,8,3,3
+CHICO,30,Mulheres de Atenas,major,9,2,1
+CHICO,30,Mulheres de Atenas,major,10,1,x
+CHICO,30,Mulheres de Atenas,major,11,2,6
+CHICO,30,Mulheres de Atenas,major,12,3,x
+CHICO,30,Mulheres de Atenas,major,13,4,3
+CHICO,30,Mulheres de Atenas,major,14,1,1
+CHICO,30,Mulheres de Atenas,major,15,6,3
+CHICO,30,Mulheres de Atenas,major,16,6,9
+CHICO,30,Mulheres de Atenas,major,17,5,1
+CHICO,30,Mulheres de Atenas,major,18,4,7
+CHICO,30,Mulheres de Atenas,major,19,3,b13
+CHICO,30,Mulheres de Atenas,major,20,2,11
+CHICO,30,Mulheres de Atenas,major,21,2,11
+CHICO,30,Mulheres de Atenas,major,22,1,3
+CHICO,30,Mulheres de Atenas,major,23,7,3
+CHICO,30,Mulheres de Atenas,major,24,1,x
+CHICO,30,Mulheres de Atenas,major,25,2,5
+CHICO,30,Mulheres de Atenas,major,26,4,7
+CHICO,30,Mulheres de Atenas,major,27,1,1
+CHICO,30,Mulheres de Atenas,major,28,6,3
+CHICO,30,Mulheres de Atenas,major,29,6,9
+CHICO,30,Mulheres de Atenas,major,30,5,1
+CHICO,30,Mulheres de Atenas,major,31,4,7
+CHICO,30,Mulheres de Atenas,major,32,3,9
+CHICO,30,Mulheres de Atenas,major,33,3,1
+CHICO,30,Mulheres de Atenas,major,34,2,7
+CHICO,30,Mulheres de Atenas,major,35,2,11
+CHICO,30,Mulheres de Atenas,major,36,1,3
+CHICO,30,Mulheres de Atenas,major,37,7,3
+CHICO,30,Mulheres de Atenas,major,38,1,x
+CHICO,30,Mulheres de Atenas,major,39,2,5
+CHICO,30,Mulheres de Atenas,major,40,4,7
+CHICO,30,Mulheres de Atenas,major,41,1,1
+CHICO,30,Mulheres de Atenas,major,42,4,x
+CHICO,30,Mulheres de Atenas,major,43,3,3
+CHICO,30,Mulheres de Atenas,major,44,1,1
+CHICO,31,Nao existe pecado ao sul do equador,major,1,3,3
+CHICO,31,Nao existe pecado ao sul do equador,major,2,4,x
+CHICO,31,Nao existe pecado ao sul do equador,major,3,5,5
+CHICO,31,Nao existe pecado ao sul do equador,major,4,4,x
+CHICO,31,Nao existe pecado ao sul do equador,major,5,3,3
+CHICO,31,Nao existe pecado ao sul do equador,major,6,5,5
+CHICO,31,Nao existe pecado ao sul do equador,major,7,4,x
+CHICO,31,Nao existe pecado ao sul do equador,major,8,3,3
+CHICO,31,Nao existe pecado ao sul do equador,major,9,5,5
+CHICO,31,Nao existe pecado ao sul do equador,major,10,4,x
+CHICO,31,Nao existe pecado ao sul do equador,major,11,3,3
+CHICO,31,Nao existe pecado ao sul do equador,major,12,5,5
+CHICO,31,Nao existe pecado ao sul do equador,major,13,3,3
+CHICO,31,Nao existe pecado ao sul do equador,major,14,6,7
+CHICO,31,Nao existe pecado ao sul do equador,major,15,3,x
+CHICO,31,Nao existe pecado ao sul do equador,major,16,4,5
+CHICO,31,Nao existe pecado ao sul do equador,major,17,2,1
+CHICO,31,Nao existe pecado ao sul do equador,major,18,4,5
+CHICO,31,Nao existe pecado ao sul do equador,major,19,5,x
+CHICO,31,Nao existe pecado ao sul do equador,major,20,6,7
+CHICO,31,Nao existe pecado ao sul do equador,major,21,5,x
+CHICO,31,Nao existe pecado ao sul do equador,major,22,4,5
+CHICO,31,Nao existe pecado ao sul do equador,major,23,6,5
+CHICO,31,Nao existe pecado ao sul do equador,major,24,5,x
+CHICO,31,Nao existe pecado ao sul do equador,major,25,4,3
+CHICO,31,Nao existe pecado ao sul do equador,major,26,6,5
+CHICO,31,Nao existe pecado ao sul do equador,major,27,5,x
+CHICO,31,Nao existe pecado ao sul do equador,major,28,4,3
+CHICO,31,Nao existe pecado ao sul do equador,major,29,6,9
+CHICO,31,Nao existe pecado ao sul do equador,major,30,4,7
+CHICO,31,Nao existe pecado ao sul do equador,major,31,7,3
+CHICO,31,Nao existe pecado ao sul do equador,major,32,5,14
+CHICO,31,Nao existe pecado ao sul do equador,major,33,4,7
+CHICO,31,Nao existe pecado ao sul do equador,major,34,5,5
+CHICO,31,Nao existe pecado ao sul do equador,major,35,1,1
+CHICO,31,Nao existe pecado ao sul do equador,major,36,6,6
+CHICO,31,Nao existe pecado ao sul do equador,major,37,5,5
+CHICO,31,Nao existe pecado ao sul do equador,major,38,1,11
+CHICO,31,Nao existe pecado ao sul do equador,major,39,6,9
+CHICO,31,Nao existe pecado ao sul do equador,major,40,5,1
+CHICO,31,Nao existe pecado ao sul do equador,major,41,1,11
+CHICO,31,Nao existe pecado ao sul do equador,major,42,6,9
+CHICO,31,Nao existe pecado ao sul do equador,major,43,5,1
+CHICO,31,Nao existe pecado ao sul do equador,major,44,1,1
+CHICO,31,Nao existe pecado ao sul do equador,major,45,6,6
+CHICO,31,Nao existe pecado ao sul do equador,major,46,5,5
+CHICO,31,Nao existe pecado ao sul do equador,major,47,3,3
+CHICO,31,Nao existe pecado ao sul do equador,major,48,2,x
+CHICO,31,Nao existe pecado ao sul do equador,major,49,1,1
+CHICO,31,Nao existe pecado ao sul do equador,major,50,6,3
+CHICO,31,Nao existe pecado ao sul do equador,major,51,1,5
+CHICO,31,Nao existe pecado ao sul do equador,major,52,#6/b7,x
+CHICO,31,Nao existe pecado ao sul do equador,major,53,#5/b6,3
+CHICO,31,Nao existe pecado ao sul do equador,major,54,5,3
+CHICO,31,Nao existe pecado ao sul do equador,major,55,#5/b6,1
+CHICO,31,Nao existe pecado ao sul do equador,major,56,6,5
+CHICO,31,Nao existe pecado ao sul do equador,major,57,7,3
+CHICO,31,Nao existe pecado ao sul do equador,major,58,6,x
+CHICO,31,Nao existe pecado ao sul do equador,major,59,5,1
+CHICO,31,Nao existe pecado ao sul do equador,major,60,1,1
+CHICO,31,Nao existe pecado ao sul do equador,major,61,3,3
+CHICO,31,Nao existe pecado ao sul do equador,major,62,7,7
+CHICO,31,Nao existe pecado ao sul do equador,major,63,2,x
+CHICO,31,Nao existe pecado ao sul do equador,major,64,1,1
+CHICO,31,Nao existe pecado ao sul do equador,major,65,3,3
+CHICO,31,Nao existe pecado ao sul do equador,major,66,6,x
+CHICO,31,Nao existe pecado ao sul do equador,major,67,5,11
+CHICO,31,Nao existe pecado ao sul do equador,major,68,2,1
+CHICO,31,Nao existe pecado ao sul do equador,major,69,6,5
+CHICO,31,Nao existe pecado ao sul do equador,major,70,5,1
+CHICO,31,Nao existe pecado ao sul do equador,major,71,2,1
+CHICO,31,Nao existe pecado ao sul do equador,major,72,6,9
+CHICO,31,Nao existe pecado ao sul do equador,major,73,5,1
+CHICO,31,Nao existe pecado ao sul do equador,major,74,3,3
+CHICO,31,Nao existe pecado ao sul do equador,major,75,7,7
+CHICO,31,Nao existe pecado ao sul do equador,major,76,2,x
+CHICO,31,Nao existe pecado ao sul do equador,major,77,1,1
+CHICO,31,Nao existe pecado ao sul do equador,major,78,3,3
+CHICO,31,Nao existe pecado ao sul do equador,major,79,6,x
+CHICO,31,Nao existe pecado ao sul do equador,major,80,5,11
+CHICO,31,Nao existe pecado ao sul do equador,major,81,2,1
+CHICO,31,Nao existe pecado ao sul do equador,major,82,6,x
+CHICO,31,Nao existe pecado ao sul do equador,major,83,5,1
+CHICO,31,Nao existe pecado ao sul do equador,major,84,2,5
+CHICO,31,Nao existe pecado ao sul do equador,major,85,6,9
+CHICO,31,Nao existe pecado ao sul do equador,major,86,5,1
+CHICO,31,Nao existe pecado ao sul do equador,major,87,4,3
+CHICO,31,Nao existe pecado ao sul do equador,major,88,3,3
+CHICO,31,Nao existe pecado ao sul do equador,major,89,2,9
+CHICO,31,Nao existe pecado ao sul do equador,major,90,#1/b2,7
+CHICO,31,Nao existe pecado ao sul do equador,major,91,3,1
+CHICO,31,Nao existe pecado ao sul do equador,major,92,5,3
+CHICO,31,Nao existe pecado ao sul do equador,major,93,#6/b7,b9/#9
+CHICO,31,Nao existe pecado ao sul do equador,major,94,6,1
+CHICO,31,Nao existe pecado ao sul do equador,major,95,3,9
+CHICO,31,Nao existe pecado ao sul do equador,major,96,2,1
+CHICO,31,Nao existe pecado ao sul do equador,major,97,6,5
+CHICO,31,Nao existe pecado ao sul do equador,major,98,3,9
+CHICO,31,Nao existe pecado ao sul do equador,major,99,6,5
+CHICO,31,Nao existe pecado ao sul do equador,major,100,5,3
+CHICO,31,Nao existe pecado ao sul do equador,major,101,3,1
+CHICO,31,Nao existe pecado ao sul do equador,major,102,5,3
+CHICO,31,Nao existe pecado ao sul do equador,major,103,4,3
+CHICO,31,Nao existe pecado ao sul do equador,major,104,2,1
+CHICO,31,Nao existe pecado ao sul do equador,major,105,4,7
+CHICO,31,Nao existe pecado ao sul do equador,major,106,1,1
+CHICO,32,Noite dos mascarados,minor,1,3,1
+CHICO,32,Noite dos mascarados,minor,2,2,1
+CHICO,32,Noite dos mascarados,minor,3,1,7
+CHICO,32,Noite dos mascarados,minor,4,7,3
+CHICO,32,Noite dos mascarados,minor,5,6,b9/#9
+CHICO,32,Noite dos mascarados,minor,6,5,x
+CHICO,32,Noite dos mascarados,minor,7,4,7
+CHICO,32,Noite dos mascarados,minor,8,3,x
+CHICO,32,Noite dos mascarados,minor,9,2,5
+CHICO,32,Noite dos mascarados,minor,10,6,5
+CHICO,32,Noite dos mascarados,minor,11,5,1
+CHICO,32,Noite dos mascarados,minor,12,4,x
+CHICO,32,Noite dos mascarados,minor,13,3,3
+CHICO,32,Noite dos mascarados,minor,14,2,x
+CHICO,32,Noite dos mascarados,minor,15,1,1
+CHICO,32,Noite dos mascarados,minor,16,3,3
+CHICO,32,Noite dos mascarados,minor,17,5,5
+CHICO,32,Noite dos mascarados,minor,18,4,3
+CHICO,32,Noite dos mascarados,minor,19,3,b13
+CHICO,32,Noite dos mascarados,minor,20,2,5
+CHICO,32,Noite dos mascarados,minor,21,4,11
+CHICO,32,Noite dos mascarados,minor,22,3,3
+CHICO,32,Noite dos mascarados,minor,23,1,1
+CHICO,32,Noite dos mascarados,minor,24,5,5
+CHICO,32,Noite dos mascarados,minor,25,1,1
+CHICO,32,Noite dos mascarados,minor,26,2,x
+CHICO,32,Noite dos mascarados,minor,27,3,5
+CHICO,32,Noite dos mascarados,minor,28,2,5
+CHICO,32,Noite dos mascarados,minor,29,4,11
+CHICO,32,Noite dos mascarados,minor,30,3,x
+CHICO,32,Noite dos mascarados,minor,31,4,1
+CHICO,32,Noite dos mascarados,minor,32,5,6
+CHICO,32,Noite dos mascarados,minor,33,4,x
+CHICO,32,Noite dos mascarados,minor,34,3,1
+CHICO,35,Olhos nos olhos,major,1,3,3
+CHICO,35,Olhos nos olhos,major,2,#2/b3,x
+CHICO,35,Olhos nos olhos,major,3,3,3
+CHICO,35,Olhos nos olhos,major,4,4,3
+CHICO,35,Olhos nos olhos,major,5,3,x
+CHICO,35,Olhos nos olhos,major,6,4,3
+CHICO,35,Olhos nos olhos,major,7,#4/b5,3
+CHICO,35,Olhos nos olhos,major,8,6,5
+CHICO,35,Olhos nos olhos,major,9,5,5
+CHICO,35,Olhos nos olhos,major,10,5,5
+CHICO,35,Olhos nos olhos,major,11,6,x
+CHICO,35,Olhos nos olhos,major,12,5,5
+CHICO,35,Olhos nos olhos,major,13,6,6
+CHICO,35,Olhos nos olhos,major,14,1,1
+CHICO,35,Olhos nos olhos,major,15,1,5
+CHICO,35,Olhos nos olhos,major,16,2,x
+CHICO,35,Olhos nos olhos,major,17,1,5
+CHICO,35,Olhos nos olhos,major,18,2,6
+CHICO,35,Olhos nos olhos,major,19,3,11
+CHICO,35,Olhos nos olhos,major,20,2,x
+CHICO,35,Olhos nos olhos,major,21,3,11
+CHICO,35,Olhos nos olhos,major,22,2,x
+CHICO,35,Olhos nos olhos,major,23,3,1
+CHICO,35,Olhos nos olhos,major,24,3,5
+CHICO,35,Olhos nos olhos,major,25,2,x
+CHICO,35,Olhos nos olhos,major,26,3,5
+CHICO,35,Olhos nos olhos,major,27,2,x
+CHICO,35,Olhos nos olhos,major,28,3,5
+CHICO,35,Olhos nos olhos,major,29,6,5
+CHICO,35,Olhos nos olhos,major,30,7,x
+CHICO,35,Olhos nos olhos,major,31,6,5
+CHICO,35,Olhos nos olhos,major,32,7,x
+CHICO,35,Olhos nos olhos,major,33,6,5
+CHICO,35,Olhos nos olhos,major,34,7,x
+CHICO,35,Olhos nos olhos,major,35,6,5
+CHICO,35,Olhos nos olhos,major,36,7,13
+CHICO,35,Olhos nos olhos,major,37,2,1
+CHICO,35,Olhos nos olhos,major,38,2,5
+CHICO,35,Olhos nos olhos,major,39,3,13
+CHICO,35,Olhos nos olhos,major,40,2,x
+CHICO,35,Olhos nos olhos,major,41,3,13
+CHICO,35,Olhos nos olhos,major,42,4,7
+CHICO,36,Pedro pedreiro,minor,1,1,5
+CHICO,36,Pedro pedreiro,minor,2,2,6
+CHICO,36,Pedro pedreiro,minor,3,7,x
+CHICO,36,Pedro pedreiro,minor,4,1,5
+CHICO,36,Pedro pedreiro,minor,5,2,6
+CHICO,36,Pedro pedreiro,minor,6,7,x
+CHICO,36,Pedro pedreiro,minor,7,1,5
+CHICO,36,Pedro pedreiro,minor,8,2,5
+CHICO,36,Pedro pedreiro,minor,9,7,3
+CHICO,36,Pedro pedreiro,minor,10,1,x
+CHICO,36,Pedro pedreiro,minor,11,2,5
+CHICO,36,Pedro pedreiro,minor,12,3,b13
+CHICO,36,Pedro pedreiro,minor,13,4,x
+CHICO,36,Pedro pedreiro,minor,14,5,5
+CHICO,36,Pedro pedreiro,minor,15,1,1
+CHICO,36,Pedro pedreiro,minor,16,1,5
+CHICO,36,Pedro pedreiro,minor,17,2,x
+CHICO,36,Pedro pedreiro,minor,18,3,7
+CHICO,36,Pedro pedreiro,minor,19,4,x
+CHICO,36,Pedro pedreiro,minor,20,5,5
+CHICO,36,Pedro pedreiro,minor,21,4,x
+CHICO,36,Pedro pedreiro,minor,22,3,3
+CHICO,36,Pedro pedreiro,minor,23,2,x
+CHICO,36,Pedro pedreiro,minor,24,3,3
+CHICO,36,Pedro pedreiro,minor,25,2,x
+CHICO,36,Pedro pedreiro,minor,26,1,1
+CHICO,36,Pedro pedreiro,minor,27,b7,7
+CHICO,36,Pedro pedreiro,minor,28,1,5
+CHICO,36,Pedro pedreiro,minor,29,2,x
+CHICO,36,Pedro pedreiro,minor,30,3,7
+CHICO,36,Pedro pedreiro,minor,31,4,x
+CHICO,36,Pedro pedreiro,minor,32,5,9
+CHICO,36,Pedro pedreiro,minor,33,4,1
+CHICO,36,Pedro pedreiro,minor,34,5,9
+CHICO,36,Pedro pedreiro,minor,35,5,1
+CHICO,36,Pedro pedreiro,minor,36,7,3
+CHICO,36,Pedro pedreiro,minor,37,2,5
+CHICO,36,Pedro pedreiro,minor,38,4,7
+CHICO,36,Pedro pedreiro,minor,39,3,x
+CHICO,36,Pedro pedreiro,minor,40,2,5
+CHICO,36,Pedro pedreiro,minor,41,1,5
+CHICO,36,Pedro pedreiro,minor,42,4,1
+CHICO,36,Pedro pedreiro,minor,43,3,x
+CHICO,36,Pedro pedreiro,minor,44,2,x
+CHICO,36,Pedro pedreiro,minor,45,1,1
+CHICO,36,Pedro pedreiro,minor,46,4,11
+CHICO,36,Pedro pedreiro,minor,47,3,3
+CHICO,36,Pedro pedreiro,minor,48,2,x
+CHICO,36,Pedro pedreiro,minor,49,1,1
+CHICO,36,Pedro pedreiro,minor,50,1,5
+CHICO,36,Pedro pedreiro,minor,51,4,1
+CHICO,36,Pedro pedreiro,minor,52,3,x
+CHICO,36,Pedro pedreiro,minor,53,2,x
+CHICO,36,Pedro pedreiro,minor,54,1,1
+CHICO,36,Pedro pedreiro,minor,55,4,11
+CHICO,36,Pedro pedreiro,minor,56,3,3
+CHICO,36,Pedro pedreiro,minor,57,2,x
+CHICO,36,Pedro pedreiro,minor,58,1,1
+CHICO,36,Pedro pedreiro,minor,59,4,1
+CHICO,36,Pedro pedreiro,minor,60,3,x
+CHICO,36,Pedro pedreiro,minor,61,2,x
+CHICO,36,Pedro pedreiro,minor,62,1,1
+CHICO,36,Pedro pedreiro,minor,63,4,x
+CHICO,36,Pedro pedreiro,minor,64,3,3
+CHICO,36,Pedro pedreiro,minor,65,5,11
+CHICO,36,Pedro pedreiro,minor,66,2,1
+CHICO,36,Pedro pedreiro,minor,67,2,5
+CHICO,36,Pedro pedreiro,minor,68,7,3
+CHICO,36,Pedro pedreiro,minor,69,1,1
+CHICO,37,Quem te viu quem te ve,minor,1,5,5
+CHICO,37,Quem te viu quem te ve,minor,2,5,9
+CHICO,37,Quem te viu quem te ve,minor,3,4,1
+CHICO,37,Quem te viu quem te ve,minor,4,5,9
+CHICO,37,Quem te viu quem te ve,minor,5,5,b13
+CHICO,37,Quem te viu quem te ve,minor,6,4,5
+CHICO,37,Quem te viu quem te ve,minor,7,6,7
+CHICO,37,Quem te viu quem te ve,minor,8,5,x
+CHICO,37,Quem te viu quem te ve,minor,9,4,11
+CHICO,37,Quem te viu quem te ve,minor,10,3,3
+CHICO,37,Quem te viu quem te ve,minor,11,1,1
+CHICO,37,Quem te viu quem te ve,minor,12,1,5
+CHICO,37,Quem te viu quem te ve,minor,13,2,x
+CHICO,37,Quem te viu quem te ve,minor,14,3,7
+CHICO,37,Quem te viu quem te ve,minor,15,1,5
+CHICO,37,Quem te viu quem te ve,minor,16,1,9
+CHICO,37,Quem te viu quem te ve,minor,17,b7,1
+CHICO,37,Quem te viu quem te ve,minor,18,4,5
+CHICO,37,Quem te viu quem te ve,minor,19,5,x
+CHICO,37,Quem te viu quem te ve,minor,20,6,7
+CHICO,37,Quem te viu quem te ve,minor,21,5,x
+CHICO,37,Quem te viu quem te ve,minor,22,6,7
+CHICO,37,Quem te viu quem te ve,minor,23,b7,1
+CHICO,37,Quem te viu quem te ve,minor,24,6,x
+CHICO,37,Quem te viu quem te ve,minor,25,5,3
+CHICO,37,Quem te viu quem te ve,minor,26,3,1
+CHICO,37,Quem te viu quem te ve,minor,27,4,x
+CHICO,37,Quem te viu quem te ve,minor,28,5,3
+CHICO,37,Quem te viu quem te ve,minor,29,#4/b5,x
+CHICO,37,Quem te viu quem te ve,minor,30,5,3
+CHICO,37,Quem te viu quem te ve,minor,31,1,6
+CHICO,37,Quem te viu quem te ve,minor,32,1,3
+CHICO,37,Quem te viu quem te ve,minor,33,#6,1
+CHICO,37,Quem te viu quem te ve,minor,34,7,3
+CHICO,37,Quem te viu quem te ve,minor,35,6,1
+CHICO,37,Quem te viu quem te ve,minor,36,5,1
+CHICO,37,Quem te viu quem te ve,minor,37,4,7
+CHICO,37,Quem te viu quem te ve,minor,38,3,7
+CHICO,37,Quem te viu quem te ve,minor,39,#4/b5,1
+CHICO,37,Quem te viu quem te ve,minor,40,4,14
+CHICO,37,Quem te viu quem te ve,minor,41,3,7
+CHICO,37,Quem te viu quem te ve,minor,42,2,5
+CHICO,37,Quem te viu quem te ve,minor,43,1,3
+CHICO,37,Quem te viu quem te ve,minor,44,7,3
+CHICO,37,Quem te viu quem te ve,minor,45,1,x
+CHICO,37,Quem te viu quem te ve,minor,46,2,5
+CHICO,38,Roda viva,minor,1,1,1
+CHICO,38,Roda viva,minor,2,3,5
+CHICO,38,Roda viva,minor,3,1,3
+CHICO,38,Roda viva,minor,4,5,1
+CHICO,38,Roda viva,minor,5,1,5
+CHICO,38,Roda viva,minor,6,b7,1
+CHICO,38,Roda viva,minor,7,5,3
+CHICO,38,Roda viva,minor,8,2,14
+CHICO,38,Roda viva,minor,9,2,1
+CHICO,38,Roda viva,minor,10,1,7
+CHICO,38,Roda viva,minor,11,5,1
+CHICO,38,Roda viva,minor,12,1,1
+CHICO,38,Roda viva,minor,13,b7,x
+CHICO,38,Roda viva,minor,14,6,3
+CHICO,38,Roda viva,minor,15,4,1
+CHICO,38,Roda viva,minor,16,6,3
+CHICO,38,Roda viva,minor,17,b7,1
+CHICO,38,Roda viva,minor,18,6,x
+CHICO,38,Roda viva,minor,19,5,3
+CHICO,38,Roda viva,minor,20,#4/b5,3
+CHICO,38,Roda viva,minor,21,5,1
+CHICO,38,Roda viva,minor,22,4,x
+CHICO,38,Roda viva,minor,23,3,3
+CHICO,38,Roda viva,minor,24,1,1
+CHICO,38,Roda viva,minor,25,3,5
+CHICO,38,Roda viva,minor,26,4,x
+CHICO,38,Roda viva,minor,27,5,1
+CHICO,38,Roda viva,minor,28,1,1
+CHICO,38,Roda viva,minor,29,5,1
+CHICO,38,Roda viva,minor,30,4,1
+CHICO,38,Roda viva,minor,31,2,3
+CHICO,38,Roda viva,minor,32,#1/b2,3
+CHICO,38,Roda viva,minor,33,1,13
+CHICO,38,Roda viva,minor,34,6,1
+CHICO,38,Roda viva,minor,35,5,1
+CHICO,38,Roda viva,minor,36,4,7
+CHICO,38,Roda viva,minor,37,1,1
+CHICO,39,Samba de Orly,major,1,3,3
+CHICO,39,Samba de Orly,major,2,5,5
+CHICO,39,Samba de Orly,major,3,6,6
+CHICO,39,Samba de Orly,major,4,6,3
+CHICO,39,Samba de Orly,major,5,7,1
+CHICO,39,Samba de Orly,major,6,1,b9/#9
+CHICO,39,Samba de Orly,major,7,7,1
+CHICO,39,Samba de Orly,major,8,6,7
+CHICO,39,Samba de Orly,major,9,5,3
+CHICO,39,Samba de Orly,major,10,6,1
+CHICO,39,Samba de Orly,major,11,#6/b7,b9/#9
+CHICO,39,Samba de Orly,major,12,6,1
+CHICO,39,Samba de Orly,major,13,5,7
+CHICO,39,Samba de Orly,major,14,4,7
+CHICO,39,Samba de Orly,major,15,3,3
+CHICO,39,Samba de Orly,major,16,4,x
+CHICO,39,Samba de Orly,major,17,3,3
+CHICO,39,Samba de Orly,major,18,2,x
+CHICO,39,Samba de Orly,major,19,1,5
+CHICO,39,Samba de Orly,major,20,6,3
+CHICO,39,Samba de Orly,major,21,1,5
+CHICO,39,Samba de Orly,major,22,5,9
+CHICO,39,Samba de Orly,major,23,3,7
+CHICO,39,Samba de Orly,major,24,2,x
+CHICO,39,Samba de Orly,major,25,1,1
+CHICO,39,Samba de Orly,major,26,6,6
+CHICO,39,Samba de Orly,major,27,1,1
+CHICO,39,Samba de Orly,major,28,1,3
+CHICO,39,Samba de Orly,major,29,7,x
+CHICO,39,Samba de Orly,major,30,6,1
+CHICO,39,Samba de Orly,major,31,5,x
+CHICO,39,Samba de Orly,major,32,#4/b5,3
+CHICO,39,Samba de Orly,major,33,2,1
+CHICO,39,Samba de Orly,major,34,1,7
+CHICO,39,Samba de Orly,major,35,7,x
+CHICO,39,Samba de Orly,major,36,6,5
+CHICO,39,Samba de Orly,major,37,5,x
+CHICO,39,Samba de Orly,major,38,4,3
+CHICO,39,Samba de Orly,major,39,5,11
+CHICO,39,Samba de Orly,major,40,6,5
+CHICO,39,Samba de Orly,major,41,1,7
+CHICO,39,Samba de Orly,major,42,3,13
+CHICO,41,Samba e amor,minor,1,5,1
+CHICO,41,Samba e amor,minor,2,#4/b5,x
+CHICO,41,Samba e amor,minor,3,5,5
+CHICO,41,Samba e amor,minor,4,1,1
+CHICO,41,Samba e amor,minor,5,5,5
+CHICO,41,Samba e amor,minor,6,4,1
+CHICO,41,Samba e amor,minor,7,3,7
+CHICO,41,Samba e amor,minor,8,1,5
+CHICO,41,Samba e amor,minor,9,3,7
+CHICO,41,Samba e amor,minor,10,4,6
+CHICO,41,Samba e amor,minor,11,5,1
+CHICO,41,Samba e amor,minor,12,#4/b5,x
+CHICO,41,Samba e amor,minor,13,5,5
+CHICO,41,Samba e amor,minor,14,1,1
+CHICO,41,Samba e amor,minor,15,5,5
+CHICO,41,Samba e amor,minor,16,4,1
+CHICO,41,Samba e amor,minor,17,3,7
+CHICO,41,Samba e amor,minor,18,1,5
+CHICO,41,Samba e amor,minor,19,3,7
+CHICO,41,Samba e amor,minor,20,1,1
+CHICO,41,Samba e amor,minor,21,5,9
+CHICO,41,Samba e amor,minor,22,1,5
+CHICO,41,Samba e amor,minor,23,5,7
+CHICO,41,Samba e amor,minor,24,7,3
+CHICO,41,Samba e amor,minor,25,5,3
+CHICO,41,Samba e amor,minor,26,b7,5
+CHICO,41,Samba e amor,minor,27,5,7
+CHICO,41,Samba e amor,minor,28,4,6
+CHICO,41,Samba e amor,minor,29,5,7
+CHICO,41,Samba e amor,minor,30,3,5
+CHICO,41,Samba e amor,minor,31,4,x
+CHICO,41,Samba e amor,minor,32,5,7
+CHICO,41,Samba e amor,minor,33,1,3
+CHICO,41,Samba e amor,minor,34,b7,b13
+CHICO,41,Samba e amor,minor,35,#6,5
+CHICO,41,Samba e amor,minor,36,5,11
+CHICO,41,Samba e amor,minor,37,5,7
+CHICO,41,Samba e amor,minor,38,1,1
+CHICO,41,Samba e amor,minor,39,5,5
+CHICO,41,Samba e amor,minor,40,3,3
+CHICO,41,Samba e amor,minor,41,1,1
+CHICO,41,Samba e amor,minor,42,b7,7
+CHICO,41,Samba e amor,minor,43,5,5
+CHICO,41,Samba e amor,minor,44,#3,3
+CHICO,41,Samba e amor,minor,45,b7,7
+CHICO,41,Samba e amor,minor,46,b7,11
+CHICO,41,Samba e amor,minor,47,6,3
+CHICO,41,Samba e amor,minor,48,6,7
+CHICO,41,Samba e amor,minor,49,5,3
+CHICO,41,Samba e amor,minor,50,6,x
+CHICO,41,Samba e amor,minor,51,#6,x
+CHICO,41,Samba e amor,minor,52,b7,5
+CHICO,41,Samba e amor,minor,53,5,3
+CHICO,41,Samba e amor,minor,54,6,x
+CHICO,41,Samba e amor,minor,55,#6,x
+CHICO,41,Samba e amor,minor,56,b7,13
+CHICO,41,Samba e amor,minor,57,5,5
+CHICO,41,Samba e amor,minor,58,3,3
+CHICO,41,Samba e amor,minor,59,5,1
+CHICO,41,Samba e amor,minor,60,1,1
+CHICO,41,Samba e amor,minor,61,1,5
+CHICO,41,Samba e amor,minor,62,6,1
+CHICO,41,Samba e amor,minor,63,1,9
+CHICO,41,Samba e amor,minor,64,3,5
+CHICO,41,Samba e amor,minor,65,6,1
+CHICO,41,Samba e amor,minor,66,5,1
+CHICO,41,Samba e amor,minor,67,4,7
+CHICO,41,Samba e amor,minor,68,2,5
+CHICO,41,Samba e amor,minor,69,3,b13
+CHICO,41,Samba e amor,minor,70,1,1
+CHICO,43,Tatuagem,major,1,3,5
+CHICO,43,Tatuagem,major,2,2,11
+CHICO,43,Tatuagem,major,3,4,6
+CHICO,43,Tatuagem,major,4,4,1
+CHICO,43,Tatuagem,major,5,3,7
+CHICO,43,Tatuagem,major,6,6,1
+CHICO,43,Tatuagem,major,7,#6/b7,5
+CHICO,43,Tatuagem,major,8,6,x
+CHICO,43,Tatuagem,major,9,5,3
+CHICO,43,Tatuagem,major,10,4,b13
+CHICO,43,Tatuagem,major,11,3,5
+CHICO,43,Tatuagem,major,12,3,b13
+CHICO,43,Tatuagem,major,13,6,3
+CHICO,43,Tatuagem,major,14,#5/b6,x
+CHICO,43,Tatuagem,major,15,6,3
+CHICO,43,Tatuagem,major,16,#5/b6,x
+CHICO,43,Tatuagem,major,17,6,3
+CHICO,43,Tatuagem,major,18,#5/b6,x
+CHICO,43,Tatuagem,major,19,6,3
+CHICO,43,Tatuagem,major,20,#5/b6,x
+CHICO,43,Tatuagem,major,21,6,3
+CHICO,43,Tatuagem,major,22,#5/b6,x
+CHICO,43,Tatuagem,major,23,6,3
+CHICO,43,Tatuagem,major,24,7,x
+CHICO,43,Tatuagem,major,25,6,3
+CHICO,43,Tatuagem,major,26,5,3
+CHICO,43,Tatuagem,major,27,5,7
+CHICO,43,Tatuagem,major,28,4,x
+CHICO,43,Tatuagem,major,29,3,5
+CHICO,43,Tatuagem,major,30,#2/b3,x
+CHICO,43,Tatuagem,major,31,3,x
+CHICO,43,Tatuagem,major,32,#2/b3,x
+CHICO,43,Tatuagem,major,33,3,5
+CHICO,43,Tatuagem,major,34,#2/b3,x
+CHICO,43,Tatuagem,major,35,3,b13
+CHICO,43,Tatuagem,major,36,1,1
+CHICO,46,De volta ao samba,major,1,5,5
+CHICO,46,De volta ao samba,major,2,3,3
+CHICO,46,De volta ao samba,major,3,2,9
+CHICO,46,De volta ao samba,major,4,1,x
+CHICO,46,De volta ao samba,major,5,7,7
+CHICO,46,De volta ao samba,major,6,6,6
+CHICO,46,De volta ao samba,major,7,#5/b6,3
+CHICO,46,De volta ao samba,major,8,3,x
+CHICO,46,De volta ao samba,major,9,2,6
+CHICO,46,De volta ao samba,major,10,3,1
+CHICO,46,De volta ao samba,major,11,2,7
+CHICO,46,De volta ao samba,major,12,1,x
+CHICO,46,De volta ao samba,major,13,7,5
+CHICO,46,De volta ao samba,major,14,6,x
+CHICO,46,De volta ao samba,major,15,7,5
+CHICO,46,De volta ao samba,major,16,1,3
+CHICO,46,De volta ao samba,major,17,2,11
+CHICO,46,De volta ao samba,major,18,3,x
+CHICO,46,De volta ao samba,major,19,2,11
+CHICO,46,De volta ao samba,major,20,1,3
+CHICO,46,De volta ao samba,major,21,1,6
+CHICO,46,De volta ao samba,major,22,2,1
+CHICO,46,De volta ao samba,major,23,3,x
+CHICO,46,De volta ao samba,major,24,2,1
+CHICO,46,De volta ao samba,major,25,1,7
+CHICO,46,De volta ao samba,major,26,6,6
+CHICO,46,De volta ao samba,major,27,5,5
+CHICO,46,De volta ao samba,major,28,6,1
+CHICO,46,De volta ao samba,major,29,#1/b2,3
+CHICO,46,De volta ao samba,major,30,2,1
+CHICO,46,De volta ao samba,major,31,3,3
+CHICO,46,De volta ao samba,major,32,1,1
+CHICO,46,De volta ao samba,major,33,3,1
+CHICO,46,De volta ao samba,major,34,6,3
+CHICO,46,De volta ao samba,major,35,7,5
+CHICO,46,De volta ao samba,major,36,5,11
+CHICO,46,De volta ao samba,major,37,6,1
+CHICO,46,De volta ao samba,major,38,3,5
+CHICO,46,De volta ao samba,major,39,6,1
+CHICO,46,De volta ao samba,major,40,2,6
+CHICO,46,De volta ao samba,major,41,5,1
+CHICO,46,De volta ao samba,major,42,5,7
+CHICO,46,De volta ao samba,major,43,5,9
+CHICO,46,De volta ao samba,major,44,4,x
+CHICO,46,De volta ao samba,major,45,3,x
+CHICO,46,De volta ao samba,major,46,2,5
+CHICO,46,De volta ao samba,major,47,5,5
+CHICO,46,De volta ao samba,major,48,3,3
+CHICO,46,De volta ao samba,major,49,4,x
+CHICO,46,De volta ao samba,major,50,3,1
+CHICO,46,De volta ao samba,major,51,7,5
+CHICO,46,De volta ao samba,major,52,1,3
+CHICO,46,De volta ao samba,major,53,2,#11
+CHICO,46,De volta ao samba,major,54,2,6
+CHICO,46,De volta ao samba,major,55,5,5
+CHICO,46,De volta ao samba,major,56,5,x
+CHICO,46,De volta ao samba,major,57,#4/b5,1
+CHICO,46,De volta ao samba,major,58,#2/b3,7
+CHICO,46,De volta ao samba,major,59,7,11
+CHICO,46,De volta ao samba,major,60,7,5
+CHICO,46,De volta ao samba,major,61,4,7
+CHICO,46,De volta ao samba,major,62,3,3
+CHICO,48,Paratodos,major,1,3,3
+CHICO,48,Paratodos,major,2,4,x
+CHICO,48,Paratodos,major,3,5,5
+CHICO,48,Paratodos,major,4,6,6
+CHICO,48,Paratodos,major,5,5,1
+CHICO,48,Paratodos,major,6,3,13
+CHICO,48,Paratodos,major,7,4,x
+CHICO,48,Paratodos,major,8,5,1
+CHICO,48,Paratodos,major,9,6,9
+CHICO,48,Paratodos,major,10,5,1
+CHICO,48,Paratodos,major,11,#6/b7,3
+CHICO,48,Paratodos,major,12,6,1
+CHICO,48,Paratodos,major,13,5,7
+CHICO,48,Paratodos,major,14,4,b13
+CHICO,48,Paratodos,major,15,4,3
+CHICO,48,Paratodos,major,16,#5/b6,5
+CHICO,48,Paratodos,major,17,5,9
+CHICO,48,Paratodos,major,18,4,1
+CHICO,48,Paratodos,major,19,3,7
+CHICO,48,Paratodos,major,20,3,3
+CHICO,48,Paratodos,major,21,5,5
+CHICO,48,Paratodos,major,22,4,x
+CHICO,48,Paratodos,major,23,3,3
+CHICO,48,Paratodos,major,24,2,9
+CHICO,48,Paratodos,major,25,2,1
+CHICO,48,Paratodos,major,26,3,9
+CHICO,48,Paratodos,major,27,2,5
+CHICO,48,Paratodos,major,28,7,3
+CHICO,48,Paratodos,major,29,6,6
+CHICO,48,Paratodos,major,30,6,9
