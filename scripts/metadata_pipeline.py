@@ -840,7 +840,89 @@ def request_json(url: str) -> dict:
                            RETRY_BASE_SECONDS * 2 ** attempt))
     return {}
 
+def text_recordings(title: str, artist: str) -> list[dict]:
+    """Search MusicBrainz for a recording by Title and Artist via Lucene syntax."""
+    # MusicBrainz limits search strings, so we clean them up
+    clean_title = title.replace('"', '').replace(':', '')
+    clean_artist = artist.replace('"', '').replace(':', '')
+    
+    # Exact phrase matches combined with AND
+    query = f'recording:"{clean_title}" AND artist:"{clean_artist}"'
+    params = urllib.parse.urlencode({"fmt": "json", "query": query})
+    
+    try:
+        payload = request_json(f"https://musicbrainz.org/ws/2/recording/?{params}")
+    except urllib.error.HTTPError as error:
+        if error.code == 404:
+            return []
+        raise
+    
+    recordings = payload.get("recordings", [])
+    return recordings if isinstance(recordings, list) else []
 
+def cmd_mbtext(root: Path) -> int:
+    """Fallback: Look up missing MusicBrainz ids by text search (Title + Artist).
+    
+    Only targets rows that failed to find an ISRC or where the ISRC was not in 
+    MusicBrainz. Uses the Spotify matched text, falling back to local dataset name.
+    """
+    meta_dir = root / METADATA_DIR
+    meta_path = meta_dir / COMPOSITIONS_CSV
+    
+    fields, metadata = read_csv(meta_path)
+    
+    # Target only rows that have no recording ID AND failed due to missing info.
+    # We skip 'several_recordings' because text search is even less likely to disambiguate.
+    pending = [song for song in metadata if not song.get("musicbrainz_recording_id") 
+               and song.get("musicbrainz_match_status") in ("isrc_not_in_mb", "no_isrc", "unmatched")]
+    
+    print(f"  {len(pending)} missing recordings targeted for text fallback search "
+          f"(about {round(len(pending) * (MUSICBRAINZ_PAUSE + 0.4) / 60)} min)")
+
+    for number, song in enumerate(pending, start=1):
+        # Prefer the Spotify track title/artist if matched, else use local dataset name
+        title = song.get("spotify_track_title") or song.get("composition_name")
+        artist = song.get("spotify_track_artist") or "" # Local dataset might not have distinct artist
+        
+        if not title:
+            continue
+            
+        recordings = text_recordings(title, artist)
+        
+        # Exact identical match requirement to maintain conservative philosophy
+        if len(recordings) == 1:
+            best_recording = recordings[0]
+            # Since search doesn't pull works automatically by default without 'inc' params
+            # We focus on capturing the Recording ID
+            song.update({
+                "musicbrainz_recording_count": "1",
+                "musicbrainz_recording_id": best_recording.get("id", ""),
+                "musicbrainz_match_status": "text_fallback_one",
+            })
+        elif len(recordings) > 1:
+            song.update({
+                "musicbrainz_recording_count": len(recordings),
+                "musicbrainz_match_status": "text_fallback_several",
+            })
+        else:
+             song.update({
+                "musicbrainz_recording_count": "0",
+                "musicbrainz_match_status": "text_fallback_failed",
+            })
+            
+        if number % PROGRESS_EVERY == 0 or number == len(pending):
+            print(f"  searched {number}/{len(pending)}", flush=True)
+            # Write checkpoint directly to the file to save progress
+            write_csv(meta_path, order_fields(list(fields)), metadata)
+            
+        time.sleep(MUSICBRAINZ_PAUSE)
+
+    # Final write
+    write_csv(meta_path, order_fields(list(fields)), metadata)
+    
+    counts = Counter(s.get("musicbrainz_match_status") for s in metadata if "text_fallback" in s.get("musicbrainz_match_status", ""))
+    print(f"\n  Text fallback results: {dict(counts)}")
+    return 0
 # --------------------------------------------------------------------------
 # CLI
 # --------------------------------------------------------------------------
@@ -864,6 +946,9 @@ def main() -> int:
     sub.add_parser("mbisrc", parents=[common],
                    help="look up MusicBrainz recording and work ids by ISRC "
                         "(network; no credentials)")
+    sub.add_parser("mbtext", parents=[common],
+                   help="fallback: busca IDs faltantes via texto no MusicBrainz "
+                        "(network; no credentials)")
 
     args = parser.parse_args()
     root = args.root.resolve()
@@ -874,7 +959,8 @@ def main() -> int:
     print(f"Running '{args.command}' in {root}")
 
     return {"build": cmd_build, "spotify": cmd_spotify,
-            "isrc": cmd_isrc, "mbisrc": cmd_mbisrc}[args.command](root)
+            "isrc": cmd_isrc, "mbisrc": cmd_mbisrc, 
+            "mbtext": cmd_mbtext}[args.command](root)
 
 
 if __name__ == "__main__":

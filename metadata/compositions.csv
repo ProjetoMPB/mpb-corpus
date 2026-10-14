@@ -1,501 +1,501 @@
-corpus_id,composition_id,composition_name,has_note_function,spotify_track_id,spotify_track_title,spotify_track_artist,spotify_duration_ms,spotify_match_status,isrc,musicbrainz_recording_count,musicbrainz_recording_id,musicbrainz_work_count,musicbrainz_work_id,musicbrainz_work_title,musicbrainz_match_status
-BOSCO,1,Agnus sei,true,6aBCNlHYCEfk7gk19r3gsQ,Agnus Sei - Live,"João Bosco, Milton Nascimento, Toninho Horta",373853,normalized,BRMUD1200015,0,,0,,,isrc_not_in_mb
-BOSCO,2,Bala com bala,true,4aFCVIHtMnQBQY8eufxQbU,Bala Com Bala,"João Bosco, Aldir Blanc",136706,exact,BRBMG7300066,1,f6b9d8b7-35d8-4df4-be7f-1c4f94d4dbd5,1,3aeadba4-dd58-4f45-a53e-f83a6bc31ffb,Bala Com Bala,one_recording
-BOSCO,3,A nivel de,true,6XqBNBCqLypx0rubKLtkcC,A Nível De...,João Bosco,220066,exact,BRMCA0500178,0,,0,,,isrc_not_in_mb
-BOSCO,4,De frente pro crime,true,3P43JdeNaPaRab6OCUDses,De Frente Pro Crime,"João Bosco, Aldir Blanc",129533,exact,BRBMG7500014,1,4a5990b0-fe94-45bf-b057-3c866b32eb8d,1,285c9313-5f0a-4479-baf9-b34291f5dc76,De frente pro crime,one_recording
-BOSCO,5,Boca de sapo,true,1rASuRGnqDs8aCtZgtFqu2,Boca De Sapo,João Bosco,194280,exact,BRBMG7900036,0,,0,,,isrc_not_in_mb
-BOSCO,6,Bijuterias,true,0KBgTC0pq3p0t4F4Vc7e9Q,Bijuterias,João Bosco,117600,exact,BRBMG7700187,0,,0,,,isrc_not_in_mb
-BOSCO,7,Escadas da Penha,true,5nEgq6w7txlKPMG6J4vDBR,Escadas Da Penha,"João Bosco, Aldir Blanc",167826,exact,BRBMG7500028,1,d797e14d-065a-42b2-afd5-ddd79523b3bb,0,,,one_recording
-BOSCO,8,Casa de marimbondo,true,4pe8OR89Ni7Y34BuTnQXny,Casa De Marimbondo,"João Bosco, Aldir Blanc",160933,exact,BRBMG7500145,1,32a7bffb-5fb9-427f-ade1-87b30bae5153,0,,,one_recording
-BOSCO,9,Dois pra la dois pra ca,true,6zSGfGit15V0xewQwb7BUo,"Dois Pra Lá, Dois Pra Cá",Elis Regina,266733,exact,BRMCA7400172,0,,0,,,isrc_not_in_mb
-BOSCO,10,Falso brilhante,true,75VFTTczSJctvUvjcs3omG,Falso Brilhante,João Bosco,150373,exact,BRBMG7700126,0,,0,,,isrc_not_in_mb
-BOSCO,11,Corsario,true,6w39DoFnSXnXjVmiZi4WCd,Corsário,Elis Regina,254460,exact,BRWMB9801411,0,,0,,,isrc_not_in_mb
-BOSCO,12,Feminismo no Estacio,true,3KIOGJLQbwdtKgKqeo9xnh,Feminismo No Estácio,João Bosco,207360,exact,BRBMG7600190,0,,0,,,isrc_not_in_mb
-BOSCO,13,Gol anulado,true,02WFmXcDCD4lb4k2JsSRzA,Gol Anulado,João Bosco,140600,exact,BRBMG7600115,0,,0,,,isrc_not_in_mb
-BOSCO,14,Desenho de giz,true,5YdEg2E5xeUVfyLWo8inHn,Desenho de Giz,Rosa Passos,241160,exact,BRVLS0200015,0,,0,,,isrc_not_in_mb
-BOSCO,15,Kid cavaquinho,true,1qsIeEiFLeB7vipJTA30Qi,Kid Cavaquinho,"João Bosco, Aldir Blanc",180493,exact,BRBMG7500015,1,06f50058-ea70-41d2-a7cb-ee03e7fead83,1,4f695723-d8df-403f-a1e4-c8c884b5aa52,Kid Cavaquinho,one_recording
-BOSCO,16,Jogador,true,7EwNdavwWqNDxjGFZEcBpQ,Jogador,João Bosco,127040,exact,BRBMG0900094,0,,0,,,isrc_not_in_mb
-BOSCO,17,Linha de passe,true,00YYhyn9D5TaxbKBRxwNMm,Linha de Passe,João Bosco,228733,exact,BRBMG7900035,0,,0,,,isrc_not_in_mb
-BOSCO,18,Jade,true,1a0rHVHOcEyeBSDhEPJECU,Jade,João Bosco,245426,exact,BRSME8900004,0,,0,,,isrc_not_in_mb
-BOSCO,19,O rancho da goiabada,true,5501JtFw4uQjC5gY5YrH2r,O Rancho Da Goiabada,"João Bosco, Aldir Blanc",245666,exact,BRBMG7600044,0,,0,,,isrc_not_in_mb
-BOSCO,20,Miss Sueter,true,1Y5i3g8jpK3KGstsAsgFIU,Miss Sueter,"João Bosco, Aldir Blanc",194640,exact,BRBMG7600041,0,,0,,,isrc_not_in_mb
-BOSCO,21,O mestre-sala dos mares,true,3cc33tjCjl2xWs5XtTbf47,O Mestre Sala Dos Mares,Elis Regina,190453,exact,BRMCA7400023,0,,0,,,isrc_not_in_mb
-BOSCO,22,Galos de briga,true,2dbndGEgsUtpmvursQ0yDS,Galos De Briga,"João Bosco, Aldir Blanc",137733,exact,BRBMG7600116,0,,0,,,isrc_not_in_mb
-BOSCO,23,Zona de fronteira,true,1akUxwepoYxJCdxeEEE1xH,Zona De Fronteira,João Bosco,253066,exact,BRSME9100044,0,,0,,,isrc_not_in_mb
-BOSCO,24,Pirata azul,true,01G6U9TfxYmtNZF8HUDtMd,Pirata Azul,João Bosco,320933,exact,BRSME8600088,0,,0,,,isrc_not_in_mb
-BOSCO,25,Jandira da gandaia,true,5yxdMk6iNIQDOulrMD3uns,Jandira Da Gandaia,João Bosco,222760,exact,BRBMG7500191,1,5a98a779-46a0-4245-ae0e-c66eff7cd13b,0,,,one_recording
-BOSCO,26,Latin lover,true,51GeyOgbpKKvsQXccLVP7C,Latin Lover,"João Bosco, Aldir Blanc",118226,exact,BRBMG7600040,0,,0,,,isrc_not_in_mb
-BOSCO,27,Beirando a rumba,true,49XtcMWFlUCtRLcsSBc1F1,Beirando A Rumba,João Bosco,278066,exact,BRSME0000297,0,,0,,,isrc_not_in_mb
-BOSCO,28,Preta-porter de tafeta,true,749CwGcczLNSIxuHxqwwcW,Preta Porter De Tafetá,João Bosco,211613,exact,BRUM70601242,0,,0,,,isrc_not_in_mb
-BOSCO,29,Meu caro visconde,true,,,,,unmatched,,,,,,,no_isrc
-BOSCO,30,Nacao,true,7m5gR15kKtF6lfWQhI8zfy,Nação,João Bosco,273866,exact,BRMCA8200014,0,,0,,,isrc_not_in_mb
-BOSCO,31,Quando o amor acontece,true,7t76w9Cwt9JW4iH3boL1Or,Quando O Amor Acontece,João Bosco,295066,exact,BRSME8600012,0,,0,,,isrc_not_in_mb
-BOSCO,32,Nossas ultimas viagens,true,7qcNNDjre0lmN5l9ChV0Xl,Nossas Últimas Viagens,"João Bosco, João Donato",245373,exact,BRLUM9900002,0,,0,,,isrc_not_in_mb
-BOSCO,33,Plataforma,true,6oAx2kSs49qbFQfz5CuUli,Plataforma,João Bosco,201026,exact,BRBMG7700186,0,,0,,,isrc_not_in_mb
-BOSCO,34,Querido diario,true,0lCPg3QcTs8wMWw5WZDOC8,Querido Diário,João Bosco,243626,exact,BRMCA0500180,0,,0,,,isrc_not_in_mb
-BOSCO,35,Samba do pouso,true,04snaBf4ll5kk9TZZEechg,Samba do Pouso,"João Bosco, Os Cariocas",184066,exact,BRLUM9300009,0,,0,,,isrc_not_in_mb
-BOSCO,36,Nesta data,true,1VhamlZqKvmuLFT12RjV6V,Nessa Data,João Bosco,219400,fuzzy,BRBMG7500194,1,184be948-49b3-40bb-873c-63b9c35334d9,0,,,one_recording
-BOSCO,37,Profissionalismo e isso ai,true,5O9UIlB3zovjfRXxCBV1lO,Profissionalismo É Isso Aí,João Bosco,351738,exact,BRMUD2000018,0,,0,,,isrc_not_in_mb
-BOSCO,38,Siameses,true,6JuciNGTpoeckJY8XAcoyd,Siameses,"João Bosco, Nana Caymmi",201773,exact,BRMCA8200120,0,,0,,,isrc_not_in_mb
-BOSCO,39,O bebado e a equilibrista,true,3eVyDZXJPJzUKkyWP6eLyc,O bêbado e a equilibrista,Elis Regina,231358,exact,BRWMB9701651,0,,0,,,isrc_not_in_mb
-BOSCO,40,Tenho dito,true,72mUCyPZoECr0TyxcT4HXi,Tenho Dito,João Bosco,224640,exact,BRSME8900073,0,,0,,,isrc_not_in_mb
-BOSCO,41,Trilha sonora,true,2uLmrPfxhDC1XxLSIXYGXf,Trilha Sonora,João Bosco,217666,exact,BRBMG8000183,0,,0,,,isrc_not_in_mb
-BOSCO,42,Oficio de um puxador,true,5lymlIRreApBKOb3raQkOt,Ofício de Puxador (feat. João Bosco),"Neguinho Da Beija Flor, João Bosco",246000,fuzzy,BRSME8500151,0,,0,,,isrc_not_in_mb
-BOSCO,43,Papel mache,true,623FcG68qCbIp2tfL0BO7Y,Papel Machê,João Bosco,199026,exact,BRPGD8400006,0,,0,,,isrc_not_in_mb
-BOSCO,44,Violeta de Belford Roxo,true,4YoKVrwuQOpFI5teljNcfo,Violeta De Belfort Roxo,João Bosco,161840,fuzzy,BRBMG7500198,1,5a1917bf-9200-4d2a-a98d-2e3134673ba9,0,,,one_recording
-BOSCO,45,Siri recheado e o cacete,true,5GRMKJlRHOdv6eeAsvAp1x,Siri Recheado e o Cacete,João Bosco,179160,exact,BRBMG8000189,0,,0,,,isrc_not_in_mb
-BOSCO,46,Denuncia vazia,true,1xtCeIvV52lJp6yyFWyfYm,Denúncia Vazia,João Bosco,204733,exact,BRBMG8000190,0,,0,,,isrc_not_in_mb
-BOSCO,47,Tabelas,true,5qgArLQqV588gkVZXw9O3z,Tabelas,João Bosco,128360,exact,BRBMG0900099,0,,0,,,isrc_not_in_mb
-BOSCO,48,Terra dourada,true,3YTJKJ8rgOIfVOjgkDacTQ,Terra dourada,Os Cariocas,206293,exact,BRWMB9901229,0,,0,,,isrc_not_in_mb
-BOSCO,49,Tiro de misericordia,true,1xSo8s9XuXU8KjpMqxgzEi,Tiro de Misericórdia,João Bosco,266666,exact,BRBMG7700127,0,,0,,,isrc_not_in_mb
-BOSCO,50,Um por todos,true,6dOSuC2iMOWf4WJmAJPnGB,Um Por Todos,Elis Regina,145106,exact,BRMCA7600129,1,7b0c688d-9803-44c6-a532-f0d1a17db205,0,,,one_recording
-CAETANO,1,A filha da Chiquita Bacana,true,26MpFjDJtYqM8t3U6TS8ub,A Filha Da Chiquita Bacana,Caetano Veloso,211826,exact,BRMCA7700177,0,,0,,,isrc_not_in_mb
-CAETANO,2,A outra banda da terra,true,5CEy99pXl8NVTG5van1swi,A Outra Banda Da Terra - Remixed Original Album,Caetano Veloso,190266,normalized,BRUM70700055,0,,0,,,isrc_not_in_mb
-CAETANO,3,Atras do trio eletrico,true,2tGDLtinIaepvrlICaDciX,Atrás Do Trio Elétrico,Caetano Veloso,162973,exact,BRUM70601236,0,,0,,,isrc_not_in_mb
-CAETANO,4,Baby,true,0C13P4IghHNFPjt4zIJ8vX,Baby,"Gal Costa, Caetano Veloso",212933,exact,BRPGD6800029,1,609bb5d9-61ed-466e-8f72-ad16be0ae7fb,1,55d4b879-744a-316f-8456-585369d59928,Baby,one_recording
-CAETANO,5,Cajuina,true,7cEfPAbju7glmdAgT4e1AU,Cajuína - Remixed Original Album,Caetano Veloso,139933,normalized,BRUM70601178,1,701be267-89bc-4f7a-83f5-0043b51647e4,0,,,one_recording
-CAETANO,6,Cinema Olimpia,true,2V0jjmmJBqy7bF6RZtVpSV,Cinema Olympia,Gal Costa,187306,fuzzy,BRUM70500380,1,4fd83e1e-ffd5-4f87-a0cc-bd53b28b3444,1,0f7bedb1-ba73-46f8-8320-9de80d76eade,Cinema Olympia,one_recording
-CAETANO,7,Chuva suor e cerveja,true,5q63Fb5vWEXhXU9KG09MTg,"Chuva, Suor E Cerveja",Caetano Veloso,204773,exact,BRMCA7700176,0,,0,,,isrc_not_in_mb
-CAETANO,8,Coracao vagabundo,true,60TftyBmMIL7wBdM37KuRj,Coração Vagabundo,"Gal Costa, Caetano Veloso",143426,exact,BRPGD6700006,1,42b02794-d83b-4ff6-9c0f-9b090b71ca96,1,ae829b9f-5ac0-46e3-b310-4aa215338c06,Coração vagabundo,one_recording
-CAETANO,9,Alegria alegria,true,0aoQV1TuaTrcpJaMfJ3wgj,"Alegria, Alegria - Remastered 2006",Caetano Veloso,168213,normalized,BRUM70601093,1,02a269c7-7bf0-4c5d-8e46-8e80f7a93d96,0,,,one_recording
-CAETANO,10,A tua presenca morena,true,1sMJZbolfVjKn4T7IvxDdm,A Tua Presenca Morena - 1975,Caetano Veloso,124640,normalized,BRMCA7500189,0,,0,,,isrc_not_in_mb
-CAETANO,11,Avarandado,true,65obcQdlM8bcHNHfPPrwZk,Avarandado,Gal Costa,159066,exact,BRMCA6700224,1,47c9cd18-646b-4afa-b847-f3aff261d243,1,0d2a314d-f468-4df0-8e52-790198851e3e,Avarandado,one_recording
-CAETANO,12,Beleza pura,true,0pzMoXX6gHpUQ7zqDVkSSp,Beleza Pura,Caetano Veloso,225333,exact,BRPGD7900011,0,,0,,,isrc_not_in_mb
-CAETANO,13,Cavaleiro de Jorge,true,3kuAEbv5CUREb4010lHCdw,Cavaleiro De Jorge,Caetano Veloso,223466,exact,BRMCA8200175,0,,0,,,isrc_not_in_mb
-CAETANO,14,Como dois e dois,true,33jx3PQ5Np179YYCfJGHQ9,Como Dois e Dois - Versão Remasterizada,Roberto Carlos,203866,normalized,BRSME7100218,0,,0,,,isrc_not_in_mb
-CAETANO,15,Drama,true,,,,,unmatched,,,,,,,no_isrc
-CAETANO,16,Luz do sol,true,3cR0EJ6WiCDj2imGIzjV45,Luz Do Sol,Caetano Veloso,213333,exact,BRUM70801308,0,,0,,,isrc_not_in_mb
-CAETANO,17,Dom de iludir,true,322sgr3t9XrTNNeWq9VzRF,Dom De Iludir - Ao Vivo,Caetano Veloso,143466,normalized,BRMCA8600131,0,,0,,,isrc_not_in_mb
-CAETANO,18,Lua lua lua lua,true,3g4JctzX7geQn82C5f1gIr,"Lua, Lua, Lua, Lua",Gal Costa,185333,exact,BRMCA7400206,1,f1a7262b-2231-493f-9520-92a446362463,1,f7f5887a-bbf1-4329-ace4-39b8e1fcfcbe,"Lua, lua, lua, lua",one_recording
-CAETANO,19,Jeito de corpo,true,1xHjcN6X9RJkgJv7GUAawr,Jeito De Corpo,Caetano Veloso,197973,exact,BRMCA8100225,0,,0,,,isrc_not_in_mb
-CAETANO,20,Eclipse oculto,true,15rxzURljIuXUnaTNrl3Lc,Eclipse Oculto,Caetano Veloso,223333,exact,BRPGD8300008,0,,0,,,isrc_not_in_mb
-CAETANO,21,Ele me deu um beijo na boca,true,0WpeZok7zzqy1MHTcyWra0,Ele Me Deu Um Beijo Na Boca (He Gave Me A Kiss On The Mouth),Caetano Veloso,434960,normalized,BRMCA8200165,0,,0,,,isrc_not_in_mb
-CAETANO,22,Esse cara,true,7wrGhtWHTHET8HWSX1DAWM,Esse Cara,Cazuza,113560,exact,BRUM70500083,0,,0,,,isrc_not_in_mb
-CAETANO,23,Gema,true,6Pu78ZsDDJ3N2CegwLULpE,Gema,Caetano Veloso,142760,exact,BRMCA8100214,0,,0,,,isrc_not_in_mb
-CAETANO,24,Gente,true,6s6rL7P25jz0DVMdWGwkBM,Gente - Nova Mixagem,Caetano Veloso,215533,normalized,BRUM70601083,0,,0,,,isrc_not_in_mb
-CAETANO,25,Irene,true,0p5BF7Y32Q0CZYJ8aYh1jk,Irene - Remastered 2006,Caetano Veloso,228826,normalized,BRUM70601113,0,,0,,,isrc_not_in_mb
-CAETANO,26,London London,true,2NOPA5V6El1uXxAU2yV50P,London London,Caetano Veloso,257133,exact,BRMCA7100136,0,,0,,,isrc_not_in_mb
-CAETANO,27,Milagres do povo,true,6d7DOzrSlzdaApBCXlhnDm,Milagres Do Povo - Live,Caetano Veloso,172946,normalized,BRUM71100253,0,,0,,,isrc_not_in_mb
-CAETANO,28,Louco por voce,true,28IdWhSwz1O2TaZMEJvH9v,Louco Por Você - Remixed Original Album,Caetano Veloso,459360,normalized,BRUM70601177,1,8881f2ac-22ad-4556-9f7d-ac5967fa1b54,0,,,one_recording
-CAETANO,29,Lua de Sao Jorge,true,2XoXVpe5DrvVmzXM8QJNRX,Lua De São Jorge,Caetano Veloso,238333,exact,BRPGD7900013,0,,0,,,isrc_not_in_mb
-CAETANO,30,Minha voz minha vida,true,2LOUD7rySID5kqzBvgBLxO,"Minha Voz, Minha Vida",Caetano Veloso,170466,exact,BRPGD9700693,1,1de562f2-4a4c-448d-ac7f-6575eb10413f,1,799c0b29-17ac-4842-a2cb-fbf9356120fc,"Minha voz, minha vida",one_recording
-CAETANO,31,Menino do Rio,true,6tisytwaOaBA4CAZPPdlFP,Menino do Rio,Baby Do Brasil,263733,exact,BRWMB9705465,1,3d227551-884e-4d66-93c9-98ad5c2e0e2b,1,f9a487cc-a964-44a3-9cc7-02b534bb1954,Menino do Rio,one_recording
-CAETANO,32,No dia em que eu vim-me embora,true,3YzN4jzCf40pRbQ8EuWAoo,No Dia Que Eu Vim-Me Embora - Remastered 2006,Caetano Veloso,147373,fuzzy,BRUM70601092,1,a04a7192-0942-43a4-a511-2757cf5f5e54,0,,,one_recording
-CAETANO,33,Massa real,true,6aiTiZ3CKpwVpusZpmjbLX,Massa Real,Gal Costa,166400,exact,BRMCA0500280,0,,0,,,isrc_not_in_mb
-CAETANO,34,Mel,true,5MphG46hW4YM4vTPw0AZj7,Mel - Ao Vivo,Caetano Veloso,294693,normalized,BRPGD9800680,1,4acb7a92-6574-4ed7-b0ae-9a1de536b7b2,0,,,one_recording
-CAETANO,35,Meu bem meu mal,true,2gpkkiTArronQRqJsTZp5p,Meu Bem Meu Mal,Gal Costa,208466,exact,BRMCA8100255,0,,0,,,isrc_not_in_mb
-CAETANO,36,Muito,true,60zrqyeugezhIsbBPHLPQI,Muito,Caetano Veloso,200346,exact,BRMCA7800175,0,,0,,,isrc_not_in_mb
-CAETANO,37,Nao identificado,true,1eqUenDSQsy87cpoogbKvi,Não Identificado,Gal Costa,198173,exact,BRPGD6900012,2,,1,9d065fef-f79f-4873-b853-f02d24c6c35c,Não identificado,several_recordings
-CAETANO,38,Nosso estranho amor,true,0R3RaXniRkp819CkorFM79,Nosso Estranho Amor,"Marina Lima, Caetano Veloso",225773,exact,BRPGD8000036,0,,0,,,isrc_not_in_mb
-CAETANO,39,Odara,true,45qF2E2smfkrMR47xF5QZy,Odara,Caetano Veloso,199333,exact,BRUM71200153,0,,0,,,isrc_not_in_mb
-CAETANO,40,O leaozinho,true,0SieRhHp1mnsVN8DbGTTuA,O Leaozinho,Caetano Veloso,184333,exact,BRPGD7700005,0,,0,,,isrc_not_in_mb
-CAETANO,41,O quereres,true,03vX8LEuNDFKmUs9IirJq3,O Quereres,Caetano Veloso,179293,exact,BRUM70700064,0,,0,,,isrc_not_in_mb
-CAETANO,42,Os argonautas,true,4kFWlG1ZySW97PZ1iA1nLb,Os Argonautas,Elis Regina,188066,exact,BRMCA7100151,0,,0,,,isrc_not_in_mb
-CAETANO,43,Quero ir a Cuba,true,1ZvCg3lweBLa0DsQKAGRDs,Quero Ir A Cuba - Remixed Original Album,Caetano Veloso,140133,normalized,BRUM70700051,0,,0,,,isrc_not_in_mb
-CAETANO,44,Outras palavras,true,6Yoe5DwEruorvXOQHU2uWY,Outras Palavras,Caetano Veloso,230440,exact,USWWW0126922,0,,0,,,isrc_not_in_mb
-CAETANO,45,Pecado original,true,4LWjZXvMewM6pisB08iSGW,Pecado Original,Caetano Veloso,178440,exact,BRMCA7800155,0,,0,,,isrc_not_in_mb
-CAETANO,46,Rapte-me camaleoa,true,1nGPwLpbO7ImiKCAdqOMWA,Rapte-Me Camaleoa,Caetano Veloso,233800,exact,BRMCA0500794,0,,0,,,isrc_not_in_mb
-CAETANO,47,Podres poderes,true,7j5lm5QngHa7z6Hnes5QoM,Podres Poderes,Caetano Veloso,264293,exact,BRUM70700058,0,,0,,,isrc_not_in_mb
-CAETANO,48,Sim nao,true,3zvZAEmCXfIz7rzHFkRcdO,Sim / Nao,Caetano Veloso,233866,exact,BRMCA8100217,0,,0,,,isrc_not_in_mb
-CAETANO,49,Sampa,true,2VBN5kSs1fyiE5fnOYeKsG,Sampa,Caetano Veloso,199666,exact,BRPGD7800012,1,a8740cab-36f4-467d-8b9b-201153bb2185,1,d6bb0042-07a5-4fff-80b5-2ebea520d111,Sampa,one_recording
-CAETANO,50,Superbacana,true,387VJYkxRuubOM2X86abUq,Superbacana - Remastered 2006,Caetano Veloso,87213,normalized,BRUM70601096,1,4d9249ec-4792-4b1c-b546-b0c875d7dd1a,0,,,one_recording
-CHICO,1,A banda,true,6wUp7y502iyWLuLuurlOyw,A Banda,Chico Buarque,131000,exact,BRSGL6600001,1,bfb6a023-0389-47b1-9d24-41d49977015b,1,4e2daadc-c8fd-3431-bee7-bc60d749bb98,A banda,one_recording
-CHICO,2,A Rita,true,7ltJ3o2O6fHtUn8iY2eXHi,A Rita,Chico Buarque,121173,exact,BRSGL6600003,1,a5d8a416-3e87-445f-8cd1-137275767d72,1,f87387aa-6b27-449d-a6ba-a63f45db4a0d,A Rita,one_recording
-CHICO,3,Acorda amor,true,1WLmDv4iF7ZSH3TLSh6c7p,Acorda Amor,Chico Buarque,140640,exact,BRPGD7400024,1,e0902752-6fe6-489c-a0a7-d591bf9505d7,1,de0079be-64c4-491e-be23-40bdc8666036,"Acorda, amor",one_recording
-CHICO,4,Agora falando serio,true,2HqXNAIRqLadRL2S5AlXGK,Agora Falando Sério,Chico Buarque,116026,exact,BRPGD7000021,1,a8f27e30-29e7-4e1d-bc0c-5307a345520a,1,6d00d681-a826-4b98-9701-6cbd83091d86,Agora falando sério,one_recording
-CHICO,5,Atras da porta,true,3wiN3YodUt5uIAAuVLBvdS,Atrás Da Porta,Elis Regina,168093,exact,BRPAD7200002,1,a9ca087e-1793-408c-be1c-9e39a7894b99,0,,,one_recording
-CHICO,6,Biscate,true,1WZUf8vbYU1O6JtHIVGphp,Biscate,"Chico Buarque, Gal Costa",227573,exact,BRBMG9300015,1,dabda050-0c9d-4dfa-ab77-3fd1bc4638da,1,08fb6417-dd93-4408-9c37-76711d85c8e1,Biscate,one_recording
-CHICO,7,Apesar de voce,true,2GAFZG9Z7UGS1iMm4Idrnr,Apesar De Você,"Chico Buarque, MPB4, Quarteto Em Cy",235546,exact,BRPGD7800024,3,,1,0355ae0a-5251-4b21-b212-663a82fb55ec,Apesar de você,several_recordings
-CHICO,8,Bye bye Brasil,true,6oK558nluE0PKStLgaHUah,Bye Bye Brasil,Chico Buarque,282466,exact,BRMCA0500203,1,7c141f10-3ea9-4657-8f7b-318d1e2c24fd,1,845a0b03-be28-427d-a45d-4af0e1003770,"Bye bye, Brasil",one_recording
-CHICO,9,Calice,true,0VUgbCK0k8QWGpLiEV8YYZ,Cálice,"Chico Buarque, Milton Nascimento",241866,exact,BRPGD7800015,1,9d87f217-3a5a-4f3d-9265-693bbcb9a942,1,7034b08d-e102-4274-862e-32561141099e,Cálice,one_recording
-CHICO,10,Carolina,false,3NNV7VTez7EUR23ONFiiGl,Carolina,Chico Buarque,159133,exact,BRSGL6800005,1,e2999e74-4a8a-480e-be44-db3ac4cb94d8,1,9bd4cbef-4292-4051-a2d8-392651eef670,Carolina,one_recording
-CHICO,11,Com acucar e com afeto,false,4E4H2xRcQzcdxgFOJotcKD,"Com Açúcar, Com Afeto",Nara Leão,225666,fuzzy,BRMCA6700074,0,,0,,,isrc_not_in_mb
-CHICO,12,Construcao,false,3FIuBxOxuQ6kYy8JO0gq2a,Construção,Chico Buarque,383626,exact,BRPGD7100036,2,,2,,,several_recordings
-CHICO,13,Cotidiano,false,127twwy3iCo1xBRQHyWetU,Cotidiano,Chico Buarque,168373,exact,BRPGD7100034,1,02c3e866-126b-4811-bb6d-11253e7c880b,1,b17287b0-a52f-4064-a778-ed8c278145a2,Cotidiano,one_recording
-CHICO,14,Desalento,true,0MoaSi9IqvlP2RPRn8Afm7,Desalento,Chico Buarque,167413,exact,BRPGD7100035,1,a97dcafd-97d2-4c1b-9cbf-d85b92cb7e02,1,8d3bba12-dcb0-47a7-b1d8-ce80e397a804,Desalento,one_recording
-CHICO,15,Desencontro,true,43d3ZmXy51HLXfVJjYeheu,Desencontro,Chico Buarque,129866,exact,BRSGL6800004,2,,1,19cc58fe-2f03-44d1-88c5-924f483c7f6c,Desencontro,several_recordings
-CHICO,16,Bastidores,true,3Pp3uRQj2Qx4QxE7XlB03Z,Bastidores,Chico Buarque,151066,exact,BRPAD8000002,1,0095c045-7026-4b91-b6f0-c139594c3834,1,850ca971-d45b-4d90-865a-fb95d120278a,Bastidores,one_recording
-CHICO,17,Ela desatinou,true,1Djp0ryBFlP3tVyPg3H03M,Ela Desatinou,Chico Buarque,189066,exact,BRSGL6800001,1,2a010fb2-a242-44ff-9506-94fe3be91218,1,ee7ac59c-ea5c-440f-b972-84c4c62a3992,Ela desatinou,one_recording
-CHICO,18,Fado tropical,false,0yHQDYRvmjjnQ9NIy38xlZ,Fado Tropical,Chico Buarque,251226,exact,BRPGD7300084,1,2f9a3b53-cea9-4525-a1c2-18fa12c03c20,1,3e6d0ed9-42d2-47b3-8506-59b726851f65,Fado tropical,one_recording
-CHICO,19,Feijoada completa,true,7MxVCTR3xD55xikxKiGCrv,Feijoada Completa,Chico Buarque,171253,exact,BRPGD7800014,1,fc3fe8ef-edd9-4e51-8491-0506d2da0567,1,3d9792fa-4794-472d-bfd6-59d434449ff0,Feijoada completa,one_recording
-CHICO,20,Futuros amantes,true,1RtoOw5CS2PBcVG8A783Q0,Futuros Amantes,Chico Buarque,210400,exact,BRBMG9300014,3,,1,f8ba1b6e-4047-42fd-b86b-646365b87939,Futuros amantes,several_recordings
-CHICO,21,Flor da idade,false,2nAULD4AAyBCanPrcjkEMq,Flor Da Idade,Chico Buarque,143720,exact,BRUM71200493,1,f2718348-2137-4d6f-b8b2-4596675c2cf0,0,,,one_recording
-CHICO,22,Folhetim,true,7IsUsMa9T63GIg9Uv0dUX2,Folhetim,Gal Costa,210000,exact,BRPGD7800009,0,,0,,,isrc_not_in_mb
-CHICO,23,Homenagem ao malandro,true,5GjdiVkuN9CKcUAHau1Huy,Homenagem Ao Malandro,Chico Buarque,180693,exact,BRPGD7800018,1,a29228b3-4ed6-4eb3-9ae8-1fdb53d79f74,1,ec1f7fb7-cb31-4e37-9ab8-f6fab62d7e19,Homenagem ao malandro,one_recording
-CHICO,24,Januaria,false,1cmUJxMYtUfoKhVVfTAwb4,Januária,Chico Buarque,184733,exact,BRSGL6800003,1,b3b2073a-ee4c-47ea-b3a0-a143d232f93c,1,d8949f93-23ee-4fd2-9ffd-4120fb6b9324,Januária,one_recording
-CHICO,25,Joana francesa,false,7lwyQLMbVS6ZieW6EG1OLJ,Joana Francesa,Angela Ro Ro,110520,exact,BR2RA0900095,0,,0,,,isrc_not_in_mb
-CHICO,26,Mambembe,true,308rSwtYhgZs5OfYEtHLyf,Mambembe,"Nara Leão, Chico Buarque",118413,exact,BRMCA8000161,1,935dce57-1690-4f75-9c86-7f5e7a444c56,0,,,one_recording
-CHICO,27,Maninha,false,1idr7HB4D2II52I7hXCZhO,Maninha (feat. Chico Buarque),"Miúcha, Antônio Carlos Jobim, Chico Buarque",160040,normalized,BRBMG7700019,2,,1,6ccd6ece-1075-4ea0-84fd-90a58c90bff7,Maninha,several_recordings
-CHICO,28,Meu caro amigo,true,2thBIDQBbBSUG7tcwUw7Mw,Meu Caro Amigo,Chico Buarque,261666,exact,BRPGD7600078,1,d8329754-f75c-451e-87a6-7564af9f8af0,1,d22149ea-cb1e-4aca-93a0-051de8c09d52,Meu caro amigo,one_recording
-CHICO,29,Morena dos olhos dagua,true,5F78RgN3zvSHCtf7OVHq1i,Morena Dos Olhos D' Água,Mônica Salmaso,305666,fuzzy,BRPUI0700141,0,,0,,,isrc_not_in_mb
-CHICO,30,Mulheres de Atenas,true,6VIgGcxTOjPpvFUrFzM2TO,Mulheres De Atenas,Chico Buarque,260600,exact,BRPGD7600070,1,e3d6d63e-f6f2-46c5-b618-bd7883dfd9db,0,,,one_recording
-CHICO,31,Nao existe pecado ao sul do equador,true,07U9TZAmXaYNyaeFeuX7PE,Não Existe Pecado Ao Sul Do Equador/Boi Voador Não Pode,Chico Buarque,238440,normalized,BRPGD7300082,1,1e66e38d-6884-4132-8217-ea167da0c0ec,1,57c76490-5768-4ab7-855c-adcb075cbd26,Não Existe Pecado ao Sul do Equador / Boi Voador Não Pode,one_recording
-CHICO,32,Noite dos mascarados,true,2apuUg5DOGP0yiXCsjAWP4,Noite Dos Mascarados,"Elis Regina, Chico Buarque",187706,exact,BRMCA6700036,1,e16c7bb9-f148-47ea-8ac8-068abb35d97c,2,,,one_recording
-CHICO,33,O meu amor,false,2CfpwIhU6plsp4aycG2Th4,O Meu Amor,"Marieta Severo, Elba Ramalho",243040,exact,BRPGD8700017,1,38bc029e-3708-4479-a566-f8067b5e128d,0,,,one_recording
-CHICO,34,Ole ola,false,6GOfjAv5Mb4j5SvF0Kl3VY,"Olê, Olá",Chico Buarque,183400,exact,BRSGL6600010,1,23a79017-e5bc-42e8-a072-3e0226e36cd9,1,5a9331b9-996e-4aec-a12e-a7be18568ec1,"Olê, olá",one_recording
-CHICO,35,Olhos nos olhos,true,4PdlMqfMUtX5DLZMOLGL4O,Olhos Nos Olhos,Chico Buarque,273000,exact,BRPGD7600071,1,ac7adb54-062f-4333-b66f-4aa3f89fd974,0,,,one_recording
-CHICO,36,Pedro pedreiro,true,3DNCuH5h0CaX2WXA53b7hu,Pedro Pedreiro,Chico Buarque,155773,exact,BRSGL6600006,1,63f9cae9-7f8c-47dc-8785-6de92de8dff3,1,731c58f2-c7ae-424a-81b0-3a16beba26be,Pedro pedreiro,one_recording
-CHICO,37,Quem te viu quem te ve,true,7miBYlS1M5Zqlvyy0lOdDb,"Quem Te Viu, Quem Te Vê",Mônica Salmaso,316493,exact,BRPUI0700139,0,,0,,,isrc_not_in_mb
-CHICO,38,Roda viva,true,65GUUrv360K15Mev0zFlUb,Roda Viva,"Chico Buarque, MPB4",233400,exact,BRSGL6800006,1,36671e59-79bf-4560-b544-3884befb6454,1,bceba7df-fbda-4070-a0f1-b4bce3d48bcd,Roda Viva,one_recording
-CHICO,39,Samba de Orly,true,39HKNEpQz75dCJqDxH0xuD,Samba De Orly,Chico Buarque,159600,exact,BRPGD7100039,3,,1,c7a867fc-fccc-4b2a-a5b6-36bfb10505b0,Samba de Orly,several_recordings
-CHICO,40,Sem fantasia,false,6In6Vd7yMxCji9lxQAUnBm,Sem Fantasia,Chico Buarque,207000,exact,BRSGL6800009,1,5834b06f-5a26-4bf5-8d7d-9ce4f30f16c2,1,fe88e297-2bf1-465b-8931-d1b1f0a2c205,Sem fantasia,one_recording
-CHICO,41,Samba e amor,true,4uEYpkj1LftTpAXpUwqQo0,Samba E Amor,Chico Buarque,199666,exact,BRPGD7000025,1,16fe0b83-a4b0-4b4d-b2ee-e2878b881c82,1,99073725-3803-4ded-83bb-4833c31dccff,Samba e amor,one_recording
-CHICO,42,Sob medida,false,1Q8DfNsxyvAXecq1zknOlh,Sob Medida,Simone,196826,exact,BREMI7900155,0,,0,,,isrc_not_in_mb
-CHICO,43,Tatuagem,true,2vmXFXcr44JSrZ1MpgWLRa,Tatuagem,Elis Regina,262466,exact,BRMCA7600134,1,619c27cb-0ef6-48b9-981d-c087590ad13a,0,,,one_recording
-CHICO,44,Vai trabalhar vagabundo,false,2x1XG44HJNzXNgRxfyr98W,Vai Trabalhar Vagabundo,Chico Buarque,137866,exact,BRPGD7600073,1,e9e5d849-f38c-4e96-9287-481026e4a3b4,1,92aef697-ad68-43b1-b9ae-83366d504b0f,Vai trabalhar vagabundo,one_recording
-CHICO,45,De todas as maneiras,false,2GPb50b91xLIgIJa1wb3nA,De Todas As Maneiras - Ao Vivo,Angela Ro Ro,190600,normalized,BRRGE9300006,0,,0,,,isrc_not_in_mb
-CHICO,46,De volta ao samba,true,3RZprkUbJPzZeE0oiXryJn,De Volta Ao Samba,Chico Buarque,160973,exact,BRBMG9300020,1,3b7049dc-3aec-4afa-81aa-1f0af50782b3,1,278d2fde-e174-4e7c-a8cb-9a1fc322ec1c,De volta ao samba,one_recording
-CHICO,47,Deixe a menina,false,1Q4CV3pB34J3dyIYnAWe6x,Deixe A Menina,Chico Buarque,164826,exact,BRPGD8000011,1,2b764c84-7375-4e8b-8ec9-004d7490e267,0,,,one_recording
-CHICO,48,Paratodos,true,5uRFb0wGpbK65eLgTLD814,Paratodos,Chico Buarque,172333,exact,BRBMG9300009,3,,1,3c60ca8b-e5cc-4012-9b58-a41e325dd4d5,Paratodos,several_recordings
-CHICO,49,Pelas tabelas,false,2iCoJKex0cwfIr5tq28ulS,Pelas Tabelas,Chico Buarque,261519,exact,BRPGD8400007,1,95f4cb02-2abc-407a-ae3d-75ad0c746fde,0,,,one_recording
-CHICO,50,Samba do grande amor,false,272iGBXGqzWY4atgvUjPxf,Samba Do Grande Amor,Chico Buarque,128000,exact,BRPGD8400011,1,28c5cdb8-15ef-408a-89dc-31018d398471,0,,,one_recording
-DJAVAN,1,Flor de lis,true,1TX4h6MrIZ0K3r4OOG11WO,Flor de Lis,Djavan,225266,exact,BRSGL7600021,3,,1,f85e3955-14f2-4a78-9072-c3014663e8aa,Flor de lis,several_recordings
-DJAVAN,2,E que Deus ajude,true,3wtH1t4y8TuHGhUPhlPNY8,E Que Deus Ajude,Djavan,182106,exact,BRSGL7600019,1,efd90b97-4cfd-4dfc-8b8c-754dfa888e91,0,,,one_recording
-DJAVAN,3,Lilas,true,0V0DEGw7N5KlubvARp4VOm,Lilás,Djavan,283133,exact,BRSME8400053,3,,1,8eeaec04-d718-4a5f-9ddc-73e0bf479208,Lilás,several_recordings
-DJAVAN,4,Nem um dia,true,3jFxkWQ1i4ephuKK56T9ta,Nem um Dia,Djavan,346266,exact,BRSME9600386,2,,1,ce9e980b-4aec-4593-b678-acbb5ae51254,Nem Um Dia,several_recordings
-DJAVAN,5,Muito obrigado,true,4SDRW95c93E7dLJY9aOdeg,Muito Obrigado,Djavan,186626,exact,BRSGL7600104,2,,0,,,several_recordings
-DJAVAN,6,Obi,true,1vrllnfs5ysBaeR85YOJxT,Obi,Djavan,283893,exact,BRSME8400056,1,742ef986-d500-4f5b-9bae-0a3b0cd29721,0,,,one_recording
-DJAVAN,7,Passou,true,32b0OppHBuDDdI4nZBi64l,Passou,Djavan,293573,exact,BRSME9800650,1,180915b1-73df-45f8-860b-a7a930d51c8b,0,,,one_recording
-DJAVAN,8,Azul,true,0uv80Hj0ObSzr02GEOvnGO,Azul,Djavan,303400,exact,BRLRO0500004,1,c1b56f15-8e60-4ca4-9885-fcc14f783639,0,,,one_recording
-DJAVAN,9,Beiral,true,21SiuaNQ6jaTsRQHBpPaHX,Beiral,Djavan,188493,exact,BRSME8600006,1,3db3546e-ff18-4337-a7bf-ac461f5b06b7,0,,,one_recording
-DJAVAN,10,Om,true,1nT6PdXLAZwA644IQOSJe4,Om,Djavan,268560,exact,BRSME0100637,1,904bbf1e-de47-402e-8cec-a006c5dd3026,0,,,one_recording
-DJAVAN,11,Agua,true,7j9SLvtP89AbYzVhsJVzHm,Água,Djavan,219173,exact,BREMI7800018,7,,1,c4eab098-a00a-4a24-91d6-f4e502db0e4b,Água,several_recordings
-DJAVAN,12,Alibi,true,1fkXRlsguhf8qrxVzPw1Dh,Álibi,Djavan,143200,exact,BREMI7800019,7,,1,9144b407-876c-42d6-8d63-f016fc4cd98f,Álibi,several_recordings
-DJAVAN,13,Asa,true,7EP8iM3OAfom5hLiVvKmJM,Asa,Djavan,257733,exact,BRSME8600084,2,,0,,,several_recordings
-DJAVAN,14,Meu,true,6ZS84pKdsm5DXdchUrwQGW,Meu,Djavan,234800,exact,BRSME0100639,1,d2c9f62b-3b95-4823-98bf-7873aecec2ce,0,,,one_recording
-DJAVAN,15,Numa esquina de Hanoi,true,6AMV3TJAsploapuKi3HGei,Numa Esquina De Hanói,Djavan,189160,exact,BREMI7800203,5,,1,704b5471-ae64-4b56-9b7f-6c3494f1d5d0,Numa esquina de Hanoi,several_recordings
-DJAVAN,16,Topazio,true,649HxHhebUjDBnSV0jiO6G,Topázio,Djavan,288933,exact,BRSME8600083,2,,0,,,several_recordings
-DJAVAN,17,Nereci,true,6Iob8qYmUUTenQRi4u3tfs,Nereci,"Djavan, Marizinha",199800,exact,BREMI7800029,3,,1,3cf5ebf1-898b-46da-be00-df415a6ffb7d,Nereci,several_recordings
-DJAVAN,18,Samba dobrado,true,3gaT2mkVAZbO4Ily8n5lLW,Samba Dobrado,Djavan,210000,exact,BREMI8400022,6,,1,a8b6217f-0b80-4fea-98a7-f927a25f4417,Samba dobrado,several_recordings
-DJAVAN,19,Maca,true,4INDXtb5SbTP5ATwE5BEwr,Maçã,Djavan,248533,exact,BRSME8700060,1,7ea884cc-ae51-4dea-8a59-742b9a96e395,0,,,one_recording
-DJAVAN,20,Dupla traicao,true,3bqk5dgWeQabo7OhQqdpbA,Dupla Traição,Djavan,179866,exact,BREMI7800102,6,,1,0e92afca-9639-45f5-a036-b85c1599b8fe,Dupla Traica,several_recordings
-DJAVAN,21,Oceano,true,3iof6EclqePezHDibBiykI,Oceano,Djavan,296106,exact,BRSME8900064,2,,1,b98ba9ff-5c01-4ba6-83c1-405b127aedeb,Oceano,several_recordings
-DJAVAN,22,Alagoas,true,60KVPxakrwGmSipXuV906j,Alagoas,Djavan,230773,exact,BREMI7800034,6,,1,6f564f3d-9ae9-4182-b9de-40415975c268,Alagoas,several_recordings
-DJAVAN,23,Estoria de cantador,true,6HLJ7Avz6rwAUvDc9gOnex,Estória De Cantador,Djavan,255000,exact,BREMI7800033,6,,1,7f2336e6-c314-4aab-a0bf-6be156738db1,Estoria De Cantador,several_recordings
-DJAVAN,24,Mal de mim,true,4apZOzQ1hdmb4r6ZSPRFQg,Mal de Mim,Djavan,197973,exact,BRSME8900070,2,,0,,,several_recordings
-DJAVAN,25,Tem boi na linha,true,0QF6XXNkE5weIUiLMtNzpe,Tem Boi Na Linha,Djavan,161866,exact,BREMI7900029,5,,0,,,several_recordings
-DJAVAN,26,Lambada de serpente,true,5VHL3pHhL12Mjug8g8hAjt,Lambada De Serpente,Djavan,175973,exact,BREMI7900028,5,,1,18027247-bb88-3b45-b089-6f7f35277497,Lambada de Serpente,several_recordings
-DJAVAN,27,Meu bem querer,true,1esL5ay4x4AzAjtWEhVR78,Meu Bem Querer,Djavan,204440,exact,BREMI7900026,7,,1,9e557c14-282c-48a2-98d4-e30fff9ba755,Meu bem querer,several_recordings
-DJAVAN,28,Aquele um,true,6yJcP5o5cZxiMFVMlVA14u,Aquele Um,Djavan,185306,exact,BREMI7900067,4,,0,,,several_recordings
-DJAVAN,29,Sururu de capote,true,1XN7OZORAzAAYZe92jQXNA,Sururu De Capote,Djavan,174600,exact,BREMI7900200,2,,0,,,several_recordings
-DJAVAN,30,Pedro Brasil,true,0VX5SLTKLzcSqeqYqSSzSM,Pedro Brasil,Djavan,283066,exact,BREMI8000054,5,,0,,,several_recordings
-DJAVAN,31,Seduzir,true,6VLFqEgYAAEBKUnz7hTIhr,Seduzir,Djavan,215226,exact,BREMI8100019,7,,0,,,several_recordings
-DJAVAN,32,Faltando um pedaco,true,3Ru1FKNx2VKzOD3TGQCTv6,Faltando Um Pedaço,Djavan,287800,exact,BREMI8000018,8,,0,,,several_recordings
-DJAVAN,33,Samurai,true,3BQAK2pnTpfZvLg2MUUU5i,Samurai (feat. Stevie Wonder),"Djavan, Stevie Wonder",288426,normalized,BRSME8200001,2,,1,2158e048-12a6-4cba-ad63-9379d84e5bf6,Samurai,several_recordings
-DJAVAN,34,Luz,true,2m39uQVY1w22IvK0AdUP3L,Luz,Djavan,248400,exact,BRSME8200013,1,c15c5a7a-95a2-4780-82c9-a3c7a1910f6e,1,07afdacb-d4ad-456f-942d-bb998cc32d1a,Luz,one_recording
-DJAVAN,35,Capim,true,1tBjTyIWZpAXKOahFNrpMK,Capim,Djavan,257160,exact,BRSME8200051,1,36e3517e-5970-43dd-974e-9f8779091dca,1,0bd0d57a-ee97-433c-98be-b8deccccf9b5,Capim,one_recording
-DJAVAN,36,Sina,true,2kgT6sMwXd3mdeXhBbLMQe,Sina,Djavan,332133,exact,BRSME8200048,3,,1,5624b325-b222-3e64-a496-bdfe4d1ef174,Sina,several_recordings
-DJAVAN,37,Petala,true,2H4TYG8IkKIXeJFt2CLCaO,Pétala,Djavan,283240,exact,BRSME8200027,3,,1,5e5395c9-9623-4b34-9b7e-8f3b06325fb6,Pétala,several_recordings
-DJAVAN,38,Acai,true,47TCVUU6MHGHP1hS8V1ST2,Açaí,Djavan,278333,exact,BRSME8200004,1,502ad80f-da2c-454e-929e-5157fd3b6136,1,106606d3-3aa0-493f-be41-a9646ccce0a0,Açaí,one_recording
-DJAVAN,39,Esfinge,true,2UKC6wNRq84hLmwSjsTFZu,Esfinge,Djavan,260733,exact,BRSME8200053,1,d49fa47c-4b09-4182-bcb2-7f7cfbe340b7,1,2f652feb-022e-407b-a937-776917ef00e7,Esfinge,one_recording
-DJAVAN,40,Tanta saudade,true,61hi84AiasdgYsoIczkAgh,Tanta Saudade,Djavan,256933,exact,BRSME8300089,1,c48d4130-38b4-452a-a918-6b3900255d34,1,fdef4d50-bdf2-40cc-a436-6b38bb34a4b6,Tanta saudade,one_recording
-DJAVAN,41,Fato consumado,true,0TCiAdmUnbvEdrT0vSUujh,Fato Consumado,Djavan,152760,exact,BRSGL7500028,1,3ab8e918-10ab-4485-9030-37723af37ac2,0,,,one_recording
-DJAVAN,42,Serrado,true,7EjRiBMib2EG0cdMEXavbC,Serrado,Djavan,212760,exact,BREMI7800005,6,,1,381be64c-6b7a-47ba-8984-6988777afce3,Serrado,several_recordings
-DJAVAN,43,Nobreza,true,2R1dnEOe2EfrvD88KBwZBm,Nobreza,Djavan,148573,exact,BRSME8200050,1,7dcb8dae-5a9e-4ce0-b606-311504ea1179,1,e86b28b9-8035-4290-9bc9-8ba011d648a4,Nobreza,one_recording
-DJAVAN,44,Joaninha,true,6XM6wC7VFZykaSXsCI3KLe,Joaninha,Djavan,335693,exact,BRLRO0700001,1,19b6ecd1-05d0-49b5-864b-2e556a59fdf3,0,,,one_recording
-DJAVAN,45,Flor do medo,true,5zO1MNX6m0lUDAT5IhBYjv,Flor do Medo,Djavan,275693,exact,BRLRO0400002,1,3aaf3551-168a-4978-bc03-0cb3c0ac5f1e,0,,,one_recording
-DJAVAN,46,Silaba,true,5bRhSiJd23KZWkqDOvVNJv,Sílaba,Djavan,261013,exact,BRSME0100645,1,75bd5bf9-4b8d-46cf-99eb-bee86645cea0,0,,,one_recording
-DJAVAN,47,Que foi my love,true,5QQ4918DICSsbFHnJl06eQ,Que Foi My Love?,Djavan,289026,exact,BRSME9600384,1,b470bee5-45b2-498a-ad5e-6945df9aa7aa,0,,,one_recording
-DJAVAN,48,Doidice,true,2nvdhBzWRkUQJuHF7vi6Hp,Doidice,Djavan,284866,exact,BRSME8700062,1,976fa661-7611-4a85-9727-f21f669300b1,0,,,one_recording
-DJAVAN,49,Serene,true,,,,,unmatched,,,,,,,no_isrc
-DJAVAN,50,Atitude,true,2WU36IehipppnC3pAVCIUS,Atitude,Djavan,309466,exact,BRSME9800651,1,ddd13c2f-897a-41dd-b769-6d309b2da02d,0,,,one_recording
-EDU,1,Abandono,true,,,,,unmatched,,,,,,,no_isrc
-EDU,2,Acalanto,false,7tAwx3iMgPQlciK4hjHNPL,Acalanto,Chico Buarque,98866,exact,BRPGD7100042,1,522286fb-ef55-4dab-833a-b21f3e58dbfb,1,1d9f024e-da91-4b28-8d78-b26d27eff62a,Acalanto,one_recording
-EDU,3,A historia de Lilly Braun,true,5Jtbyw5LwfSsTdS9JnOykq,A História de Lilly Braun,"Edu Lobo, Chico Buarque, Gal Costa",229746,exact,BROLA8300006,1,366831a7-c144-4edb-b673-065f5411c83e,1,2bae0c08-4698-490f-b4cd-eda779cb9861,A historia de Lily Braun,one_recording
-EDU,4,Aguaverde,true,0jayxDCifLJ3snFt60OsVQ,Aguaverde,Edu Lobo,252333,exact,USESK1309301,0,,0,,,isrc_not_in_mb
-EDU,5,Arrastao,true,3u70XHB13btIIcdjh6pi3I,Arrastão,Elis Regina,164386,exact,BRUM70900205,0,,0,,,isrc_not_in_mb
-EDU,6,Arpoador,true,1Uv7m04ofTGd0svTc1dIkk,Arpoador,Mauro Senise,454733,exact,BRPUI0600201,0,,0,,,isrc_not_in_mb
-EDU,7,As mesmas historias,true,7eaVsXCsVsGZFf39YcsfrY,As Mesmas Histórias,Regina Aldi,209493,exact,QZNJZ2372791,0,,0,,,isrc_not_in_mb
-EDU,8,Ave rara,true,3pIcD4MGnjJtkanlCmsAzF,Ave Rara,Edu Lobo,321013,exact,ESA031424566,0,,0,,,isrc_not_in_mb
-EDU,9,Beatriz,true,72pMw0S2aWQmQoNGAtlyal,Beatriz,Mônica Salmaso,296506,exact,BRPUI0700145,0,,0,,,isrc_not_in_mb
-EDU,10,Boranda,true,2hOc0OcbqPH0KFFzDOJBrZ,Borandá,Nara Leão,127850,exact,BRUM71600618,0,,0,,,isrc_not_in_mb
-EDU,11,Branca Dias,true,2tBM1gxVmn8lhpi10tMFWV,Branca Dias,Edu Lobo,218466,exact,BRUM70600848,0,,0,,,isrc_not_in_mb
-EDU,12,Candeias,true,7to4J7UD5Uz3qIYndeS7NP,Candeias,Edu Lobo,174466,exact,BRMCA6700199,0,,0,,,isrc_not_in_mb
-EDU,13,Cancao da terra,false,0Vuv5EVVzRxXOASpo0YJ92,"Canção Da Terra - Live At Teatro Paramount, Sao Paulo / 1965","Tamba Trio, Edu Lobo",170826,normalized,BRUM70601052,0,,0,,,isrc_not_in_mb
-EDU,14,Casa forte,false,37eiNLEDydiofUTcsXqbLB,Casa Forte,Edu Lobo,189333,exact,BRMCA7000103,0,,0,,,isrc_not_in_mb
-EDU,15,Canudos,false,1yzfkhHyrOcwMWpAs1LOmn,Canudos,Edu Lobo,248826,exact,BRUM70600845,0,,0,,,isrc_not_in_mb
-EDU,16,Canto triste,true,3jooIrgcHL5EDud3bpJVwr,Canto Triste,"Edu Lobo, Antônio Carlos Jobim",222973,exact,BRMCA8100183,1,d649dcdf-f97a-4ce1-a0f1-d8e5abc132fb,0,,,one_recording
-EDU,17,Cheganca,true,39FhS4UVNTnCgjL2J0Sebk,Chegança,Nara Leão,130240,exact,BRMCA6400103,0,,0,,,isrc_not_in_mb
-EDU,18,Choro bandido,true,2gKDL4R1u31araEbUioOEV,Choro Bandido,"Edu Lobo, Dori Caymmi",248706,exact,BRL4P1100004,0,,0,,,isrc_not_in_mb
-EDU,19,Cidade nova,true,06LMaZE2E4v0Lwbphb39XJ,Cidade Nova,"Edu Lobo, Airto Moreira, Hermeto Pascoal, Claudio Slow, Jose Mariono",291880,exact,BRMCA7000114,0,,0,,,isrc_not_in_mb
-EDU,20,Considerando,false,7HrAm1YUSQFZPjWAxgQZFS,Considérando,Edu Lobo,214066,exact,FR6V87600213,0,,0,,,isrc_not_in_mb
-EDU,21,Corrida de jangada,true,6674asbmDOzUXIhi0QZBYO,Corrida De Jangada,Elis Regina,134666,exact,BRMCA6800145,1,221d25a7-66f3-465b-b066-5fcb91ad900e,0,,,one_recording
-EDU,22,Corrupiao,false,1qJeoXRJAGB1Y9Gfp1l45U,Corrupião,Edu Lobo,208013,exact,ESA031424557,0,,0,,,isrc_not_in_mb
-EDU,23,Descompassado,true,7JFxp41Pm8DJTSFNkHmcZc,Descompassado,Edu Lobo,262640,exact,BRUM70600850,0,,0,,,isrc_not_in_mb
-EDU,24,Dono do lugar,false,1eJqzrY3NJWLhXF0qvekQJ,O Dono do Lugar,"Edu Lobo, Romero Lubambo, Mauro Senise",231333,fuzzy,BRPUI1800678,0,,0,,,isrc_not_in_mb
-EDU,25,Dos navegantes,true,3xIw1NkenElgFCBniJGTQa,Dos Navegantes,Edu Lobo,276386,exact,ESA031424560,0,,0,,,isrc_not_in_mb
-EDU,26,Frevo diabo,false,1tXXXWwzg9Q23cNX7pyB8b,Frevo Diabo,Edu Lobo,222360,exact,ESA031424558,0,,0,,,isrc_not_in_mb
-EDU,27,Lero-lero,false,0KpOl9BqZ5LkhpJgcQlRel,Lero-Lero,Edu Lobo,208906,exact,BRMCA7800052,0,,0,,,isrc_not_in_mb
-EDU,28,Meia-noite,true,6mnVRHoiCQ5X5wnuf6098w,Meia-Noite,Edu Lobo,224186,exact,BRL4P1100009,0,,0,,,isrc_not_in_mb
-EDU,29,Memorias de Marta Sare,false,3AF6C9qd9TJFtlBQJgdoBL,Memorias De Marta Sare,Elis Regina,197866,exact,BRMCA6900189,0,,0,,,isrc_not_in_mb
-EDU,30,Meu namorado,false,1wqYd1Q3qiANLFA7E0MvAU,Meu Namorado,"Edu Lobo, Chico Buarque, Simone",164186,exact,BROLA8300008,1,3812dd0f-3099-4200-a295-6e3a776bd4e4,1,19a30697-0e43-4ea3-bb82-e6449eb07cf0,Meu namorado,one_recording
-EDU,31,Pra voce que chora,true,6WTHJZ3ll4WYz36n1ZsXRO,Pra Você Que Chora,Edu Lobo,165040,exact,BRMCA6800098,0,,0,,,isrc_not_in_mb
-EDU,32,Perambulando,false,7twF7cZewTOgVczPX5Slel,Perambulando,Edu Lobo,187906,exact,BRL4P1100011,0,,0,,,isrc_not_in_mb
-EDU,33,Reza,true,5cUabzsUJF9us8gBbB5SMZ,"Reza - Live At Teatro Paramount, Sao Paulo / 1965","Tamba Trio, Edu Lobo",172306,normalized,BRMCA6700190,0,,0,,,isrc_not_in_mb
-EDU,34,Viola fora de moda,false,2gOwA32FKNEPrV4Gf2AULE,Viola Fora De Moda,Edu Lobo,170453,exact,BREMI7300618,0,,0,,,isrc_not_in_mb
-EDU,35,Vento bravo,true,58TBUk3C6w5Cd3whVkDGsH,Vento Bravo,"Edu Lobo, Antônio Carlos Jobim",255360,exact,BRMCA8100181,1,5a26426b-afb6-4ca2-aec6-71d47b7f06ce,0,,,one_recording
-EDU,36,Meus pensamentos de magoa,true,4gEdPxqGQmfGBB9oSxT3EL,Meus Pensamentos de Mágoa,Edu Lobo,199320,exact,BRPUI1200425,0,,0,,,isrc_not_in_mb
-EDU,37,Na carreira,false,6zPRxpBWz1Sy7cLaQviTkq,Na Carreira,"Edu Lobo, Chico Buarque",228066,exact,BROLA8300015,1,0a8eb1a0-0b6d-489d-9abe-e0e556bde73e,0,,,one_recording
-EDU,38,Zanzibar,true,4jWwrVcPvnVZBJRhpCTzdr,Zanzibar,"Edu Lobo, Airto Moreira, Hermeto Pascoal, Claudio Slow, Jose Mariono",197733,exact,BRMCA7000111,0,,0,,,isrc_not_in_mb
-EDU,39,So me fez bem,false,0FMtttEHYjkmxRe7k8plDh,Só Me Fez Bem,Edu Lobo,233386,exact,BRL4P1100005,0,,0,,,isrc_not_in_mb
-EDU,40,Senhora do rio,false,2KH6x0GqGACehHENRerApM,Senhora do Rio,"Edu Lobo, Romero Lubambo, Mauro Senise",216493,exact,BRPUI1800686,0,,0,,,isrc_not_in_mb
-EDU,41,Na ilha de Lia no barco de Rosa,true,3PPqTmeZKHScil99dY4XBE,"Na Ilha de Lia, No Barco de Rosa",Edu Lobo,216226,exact,BRL4P1100002,0,,0,,,isrc_not_in_mb
-EDU,42,Zanga zangada,false,35YA7lNoPtQYEClnvDWN9L,"Zanga, Zangada",Edu Lobo,186453,exact,BREMI9400026,0,,0,,,isrc_not_in_mb
-EDU,43,Sobre todas as coisas,true,1Axrt0xW0A3IAD2h5CrpFc,Sobre Todas As Coisas,Chico Buarque,204866,exact,BRBMG9300354,1,8fc9ac9e-2995-419b-b067-9388db9aecc1,1,1d1e0281-e345-4b22-aee9-063f2d7d51ac,Sobre todas as coisas,one_recording
-EDU,44,Upa neguinho,false,4jgPOHio2CbWbxrHrs7xy4,"Upa, Neguinho",Elis Regina,138533,exact,BRMCA6600180,0,,0,,,isrc_not_in_mb
-EDU,45,No cordao da saideira,true,4F0lXaVWd1cEUhSmC4Gk0u,No Cordão Da Saideira,Edu Lobo,171960,exact,BRMCA6700163,0,,0,,,isrc_not_in_mb
-EDU,46,O sertao,false,,,,,unmatched,,,,,,,no_isrc
-EDU,47,Zambi,false,6btxo2Y8ARZ0TU5K7QtCpN,Zambi,"Elis Regina, Zimbo Trio",309440,exact,BRMCA6500168,0,,0,,,isrc_not_in_mb
-EDU,48,Ponteio,true,3amYJ1XUkudH5wR03ZWno4,Ponteio,Edu Lobo,196013,exact,USESK1309289,0,,0,,,isrc_not_in_mb
-EDU,49,Pianinho,false,,,,,unmatched,,,,,,,no_isrc
-EDU,50,Pra dizer adeus,true,1qIfyH5ztNexkO9BY4Goku,Pra Dizer Adeus,"Edu Lobo, Antônio Carlos Jobim",280306,exact,BRMCA8100175,1,4092eb15-e9f6-40c0-9b8d-5cf644ddd90b,1,6c08421f-6f71-3331-b9db-d48481daf552,Pra dizer adeus,one_recording
-GIL,1,Andar com fe,true,5IRaXLiPevrMXjToXtD3Rm,Andar Com Fé,Gilberto Gil,194175,exact,BRGPG1900016,0,,0,,,isrc_not_in_mb
-GIL,2,Aquele abraco,true,7CjSjWTdVPD0ov82Qz55Xb,Aquele Abraço,Gilberto Gil,323773,exact,BRUM71200158,0,,0,,,isrc_not_in_mb
-GIL,3,Aqui e agora,true,4W7eLFq7r7zu0hJ49l1Uwd,Aqui e Agora,Gilberto Gil,347440,exact,BRGPG0600004,0,,0,,,isrc_not_in_mb
-GIL,4,Barato total,true,7MofMXf08ByS7FGDW5Nuwx,Barato Total,Gal Costa,231266,exact,BRMCA7400029,1,328ec477-7e50-4253-8f9a-afd4ff9873d2,1,52e2a03d-319f-42f7-8c40-e1b8147a9d7e,Barato total,one_recording
-GIL,5,Chororo,true,69XTw4ewd6mQn0k2RzeOj1,Chororô - Ao Vivo,Gilberto Gil,462506,normalized,BRGPG7800002,0,,0,,,isrc_not_in_mb
-GIL,6,Cerebro eletronico,true,4Lko74AjTF4HXirvmxd02j,Cérebro Eletrônico,Gilberto Gil,212066,exact,BRMCA6900260,0,,0,,,isrc_not_in_mb
-GIL,7,Copo vazio,true,1pkqmRR9Lu4m1PjW1CM8AV,Copo Vazio,Gilberto Gil,271106,exact,BRGPG0600005,0,,0,,,isrc_not_in_mb
-GIL,8,Cores vivas,true,7Kt6S5FOnNwW1wmn7RKcCc,Cores vivas,Gilberto Gil,228440,exact,BRWMB0700510,0,,0,,,isrc_not_in_mb
-GIL,9,Divino e maravilhoso,true,7J42bT9SnqnVJH4e4CMA8u,Divino Maravilhoso,Gal Costa,260133,fuzzy,BRPGD6900011,1,5a29ead3-8dae-4095-95e5-b5b57045c57e,1,8e141c36-9c32-4049-8b17-11c92c03d6ca,"Divino, maravilhoso",one_recording
-GIL,10,Eu vim da Bahia,true,3YyKhjarSxJWuO44trAVdr,Eu Vim Da Bahia,João Gilberto,154240,exact,BRPGD9900845,1,43d64f55-d90a-46ec-a5e0-261a85cdb1cd,1,3d761319-996e-473f-9abb-80dec94763d5,Eu vim da Bahia,one_recording
-GIL,11,Drao,true,2MddJi3XeknnPQ0cyfLLIA,Drão,Gilberto Gil,196306,exact,BRWMB9701924,0,,0,,,isrc_not_in_mb
-GIL,12,Era nova,true,6wPo638YVloLLGDPZRBE2F,Era nova,Gilberto Gil,238880,exact,BRWMB9701876,0,,0,,,isrc_not_in_mb
-GIL,13,Extra,true,3GS0CICQvKGCQcI7lNalcT,Extra,Gilberto Gil,354813,exact,BRWMB9900486,0,,0,,,isrc_not_in_mb
-GIL,14,Flora,true,1rnDnoapAU1Fkn0LgGh6QL,Flora,Gilberto Gil,256373,exact,BRWMB9701922,0,,0,,,isrc_not_in_mb
-GIL,15,Ladeira da Preguica,true,5fSFzCw2yVYdkV6fMeSTUe,Ladeira Da Preguiça,Elis Regina,164426,exact,BRMCA7300009,0,,0,,,isrc_not_in_mb
-GIL,16,Lamento sertanejo,true,3sxhpt3p7D0Sas6ej9HGk1,Lamento sertanejo,Gilberto Gil,260866,exact,BRWMB0000686,1,b315d0ff-0bb8-4455-890c-bc1577642d4a,0,,,one_recording
-GIL,17,Lente do amor,true,159OZWaagvUQhvrTTBZT0R,Lente do amor,Gilberto Gil,220160,exact,BRWMB9701580,0,,0,,,isrc_not_in_mb
-GIL,18,Lugar comum,true,76gIaqmx24bwK74yyulH04,Lugar Comum,João Donato,213266,exact,BRMCA7500004,0,,0,,,isrc_not_in_mb
-GIL,19,Mancada,true,6ujSuZdXwjaNp4n0KnIt7v,Mancada,Gilberto Gil,122226,exact,BRMCA6700791,0,,0,,,isrc_not_in_mb
-GIL,20,Menina do sonho,true,6gc4d4ai3wOepYlD5UcpGq,Menina do sonho,Gilberto Gil,293493,exact,BRWMB9900457,0,,0,,,isrc_not_in_mb
-GIL,21,Meu amigo meu heroi,true,6RTFsX0hNP4HJR7wGelZQD,"Meu Amigo, Meu Herói",Zizi Possi,247160,exact,BRMCA8000096,0,,0,,,isrc_not_in_mb
-GIL,22,Morena,true,7KCjpC39RZ86cIfblOOrb7,Morena,Gilberto Gil,208000,exact,BRWMB9901129,0,,0,,,isrc_not_in_mb
-GIL,23,O rouxinol,true,0XaX67K7N1T8973AZK2lAD,O rouxinol,Gilberto Gil,160986,exact,BRWMB9701866,0,,0,,,isrc_not_in_mb
-GIL,24,O sonho acabou,true,7aLyeI2Ar7gaBBWN33b0K6,O Sonho Acabou,Gilberto Gil,214373,exact,BRMCA7400149,2,,0,,,several_recordings
-GIL,25,Palco,true,2wL88cvKXUOfHuYVd62hji,Palco,Gilberto Gil,266173,exact,BRWMB9701926,0,,0,,,isrc_not_in_mb
-GIL,26,Pessoa nefasta,true,2kVPGYJUEmpGsP72ZK4yzF,Pessoa nefasta,Gilberto Gil,310040,exact,BRWMB9701934,0,,0,,,isrc_not_in_mb
-GIL,27,Preciso aprender a so ser,true,41q3q5opxQkcfM3FUq2hMA,Preciso Aprender a Só Ser,Gilberto Gil,283760,exact,BRGPG0600003,0,,0,,,isrc_not_in_mb
-GIL,28,Procissao,true,3OAkLAzOU84ZEdeT8xfrr3,Procissão,Gilberto Gil,158640,exact,BRPGD6700012,0,,0,,,isrc_not_in_mb
-GIL,29,Punk da periferia,true,2pqPSL5aRAW4cluteEgCIS,Punk da periferia,Gilberto Gil,319773,exact,BRWMB9705415,0,,0,,,isrc_not_in_mb
-GIL,30,Raca humana,true,7gowLNY0HqyvpD5Cq6T43N,A raça humana,Gilberto Gil,269813,fuzzy,BRWMB9900485,0,,0,,,isrc_not_in_mb
-GIL,31,Rebento,true,1LgbcTDdH5meAT5qLd56JZ,Rebento,Gilberto Gil,176493,exact,BRGPG7900006,0,,0,,,isrc_not_in_mb
-GIL,32,Refazenda,true,4NzY5auu3oohqRKDPZxKEF,Refazenda,Gilberto Gil,190133,exact,BRWMB9701569,0,,0,,,isrc_not_in_mb
-GIL,33,Sandra,true,5JmBuvUAjNnzSPIOF4Z6ZQ,Sandra,Gilberto Gil,287546,exact,BRWMB9701874,0,,0,,,isrc_not_in_mb
-GIL,34,Se eu quiser falar por Deus,true,6Fzbz090WvXmkk0GlzCasR,Se eu quiser falar com Deus,Gilberto Gil,289160,fuzzy,BRWMB9701575,0,,0,,,isrc_not_in_mb
-GIL,35,Realce,true,6991iMrfqqHjYSPzsobNeW,Realce,Gilberto Gil,284093,exact,BRGPG7900001,0,,0,,,isrc_not_in_mb
-GIL,36,Sitio do Pica-Pau Amarelo,true,2ukpjo2XXqZsdLOI0bDCLX,Sítio do Picapau Amarelo,Gilberto Gil,188520,fuzzy,BRGPG0500001,0,,0,,,isrc_not_in_mb
-GIL,37,Bapa Alapala,true,2sxMo1q9kad30CdtNsIkXY,Babá alapalá,Gilberto Gil,215760,fuzzy,BRWMB9701872,0,,0,,,isrc_not_in_mb
-GIL,38,Back in Bahia,true,6NUr9BBJzUYRSW9TjQRd7H,Back In Bahia,Gilberto Gil,278706,exact,BRPGD7200010,1,d59dc0b1-45a6-4e22-9cba-1f6ce64d1993,0,,,one_recording
-GIL,39,Deixar voce,true,117pf5wgOdGxErNTQL3Fn8,Deixar você,Gilberto Gil,285826,exact,BRWMB9900455,0,,0,,,isrc_not_in_mb
-GIL,40,Domingo no parque,true,0HMa3XCtloTdy3cL00lWNz,Domingo no Parque,Gilberto Gil,222266,exact,BRPGD6800025,0,,0,,,isrc_not_in_mb
-GIL,41,Expresso 2222,true,1gC8FCW9gnAS3DICToSfUz,Expresso 2222,Gilberto Gil,159813,exact,BRPGD7200008,1,1220f186-2a13-41b8-84cb-7515a8e2e7b6,1,a07b84f6-a5f2-3503-b604-5637069c3040,Expresso 2222,one_recording
-GIL,42,Luar,true,,,,,unmatched,,,,,,,no_isrc
-GIL,43,Lovacao,true,3DLROXO3OgoXZyrK5shK3Z,Louvação,Gilberto Gil,224693,fuzzy,BRPGD6700011,0,,0,,,isrc_not_in_mb
-GIL,44,Meio de campo,true,496GT0KiBvNFpedpLUDwPh,Meio De Campo,Elis Regina,116466,exact,BRMCA7300158,0,,0,,,isrc_not_in_mb
-GIL,45,Retiros espirituais,true,4m50HRfae0bLJnbnJZexyn,Retiros espirituais,Gilberto Gil,293226,exact,BRWMB9701865,0,,0,,,isrc_not_in_mb
-GIL,46,Sarara miolo,true,4Gt8YQqUailN57ShSv0sXj,Sarará Miolo,Gilberto Gil,290733,exact,BRGPG7900017,0,,0,,,isrc_not_in_mb
-GIL,47,Soy loco por ti America,true,5zitPHwFth0QZji0s7Q9uP,Soy Loco Por Ti América - Remastered 2006,Caetano Veloso,223866,normalized,BRUM70601099,1,5b90b72c-0866-4b74-b1ac-14be910d71a2,0,,,one_recording
-GIL,48,Super-homem,true,,,,,unmatched,,,,,,,no_isrc
-GIL,49,Toda menina baiana,true,0ENvhTTww1MVOulrzuxSmu,Toda Menina Baiana,Gilberto Gil,226640,exact,BRGPG7900007,0,,0,,,isrc_not_in_mb
-GIL,50,Vamos fugir,true,2n7yvpEv6OmrayoooUzDaI,Vamos Fugir,Gilberto Gil,337440,exact,BRGPG2300003,0,,0,,,isrc_not_in_mb
-JOBIM,1,Absolute Lee,true,,,,,unmatched,,,,,,,no_isrc
-JOBIM,2,Agua de beber,true,3QKJELWORZZ7rUZDWeMWSA,Água de Beber,"Astrud Gilberto, Antônio Carlos Jobim",138013,exact,USPR36500060,4,,1,8bbf6da7-aab1-394b-9bb6-ddfea5477fa1,Água de beber,several_recordings
-JOBIM,3,Ai quem me dera,true,1WHR0R8v2paKDNNxBrXIF0,Ai Quem Me Dera,"Edu Lobo, Antônio Carlos Jobim",132160,exact,BRMCA8100174,1,e67195ad-8776-451d-8904-6af97e9d4c50,0,,,one_recording
-JOBIM,4,Angela,true,7JtNLcvfGyYUJYtul6sPii,Angela,Antônio Carlos Jobim,171626,exact,USWB17500018,0,,0,,,isrc_not_in_mb
-JOBIM,5,Bebel,true,4qOErQ8aFM9CrYpFFgXMSR,Bebel,Antônio Carlos Jobim,192933,exact,USPR38682016,0,,0,,,isrc_not_in_mb
-JOBIM,6,Bonita,true,5mg1NcAojwlveNf1CO4WAv,Bonita,"Elis Regina, Antônio Carlos Jobim",160160,exact,USWWW0137138,0,,0,,,isrc_not_in_mb
-JOBIM,7,Brigas nunca mais,true,3SkLW48Xt2knevezFTs0pY,Brigas Nunca Mais,"Elis Regina, Antônio Carlos Jobim",102008,exact,BRMCA7400161,1,300fa169-4869-418e-87f6-3392a4fb36ac,1,22adf5ba-3780-3c2c-a380-4a4d29d1c4b0,Brigas nunca mais,one_recording
-JOBIM,8,Caminho de pedra,false,5bF6XigFrPodr4egQ4Zs3l,Caminho de Pedra,Antônio Carlos Jobim,170226,exact,DETL61612042,0,,0,,,isrc_not_in_mb
-JOBIM,9,Caminhos cruzados,true,24y5i0NJjkpxjGKsSa20gh,Caminhos Cruzados,"Antônio Carlos Jobim, Gal Costa",270826,exact,USPR39302722,0,,0,,,isrc_not_in_mb
-JOBIM,10,Cancao do amor demais,false,5vuXKsDuDts9olm2pv6eyK,Canção do Amor Demais,Antônio Carlos Jobim,101733,exact,BRJ9B0500015,1,442a84d0-28f1-4902-8fa3-eef41644fdee,0,,,one_recording
-JOBIM,11,Chega de saudade,true,3vNwY4KaBRnJP4G6UBJPZH,Chega De Saudade,Antônio Carlos Jobim,233200,exact,BRJ9B0500002,1,1f270cf8-67a5-494c-aca1-66d71f67eeb2,1,768cf901-2e16-36ee-8e5a-f8de66f4a00c,Chega de saudade,one_recording
-JOBIM,12,Corcovado,true,29OG9zJjZgQvFMfGVB09Lt,Corcovado,"Elis Regina, Antônio Carlos Jobim",237024,exact,BRMCA7400158,1,495fba83-45cb-492b-a6da-28af60165532,1,c93c9224-5608-36ee-980a-3dbba3c603e5,Corcovado,one_recording
-JOBIM,13,Demais,false,0q6J0nTdkQ3zm5OAJqAhzI,Demais,"Antônio Carlos Jobim, Fogueira Tres",156316,exact,BRCID8800053,0,,0,,,isrc_not_in_mb
-JOBIM,14,Derradeira primavera,false,14MVw52Y70TARibNRJcCk1,Derradeira Primavera,Antônio Carlos Jobim,138426,exact,BRJ9B0500018,1,dcafeedb-7bbd-4e8e-9ec3-23b61781ecd4,0,,,one_recording
-JOBIM,15,Desafinado,true,03uzQMPYLmH848VDbgvSkg,Desafinado,Antônio Carlos Jobim,175093,exact,BRJ9B0500023,1,a6b8bfcc-1b24-4d20-936c-016f33f1b070,1,807b8169-cb39-30c7-a9e2-d8491fc97651,Desafinado,one_recording
-JOBIM,16,Dindi,false,5F7WA2A1o6GjWo5S8QiIgk,Dindi,Antônio Carlos Jobim,255240,exact,USWB17900026,1,14dabc93-5f7b-4713-8239-6c95f8c7bf1b,0,,,one_recording
-JOBIM,17,Discussao,true,1VYmQjKl2Gsqzu8ph1emmD,Discussão,"João Gilberto, Antônio Carlos Jobim",109680,exact,FR6V81331900,0,,0,,,isrc_not_in_mb
-JOBIM,18,E preciso dizer adeus,false,27RE0q756dzl6CqYE1AQCn,É Preciso Dizer Adeus,"Miúcha, Antônio Carlos Jobim",131746,exact,BRBMG7700022,1,8e406786-3889-4d41-adc3-7a8356abb9ab,1,8c438229-2914-4fb5-a34c-924a10596fce,É preciso dizer adeus,one_recording
-JOBIM,19,Ela e carioca,true,63mzxN371fzpOKPbDTCB8n,Ela É Carioca,"Antônio Carlos Jobim, Nelson Riddle E Sua Orquestra",155173,exact,BRMCA6700162,0,,0,,,isrc_not_in_mb
-JOBIM,20,Engano,false,,,,,unmatched,,,,,,,no_isrc
-JOBIM,21,Este seu olhar,true,1j5Z8UDSJjStU58La9q1lx,Este Seu Olhar,Antônio Carlos Jobim,133446,exact,DETL61612048,0,,0,,,isrc_not_in_mb
-JOBIM,22,Estrada do sol,false,5Ps1jafHLs9ZNsVXmEmnzg,Estrada do Sol,Antônio Carlos Jobim,192533,exact,BRJ9B0500020,1,5ae5c8a6-8895-402b-8626-b90b9e0c3f9d,1,dd4d342c-4d28-4799-b8f3-f179b5a7e5f4,Estrada do Sol,one_recording
-JOBIM,23,Eu e o meu amor,false,3p4jqC87f9MookKOr3d0fr,Eu e o Meu Amor - Remastered,Antônio Carlos Jobim,103957,normalized,ES58A2101911,0,,0,,,isrc_not_in_mb
-JOBIM,24,Eu sei que vou te amar,true,7CRIoOb5ViF1CBFLcyTfMw,Eu Sei Que Vou Te Amar,Antônio Carlos Jobim,112200,exact,BRJ9B0500014,2,,1,e8a0659c-277c-3466-9667-3cb48b68f125,Eu sei que vou te amar,several_recordings
-JOBIM,25,Faz uma semana,false,,,,,unmatched,,,,,,,no_isrc
-JOBIM,26,Garota de Ipanema,true,2vTDA7mOYWtuduCylWfiFd,Garota de Ipanema,Antônio Carlos Jobim,242760,exact,BRJ9B0500005,1,3c690cbc-19ba-4653-9fbe-470d0a8f51ab,1,041c76df-2a1e-34dd-b482-07c15b151ee2,Garota de Ipanema,one_recording
-JOBIM,27,Incerteza,false,4glBRpYU1tRih4E0vU73xA,Incerteza,Antônio Carlos Jobim,152040,exact,ES71G1306598,0,,0,,,isrc_not_in_mb
-JOBIM,28,Insensatez,true,3l1FevVPUEsQh139eOIl9m,Insensatez,"Antônio Carlos Jobim, Vinícius",262293,exact,ARG991015716,0,,0,,,isrc_not_in_mb
-JOBIM,29,Janelas abertas,false,3R2zYmaKzJZBAfEERTA9L0,Janelas Abertas,"Antônio Carlos Jobim, Gal Costa",202333,exact,BRLUM9300027,0,,0,,,isrc_not_in_mb
-JOBIM,30,Lamento no morro,false,3Sbd2TsEkiMljik57jipK2,Lamento No Morro,"Antônio Carlos Jobim, Roberto Paiva",128053,exact,BREMI5600086,0,,0,,,isrc_not_in_mb
-JOBIM,31,Ligia,true,374rP3oqQf1Qld2H8pH5fv,Ligia,Antônio Carlos Jobim,256266,exact,USWB17500016,0,,0,,,isrc_not_in_mb
-JOBIM,32,Luar e batucada,false,3O8ENvRglL0Raq5Te71HIM,Luar e Batucada,Fatima Guedes,147973,exact,BRROF0600081,1,c0029799-dde0-4c98-ad4b-d9a0e1f0a1da,0,,,one_recording
-JOBIM,33,Luiza,false,2qTASec3uvfpaKsQ15rIkM,Luiza,"Antônio Carlos Jobim, Nova Banda",151840,exact,USPR38605204,0,,0,,,isrc_not_in_mb
-JOBIM,34,Magoa,false,,,,,unmatched,,,,,,,no_isrc
-JOBIM,35,Meditacao,true,3sp8m1XywQhDiPEctlT4TL,Meditação,Antônio Carlos Jobim,195213,exact,BRMCA6400214,2,,1,87c15f26-e79a-34db-843c-6884186c94bd,Meditation,several_recordings
-JOBIM,36,Modinha,false,7w445n1qc0sYZUSyW58UGZ,Modinha,"Elis Regina, Antônio Carlos Jobim",138005,exact,BRMCA7400156,1,79d97e8c-33cd-4d22-82e0-0cf79a8ce01a,1,bfd483bc-18aa-3ca1-91ce-4133b4a5a8f0,Modinha,one_recording
-JOBIM,37,O amor em paz,true,7z97VUngFESJNinp9B3znE,Amor Em Paz (Once I Loved),Antônio Carlos Jobim,214693,fuzzy,USPR36307064,2,,1,dbe9bfaf-448f-32e9-89cb-2493155d053d,O amor em paz,several_recordings
-JOBIM,38,Pois e,false,7Frd1uhTyz0d6yIWy45GA5,Pois É,"Elis Regina, Antônio Carlos Jobim",104106,exact,BRMCA7400154,1,528cc54c-e303-4840-861a-be3b58c3e924,1,bd6b3371-eee5-42f5-bf90-211ce78cf82b,Pois é,one_recording
-JOBIM,39,Sabia,false,5z4j2oqcHJcX6zbRQG1M9U,Sabiá,Antônio Carlos Jobim,199266,exact,BRJ9B0500003,1,12f234e5-4e28-4302-962d-90d0afc0f049,1,091deb8d-4ffb-3b5d-8979-a6992eaf61ba,Sabiá,one_recording
-JOBIM,40,Samba de uma nota so,true,1CKhZVUyHhXKtN6Bo68xqq,Samba de Uma Nota Só,Antônio Carlos Jobim,180040,exact,BRJ9B0500022,1,12e209bb-98fb-4496-a959-886d11c09321,1,c41e313a-d429-3283-9c39-a5ec4e4b0437,Samba de uma nota só,one_recording
-JOBIM,41,Samba do aviao,true,3sqm0Wye2RdH21jZJQiDLn,Samba do Avião,Antônio Carlos Jobim,204266,exact,BRJ9B0500004,1,b43891dd-8631-46f5-92ec-df390eba670f,1,210d3b3f-d0ed-371b-9395-6af9692730b9,Samba do avião,one_recording
-JOBIM,42,Se todos fossem iguais a voce,false,3I3JQXbe6m3JpfpQIrd9Ob,Se Todos Fossem Iguais A Você,"Antônio Carlos Jobim, Roberto Paiva",215213,exact,BREMI6400032,0,,0,,,isrc_not_in_mb
-JOBIM,43,So danco samba,false,4Rwljh2dqc2mIimSzsPATg,So Danco Samba,Antônio Carlos Jobim,120760,exact,BRSME9400282,0,,0,,,isrc_not_in_mb
-JOBIM,44,So tinha de ser com voce,true,209ucYTS6vWEV5iydrHiOt,Só Tinha De Ser Com Você,"Elis Regina, Antônio Carlos Jobim",233015,exact,BRMCA7400001,2,,1,29157681-36a7-3dd1-a3ef-236bc9035990,Só tinha de ser com você,several_recordings
-JOBIM,45,Solidao,false,7nEaoveW993Gz9UyNzdOaY,Solidao,Antônio Carlos Jobim,180933,exact,GBBLY0602875,0,,0,,,isrc_not_in_mb
-JOBIM,46,Tereza da praia,false,4r2Pe3WO147bVOVvQ5sqpM,Tereza da Praia,Antônio Carlos Jobim,168892,exact,QMDA61320330,0,,0,,,isrc_not_in_mb
-JOBIM,47,Triste,true,0PHGV9pWYv91WCeCXhdWye,Triste,"Elis Regina, Antônio Carlos Jobim",162368,exact,BRMCA7400157,2,,1,2e7d6d15-b904-31b1-a763-ec5049ff1316,Triste,several_recordings
-JOBIM,48,Vivo sonhando,false,5O9dsLw5PLNAAa7BaeC3hG,Vivo Sonhando (Dreamer),Antônio Carlos Jobim,155666,normalized,USF096325420,1,cc0ca1f8-9fc0-41b5-a815-b7ea527439f8,1,6505ce53-f8a2-3b61-bde4-03f5222f3d21,Vivo sonhando,one_recording
-JOBIM,49,Voce vai ver,true,0e82Hn1GFIDCstOzRxg9DI,Você vai ver,Antônio Carlos Jobim,175293,exact,USWB17900030,1,a69c44f5-c33a-4110-8a7a-234f4e1adf7e,0,,,one_recording
-JOBIM,50,Wave,true,06Zi8Bg1sCzj7Sfojqcu7e,Wave,Antônio Carlos Jobim,168400,exact,BRJ9B0500001,1,c7671259-4105-42cc-a4d8-0a75ed3519a7,0,,,one_recording
-LINS,1,A cor do por do sol,false,7cjWxtPwUPQHCIXRIH1M44,A Cor Do Pôr-Do-Sol,Ivan Lins,273733,exact,NLEA21000027,0,,0,,,isrc_not_in_mb
-LINS,2,A noite,true,78J8b2YnaFrsCflgemM6mU,A Noite,Ivan Lins,209826,exact,BREMI7900043,0,,0,,,isrc_not_in_mb
-LINS,3,Abre alas,false,4ysDStcutxyonMoGuYNqR0,Abre Alas,Ivan Lins,189586,exact,BRBMG7400021,1,d47f2a3b-5d5a-48dd-adbd-1376e5d467e5,0,,,one_recording
-LINS,4,Acaso,false,48HYrSjLD0jIGC13m7dSOQ,Acaso,Ivan Lins,262560,exact,BRESM0700096,0,,0,,,isrc_not_in_mb
-LINS,5,Agora,false,76HA7xdvZEfSVlltCliIc3,Agora,Ivan Lins,210666,exact,BRMCA7000059,0,,0,,,isrc_not_in_mb
-LINS,6,Ai ai ai,false,,,,,unmatched,,,,,,,no_isrc
-LINS,7,Ainda te procuro,false,5eywSQpdJISPceKTiVRby2,Ainda Te Procuro,Ivan Lins,214400,exact,BRMCA8800059,0,,0,,,isrc_not_in_mb
-LINS,8,Amor,true,3hSBILuuQh1BkmkiN1GJfG,Amor,"Ivan Lins, Lucinha Lins",277533,exact,BRMCA8100112,0,,0,,,isrc_not_in_mb
-LINS,9,Anjo de mim,true,226xL0As0VprzcNVk4tij6,Anjo de Mim,"Ivan Lins, Cesar Camargo Mariano",321400,exact,BRVLS9500596,0,,0,,,isrc_not_in_mb
-LINS,10,Aos nossos filhos,true,4pFs4BU2ca3EOZZhAkgOqF,Aos Nossos Filhos,Ivan Lins,350973,exact,BRVLS9400622,0,,0,,,isrc_not_in_mb
-LINS,11,Bilhete,true,41TT0D06vPzfkKL1h4FI6D,Bilhete,Ivan Lins,177466,exact,BREMI8000027,0,,0,,,isrc_not_in_mb
-LINS,12,Cantor da noite,false,487iHjB62qKYkabqTyqL8c,Cantor da Noite,"Ivan Lins, Caroline Campbell, Dave Carpenter, Randy Waldman, Thom Rotella, Vinnie Colaiuta",372050,exact,USCGJ2180617,0,,0,,,isrc_not_in_mb
-LINS,13,Choro das aguas,false,3uhIYRwbQkZp3hzC9Fluh3,Choro Das Aguas,Ivan Lins,158733,exact,BREMI7700563,1,a1e139bb-2b9d-43d7-9506-a5b92d0255a5,0,,,one_recording
-LINS,14,Daquilo que eu sei,true,7mXT5v06ELfQBdhNQqu137,Daquilo Que Eu Sei,Ivan Lins,242800,exact,BRMCA8100107,0,,0,,,isrc_not_in_mb
-LINS,15,Depois dos temporais,false,7KajfssJctDciwxaiwYpf6,Depois Dos Temporais,Ivan Lins,333160,exact,BRMCA8300081,0,,0,,,isrc_not_in_mb
-LINS,16,Dinorah Dinorah,true,1drWcpx6c74yjZ1RgYYcSm,"Dinorah, Dinorah",Ivan Lins,193400,exact,BREMI7700022,1,3ee821bb-45bf-41f4-9937-df0cf0a64988,0,,,one_recording
-LINS,17,Doce presenca,true,4BjN6YyOnw8G28tqfx6Q3O,Doce Presença,Ivan Lins,255666,exact,BRMCA8300082,0,,0,,,isrc_not_in_mb
-LINS,18,Essa mare,false,68JDhquVQyaz1iSSRwxSIH,Essa Maré,Ivan Lins,133733,exact,BRBMG7400040,0,,0,,,isrc_not_in_mb
-LINS,19,Fogueiras,false,0ljCgXRXiQxqQaTGoXDsoV,Fogueiras,Ivan Lins,145293,exact,BRMCA8800067,0,,0,,,isrc_not_in_mb
-LINS,20,Guarde nos olhos,true,4UfneNUjsKYL1wiEVr1pYN,Guarde Nos Olhos,Ivan Lins,205360,exact,BREMI7800152,0,,0,,,isrc_not_in_mb
-LINS,21,Ituverava,true,7lOEGKNGODra3O8UW5eMbM,Ituverava,Ivan Lins,184400,exact,BREMI7700565,1,06dfc29e-6218-4c5a-8d65-2370ed016742,0,,,one_recording
-LINS,22,Iluminados,false,06OE8U81123aw3eL05DU4F,Iluminados,Ivan Lins,259560,exact,BRPGD8700002,0,,0,,,isrc_not_in_mb
-LINS,23,Joana dos barcos,true,5jdo4szYFc79zVBMqFwmXg,Joana dos barcos,Ivan Lins,158493,exact,UKDNQ1537574,0,,0,,,isrc_not_in_mb
-LINS,24,Lembra de mim,true,6OxRX1BuBlQVH3Vi9qAJ74,Lembra de Mim,Ivan Lins,261400,exact,BRVLS9500601,0,,0,,,isrc_not_in_mb
-LINS,25,Lembra,false,3wMnqTB5QoIXcjedF48GCA,Lembra,Ivan Lins,230253,exact,BRMCA8300087,0,,0,,,isrc_not_in_mb
-LINS,26,Leva e traz,false,,,,,unmatched,,,,,,,no_isrc
-LINS,27,Madalena,true,0IRQkXY4szWA1RNBeV6lu1,Madalena,Elis Regina,157640,exact,BRMCA7100150,2,,0,,,several_recordings
-LINS,28,Meu pais,false,02p8YhEueeJwOOfT6iOIpc,Meu País,"Brasilidade Geral, Ivan Lins",322268,exact,BXDFC1900007,0,,0,,,isrc_not_in_mb
-LINS,29,Mudanca dos ventos,true,65OaBa15mNB23sSaMgdG8I,Mudanca Dos Ventos,Kenia,270266,exact,USCGJ0527254,0,,0,,,isrc_not_in_mb
-LINS,30,Na areia na beira do mar,false,,,,,unmatched,,,,,,,no_isrc
-LINS,31,Novo tempo,true,3a30ARehkfMTDkJyBWazNG,Novo Tempo,Ivan Lins,293933,exact,BREMI8000028,0,,0,,,isrc_not_in_mb
-LINS,32,O amor e meu pais,true,1bQ8CZZ3YULMGrssBgBL9w,O Amor É O Meu Pais,Ivan Lins,218893,fuzzy,BRPGD7000007,0,,0,,,isrc_not_in_mb
-LINS,33,Porta entreaberta,false,05cPV8q0P4t5vump0OS6IM,Porta Entreaberta - Live,Ivan Lins,223960,normalized,BREMI0400912,0,,0,,,isrc_not_in_mb
-LINS,34,Quadras de roda,false,,,,,unmatched,,,,,,,no_isrc
-LINS,35,Rio de maio,false,4ddAB4WdkimMogeaVdjVTr,Rio de Maio,"Wanda Sá, Ivan Lins, Ricardo Silveira",210247,exact,BRFIN1600083,0,,0,,,isrc_not_in_mb
-LINS,36,Saindo de mim,true,0P7oOgBvXouLI5PhDDBB9b,Saindo De Mim,Ivan Lins,219400,exact,BREMI7900039,0,,0,,,isrc_not_in_mb
-LINS,37,Sertaneja,false,6QG29duk4Q8DJVgQnTaVeI,Sertaneja,Ivan Lins,222626,exact,BREMI8000169,0,,0,,,isrc_not_in_mb
-LINS,38,Soberana rosa,false,16aG3DMFRAD9efSvEtSjO6,Soberana Rosa,"Chico C, Ivan Lins, Vitos Martins",260093,exact,CH0580800067,0,,0,,,isrc_not_in_mb
-LINS,39,Tens,false,0OAgO9MUBKJ2j7fzqhz783,Tens (Calmaria),Ivan Lins,170226,normalized,BRBMG7400042,0,,0,,,isrc_not_in_mb
-LINS,40,Um fado,true,3BSnkr96MlhDOtb6VCw7ra,Um Fado,Ivan Lins,132066,exact,BREMI7700101,1,5e4f235e-2ebb-4f24-b845-32b899cac91c,0,,,one_recording
-LINS,41,Velas icadas,true,1qpXcBqt6NX3mBX0sNv54p,Velas Içadas,Ivan Lins,213133,exact,BREMI7900044,0,,0,,,isrc_not_in_mb
-LINS,42,Vitoriosa,true,3lVZhxA7MBEY5RzvIgKKEE,Vitoriosa,Ivan Lins,238973,exact,BRVLS9400628,0,,0,,,isrc_not_in_mb
-LINS,43,Antes que seja tarde,true,5DjJNx2jvG63HfSqdIdWdr,Antes Que Seja Tarde,Ivan Lins,218160,exact,BREMI7900041,0,,0,,,isrc_not_in_mb
-LINS,44,Arlequim desconhecido,false,3IqC7YUjxeaZTKGCMP0wQm,Arlequim Desconhecido,Ivan Lins,239466,exact,BREMI8000170,0,,0,,,isrc_not_in_mb
-LINS,45,Aparecida,true,6ZRQpHnxxMhH2OSlTsoEC0,Aparecida,Ivan Lins,258466,exact,BREMI7700034,1,f3d678c4-da55-44ae-b431-f8d2e703ab65,0,,,one_recording
-LINS,46,Bonito,false,09WcUmephnMK9nykwBsUu5,Bonito,Ivan Lins,208800,exact,BRMCA8300083,0,,0,,,isrc_not_in_mb
-LINS,47,Camaleao,false,7BvkODpYxg1B0fhv04ebX4,Camaleão,Ivan Lins,245600,exact,BRVLS9500602,0,,0,,,isrc_not_in_mb
-LINS,48,Bandeira do divino,false,5Szi2uEs1VFFiJvI3E4Q1J,Bandeira Do Divino,Ivan Lins,239973,exact,BREMI7800021,0,,0,,,isrc_not_in_mb
-LINS,49,Coragem mulher,false,,,,,unmatched,,,,,,,no_isrc
-LINS,50,Cartomante,true,7yFfbiuDp0BbfnN3P1beN1,Cartomante,Ivan Lins,204360,exact,BREMI7800022,0,,0,,,isrc_not_in_mb
-MILTON,1,A sede do peixe,true,4j8d6azsJOmIciky4leAh2,A Sede Do Peixe (Para O Que Não Tem Solução),Milton Nascimento,146200,normalized,BREMI7800113,1,7b3349a9-7b9c-42bb-9a18-7e3728c6cd77,0,,,one_recording
-MILTON,2,A terceira margem do rio,true,5iZtzRyaAJ9KYRdq5sEfTy,A Terceira Margem do Rio,Milton Nascimento,227960,exact,BRSME9000116,0,,0,,,isrc_not_in_mb
-MILTON,3,Amor amigo,true,1sy8JH6pdfVFY18oPnyVIX,Amor Amigo,Milton Nascimento,200160,exact,BRMCA8100287,0,,0,,,isrc_not_in_mb
-MILTON,4,Cais,true,1UvOFJFyfsm2OJkE3s48fs,Cais,Milton Nascimento,165333,exact,BREMI7100095,1,98eec9fa-5a8b-472e-b62f-7d229ae78511,1,096e81a5-e2a8-4e54-91a5-d50c379d86f5,Cais,one_recording
-MILTON,5,Cancao amiga,true,2FzTzrJePgU98Wm6oHWiah,Canção Amiga,Milton Nascimento,153866,exact,BREMI7800106,1,80a94394-5c87-4db3-98aa-1fbdc3275919,0,,,one_recording
-MILTON,6,Catavento,true,7xFInF3GMAXSZXBPgIyYsb,Catavento,Milton Nascimento,134266,exact,BRMVM0200009,0,,0,,,isrc_not_in_mb
-MILTON,7,Caxanga,true,5ustFvQIOuvK4DyIoSk40O,Caxangá,Elis Regina,193306,exact,BRMCA7700190,1,afdc0254-ec2d-4bb8-b773-3d6efbcb62e8,0,,,one_recording
-MILTON,8,Clube da Esquina 2,true,1sdW2whJr8CLa6bMA67LPQ,Clube Da Esquina Nº 2,Milton Nascimento,218600,fuzzy,BREMI7100165,2,,1,6fe82df3-ed02-4b4a-b0d8-8161a494c473,Clube da Esquina №2,several_recordings
-MILTON,9,Coracao civil,true,2dYRoAv60nga3XTTixt2oy,Coracao Civil,Milton Nascimento,193400,exact,BRMCA8900029,0,,0,,,isrc_not_in_mb
-MILTON,10,Credo,true,6cz3yXL7XdhMnr4eJhncia,Credo,Milton Nascimento,184960,exact,BREMI7800169,1,7752a1d7-b3e1-4471-bfc8-8f8cdc3dc5d8,1,2710e45f-c6d7-416d-a007-aa0cdbcfc01c,Credo,one_recording
-MILTON,11,Crenca,true,6qf22ugRsdAiUzieQv9Vdu,Crença,Milton Nascimento,196413,exact,BRMVM0200002,0,,0,,,isrc_not_in_mb
-MILTON,12,Danca dos meninos,true,3clgpY3SghARigGylxNBCx,Dança dos Meninos,"Milton Nascimento, UAKTI",198200,exact,BRSME8700027,0,,0,,,isrc_not_in_mb
-MILTON,13,E dai,true,4FGJUXVN594vh7PBxFKoDW,E Daí (A Queda),Milton Nascimento,314906,normalized,BREMI7800174,1,6a888937-d3b0-4c3f-abe3-a7f45524c208,0,,,one_recording
-MILTON,14,Maria Maria,true,1nl13AcSpiCKdbkhtvJoo7,Maria Maria,Milton Nascimento,184466,exact,BREMI7800105,3,,1,35d6ba7c-4105-4b1e-bff7-c94d0237b8a5,"Maria, Maria",several_recordings
-MILTON,15,Maria tres filhos,true,2izjYlNEvIiH5KmcI4HL6j,Maria Três Filhos,Milton Nascimento,96066,exact,BREMI7000313,0,,0,,,isrc_not_in_mb
-MILTON,16,Milagre dos peixes,true,1PbWbwigi8DOoLMFLV0Ln3,Milagre Dos Peixes,Milton Nascimento,172533,exact,BRUM71704475,0,,0,,,isrc_not_in_mb
-MILTON,17,Morro Velho,true,6daWYAWyKveBmV2tB2DHKJ,Morro Velho,Milton Nascimento,276933,exact,BRMVM0200006,1,3fa3aba5-bfbe-4f5e-907c-ca05d89a65b3,0,,,one_recording
-MILTON,18,Nada sera como antes,true,3o3fm0en7kMOBzR1YgKNFS,Nada Será Como Antes,"Milton Nascimento, Beto Guedes",203826,exact,BREMI7100543,2,,1,ff2f5c53-60b8-3be7-b064-df35d40df8bd,Nada será como antes,several_recordings
-MILTON,19,Olha,true,1AaFZTH9D7qzEnkQ6WLL0i,Olha,Milton Nascimento,193226,exact,BRMCA8200192,1,1eef128e-efb7-4d6d-8239-374818fc52af,1,d420b72e-ae41-4717-8094-a26f90e8ed41,Olha,one_recording
-MILTON,20,Os povos,true,4WRrbhBfRvpdt4QomOhcHZ,Os Povos,Milton Nascimento,270960,exact,BREMI7100166,1,a2f25e4a-3a3e-4626-8e5c-16f19aa0edde,1,9e97fab3-70b7-4a03-b8d7-c1da3be0e1af,Os povos,one_recording
-MILTON,21,Outubro,true,4l6iig5LpOmM0YcS1nZTrL,Outubro,Milton Nascimento,214666,exact,BRMVM0200010,0,,0,,,isrc_not_in_mb
-MILTON,22,Pieta,true,5zN0WfsqAzHSHjwkyyKORj,Pieta,Milton Nascimento,251866,exact,USSJ10500559,0,,0,,,isrc_not_in_mb
-MILTON,23,Primeiro de maio,true,56g674dIhdwsagQVBbPoZ0,Primeiro De Maio,"Chico Buarque, Milton Nascimento",287600,exact,BRPGD7700018,1,887e54ca-6c02-4009-ba85-16f71bf9025d,1,3c9d2691-10b7-4f3f-8c1b-31e1c666e4d4,Primeiro de maio,one_recording
-MILTON,24,Rio vermelho,true,0vuKC7Iy263soJHIdIbdrr,Rio Vermelho,Milton Nascimento,200386,exact,USAM16900025,0,,0,,,isrc_not_in_mb
-MILTON,25,River Phoenix,true,3I1kfhyTdELPA5C1HloXJR,River Phoenix (Carta a um Jovem Ator),Milton Nascimento,204066,normalized,BRSME8700029,0,,0,,,isrc_not_in_mb
-MILTON,26,Roupa nova,true,5YRbw2LreEiWsOpJvl0Khm,Roupa Nova,Milton Nascimento,174600,exact,BRPGD8000048,2,,1,b1249301-27c7-43e4-a989-28a1bb16e085,Roupa Nova,several_recordings
-MILTON,27,Saudades dos avioes da Panair,true,3iD3ybc13kgiEcKuZCXIpm,Saudade Dos Aviões Da Panair (Conversando No Bar) / Paula E Bebeto - Medley,Milton Nascimento,268666,fuzzy,BREMI7500679,1,38eed99a-1473-459d-be4d-d270d2878a29,0,,,one_recording
-MILTON,28,Tarde,true,3je2CMgaIWKJIYraRA9rSC,Tarde,Milton Nascimento,226160,exact,BREMI6900344,0,,0,,,isrc_not_in_mb
-MILTON,29,Tema de Tostao,true,7FS8HOYEw7UoEmv0Ad1XmV,Tema De Tostão,Milton Nascimento,176706,exact,BREMI7000317,0,,0,,,isrc_not_in_mb
-MILTON,30,Travessia,true,6MN3vF1tGzG7nkAOLjK0YG,Travessia,Milton Nascimento,242013,exact,BRMVM0200004,1,06dd0ef0-50b4-47b7-93f8-fb2f491a93a5,0,,,one_recording
-MILTON,31,Tres Pontas,true,0QRcAVy9uM1UTFZp6OUwNQ,Três Pontas,Milton Nascimento,164160,exact,BRMVM0200001,0,,0,,,isrc_not_in_mb
-MILTON,32,Tristesse,true,1KgRdbcTSpDWkWVkssq3ki,Tristesse,"Milton Nascimento, Maria Rita",362133,exact,USSJ10500551,0,,0,,,isrc_not_in_mb
-MILTON,33,Um gosto de sol,true,4MwObkwylEpWbpVEZjsqSG,Um Gosto De Sol,Milton Nascimento,260600,exact,BREMI7100127,1,8a609eb4-6106-4d85-b6b4-02f401300d5c,1,bf88f0f7-697d-4761-8e5a-60d37fe97632,Um gosto de Sol,one_recording
-MILTON,34,Vera Cruz,true,5sb1B0MVf56Syd1wU0j3hl,Vera Cruz,Milton Nascimento,189533,exact,USAM16900021,0,,0,,,isrc_not_in_mb
-MILTON,35,Vida,true,38vpHKdwgcoPLHmswNTwTr,Vida,Milton Nascimento,248640,exact,BRUM70500211,0,,0,,,isrc_not_in_mb
-MILTON,36,Vidro e corte,true,3XHAt8hykDis9Mg8ikWlDA,Vidro E Corte,"Milton Nascimento, Pat Metheny",282440,exact,BRUM70600791,0,,0,,,isrc_not_in_mb
-MILTON,37,Pelo amor de Deus,true,6FHg7Ue39CmDXGLQoXMrT2,Pelo Amor De Deus,Milton Nascimento,126066,exact,BREMI7100168,1,6d8bc5e1-9ca3-438b-8298-72a21af5821b,1,460fa763-9bc2-4a2e-8bf4-ca62362798a1,Pelo amor de Deus,one_recording
-MILTON,38,Cravo e canela,true,4VWdOayiIDPEZNf7qBRylL,Cravo E Canela,"Milton Nascimento, Lô Borges",151840,exact,BREMI7100097,1,663fe6a8-c7c3-47b8-a025-252cd679c336,1,86d86b37-1171-3d53-bbda-42bd9050bd18,Cravo e canela,one_recording
-MILTON,39,Saidas e bandeiras,true,09hnFZ9stGVGKqoeEQZXRz,Saidas E Bandeiras (Exits And Flags),Milton Nascimento,285573,normalized,USGR10000324,0,,0,,,isrc_not_in_mb
-MILTON,40,San Vicente,true,2pFVNjxjAu24qGpNPxBqxj,San Vicente,Milton Nascimento,166573,exact,BREMI7100163,1,5c5d114b-ad0b-4f5a-8818-ab57cc6a680d,1,513299a5-fba9-4011-838f-54c34826dba3,San Vicente,one_recording
-MILTON,41,A lagrima e o rio,true,6ecfNNklv2RHkhxwLy9pjj,A Lagrima e o Rio,Milton Nascimento,235000,exact,USSJ10500554,0,,0,,,isrc_not_in_mb
-MILTON,42,Ao que vai nascer,true,2iMeakYbl6icDiHxrdoJa9,Ao Que Vai Nascer,Milton Nascimento,202293,exact,BREMI7100171,1,27fb0677-9717-4f21-8ef8-04f843b9fd9c,1,8f31829c-9ccd-3df9-9bd1-f9645d3049f8,Ao que vai nascer,one_recording
-MILTON,43,Cade,true,,,,,unmatched,,,,,,,no_isrc
-MILTON,44,Coisas de Minas,true,62jb4Kg4YtycgukZXvcMB6,Coisas De Minas,Milton Nascimento,327440,exact,USWB10104904,1,8c031377-9488-401f-b6f9-00db24da8383,1,f2aab6da-17e6-400a-97f3-2ecc22c68fd6,Coisas de Minas,one_recording
-MILTON,45,O cavaleiro,true,2hup8c2eZE2ER8yJWMmIlC,O Cavaleiro - The Rider,"Milton Nascimento, Dave O'Donnell, Russ Titelman",222506,normalized,USWB19601172,0,,0,,,isrc_not_in_mb
-MILTON,46,Estrelada,true,2kuZXuMrPJPe45PSFVkZEx,Estrelada,Milton Nascimento,301360,exact,USWB10104901,1,05857cb3-0bbd-47f9-8870-f895363fa044,1,726196f2-b93a-4d34-8593-a106cbef051c,Estrelada,one_recording
-MILTON,47,Gira girou,true,72fJZLWoA1On0DJrUeaSEb,"Gira, Girou",Milton Nascimento,221880,exact,BRMVM0200007,0,,0,,,isrc_not_in_mb
-MILTON,48,Leila,true,0rH6sZ3yD7DzuKiuX6yrIe,Leila (Venha Ser Feliz),Milton Nascimento,209666,normalized,BREMI7500681,1,582128ef-dac6-497b-9181-2a4000014174,0,,,one_recording
-MILTON,49,Lilia,true,7jr8MCVN9KF5y0VGedkvD1,Lilia,Milton Nascimento,153666,exact,BREMI7100169,1,d08f5daf-e25f-42ce-b2d5-83adba1014da,1,6a419e80-0104-4885-87bc-483dbb921653,Lilia,one_recording
-MILTON,50,Novena,true,1OWfD3LgGcjyD78U0tBmdT,Novena,Beto Guedes,240400,exact,BREMI7800567,0,,0,,,isrc_not_in_mb
-RITA,1,Agora e moda,true,5Q2BpkTyjwDYWqTOf6PqgO,Agora É Moda,"Rita Lee, Roberto De Carvalho",261666,exact,BREMI7800554,0,,0,,,isrc_not_in_mb
-RITA,2,Agora so falta voce,true,45P18b0Ntbd3kf2ira3TGR,Agora Só Falta Você,Rita Lee,204760,exact,BREMI7500063,1,e9e22cb2-af9d-4685-9938-aa694f2c53c4,0,,,one_recording
-RITA,3,Bandido corazon,true,39bcZwXscYhGJDQrplxYsp,Bandido corazón,Ney Matogrosso,211140,exact,BRWMB9804411,0,,0,,,isrc_not_in_mb
-RITA,4,Banho de espuma,true,4ySIlRhVHfoH4uK3BL74Ql,Banho De Espuma,"Rita Lee, Roberto De Carvalho",222666,exact,BREMI8100786,2,,1,91466add-dacd-473a-92ba-bd47379747aa,Banho de espuma,several_recordings
-RITA,5,Bwana,true,3s36rlMibPtbwiYSE0ivZL,Bwana,"Rita Lee, Roberto De Carvalho",238226,exact,BREMI8700063,0,,0,,,isrc_not_in_mb
-RITA,6,Com a boca no mundo,true,6WDNQHuCqVFmJ6esaWe2JN,Com A Boca No Mundo,Rita Lee,242333,exact,BREMI7600657,1,3851bb4b-8c31-485a-9c86-9cadfac56918,0,,,one_recording
-RITA,7,Dancar pra nao dancar,true,5YIPPWTYteV0j7r4O7ZwVX,Dançar Pra Não Dançar,Rita Lee,253000,exact,BREMI7800052,0,,0,,,isrc_not_in_mb
-RITA,8,Desculpe o aue,true,089k2n6Nv9nmdKymBhspCi,Desculpe O Auê,"Rita Lee, Roberto De Carvalho",177000,exact,BREMI8300075,3,,0,,,several_recordings
-RITA,9,Doce vampiro,true,5toSzfFqh7gfTLGWW3Z8Zv,Doce Vampiro,"Rita Lee, Roberto De Carvalho",268960,exact,BREMI7900076,4,,1,7ac92ea4-34c1-4169-8d3c-4f59da8e478a,Doce vampiro,several_recordings
-RITA,10,Esse tal de Roque Enrow,true,2vHmF6Sh84IChZ8GvNnvW3,Esse Tal De Roque Enrow,Rita Lee,232524,exact,BREMI7500064,2,,0,,,several_recordings
-RITA,11,Flagra,true,0BhdLRHzJKgzCLS13ltjZL,Flagra,"Rita Lee, Roberto De Carvalho",214093,exact,BREMI8200106,2,,0,,,several_recordings
-RITA,12,Jardins da Babilonia,true,1voq70uyXy4i3S1oJP48Hs,Jardins Da Babilônia,"Rita Lee, Roberto De Carvalho",190960,exact,BREMI7800053,2,,0,,,several_recordings
-RITA,13,Mamae natureza,true,4xN4Ur2h5tJGce8NqqfE00,Mamãe Natureza,Rita Lee,235960,exact,BRPGD7400006,0,,0,,,isrc_not_in_mb
-RITA,14,Menino bonito,true,2KP3zqq9MQarh2WwsuonoM,Menino Bonito,Rita Lee,166333,exact,BRPGD7400037,1,92bfec47-5b24-4652-ade8-0be8051bd002,0,,,one_recording
-RITA,15,Miss Brasil 2000,true,4IqjfZERn3y3d8b2sChx20,Miss Brasil 2000,"Rita Lee, Roberto De Carvalho",79613,exact,BREMI7800161,1,45d38b80-97f6-4ad1-bea6-ce866fe53466,0,,,one_recording
-RITA,16,Mutante,true,5rShS5dwU8nIe21jlQnbxK,Mutante,"Rita Lee, Roberto De Carvalho",204893,exact,BREMI8100787,2,,0,,,several_recordings
-RITA,17,Ovelha negra,true,5xpumjGGcdWvqWxYVrd7jI,Ovelha Negra,Rita Lee,338933,exact,BREMI7500065,2,,0,,,several_recordings
-RITA,18,Pega rapaz,true,45DMSvUg2C8I2r7CBjfNM9,Pega Rapaz,"Rita Lee, Roberto De Carvalho",245266,exact,BREMI8700318,1,71ca42f2-13bf-402b-a3e9-5d563ba1309e,0,,,one_recording
-RITA,19,Saude,true,1i01coCdrJQTyTkdY0GClx,Saúde,"Rita Lee, Roberto De Carvalho",301693,exact,BREMI8100976,2,,0,,,several_recordings
-RITA,20,Shangrila,true,1CzMttkaD29w40H4pDrB60,Shangrila,"Rita Lee, Roberto De Carvalho",173733,exact,BREMI8000532,1,a6fdc6a4-f013-4f87-b83f-884ad616d8b0,0,,,one_recording
-RITA,21,Te contei,true,5WXRWv3bhpIXiyqW48TB5D,Te Contei?,Sonia Burnier,98440,exact,BRRGE7800258,0,,0,,,isrc_not_in_mb
-RITA,22,Vote em mim,true,1hHn21LnjRBTuQQWivkRTd,Vote Em Mim,"Rita Lee, Roberto De Carvalho",262906,exact,BREMI8282047,1,d77a57a1-f184-4a14-a7c6-2ad81a2ac7b4,0,,,one_recording
-RITA,23,Chega mais,true,4DIabg0zSDn6xoq810Spqn,Chega Mais,"Rita Lee, Roberto De Carvalho",234893,exact,BREMI7900078,2,,1,77c7857e-e0b7-4943-93a2-6d2df8c96b23,Chega mais,several_recordings
-RITA,24,Alo alo marciano,true,0wacj5AePmtFHt8mzdk6t4,"Alô, alô marciano",Elis Regina,240426,exact,BRWMB9600941,1,e131041a-369c-430f-9696-6d6cae433019,0,,,one_recording
-RITA,25,Ando meio desligado,true,1MhkTY7vEuWR0VfDefE6Lf,Ando Meio Desligado,Os Mutantes,285920,exact,BRPGD7000016,2,,1,5674a1e9-a6fe-3b38-8135-71d14fb8e4f3,Ando meio desligado,several_recordings
-RITA,26,Arrombou a festa,true,4ADrvCmrVGqWENNjzy3mwE,Arrombou A Festa,Rita Lee,222293,exact,BRUM71500916,0,,0,,,isrc_not_in_mb
-RITA,27,Baila comigo,true,0dED0PRBM0fixceBz5s4XR,Baila Comigo,"Rita Lee, Roberto De Carvalho",330866,exact,BREMI7800069,4,,0,,,several_recordings
-RITA,28,Balada do louco,true,0Gj6ROsip9fKX9BTKSyVu6,Balada Do Louco,Os Mutantes,240706,exact,BRPGD7200054,0,,0,,,isrc_not_in_mb
-RITA,29,Barata tonta,true,0ZDvuTgIwoqyoc6joK2MQS,Barata Tonta,"Rita Lee, Roberto De Carvalho",230466,exact,BREMI8282045,2,,0,,,several_recordings
-RITA,30,Brazil com s,true,3mSl53o7JZWSd6rjsLwF7m,Brazil Com S,Patricia Marx,153000,exact,BR3442000014,0,,0,,,isrc_not_in_mb
-RITA,31,Caso serio,true,2HvuyQEnKR82zwfIuCBaWH,Caso Sério,"Rita Lee, Roberto De Carvalho",325160,exact,BREMI8000533,2,,0,,,several_recordings
-RITA,32,Cor de rosa choque,true,47FoEJ9kn86Cqaj5C47PGQ,Cor De Rosa Choque,"Rita Lee, Roberto De Carvalho",180893,exact,BREMI8202119,1,7b53a255-f0dd-4f8a-8405-d9230c129666,0,,,one_recording
-RITA,33,Eu e o meu gato,true,1wFIrb4w6k3dY0fEH7AUrV,Eu E Meu Gato,"Rita Lee, Roberto De Carvalho",254626,fuzzy,BREMI7800663,0,,0,,,isrc_not_in_mb
-RITA,34,Lanca perfurme,true,0rAX31FT5w3ZQbQMUSkxy8,Lança Perfume,"Rita Lee, Roberto De Carvalho",127840,fuzzy,BREMI8000030,5,,0,,,several_recordings
-RITA,35,Mania de voce,true,6owwZC8gUvrBuygvOHaYXb,Mania De Você,"Rita Lee, Roberto De Carvalho",295106,exact,BREMI7500046,4,,1,556315ed-12fb-4270-a50d-f88cfe0cb26d,Mania de você,several_recordings
-RITA,36,Nem luxo nem lixo,true,5Pn7ldcp8uOZmwPJ3rUf7b,Nem Luxo Nem Lixo,"Rita Lee, Roberto De Carvalho",305440,exact,BREMI8000065,1,739f8af1-b184-40eb-97be-1893bd2dd1a5,0,,,one_recording
-RITA,37,Orra meu,true,6WKxX0jswMBKepsHF1n1c5,Orra Meu,"Rita Lee, Roberto De Carvalho",236160,exact,BREMI8000535,2,,0,,,several_recordings
-RITA,38,Papai me empresta o carro,true,1m92OtUa48WnJeCky8wVls,Papai Me Empresta O Carro,"Rita Lee, Roberto De Carvalho",192573,exact,BREMI7900536,2,,1,33b1b541-d3cb-4fcc-bca7-eba62ac7dee9,"Papai, me empresta o carro",several_recordings
-RITA,39,Perigosa,true,0D3ttP5NNMQmyXUy4ZFivG,Perigosa,Frenéticas,200786,exact,BRWMB9705413,0,,0,,,isrc_not_in_mb
-RITA,40,Perto do fogo,true,0WEX9ohaUGSOYAc6qz4k29,Perto Do Fogo,"Rita Lee, Roberto De Carvalho",292160,exact,BREMI9000220,0,,0,,,isrc_not_in_mb
-RITA,41,So de voce,true,0pJ1eJkI9JGoNLy5C5VsR3,Só De Você,"Rita Lee, Roberto De Carvalho",253826,exact,BREMI8282048,2,,0,,,several_recordings
-RITA,42,Tititi,true,5nPYQSBGnHtb2Z1DTDin6T,Tititi (Galinhagem),"Rita Lee, Roberto De Carvalho",278373,normalized,BREMI8100978,1,81054192-83e3-40d3-9056-1a23c8713b16,0,,,one_recording
-RITA,43,Corre-corre,true,5SiXCIXYNmKlyWML23uANq,Corre-Corre,"Rita Lee, Roberto De Carvalho",284666,exact,BREMI7900537,2,,1,0726ea94-0df2-414c-a553-afec32873f65,Corre‐corre,several_recordings
-RITA,44,Amor objeto,true,6Ooyckjf13OYfJqVqLFZcF,Amor Objeto,Ney Matogrosso,251333,exact,BRMCA8100233,1,c918a9f9-ced6-4510-ac98-42031ba9dc1a,0,,,one_recording
-RITA,45,Ambicao,true,1S9HV3H2cjAb5TjGlLIrXf,Ambição,Rita Lee,189426,exact,BRUM71500920,0,,0,,,isrc_not_in_mb
-RITA,46,Ando jururu,true,1mTsNetNj6C7IJMBPulmVv,Ando Jururu,Rita Lee,138640,exact,BRUM70600490,0,,0,,,isrc_not_in_mb
-RITA,47,Xuxuzinho,true,3HQN3KYTWX5KqM7mFyYg3l,Xuxuzinho,"Rita Lee, Roberto De Carvalho",178760,exact,BREMI8700322,2,,0,,,several_recordings
-RITA,48,Fruto proibido,true,268CKtZVMh6RlUBDwjQuyY,Fruto Proibido,Rita Lee,124400,exact,BREMI7500738,0,,0,,,isrc_not_in_mb
-RITA,49,Livre outra vez,true,7i3QaQcm6LEIPmyp6PTkMN,Livre Outra Vez,"Rita Lee, Roberto De Carvalho",253706,exact,BREMI8800374,1,7ea89905-52c3-4b10-a678-90610f473c15,0,,,one_recording
-RITA,50,O futuro me absolve,true,4vKsqvirdlj1ZeoAUdUTfB,O Futuro Me Absolve,"Rita Lee, Roberto De Carvalho",182640,exact,BREMI7800600,0,,0,,,isrc_not_in_mb
+corpus_id,composition_id,composition_name,has_note_function,spotify_track_id,spotify_track_title,spotify_track_artist,spotify_duration_ms,spotify_match_status,isrc,musicbrainz_recording_count,musicbrainz_recording_id,musicbrainz_work_count,musicbrainz_work_id,musicbrainz_work_title,musicbrainz_match_status,musicbrainz_match_criteria
+BOSCO,1,Agnus sei,true,6aBCNlHYCEfk7gk19r3gsQ,Agnus Sei - Live,"João Bosco, Milton Nascimento, Toninho Horta",373853,normalized,BRMUD1200015,0,,0,,,text_fallback_failed,not_found
+BOSCO,2,Bala com bala,true,4aFCVIHtMnQBQY8eufxQbU,Bala Com Bala,"João Bosco, Aldir Blanc",136706,exact,BRBMG7300066,1,f6b9d8b7-35d8-4df4-be7f-1c4f94d4dbd5,1,3aeadba4-dd58-4f45-a53e-f83a6bc31ffb,Bala Com Bala,one_recording,isrc_exact_match
+BOSCO,3,A nivel de,true,6XqBNBCqLypx0rubKLtkcC,A Nível De...,João Bosco,220066,exact,BRMCA0500178,10,386bc025-f3ca-4150-8c26-ce2869bbf1e0,0,,,text_fallback_several,text_oldest_match
+BOSCO,4,De frente pro crime,true,3P43JdeNaPaRab6OCUDses,De Frente Pro Crime,"João Bosco, Aldir Blanc",129533,exact,BRBMG7500014,1,4a5990b0-fe94-45bf-b057-3c866b32eb8d,1,285c9313-5f0a-4479-baf9-b34291f5dc76,De frente pro crime,one_recording,isrc_exact_match
+BOSCO,5,Boca de sapo,true,1rASuRGnqDs8aCtZgtFqu2,Boca De Sapo,João Bosco,194280,exact,BRBMG7900036,4,bb2f2d10-0ed6-4c14-89c6-92112a5a0f6c,0,,,text_fallback_several,text_oldest_match
+BOSCO,6,Bijuterias,true,0KBgTC0pq3p0t4F4Vc7e9Q,Bijuterias,João Bosco,117600,exact,BRBMG7700187,4,af505c90-da55-4c9e-9545-6dedcb3ba493,0,,,text_fallback_several,text_oldest_match
+BOSCO,7,Escadas da Penha,true,5nEgq6w7txlKPMG6J4vDBR,Escadas Da Penha,"João Bosco, Aldir Blanc",167826,exact,BRBMG7500028,1,d797e14d-065a-42b2-afd5-ddd79523b3bb,0,,,one_recording,isrc_exact_match
+BOSCO,8,Casa de marimbondo,true,4pe8OR89Ni7Y34BuTnQXny,Casa De Marimbondo,"João Bosco, Aldir Blanc",160933,exact,BRBMG7500145,1,32a7bffb-5fb9-427f-ade1-87b30bae5153,0,,,one_recording,isrc_exact_match
+BOSCO,9,Dois pra la dois pra ca,true,6zSGfGit15V0xewQwb7BUo,"Dois Pra Lá, Dois Pra Cá",Elis Regina,266733,exact,BRMCA7400172,19,c88cbe9a-dd1d-4ff4-84c2-e9494b0d08db,0,,,text_fallback_several,text_oldest_match
+BOSCO,10,Falso brilhante,true,75VFTTczSJctvUvjcs3omG,Falso Brilhante,João Bosco,150373,exact,BRBMG7700126,3,7eaaa14f-c567-4d0f-93fe-63e60dad1dd8,0,,,text_fallback_several,text_oldest_match
+BOSCO,11,Corsario,true,6w39DoFnSXnXjVmiZi4WCd,Corsário,Elis Regina,254460,exact,BRWMB9801411,8,e8956499-a9ee-4144-8c11-12324ed2232b,0,,,text_fallback_several,text_oldest_match
+BOSCO,12,Feminismo no Estacio,true,3KIOGJLQbwdtKgKqeo9xnh,Feminismo No Estácio,João Bosco,207360,exact,BRBMG7600190,1,a7a6a146-c38c-4c0b-bbde-600abd194333,0,,,text_fallback_one,text_exact_match
+BOSCO,13,Gol anulado,true,02WFmXcDCD4lb4k2JsSRzA,Gol Anulado,João Bosco,140600,exact,BRBMG7600115,2,0967084a-9fea-4579-913a-df2e78455664,0,,,text_fallback_several,text_oldest_match
+BOSCO,14,Desenho de giz,true,5YdEg2E5xeUVfyLWo8inHn,Desenho de Giz,Rosa Passos,241160,exact,BRVLS0200015,1,c458eeea-f426-4a84-98de-c528c87d3d15,0,,,text_fallback_one,text_exact_match
+BOSCO,15,Kid cavaquinho,true,1qsIeEiFLeB7vipJTA30Qi,Kid Cavaquinho,"João Bosco, Aldir Blanc",180493,exact,BRBMG7500015,1,06f50058-ea70-41d2-a7cb-ee03e7fead83,1,4f695723-d8df-403f-a1e4-c8c884b5aa52,Kid Cavaquinho,one_recording,isrc_exact_match
+BOSCO,16,Jogador,true,7EwNdavwWqNDxjGFZEcBpQ,Jogador,João Bosco,127040,exact,BRBMG0900094,1,3fb6be61-0848-4a22-bda9-0ab8d5dbbce6,0,,,text_fallback_one,text_exact_match
+BOSCO,17,Linha de passe,true,00YYhyn9D5TaxbKBRxwNMm,Linha de Passe,João Bosco,228733,exact,BRBMG7900035,18,fab3832f-48eb-4709-ba07-5a9ec20d5292,0,,,text_fallback_several,text_oldest_match
+BOSCO,18,Jade,true,1a0rHVHOcEyeBSDhEPJECU,Jade,João Bosco,245426,exact,BRSME8900004,6,bd0cfb90-a850-4125-900f-45eca7429cfc,0,,,text_fallback_several,text_oldest_match
+BOSCO,19,O rancho da goiabada,true,5501JtFw4uQjC5gY5YrH2r,O Rancho Da Goiabada,"João Bosco, Aldir Blanc",245666,exact,BRBMG7600044,0,,0,,,text_fallback_failed,not_found
+BOSCO,20,Miss Sueter,true,1Y5i3g8jpK3KGstsAsgFIU,Miss Sueter,"João Bosco, Aldir Blanc",194640,exact,BRBMG7600041,0,,0,,,text_fallback_failed,not_found
+BOSCO,21,O mestre-sala dos mares,true,3cc33tjCjl2xWs5XtTbf47,O Mestre Sala Dos Mares,Elis Regina,190453,exact,BRMCA7400023,19,8ab31fd3-0399-4733-a052-3dad0d26eff9,0,,,text_fallback_several,text_oldest_match
+BOSCO,22,Galos de briga,true,2dbndGEgsUtpmvursQ0yDS,Galos De Briga,"João Bosco, Aldir Blanc",137733,exact,BRBMG7600116,0,,0,,,text_fallback_failed,not_found
+BOSCO,23,Zona de fronteira,true,1akUxwepoYxJCdxeEEE1xH,Zona De Fronteira,João Bosco,253066,exact,BRSME9100044,6,e4da9637-c0c8-4617-a68b-d28e7365a506,0,,,text_fallback_several,text_oldest_match
+BOSCO,24,Pirata azul,true,01G6U9TfxYmtNZF8HUDtMd,Pirata Azul,João Bosco,320933,exact,BRSME8600088,2,a0139d5e-07b2-45f1-8701-515c7138afb4,0,,,text_fallback_several,text_oldest_match
+BOSCO,25,Jandira da gandaia,true,5yxdMk6iNIQDOulrMD3uns,Jandira Da Gandaia,João Bosco,222760,exact,BRBMG7500191,1,5a98a779-46a0-4245-ae0e-c66eff7cd13b,0,,,one_recording,isrc_exact_match
+BOSCO,26,Latin lover,true,51GeyOgbpKKvsQXccLVP7C,Latin Lover,"João Bosco, Aldir Blanc",118226,exact,BRBMG7600040,0,,0,,,text_fallback_failed,not_found
+BOSCO,27,Beirando a rumba,true,49XtcMWFlUCtRLcsSBc1F1,Beirando A Rumba,João Bosco,278066,exact,BRSME0000297,1,985f1662-f8d7-4bb8-a189-02d0865fab2b,0,,,text_fallback_one,text_exact_match
+BOSCO,28,Preta-porter de tafeta,true,749CwGcczLNSIxuHxqwwcW,Preta Porter De Tafetá,João Bosco,211613,exact,BRUM70601242,3,099b19f1-f39f-4d53-9eb7-4999929c369d,0,,,text_fallback_several,text_oldest_match
+BOSCO,29,Meu caro visconde,true,,,,,unmatched,,0,,,,,text_fallback_failed,not_found
+BOSCO,30,Nacao,true,7m5gR15kKtF6lfWQhI8zfy,Nação,João Bosco,273866,exact,BRMCA8200014,19,7c78c861-fcc9-495a-b3f8-4ed17fe02252,0,,,text_fallback_several,text_oldest_match
+BOSCO,31,Quando o amor acontece,true,7t76w9Cwt9JW4iH3boL1Or,Quando O Amor Acontece,João Bosco,295066,exact,BRSME8600012,8,fdc8b6fc-beaf-47af-b984-5ac57504f08e,0,,,text_fallback_several,text_oldest_match
+BOSCO,32,Nossas ultimas viagens,true,7qcNNDjre0lmN5l9ChV0Xl,Nossas Últimas Viagens,"João Bosco, João Donato",245373,exact,BRLUM9900002,0,,0,,,text_fallback_failed,not_found
+BOSCO,33,Plataforma,true,6oAx2kSs49qbFQfz5CuUli,Plataforma,João Bosco,201026,exact,BRBMG7700186,3,3b37c0de-6e6b-4fcc-bd35-8b05748267a8,0,,,text_fallback_several,text_oldest_match
+BOSCO,34,Querido diario,true,0lCPg3QcTs8wMWw5WZDOC8,Querido Diário,João Bosco,243626,exact,BRMCA0500180,5,ed86a12f-edfa-4f5a-9f48-5a98ae2b46ea,0,,,text_fallback_several,text_oldest_match
+BOSCO,35,Samba do pouso,true,04snaBf4ll5kk9TZZEechg,Samba do Pouso,"João Bosco, Os Cariocas",184066,exact,BRLUM9300009,0,,0,,,text_fallback_failed,not_found
+BOSCO,36,Nesta data,true,1VhamlZqKvmuLFT12RjV6V,Nessa Data,João Bosco,219400,fuzzy,BRBMG7500194,1,184be948-49b3-40bb-873c-63b9c35334d9,0,,,one_recording,isrc_exact_match
+BOSCO,37,Profissionalismo e isso ai,true,5O9UIlB3zovjfRXxCBV1lO,Profissionalismo É Isso Aí,João Bosco,351738,exact,BRMUD2000018,2,848416a0-6877-4de4-9166-86e854a80719,0,,,text_fallback_several,text_oldest_match
+BOSCO,38,Siameses,true,6JuciNGTpoeckJY8XAcoyd,Siameses,"João Bosco, Nana Caymmi",201773,exact,BRMCA8200120,0,,0,,,text_fallback_failed,not_found
+BOSCO,39,O bebado e a equilibrista,true,3eVyDZXJPJzUKkyWP6eLyc,O bêbado e a equilibrista,Elis Regina,231358,exact,BRWMB9701651,16,3466f79d-131c-41f0-b746-343a35e52411,0,,,text_fallback_several,text_oldest_match
+BOSCO,40,Tenho dito,true,72mUCyPZoECr0TyxcT4HXi,Tenho Dito,João Bosco,224640,exact,BRSME8900073,2,64cb820d-d01b-4528-a11e-14724c91e93b,0,,,text_fallback_several,text_oldest_match
+BOSCO,41,Trilha sonora,true,2uLmrPfxhDC1XxLSIXYGXf,Trilha Sonora,João Bosco,217666,exact,BRBMG8000183,2,4bf287f5-aaad-4310-ad7c-47786c526d9a,0,,,text_fallback_several,text_oldest_match
+BOSCO,42,Oficio de um puxador,true,5lymlIRreApBKOb3raQkOt,Ofício de Puxador (feat. João Bosco),"Neguinho Da Beija Flor, João Bosco",246000,fuzzy,BRSME8500151,0,,0,,,text_fallback_failed,not_found
+BOSCO,43,Papel mache,true,623FcG68qCbIp2tfL0BO7Y,Papel Machê,João Bosco,199026,exact,BRPGD8400006,13,a3aa3f73-2925-4c77-9991-fd96130125c3,0,,,text_fallback_several,text_oldest_match
+BOSCO,44,Violeta de Belford Roxo,true,4YoKVrwuQOpFI5teljNcfo,Violeta De Belfort Roxo,João Bosco,161840,fuzzy,BRBMG7500198,1,5a1917bf-9200-4d2a-a98d-2e3134673ba9,0,,,one_recording,isrc_exact_match
+BOSCO,45,Siri recheado e o cacete,true,5GRMKJlRHOdv6eeAsvAp1x,Siri Recheado e o Cacete,João Bosco,179160,exact,BRBMG8000189,7,4b117603-6f1a-4915-b9b1-d4e8506b01ac,0,,,text_fallback_several,text_oldest_match
+BOSCO,46,Denuncia vazia,true,1xtCeIvV52lJp6yyFWyfYm,Denúncia Vazia,João Bosco,204733,exact,BRBMG8000190,1,c75592b8-0c31-41fc-9047-a761aab8d222,0,,,text_fallback_one,text_exact_match
+BOSCO,47,Tabelas,true,5qgArLQqV588gkVZXw9O3z,Tabelas,João Bosco,128360,exact,BRBMG0900099,1,87501146-96b3-4c3b-83e4-31aa85db73d6,0,,,text_fallback_one,text_exact_match
+BOSCO,48,Terra dourada,true,3YTJKJ8rgOIfVOjgkDacTQ,Terra dourada,Os Cariocas,206293,exact,BRWMB9901229,0,,0,,,text_fallback_failed,not_found
+BOSCO,49,Tiro de misericordia,true,1xSo8s9XuXU8KjpMqxgzEi,Tiro de Misericórdia,João Bosco,266666,exact,BRBMG7700127,13,4041a218-f3b4-45ef-a63e-ef58a4b42378,0,,,text_fallback_several,text_oldest_match
+BOSCO,50,Um por todos,true,6dOSuC2iMOWf4WJmAJPnGB,Um Por Todos,Elis Regina,145106,exact,BRMCA7600129,1,7b0c688d-9803-44c6-a532-f0d1a17db205,0,,,one_recording,isrc_exact_match
+CAETANO,1,A filha da Chiquita Bacana,true,26MpFjDJtYqM8t3U6TS8ub,A Filha Da Chiquita Bacana,Caetano Veloso,211826,exact,BRMCA7700177,3,39a96d3d-0c61-404e-9b2e-cc57259d580a,0,,,text_fallback_several,text_oldest_match
+CAETANO,2,A outra banda da terra,true,5CEy99pXl8NVTG5van1swi,A Outra Banda Da Terra - Remixed Original Album,Caetano Veloso,190266,normalized,BRUM70700055,0,,0,,,text_fallback_failed,not_found
+CAETANO,3,Atras do trio eletrico,true,2tGDLtinIaepvrlICaDciX,Atrás Do Trio Elétrico,Caetano Veloso,162973,exact,BRUM70601236,5,5c0c66eb-71d2-4300-8a80-5b1154d968ee,0,,,text_fallback_several,text_oldest_match
+CAETANO,4,Baby,true,0C13P4IghHNFPjt4zIJ8vX,Baby,"Gal Costa, Caetano Veloso",212933,exact,BRPGD6800029,1,609bb5d9-61ed-466e-8f72-ad16be0ae7fb,1,55d4b879-744a-316f-8456-585369d59928,Baby,one_recording,isrc_exact_match
+CAETANO,5,Cajuina,true,7cEfPAbju7glmdAgT4e1AU,Cajuína - Remixed Original Album,Caetano Veloso,139933,normalized,BRUM70601178,1,701be267-89bc-4f7a-83f5-0043b51647e4,0,,,one_recording,isrc_exact_match
+CAETANO,6,Cinema Olimpia,true,2V0jjmmJBqy7bF6RZtVpSV,Cinema Olympia,Gal Costa,187306,fuzzy,BRUM70500380,1,4fd83e1e-ffd5-4f87-a0cc-bd53b28b3444,1,0f7bedb1-ba73-46f8-8320-9de80d76eade,Cinema Olympia,one_recording,isrc_exact_match
+CAETANO,7,Chuva suor e cerveja,true,5q63Fb5vWEXhXU9KG09MTg,"Chuva, Suor E Cerveja",Caetano Veloso,204773,exact,BRMCA7700176,4,e0e004ec-8562-4b33-96d6-78bc6fb23c3c,0,,,text_fallback_several,text_oldest_match
+CAETANO,8,Coracao vagabundo,true,60TftyBmMIL7wBdM37KuRj,Coração Vagabundo,"Gal Costa, Caetano Veloso",143426,exact,BRPGD6700006,1,42b02794-d83b-4ff6-9c0f-9b090b71ca96,1,ae829b9f-5ac0-46e3-b310-4aa215338c06,Coração vagabundo,one_recording,isrc_exact_match
+CAETANO,9,Alegria alegria,true,0aoQV1TuaTrcpJaMfJ3wgj,"Alegria, Alegria - Remastered 2006",Caetano Veloso,168213,normalized,BRUM70601093,1,02a269c7-7bf0-4c5d-8e46-8e80f7a93d96,0,,,one_recording,isrc_exact_match
+CAETANO,10,A tua presenca morena,true,1sMJZbolfVjKn4T7IvxDdm,A Tua Presenca Morena - 1975,Caetano Veloso,124640,normalized,BRMCA7500189,0,,0,,,text_fallback_failed,not_found
+CAETANO,11,Avarandado,true,65obcQdlM8bcHNHfPPrwZk,Avarandado,Gal Costa,159066,exact,BRMCA6700224,1,47c9cd18-646b-4afa-b847-f3aff261d243,1,0d2a314d-f468-4df0-8e52-790198851e3e,Avarandado,one_recording,isrc_exact_match
+CAETANO,12,Beleza pura,true,0pzMoXX6gHpUQ7zqDVkSSp,Beleza Pura,Caetano Veloso,225333,exact,BRPGD7900011,15,61743047-b5e5-4531-b3b9-88db8349c53d,0,,,text_fallback_several,text_oldest_match
+CAETANO,13,Cavaleiro de Jorge,true,3kuAEbv5CUREb4010lHCdw,Cavaleiro De Jorge,Caetano Veloso,223466,exact,BRMCA8200175,2,9f1bba9a-3934-4c68-a9cb-c1745ce531eb,0,,,text_fallback_several,text_oldest_match
+CAETANO,14,Como dois e dois,true,33jx3PQ5Np179YYCfJGHQ9,Como Dois e Dois - Versão Remasterizada,Roberto Carlos,203866,normalized,BRSME7100218,0,,0,,,text_fallback_failed,not_found
+CAETANO,15,Drama,true,,,,,unmatched,,25,88a6d4c8-b917-42eb-9212-da5dc88ed6ac,,,,text_fallback_several,text_oldest_match
+CAETANO,16,Luz do sol,true,3cR0EJ6WiCDj2imGIzjV45,Luz Do Sol,Caetano Veloso,213333,exact,BRUM70801308,16,f10afca4-3b70-4246-a4ce-c8a8aa082759,0,,,text_fallback_several,text_oldest_match
+CAETANO,17,Dom de iludir,true,322sgr3t9XrTNNeWq9VzRF,Dom De Iludir - Ao Vivo,Caetano Veloso,143466,normalized,BRMCA8600131,0,,0,,,text_fallback_failed,not_found
+CAETANO,18,Lua lua lua lua,true,3g4JctzX7geQn82C5f1gIr,"Lua, Lua, Lua, Lua",Gal Costa,185333,exact,BRMCA7400206,1,f1a7262b-2231-493f-9520-92a446362463,1,f7f5887a-bbf1-4329-ace4-39b8e1fcfcbe,"Lua, lua, lua, lua",one_recording,isrc_exact_match
+CAETANO,19,Jeito de corpo,true,1xHjcN6X9RJkgJv7GUAawr,Jeito De Corpo,Caetano Veloso,197973,exact,BRMCA8100225,1,bf5243ea-0566-438d-9836-6ca1a730dfae,0,,,text_fallback_one,text_exact_match
+CAETANO,20,Eclipse oculto,true,15rxzURljIuXUnaTNrl3Lc,Eclipse Oculto,Caetano Veloso,223333,exact,BRPGD8300008,12,b1a20e9d-928b-43d4-b7d0-41858384ce65,0,,,text_fallback_several,text_oldest_match
+CAETANO,21,Ele me deu um beijo na boca,true,0WpeZok7zzqy1MHTcyWra0,Ele Me Deu Um Beijo Na Boca (He Gave Me A Kiss On The Mouth),Caetano Veloso,434960,normalized,BRMCA8200165,0,,0,,,text_fallback_failed,not_found
+CAETANO,22,Esse cara,true,7wrGhtWHTHET8HWSX1DAWM,Esse Cara,Cazuza,113560,exact,BRUM70500083,2,17422dc1-7cd9-430a-a6cc-bd6a4df7b3c9,0,,,text_fallback_several,text_oldest_match
+CAETANO,23,Gema,true,6Pu78ZsDDJ3N2CegwLULpE,Gema,Caetano Veloso,142760,exact,BRMCA8100214,4,aba51b66-b511-4a89-b8aa-1f637e254b63,0,,,text_fallback_several,text_oldest_match
+CAETANO,24,Gente,true,6s6rL7P25jz0DVMdWGwkBM,Gente - Nova Mixagem,Caetano Veloso,215533,normalized,BRUM70601083,0,,0,,,text_fallback_failed,not_found
+CAETANO,25,Irene,true,0p5BF7Y32Q0CZYJ8aYh1jk,Irene - Remastered 2006,Caetano Veloso,228826,normalized,BRUM70601113,0,,0,,,text_fallback_failed,not_found
+CAETANO,26,London London,true,2NOPA5V6El1uXxAU2yV50P,London London,Caetano Veloso,257133,exact,BRMCA7100136,12,d4db9e96-e423-419b-b416-97c76ca6b12e,0,,,text_fallback_several,text_oldest_match
+CAETANO,27,Milagres do povo,true,6d7DOzrSlzdaApBCXlhnDm,Milagres Do Povo - Live,Caetano Veloso,172946,normalized,BRUM71100253,0,,0,,,text_fallback_failed,not_found
+CAETANO,28,Louco por voce,true,28IdWhSwz1O2TaZMEJvH9v,Louco Por Você - Remixed Original Album,Caetano Veloso,459360,normalized,BRUM70601177,1,8881f2ac-22ad-4556-9f7d-ac5967fa1b54,0,,,one_recording,isrc_exact_match
+CAETANO,29,Lua de Sao Jorge,true,2XoXVpe5DrvVmzXM8QJNRX,Lua De São Jorge,Caetano Veloso,238333,exact,BRPGD7900013,10,94535f57-4b47-41f3-a886-80b2e91ccacd,0,,,text_fallback_several,text_oldest_match
+CAETANO,30,Minha voz minha vida,true,2LOUD7rySID5kqzBvgBLxO,"Minha Voz, Minha Vida",Caetano Veloso,170466,exact,BRPGD9700693,1,1de562f2-4a4c-448d-ac7f-6575eb10413f,1,799c0b29-17ac-4842-a2cb-fbf9356120fc,"Minha voz, minha vida",one_recording,isrc_exact_match
+CAETANO,31,Menino do Rio,true,6tisytwaOaBA4CAZPPdlFP,Menino do Rio,Baby Do Brasil,263733,exact,BRWMB9705465,1,3d227551-884e-4d66-93c9-98ad5c2e0e2b,1,f9a487cc-a964-44a3-9cc7-02b534bb1954,Menino do Rio,one_recording,isrc_exact_match
+CAETANO,32,No dia em que eu vim-me embora,true,3YzN4jzCf40pRbQ8EuWAoo,No Dia Que Eu Vim-Me Embora - Remastered 2006,Caetano Veloso,147373,fuzzy,BRUM70601092,1,a04a7192-0942-43a4-a511-2757cf5f5e54,0,,,one_recording,isrc_exact_match
+CAETANO,33,Massa real,true,6aiTiZ3CKpwVpusZpmjbLX,Massa Real,Gal Costa,166400,exact,BRMCA0500280,2,dac53825-275f-4719-ba64-65cc250936f6,0,,,text_fallback_several,text_oldest_match
+CAETANO,34,Mel,true,5MphG46hW4YM4vTPw0AZj7,Mel - Ao Vivo,Caetano Veloso,294693,normalized,BRPGD9800680,1,4acb7a92-6574-4ed7-b0ae-9a1de536b7b2,0,,,one_recording,isrc_exact_match
+CAETANO,35,Meu bem meu mal,true,2gpkkiTArronQRqJsTZp5p,Meu Bem Meu Mal,Gal Costa,208466,exact,BRMCA8100255,13,79805041-9ea4-4481-8a24-dfd95e177696,0,,,text_fallback_several,text_oldest_match
+CAETANO,36,Muito,true,60zrqyeugezhIsbBPHLPQI,Muito,Caetano Veloso,200346,exact,BRMCA7800175,5,aaa92a6c-a589-4251-b975-9e3c5a665321,0,,,text_fallback_several,text_oldest_match
+CAETANO,37,Nao identificado,true,1eqUenDSQsy87cpoogbKvi,Não Identificado,Gal Costa,198173,exact,BRPGD6900012,2,9435e852-19dc-47ce-9fb8-8ad8eb9c4821,1,9d065fef-f79f-4873-b853-f02d24c6c35c,Não identificado,several_recordings,isrc_oldest_match
+CAETANO,38,Nosso estranho amor,true,0R3RaXniRkp819CkorFM79,Nosso Estranho Amor,"Marina Lima, Caetano Veloso",225773,exact,BRPGD8000036,0,,0,,,text_fallback_failed,not_found
+CAETANO,39,Odara,true,45qF2E2smfkrMR47xF5QZy,Odara,Caetano Veloso,199333,exact,BRUM71200153,25,50496c9b-fd33-46aa-9e88-22f19992766a,0,,,text_fallback_several,text_oldest_match
+CAETANO,40,O leaozinho,true,0SieRhHp1mnsVN8DbGTTuA,O Leaozinho,Caetano Veloso,184333,exact,BRPGD7700005,16,c6bb4209-efa7-43a7-abc2-586b3f835642,0,,,text_fallback_several,text_oldest_match
+CAETANO,41,O quereres,true,03vX8LEuNDFKmUs9IirJq3,O Quereres,Caetano Veloso,179293,exact,BRUM70700064,13,a587eba8-043a-40ac-9d12-238cc63ec0ce,0,,,text_fallback_several,text_oldest_match
+CAETANO,42,Os argonautas,true,4kFWlG1ZySW97PZ1iA1nLb,Os Argonautas,Elis Regina,188066,exact,BRMCA7100151,1,6017dc8e-271a-4440-a0bf-1e1002afc402,0,,,text_fallback_one,text_exact_match
+CAETANO,43,Quero ir a Cuba,true,1ZvCg3lweBLa0DsQKAGRDs,Quero Ir A Cuba - Remixed Original Album,Caetano Veloso,140133,normalized,BRUM70700051,0,,0,,,text_fallback_failed,not_found
+CAETANO,44,Outras palavras,true,6Yoe5DwEruorvXOQHU2uWY,Outras Palavras,Caetano Veloso,230440,exact,USWWW0126922,4,6fe69e6c-21db-4d9a-a5b2-97a28198b319,0,,,text_fallback_several,text_oldest_match
+CAETANO,45,Pecado original,true,4LWjZXvMewM6pisB08iSGW,Pecado Original,Caetano Veloso,178440,exact,BRMCA7800155,7,b293b132-a7eb-4aff-af5d-db1fda64ef32,0,,,text_fallback_several,text_oldest_match
+CAETANO,46,Rapte-me camaleoa,true,1nGPwLpbO7ImiKCAdqOMWA,Rapte-Me Camaleoa,Caetano Veloso,233800,exact,BRMCA0500794,5,b7214838-8197-445d-af2d-77c1c5794b1b,0,,,text_fallback_several,text_oldest_match
+CAETANO,47,Podres poderes,true,7j5lm5QngHa7z6Hnes5QoM,Podres Poderes,Caetano Veloso,264293,exact,BRUM70700058,7,47535826-62d8-4e1d-9957-6578754da4e6,0,,,text_fallback_several,text_oldest_match
+CAETANO,48,Sim nao,true,3zvZAEmCXfIz7rzHFkRcdO,Sim / Nao,Caetano Veloso,233866,exact,BRMCA8100217,0,,0,,,text_fallback_failed,not_found
+CAETANO,49,Sampa,true,2VBN5kSs1fyiE5fnOYeKsG,Sampa,Caetano Veloso,199666,exact,BRPGD7800012,1,a8740cab-36f4-467d-8b9b-201153bb2185,1,d6bb0042-07a5-4fff-80b5-2ebea520d111,Sampa,one_recording,isrc_exact_match
+CAETANO,50,Superbacana,true,387VJYkxRuubOM2X86abUq,Superbacana - Remastered 2006,Caetano Veloso,87213,normalized,BRUM70601096,1,4d9249ec-4792-4b1c-b546-b0c875d7dd1a,0,,,one_recording,isrc_exact_match
+CHICO,1,A banda,true,6wUp7y502iyWLuLuurlOyw,A Banda,Chico Buarque,131000,exact,BRSGL6600001,1,bfb6a023-0389-47b1-9d24-41d49977015b,1,4e2daadc-c8fd-3431-bee7-bc60d749bb98,A banda,one_recording,isrc_exact_match
+CHICO,2,A Rita,true,7ltJ3o2O6fHtUn8iY2eXHi,A Rita,Chico Buarque,121173,exact,BRSGL6600003,1,a5d8a416-3e87-445f-8cd1-137275767d72,1,f87387aa-6b27-449d-a6ba-a63f45db4a0d,A Rita,one_recording,isrc_exact_match
+CHICO,3,Acorda amor,true,1WLmDv4iF7ZSH3TLSh6c7p,Acorda Amor,Chico Buarque,140640,exact,BRPGD7400024,1,e0902752-6fe6-489c-a0a7-d591bf9505d7,1,de0079be-64c4-491e-be23-40bdc8666036,"Acorda, amor",one_recording,isrc_exact_match
+CHICO,4,Agora falando serio,true,2HqXNAIRqLadRL2S5AlXGK,Agora Falando Sério,Chico Buarque,116026,exact,BRPGD7000021,1,a8f27e30-29e7-4e1d-bc0c-5307a345520a,1,6d00d681-a826-4b98-9701-6cbd83091d86,Agora falando sério,one_recording,isrc_exact_match
+CHICO,5,Atras da porta,true,3wiN3YodUt5uIAAuVLBvdS,Atrás Da Porta,Elis Regina,168093,exact,BRPAD7200002,1,a9ca087e-1793-408c-be1c-9e39a7894b99,0,,,one_recording,isrc_exact_match
+CHICO,6,Biscate,true,1WZUf8vbYU1O6JtHIVGphp,Biscate,"Chico Buarque, Gal Costa",227573,exact,BRBMG9300015,1,dabda050-0c9d-4dfa-ab77-3fd1bc4638da,1,08fb6417-dd93-4408-9c37-76711d85c8e1,Biscate,one_recording,isrc_exact_match
+CHICO,7,Apesar de voce,true,2GAFZG9Z7UGS1iMm4Idrnr,Apesar De Você,"Chico Buarque, MPB4, Quarteto Em Cy",235546,exact,BRPGD7800024,3,ef3d0c66-4d7a-4bab-8b3c-0f3634635290,1,0355ae0a-5251-4b21-b212-663a82fb55ec,Apesar de você,several_recordings,isrc_oldest_match
+CHICO,8,Bye bye Brasil,true,6oK558nluE0PKStLgaHUah,Bye Bye Brasil,Chico Buarque,282466,exact,BRMCA0500203,1,7c141f10-3ea9-4657-8f7b-318d1e2c24fd,1,845a0b03-be28-427d-a45d-4af0e1003770,"Bye bye, Brasil",one_recording,isrc_exact_match
+CHICO,9,Calice,true,0VUgbCK0k8QWGpLiEV8YYZ,Cálice,"Chico Buarque, Milton Nascimento",241866,exact,BRPGD7800015,1,9d87f217-3a5a-4f3d-9265-693bbcb9a942,1,7034b08d-e102-4274-862e-32561141099e,Cálice,one_recording,isrc_exact_match
+CHICO,10,Carolina,false,3NNV7VTez7EUR23ONFiiGl,Carolina,Chico Buarque,159133,exact,BRSGL6800005,1,e2999e74-4a8a-480e-be44-db3ac4cb94d8,1,9bd4cbef-4292-4051-a2d8-392651eef670,Carolina,one_recording,isrc_exact_match
+CHICO,11,Com acucar e com afeto,false,4E4H2xRcQzcdxgFOJotcKD,"Com Açúcar, Com Afeto",Nara Leão,225666,fuzzy,BRMCA6700074,5,04e261be-8c90-4fb1-a745-ba1c950da30e,0,,,text_fallback_several,text_oldest_match
+CHICO,12,Construcao,false,3FIuBxOxuQ6kYy8JO0gq2a,Construção,Chico Buarque,383626,exact,BRPGD7100036,2,7e2cec5f-d2ec-474a-bc54-b9ea718dd561,2,,,several_recordings,isrc_oldest_match
+CHICO,13,Cotidiano,false,127twwy3iCo1xBRQHyWetU,Cotidiano,Chico Buarque,168373,exact,BRPGD7100034,1,02c3e866-126b-4811-bb6d-11253e7c880b,1,b17287b0-a52f-4064-a778-ed8c278145a2,Cotidiano,one_recording,isrc_exact_match
+CHICO,14,Desalento,true,0MoaSi9IqvlP2RPRn8Afm7,Desalento,Chico Buarque,167413,exact,BRPGD7100035,1,a97dcafd-97d2-4c1b-9cbf-d85b92cb7e02,1,8d3bba12-dcb0-47a7-b1d8-ce80e397a804,Desalento,one_recording,isrc_exact_match
+CHICO,15,Desencontro,true,43d3ZmXy51HLXfVJjYeheu,Desencontro,Chico Buarque,129866,exact,BRSGL6800004,2,0c8756af-c0b4-4078-9a42-bc47e94342e2,1,19cc58fe-2f03-44d1-88c5-924f483c7f6c,Desencontro,several_recordings,isrc_oldest_match
+CHICO,16,Bastidores,true,3Pp3uRQj2Qx4QxE7XlB03Z,Bastidores,Chico Buarque,151066,exact,BRPAD8000002,1,0095c045-7026-4b91-b6f0-c139594c3834,1,850ca971-d45b-4d90-865a-fb95d120278a,Bastidores,one_recording,isrc_exact_match
+CHICO,17,Ela desatinou,true,1Djp0ryBFlP3tVyPg3H03M,Ela Desatinou,Chico Buarque,189066,exact,BRSGL6800001,1,2a010fb2-a242-44ff-9506-94fe3be91218,1,ee7ac59c-ea5c-440f-b972-84c4c62a3992,Ela desatinou,one_recording,isrc_exact_match
+CHICO,18,Fado tropical,false,0yHQDYRvmjjnQ9NIy38xlZ,Fado Tropical,Chico Buarque,251226,exact,BRPGD7300084,1,2f9a3b53-cea9-4525-a1c2-18fa12c03c20,1,3e6d0ed9-42d2-47b3-8506-59b726851f65,Fado tropical,one_recording,isrc_exact_match
+CHICO,19,Feijoada completa,true,7MxVCTR3xD55xikxKiGCrv,Feijoada Completa,Chico Buarque,171253,exact,BRPGD7800014,1,fc3fe8ef-edd9-4e51-8491-0506d2da0567,1,3d9792fa-4794-472d-bfd6-59d434449ff0,Feijoada completa,one_recording,isrc_exact_match
+CHICO,20,Futuros amantes,true,1RtoOw5CS2PBcVG8A783Q0,Futuros Amantes,Chico Buarque,210400,exact,BRBMG9300014,3,dbf496e4-a8d6-45b2-8346-3b7bfcc2c733,1,f8ba1b6e-4047-42fd-b86b-646365b87939,Futuros amantes,several_recordings,isrc_oldest_match
+CHICO,21,Flor da idade,false,2nAULD4AAyBCanPrcjkEMq,Flor Da Idade,Chico Buarque,143720,exact,BRUM71200493,1,f2718348-2137-4d6f-b8b2-4596675c2cf0,0,,,one_recording,isrc_exact_match
+CHICO,22,Folhetim,true,7IsUsMa9T63GIg9Uv0dUX2,Folhetim,Gal Costa,210000,exact,BRPGD7800009,14,42b16001-f344-4c1e-9265-ab6c664d6fe8,0,,,text_fallback_several,text_oldest_match
+CHICO,23,Homenagem ao malandro,true,5GjdiVkuN9CKcUAHau1Huy,Homenagem Ao Malandro,Chico Buarque,180693,exact,BRPGD7800018,1,a29228b3-4ed6-4eb3-9ae8-1fdb53d79f74,1,ec1f7fb7-cb31-4e37-9ab8-f6fab62d7e19,Homenagem ao malandro,one_recording,isrc_exact_match
+CHICO,24,Januaria,false,1cmUJxMYtUfoKhVVfTAwb4,Januária,Chico Buarque,184733,exact,BRSGL6800003,1,b3b2073a-ee4c-47ea-b3a0-a143d232f93c,1,d8949f93-23ee-4fd2-9ffd-4120fb6b9324,Januária,one_recording,isrc_exact_match
+CHICO,25,Joana francesa,false,7lwyQLMbVS6ZieW6EG1OLJ,Joana Francesa,Angela Ro Ro,110520,exact,BR2RA0900095,5,ca11fa4e-4b1b-455f-a24e-d714fc53bbd8,0,,,text_fallback_several,text_oldest_match
+CHICO,26,Mambembe,true,308rSwtYhgZs5OfYEtHLyf,Mambembe,"Nara Leão, Chico Buarque",118413,exact,BRMCA8000161,1,935dce57-1690-4f75-9c86-7f5e7a444c56,0,,,one_recording,isrc_exact_match
+CHICO,27,Maninha,false,1idr7HB4D2II52I7hXCZhO,Maninha (feat. Chico Buarque),"Miúcha, Antônio Carlos Jobim, Chico Buarque",160040,normalized,BRBMG7700019,2,e1ae82f9-cad0-4a0e-97d2-7001cb92571b,1,6ccd6ece-1075-4ea0-84fd-90a58c90bff7,Maninha,several_recordings,isrc_oldest_match
+CHICO,28,Meu caro amigo,true,2thBIDQBbBSUG7tcwUw7Mw,Meu Caro Amigo,Chico Buarque,261666,exact,BRPGD7600078,1,d8329754-f75c-451e-87a6-7564af9f8af0,1,d22149ea-cb1e-4aca-93a0-051de8c09d52,Meu caro amigo,one_recording,isrc_exact_match
+CHICO,29,Morena dos olhos dagua,true,5F78RgN3zvSHCtf7OVHq1i,Morena Dos Olhos D' Água,Mônica Salmaso,305666,fuzzy,BRPUI0700141,0,,0,,,text_fallback_failed,not_found
+CHICO,30,Mulheres de Atenas,true,6VIgGcxTOjPpvFUrFzM2TO,Mulheres De Atenas,Chico Buarque,260600,exact,BRPGD7600070,1,e3d6d63e-f6f2-46c5-b618-bd7883dfd9db,0,,,one_recording,isrc_exact_match
+CHICO,31,Nao existe pecado ao sul do equador,true,07U9TZAmXaYNyaeFeuX7PE,Não Existe Pecado Ao Sul Do Equador/Boi Voador Não Pode,Chico Buarque,238440,normalized,BRPGD7300082,1,1e66e38d-6884-4132-8217-ea167da0c0ec,1,57c76490-5768-4ab7-855c-adcb075cbd26,Não Existe Pecado ao Sul do Equador / Boi Voador Não Pode,one_recording,isrc_exact_match
+CHICO,32,Noite dos mascarados,true,2apuUg5DOGP0yiXCsjAWP4,Noite Dos Mascarados,"Elis Regina, Chico Buarque",187706,exact,BRMCA6700036,1,e16c7bb9-f148-47ea-8ac8-068abb35d97c,2,,,one_recording,isrc_exact_match
+CHICO,33,O meu amor,false,2CfpwIhU6plsp4aycG2Th4,O Meu Amor,"Marieta Severo, Elba Ramalho",243040,exact,BRPGD8700017,1,38bc029e-3708-4479-a566-f8067b5e128d,0,,,one_recording,isrc_exact_match
+CHICO,34,Ole ola,false,6GOfjAv5Mb4j5SvF0Kl3VY,"Olê, Olá",Chico Buarque,183400,exact,BRSGL6600010,1,23a79017-e5bc-42e8-a072-3e0226e36cd9,1,5a9331b9-996e-4aec-a12e-a7be18568ec1,"Olê, olá",one_recording,isrc_exact_match
+CHICO,35,Olhos nos olhos,true,4PdlMqfMUtX5DLZMOLGL4O,Olhos Nos Olhos,Chico Buarque,273000,exact,BRPGD7600071,1,ac7adb54-062f-4333-b66f-4aa3f89fd974,0,,,one_recording,isrc_exact_match
+CHICO,36,Pedro pedreiro,true,3DNCuH5h0CaX2WXA53b7hu,Pedro Pedreiro,Chico Buarque,155773,exact,BRSGL6600006,1,63f9cae9-7f8c-47dc-8785-6de92de8dff3,1,731c58f2-c7ae-424a-81b0-3a16beba26be,Pedro pedreiro,one_recording,isrc_exact_match
+CHICO,37,Quem te viu quem te ve,true,7miBYlS1M5Zqlvyy0lOdDb,"Quem Te Viu, Quem Te Vê",Mônica Salmaso,316493,exact,BRPUI0700139,2,23408a11-3827-46e6-bc17-f213d48613f9,0,,,text_fallback_several,text_oldest_match
+CHICO,38,Roda viva,true,65GUUrv360K15Mev0zFlUb,Roda Viva,"Chico Buarque, MPB4",233400,exact,BRSGL6800006,1,36671e59-79bf-4560-b544-3884befb6454,1,bceba7df-fbda-4070-a0f1-b4bce3d48bcd,Roda Viva,one_recording,isrc_exact_match
+CHICO,39,Samba de Orly,true,39HKNEpQz75dCJqDxH0xuD,Samba De Orly,Chico Buarque,159600,exact,BRPGD7100039,3,bc63c4be-5ed0-4c45-bbfb-67d6c76a03fc,1,c7a867fc-fccc-4b2a-a5b6-36bfb10505b0,Samba de Orly,several_recordings,isrc_oldest_match
+CHICO,40,Sem fantasia,false,6In6Vd7yMxCji9lxQAUnBm,Sem Fantasia,Chico Buarque,207000,exact,BRSGL6800009,1,5834b06f-5a26-4bf5-8d7d-9ce4f30f16c2,1,fe88e297-2bf1-465b-8931-d1b1f0a2c205,Sem fantasia,one_recording,isrc_exact_match
+CHICO,41,Samba e amor,true,4uEYpkj1LftTpAXpUwqQo0,Samba E Amor,Chico Buarque,199666,exact,BRPGD7000025,1,16fe0b83-a4b0-4b4d-b2ee-e2878b881c82,1,99073725-3803-4ded-83bb-4833c31dccff,Samba e amor,one_recording,isrc_exact_match
+CHICO,42,Sob medida,false,1Q8DfNsxyvAXecq1zknOlh,Sob Medida,Simone,196826,exact,BREMI7900155,8,ceef5825-849d-4807-b92b-f9b3caac97b0,0,,,text_fallback_several,text_oldest_match
+CHICO,43,Tatuagem,true,2vmXFXcr44JSrZ1MpgWLRa,Tatuagem,Elis Regina,262466,exact,BRMCA7600134,1,619c27cb-0ef6-48b9-981d-c087590ad13a,0,,,one_recording,isrc_exact_match
+CHICO,44,Vai trabalhar vagabundo,false,2x1XG44HJNzXNgRxfyr98W,Vai Trabalhar Vagabundo,Chico Buarque,137866,exact,BRPGD7600073,1,e9e5d849-f38c-4e96-9287-481026e4a3b4,1,92aef697-ad68-43b1-b9ae-83366d504b0f,Vai trabalhar vagabundo,one_recording,isrc_exact_match
+CHICO,45,De todas as maneiras,false,2GPb50b91xLIgIJa1wb3nA,De Todas As Maneiras - Ao Vivo,Angela Ro Ro,190600,normalized,BRRGE9300006,0,,0,,,text_fallback_failed,not_found
+CHICO,46,De volta ao samba,true,3RZprkUbJPzZeE0oiXryJn,De Volta Ao Samba,Chico Buarque,160973,exact,BRBMG9300020,1,3b7049dc-3aec-4afa-81aa-1f0af50782b3,1,278d2fde-e174-4e7c-a8cb-9a1fc322ec1c,De volta ao samba,one_recording,isrc_exact_match
+CHICO,47,Deixe a menina,false,1Q4CV3pB34J3dyIYnAWe6x,Deixe A Menina,Chico Buarque,164826,exact,BRPGD8000011,1,2b764c84-7375-4e8b-8ec9-004d7490e267,0,,,one_recording,isrc_exact_match
+CHICO,48,Paratodos,true,5uRFb0wGpbK65eLgTLD814,Paratodos,Chico Buarque,172333,exact,BRBMG9300009,3,9aa8a0b5-e2c4-4cbc-9a1a-502e18510d3d,1,3c60ca8b-e5cc-4012-9b58-a41e325dd4d5,Paratodos,several_recordings,isrc_oldest_match
+CHICO,49,Pelas tabelas,false,2iCoJKex0cwfIr5tq28ulS,Pelas Tabelas,Chico Buarque,261519,exact,BRPGD8400007,1,95f4cb02-2abc-407a-ae3d-75ad0c746fde,0,,,one_recording,isrc_exact_match
+CHICO,50,Samba do grande amor,false,272iGBXGqzWY4atgvUjPxf,Samba Do Grande Amor,Chico Buarque,128000,exact,BRPGD8400011,1,28c5cdb8-15ef-408a-89dc-31018d398471,0,,,one_recording,isrc_exact_match
+DJAVAN,1,Flor de lis,true,1TX4h6MrIZ0K3r4OOG11WO,Flor de Lis,Djavan,225266,exact,BRSGL7600021,3,7a55d3af-6939-4d7b-871e-1c1e363f2d8a,1,f85e3955-14f2-4a78-9072-c3014663e8aa,Flor de lis,several_recordings,isrc_oldest_match
+DJAVAN,2,E que Deus ajude,true,3wtH1t4y8TuHGhUPhlPNY8,E Que Deus Ajude,Djavan,182106,exact,BRSGL7600019,1,efd90b97-4cfd-4dfc-8b8c-754dfa888e91,0,,,one_recording,isrc_exact_match
+DJAVAN,3,Lilas,true,0V0DEGw7N5KlubvARp4VOm,Lilás,Djavan,283133,exact,BRSME8400053,3,b9872668-4751-4fde-8156-1a3fa5afc09f,1,8eeaec04-d718-4a5f-9ddc-73e0bf479208,Lilás,several_recordings,isrc_oldest_match
+DJAVAN,4,Nem um dia,true,3jFxkWQ1i4ephuKK56T9ta,Nem um Dia,Djavan,346266,exact,BRSME9600386,2,e50c20e0-f8e8-4be9-b010-25b7b0eda255,1,ce9e980b-4aec-4593-b678-acbb5ae51254,Nem Um Dia,several_recordings,isrc_oldest_match
+DJAVAN,5,Muito obrigado,true,4SDRW95c93E7dLJY9aOdeg,Muito Obrigado,Djavan,186626,exact,BRSGL7600104,2,bdd6a6bf-d7ab-463a-80c4-6e7df04566ab,0,,,several_recordings,isrc_oldest_match
+DJAVAN,6,Obi,true,1vrllnfs5ysBaeR85YOJxT,Obi,Djavan,283893,exact,BRSME8400056,1,742ef986-d500-4f5b-9bae-0a3b0cd29721,0,,,one_recording,isrc_exact_match
+DJAVAN,7,Passou,true,32b0OppHBuDDdI4nZBi64l,Passou,Djavan,293573,exact,BRSME9800650,1,180915b1-73df-45f8-860b-a7a930d51c8b,0,,,one_recording,isrc_exact_match
+DJAVAN,8,Azul,true,0uv80Hj0ObSzr02GEOvnGO,Azul,Djavan,303400,exact,BRLRO0500004,1,c1b56f15-8e60-4ca4-9885-fcc14f783639,0,,,one_recording,isrc_exact_match
+DJAVAN,9,Beiral,true,21SiuaNQ6jaTsRQHBpPaHX,Beiral,Djavan,188493,exact,BRSME8600006,1,3db3546e-ff18-4337-a7bf-ac461f5b06b7,0,,,one_recording,isrc_exact_match
+DJAVAN,10,Om,true,1nT6PdXLAZwA644IQOSJe4,Om,Djavan,268560,exact,BRSME0100637,1,904bbf1e-de47-402e-8cec-a006c5dd3026,0,,,one_recording,isrc_exact_match
+DJAVAN,11,Agua,true,7j9SLvtP89AbYzVhsJVzHm,Água,Djavan,219173,exact,BREMI7800018,7,120ebfb0-5582-45b5-a044-04d38fb79c17,1,c4eab098-a00a-4a24-91d6-f4e502db0e4b,Água,several_recordings,isrc_oldest_match
+DJAVAN,12,Alibi,true,1fkXRlsguhf8qrxVzPw1Dh,Álibi,Djavan,143200,exact,BREMI7800019,7,a22d7869-1b2e-41a7-b033-46e40fff665a,1,9144b407-876c-42d6-8d63-f016fc4cd98f,Álibi,several_recordings,isrc_oldest_match
+DJAVAN,13,Asa,true,7EP8iM3OAfom5hLiVvKmJM,Asa,Djavan,257733,exact,BRSME8600084,2,8a882c04-a9d0-46b5-afdf-c4bda5526fec,0,,,several_recordings,isrc_oldest_match
+DJAVAN,14,Meu,true,6ZS84pKdsm5DXdchUrwQGW,Meu,Djavan,234800,exact,BRSME0100639,1,d2c9f62b-3b95-4823-98bf-7873aecec2ce,0,,,one_recording,isrc_exact_match
+DJAVAN,15,Numa esquina de Hanoi,true,6AMV3TJAsploapuKi3HGei,Numa Esquina De Hanói,Djavan,189160,exact,BREMI7800203,5,812cabb2-5403-47d9-9566-e9379a69fba6,1,704b5471-ae64-4b56-9b7f-6c3494f1d5d0,Numa esquina de Hanoi,several_recordings,isrc_oldest_match
+DJAVAN,16,Topazio,true,649HxHhebUjDBnSV0jiO6G,Topázio,Djavan,288933,exact,BRSME8600083,2,d63eb003-22f3-4b79-83dc-f9c68cdccc21,0,,,several_recordings,isrc_oldest_match
+DJAVAN,17,Nereci,true,6Iob8qYmUUTenQRi4u3tfs,Nereci,"Djavan, Marizinha",199800,exact,BREMI7800029,3,ea4f6ab5-978e-4785-83e5-06cda8107e43,1,3cf5ebf1-898b-46da-be00-df415a6ffb7d,Nereci,several_recordings,isrc_oldest_match
+DJAVAN,18,Samba dobrado,true,3gaT2mkVAZbO4Ily8n5lLW,Samba Dobrado,Djavan,210000,exact,BREMI8400022,6,ff0b9faf-6a66-4b8a-bab4-5d4f71fe7ca8,1,a8b6217f-0b80-4fea-98a7-f927a25f4417,Samba dobrado,several_recordings,isrc_oldest_match
+DJAVAN,19,Maca,true,4INDXtb5SbTP5ATwE5BEwr,Maçã,Djavan,248533,exact,BRSME8700060,1,7ea884cc-ae51-4dea-8a59-742b9a96e395,0,,,one_recording,isrc_exact_match
+DJAVAN,20,Dupla traicao,true,3bqk5dgWeQabo7OhQqdpbA,Dupla Traição,Djavan,179866,exact,BREMI7800102,6,cb02c8af-c7aa-4f46-a8eb-66fbe93a2ed5,1,0e92afca-9639-45f5-a036-b85c1599b8fe,Dupla Traica,several_recordings,isrc_oldest_match
+DJAVAN,21,Oceano,true,3iof6EclqePezHDibBiykI,Oceano,Djavan,296106,exact,BRSME8900064,2,316b7601-ac26-4451-a228-aec2281d6e2e,1,b98ba9ff-5c01-4ba6-83c1-405b127aedeb,Oceano,several_recordings,isrc_oldest_match
+DJAVAN,22,Alagoas,true,60KVPxakrwGmSipXuV906j,Alagoas,Djavan,230773,exact,BREMI7800034,6,339410d2-4056-49df-ada5-93ebc3a50798,1,6f564f3d-9ae9-4182-b9de-40415975c268,Alagoas,several_recordings,isrc_oldest_match
+DJAVAN,23,Estoria de cantador,true,6HLJ7Avz6rwAUvDc9gOnex,Estória De Cantador,Djavan,255000,exact,BREMI7800033,6,01cd0045-fc13-49f6-ae3d-fb9bd616ec72,1,7f2336e6-c314-4aab-a0bf-6be156738db1,Estoria De Cantador,several_recordings,isrc_oldest_match
+DJAVAN,24,Mal de mim,true,4apZOzQ1hdmb4r6ZSPRFQg,Mal de Mim,Djavan,197973,exact,BRSME8900070,2,b0020c04-d152-4fde-941a-4a6f48761fda,0,,,several_recordings,isrc_oldest_match
+DJAVAN,25,Tem boi na linha,true,0QF6XXNkE5weIUiLMtNzpe,Tem Boi Na Linha,Djavan,161866,exact,BREMI7900029,5,1ab96dc3-d8c8-4ca9-9f32-6fbac3aea896,0,,,several_recordings,isrc_oldest_match
+DJAVAN,26,Lambada de serpente,true,5VHL3pHhL12Mjug8g8hAjt,Lambada De Serpente,Djavan,175973,exact,BREMI7900028,5,d0431e22-64cb-4db5-a521-e1af3a604c15,1,18027247-bb88-3b45-b089-6f7f35277497,Lambada de Serpente,several_recordings,isrc_oldest_match
+DJAVAN,27,Meu bem querer,true,1esL5ay4x4AzAjtWEhVR78,Meu Bem Querer,Djavan,204440,exact,BREMI7900026,7,2d103d9d-6bd8-435a-977c-ff7754119ed2,1,9e557c14-282c-48a2-98d4-e30fff9ba755,Meu bem querer,several_recordings,isrc_oldest_match
+DJAVAN,28,Aquele um,true,6yJcP5o5cZxiMFVMlVA14u,Aquele Um,Djavan,185306,exact,BREMI7900067,4,f4f256d7-e6ad-48f2-9b04-508cbef1785f,0,,,several_recordings,isrc_oldest_match
+DJAVAN,29,Sururu de capote,true,1XN7OZORAzAAYZe92jQXNA,Sururu De Capote,Djavan,174600,exact,BREMI7900200,2,aff4ef1b-a511-4213-b6a1-aa42266f0c40,0,,,several_recordings,isrc_oldest_match
+DJAVAN,30,Pedro Brasil,true,0VX5SLTKLzcSqeqYqSSzSM,Pedro Brasil,Djavan,283066,exact,BREMI8000054,5,5e6ab4f1-2a1e-4d1c-9b1e-6682204db44b,0,,,several_recordings,isrc_oldest_match
+DJAVAN,31,Seduzir,true,6VLFqEgYAAEBKUnz7hTIhr,Seduzir,Djavan,215226,exact,BREMI8100019,7,97304d95-011c-490e-b874-5246c576fd4c,0,,,several_recordings,isrc_oldest_match
+DJAVAN,32,Faltando um pedaco,true,3Ru1FKNx2VKzOD3TGQCTv6,Faltando Um Pedaço,Djavan,287800,exact,BREMI8000018,8,b85d7812-10bb-458d-b8fe-8cfeb7c92d95,0,,,several_recordings,isrc_oldest_match
+DJAVAN,33,Samurai,true,3BQAK2pnTpfZvLg2MUUU5i,Samurai (feat. Stevie Wonder),"Djavan, Stevie Wonder",288426,normalized,BRSME8200001,2,74ff1157-3b10-4402-be8c-d1c19eeb4e3e,1,2158e048-12a6-4cba-ad63-9379d84e5bf6,Samurai,several_recordings,isrc_oldest_match
+DJAVAN,34,Luz,true,2m39uQVY1w22IvK0AdUP3L,Luz,Djavan,248400,exact,BRSME8200013,1,c15c5a7a-95a2-4780-82c9-a3c7a1910f6e,1,07afdacb-d4ad-456f-942d-bb998cc32d1a,Luz,one_recording,isrc_exact_match
+DJAVAN,35,Capim,true,1tBjTyIWZpAXKOahFNrpMK,Capim,Djavan,257160,exact,BRSME8200051,1,36e3517e-5970-43dd-974e-9f8779091dca,1,0bd0d57a-ee97-433c-98be-b8deccccf9b5,Capim,one_recording,isrc_exact_match
+DJAVAN,36,Sina,true,2kgT6sMwXd3mdeXhBbLMQe,Sina,Djavan,332133,exact,BRSME8200048,3,373189b4-272a-4a21-8530-cc0b10f1e6f5,1,5624b325-b222-3e64-a496-bdfe4d1ef174,Sina,several_recordings,isrc_oldest_match
+DJAVAN,37,Petala,true,2H4TYG8IkKIXeJFt2CLCaO,Pétala,Djavan,283240,exact,BRSME8200027,3,ae6fdfe9-339f-401a-ae10-8858c8af8c50,1,5e5395c9-9623-4b34-9b7e-8f3b06325fb6,Pétala,several_recordings,isrc_oldest_match
+DJAVAN,38,Acai,true,47TCVUU6MHGHP1hS8V1ST2,Açaí,Djavan,278333,exact,BRSME8200004,1,502ad80f-da2c-454e-929e-5157fd3b6136,1,106606d3-3aa0-493f-be41-a9646ccce0a0,Açaí,one_recording,isrc_exact_match
+DJAVAN,39,Esfinge,true,2UKC6wNRq84hLmwSjsTFZu,Esfinge,Djavan,260733,exact,BRSME8200053,1,d49fa47c-4b09-4182-bcb2-7f7cfbe340b7,1,2f652feb-022e-407b-a937-776917ef00e7,Esfinge,one_recording,isrc_exact_match
+DJAVAN,40,Tanta saudade,true,61hi84AiasdgYsoIczkAgh,Tanta Saudade,Djavan,256933,exact,BRSME8300089,1,c48d4130-38b4-452a-a918-6b3900255d34,1,fdef4d50-bdf2-40cc-a436-6b38bb34a4b6,Tanta saudade,one_recording,isrc_exact_match
+DJAVAN,41,Fato consumado,true,0TCiAdmUnbvEdrT0vSUujh,Fato Consumado,Djavan,152760,exact,BRSGL7500028,1,3ab8e918-10ab-4485-9030-37723af37ac2,0,,,one_recording,isrc_exact_match
+DJAVAN,42,Serrado,true,7EjRiBMib2EG0cdMEXavbC,Serrado,Djavan,212760,exact,BREMI7800005,6,51f8e9f9-bce3-45eb-b3d6-5980322a2d22,1,381be64c-6b7a-47ba-8984-6988777afce3,Serrado,several_recordings,isrc_oldest_match
+DJAVAN,43,Nobreza,true,2R1dnEOe2EfrvD88KBwZBm,Nobreza,Djavan,148573,exact,BRSME8200050,1,7dcb8dae-5a9e-4ce0-b606-311504ea1179,1,e86b28b9-8035-4290-9bc9-8ba011d648a4,Nobreza,one_recording,isrc_exact_match
+DJAVAN,44,Joaninha,true,6XM6wC7VFZykaSXsCI3KLe,Joaninha,Djavan,335693,exact,BRLRO0700001,1,19b6ecd1-05d0-49b5-864b-2e556a59fdf3,0,,,one_recording,isrc_exact_match
+DJAVAN,45,Flor do medo,true,5zO1MNX6m0lUDAT5IhBYjv,Flor do Medo,Djavan,275693,exact,BRLRO0400002,1,3aaf3551-168a-4978-bc03-0cb3c0ac5f1e,0,,,one_recording,isrc_exact_match
+DJAVAN,46,Silaba,true,5bRhSiJd23KZWkqDOvVNJv,Sílaba,Djavan,261013,exact,BRSME0100645,1,75bd5bf9-4b8d-46cf-99eb-bee86645cea0,0,,,one_recording,isrc_exact_match
+DJAVAN,47,Que foi my love,true,5QQ4918DICSsbFHnJl06eQ,Que Foi My Love?,Djavan,289026,exact,BRSME9600384,1,b470bee5-45b2-498a-ad5e-6945df9aa7aa,0,,,one_recording,isrc_exact_match
+DJAVAN,48,Doidice,true,2nvdhBzWRkUQJuHF7vi6Hp,Doidice,Djavan,284866,exact,BRSME8700062,1,976fa661-7611-4a85-9727-f21f669300b1,0,,,one_recording,isrc_exact_match
+DJAVAN,49,Serene,true,,,,,unmatched,,25,3c2ad21b-1d71-4686-9335-9a5707f9ffc3,,,,text_fallback_several,text_oldest_match
+DJAVAN,50,Atitude,true,2WU36IehipppnC3pAVCIUS,Atitude,Djavan,309466,exact,BRSME9800651,1,ddd13c2f-897a-41dd-b769-6d309b2da02d,0,,,one_recording,isrc_exact_match
+EDU,1,Abandono,true,,,,,unmatched,,25,cc1f45c0-d0cd-4465-89eb-d6e4601fa890,,,,text_fallback_several,text_oldest_match
+EDU,2,Acalanto,false,7tAwx3iMgPQlciK4hjHNPL,Acalanto,Chico Buarque,98866,exact,BRPGD7100042,1,522286fb-ef55-4dab-833a-b21f3e58dbfb,1,1d9f024e-da91-4b28-8d78-b26d27eff62a,Acalanto,one_recording,isrc_exact_match
+EDU,3,A historia de Lilly Braun,true,5Jtbyw5LwfSsTdS9JnOykq,A História de Lilly Braun,"Edu Lobo, Chico Buarque, Gal Costa",229746,exact,BROLA8300006,1,366831a7-c144-4edb-b673-065f5411c83e,1,2bae0c08-4698-490f-b4cd-eda779cb9861,A historia de Lily Braun,one_recording,isrc_exact_match
+EDU,4,Aguaverde,true,0jayxDCifLJ3snFt60OsVQ,Aguaverde,Edu Lobo,252333,exact,USESK1309301,3,22e3ec94-6788-4b56-bb54-2576ca1996d6,0,,,text_fallback_several,text_oldest_match
+EDU,5,Arrastao,true,3u70XHB13btIIcdjh6pi3I,Arrastão,Elis Regina,164386,exact,BRUM70900205,11,cfb75b22-5519-4386-a139-fcae4e7d4b36,0,,,text_fallback_several,text_oldest_match
+EDU,6,Arpoador,true,1Uv7m04ofTGd0svTc1dIkk,Arpoador,Mauro Senise,454733,exact,BRPUI0600201,1,9ccb4820-25a3-4752-b698-47ae24ffa5b2,0,,,text_fallback_one,text_exact_match
+EDU,7,As mesmas historias,true,7eaVsXCsVsGZFf39YcsfrY,As Mesmas Histórias,Regina Aldi,209493,exact,QZNJZ2372791,0,,0,,,text_fallback_failed,not_found
+EDU,8,Ave rara,true,3pIcD4MGnjJtkanlCmsAzF,Ave Rara,Edu Lobo,321013,exact,ESA031424566,4,79f7ba79-5ba3-4f25-a048-6209bf555878,0,,,text_fallback_several,text_oldest_match
+EDU,9,Beatriz,true,72pMw0S2aWQmQoNGAtlyal,Beatriz,Mônica Salmaso,296506,exact,BRPUI0700145,5,8f701b86-4f3e-4f58-b274-52beb3eef1be,0,,,text_fallback_several,text_oldest_match
+EDU,10,Boranda,true,2hOc0OcbqPH0KFFzDOJBrZ,Borandá,Nara Leão,127850,exact,BRUM71600618,1,a9f7289c-deac-4e66-b4c8-d872c2031951,0,,,text_fallback_one,text_exact_match
+EDU,11,Branca Dias,true,2tBM1gxVmn8lhpi10tMFWV,Branca Dias,Edu Lobo,218466,exact,BRUM70600848,2,a7eb5286-4bc4-49e2-ac44-1980c261fc59,0,,,text_fallback_several,text_oldest_match
+EDU,12,Candeias,true,7to4J7UD5Uz3qIYndeS7NP,Candeias,Edu Lobo,174466,exact,BRMCA6700199,10,a8864fce-c7a8-4345-9506-fe03ba5d91e4,0,,,text_fallback_several,text_oldest_match
+EDU,13,Cancao da terra,false,0Vuv5EVVzRxXOASpo0YJ92,"Canção Da Terra - Live At Teatro Paramount, Sao Paulo / 1965","Tamba Trio, Edu Lobo",170826,normalized,BRUM70601052,0,,0,,,text_fallback_failed,not_found
+EDU,14,Casa forte,false,37eiNLEDydiofUTcsXqbLB,Casa Forte,Edu Lobo,189333,exact,BRMCA7000103,9,c94a5160-36eb-45f3-b425-0b910e418482,0,,,text_fallback_several,text_oldest_match
+EDU,15,Canudos,false,1yzfkhHyrOcwMWpAs1LOmn,Canudos,Edu Lobo,248826,exact,BRUM70600845,3,281fb3ad-06e5-4210-b7d5-0c66f6f9363c,0,,,text_fallback_several,text_oldest_match
+EDU,16,Canto triste,true,3jooIrgcHL5EDud3bpJVwr,Canto Triste,"Edu Lobo, Antônio Carlos Jobim",222973,exact,BRMCA8100183,1,d649dcdf-f97a-4ce1-a0f1-d8e5abc132fb,0,,,one_recording,isrc_exact_match
+EDU,17,Cheganca,true,39FhS4UVNTnCgjL2J0Sebk,Chegança,Nara Leão,130240,exact,BRMCA6400103,1,84372b69-51dc-4d29-bfd4-cf41cb02c3c2,0,,,text_fallback_one,text_exact_match
+EDU,18,Choro bandido,true,2gKDL4R1u31araEbUioOEV,Choro Bandido,"Edu Lobo, Dori Caymmi",248706,exact,BRL4P1100004,0,,0,,,text_fallback_failed,not_found
+EDU,19,Cidade nova,true,06LMaZE2E4v0Lwbphb39XJ,Cidade Nova,"Edu Lobo, Airto Moreira, Hermeto Pascoal, Claudio Slow, Jose Mariono",291880,exact,BRMCA7000114,0,,0,,,text_fallback_failed,not_found
+EDU,20,Considerando,false,7HrAm1YUSQFZPjWAxgQZFS,Considérando,Edu Lobo,214066,exact,FR6V87600213,4,6d8b5fdc-cb0e-460a-8cb7-abc296ac6a22,0,,,text_fallback_several,text_oldest_match
+EDU,21,Corrida de jangada,true,6674asbmDOzUXIhi0QZBYO,Corrida De Jangada,Elis Regina,134666,exact,BRMCA6800145,1,221d25a7-66f3-465b-b066-5fcb91ad900e,0,,,one_recording,isrc_exact_match
+EDU,22,Corrupiao,false,1qJeoXRJAGB1Y9Gfp1l45U,Corrupião,Edu Lobo,208013,exact,ESA031424557,5,a253a33d-9de0-41f1-8f43-ba844f8f7753,0,,,text_fallback_several,text_oldest_match
+EDU,23,Descompassado,true,7JFxp41Pm8DJTSFNkHmcZc,Descompassado,Edu Lobo,262640,exact,BRUM70600850,1,a9a5deb6-5de0-465c-badf-d9f7cff63976,0,,,text_fallback_one,text_exact_match
+EDU,24,Dono do lugar,false,1eJqzrY3NJWLhXF0qvekQJ,O Dono do Lugar,"Edu Lobo, Romero Lubambo, Mauro Senise",231333,fuzzy,BRPUI1800678,1,873ab373-0191-46a9-9bc8-133aa034d694,0,,,text_fallback_one,text_exact_match
+EDU,25,Dos navegantes,true,3xIw1NkenElgFCBniJGTQa,Dos Navegantes,Edu Lobo,276386,exact,ESA031424560,4,e84ce2c3-26a4-4f71-9a74-b73b54bc581d,0,,,text_fallback_several,text_oldest_match
+EDU,26,Frevo diabo,false,1tXXXWwzg9Q23cNX7pyB8b,Frevo Diabo,Edu Lobo,222360,exact,ESA031424558,4,9b9c7a0a-5284-4443-a248-9c845eb87e06,0,,,text_fallback_several,text_oldest_match
+EDU,27,Lero-lero,false,0KpOl9BqZ5LkhpJgcQlRel,Lero-Lero,Edu Lobo,208906,exact,BRMCA7800052,3,0d3b95d2-166b-41fa-9839-86f60a462ccf,0,,,text_fallback_several,text_oldest_match
+EDU,28,Meia-noite,true,6mnVRHoiCQ5X5wnuf6098w,Meia-Noite,Edu Lobo,224186,exact,BRL4P1100009,3,adfef488-2026-4c37-8cb2-c04b510dbdc5,0,,,text_fallback_several,text_oldest_match
+EDU,29,Memorias de Marta Sare,false,3AF6C9qd9TJFtlBQJgdoBL,Memorias De Marta Sare,Elis Regina,197866,exact,BRMCA6900189,2,d7dc3b61-60a0-4570-b471-d668996ff93d,0,,,text_fallback_several,text_oldest_match
+EDU,30,Meu namorado,false,1wqYd1Q3qiANLFA7E0MvAU,Meu Namorado,"Edu Lobo, Chico Buarque, Simone",164186,exact,BROLA8300008,1,3812dd0f-3099-4200-a295-6e3a776bd4e4,1,19a30697-0e43-4ea3-bb82-e6449eb07cf0,Meu namorado,one_recording,isrc_exact_match
+EDU,31,Pra voce que chora,true,6WTHJZ3ll4WYz36n1ZsXRO,Pra Você Que Chora,Edu Lobo,165040,exact,BRMCA6800098,1,4a8e0a1b-99ae-4acd-9f7f-39859d825ab0,0,,,text_fallback_one,text_exact_match
+EDU,32,Perambulando,false,7twF7cZewTOgVczPX5Slel,Perambulando,Edu Lobo,187906,exact,BRL4P1100011,3,fa0c5dfa-0bcb-4f8f-8ec9-2c8caad1d342,0,,,text_fallback_several,text_oldest_match
+EDU,33,Reza,true,5cUabzsUJF9us8gBbB5SMZ,"Reza - Live At Teatro Paramount, Sao Paulo / 1965","Tamba Trio, Edu Lobo",172306,normalized,BRMCA6700190,0,,0,,,text_fallback_failed,not_found
+EDU,34,Viola fora de moda,false,2gOwA32FKNEPrV4Gf2AULE,Viola Fora De Moda,Edu Lobo,170453,exact,BREMI7300618,8,076d5bbd-56c8-4870-ad97-e3b0311f5dec,0,,,text_fallback_several,text_oldest_match
+EDU,35,Vento bravo,true,58TBUk3C6w5Cd3whVkDGsH,Vento Bravo,"Edu Lobo, Antônio Carlos Jobim",255360,exact,BRMCA8100181,1,5a26426b-afb6-4ca2-aec6-71d47b7f06ce,0,,,one_recording,isrc_exact_match
+EDU,36,Meus pensamentos de magoa,true,4gEdPxqGQmfGBB9oSxT3EL,Meus Pensamentos de Mágoa,Edu Lobo,199320,exact,BRPUI1200425,1,3b59514c-a994-4212-a8e3-45f24c4bfda3,0,,,text_fallback_one,text_exact_match
+EDU,37,Na carreira,false,6zPRxpBWz1Sy7cLaQviTkq,Na Carreira,"Edu Lobo, Chico Buarque",228066,exact,BROLA8300015,1,0a8eb1a0-0b6d-489d-9abe-e0e556bde73e,0,,,one_recording,isrc_exact_match
+EDU,38,Zanzibar,true,4jWwrVcPvnVZBJRhpCTzdr,Zanzibar,"Edu Lobo, Airto Moreira, Hermeto Pascoal, Claudio Slow, Jose Mariono",197733,exact,BRMCA7000111,0,,0,,,text_fallback_failed,not_found
+EDU,39,So me fez bem,false,0FMtttEHYjkmxRe7k8plDh,Só Me Fez Bem,Edu Lobo,233386,exact,BRL4P1100005,4,0a54f9ed-dcc8-4629-b153-8a0fab0f5f66,0,,,text_fallback_several,text_oldest_match
+EDU,40,Senhora do rio,false,2KH6x0GqGACehHENRerApM,Senhora do Rio,"Edu Lobo, Romero Lubambo, Mauro Senise",216493,exact,BRPUI1800686,1,fa684285-8738-41da-bbe4-32e0a2ac6d79,0,,,text_fallback_one,text_exact_match
+EDU,41,Na ilha de Lia no barco de Rosa,true,3PPqTmeZKHScil99dY4XBE,"Na Ilha de Lia, No Barco de Rosa",Edu Lobo,216226,exact,BRL4P1100002,7,d4c699cb-8498-42c4-843f-1a233b4e207a,0,,,text_fallback_several,text_oldest_match
+EDU,42,Zanga zangada,false,35YA7lNoPtQYEClnvDWN9L,"Zanga, Zangada",Edu Lobo,186453,exact,BREMI9400026,1,b52893b0-2b77-4877-926b-60ade3393a4b,0,,,text_fallback_one,text_exact_match
+EDU,43,Sobre todas as coisas,true,1Axrt0xW0A3IAD2h5CrpFc,Sobre Todas As Coisas,Chico Buarque,204866,exact,BRBMG9300354,1,8fc9ac9e-2995-419b-b067-9388db9aecc1,1,1d1e0281-e345-4b22-aee9-063f2d7d51ac,Sobre todas as coisas,one_recording,isrc_exact_match
+EDU,44,Upa neguinho,false,4jgPOHio2CbWbxrHrs7xy4,"Upa, Neguinho",Elis Regina,138533,exact,BRMCA6600180,24,820b4186-93f7-45ef-9b7f-fd22a8b086f6,0,,,text_fallback_several,text_oldest_match
+EDU,45,No cordao da saideira,true,4F0lXaVWd1cEUhSmC4Gk0u,No Cordão Da Saideira,Edu Lobo,171960,exact,BRMCA6700163,7,0ec151ba-1e16-4a71-a592-ce3b118af0c6,0,,,text_fallback_several,text_oldest_match
+EDU,46,O sertao,false,,,,,unmatched,,23,16dacef8-65d9-4d4a-8002-0f6c0f1a4c79,,,,text_fallback_several,text_oldest_match
+EDU,47,Zambi,false,6btxo2Y8ARZ0TU5K7QtCpN,Zambi,"Elis Regina, Zimbo Trio",309440,exact,BRMCA6500168,0,,0,,,text_fallback_failed,not_found
+EDU,48,Ponteio,true,3amYJ1XUkudH5wR03ZWno4,Ponteio,Edu Lobo,196013,exact,USESK1309289,13,9c3f9ac2-486d-4b5a-b330-c1bb48f713c9,0,,,text_fallback_several,text_oldest_match
+EDU,49,Pianinho,false,,,,,unmatched,,6,8fad9961-24b4-475e-b1cd-69f9dfea18b6,,,,text_fallback_several,text_oldest_match
+EDU,50,Pra dizer adeus,true,1qIfyH5ztNexkO9BY4Goku,Pra Dizer Adeus,"Edu Lobo, Antônio Carlos Jobim",280306,exact,BRMCA8100175,1,4092eb15-e9f6-40c0-9b8d-5cf644ddd90b,1,6c08421f-6f71-3331-b9db-d48481daf552,Pra dizer adeus,one_recording,isrc_exact_match
+GIL,1,Andar com fe,true,5IRaXLiPevrMXjToXtD3Rm,Andar Com Fé,Gilberto Gil,194175,exact,BRGPG1900016,14,759ae356-1f36-4f14-80e9-4aec93c85989,0,,,text_fallback_several,text_oldest_match
+GIL,2,Aquele abraco,true,7CjSjWTdVPD0ov82Qz55Xb,Aquele Abraço,Gilberto Gil,323773,exact,BRUM71200158,25,a8925c43-5495-41bc-86a9-3bb60ed8ebe9,0,,,text_fallback_several,text_oldest_match
+GIL,3,Aqui e agora,true,4W7eLFq7r7zu0hJ49l1Uwd,Aqui e Agora,Gilberto Gil,347440,exact,BRGPG0600004,5,f817ea91-9dcb-461c-8f63-dd65c19ac8b7,0,,,text_fallback_several,text_oldest_match
+GIL,4,Barato total,true,7MofMXf08ByS7FGDW5Nuwx,Barato Total,Gal Costa,231266,exact,BRMCA7400029,1,328ec477-7e50-4253-8f9a-afd4ff9873d2,1,52e2a03d-319f-42f7-8c40-e1b8147a9d7e,Barato total,one_recording,isrc_exact_match
+GIL,5,Chororo,true,69XTw4ewd6mQn0k2RzeOj1,Chororô - Ao Vivo,Gilberto Gil,462506,normalized,BRGPG7800002,0,,0,,,text_fallback_failed,not_found
+GIL,6,Cerebro eletronico,true,4Lko74AjTF4HXirvmxd02j,Cérebro Eletrônico,Gilberto Gil,212066,exact,BRMCA6900260,12,2418da98-482d-4aad-b61b-bb7f6265aa90,0,,,text_fallback_several,text_oldest_match
+GIL,7,Copo vazio,true,1pkqmRR9Lu4m1PjW1CM8AV,Copo Vazio,Gilberto Gil,271106,exact,BRGPG0600005,8,fcd1fc89-7a7f-4e5b-b0ea-05f0e1d25938,0,,,text_fallback_several,text_oldest_match
+GIL,8,Cores vivas,true,7Kt6S5FOnNwW1wmn7RKcCc,Cores vivas,Gilberto Gil,228440,exact,BRWMB0700510,8,98324326-9d8f-413b-8df6-ebbe764e2310,0,,,text_fallback_several,text_oldest_match
+GIL,9,Divino e maravilhoso,true,7J42bT9SnqnVJH4e4CMA8u,Divino Maravilhoso,Gal Costa,260133,fuzzy,BRPGD6900011,1,5a29ead3-8dae-4095-95e5-b5b57045c57e,1,8e141c36-9c32-4049-8b17-11c92c03d6ca,"Divino, maravilhoso",one_recording,isrc_exact_match
+GIL,10,Eu vim da Bahia,true,3YyKhjarSxJWuO44trAVdr,Eu Vim Da Bahia,João Gilberto,154240,exact,BRPGD9900845,1,43d64f55-d90a-46ec-a5e0-261a85cdb1cd,1,3d761319-996e-473f-9abb-80dec94763d5,Eu vim da Bahia,one_recording,isrc_exact_match
+GIL,11,Drao,true,2MddJi3XeknnPQ0cyfLLIA,Drão,Gilberto Gil,196306,exact,BRWMB9701924,17,5a72e2c7-1b63-447a-a00f-be89c8607e67,0,,,text_fallback_several,text_oldest_match
+GIL,12,Era nova,true,6wPo638YVloLLGDPZRBE2F,Era nova,Gilberto Gil,238880,exact,BRWMB9701876,2,f6515491-9b8b-4ba8-b22e-bd442fd8729a,0,,,text_fallback_several,text_oldest_match
+GIL,13,Extra,true,3GS0CICQvKGCQcI7lNalcT,Extra,Gilberto Gil,354813,exact,BRWMB9900486,11,8ae50d15-91fa-4fb0-af50-5c355a546fc2,0,,,text_fallback_several,text_oldest_match
+GIL,14,Flora,true,1rnDnoapAU1Fkn0LgGh6QL,Flora,Gilberto Gil,256373,exact,BRWMB9701922,19,044e88a3-a1f7-41c2-a4bf-a6e6a0c2a97d,0,,,text_fallback_several,text_oldest_match
+GIL,15,Ladeira da Preguica,true,5fSFzCw2yVYdkV6fMeSTUe,Ladeira Da Preguiça,Elis Regina,164426,exact,BRMCA7300009,6,267e29f3-9910-4f89-bc01-b6fd58b49a46,0,,,text_fallback_several,text_oldest_match
+GIL,16,Lamento sertanejo,true,3sxhpt3p7D0Sas6ej9HGk1,Lamento sertanejo,Gilberto Gil,260866,exact,BRWMB0000686,1,b315d0ff-0bb8-4455-890c-bc1577642d4a,0,,,one_recording,isrc_exact_match
+GIL,17,Lente do amor,true,159OZWaagvUQhvrTTBZT0R,Lente do amor,Gilberto Gil,220160,exact,BRWMB9701580,3,890c9d71-3ab1-44c8-899b-2d04e9b52f37,0,,,text_fallback_several,text_oldest_match
+GIL,18,Lugar comum,true,76gIaqmx24bwK74yyulH04,Lugar Comum,João Donato,213266,exact,BRMCA7500004,10,b1dab2b1-c846-49a3-985d-7737da4ecfb3,0,,,text_fallback_several,text_oldest_match
+GIL,19,Mancada,true,6ujSuZdXwjaNp4n0KnIt7v,Mancada,Gilberto Gil,122226,exact,BRMCA6700791,5,9b22ae22-e23f-4415-96b8-2f89bc9533cd,0,,,text_fallback_several,text_oldest_match
+GIL,20,Menina do sonho,true,6gc4d4ai3wOepYlD5UcpGq,Menina do sonho,Gilberto Gil,293493,exact,BRWMB9900457,2,20aa1b2e-24ea-4126-826d-1e749537cf76,0,,,text_fallback_several,text_oldest_match
+GIL,21,Meu amigo meu heroi,true,6RTFsX0hNP4HJR7wGelZQD,"Meu Amigo, Meu Herói",Zizi Possi,247160,exact,BRMCA8000096,8,61b7820a-768d-427e-b937-665f2cd521a2,0,,,text_fallback_several,text_oldest_match
+GIL,22,Morena,true,7KCjpC39RZ86cIfblOOrb7,Morena,Gilberto Gil,208000,exact,BRWMB9901129,11,a936c808-1629-44c9-8a47-845feb4fe302,0,,,text_fallback_several,text_oldest_match
+GIL,23,O rouxinol,true,0XaX67K7N1T8973AZK2lAD,O rouxinol,Gilberto Gil,160986,exact,BRWMB9701866,6,289f2c68-0e3b-4b68-816e-b00e18ce6224,0,,,text_fallback_several,text_oldest_match
+GIL,24,O sonho acabou,true,7aLyeI2Ar7gaBBWN33b0K6,O Sonho Acabou,Gilberto Gil,214373,exact,BRMCA7400149,2,9c9b55b7-d4bb-4ae7-856f-6c38b27e0ba5,0,,,several_recordings,isrc_oldest_match
+GIL,25,Palco,true,2wL88cvKXUOfHuYVd62hji,Palco,Gilberto Gil,266173,exact,BRWMB9701926,25,cc191ee1-570f-43d0-8c19-da69d406e85a,0,,,text_fallback_several,text_oldest_match
+GIL,26,Pessoa nefasta,true,2kVPGYJUEmpGsP72ZK4yzF,Pessoa nefasta,Gilberto Gil,310040,exact,BRWMB9701934,8,fc3ea13d-38cf-4a59-bc47-fef8a8468e24,0,,,text_fallback_several,text_oldest_match
+GIL,27,Preciso aprender a so ser,true,41q3q5opxQkcfM3FUq2hMA,Preciso Aprender a Só Ser,Gilberto Gil,283760,exact,BRGPG0600003,18,c5cfc067-fda9-4768-aa1a-948479aea8f5,0,,,text_fallback_several,text_oldest_match
+GIL,28,Procissao,true,3OAkLAzOU84ZEdeT8xfrr3,Procissão,Gilberto Gil,158640,exact,BRPGD6700012,25,c49e3b54-7784-4a32-881f-157c5f77a9c3,0,,,text_fallback_several,text_oldest_match
+GIL,29,Punk da periferia,true,2pqPSL5aRAW4cluteEgCIS,Punk da periferia,Gilberto Gil,319773,exact,BRWMB9705415,7,7df3a316-a70e-40c6-8be4-456cc8e5ed50,0,,,text_fallback_several,text_oldest_match
+GIL,30,Raca humana,true,7gowLNY0HqyvpD5Cq6T43N,A raça humana,Gilberto Gil,269813,fuzzy,BRWMB9900485,6,2edf0dbd-667f-4ad9-9984-827865b56742,0,,,text_fallback_several,text_oldest_match
+GIL,31,Rebento,true,1LgbcTDdH5meAT5qLd56JZ,Rebento,Gilberto Gil,176493,exact,BRGPG7900006,8,8c08637d-6e31-4ff8-8332-3974e566f438,0,,,text_fallback_several,text_oldest_match
+GIL,32,Refazenda,true,4NzY5auu3oohqRKDPZxKEF,Refazenda,Gilberto Gil,190133,exact,BRWMB9701569,16,59799b86-b504-4608-8d7a-abdea944edcc,0,,,text_fallback_several,text_oldest_match
+GIL,33,Sandra,true,5JmBuvUAjNnzSPIOF4Z6ZQ,Sandra,Gilberto Gil,287546,exact,BRWMB9701874,2,c231d92d-8b30-495a-9a72-56f88037e4fd,0,,,text_fallback_several,text_oldest_match
+GIL,34,Se eu quiser falar por Deus,true,6Fzbz090WvXmkk0GlzCasR,Se eu quiser falar com Deus,Gilberto Gil,289160,fuzzy,BRWMB9701575,13,1d21752b-32e5-4092-8794-102d5c983ae0,0,,,text_fallback_several,text_oldest_match
+GIL,35,Realce,true,6991iMrfqqHjYSPzsobNeW,Realce,Gilberto Gil,284093,exact,BRGPG7900001,19,e43a561f-b5f5-4a21-a211-0c83fe2fbc96,0,,,text_fallback_several,text_oldest_match
+GIL,36,Sitio do Pica-Pau Amarelo,true,2ukpjo2XXqZsdLOI0bDCLX,Sítio do Picapau Amarelo,Gilberto Gil,188520,fuzzy,BRGPG0500001,4,8f8a6a6b-1c3d-401f-b0d3-741592744653,0,,,text_fallback_several,text_oldest_match
+GIL,37,Bapa Alapala,true,2sxMo1q9kad30CdtNsIkXY,Babá alapalá,Gilberto Gil,215760,fuzzy,BRWMB9701872,11,0aae2425-92ae-4300-8ddc-403f8f729d3f,0,,,text_fallback_several,text_oldest_match
+GIL,38,Back in Bahia,true,6NUr9BBJzUYRSW9TjQRd7H,Back In Bahia,Gilberto Gil,278706,exact,BRPGD7200010,1,d59dc0b1-45a6-4e22-9cba-1f6ce64d1993,0,,,one_recording,isrc_exact_match
+GIL,39,Deixar voce,true,117pf5wgOdGxErNTQL3Fn8,Deixar você,Gilberto Gil,285826,exact,BRWMB9900455,7,f16bd830-97b8-44cc-a485-a2ded1e81215,0,,,text_fallback_several,text_oldest_match
+GIL,40,Domingo no parque,true,0HMa3XCtloTdy3cL00lWNz,Domingo no Parque,Gilberto Gil,222266,exact,BRPGD6800025,25,cf1d37eb-d2f2-40ca-95af-443f2098ca1b,0,,,text_fallback_several,text_oldest_match
+GIL,41,Expresso 2222,true,1gC8FCW9gnAS3DICToSfUz,Expresso 2222,Gilberto Gil,159813,exact,BRPGD7200008,1,1220f186-2a13-41b8-84cb-7515a8e2e7b6,1,a07b84f6-a5f2-3503-b604-5637069c3040,Expresso 2222,one_recording,isrc_exact_match
+GIL,42,Luar,true,,,,,unmatched,,25,c31d9914-9436-4df4-a463-f4c667d182e3,,,,text_fallback_several,text_oldest_match
+GIL,43,Lovacao,true,3DLROXO3OgoXZyrK5shK3Z,Louvação,Gilberto Gil,224693,fuzzy,BRPGD6700011,7,90115540-159a-4114-a8bb-56233ec4bf2e,0,,,text_fallback_several,text_oldest_match
+GIL,44,Meio de campo,true,496GT0KiBvNFpedpLUDwPh,Meio De Campo,Elis Regina,116466,exact,BRMCA7300158,4,ed608e00-9373-4050-8b57-5e6401b5d00b,0,,,text_fallback_several,text_oldest_match
+GIL,45,Retiros espirituais,true,4m50HRfae0bLJnbnJZexyn,Retiros espirituais,Gilberto Gil,293226,exact,BRWMB9701865,5,9b95112b-1aff-4ab7-a913-44c18fb8f8d6,0,,,text_fallback_several,text_oldest_match
+GIL,46,Sarara miolo,true,4Gt8YQqUailN57ShSv0sXj,Sarará Miolo,Gilberto Gil,290733,exact,BRGPG7900017,19,9ccb0c98-d543-455e-ac6f-de18e52ac223,0,,,text_fallback_several,text_oldest_match
+GIL,47,Soy loco por ti America,true,5zitPHwFth0QZji0s7Q9uP,Soy Loco Por Ti América - Remastered 2006,Caetano Veloso,223866,normalized,BRUM70601099,1,5b90b72c-0866-4b74-b1ac-14be910d71a2,0,,,one_recording,isrc_exact_match
+GIL,48,Super-homem,true,,,,,unmatched,,25,ce264ef5-370d-4519-84a6-95cf6e52860a,,,,text_fallback_several,text_oldest_match
+GIL,49,Toda menina baiana,true,0ENvhTTww1MVOulrzuxSmu,Toda Menina Baiana,Gilberto Gil,226640,exact,BRGPG7900007,25,1a810aaa-058c-42a2-9001-0443c487e459,0,,,text_fallback_several,text_oldest_match
+GIL,50,Vamos fugir,true,2n7yvpEv6OmrayoooUzDaI,Vamos Fugir,Gilberto Gil,337440,exact,BRGPG2300003,22,c4b6f879-fb3f-4af8-83b9-10de03e45f01,0,,,text_fallback_several,text_oldest_match
+JOBIM,1,Absolute Lee,true,,,,,unmatched,,1,13d5366d-908c-483d-aa38-4ab7c190458f,,,,text_fallback_one,text_exact_match
+JOBIM,2,Agua de beber,true,3QKJELWORZZ7rUZDWeMWSA,Água de Beber,"Astrud Gilberto, Antônio Carlos Jobim",138013,exact,USPR36500060,4,85205c46-6a91-4718-b312-12ed78fb61c2,1,8bbf6da7-aab1-394b-9bb6-ddfea5477fa1,Água de beber,several_recordings,isrc_oldest_match
+JOBIM,3,Ai quem me dera,true,1WHR0R8v2paKDNNxBrXIF0,Ai Quem Me Dera,"Edu Lobo, Antônio Carlos Jobim",132160,exact,BRMCA8100174,1,e67195ad-8776-451d-8904-6af97e9d4c50,0,,,one_recording,isrc_exact_match
+JOBIM,4,Angela,true,7JtNLcvfGyYUJYtul6sPii,Angela,Antônio Carlos Jobim,171626,exact,USWB17500018,7,a8979168-4cb6-4dcb-8eec-40e6204c49c3,0,,,text_fallback_several,text_oldest_match
+JOBIM,5,Bebel,true,4qOErQ8aFM9CrYpFFgXMSR,Bebel,Antônio Carlos Jobim,192933,exact,USPR38682016,4,3c0eca91-d433-4de3-8110-ccd4719b3019,0,,,text_fallback_several,text_oldest_match
+JOBIM,6,Bonita,true,5mg1NcAojwlveNf1CO4WAv,Bonita,"Elis Regina, Antônio Carlos Jobim",160160,exact,USWWW0137138,0,,0,,,text_fallback_failed,not_found
+JOBIM,7,Brigas nunca mais,true,3SkLW48Xt2knevezFTs0pY,Brigas Nunca Mais,"Elis Regina, Antônio Carlos Jobim",102008,exact,BRMCA7400161,1,300fa169-4869-418e-87f6-3392a4fb36ac,1,22adf5ba-3780-3c2c-a380-4a4d29d1c4b0,Brigas nunca mais,one_recording,isrc_exact_match
+JOBIM,8,Caminho de pedra,false,5bF6XigFrPodr4egQ4Zs3l,Caminho de Pedra,Antônio Carlos Jobim,170226,exact,DETL61612042,0,,0,,,text_fallback_failed,not_found
+JOBIM,9,Caminhos cruzados,true,24y5i0NJjkpxjGKsSa20gh,Caminhos Cruzados,"Antônio Carlos Jobim, Gal Costa",270826,exact,USPR39302722,0,,0,,,text_fallback_failed,not_found
+JOBIM,10,Cancao do amor demais,false,5vuXKsDuDts9olm2pv6eyK,Canção do Amor Demais,Antônio Carlos Jobim,101733,exact,BRJ9B0500015,1,442a84d0-28f1-4902-8fa3-eef41644fdee,0,,,one_recording,isrc_exact_match
+JOBIM,11,Chega de saudade,true,3vNwY4KaBRnJP4G6UBJPZH,Chega De Saudade,Antônio Carlos Jobim,233200,exact,BRJ9B0500002,1,1f270cf8-67a5-494c-aca1-66d71f67eeb2,1,768cf901-2e16-36ee-8e5a-f8de66f4a00c,Chega de saudade,one_recording,isrc_exact_match
+JOBIM,12,Corcovado,true,29OG9zJjZgQvFMfGVB09Lt,Corcovado,"Elis Regina, Antônio Carlos Jobim",237024,exact,BRMCA7400158,1,495fba83-45cb-492b-a6da-28af60165532,1,c93c9224-5608-36ee-980a-3dbba3c603e5,Corcovado,one_recording,isrc_exact_match
+JOBIM,13,Demais,false,0q6J0nTdkQ3zm5OAJqAhzI,Demais,"Antônio Carlos Jobim, Fogueira Tres",156316,exact,BRCID8800053,0,,0,,,text_fallback_failed,not_found
+JOBIM,14,Derradeira primavera,false,14MVw52Y70TARibNRJcCk1,Derradeira Primavera,Antônio Carlos Jobim,138426,exact,BRJ9B0500018,1,dcafeedb-7bbd-4e8e-9ec3-23b61781ecd4,0,,,one_recording,isrc_exact_match
+JOBIM,15,Desafinado,true,03uzQMPYLmH848VDbgvSkg,Desafinado,Antônio Carlos Jobim,175093,exact,BRJ9B0500023,1,a6b8bfcc-1b24-4d20-936c-016f33f1b070,1,807b8169-cb39-30c7-a9e2-d8491fc97651,Desafinado,one_recording,isrc_exact_match
+JOBIM,16,Dindi,false,5F7WA2A1o6GjWo5S8QiIgk,Dindi,Antônio Carlos Jobim,255240,exact,USWB17900026,1,14dabc93-5f7b-4713-8239-6c95f8c7bf1b,0,,,one_recording,isrc_exact_match
+JOBIM,17,Discussao,true,1VYmQjKl2Gsqzu8ph1emmD,Discussão,"João Gilberto, Antônio Carlos Jobim",109680,exact,FR6V81331900,0,,0,,,text_fallback_failed,not_found
+JOBIM,18,E preciso dizer adeus,false,27RE0q756dzl6CqYE1AQCn,É Preciso Dizer Adeus,"Miúcha, Antônio Carlos Jobim",131746,exact,BRBMG7700022,1,8e406786-3889-4d41-adc3-7a8356abb9ab,1,8c438229-2914-4fb5-a34c-924a10596fce,É preciso dizer adeus,one_recording,isrc_exact_match
+JOBIM,19,Ela e carioca,true,63mzxN371fzpOKPbDTCB8n,Ela É Carioca,"Antônio Carlos Jobim, Nelson Riddle E Sua Orquestra",155173,exact,BRMCA6700162,0,,0,,,text_fallback_failed,not_found
+JOBIM,20,Engano,false,,,,,unmatched,,25,4db0d804-6f4c-463a-b6e4-c1c769ef8c0e,,,,text_fallback_several,text_oldest_match
+JOBIM,21,Este seu olhar,true,1j5Z8UDSJjStU58La9q1lx,Este Seu Olhar,Antônio Carlos Jobim,133446,exact,DETL61612048,4,18e0fe87-d793-4c17-8612-4e9dca2b7b96,0,,,text_fallback_several,text_oldest_match
+JOBIM,22,Estrada do sol,false,5Ps1jafHLs9ZNsVXmEmnzg,Estrada do Sol,Antônio Carlos Jobim,192533,exact,BRJ9B0500020,1,5ae5c8a6-8895-402b-8626-b90b9e0c3f9d,1,dd4d342c-4d28-4799-b8f3-f179b5a7e5f4,Estrada do Sol,one_recording,isrc_exact_match
+JOBIM,23,Eu e o meu amor,false,3p4jqC87f9MookKOr3d0fr,Eu e o Meu Amor - Remastered,Antônio Carlos Jobim,103957,normalized,ES58A2101911,0,,0,,,text_fallback_failed,not_found
+JOBIM,24,Eu sei que vou te amar,true,7CRIoOb5ViF1CBFLcyTfMw,Eu Sei Que Vou Te Amar,Antônio Carlos Jobim,112200,exact,BRJ9B0500014,2,b6d038b4-7c18-4d2c-a180-89566e0e8496,1,e8a0659c-277c-3466-9667-3cb48b68f125,Eu sei que vou te amar,several_recordings,isrc_oldest_match
+JOBIM,25,Faz uma semana,false,,,,,unmatched,,2,c61cac1e-6aea-461b-a8bb-df2d81fee9d7,,,,text_fallback_several,text_oldest_match
+JOBIM,26,Garota de Ipanema,true,2vTDA7mOYWtuduCylWfiFd,Garota de Ipanema,Antônio Carlos Jobim,242760,exact,BRJ9B0500005,1,3c690cbc-19ba-4653-9fbe-470d0a8f51ab,1,041c76df-2a1e-34dd-b482-07c15b151ee2,Garota de Ipanema,one_recording,isrc_exact_match
+JOBIM,27,Incerteza,false,4glBRpYU1tRih4E0vU73xA,Incerteza,Antônio Carlos Jobim,152040,exact,ES71G1306598,7,63dff161-f8f1-4e6d-93bc-623850b39a2f,0,,,text_fallback_several,text_oldest_match
+JOBIM,28,Insensatez,true,3l1FevVPUEsQh139eOIl9m,Insensatez,"Antônio Carlos Jobim, Vinícius",262293,exact,ARG991015716,0,,0,,,text_fallback_failed,not_found
+JOBIM,29,Janelas abertas,false,3R2zYmaKzJZBAfEERTA9L0,Janelas Abertas,"Antônio Carlos Jobim, Gal Costa",202333,exact,BRLUM9300027,0,,0,,,text_fallback_failed,not_found
+JOBIM,30,Lamento no morro,false,3Sbd2TsEkiMljik57jipK2,Lamento No Morro,"Antônio Carlos Jobim, Roberto Paiva",128053,exact,BREMI5600086,0,,0,,,text_fallback_failed,not_found
+JOBIM,31,Ligia,true,374rP3oqQf1Qld2H8pH5fv,Ligia,Antônio Carlos Jobim,256266,exact,USWB17500016,10,b5ab0df5-3525-4f83-9c38-2bc2b6bc9cfe,0,,,text_fallback_several,text_oldest_match
+JOBIM,32,Luar e batucada,false,3O8ENvRglL0Raq5Te71HIM,Luar e Batucada,Fatima Guedes,147973,exact,BRROF0600081,1,c0029799-dde0-4c98-ad4b-d9a0e1f0a1da,0,,,one_recording,isrc_exact_match
+JOBIM,33,Luiza,false,2qTASec3uvfpaKsQ15rIkM,Luiza,"Antônio Carlos Jobim, Nova Banda",151840,exact,USPR38605204,0,,0,,,text_fallback_failed,not_found
+JOBIM,34,Magoa,false,,,,,unmatched,,25,30c272b8-a64a-4657-aaac-baef8ff535ef,,,,text_fallback_several,text_oldest_match
+JOBIM,35,Meditacao,true,3sp8m1XywQhDiPEctlT4TL,Meditação,Antônio Carlos Jobim,195213,exact,BRMCA6400214,2,5fb24a25-ad68-444a-8440-8365e00d8943,1,87c15f26-e79a-34db-843c-6884186c94bd,Meditation,several_recordings,isrc_oldest_match
+JOBIM,36,Modinha,false,7w445n1qc0sYZUSyW58UGZ,Modinha,"Elis Regina, Antônio Carlos Jobim",138005,exact,BRMCA7400156,1,79d97e8c-33cd-4d22-82e0-0cf79a8ce01a,1,bfd483bc-18aa-3ca1-91ce-4133b4a5a8f0,Modinha,one_recording,isrc_exact_match
+JOBIM,37,O amor em paz,true,7z97VUngFESJNinp9B3znE,Amor Em Paz (Once I Loved),Antônio Carlos Jobim,214693,fuzzy,USPR36307064,2,467c77bb-9f1b-41d1-a75b-6e31684a4188,1,dbe9bfaf-448f-32e9-89cb-2493155d053d,O amor em paz,several_recordings,isrc_oldest_match
+JOBIM,38,Pois e,false,7Frd1uhTyz0d6yIWy45GA5,Pois É,"Elis Regina, Antônio Carlos Jobim",104106,exact,BRMCA7400154,1,528cc54c-e303-4840-861a-be3b58c3e924,1,bd6b3371-eee5-42f5-bf90-211ce78cf82b,Pois é,one_recording,isrc_exact_match
+JOBIM,39,Sabia,false,5z4j2oqcHJcX6zbRQG1M9U,Sabiá,Antônio Carlos Jobim,199266,exact,BRJ9B0500003,1,12f234e5-4e28-4302-962d-90d0afc0f049,1,091deb8d-4ffb-3b5d-8979-a6992eaf61ba,Sabiá,one_recording,isrc_exact_match
+JOBIM,40,Samba de uma nota so,true,1CKhZVUyHhXKtN6Bo68xqq,Samba de Uma Nota Só,Antônio Carlos Jobim,180040,exact,BRJ9B0500022,1,12e209bb-98fb-4496-a959-886d11c09321,1,c41e313a-d429-3283-9c39-a5ec4e4b0437,Samba de uma nota só,one_recording,isrc_exact_match
+JOBIM,41,Samba do aviao,true,3sqm0Wye2RdH21jZJQiDLn,Samba do Avião,Antônio Carlos Jobim,204266,exact,BRJ9B0500004,1,b43891dd-8631-46f5-92ec-df390eba670f,1,210d3b3f-d0ed-371b-9395-6af9692730b9,Samba do avião,one_recording,isrc_exact_match
+JOBIM,42,Se todos fossem iguais a voce,false,3I3JQXbe6m3JpfpQIrd9Ob,Se Todos Fossem Iguais A Você,"Antônio Carlos Jobim, Roberto Paiva",215213,exact,BREMI6400032,0,,0,,,text_fallback_failed,not_found
+JOBIM,43,So danco samba,false,4Rwljh2dqc2mIimSzsPATg,So Danco Samba,Antônio Carlos Jobim,120760,exact,BRSME9400282,25,2da40ea9-941e-427c-b876-6951a254f144,0,,,text_fallback_several,text_oldest_match
+JOBIM,44,So tinha de ser com voce,true,209ucYTS6vWEV5iydrHiOt,Só Tinha De Ser Com Você,"Elis Regina, Antônio Carlos Jobim",233015,exact,BRMCA7400001,2,a55ab24b-d9c6-43b0-9eb1-81bcb555ef54,1,29157681-36a7-3dd1-a3ef-236bc9035990,Só tinha de ser com você,several_recordings,isrc_oldest_match
+JOBIM,45,Solidao,false,7nEaoveW993Gz9UyNzdOaY,Solidao,Antônio Carlos Jobim,180933,exact,GBBLY0602875,1,4431ff48-39f9-414a-ba7d-85ef4ba6cf83,0,,,text_fallback_one,text_exact_match
+JOBIM,46,Tereza da praia,false,4r2Pe3WO147bVOVvQ5sqpM,Tereza da Praia,Antônio Carlos Jobim,168892,exact,QMDA61320330,1,68d1b039-d700-426e-9cfd-0c31ef221877,0,,,text_fallback_one,text_exact_match
+JOBIM,47,Triste,true,0PHGV9pWYv91WCeCXhdWye,Triste,"Elis Regina, Antônio Carlos Jobim",162368,exact,BRMCA7400157,2,a9179221-58d8-45c0-8cec-66d736b60839,1,2e7d6d15-b904-31b1-a763-ec5049ff1316,Triste,several_recordings,isrc_oldest_match
+JOBIM,48,Vivo sonhando,false,5O9dsLw5PLNAAa7BaeC3hG,Vivo Sonhando (Dreamer),Antônio Carlos Jobim,155666,normalized,USF096325420,1,cc0ca1f8-9fc0-41b5-a815-b7ea527439f8,1,6505ce53-f8a2-3b61-bde4-03f5222f3d21,Vivo sonhando,one_recording,isrc_exact_match
+JOBIM,49,Voce vai ver,true,0e82Hn1GFIDCstOzRxg9DI,Você vai ver,Antônio Carlos Jobim,175293,exact,USWB17900030,1,a69c44f5-c33a-4110-8a7a-234f4e1adf7e,0,,,one_recording,isrc_exact_match
+JOBIM,50,Wave,true,06Zi8Bg1sCzj7Sfojqcu7e,Wave,Antônio Carlos Jobim,168400,exact,BRJ9B0500001,1,c7671259-4105-42cc-a4d8-0a75ed3519a7,0,,,one_recording,isrc_exact_match
+LINS,1,A cor do por do sol,false,7cjWxtPwUPQHCIXRIH1M44,A Cor Do Pôr-Do-Sol,Ivan Lins,273733,exact,NLEA21000027,2,f65d591a-ce42-4c1b-8872-93f83701881f,0,,,text_fallback_several,text_oldest_match
+LINS,2,A noite,true,78J8b2YnaFrsCflgemM6mU,A Noite,Ivan Lins,209826,exact,BREMI7900043,9,2159f451-efe2-4de8-8f16-7ab4f8136e7d,0,,,text_fallback_several,text_oldest_match
+LINS,3,Abre alas,false,4ysDStcutxyonMoGuYNqR0,Abre Alas,Ivan Lins,189586,exact,BRBMG7400021,1,d47f2a3b-5d5a-48dd-adbd-1376e5d467e5,0,,,one_recording,isrc_exact_match
+LINS,4,Acaso,false,48HYrSjLD0jIGC13m7dSOQ,Acaso,Ivan Lins,262560,exact,BRESM0700096,3,197a96fc-78a8-4e5b-8f0e-d50a8ca0df20,0,,,text_fallback_several,text_oldest_match
+LINS,5,Agora,false,76HA7xdvZEfSVlltCliIc3,Agora,Ivan Lins,210666,exact,BRMCA7000059,6,beab6e22-e315-4d2f-862c-f4bedbd8dff2,0,,,text_fallback_several,text_oldest_match
+LINS,6,Ai ai ai,false,,,,,unmatched,,25,7329faed-ceaf-46fd-8545-ad5404923039,,,,text_fallback_several,text_oldest_match
+LINS,7,Ainda te procuro,false,5eywSQpdJISPceKTiVRby2,Ainda Te Procuro,Ivan Lins,214400,exact,BRMCA8800059,3,92070f3d-5a05-43b3-8928-7a9570c249ef,0,,,text_fallback_several,text_oldest_match
+LINS,8,Amor,true,3hSBILuuQh1BkmkiN1GJfG,Amor,"Ivan Lins, Lucinha Lins",277533,exact,BRMCA8100112,0,,0,,,text_fallback_failed,not_found
+LINS,9,Anjo de mim,true,226xL0As0VprzcNVk4tij6,Anjo de Mim,"Ivan Lins, Cesar Camargo Mariano",321400,exact,BRVLS9500596,0,,0,,,text_fallback_failed,not_found
+LINS,10,Aos nossos filhos,true,4pFs4BU2ca3EOZZhAkgOqF,Aos Nossos Filhos,Ivan Lins,350973,exact,BRVLS9400622,21,bc507f9f-2f5d-4ff3-9cca-7e0236b0179e,0,,,text_fallback_several,text_oldest_match
+LINS,11,Bilhete,true,41TT0D06vPzfkKL1h4FI6D,Bilhete,Ivan Lins,177466,exact,BREMI8000027,20,46085dea-c618-4bc6-8e83-58289d9d6f99,0,,,text_fallback_several,text_oldest_match
+LINS,12,Cantor da noite,false,487iHjB62qKYkabqTyqL8c,Cantor da Noite,"Ivan Lins, Caroline Campbell, Dave Carpenter, Randy Waldman, Thom Rotella, Vinnie Colaiuta",372050,exact,USCGJ2180617,0,,0,,,text_fallback_failed,not_found
+LINS,13,Choro das aguas,false,3uhIYRwbQkZp3hzC9Fluh3,Choro Das Aguas,Ivan Lins,158733,exact,BREMI7700563,1,a1e139bb-2b9d-43d7-9506-a5b92d0255a5,0,,,one_recording,isrc_exact_match
+LINS,14,Daquilo que eu sei,true,7mXT5v06ELfQBdhNQqu137,Daquilo Que Eu Sei,Ivan Lins,242800,exact,BRMCA8100107,16,d798072c-e748-4a38-94b1-06d8d9b8399a,0,,,text_fallback_several,text_oldest_match
+LINS,15,Depois dos temporais,false,7KajfssJctDciwxaiwYpf6,Depois Dos Temporais,Ivan Lins,333160,exact,BRMCA8300081,8,0d406f34-f954-442d-b775-401210cc2728,0,,,text_fallback_several,text_oldest_match
+LINS,16,Dinorah Dinorah,true,1drWcpx6c74yjZ1RgYYcSm,"Dinorah, Dinorah",Ivan Lins,193400,exact,BREMI7700022,1,3ee821bb-45bf-41f4-9937-df0cf0a64988,0,,,one_recording,isrc_exact_match
+LINS,17,Doce presenca,true,4BjN6YyOnw8G28tqfx6Q3O,Doce Presença,Ivan Lins,255666,exact,BRMCA8300082,7,280d212b-ddfb-468c-af73-ee7a47da15d8,0,,,text_fallback_several,text_oldest_match
+LINS,18,Essa mare,false,68JDhquVQyaz1iSSRwxSIH,Essa Maré,Ivan Lins,133733,exact,BRBMG7400040,3,a32b87a5-a901-4233-804d-e40e76a9d0ce,0,,,text_fallback_several,text_oldest_match
+LINS,19,Fogueiras,false,0ljCgXRXiQxqQaTGoXDsoV,Fogueiras,Ivan Lins,145293,exact,BRMCA8800067,2,3cb8e6e3-186f-4681-ad83-b54b39730e6a,0,,,text_fallback_several,text_oldest_match
+LINS,20,Guarde nos olhos,true,4UfneNUjsKYL1wiEVr1pYN,Guarde Nos Olhos,Ivan Lins,205360,exact,BREMI7800152,8,acd708a6-3180-4c53-b75b-5a7598b90d84,0,,,text_fallback_several,text_oldest_match
+LINS,21,Ituverava,true,7lOEGKNGODra3O8UW5eMbM,Ituverava,Ivan Lins,184400,exact,BREMI7700565,1,06dfc29e-6218-4c5a-8d65-2370ed016742,0,,,one_recording,isrc_exact_match
+LINS,22,Iluminados,false,06OE8U81123aw3eL05DU4F,Iluminados,Ivan Lins,259560,exact,BRPGD8700002,19,3e5ee0a8-0f77-49a1-b092-fbc507fc2537,0,,,text_fallback_several,text_oldest_match
+LINS,23,Joana dos barcos,true,5jdo4szYFc79zVBMqFwmXg,Joana dos barcos,Ivan Lins,158493,exact,UKDNQ1537574,6,60b8533a-ebcb-44de-91a5-931129b5af61,0,,,text_fallback_several,text_oldest_match
+LINS,24,Lembra de mim,true,6OxRX1BuBlQVH3Vi9qAJ74,Lembra de Mim,Ivan Lins,261400,exact,BRVLS9500601,11,ae2055ba-7e01-4bd0-b794-3cab0ef6d298,0,,,text_fallback_several,text_oldest_match
+LINS,25,Lembra,false,3wMnqTB5QoIXcjedF48GCA,Lembra,Ivan Lins,230253,exact,BRMCA8300087,13,d8749e5e-2459-49ec-b067-eeb42df4a069,0,,,text_fallback_several,text_oldest_match
+LINS,26,Leva e traz,false,,,,,unmatched,,12,02a1a14f-b416-44a7-8159-f53e1f1e7b44,,,,text_fallback_several,text_oldest_match
+LINS,27,Madalena,true,0IRQkXY4szWA1RNBeV6lu1,Madalena,Elis Regina,157640,exact,BRMCA7100150,2,68f76800-db1d-4d31-a3f8-41bc1bdc8f08,0,,,several_recordings,isrc_oldest_match
+LINS,28,Meu pais,false,02p8YhEueeJwOOfT6iOIpc,Meu País,"Brasilidade Geral, Ivan Lins",322268,exact,BXDFC1900007,0,,0,,,text_fallback_failed,not_found
+LINS,29,Mudanca dos ventos,true,65OaBa15mNB23sSaMgdG8I,Mudanca Dos Ventos,Kenia,270266,exact,USCGJ0527254,0,,0,,,text_fallback_failed,not_found
+LINS,30,Na areia na beira do mar,false,,,,,unmatched,,1,70ff7c0e-d199-4e9a-9c25-21daec348bd3,,,,text_fallback_one,text_exact_match
+LINS,31,Novo tempo,true,3a30ARehkfMTDkJyBWazNG,Novo Tempo,Ivan Lins,293933,exact,BREMI8000028,24,b3e31a69-881b-4a66-a538-6e25aaa99962,0,,,text_fallback_several,text_oldest_match
+LINS,32,O amor e meu pais,true,1bQ8CZZ3YULMGrssBgBL9w,O Amor É O Meu Pais,Ivan Lins,218893,fuzzy,BRPGD7000007,14,2a84d0c0-3fba-4007-adb4-5bf670b055a8,0,,,text_fallback_several,text_oldest_match
+LINS,33,Porta entreaberta,false,05cPV8q0P4t5vump0OS6IM,Porta Entreaberta - Live,Ivan Lins,223960,normalized,BREMI0400912,0,,0,,,text_fallback_failed,not_found
+LINS,34,Quadras de roda,false,,,,,unmatched,,7,066f9f54-65a3-461d-b115-e91a5d39e8a1,,,,text_fallback_several,text_oldest_match
+LINS,35,Rio de maio,false,4ddAB4WdkimMogeaVdjVTr,Rio de Maio,"Wanda Sá, Ivan Lins, Ricardo Silveira",210247,exact,BRFIN1600083,0,,0,,,text_fallback_failed,not_found
+LINS,36,Saindo de mim,true,0P7oOgBvXouLI5PhDDBB9b,Saindo De Mim,Ivan Lins,219400,exact,BREMI7900039,14,2ad7c29d-6a90-4851-b6ac-3b8e1319866b,0,,,text_fallback_several,text_oldest_match
+LINS,37,Sertaneja,false,6QG29duk4Q8DJVgQnTaVeI,Sertaneja,Ivan Lins,222626,exact,BREMI8000169,6,06c8913a-4181-409e-b556-62ac12813010,0,,,text_fallback_several,text_oldest_match
+LINS,38,Soberana rosa,false,16aG3DMFRAD9efSvEtSjO6,Soberana Rosa,"Chico C, Ivan Lins, Vitos Martins",260093,exact,CH0580800067,0,,0,,,text_fallback_failed,not_found
+LINS,39,Tens,false,0OAgO9MUBKJ2j7fzqhz783,Tens (Calmaria),Ivan Lins,170226,normalized,BRBMG7400042,3,6b84e785-4213-4fe8-8797-67885cc27930,0,,,text_fallback_several,text_oldest_match
+LINS,40,Um fado,true,3BSnkr96MlhDOtb6VCw7ra,Um Fado,Ivan Lins,132066,exact,BREMI7700101,1,5e4f235e-2ebb-4f24-b845-32b899cac91c,0,,,one_recording,isrc_exact_match
+LINS,41,Velas icadas,true,1qpXcBqt6NX3mBX0sNv54p,Velas Içadas,Ivan Lins,213133,exact,BREMI7900044,13,683bf464-1c75-4261-b1c6-af566b27247e,0,,,text_fallback_several,text_oldest_match
+LINS,42,Vitoriosa,true,3lVZhxA7MBEY5RzvIgKKEE,Vitoriosa,Ivan Lins,238973,exact,BRVLS9400628,22,836b0612-903b-4efe-b647-d7797aa3a61b,0,,,text_fallback_several,text_oldest_match
+LINS,43,Antes que seja tarde,true,5DjJNx2jvG63HfSqdIdWdr,Antes Que Seja Tarde,Ivan Lins,218160,exact,BREMI7900041,15,5ba894f8-1b07-49c8-808a-38b39b9c96c5,0,,,text_fallback_several,text_oldest_match
+LINS,44,Arlequim desconhecido,false,3IqC7YUjxeaZTKGCMP0wQm,Arlequim Desconhecido,Ivan Lins,239466,exact,BREMI8000170,5,86cae9d9-2aa3-4f2b-8306-0ea04d4d6495,0,,,text_fallback_several,text_oldest_match
+LINS,45,Aparecida,true,6ZRQpHnxxMhH2OSlTsoEC0,Aparecida,Ivan Lins,258466,exact,BREMI7700034,1,f3d678c4-da55-44ae-b431-f8d2e703ab65,0,,,one_recording,isrc_exact_match
+LINS,46,Bonito,false,09WcUmephnMK9nykwBsUu5,Bonito,Ivan Lins,208800,exact,BRMCA8300083,4,b72b7494-8a83-4bae-bb5a-ed7b450e139d,0,,,text_fallback_several,text_oldest_match
+LINS,47,Camaleao,false,7BvkODpYxg1B0fhv04ebX4,Camaleão,Ivan Lins,245600,exact,BRVLS9500602,1,5ecce63c-f227-466a-a6da-7164f8c7827e,0,,,text_fallback_one,text_exact_match
+LINS,48,Bandeira do divino,false,5Szi2uEs1VFFiJvI3E4Q1J,Bandeira Do Divino,Ivan Lins,239973,exact,BREMI7800021,18,136ad3dc-625b-4e8f-89b0-2cea663e2ab2,0,,,text_fallback_several,text_oldest_match
+LINS,49,Coragem mulher,false,,,,,unmatched,,4,1620df90-944d-4b7d-87d3-ceb5a2defd1a,,,,text_fallback_several,text_oldest_match
+LINS,50,Cartomante,true,7yFfbiuDp0BbfnN3P1beN1,Cartomante,Ivan Lins,204360,exact,BREMI7800022,11,3d102f26-9068-4268-9c33-dcd1aa6fc5d9,0,,,text_fallback_several,text_oldest_match
+MILTON,1,A sede do peixe,true,4j8d6azsJOmIciky4leAh2,A Sede Do Peixe (Para O Que Não Tem Solução),Milton Nascimento,146200,normalized,BREMI7800113,1,7b3349a9-7b9c-42bb-9a18-7e3728c6cd77,0,,,one_recording,isrc_exact_match
+MILTON,2,A terceira margem do rio,true,5iZtzRyaAJ9KYRdq5sEfTy,A Terceira Margem do Rio,Milton Nascimento,227960,exact,BRSME9000116,1,a42c54e0-86ec-4bcf-9c2b-37da1d4a215f,0,,,text_fallback_one,text_exact_match
+MILTON,3,Amor amigo,true,1sy8JH6pdfVFY18oPnyVIX,Amor Amigo,Milton Nascimento,200160,exact,BRMCA8100287,3,6496f194-583d-47f5-962c-4c4e47eee739,0,,,text_fallback_several,text_oldest_match
+MILTON,4,Cais,true,1UvOFJFyfsm2OJkE3s48fs,Cais,Milton Nascimento,165333,exact,BREMI7100095,1,98eec9fa-5a8b-472e-b62f-7d229ae78511,1,096e81a5-e2a8-4e54-91a5-d50c379d86f5,Cais,one_recording,isrc_exact_match
+MILTON,5,Cancao amiga,true,2FzTzrJePgU98Wm6oHWiah,Canção Amiga,Milton Nascimento,153866,exact,BREMI7800106,1,80a94394-5c87-4db3-98aa-1fbdc3275919,0,,,one_recording,isrc_exact_match
+MILTON,6,Catavento,true,7xFInF3GMAXSZXBPgIyYsb,Catavento,Milton Nascimento,134266,exact,BRMVM0200009,11,5c8ee219-c340-431d-b12d-3123a1064a52,0,,,text_fallback_several,text_oldest_match
+MILTON,7,Caxanga,true,5ustFvQIOuvK4DyIoSk40O,Caxangá,Elis Regina,193306,exact,BRMCA7700190,1,afdc0254-ec2d-4bb8-b773-3d6efbcb62e8,0,,,one_recording,isrc_exact_match
+MILTON,8,Clube da Esquina 2,true,1sdW2whJr8CLa6bMA67LPQ,Clube Da Esquina Nº 2,Milton Nascimento,218600,fuzzy,BREMI7100165,2,3e94d50c-3e36-472e-a2d7-1873006790f5,1,6fe82df3-ed02-4b4a-b0d8-8161a494c473,Clube da Esquina №2,several_recordings,isrc_oldest_match
+MILTON,9,Coracao civil,true,2dYRoAv60nga3XTTixt2oy,Coracao Civil,Milton Nascimento,193400,exact,BRMCA8900029,8,f8e7a138-2688-4982-8731-84fc06027273,0,,,text_fallback_several,text_oldest_match
+MILTON,10,Credo,true,6cz3yXL7XdhMnr4eJhncia,Credo,Milton Nascimento,184960,exact,BREMI7800169,1,7752a1d7-b3e1-4471-bfc8-8f8cdc3dc5d8,1,2710e45f-c6d7-416d-a007-aa0cdbcfc01c,Credo,one_recording,isrc_exact_match
+MILTON,11,Crenca,true,6qf22ugRsdAiUzieQv9Vdu,Crença,Milton Nascimento,196413,exact,BRMVM0200002,2,c399bb83-7187-4b54-a383-c7af1eaa26e4,0,,,text_fallback_several,text_oldest_match
+MILTON,12,Danca dos meninos,true,3clgpY3SghARigGylxNBCx,Dança dos Meninos,"Milton Nascimento, UAKTI",198200,exact,BRSME8700027,0,,0,,,text_fallback_failed,not_found
+MILTON,13,E dai,true,4FGJUXVN594vh7PBxFKoDW,E Daí (A Queda),Milton Nascimento,314906,normalized,BREMI7800174,1,6a888937-d3b0-4c3f-abe3-a7f45524c208,0,,,one_recording,isrc_exact_match
+MILTON,14,Maria Maria,true,1nl13AcSpiCKdbkhtvJoo7,Maria Maria,Milton Nascimento,184466,exact,BREMI7800105,3,1d55ff8b-c5e3-4a9e-8205-c081e5797d23,1,35d6ba7c-4105-4b1e-bff7-c94d0237b8a5,"Maria, Maria",several_recordings,isrc_oldest_match
+MILTON,15,Maria tres filhos,true,2izjYlNEvIiH5KmcI4HL6j,Maria Três Filhos,Milton Nascimento,96066,exact,BREMI7000313,2,63794136-7e30-4f3b-862f-fae2cb3efd8f,0,,,text_fallback_several,text_oldest_match
+MILTON,16,Milagre dos peixes,true,1PbWbwigi8DOoLMFLV0Ln3,Milagre Dos Peixes,Milton Nascimento,172533,exact,BRUM71704475,15,58177d2d-b204-4cac-8566-cfaa556cb63d,0,,,text_fallback_several,text_oldest_match
+MILTON,17,Morro Velho,true,6daWYAWyKveBmV2tB2DHKJ,Morro Velho,Milton Nascimento,276933,exact,BRMVM0200006,1,3fa3aba5-bfbe-4f5e-907c-ca05d89a65b3,0,,,one_recording,isrc_exact_match
+MILTON,18,Nada sera como antes,true,3o3fm0en7kMOBzR1YgKNFS,Nada Será Como Antes,"Milton Nascimento, Beto Guedes",203826,exact,BREMI7100543,2,2c59dcf4-6873-4efa-a468-b128c9fd42c0,1,ff2f5c53-60b8-3be7-b064-df35d40df8bd,Nada será como antes,several_recordings,isrc_oldest_match
+MILTON,19,Olha,true,1AaFZTH9D7qzEnkQ6WLL0i,Olha,Milton Nascimento,193226,exact,BRMCA8200192,1,1eef128e-efb7-4d6d-8239-374818fc52af,1,d420b72e-ae41-4717-8094-a26f90e8ed41,Olha,one_recording,isrc_exact_match
+MILTON,20,Os povos,true,4WRrbhBfRvpdt4QomOhcHZ,Os Povos,Milton Nascimento,270960,exact,BREMI7100166,1,a2f25e4a-3a3e-4626-8e5c-16f19aa0edde,1,9e97fab3-70b7-4a03-b8d7-c1da3be0e1af,Os povos,one_recording,isrc_exact_match
+MILTON,21,Outubro,true,4l6iig5LpOmM0YcS1nZTrL,Outubro,Milton Nascimento,214666,exact,BRMVM0200010,9,bcc8390f-da04-411a-bf9c-8af65d04ce38,0,,,text_fallback_several,text_oldest_match
+MILTON,22,Pieta,true,5zN0WfsqAzHSHjwkyyKORj,Pieta,Milton Nascimento,251866,exact,USSJ10500559,2,123d13b1-acc3-468e-93d5-8ffc17a63e36,0,,,text_fallback_several,text_oldest_match
+MILTON,23,Primeiro de maio,true,56g674dIhdwsagQVBbPoZ0,Primeiro De Maio,"Chico Buarque, Milton Nascimento",287600,exact,BRPGD7700018,1,887e54ca-6c02-4009-ba85-16f71bf9025d,1,3c9d2691-10b7-4f3f-8c1b-31e1c666e4d4,Primeiro de maio,one_recording,isrc_exact_match
+MILTON,24,Rio vermelho,true,0vuKC7Iy263soJHIdIbdrr,Rio Vermelho,Milton Nascimento,200386,exact,USAM16900025,1,25c24a45-8971-432b-9ed9-c4b82cd92266,0,,,text_fallback_one,text_exact_match
+MILTON,25,River Phoenix,true,3I1kfhyTdELPA5C1HloXJR,River Phoenix (Carta a um Jovem Ator),Milton Nascimento,204066,normalized,BRSME8700029,3,c7239417-e0c4-4e9e-8950-2744d779902b,0,,,text_fallback_several,text_oldest_match
+MILTON,26,Roupa nova,true,5YRbw2LreEiWsOpJvl0Khm,Roupa Nova,Milton Nascimento,174600,exact,BRPGD8000048,2,66e74f01-1d45-4355-83aa-990b62876344,1,b1249301-27c7-43e4-a989-28a1bb16e085,Roupa Nova,several_recordings,isrc_oldest_match
+MILTON,27,Saudades dos avioes da Panair,true,3iD3ybc13kgiEcKuZCXIpm,Saudade Dos Aviões Da Panair (Conversando No Bar) / Paula E Bebeto - Medley,Milton Nascimento,268666,fuzzy,BREMI7500679,1,38eed99a-1473-459d-be4d-d270d2878a29,0,,,one_recording,isrc_exact_match
+MILTON,28,Tarde,true,3je2CMgaIWKJIYraRA9rSC,Tarde,Milton Nascimento,226160,exact,BREMI6900344,7,de511321-50b5-4744-b026-9ddb087ac18a,0,,,text_fallback_several,text_oldest_match
+MILTON,29,Tema de Tostao,true,7FS8HOYEw7UoEmv0Ad1XmV,Tema De Tostão,Milton Nascimento,176706,exact,BREMI7000317,2,1191e614-872e-419b-93f8-d90c11112ef4,0,,,text_fallback_several,text_oldest_match
+MILTON,30,Travessia,true,6MN3vF1tGzG7nkAOLjK0YG,Travessia,Milton Nascimento,242013,exact,BRMVM0200004,1,06dd0ef0-50b4-47b7-93f8-fb2f491a93a5,0,,,one_recording,isrc_exact_match
+MILTON,31,Tres Pontas,true,0QRcAVy9uM1UTFZp6OUwNQ,Três Pontas,Milton Nascimento,164160,exact,BRMVM0200001,6,4d5401af-5438-4e41-821b-7b875f81f52f,0,,,text_fallback_several,text_oldest_match
+MILTON,32,Tristesse,true,1KgRdbcTSpDWkWVkssq3ki,Tristesse,"Milton Nascimento, Maria Rita",362133,exact,USSJ10500551,0,,0,,,text_fallback_failed,not_found
+MILTON,33,Um gosto de sol,true,4MwObkwylEpWbpVEZjsqSG,Um Gosto De Sol,Milton Nascimento,260600,exact,BREMI7100127,1,8a609eb4-6106-4d85-b6b4-02f401300d5c,1,bf88f0f7-697d-4761-8e5a-60d37fe97632,Um gosto de Sol,one_recording,isrc_exact_match
+MILTON,34,Vera Cruz,true,5sb1B0MVf56Syd1wU0j3hl,Vera Cruz,Milton Nascimento,189533,exact,USAM16900021,11,bfdbe458-4853-4f3e-80f9-b42377540e3b,0,,,text_fallback_several,text_oldest_match
+MILTON,35,Vida,true,38vpHKdwgcoPLHmswNTwTr,Vida,Milton Nascimento,248640,exact,BRUM70500211,25,ef52a393-e1c7-4c9a-a95a-dbe88981effe,0,,,text_fallback_several,text_oldest_match
+MILTON,36,Vidro e corte,true,3XHAt8hykDis9Mg8ikWlDA,Vidro E Corte,"Milton Nascimento, Pat Metheny",282440,exact,BRUM70600791,0,,0,,,text_fallback_failed,not_found
+MILTON,37,Pelo amor de Deus,true,6FHg7Ue39CmDXGLQoXMrT2,Pelo Amor De Deus,Milton Nascimento,126066,exact,BREMI7100168,1,6d8bc5e1-9ca3-438b-8298-72a21af5821b,1,460fa763-9bc2-4a2e-8bf4-ca62362798a1,Pelo amor de Deus,one_recording,isrc_exact_match
+MILTON,38,Cravo e canela,true,4VWdOayiIDPEZNf7qBRylL,Cravo E Canela,"Milton Nascimento, Lô Borges",151840,exact,BREMI7100097,1,663fe6a8-c7c3-47b8-a025-252cd679c336,1,86d86b37-1171-3d53-bbda-42bd9050bd18,Cravo e canela,one_recording,isrc_exact_match
+MILTON,39,Saidas e bandeiras,true,09hnFZ9stGVGKqoeEQZXRz,Saidas E Bandeiras (Exits And Flags),Milton Nascimento,285573,normalized,USGR10000324,2,30998a41-a7c5-4932-849f-dbdd57d8665a,0,,,text_fallback_several,text_oldest_match
+MILTON,40,San Vicente,true,2pFVNjxjAu24qGpNPxBqxj,San Vicente,Milton Nascimento,166573,exact,BREMI7100163,1,5c5d114b-ad0b-4f5a-8818-ab57cc6a680d,1,513299a5-fba9-4011-838f-54c34826dba3,San Vicente,one_recording,isrc_exact_match
+MILTON,41,A lagrima e o rio,true,6ecfNNklv2RHkhxwLy9pjj,A Lagrima e o Rio,Milton Nascimento,235000,exact,USSJ10500554,1,3cfa8d47-b13b-4165-9ea1-fcfaf1d8830b,0,,,text_fallback_one,text_exact_match
+MILTON,42,Ao que vai nascer,true,2iMeakYbl6icDiHxrdoJa9,Ao Que Vai Nascer,Milton Nascimento,202293,exact,BREMI7100171,1,27fb0677-9717-4f21-8ef8-04f843b9fd9c,1,8f31829c-9ccd-3df9-9bd1-f9645d3049f8,Ao que vai nascer,one_recording,isrc_exact_match
+MILTON,43,Cade,true,,,,,unmatched,,25,f61e59fa-16a9-43f7-9308-b39666e5bb42,,,,text_fallback_several,text_oldest_match
+MILTON,44,Coisas de Minas,true,62jb4Kg4YtycgukZXvcMB6,Coisas De Minas,Milton Nascimento,327440,exact,USWB10104904,1,8c031377-9488-401f-b6f9-00db24da8383,1,f2aab6da-17e6-400a-97f3-2ecc22c68fd6,Coisas de Minas,one_recording,isrc_exact_match
+MILTON,45,O cavaleiro,true,2hup8c2eZE2ER8yJWMmIlC,O Cavaleiro - The Rider,"Milton Nascimento, Dave O'Donnell, Russ Titelman",222506,normalized,USWB19601172,0,,0,,,text_fallback_failed,not_found
+MILTON,46,Estrelada,true,2kuZXuMrPJPe45PSFVkZEx,Estrelada,Milton Nascimento,301360,exact,USWB10104901,1,05857cb3-0bbd-47f9-8870-f895363fa044,1,726196f2-b93a-4d34-8593-a106cbef051c,Estrelada,one_recording,isrc_exact_match
+MILTON,47,Gira girou,true,72fJZLWoA1On0DJrUeaSEb,"Gira, Girou",Milton Nascimento,221880,exact,BRMVM0200007,6,eaa4f557-4881-4369-b038-a5dc2c0318e3,0,,,text_fallback_several,text_oldest_match
+MILTON,48,Leila,true,0rH6sZ3yD7DzuKiuX6yrIe,Leila (Venha Ser Feliz),Milton Nascimento,209666,normalized,BREMI7500681,1,582128ef-dac6-497b-9181-2a4000014174,0,,,one_recording,isrc_exact_match
+MILTON,49,Lilia,true,7jr8MCVN9KF5y0VGedkvD1,Lilia,Milton Nascimento,153666,exact,BREMI7100169,1,d08f5daf-e25f-42ce-b2d5-83adba1014da,1,6a419e80-0104-4885-87bc-483dbb921653,Lilia,one_recording,isrc_exact_match
+MILTON,50,Novena,true,1OWfD3LgGcjyD78U0tBmdT,Novena,Beto Guedes,240400,exact,BREMI7800567,1,1859ce8b-efeb-40f5-aefd-953d27b65eb3,0,,,text_fallback_one,text_exact_match
+RITA,1,Agora e moda,true,5Q2BpkTyjwDYWqTOf6PqgO,Agora É Moda,"Rita Lee, Roberto De Carvalho",261666,exact,BREMI7800554,0,,0,,,text_fallback_failed,not_found
+RITA,2,Agora so falta voce,true,45P18b0Ntbd3kf2ira3TGR,Agora Só Falta Você,Rita Lee,204760,exact,BREMI7500063,1,e9e22cb2-af9d-4685-9938-aa694f2c53c4,0,,,one_recording,isrc_exact_match
+RITA,3,Bandido corazon,true,39bcZwXscYhGJDQrplxYsp,Bandido corazón,Ney Matogrosso,211140,exact,BRWMB9804411,17,2086c209-179c-418a-92f6-5fb3062e54c6,0,,,text_fallback_several,text_oldest_match
+RITA,4,Banho de espuma,true,4ySIlRhVHfoH4uK3BL74Ql,Banho De Espuma,"Rita Lee, Roberto De Carvalho",222666,exact,BREMI8100786,2,9188219a-5d39-46df-a70e-9fb16895e6d0,1,91466add-dacd-473a-92ba-bd47379747aa,Banho de espuma,several_recordings,isrc_oldest_match
+RITA,5,Bwana,true,3s36rlMibPtbwiYSE0ivZL,Bwana,"Rita Lee, Roberto De Carvalho",238226,exact,BREMI8700063,0,,0,,,text_fallback_failed,not_found
+RITA,6,Com a boca no mundo,true,6WDNQHuCqVFmJ6esaWe2JN,Com A Boca No Mundo,Rita Lee,242333,exact,BREMI7600657,1,3851bb4b-8c31-485a-9c86-9cadfac56918,0,,,one_recording,isrc_exact_match
+RITA,7,Dancar pra nao dancar,true,5YIPPWTYteV0j7r4O7ZwVX,Dançar Pra Não Dançar,Rita Lee,253000,exact,BREMI7800052,3,59b50034-7d75-49e0-9238-763a69e68469,0,,,text_fallback_several,text_oldest_match
+RITA,8,Desculpe o aue,true,089k2n6Nv9nmdKymBhspCi,Desculpe O Auê,"Rita Lee, Roberto De Carvalho",177000,exact,BREMI8300075,3,62bdf2cf-08f0-4033-b371-fd094609ecaf,0,,,several_recordings,isrc_oldest_match
+RITA,9,Doce vampiro,true,5toSzfFqh7gfTLGWW3Z8Zv,Doce Vampiro,"Rita Lee, Roberto De Carvalho",268960,exact,BREMI7900076,4,c87a3e50-fe11-4de7-87e6-a3dafcaa9f1c,1,7ac92ea4-34c1-4169-8d3c-4f59da8e478a,Doce vampiro,several_recordings,isrc_oldest_match
+RITA,10,Esse tal de Roque Enrow,true,2vHmF6Sh84IChZ8GvNnvW3,Esse Tal De Roque Enrow,Rita Lee,232524,exact,BREMI7500064,2,8b0b3d54-07ae-4a5b-8e4b-596b804ef91a,0,,,several_recordings,isrc_oldest_match
+RITA,11,Flagra,true,0BhdLRHzJKgzCLS13ltjZL,Flagra,"Rita Lee, Roberto De Carvalho",214093,exact,BREMI8200106,2,1bda402b-4832-4ed0-a0b6-7ef981af94a7,0,,,several_recordings,isrc_oldest_match
+RITA,12,Jardins da Babilonia,true,1voq70uyXy4i3S1oJP48Hs,Jardins Da Babilônia,"Rita Lee, Roberto De Carvalho",190960,exact,BREMI7800053,2,0f486af1-c8c3-4dad-9c18-318adc6ae114,0,,,several_recordings,isrc_oldest_match
+RITA,13,Mamae natureza,true,4xN4Ur2h5tJGce8NqqfE00,Mamãe Natureza,Rita Lee,235960,exact,BRPGD7400006,10,e4a76240-abf7-420d-a738-ea922abbd1ec,0,,,text_fallback_several,text_oldest_match
+RITA,14,Menino bonito,true,2KP3zqq9MQarh2WwsuonoM,Menino Bonito,Rita Lee,166333,exact,BRPGD7400037,1,92bfec47-5b24-4652-ade8-0be8051bd002,0,,,one_recording,isrc_exact_match
+RITA,15,Miss Brasil 2000,true,4IqjfZERn3y3d8b2sChx20,Miss Brasil 2000,"Rita Lee, Roberto De Carvalho",79613,exact,BREMI7800161,1,45d38b80-97f6-4ad1-bea6-ce866fe53466,0,,,one_recording,isrc_exact_match
+RITA,16,Mutante,true,5rShS5dwU8nIe21jlQnbxK,Mutante,"Rita Lee, Roberto De Carvalho",204893,exact,BREMI8100787,2,d938c103-0515-451a-b17c-d3217ab01896,0,,,several_recordings,isrc_oldest_match
+RITA,17,Ovelha negra,true,5xpumjGGcdWvqWxYVrd7jI,Ovelha Negra,Rita Lee,338933,exact,BREMI7500065,2,9430aba2-0001-460c-93d7-711affc80174,0,,,several_recordings,isrc_oldest_match
+RITA,18,Pega rapaz,true,45DMSvUg2C8I2r7CBjfNM9,Pega Rapaz,"Rita Lee, Roberto De Carvalho",245266,exact,BREMI8700318,1,71ca42f2-13bf-402b-a3e9-5d563ba1309e,0,,,one_recording,isrc_exact_match
+RITA,19,Saude,true,1i01coCdrJQTyTkdY0GClx,Saúde,"Rita Lee, Roberto De Carvalho",301693,exact,BREMI8100976,2,09bd70eb-9556-4366-8696-61765d5064b3,0,,,several_recordings,isrc_oldest_match
+RITA,20,Shangrila,true,1CzMttkaD29w40H4pDrB60,Shangrila,"Rita Lee, Roberto De Carvalho",173733,exact,BREMI8000532,1,a6fdc6a4-f013-4f87-b83f-884ad616d8b0,0,,,one_recording,isrc_exact_match
+RITA,21,Te contei,true,5WXRWv3bhpIXiyqW48TB5D,Te Contei?,Sonia Burnier,98440,exact,BRRGE7800258,0,,0,,,text_fallback_failed,not_found
+RITA,22,Vote em mim,true,1hHn21LnjRBTuQQWivkRTd,Vote Em Mim,"Rita Lee, Roberto De Carvalho",262906,exact,BREMI8282047,1,d77a57a1-f184-4a14-a7c6-2ad81a2ac7b4,0,,,one_recording,isrc_exact_match
+RITA,23,Chega mais,true,4DIabg0zSDn6xoq810Spqn,Chega Mais,"Rita Lee, Roberto De Carvalho",234893,exact,BREMI7900078,2,4b37d1cd-72ca-467e-b00f-4d1639b55091,1,77c7857e-e0b7-4943-93a2-6d2df8c96b23,Chega mais,several_recordings,isrc_oldest_match
+RITA,24,Alo alo marciano,true,0wacj5AePmtFHt8mzdk6t4,"Alô, alô marciano",Elis Regina,240426,exact,BRWMB9600941,1,e131041a-369c-430f-9696-6d6cae433019,0,,,one_recording,isrc_exact_match
+RITA,25,Ando meio desligado,true,1MhkTY7vEuWR0VfDefE6Lf,Ando Meio Desligado,Os Mutantes,285920,exact,BRPGD7000016,2,c2fef2f8-46a9-4fcb-8df4-4be33370f9c7,1,5674a1e9-a6fe-3b38-8135-71d14fb8e4f3,Ando meio desligado,several_recordings,isrc_oldest_match
+RITA,26,Arrombou a festa,true,4ADrvCmrVGqWENNjzy3mwE,Arrombou A Festa,Rita Lee,222293,exact,BRUM71500916,7,f65f7449-8a70-4573-a6cd-f73f43d308e7,0,,,text_fallback_several,text_oldest_match
+RITA,27,Baila comigo,true,0dED0PRBM0fixceBz5s4XR,Baila Comigo,"Rita Lee, Roberto De Carvalho",330866,exact,BREMI7800069,4,7de12ede-66e6-4a08-a46c-ae93ebe36905,0,,,several_recordings,isrc_oldest_match
+RITA,28,Balada do louco,true,0Gj6ROsip9fKX9BTKSyVu6,Balada Do Louco,Os Mutantes,240706,exact,BRPGD7200054,7,9495b6d4-700d-4090-8f1e-be5e8e72a386,0,,,text_fallback_several,text_oldest_match
+RITA,29,Barata tonta,true,0ZDvuTgIwoqyoc6joK2MQS,Barata Tonta,"Rita Lee, Roberto De Carvalho",230466,exact,BREMI8282045,2,5dcb2ee3-f52a-4bb9-a0a4-730c3b109d5e,0,,,several_recordings,isrc_oldest_match
+RITA,30,Brazil com s,true,3mSl53o7JZWSd6rjsLwF7m,Brazil Com S,Patricia Marx,153000,exact,BR3442000014,0,,0,,,text_fallback_failed,not_found
+RITA,31,Caso serio,true,2HvuyQEnKR82zwfIuCBaWH,Caso Sério,"Rita Lee, Roberto De Carvalho",325160,exact,BREMI8000533,2,dd6d60e8-6823-4421-849d-c696370b9d82,0,,,several_recordings,isrc_oldest_match
+RITA,32,Cor de rosa choque,true,47FoEJ9kn86Cqaj5C47PGQ,Cor De Rosa Choque,"Rita Lee, Roberto De Carvalho",180893,exact,BREMI8202119,1,7b53a255-f0dd-4f8a-8405-d9230c129666,0,,,one_recording,isrc_exact_match
+RITA,33,Eu e o meu gato,true,1wFIrb4w6k3dY0fEH7AUrV,Eu E Meu Gato,"Rita Lee, Roberto De Carvalho",254626,fuzzy,BREMI7800663,0,,0,,,text_fallback_failed,not_found
+RITA,34,Lanca perfurme,true,0rAX31FT5w3ZQbQMUSkxy8,Lança Perfume,"Rita Lee, Roberto De Carvalho",127840,fuzzy,BREMI8000030,5,80f144de-a740-4d60-b230-f88eaf6c8fcd,0,,,several_recordings,isrc_oldest_match
+RITA,35,Mania de voce,true,6owwZC8gUvrBuygvOHaYXb,Mania De Você,"Rita Lee, Roberto De Carvalho",295106,exact,BREMI7500046,4,1d0c981b-9234-437f-a05f-c49bb72176d2,1,556315ed-12fb-4270-a50d-f88cfe0cb26d,Mania de você,several_recordings,isrc_oldest_match
+RITA,36,Nem luxo nem lixo,true,5Pn7ldcp8uOZmwPJ3rUf7b,Nem Luxo Nem Lixo,"Rita Lee, Roberto De Carvalho",305440,exact,BREMI8000065,1,739f8af1-b184-40eb-97be-1893bd2dd1a5,0,,,one_recording,isrc_exact_match
+RITA,37,Orra meu,true,6WKxX0jswMBKepsHF1n1c5,Orra Meu,"Rita Lee, Roberto De Carvalho",236160,exact,BREMI8000535,2,6a86ec90-ea42-4c1a-b194-09efa4d21bba,0,,,several_recordings,isrc_oldest_match
+RITA,38,Papai me empresta o carro,true,1m92OtUa48WnJeCky8wVls,Papai Me Empresta O Carro,"Rita Lee, Roberto De Carvalho",192573,exact,BREMI7900536,2,5ef92163-973d-4abb-b340-f9d5f3338860,1,33b1b541-d3cb-4fcc-bca7-eba62ac7dee9,"Papai, me empresta o carro",several_recordings,isrc_oldest_match
+RITA,39,Perigosa,true,0D3ttP5NNMQmyXUy4ZFivG,Perigosa,Frenéticas,200786,exact,BRWMB9705413,3,c4608943-c2d4-4962-8844-4da9874977d1,0,,,text_fallback_several,text_oldest_match
+RITA,40,Perto do fogo,true,0WEX9ohaUGSOYAc6qz4k29,Perto Do Fogo,"Rita Lee, Roberto De Carvalho",292160,exact,BREMI9000220,0,,0,,,text_fallback_failed,not_found
+RITA,41,So de voce,true,0pJ1eJkI9JGoNLy5C5VsR3,Só De Você,"Rita Lee, Roberto De Carvalho",253826,exact,BREMI8282048,2,f74dc680-263a-42ba-8115-2ddd92e5ae98,0,,,several_recordings,isrc_oldest_match
+RITA,42,Tititi,true,5nPYQSBGnHtb2Z1DTDin6T,Tititi (Galinhagem),"Rita Lee, Roberto De Carvalho",278373,normalized,BREMI8100978,1,81054192-83e3-40d3-9056-1a23c8713b16,0,,,one_recording,isrc_exact_match
+RITA,43,Corre-corre,true,5SiXCIXYNmKlyWML23uANq,Corre-Corre,"Rita Lee, Roberto De Carvalho",284666,exact,BREMI7900537,2,cc91faf9-0706-4f85-87a9-2266ed7e3782,1,0726ea94-0df2-414c-a553-afec32873f65,Corre‐corre,several_recordings,isrc_oldest_match
+RITA,44,Amor objeto,true,6Ooyckjf13OYfJqVqLFZcF,Amor Objeto,Ney Matogrosso,251333,exact,BRMCA8100233,1,c918a9f9-ced6-4510-ac98-42031ba9dc1a,0,,,one_recording,isrc_exact_match
+RITA,45,Ambicao,true,1S9HV3H2cjAb5TjGlLIrXf,Ambição,Rita Lee,189426,exact,BRUM71500920,2,02107df4-8a09-40e0-971e-ca048f3800d0,0,,,text_fallback_several,text_oldest_match
+RITA,46,Ando jururu,true,1mTsNetNj6C7IJMBPulmVv,Ando Jururu,Rita Lee,138640,exact,BRUM70600490,6,fb86ffd6-9109-4c88-bf65-f5f840d73a38,0,,,text_fallback_several,text_oldest_match
+RITA,47,Xuxuzinho,true,3HQN3KYTWX5KqM7mFyYg3l,Xuxuzinho,"Rita Lee, Roberto De Carvalho",178760,exact,BREMI8700322,2,e2b43181-b0b6-476b-bed8-9d14d4eb252e,0,,,several_recordings,isrc_oldest_match
+RITA,48,Fruto proibido,true,268CKtZVMh6RlUBDwjQuyY,Fruto Proibido,Rita Lee,124400,exact,BREMI7500738,1,a86c8da5-e450-44a2-bdb1-24484cbb0381,0,,,text_fallback_one,text_exact_match
+RITA,49,Livre outra vez,true,7i3QaQcm6LEIPmyp6PTkMN,Livre Outra Vez,"Rita Lee, Roberto De Carvalho",253706,exact,BREMI8800374,1,7ea89905-52c3-4b10-a678-90610f473c15,0,,,one_recording,isrc_exact_match
+RITA,50,O futuro me absolve,true,4vKsqvirdlj1ZeoAUdUTfB,O Futuro Me Absolve,"Rita Lee, Roberto De Carvalho",182640,exact,BREMI7800600,0,,0,,,text_fallback_failed,not_found
