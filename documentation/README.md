@@ -10,7 +10,7 @@ Reference material for reading the MPB Corpus. Two of the dataset's columns use 
 
 This folder contains two additional files, `r_letters_countermetricity_values.csv` and `chord_review_examples.pdf`, discussed below.
 
-For a full discussion of the theory regarding the data collection, see XXXX.
+For a full discussion of the theory regarding the data collection, see [de L. Almada et al. (2026)](https://doi.org/10.5334/tismir.357).
 
 ## Chord types — `chord_types.pdf`, `full_genealogy.pdf`
 

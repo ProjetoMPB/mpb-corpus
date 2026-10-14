@@ -2,7 +2,7 @@
 
 Companion code for:
 
-> "The MPB Corpus: A Dataset of Melody, Rhythm, Harmony, and Melody-Harmony Relationships in Brazilian Popular Music" — INSERT CITATION
+> de L. Almada, C., de Carvalho, H. T., & Martins, F. D. (2026). The MPB Corpus: A Dataset of Melody, Rhythm, Harmony, and Melody–Harmony Relationships in Brazilian Popular Music. *Transactions of the International Society for Music Information Retrieval*, 9(1), 565–587. https://doi.org/10.5334/tismir.357
 
 `analysis.ipynb` computes every metric proposed in the paper and reproduces every figure and table in it. All of them are discussed in the text.
 
@@ -69,26 +69,36 @@ cell works without it.
 
 ## Which corpus version the results come from
 
-The notebook reads the dataset from the repository it sits in:
+The published results were computed from **dataset version v1.1**, archived on
+Zenodo as [10.5281/zenodo.22737013](https://doi.org/10.5281/zenodo.22737013).
+
+The notebook does not read the dataset from the repository it sits in. It
+downloads it from GitHub, pinned in the first code cell:
+
+```python
+DATA = ("https://raw.githubusercontent.com/ProjetoMPB/mpb-corpus"
+        "/v1.1/dataset_aggregated")
+DOCS = ("https://raw.githubusercontent.com/ProjetoMPB/mpb-corpus"
+        "/af8fd507d716fa9b288624f5b389447a07de7816/documentation")
+```
+
+`DATA` points at the `v1.1` tag, the released dataset. `DOCS` points at a fixed
+commit rather than at `main`, because the documentation lives on `main`, which
+keeps changing, and one of its files
+(`r_letters_countermetricity_values.csv`) feeds the CMI computation. With both
+pinned, the published figures can be reproduced exactly however much the
+corpus grows afterwards. Running the notebook therefore needs an internet
+connection.
+
+To work offline, or against a later version of the corpus, swap in the local
+paths given in the comment in that cell:
 
 ```python
 DATA = "../../dataset_aggregated"
 DOCS = "../../documentation"
 ```
 
-That is convenient while the paper is being written, and wrong for an archived
-version — the corpus will grow, and figures regenerated years from now would no
-longer be the published ones. For the archived release, pin those paths to the
-released tag instead, as the comment in the first code cell describes:
-
-```python
-DATA = ("https://raw.githubusercontent.com/ProjetoMPB/mpb-corpus"
-        "/v1.0.0/dataset_aggregated")
-```
-
-**The dataset version behind the published figures is not yet recorded.** It
-should be stated here — git tag and Zenodo DOI — before this folder is
-archived.
+Results computed that way may differ from those in the article.
 
 ## A note on loading the data
 

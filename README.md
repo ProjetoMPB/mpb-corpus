@@ -1,8 +1,11 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19222221.svg)](https://doi.org/10.5281/zenodo.19222221)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19222220.svg)](https://doi.org/10.5281/zenodo.19222220)
+[![Article](https://img.shields.io/badge/TISMIR-10.5334%2Ftismir.357-blue)](https://doi.org/10.5334/tismir.357)
 
 The MPB Corpus is a dataset of 500 musical pieces from Brazilian Popular Music (MPB), encoded across four musical dimensions: melodic contour, melodic rhythm, harmony, and melody–harmony relationships. It provides a structured and detailed representation of musical information aimed at supporting research in computational musicology, music analysis, and data-driven studies of MPB. Overall, the MPB Corpus enables both qualitative and quantitative investigations, offering a foundation for systematically addressing musicological questions about the genre.
 
-When using the dataset, please read and cite the following article: INSERT CITATION
+The dataset and the methodology behind it are described in the following article, which we ask you to cite when using the corpus (a BibTeX entry is given under [Citation](#citation)):
+
+> de L. Almada, C., de Carvalho, H. T., & Martins, F. D. (2026). The MPB Corpus: A Dataset of Melody, Rhythm, Harmony, and Melody–Harmony Relationships in Brazilian Popular Music. *Transactions of the International Society for Music Information Retrieval*, 9(1), 565–587. https://doi.org/10.5334/tismir.357
 
 # The MPB corpus
 Melodic contour, melodic rhythm, harmony, and melody–harmony relationships annotations for 500 compositions of 10 composers of the Brazilian MPB. The methodology behind the annotations can be found in the article mentioned above.
@@ -61,7 +64,7 @@ This file contains the following columns:
 - `c_word`: Encoded melodic contour.
 - `r_word`: Encoded melodic rhythm.
 
-For a detailed description of the encoding, see INSERT CITATION.
+For a detailed description of the encoding, see [de L. Almada et al. (2026)](https://doi.org/10.5334/tismir.357).
 
 ### harmony.csv
 This file contains the following columns:
@@ -78,7 +81,7 @@ This file contains the following columns:
 - `mode`: Mode of the excerpt.
 - `position`: Measure number where the chord begins.
 
-The file `documentation/chord_types.pdf` provides a mapping between the genealogical notation and more familiar alphanumeric notation. For a detailed description of the encoding, see INSERT CITATION.
+The file `documentation/chord_types.pdf` provides a mapping between the genealogical notation and more familiar alphanumeric notation. For a detailed description of the encoding, see [de L. Almada et al. (2026)](https://doi.org/10.5334/tismir.357).
 
 ### note_function.csv
 This file contains the following columns:
@@ -90,10 +93,10 @@ This file contains the following columns:
 - `scale_degree`: Scale degree of the note relative to the global context.
 - `note_function`: Function of the note relative to the local harmonic context (inflections marked with "x").
 
-For a detailed description of the encoding, see INSERT CITATION.
+For a detailed description of the encoding, see [de L. Almada et al. (2026)](https://doi.org/10.5334/tismir.357).
 
 ## Encoding example
-The file `encoding_example.pdf` in this repository (Figure 6 in reference XXX) provides an example of how the data is annotated. See the step-by-step process below:
+The file `encoding_example.pdf` in this repository (Figure 6 in [de L. Almada et al., 2026](https://doi.org/10.5334/tismir.357)) provides an example of how the data is annotated. See the step-by-step process below:
 - Exerpt to be encoded (a)
 - Segment the melody into autonomous units (b)
 - Encode pitch in each segment as c-words (transitions between segments are ignored):
@@ -159,6 +162,39 @@ Links to the playlists are provided below (in order of analysis):
 - [Milton Nascimento](https://open.spotify.com/playlist/3JfQIADWnWdsTKNgOi8Iex)
 - [Gilberto Gil](https://open.spotify.com/playlist/37QMF6EuxOneQTLlFgLORg)
 - [Rita Lee](https://open.spotify.com/playlist/5N3gtetTypnsFvI3Sl3bEQ?si=4412bbb41f774d18&nd=1&dlsi=3955ff4a906b4163)
+
+## Citation
+If the MPB Corpus is useful in your work, please cite the article that introduces it. The same reference is available in [`CITATION.cff`](CITATION.cff), and from the *Cite this repository* button on GitHub.
+
+```bibtex
+@article{almada2026mpb,
+  author    = {de L. Almada, Carlos and de Carvalho, Hugo T. and Martins, Felipe D.},
+  title     = {The {MPB} Corpus: A Dataset of Melody, Rhythm, Harmony, and Melody--Harmony Relationships in {Brazilian} Popular Music},
+  journal   = {Transactions of the International Society for Music Information Retrieval},
+  volume    = {9},
+  number    = {1},
+  pages     = {565--587},
+  year      = {2026},
+  publisher = {Ubiquity Press},
+  doi       = {10.5334/tismir.357},
+  url       = {https://doi.org/10.5334/tismir.357}
+}
+```
+
+To refer to an exact version of the data, also cite the Zenodo DOI of that release (see [Versions and branches](#versions-and-branches)):
+
+| version | DOI |
+|---|---|
+| all versions (resolves to the latest) | [10.5281/zenodo.19222220](https://doi.org/10.5281/zenodo.19222220) |
+| v1.1 | [10.5281/zenodo.22737013](https://doi.org/10.5281/zenodo.22737013) |
+| v1.0 | [10.5281/zenodo.19222221](https://doi.org/10.5281/zenodo.19222221) |
+
+### Publications using the corpus
+Each publication has a companion folder under `papers/` that reproduces its results from a pinned version of the dataset.
+
+| publication | dataset version | companion code |
+|---|---|---|
+| de L. Almada, de Carvalho & Martins (2026). The MPB Corpus: A Dataset of Melody, Rhythm, Harmony, and Melody–Harmony Relationships in Brazilian Popular Music. *TISMIR* 9(1). [doi:10.5334/tismir.357](https://doi.org/10.5334/tismir.357) | v1.1 | [`papers/2026-tismir/`](papers/2026-tismir/) |
 
 ## License
 The material in this repository (code, dataset, and documentation) is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the material for any purpose, provided that appropriate credit is given to the authors and the source.

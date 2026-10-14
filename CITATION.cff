@@ -1,0 +1,105 @@
+# Citation metadata for the MPB Corpus (https://citation-file-format.github.io).
+#
+# The top level describes the dataset itself. `preferred-citation` is the
+# article that introduces it, and is what GitHub's "Cite this repository"
+# button shows; it should stay that article even as later papers appear.
+#
+# Later papers that use or extend the corpus go under `references`, one entry
+# each, with their companion folder under papers/ named in `notes`.
+#
+# The DOI below is Zenodo's concept DOI, which always resolves to the latest
+# release. Each released version also has its own DOI, listed under
+# `identifiers`; add one there whenever a new version is published.
+
+cff-version: 1.2.0
+message: >-
+  If you use the MPB Corpus, please cite the article that introduces it, as
+  given below. To refer to an exact version of the data, cite also the Zenodo
+  DOI of that release.
+type: dataset
+title: "MPB Corpus"
+abstract: >-
+  The MPB Corpus is a dataset of 500 musical pieces from Brazilian Popular
+  Music (MPB), by 10 composers, encoded across four musical dimensions:
+  melodic contour, melodic rhythm, harmony, and melody–harmony relationships.
+authors:
+  - given-names: Carlos
+    family-names: de L. Almada
+    orcid: "https://orcid.org/0000-0001-5888-2868"
+  - given-names: Hugo T.
+    family-names: de Carvalho
+    orcid: "https://orcid.org/0000-0003-0776-0400"
+  - given-names: Felipe D.
+    family-names: Martins
+    orcid: "https://orcid.org/0000-0002-9965-042X"
+doi: 10.5281/zenodo.19222220
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19222220
+    description: All versions of the dataset (resolves to the latest)
+  - type: doi
+    value: 10.5281/zenodo.22737013
+    description: Dataset version v1.1
+  - type: doi
+    value: 10.5281/zenodo.19222221
+    description: Dataset version v1.0
+repository-code: "https://github.com/ProjetoMPB/mpb-corpus"
+license: CC-BY-4.0
+keywords:
+  - Brazilian popular music
+  - MPB
+  - symbolic music dataset
+  - melodic contour
+  - melodic rhythm
+  - harmony
+  - computational musicology
+
+preferred-citation:
+  type: article
+  title: >-
+    The MPB Corpus: A Dataset of Melody, Rhythm, Harmony, and
+    Melody–Harmony Relationships in Brazilian Popular Music
+  authors:
+    - given-names: Carlos
+      family-names: de L. Almada
+      orcid: "https://orcid.org/0000-0001-5888-2868"
+    - given-names: Hugo T.
+      family-names: de Carvalho
+      orcid: "https://orcid.org/0000-0003-0776-0400"
+    - given-names: Felipe D.
+      family-names: Martins
+      orcid: "https://orcid.org/0000-0002-9965-042X"
+  journal: Transactions of the International Society for Music Information Retrieval
+  publisher:
+    name: Ubiquity Press
+  volume: 9
+  issue: 1
+  start: 565
+  end: 587
+  year: 2026
+  issn: 2514-3298
+  doi: 10.5334/tismir.357
+  url: "https://doi.org/10.5334/tismir.357"
+
+# Papers that use or extend the corpus. The article above is listed here too,
+# so that this list is the complete record; append new papers after it.
+references:
+  - type: article
+    title: >-
+      The MPB Corpus: A Dataset of Melody, Rhythm, Harmony, and
+      Melody–Harmony Relationships in Brazilian Popular Music
+    authors:
+      - given-names: Carlos
+        family-names: de L. Almada
+      - given-names: Hugo T.
+        family-names: de Carvalho
+      - given-names: Felipe D.
+        family-names: Martins
+    journal: Transactions of the International Society for Music Information Retrieval
+    volume: 9
+    issue: 1
+    start: 565
+    end: 587
+    year: 2026
+    doi: 10.5334/tismir.357
+    notes: "Companion code: papers/2026-tismir/ (dataset v1.1)"
